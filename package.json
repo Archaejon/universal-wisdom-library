@@ -1,0 +1,49 @@
+{
+  "name": "universal-wisdom-library",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "bun run scripts/build.ts",
+    "dev": "bun run scripts/dev.ts",
+    "start": "bun run scripts/start.ts",
+    "db:reset": "bun run scripts/seed.ts --reset",
+    "db:rebuild": "bun run scripts/seed.ts --reset && bun run scripts/dev/index-streams.ts",
+    "import:fox": "bun run scripts/dev/import-gutenberg-fox.ts",
+    "import:tao-te-ching": "bun run scripts/dev/import-tao-te-ching.ts",
+    "import:sefaria": "bun run scripts/dev/import-sefaria-tanakh.ts",
+    "import:mishnah": "bun run scripts/dev/import-sefaria-mishnah.ts",
+    "import:sefaria-library": "bun run scripts/dev/import-sefaria-library.ts",
+    "import:christian": "bun run scripts/dev/import-christian-sources.ts",
+    "import:islamic": "bun run scripts/dev/import-islamic-sources.ts",
+    "import:islamic-expansion": "bun run scripts/dev/import-islamic-expansion.ts",
+    "import:openiti": "bun run scripts/dev/import-openiti.ts",
+    "index:streams": "bun run scripts/dev/index-streams.ts",
+    "backfill:cjk": "bun run scripts/dev/backfill-cjk-unigrams.ts",
+    "import:hindu": "bun run scripts/dev/import-hindu-sources.ts",
+    "import:gita": "bun run scripts/dev/import-gita.ts",
+    "import:sacred-texts": "bun run scripts/dev/import-sacred-texts.ts",
+    "import:gretil": "bun run scripts/dev/import-gretil.ts",
+    "import:bahai": "bun run scripts/dev/import-bahai.ts",
+    "import:srigranth": "bun run scripts/dev/import-srigranth.ts",
+    "normalize:categories": "bun run scripts/dev/normalize-work-categories.ts",
+    "check:sources": "bun run scripts/check-sources.ts",
+    "duplicates": "bun run scripts/find-duplicates.ts",
+    "generate:extensions": "bun run scripts/dev/generate-extension-corpus.ts",
+    "export:corpus": "bun run scripts/dev/export-corpus.ts",
+    "test": "bun test",
+    "import:ctext": "bun run scripts/dev/import-ctext.ts",
+    "import:ccel": "bun run scripts/dev/import-ccel.ts",
+    "import:shinto": "bun run scripts/dev/import-shinto.ts",
+    "import:jain": "bun run scripts/dev/import-jain.ts"
+  },
+  "dependencies": {
+    "react": "19",
+    "react-dom": "19"
+  },
+  "devDependencies": {
+    "@types/bun": "^1.4.3",
+    "@types/react": "19",
+    "@types/react-dom": "19"
+  }
+}

@@ -1,0 +1,22 @@
+# Dependencies
+node_modules/
+
+# Derived data: the SQLite library (9.4 GB), the corpus it is seeded from
+# (1.4 GB) and the import caches (341 MB). Rebuild with `bun run db:reset`;
+# `bun run export:corpus` writes the corpus back out of the database.
+data/
+
+# Build output of `bun run build`
+public/
+dist/
+
+# Tooling state and local scratch
+.freebuff/
+.tmp-*
+*.log
+.DS_Store
+
+# Secrets and local overrides
+.env
+.env.*
+!.env.example
