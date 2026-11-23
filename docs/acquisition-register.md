@@ -96,3 +96,21 @@ terms with the Community's copyright notice, and are not relicensed. The works
 are written by the importer, which records a target for every work it imports,
 so the register and the shelf cannot disagree. The pass is described in
 [bahai-expansion.md](bahai-expansion.md).
+
+The thin-shelves pass of 19 November 2026 added 35 targets. Eight are Greek
+and Latin Christian texts found in Open Greek and Latin but not imported: six
+are `rights_blocked` because the only transcription is of a Loeb edition
+printed after 1929, and two (Irenaeus, the Latin *Passio Perpetuae*) are
+`located` but need text repair. Seven are Islamic law: the Sunan al-Darimi lead
+now points at the right OpenITI file, and five Arabic works and three English
+translations are listed. The remaining 20 cover the traditions whose texts
+need permission: Quaker, Unitarian Universalist, Latter-day Saint, Tenrikyo,
+Cao Dai, Rastafari, Indigenous, Wicca, Druidry, Eckankar, Unificationism,
+Seicho-no-Ie, Oomoto and World Messianity. Each copyright-held work is
+`rights_blocked` with the body to ask; where a public-domain text exists (Woolman,
+Barclay, Channing, the 1830 Book of Mormon, the 1835 Doctrine and Covenants, the
+Holy Piby, Barddas) it is listed as `wanted` so the shelf can grow while
+permission is sought. Indigenous material is held for community consent even
+where old records are out of copyright. See
+[fiqh-expansion.md](fiqh-expansion.md) and
+[greek-latin-originals.md](greek-latin-originals.md).

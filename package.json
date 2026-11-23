@@ -18,6 +18,7 @@
     "import:islamic": "bun run scripts/dev/import-islamic-sources.ts",
     "import:islamic-expansion": "bun run scripts/dev/import-islamic-expansion.ts",
     "import:openiti": "bun run scripts/dev/import-openiti.ts",
+    "import:ogl": "bun run scripts/dev/import-ogl.ts",
     "index:streams": "bun run scripts/dev/index-streams.ts",
     "backfill:cjk": "bun run scripts/dev/backfill-cjk-unigrams.ts",
     "import:hindu": "bun run scripts/dev/import-hindu-sources.ts",
