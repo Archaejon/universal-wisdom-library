@@ -1,0 +1,962 @@
+{
+  "slug": "feast-of-lanterns",
+  "title": "A Feast of Lanterns",
+  "originalTitle": "",
+  "transliteration": "",
+  "altTitles": [
+    "A Feast of Lanterns: Translations from the Chinese"
+  ],
+  "tradition": "confucianism",
+  "school": "confucian",
+  "genre": "Poetry",
+  "textType": "Translations with commentary",
+  "category": "Poetry",
+  "subcategory": "Chinese poetry in translation",
+  "originalLanguage": "zh",
+  "dateStart": -1000,
+  "dateEnd": 1916,
+  "dateDisplay": "Poems from antiquity to the early 20th century; published 1916",
+  "authorshipStatus": "composite",
+  "author": "",
+  "attributionNote": "A selection of Chinese poems translated by Launcelot Cranmer-Byng, with his introductory essays on Chinese verse form and the epochs of Chinese poetry. The poems are English renderings of Chinese originals, not the work of the translator alone.",
+  "description": "A Feast of Lanterns is an anthology of Chinese poetry in English: the tomb inscriptions and anonymous airs of the earliest period, Tang and Song poems of parting, wine, moonlight and the frontier, and the palace verse of later dynasties, with Cranmer-Byng's essays on how Chinese verse is built and on the periods of its history. Its taste for the short lyric shaped the English reading of Chinese poetry for a generation.",
+  "historicalContext": "Cranmer-Byng edited the Wisdom of the East series, in which this and his Book of Odes appeared; his translations are free, verse-paraphrases rather than literal renderings, and are presented here as English poems made from Chinese originals. The volume was published in London in 1916.",
+  "availabilityNote": "Complete: the poems and the essays on Chinese verse, streamed from the Internet Sacred Text Archive at read time, one poem or section per chapter. The editorial note, the table of contents and the advertisements at the end of the volume are not part of the work.",
+  "featured": false,
+  "featuredNote": "",
+  "refScheme": "poem.paragraph",
+  "isSample": false,
+  "textStorage": "streamed",
+  "chapters": [
+    {
+      "ref": "1",
+      "label": "Lines From the Tomb of an Unknown Woman"
+    },
+    {
+      "ref": "2",
+      "label": "A Word From The Wind"
+    },
+    {
+      "ref": "3",
+      "label": "A King of Tang"
+    },
+    {
+      "ref": "4",
+      "label": "While Roses Fall"
+    },
+    {
+      "ref": "5",
+      "label": "Li Po"
+    },
+    {
+      "ref": "6",
+      "label": "Along the Stream"
+    },
+    {
+      "ref": "7",
+      "label": "The Palace of Chao-Yang"
+    },
+    {
+      "ref": "8",
+      "label": "The Two Visits"
+    },
+    {
+      "ref": "9",
+      "label": "Spring Rhapsodies: I. Delight"
+    },
+    {
+      "ref": "10",
+      "label": "II. Sadness"
+    },
+    {
+      "ref": "11",
+      "label": "III. Sorrow"
+    },
+    {
+      "ref": "12",
+      "label": "Bright Autumntide"
+    },
+    {
+      "ref": "13",
+      "label": "Tu Fu"
+    },
+    {
+      "ref": "14",
+      "label": "In Exile"
+    },
+    {
+      "ref": "15",
+      "label": "The Ghost-Road"
+    },
+    {
+      "ref": "16",
+      "label": "Sailing Across Lake Mei-Pei"
+    },
+    {
+      "ref": "17",
+      "label": "Ch‘ang-Ch‘ien"
+    },
+    {
+      "ref": "18",
+      "label": "The Tomb of Chao-Chün"
+    },
+    {
+      "ref": "19",
+      "label": "Boating Song of the Yo Eh"
+    },
+    {
+      "ref": "20",
+      "label": "Disappointment"
+    },
+    {
+      "ref": "21",
+      "label": "In Yung-Yang"
+    },
+    {
+      "ref": "22",
+      "label": "Rain at Dawn"
+    },
+    {
+      "ref": "23",
+      "label": "Myself"
+    },
+    {
+      "ref": "24",
+      "label": "Morning Studies"
+    },
+    {
+      "ref": "25",
+      "label": "The Little Crow"
+    },
+    {
+      "ref": "26",
+      "label": "At Forty-One"
+    },
+    {
+      "ref": "27",
+      "label": "A Night on Lake T‘ai"
+    },
+    {
+      "ref": "28",
+      "label": "Return"
+    },
+    {
+      "ref": "29",
+      "label": "The Pavillion of Abounding Joy"
+    },
+    {
+      "ref": "30",
+      "label": "Wild Geese"
+    },
+    {
+      "ref": "31",
+      "label": "Bell Hill"
+    },
+    {
+      "ref": "32",
+      "label": "Songs of the Night"
+    },
+    {
+      "ref": "33",
+      "label": "At the Parting Ways"
+    },
+    {
+      "ref": "34",
+      "label": "Dreaming at Golden Hill"
+    },
+    {
+      "ref": "35",
+      "label": "At the Kuang-Li Pavilion"
+    },
+    {
+      "ref": "36",
+      "label": "Farewell to Chao Tâ-Lin"
+    },
+    {
+      "ref": "37",
+      "label": "On the River at Hui-Ch‘ung"
+    },
+    {
+      "ref": "38",
+      "label": "Listening to the Harp"
+    },
+    {
+      "ref": "39",
+      "label": "Autumn Moonlight"
+    },
+    {
+      "ref": "40",
+      "label": "Morning"
+    },
+    {
+      "ref": "41",
+      "label": "Evening"
+    },
+    {
+      "ref": "42",
+      "label": "Song of Three Gorges"
+    },
+    {
+      "ref": "43",
+      "label": "Autumn Thoughts"
+    },
+    {
+      "ref": "44",
+      "label": "On Waking From Sleep"
+    },
+    {
+      "ref": "45",
+      "label": "Riding by Moonlight"
+    },
+    {
+      "ref": "46",
+      "label": "The Convent of Siang-Fu"
+    },
+    {
+      "ref": "47",
+      "label": "Night, Sorrow, and Song"
+    },
+    {
+      "ref": "48",
+      "label": "Lines Written in Exile"
+    },
+    {
+      "ref": "49",
+      "label": "Plum Blossom"
+    },
+    {
+      "ref": "50",
+      "label": "Calycanthus Flower"
+    },
+    {
+      "ref": "51",
+      "label": "Yuan Mei"
+    },
+    {
+      "ref": "52",
+      "label": "A Feast of Lanterns"
+    },
+    {
+      "ref": "53",
+      "label": "A Medley of Perfume"
+    },
+    {
+      "ref": "54",
+      "label": "Willow Flowers"
+    },
+    {
+      "ref": "55",
+      "label": "Illusion"
+    },
+    {
+      "ref": "56",
+      "label": "The Secret Land"
+    },
+    {
+      "ref": "57",
+      "label": "In an Old Library"
+    },
+    {
+      "ref": "58",
+      "label": "A Challenge From the Moon"
+    },
+    {
+      "ref": "59",
+      "label": "After the Rain"
+    },
+    {
+      "ref": "60",
+      "label": "Home"
+    }
+  ],
+  "passages": [
+    {
+      "reference": "1.1",
+      "label": "Lines From the Tomb of an Unknown Woman §1",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.2",
+      "label": "Lines From the Tomb of an Unknown Woman §2",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "2.1",
+      "label": "A Word From The Wind §1",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.2",
+      "label": "A Word From The Wind §2",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "3.1",
+      "label": "A King of Tang §1",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.2",
+      "label": "A King of Tang §2",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.3",
+      "label": "A King of Tang §3",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.4",
+      "label": "A King of Tang §4",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.5",
+      "label": "A King of Tang §5",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "4.1",
+      "label": "While Roses Fall §1",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.2",
+      "label": "While Roses Fall §2",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "5.1",
+      "label": "Li Po §1",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.2",
+      "label": "Li Po §2",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.3",
+      "label": "Li Po §3",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.4",
+      "label": "Li Po §4",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "6.1",
+      "label": "Along the Stream §1",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "7.1",
+      "label": "The Palace of Chao-Yang §1",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.2",
+      "label": "The Palace of Chao-Yang §2",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "8.1",
+      "label": "The Two Visits §1",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.2",
+      "label": "The Two Visits §2",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "9.1",
+      "label": "Spring Rhapsodies: I. Delight §1",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.2",
+      "label": "Spring Rhapsodies: I. Delight §2",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.3",
+      "label": "Spring Rhapsodies: I. Delight §3",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.4",
+      "label": "Spring Rhapsodies: I. Delight §4",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.5",
+      "label": "Spring Rhapsodies: I. Delight §5",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "10.1",
+      "label": "II. Sadness §1",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.2",
+      "label": "II. Sadness §2",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.3",
+      "label": "II. Sadness §3",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.4",
+      "label": "II. Sadness §4",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.5",
+      "label": "II. Sadness §5",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "11.1",
+      "label": "III. Sorrow §1",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "12.1",
+      "label": "Bright Autumntide §1",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.2",
+      "label": "Bright Autumntide §2",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "13.1",
+      "label": "Tu Fu §1",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.2",
+      "label": "Tu Fu §2",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.3",
+      "label": "Tu Fu §3",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.4",
+      "label": "Tu Fu §4",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "14.1",
+      "label": "In Exile §1",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.2",
+      "label": "In Exile §2",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "15.1",
+      "label": "The Ghost-Road §1",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.2",
+      "label": "The Ghost-Road §2",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.3",
+      "label": "The Ghost-Road §3",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "16.1",
+      "label": "Sailing Across Lake Mei-Pei §1",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.2",
+      "label": "Sailing Across Lake Mei-Pei §2",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.3",
+      "label": "Sailing Across Lake Mei-Pei §3",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.4",
+      "label": "Sailing Across Lake Mei-Pei §4",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.5",
+      "label": "Sailing Across Lake Mei-Pei §5",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.6",
+      "label": "Sailing Across Lake Mei-Pei §6",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.7",
+      "label": "Sailing Across Lake Mei-Pei §7",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "17.1",
+      "label": "Ch‘ang-Ch‘ien §1",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "18.1",
+      "label": "The Tomb of Chao-Chün §1",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.2",
+      "label": "The Tomb of Chao-Chün §2",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "19.1",
+      "label": "Boating Song of the Yo Eh §1",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.2",
+      "label": "Boating Song of the Yo Eh §2",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "20.1",
+      "label": "Disappointment §1",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.2",
+      "label": "Disappointment §2",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.3",
+      "label": "Disappointment §3",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.4",
+      "label": "Disappointment §4",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "21.1",
+      "label": "In Yung-Yang §1",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.2",
+      "label": "In Yung-Yang §2",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.3",
+      "label": "In Yung-Yang §3",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.4",
+      "label": "In Yung-Yang §4",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.5",
+      "label": "In Yung-Yang §5",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.6",
+      "label": "In Yung-Yang §6",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "22.1",
+      "label": "Rain at Dawn §1",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "23.1",
+      "label": "Myself §1",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "24.1",
+      "label": "Morning Studies §1",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "25.1",
+      "label": "The Little Crow §1",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "26.1",
+      "label": "At Forty-One §1",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.2",
+      "label": "At Forty-One §2",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "27.1",
+      "label": "A Night on Lake T‘ai §1",
+      "chapterRef": "27"
+    },
+    {
+      "reference": "27.2",
+      "label": "A Night on Lake T‘ai §2",
+      "chapterRef": "27"
+    },
+    {
+      "reference": "28.1",
+      "label": "Return §1",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "28.2",
+      "label": "Return §2",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "29.1",
+      "label": "The Pavillion of Abounding Joy §1",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "30.1",
+      "label": "Wild Geese §1",
+      "chapterRef": "30"
+    },
+    {
+      "reference": "31.1",
+      "label": "Bell Hill §1",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "32.1",
+      "label": "Songs of the Night §1",
+      "chapterRef": "32"
+    },
+    {
+      "reference": "32.2",
+      "label": "Songs of the Night §2",
+      "chapterRef": "32"
+    },
+    {
+      "reference": "32.3",
+      "label": "Songs of the Night §3",
+      "chapterRef": "32"
+    },
+    {
+      "reference": "33.1",
+      "label": "At the Parting Ways §1",
+      "chapterRef": "33"
+    },
+    {
+      "reference": "33.2",
+      "label": "At the Parting Ways §2",
+      "chapterRef": "33"
+    },
+    {
+      "reference": "34.1",
+      "label": "Dreaming at Golden Hill §1",
+      "chapterRef": "34"
+    },
+    {
+      "reference": "34.2",
+      "label": "Dreaming at Golden Hill §2",
+      "chapterRef": "34"
+    },
+    {
+      "reference": "35.1",
+      "label": "At the Kuang-Li Pavilion §1",
+      "chapterRef": "35"
+    },
+    {
+      "reference": "36.1",
+      "label": "Farewell to Chao Tâ-Lin §1",
+      "chapterRef": "36"
+    },
+    {
+      "reference": "37.1",
+      "label": "On the River at Hui-Ch‘ung §1",
+      "chapterRef": "37"
+    },
+    {
+      "reference": "38.1",
+      "label": "Listening to the Harp §1",
+      "chapterRef": "38"
+    },
+    {
+      "reference": "38.2",
+      "label": "Listening to the Harp §2",
+      "chapterRef": "38"
+    },
+    {
+      "reference": "38.3",
+      "label": "Listening to the Harp §3",
+      "chapterRef": "38"
+    },
+    {
+      "reference": "39.1",
+      "label": "Autumn Moonlight §1",
+      "chapterRef": "39"
+    },
+    {
+      "reference": "40.1",
+      "label": "Morning §1",
+      "chapterRef": "40"
+    },
+    {
+      "reference": "41.1",
+      "label": "Evening §1",
+      "chapterRef": "41"
+    },
+    {
+      "reference": "42.1",
+      "label": "Song of Three Gorges §1",
+      "chapterRef": "42"
+    },
+    {
+      "reference": "42.2",
+      "label": "Song of Three Gorges §2",
+      "chapterRef": "42"
+    },
+    {
+      "reference": "43.1",
+      "label": "Autumn Thoughts §1",
+      "chapterRef": "43"
+    },
+    {
+      "reference": "44.1",
+      "label": "On Waking From Sleep §1",
+      "chapterRef": "44"
+    },
+    {
+      "reference": "44.2",
+      "label": "On Waking From Sleep §2",
+      "chapterRef": "44"
+    },
+    {
+      "reference": "45.1",
+      "label": "Riding by Moonlight §1",
+      "chapterRef": "45"
+    },
+    {
+      "reference": "45.2",
+      "label": "Riding by Moonlight §2",
+      "chapterRef": "45"
+    },
+    {
+      "reference": "45.3",
+      "label": "Riding by Moonlight §3",
+      "chapterRef": "45"
+    },
+    {
+      "reference": "45.4",
+      "label": "Riding by Moonlight §4",
+      "chapterRef": "45"
+    },
+    {
+      "reference": "45.5",
+      "label": "Riding by Moonlight §5",
+      "chapterRef": "45"
+    },
+    {
+      "reference": "45.6",
+      "label": "Riding by Moonlight §6",
+      "chapterRef": "45"
+    },
+    {
+      "reference": "46.1",
+      "label": "The Convent of Siang-Fu §1",
+      "chapterRef": "46"
+    },
+    {
+      "reference": "46.2",
+      "label": "The Convent of Siang-Fu §2",
+      "chapterRef": "46"
+    },
+    {
+      "reference": "46.3",
+      "label": "The Convent of Siang-Fu §3",
+      "chapterRef": "46"
+    },
+    {
+      "reference": "47.1",
+      "label": "Night, Sorrow, and Song §1",
+      "chapterRef": "47"
+    },
+    {
+      "reference": "47.2",
+      "label": "Night, Sorrow, and Song §2",
+      "chapterRef": "47"
+    },
+    {
+      "reference": "47.3",
+      "label": "Night, Sorrow, and Song §3",
+      "chapterRef": "47"
+    },
+    {
+      "reference": "47.4",
+      "label": "Night, Sorrow, and Song §4",
+      "chapterRef": "47"
+    },
+    {
+      "reference": "48.1",
+      "label": "Lines Written in Exile §1",
+      "chapterRef": "48"
+    },
+    {
+      "reference": "48.2",
+      "label": "Lines Written in Exile §2",
+      "chapterRef": "48"
+    },
+    {
+      "reference": "49.1",
+      "label": "Plum Blossom §1",
+      "chapterRef": "49"
+    },
+    {
+      "reference": "49.2",
+      "label": "Plum Blossom §2",
+      "chapterRef": "49"
+    },
+    {
+      "reference": "49.3",
+      "label": "Plum Blossom §3",
+      "chapterRef": "49"
+    },
+    {
+      "reference": "50.1",
+      "label": "Calycanthus Flower §1",
+      "chapterRef": "50"
+    },
+    {
+      "reference": "51.1",
+      "label": "Yuan Mei §1",
+      "chapterRef": "51"
+    },
+    {
+      "reference": "52.1",
+      "label": "A Feast of Lanterns §1",
+      "chapterRef": "52"
+    },
+    {
+      "reference": "53.1",
+      "label": "A Medley of Perfume §1",
+      "chapterRef": "53"
+    },
+    {
+      "reference": "54.1",
+      "label": "Willow Flowers §1",
+      "chapterRef": "54"
+    },
+    {
+      "reference": "55.1",
+      "label": "Illusion §1",
+      "chapterRef": "55"
+    },
+    {
+      "reference": "56.1",
+      "label": "The Secret Land §1",
+      "chapterRef": "56"
+    },
+    {
+      "reference": "56.2",
+      "label": "The Secret Land §2",
+      "chapterRef": "56"
+    },
+    {
+      "reference": "56.3",
+      "label": "The Secret Land §3",
+      "chapterRef": "56"
+    },
+    {
+      "reference": "56.4",
+      "label": "The Secret Land §4",
+      "chapterRef": "56"
+    },
+    {
+      "reference": "56.5",
+      "label": "The Secret Land §5",
+      "chapterRef": "56"
+    },
+    {
+      "reference": "57.1",
+      "label": "In an Old Library §1",
+      "chapterRef": "57"
+    },
+    {
+      "reference": "58.1",
+      "label": "A Challenge From the Moon §1",
+      "chapterRef": "58"
+    },
+    {
+      "reference": "59.1",
+      "label": "After the Rain §1",
+      "chapterRef": "59"
+    },
+    {
+      "reference": "59.2",
+      "label": "After the Rain §2",
+      "chapterRef": "59"
+    },
+    {
+      "reference": "59.3",
+      "label": "After the Rain §3",
+      "chapterRef": "59"
+    },
+    {
+      "reference": "60.1",
+      "label": "Home §1",
+      "chapterRef": "60"
+    },
+    {
+      "reference": "60.2",
+      "label": "Home §2",
+      "chapterRef": "60"
+    }
+  ],
+  "editions": [
+    {
+      "slug": "feast-of-lanterns-en",
+      "language": "en",
+      "editionType": "translation",
+      "title": "A Feast of Lanterns",
+      "translator": "L. Cranmer-Byng",
+      "publisher": "Internet Sacred Text Archive",
+      "publicationYear": 1916,
+      "source": "sacred-texts",
+      "license": "public-domain",
+      "rightsStatus": "Public domain in the United States",
+      "attributionText": "A Feast of Lanterns, translated by L. Cranmer-Byng (1916). John Murray, London. Public domain in the United States. Digital text from the Internet Sacred Text Archive.",
+      "structureScheme": "poem and paragraph index; each chapter is one printed poem or essay",
+      "isSample": false,
+      "notes": "The import cache stores the exact segments that were validated. The reader re-fetches the chapter from the host and reports when the served count no longer matches the index."
+    }
+  ]
+}

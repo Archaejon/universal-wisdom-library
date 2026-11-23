@@ -1,0 +1,7731 @@
+{
+  "slug": "lalitavistara",
+  "title": "The Lalitavistara — the Sanskrit text",
+  "originalTitle": "ललितविस्तर",
+  "transliteration": "Lalitavistara",
+  "altTitles": [
+    "Lalitavistara Sutra",
+    "The Extensive Play"
+  ],
+  "tradition": "buddhism",
+  "school": "",
+  "genre": "Scripture",
+  "textType": "Mahayana sutra in prose and verse",
+  "category": "Mahayana",
+  "subcategory": "Buddha biography",
+  "originalLanguage": "sa",
+  "dateStart": -100,
+  "dateEnd": 300,
+  "dateDisplay": "c. 1st century BCE–3rd century CE",
+  "authorshipStatus": "anonymous",
+  "author": "",
+  "attributionNote": "A Mahayana sutra on the life of the Buddha, transmitted without an author: the Sarvāstivāda life of the Buddha elaborated with the Bodhisattva's career and the pure lands, and read as scripture rather than as biography. GRETIL's e-text follows P. L. Vaidya's edition (Darbhanga 1958, Buddhist Sanskrit Texts 1) and was input by the Digital Sanskrit Buddhist Canon Input Project.",
+  "description": "The Lalitavistara tells the Buddha's life as a cosmic play: the descent from the Tuṣita heaven, the conception and the dream of Māyā, the birth in Lumbinī and the terrestrial signs, the childhood and the lessons that outran his teachers, the women of the palace, the four encounters, the departure, the six years of asceticism, the defeat of Māra, the awakening, and the sermons of the first turning and of the great assembly at Varanasi, closing with the Bodhisattva's vows and the cosmic audiences that surround them — the fullest biography of the Buddha in the Sanskrit canon of the Mahayana.",
+  "historicalContext": "The text took its present form in the centuries around the turn of the era and was translated into Chinese in the third century and into Tibetan soon after; it shaped Buddhist art from Gandhara to Borobudur, and is the source through which the Buddha's life was told as scripture rather than as legend.",
+  "availabilityNote": "Complete as GRETIL publishes it: all twenty-seven parivartas, 1,515 passages of prose and verse, streamed from GRETIL at read time, one chapter at a time. This is the original Sanskrit, not a translation.",
+  "featured": false,
+  "featuredNote": "",
+  "refScheme": "parivarta.verse",
+  "isSample": false,
+  "textStorage": "streamed",
+  "chapters": [
+    {
+      "ref": "1",
+      "label": "Parivarta 1"
+    },
+    {
+      "ref": "2",
+      "label": "Parivarta 2"
+    },
+    {
+      "ref": "3",
+      "label": "Parivarta 3"
+    },
+    {
+      "ref": "4",
+      "label": "Parivarta 4"
+    },
+    {
+      "ref": "5",
+      "label": "Parivarta 5"
+    },
+    {
+      "ref": "6",
+      "label": "Parivarta 6"
+    },
+    {
+      "ref": "7",
+      "label": "Parivarta 7"
+    },
+    {
+      "ref": "8",
+      "label": "Parivarta 8"
+    },
+    {
+      "ref": "9",
+      "label": "Parivarta 9"
+    },
+    {
+      "ref": "10",
+      "label": "Parivarta 10"
+    },
+    {
+      "ref": "11",
+      "label": "Parivarta 11"
+    },
+    {
+      "ref": "12",
+      "label": "Parivarta 12"
+    },
+    {
+      "ref": "13",
+      "label": "Parivarta 13"
+    },
+    {
+      "ref": "14",
+      "label": "Parivarta 14"
+    },
+    {
+      "ref": "15",
+      "label": "Parivarta 15"
+    },
+    {
+      "ref": "16",
+      "label": "Parivarta 16"
+    },
+    {
+      "ref": "17",
+      "label": "Parivarta 17"
+    },
+    {
+      "ref": "18",
+      "label": "Parivarta 18"
+    },
+    {
+      "ref": "19",
+      "label": "Parivarta 19"
+    },
+    {
+      "ref": "20",
+      "label": "Parivarta 20"
+    },
+    {
+      "ref": "21",
+      "label": "Parivarta 21"
+    },
+    {
+      "ref": "22",
+      "label": "Parivarta 22"
+    },
+    {
+      "ref": "23",
+      "label": "Parivarta 23"
+    },
+    {
+      "ref": "24",
+      "label": "Parivarta 24"
+    },
+    {
+      "ref": "25",
+      "label": "Parivarta 25"
+    },
+    {
+      "ref": "26",
+      "label": "Parivarta 26"
+    },
+    {
+      "ref": "27",
+      "label": "Parivarta 27"
+    }
+  ],
+  "passages": [
+    {
+      "reference": "1.1",
+      "label": "Parivarta 1 §1",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.2",
+      "label": "Parivarta 1 §2",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.3",
+      "label": "Parivarta 1 §3",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.4",
+      "label": "Parivarta 1 §4",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.5",
+      "label": "Parivarta 1 §5",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.6",
+      "label": "Parivarta 1 §6",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.7",
+      "label": "Parivarta 1 §7",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.8",
+      "label": "Parivarta 1 §8",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.9",
+      "label": "Parivarta 1 §9",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.10",
+      "label": "Parivarta 1 §10",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.11",
+      "label": "Parivarta 1 §11",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.12",
+      "label": "Parivarta 1 §12",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.13",
+      "label": "Parivarta 1 §13",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "2.1",
+      "label": "Parivarta 2 §1",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.2",
+      "label": "Parivarta 2 §2",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.3",
+      "label": "Parivarta 2 §3",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.4",
+      "label": "Parivarta 2 §4",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.5",
+      "label": "Parivarta 2 §5",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.6",
+      "label": "Parivarta 2 §6",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.7",
+      "label": "Parivarta 2 §7",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.8",
+      "label": "Parivarta 2 §8",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.9",
+      "label": "Parivarta 2 §9",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.10",
+      "label": "Parivarta 2 §10",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.11",
+      "label": "Parivarta 2 §11",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.12",
+      "label": "Parivarta 2 §12",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.13",
+      "label": "Parivarta 2 §13",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.14",
+      "label": "Parivarta 2 §14",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.15",
+      "label": "Parivarta 2 §15",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.16",
+      "label": "Parivarta 2 §16",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.17",
+      "label": "Parivarta 2 §17",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.18",
+      "label": "Parivarta 2 §18",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.19",
+      "label": "Parivarta 2 §19",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.20",
+      "label": "Parivarta 2 §20",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "3.1",
+      "label": "Parivarta 3 §1",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.2",
+      "label": "Parivarta 3 §2",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.3",
+      "label": "Parivarta 3 §3",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.4",
+      "label": "Parivarta 3 §4",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.5",
+      "label": "Parivarta 3 §5",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.6",
+      "label": "Parivarta 3 §6",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.7",
+      "label": "Parivarta 3 §7",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.8",
+      "label": "Parivarta 3 §8",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.9",
+      "label": "Parivarta 3 §9",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.10",
+      "label": "Parivarta 3 §10",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.11",
+      "label": "Parivarta 3 §11",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.12",
+      "label": "Parivarta 3 §12",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.13",
+      "label": "Parivarta 3 §13",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.14",
+      "label": "Parivarta 3 §14",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.15",
+      "label": "Parivarta 3 §15",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.16",
+      "label": "Parivarta 3 §16",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.17",
+      "label": "Parivarta 3 §17",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.18",
+      "label": "Parivarta 3 §18",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.19",
+      "label": "Parivarta 3 §19",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.20",
+      "label": "Parivarta 3 §20",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "4.1",
+      "label": "Parivarta 4 §1",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.2",
+      "label": "Parivarta 4 §2",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.3",
+      "label": "Parivarta 4 §3",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.4",
+      "label": "Parivarta 4 §4",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.5",
+      "label": "Parivarta 4 §5",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.6",
+      "label": "Parivarta 4 §6",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.7",
+      "label": "Parivarta 4 §7",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.8",
+      "label": "Parivarta 4 §8",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.9",
+      "label": "Parivarta 4 §9",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.10",
+      "label": "Parivarta 4 §10",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.11",
+      "label": "Parivarta 4 §11",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.12",
+      "label": "Parivarta 4 §12",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.13",
+      "label": "Parivarta 4 §13",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.14",
+      "label": "Parivarta 4 §14",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.15",
+      "label": "Parivarta 4 §15",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.16",
+      "label": "Parivarta 4 §16",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.17",
+      "label": "Parivarta 4 §17",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.18",
+      "label": "Parivarta 4 §18",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.19",
+      "label": "Parivarta 4 §19",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.20",
+      "label": "Parivarta 4 §20",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.21",
+      "label": "Parivarta 4 §21",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "5.1",
+      "label": "Parivarta 5 §1",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.2",
+      "label": "Parivarta 5 §2",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.3",
+      "label": "Parivarta 5 §3",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.4",
+      "label": "Parivarta 5 §4",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.5",
+      "label": "Parivarta 5 §5",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.6",
+      "label": "Parivarta 5 §6",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.7",
+      "label": "Parivarta 5 §7",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.8",
+      "label": "Parivarta 5 §8",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.9",
+      "label": "Parivarta 5 §9",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.10",
+      "label": "Parivarta 5 §10",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.11",
+      "label": "Parivarta 5 §11",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.12",
+      "label": "Parivarta 5 §12",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.13",
+      "label": "Parivarta 5 §13",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.14",
+      "label": "Parivarta 5 §14",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.15",
+      "label": "Parivarta 5 §15",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.16",
+      "label": "Parivarta 5 §16",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.17",
+      "label": "Parivarta 5 §17",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.18",
+      "label": "Parivarta 5 §18",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.19",
+      "label": "Parivarta 5 §19",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.20",
+      "label": "Parivarta 5 §20",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.21",
+      "label": "Parivarta 5 §21",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.22",
+      "label": "Parivarta 5 §22",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.23",
+      "label": "Parivarta 5 §23",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.24",
+      "label": "Parivarta 5 §24",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.25",
+      "label": "Parivarta 5 §25",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.26",
+      "label": "Parivarta 5 §26",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.27",
+      "label": "Parivarta 5 §27",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.28",
+      "label": "Parivarta 5 §28",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.29",
+      "label": "Parivarta 5 §29",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.30",
+      "label": "Parivarta 5 §30",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.31",
+      "label": "Parivarta 5 §31",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.32",
+      "label": "Parivarta 5 §32",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.33",
+      "label": "Parivarta 5 §33",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.34",
+      "label": "Parivarta 5 §34",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.35",
+      "label": "Parivarta 5 §35",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.36",
+      "label": "Parivarta 5 §36",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.37",
+      "label": "Parivarta 5 §37",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.38",
+      "label": "Parivarta 5 §38",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.39",
+      "label": "Parivarta 5 §39",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.40",
+      "label": "Parivarta 5 §40",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.41",
+      "label": "Parivarta 5 §41",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.42",
+      "label": "Parivarta 5 §42",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.43",
+      "label": "Parivarta 5 §43",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.44",
+      "label": "Parivarta 5 §44",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.45",
+      "label": "Parivarta 5 §45",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.46",
+      "label": "Parivarta 5 §46",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.47",
+      "label": "Parivarta 5 §47",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.48",
+      "label": "Parivarta 5 §48",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.49",
+      "label": "Parivarta 5 §49",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.50",
+      "label": "Parivarta 5 §50",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.51",
+      "label": "Parivarta 5 §51",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.52",
+      "label": "Parivarta 5 §52",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.53",
+      "label": "Parivarta 5 §53",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.54",
+      "label": "Parivarta 5 §54",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.55",
+      "label": "Parivarta 5 §55",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.56",
+      "label": "Parivarta 5 §56",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.57",
+      "label": "Parivarta 5 §57",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.58",
+      "label": "Parivarta 5 §58",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.59",
+      "label": "Parivarta 5 §59",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.60",
+      "label": "Parivarta 5 §60",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.61",
+      "label": "Parivarta 5 §61",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.62",
+      "label": "Parivarta 5 §62",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.63",
+      "label": "Parivarta 5 §63",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.64",
+      "label": "Parivarta 5 §64",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.65",
+      "label": "Parivarta 5 §65",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.66",
+      "label": "Parivarta 5 §66",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.67",
+      "label": "Parivarta 5 §67",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.68",
+      "label": "Parivarta 5 §68",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.69",
+      "label": "Parivarta 5 §69",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.70",
+      "label": "Parivarta 5 §70",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.71",
+      "label": "Parivarta 5 §71",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.72",
+      "label": "Parivarta 5 §72",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.73",
+      "label": "Parivarta 5 §73",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.74",
+      "label": "Parivarta 5 §74",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.75",
+      "label": "Parivarta 5 §75",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.76",
+      "label": "Parivarta 5 §76",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.77",
+      "label": "Parivarta 5 §77",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.78",
+      "label": "Parivarta 5 §78",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.79",
+      "label": "Parivarta 5 §79",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.80",
+      "label": "Parivarta 5 §80",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.81",
+      "label": "Parivarta 5 §81",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "6.1",
+      "label": "Parivarta 6 §1",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.2",
+      "label": "Parivarta 6 §2",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.3",
+      "label": "Parivarta 6 §3",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.4",
+      "label": "Parivarta 6 §4",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.5",
+      "label": "Parivarta 6 §5",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.6",
+      "label": "Parivarta 6 §6",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.7",
+      "label": "Parivarta 6 §7",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.8",
+      "label": "Parivarta 6 §8",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.9",
+      "label": "Parivarta 6 §9",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.10",
+      "label": "Parivarta 6 §10",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.11",
+      "label": "Parivarta 6 §11",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.12",
+      "label": "Parivarta 6 §12",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.13",
+      "label": "Parivarta 6 §13",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.14",
+      "label": "Parivarta 6 §14",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.15",
+      "label": "Parivarta 6 §15",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.16",
+      "label": "Parivarta 6 §16",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.17",
+      "label": "Parivarta 6 §17",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.18",
+      "label": "Parivarta 6 §18",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.19",
+      "label": "Parivarta 6 §19",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.20",
+      "label": "Parivarta 6 §20",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.21",
+      "label": "Parivarta 6 §21",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.22",
+      "label": "Parivarta 6 §22",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.23",
+      "label": "Parivarta 6 §23",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.24",
+      "label": "Parivarta 6 §24",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.25",
+      "label": "Parivarta 6 §25",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.26",
+      "label": "Parivarta 6 §26",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.27",
+      "label": "Parivarta 6 §27",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.28",
+      "label": "Parivarta 6 §28",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.29",
+      "label": "Parivarta 6 §29",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.30",
+      "label": "Parivarta 6 §30",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.31",
+      "label": "Parivarta 6 §31",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.32",
+      "label": "Parivarta 6 §32",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.33",
+      "label": "Parivarta 6 §33",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.34",
+      "label": "Parivarta 6 §34",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.35",
+      "label": "Parivarta 6 §35",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.36",
+      "label": "Parivarta 6 §36",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.37",
+      "label": "Parivarta 6 §37",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "7.1",
+      "label": "Parivarta 7 §1",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.2",
+      "label": "Parivarta 7 §2",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.3",
+      "label": "Parivarta 7 §3",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.4",
+      "label": "Parivarta 7 §4",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.5",
+      "label": "Parivarta 7 §5",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.6",
+      "label": "Parivarta 7 §6",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.7",
+      "label": "Parivarta 7 §7",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.8",
+      "label": "Parivarta 7 §8",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.9",
+      "label": "Parivarta 7 §9",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.10",
+      "label": "Parivarta 7 §10",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.11",
+      "label": "Parivarta 7 §11",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.12",
+      "label": "Parivarta 7 §12",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.13",
+      "label": "Parivarta 7 §13",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.14",
+      "label": "Parivarta 7 §14",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.15",
+      "label": "Parivarta 7 §15",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.16",
+      "label": "Parivarta 7 §16",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.17",
+      "label": "Parivarta 7 §17",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.18",
+      "label": "Parivarta 7 §18",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.19",
+      "label": "Parivarta 7 §19",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.20",
+      "label": "Parivarta 7 §20",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.21",
+      "label": "Parivarta 7 §21",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.22",
+      "label": "Parivarta 7 §22",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.23",
+      "label": "Parivarta 7 §23",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.24",
+      "label": "Parivarta 7 §24",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.25",
+      "label": "Parivarta 7 §25",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.26",
+      "label": "Parivarta 7 §26",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.27",
+      "label": "Parivarta 7 §27",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.28",
+      "label": "Parivarta 7 §28",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.29",
+      "label": "Parivarta 7 §29",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.30",
+      "label": "Parivarta 7 §30",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.31",
+      "label": "Parivarta 7 §31",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.32",
+      "label": "Parivarta 7 §32",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.33",
+      "label": "Parivarta 7 §33",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.34",
+      "label": "Parivarta 7 §34",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.35",
+      "label": "Parivarta 7 §35",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.36",
+      "label": "Parivarta 7 §36",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.37",
+      "label": "Parivarta 7 §37",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.38",
+      "label": "Parivarta 7 §38",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.39",
+      "label": "Parivarta 7 §39",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.40",
+      "label": "Parivarta 7 §40",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.41",
+      "label": "Parivarta 7 §41",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.42",
+      "label": "Parivarta 7 §42",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.43",
+      "label": "Parivarta 7 §43",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.44",
+      "label": "Parivarta 7 §44",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.45",
+      "label": "Parivarta 7 §45",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.46",
+      "label": "Parivarta 7 §46",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.47",
+      "label": "Parivarta 7 §47",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.48",
+      "label": "Parivarta 7 §48",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.49",
+      "label": "Parivarta 7 §49",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.50",
+      "label": "Parivarta 7 §50",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.51",
+      "label": "Parivarta 7 §51",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.52",
+      "label": "Parivarta 7 §52",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.53",
+      "label": "Parivarta 7 §53",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.54",
+      "label": "Parivarta 7 §54",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.55",
+      "label": "Parivarta 7 §55",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.56",
+      "label": "Parivarta 7 §56",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.57",
+      "label": "Parivarta 7 §57",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.58",
+      "label": "Parivarta 7 §58",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.59",
+      "label": "Parivarta 7 §59",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.60",
+      "label": "Parivarta 7 §60",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.61",
+      "label": "Parivarta 7 §61",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.62",
+      "label": "Parivarta 7 §62",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.63",
+      "label": "Parivarta 7 §63",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.64",
+      "label": "Parivarta 7 §64",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.65",
+      "label": "Parivarta 7 §65",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.66",
+      "label": "Parivarta 7 §66",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.67",
+      "label": "Parivarta 7 §67",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.68",
+      "label": "Parivarta 7 §68",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.69",
+      "label": "Parivarta 7 §69",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.70",
+      "label": "Parivarta 7 §70",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.71",
+      "label": "Parivarta 7 §71",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.72",
+      "label": "Parivarta 7 §72",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.73",
+      "label": "Parivarta 7 §73",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.74",
+      "label": "Parivarta 7 §74",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.75",
+      "label": "Parivarta 7 §75",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.76",
+      "label": "Parivarta 7 §76",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.77",
+      "label": "Parivarta 7 §77",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.78",
+      "label": "Parivarta 7 §78",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.79",
+      "label": "Parivarta 7 §79",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.80",
+      "label": "Parivarta 7 §80",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.81",
+      "label": "Parivarta 7 §81",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.82",
+      "label": "Parivarta 7 §82",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.83",
+      "label": "Parivarta 7 §83",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.84",
+      "label": "Parivarta 7 §84",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.85",
+      "label": "Parivarta 7 §85",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.86",
+      "label": "Parivarta 7 §86",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.87",
+      "label": "Parivarta 7 §87",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.88",
+      "label": "Parivarta 7 §88",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.89",
+      "label": "Parivarta 7 §89",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.90",
+      "label": "Parivarta 7 §90",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.91",
+      "label": "Parivarta 7 §91",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.92",
+      "label": "Parivarta 7 §92",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.93",
+      "label": "Parivarta 7 §93",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.94",
+      "label": "Parivarta 7 §94",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.95",
+      "label": "Parivarta 7 §95",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.96",
+      "label": "Parivarta 7 §96",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.97",
+      "label": "Parivarta 7 §97",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "8.1",
+      "label": "Parivarta 8 §1",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.2",
+      "label": "Parivarta 8 §2",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.3",
+      "label": "Parivarta 8 §3",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.4",
+      "label": "Parivarta 8 §4",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.5",
+      "label": "Parivarta 8 §5",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "9.1",
+      "label": "Parivarta 9 §1",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.2",
+      "label": "Parivarta 9 §2",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.3",
+      "label": "Parivarta 9 §3",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.4",
+      "label": "Parivarta 9 §4",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.5",
+      "label": "Parivarta 9 §5",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "10.1",
+      "label": "Parivarta 10 §1",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.2",
+      "label": "Parivarta 10 §2",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.3",
+      "label": "Parivarta 10 §3",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.4",
+      "label": "Parivarta 10 §4",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.5",
+      "label": "Parivarta 10 §5",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.6",
+      "label": "Parivarta 10 §6",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.7",
+      "label": "Parivarta 10 §7",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.8",
+      "label": "Parivarta 10 §8",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.9",
+      "label": "Parivarta 10 §9",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.10",
+      "label": "Parivarta 10 §10",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "11.1",
+      "label": "Parivarta 11 §1",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.2",
+      "label": "Parivarta 11 §2",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.3",
+      "label": "Parivarta 11 §3",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.4",
+      "label": "Parivarta 11 §4",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.5",
+      "label": "Parivarta 11 §5",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.6",
+      "label": "Parivarta 11 §6",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.7",
+      "label": "Parivarta 11 §7",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.8",
+      "label": "Parivarta 11 §8",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.9",
+      "label": "Parivarta 11 §9",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.10",
+      "label": "Parivarta 11 §10",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.11",
+      "label": "Parivarta 11 §11",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.12",
+      "label": "Parivarta 11 §12",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.13",
+      "label": "Parivarta 11 §13",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.14",
+      "label": "Parivarta 11 §14",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.15",
+      "label": "Parivarta 11 §15",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.16",
+      "label": "Parivarta 11 §16",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.17",
+      "label": "Parivarta 11 §17",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.18",
+      "label": "Parivarta 11 §18",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.19",
+      "label": "Parivarta 11 §19",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.20",
+      "label": "Parivarta 11 §20",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.21",
+      "label": "Parivarta 11 §21",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.22",
+      "label": "Parivarta 11 §22",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.23",
+      "label": "Parivarta 11 §23",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.24",
+      "label": "Parivarta 11 §24",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.25",
+      "label": "Parivarta 11 §25",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.26",
+      "label": "Parivarta 11 §26",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.27",
+      "label": "Parivarta 11 §27",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.28",
+      "label": "Parivarta 11 §28",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.29",
+      "label": "Parivarta 11 §29",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.30",
+      "label": "Parivarta 11 §30",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.31",
+      "label": "Parivarta 11 §31",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.32",
+      "label": "Parivarta 11 §32",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "12.1",
+      "label": "Parivarta 12 §1",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.2",
+      "label": "Parivarta 12 §2",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.3",
+      "label": "Parivarta 12 §3",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.4",
+      "label": "Parivarta 12 §4",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.5",
+      "label": "Parivarta 12 §5",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.6",
+      "label": "Parivarta 12 §6",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.7",
+      "label": "Parivarta 12 §7",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.8",
+      "label": "Parivarta 12 §8",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.9",
+      "label": "Parivarta 12 §9",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.10",
+      "label": "Parivarta 12 §10",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.11",
+      "label": "Parivarta 12 §11",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.12",
+      "label": "Parivarta 12 §12",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.13",
+      "label": "Parivarta 12 §13",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.14",
+      "label": "Parivarta 12 §14",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.15",
+      "label": "Parivarta 12 §15",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.16",
+      "label": "Parivarta 12 §16",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.17",
+      "label": "Parivarta 12 §17",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.18",
+      "label": "Parivarta 12 §18",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.19",
+      "label": "Parivarta 12 §19",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.20",
+      "label": "Parivarta 12 §20",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.21",
+      "label": "Parivarta 12 §21",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.22",
+      "label": "Parivarta 12 §22",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.23",
+      "label": "Parivarta 12 §23",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.24",
+      "label": "Parivarta 12 §24",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.25",
+      "label": "Parivarta 12 §25",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.26",
+      "label": "Parivarta 12 §26",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.27",
+      "label": "Parivarta 12 §27",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.28",
+      "label": "Parivarta 12 §28",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.29",
+      "label": "Parivarta 12 §29",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.30",
+      "label": "Parivarta 12 §30",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.31",
+      "label": "Parivarta 12 §31",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.32",
+      "label": "Parivarta 12 §32",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.33",
+      "label": "Parivarta 12 §33",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.34",
+      "label": "Parivarta 12 §34",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.35",
+      "label": "Parivarta 12 §35",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.36",
+      "label": "Parivarta 12 §36",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.37",
+      "label": "Parivarta 12 §37",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.38",
+      "label": "Parivarta 12 §38",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.39",
+      "label": "Parivarta 12 §39",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.40",
+      "label": "Parivarta 12 §40",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.41",
+      "label": "Parivarta 12 §41",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.42",
+      "label": "Parivarta 12 §42",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.43",
+      "label": "Parivarta 12 §43",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.44",
+      "label": "Parivarta 12 §44",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.45",
+      "label": "Parivarta 12 §45",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.46",
+      "label": "Parivarta 12 §46",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "13.1",
+      "label": "Parivarta 13 §1",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.2",
+      "label": "Parivarta 13 §2",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.3",
+      "label": "Parivarta 13 §3",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.4",
+      "label": "Parivarta 13 §4",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.5",
+      "label": "Parivarta 13 §5",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.6",
+      "label": "Parivarta 13 §6",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.7",
+      "label": "Parivarta 13 §7",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.8",
+      "label": "Parivarta 13 §8",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.9",
+      "label": "Parivarta 13 §9",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.10",
+      "label": "Parivarta 13 §10",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.11",
+      "label": "Parivarta 13 §11",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.12",
+      "label": "Parivarta 13 §12",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.13",
+      "label": "Parivarta 13 §13",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.14",
+      "label": "Parivarta 13 §14",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.15",
+      "label": "Parivarta 13 §15",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.16",
+      "label": "Parivarta 13 §16",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.17",
+      "label": "Parivarta 13 §17",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.18",
+      "label": "Parivarta 13 §18",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.19",
+      "label": "Parivarta 13 §19",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.20",
+      "label": "Parivarta 13 §20",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.21",
+      "label": "Parivarta 13 §21",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.22",
+      "label": "Parivarta 13 §22",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.23",
+      "label": "Parivarta 13 §23",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.24",
+      "label": "Parivarta 13 §24",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.25",
+      "label": "Parivarta 13 §25",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.26",
+      "label": "Parivarta 13 §26",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.27",
+      "label": "Parivarta 13 §27",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.28",
+      "label": "Parivarta 13 §28",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.29",
+      "label": "Parivarta 13 §29",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.30",
+      "label": "Parivarta 13 §30",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.31",
+      "label": "Parivarta 13 §31",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.32",
+      "label": "Parivarta 13 §32",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.33",
+      "label": "Parivarta 13 §33",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.34",
+      "label": "Parivarta 13 §34",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.35",
+      "label": "Parivarta 13 §35",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.36",
+      "label": "Parivarta 13 §36",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.37",
+      "label": "Parivarta 13 §37",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.38",
+      "label": "Parivarta 13 §38",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.39",
+      "label": "Parivarta 13 §39",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.40",
+      "label": "Parivarta 13 §40",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.41",
+      "label": "Parivarta 13 §41",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.42",
+      "label": "Parivarta 13 §42",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.43",
+      "label": "Parivarta 13 §43",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.44",
+      "label": "Parivarta 13 §44",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.45",
+      "label": "Parivarta 13 §45",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.46",
+      "label": "Parivarta 13 §46",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.47",
+      "label": "Parivarta 13 §47",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.48",
+      "label": "Parivarta 13 §48",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.49",
+      "label": "Parivarta 13 §49",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.50",
+      "label": "Parivarta 13 §50",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.51",
+      "label": "Parivarta 13 §51",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.52",
+      "label": "Parivarta 13 §52",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.53",
+      "label": "Parivarta 13 §53",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.54",
+      "label": "Parivarta 13 §54",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.55",
+      "label": "Parivarta 13 §55",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.56",
+      "label": "Parivarta 13 §56",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.57",
+      "label": "Parivarta 13 §57",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.58",
+      "label": "Parivarta 13 §58",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.59",
+      "label": "Parivarta 13 §59",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.60",
+      "label": "Parivarta 13 §60",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.61",
+      "label": "Parivarta 13 §61",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.62",
+      "label": "Parivarta 13 §62",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.63",
+      "label": "Parivarta 13 §63",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.64",
+      "label": "Parivarta 13 §64",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.65",
+      "label": "Parivarta 13 §65",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.66",
+      "label": "Parivarta 13 §66",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.67",
+      "label": "Parivarta 13 §67",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.68",
+      "label": "Parivarta 13 §68",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.69",
+      "label": "Parivarta 13 §69",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.70",
+      "label": "Parivarta 13 §70",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.71",
+      "label": "Parivarta 13 §71",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.72",
+      "label": "Parivarta 13 §72",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.73",
+      "label": "Parivarta 13 §73",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.74",
+      "label": "Parivarta 13 §74",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.75",
+      "label": "Parivarta 13 §75",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.76",
+      "label": "Parivarta 13 §76",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.77",
+      "label": "Parivarta 13 §77",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.78",
+      "label": "Parivarta 13 §78",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.79",
+      "label": "Parivarta 13 §79",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.80",
+      "label": "Parivarta 13 §80",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.81",
+      "label": "Parivarta 13 §81",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.82",
+      "label": "Parivarta 13 §82",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.83",
+      "label": "Parivarta 13 §83",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.84",
+      "label": "Parivarta 13 §84",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.85",
+      "label": "Parivarta 13 §85",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.86",
+      "label": "Parivarta 13 §86",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.87",
+      "label": "Parivarta 13 §87",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.88",
+      "label": "Parivarta 13 §88",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.89",
+      "label": "Parivarta 13 §89",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.90",
+      "label": "Parivarta 13 §90",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.91",
+      "label": "Parivarta 13 §91",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.92",
+      "label": "Parivarta 13 §92",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.93",
+      "label": "Parivarta 13 §93",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.94",
+      "label": "Parivarta 13 §94",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.95",
+      "label": "Parivarta 13 §95",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.96",
+      "label": "Parivarta 13 §96",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.97",
+      "label": "Parivarta 13 §97",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.98",
+      "label": "Parivarta 13 §98",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.99",
+      "label": "Parivarta 13 §99",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.100",
+      "label": "Parivarta 13 §100",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.101",
+      "label": "Parivarta 13 §101",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.102",
+      "label": "Parivarta 13 §102",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.103",
+      "label": "Parivarta 13 §103",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.104",
+      "label": "Parivarta 13 §104",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.105",
+      "label": "Parivarta 13 §105",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.106",
+      "label": "Parivarta 13 §106",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.107",
+      "label": "Parivarta 13 §107",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.108",
+      "label": "Parivarta 13 §108",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.109",
+      "label": "Parivarta 13 §109",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.110",
+      "label": "Parivarta 13 §110",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.111",
+      "label": "Parivarta 13 §111",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.112",
+      "label": "Parivarta 13 §112",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.113",
+      "label": "Parivarta 13 §113",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.114",
+      "label": "Parivarta 13 §114",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.115",
+      "label": "Parivarta 13 §115",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.116",
+      "label": "Parivarta 13 §116",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.117",
+      "label": "Parivarta 13 §117",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.118",
+      "label": "Parivarta 13 §118",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.119",
+      "label": "Parivarta 13 §119",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.120",
+      "label": "Parivarta 13 §120",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.121",
+      "label": "Parivarta 13 §121",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.122",
+      "label": "Parivarta 13 §122",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.123",
+      "label": "Parivarta 13 §123",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.124",
+      "label": "Parivarta 13 §124",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.125",
+      "label": "Parivarta 13 §125",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.126",
+      "label": "Parivarta 13 §126",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.127",
+      "label": "Parivarta 13 §127",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.128",
+      "label": "Parivarta 13 §128",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.129",
+      "label": "Parivarta 13 §129",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.130",
+      "label": "Parivarta 13 §130",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.131",
+      "label": "Parivarta 13 §131",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.132",
+      "label": "Parivarta 13 §132",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.133",
+      "label": "Parivarta 13 §133",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.134",
+      "label": "Parivarta 13 §134",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.135",
+      "label": "Parivarta 13 §135",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.136",
+      "label": "Parivarta 13 §136",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.137",
+      "label": "Parivarta 13 §137",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.138",
+      "label": "Parivarta 13 §138",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.139",
+      "label": "Parivarta 13 §139",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.140",
+      "label": "Parivarta 13 §140",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.141",
+      "label": "Parivarta 13 §141",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.142",
+      "label": "Parivarta 13 §142",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.143",
+      "label": "Parivarta 13 §143",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.144",
+      "label": "Parivarta 13 §144",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.145",
+      "label": "Parivarta 13 §145",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.146",
+      "label": "Parivarta 13 §146",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.147",
+      "label": "Parivarta 13 §147",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.148",
+      "label": "Parivarta 13 §148",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.149",
+      "label": "Parivarta 13 §149",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.150",
+      "label": "Parivarta 13 §150",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.151",
+      "label": "Parivarta 13 §151",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.152",
+      "label": "Parivarta 13 §152",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.153",
+      "label": "Parivarta 13 §153",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.154",
+      "label": "Parivarta 13 §154",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.155",
+      "label": "Parivarta 13 §155",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.156",
+      "label": "Parivarta 13 §156",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.157",
+      "label": "Parivarta 13 §157",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.158",
+      "label": "Parivarta 13 §158",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.159",
+      "label": "Parivarta 13 §159",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.160",
+      "label": "Parivarta 13 §160",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "14.1",
+      "label": "Parivarta 14 §1",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.2",
+      "label": "Parivarta 14 §2",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.3",
+      "label": "Parivarta 14 §3",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.4",
+      "label": "Parivarta 14 §4",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.5",
+      "label": "Parivarta 14 §5",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.6",
+      "label": "Parivarta 14 §6",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.7",
+      "label": "Parivarta 14 §7",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.8",
+      "label": "Parivarta 14 §8",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.9",
+      "label": "Parivarta 14 §9",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.10",
+      "label": "Parivarta 14 §10",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.11",
+      "label": "Parivarta 14 §11",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.12",
+      "label": "Parivarta 14 §12",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.13",
+      "label": "Parivarta 14 §13",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.14",
+      "label": "Parivarta 14 §14",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.15",
+      "label": "Parivarta 14 §15",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.16",
+      "label": "Parivarta 14 §16",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.17",
+      "label": "Parivarta 14 §17",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.18",
+      "label": "Parivarta 14 §18",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.19",
+      "label": "Parivarta 14 §19",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.20",
+      "label": "Parivarta 14 §20",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.21",
+      "label": "Parivarta 14 §21",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.22",
+      "label": "Parivarta 14 §22",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.23",
+      "label": "Parivarta 14 §23",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.24",
+      "label": "Parivarta 14 §24",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.25",
+      "label": "Parivarta 14 §25",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.26",
+      "label": "Parivarta 14 §26",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.27",
+      "label": "Parivarta 14 §27",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.28",
+      "label": "Parivarta 14 §28",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.29",
+      "label": "Parivarta 14 §29",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.30",
+      "label": "Parivarta 14 §30",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.31",
+      "label": "Parivarta 14 §31",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.32",
+      "label": "Parivarta 14 §32",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.33",
+      "label": "Parivarta 14 §33",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.34",
+      "label": "Parivarta 14 §34",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.35",
+      "label": "Parivarta 14 §35",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.36",
+      "label": "Parivarta 14 §36",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.37",
+      "label": "Parivarta 14 §37",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.38",
+      "label": "Parivarta 14 §38",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.39",
+      "label": "Parivarta 14 §39",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.40",
+      "label": "Parivarta 14 §40",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.41",
+      "label": "Parivarta 14 §41",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.42",
+      "label": "Parivarta 14 §42",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.43",
+      "label": "Parivarta 14 §43",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.44",
+      "label": "Parivarta 14 §44",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.45",
+      "label": "Parivarta 14 §45",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.46",
+      "label": "Parivarta 14 §46",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.47",
+      "label": "Parivarta 14 §47",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "15.1",
+      "label": "Parivarta 15 §1",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.2",
+      "label": "Parivarta 15 §2",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.3",
+      "label": "Parivarta 15 §3",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.4",
+      "label": "Parivarta 15 §4",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.5",
+      "label": "Parivarta 15 §5",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.6",
+      "label": "Parivarta 15 §6",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.7",
+      "label": "Parivarta 15 §7",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.8",
+      "label": "Parivarta 15 §8",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.9",
+      "label": "Parivarta 15 §9",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.10",
+      "label": "Parivarta 15 §10",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.11",
+      "label": "Parivarta 15 §11",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.12",
+      "label": "Parivarta 15 §12",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.13",
+      "label": "Parivarta 15 §13",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.14",
+      "label": "Parivarta 15 §14",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.15",
+      "label": "Parivarta 15 §15",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.16",
+      "label": "Parivarta 15 §16",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.17",
+      "label": "Parivarta 15 §17",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.18",
+      "label": "Parivarta 15 §18",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.19",
+      "label": "Parivarta 15 §19",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.20",
+      "label": "Parivarta 15 §20",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.21",
+      "label": "Parivarta 15 §21",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.22",
+      "label": "Parivarta 15 §22",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.23",
+      "label": "Parivarta 15 §23",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.24",
+      "label": "Parivarta 15 §24",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.25",
+      "label": "Parivarta 15 §25",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.26",
+      "label": "Parivarta 15 §26",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.27",
+      "label": "Parivarta 15 §27",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.28",
+      "label": "Parivarta 15 §28",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.29",
+      "label": "Parivarta 15 §29",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.30",
+      "label": "Parivarta 15 §30",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.31",
+      "label": "Parivarta 15 §31",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.32",
+      "label": "Parivarta 15 §32",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.34",
+      "label": "Parivarta 15 §34",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.35",
+      "label": "Parivarta 15 §35",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.36",
+      "label": "Parivarta 15 §36",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.37",
+      "label": "Parivarta 15 §37",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.39",
+      "label": "Parivarta 15 §39",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.40",
+      "label": "Parivarta 15 §40",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.41",
+      "label": "Parivarta 15 §41",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.42",
+      "label": "Parivarta 15 §42",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.43",
+      "label": "Parivarta 15 §43",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.44",
+      "label": "Parivarta 15 §44",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.45",
+      "label": "Parivarta 15 §45",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.46",
+      "label": "Parivarta 15 §46",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.46#2",
+      "label": "Parivarta 15 §46",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.48",
+      "label": "Parivarta 15 §48",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.49",
+      "label": "Parivarta 15 §49",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.50",
+      "label": "Parivarta 15 §50",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.51",
+      "label": "Parivarta 15 §51",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.52",
+      "label": "Parivarta 15 §52",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.53",
+      "label": "Parivarta 15 §53",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.54",
+      "label": "Parivarta 15 §54",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.55",
+      "label": "Parivarta 15 §55",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.56",
+      "label": "Parivarta 15 §56",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.57",
+      "label": "Parivarta 15 §57",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.58",
+      "label": "Parivarta 15 §58",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.59",
+      "label": "Parivarta 15 §59",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.59#2",
+      "label": "Parivarta 15 §59",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.60",
+      "label": "Parivarta 15 §60",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.61",
+      "label": "Parivarta 15 §61",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.62",
+      "label": "Parivarta 15 §62",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.63",
+      "label": "Parivarta 15 §63",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.64",
+      "label": "Parivarta 15 §64",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.65",
+      "label": "Parivarta 15 §65",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.66",
+      "label": "Parivarta 15 §66",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.67",
+      "label": "Parivarta 15 §67",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.68",
+      "label": "Parivarta 15 §68",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.69",
+      "label": "Parivarta 15 §69",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.70",
+      "label": "Parivarta 15 §70",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.71",
+      "label": "Parivarta 15 §71",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.72",
+      "label": "Parivarta 15 §72",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.73",
+      "label": "Parivarta 15 §73",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.74",
+      "label": "Parivarta 15 §74",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.75",
+      "label": "Parivarta 15 §75",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.76",
+      "label": "Parivarta 15 §76",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.77",
+      "label": "Parivarta 15 §77",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.78",
+      "label": "Parivarta 15 §78",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.79",
+      "label": "Parivarta 15 §79",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.80",
+      "label": "Parivarta 15 §80",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.81",
+      "label": "Parivarta 15 §81",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.82",
+      "label": "Parivarta 15 §82",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.83",
+      "label": "Parivarta 15 §83",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.84",
+      "label": "Parivarta 15 §84",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.85",
+      "label": "Parivarta 15 §85",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.86",
+      "label": "Parivarta 15 §86",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.87",
+      "label": "Parivarta 15 §87",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.88",
+      "label": "Parivarta 15 §88",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.89",
+      "label": "Parivarta 15 §89",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.90",
+      "label": "Parivarta 15 §90",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.91",
+      "label": "Parivarta 15 §91",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.92",
+      "label": "Parivarta 15 §92",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.93",
+      "label": "Parivarta 15 §93",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.94",
+      "label": "Parivarta 15 §94",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.95",
+      "label": "Parivarta 15 §95",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.96",
+      "label": "Parivarta 15 §96",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.97",
+      "label": "Parivarta 15 §97",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.98",
+      "label": "Parivarta 15 §98",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.99",
+      "label": "Parivarta 15 §99",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.100",
+      "label": "Parivarta 15 §100",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.101",
+      "label": "Parivarta 15 §101",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.102",
+      "label": "Parivarta 15 §102",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.103",
+      "label": "Parivarta 15 §103",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.104",
+      "label": "Parivarta 15 §104",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.105",
+      "label": "Parivarta 15 §105",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.106",
+      "label": "Parivarta 15 §106",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.107",
+      "label": "Parivarta 15 §107",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.108",
+      "label": "Parivarta 15 §108",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.109",
+      "label": "Parivarta 15 §109",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.110",
+      "label": "Parivarta 15 §110",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.111",
+      "label": "Parivarta 15 §111",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.112",
+      "label": "Parivarta 15 §112",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.113",
+      "label": "Parivarta 15 §113",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.114",
+      "label": "Parivarta 15 §114",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.115",
+      "label": "Parivarta 15 §115",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.116",
+      "label": "Parivarta 15 §116",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.117",
+      "label": "Parivarta 15 §117",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.118",
+      "label": "Parivarta 15 §118",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.119",
+      "label": "Parivarta 15 §119",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.120",
+      "label": "Parivarta 15 §120",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.121",
+      "label": "Parivarta 15 §121",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.122",
+      "label": "Parivarta 15 §122",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.123",
+      "label": "Parivarta 15 §123",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.124",
+      "label": "Parivarta 15 §124",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.125",
+      "label": "Parivarta 15 §125",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.126",
+      "label": "Parivarta 15 §126",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.127",
+      "label": "Parivarta 15 §127",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.128",
+      "label": "Parivarta 15 §128",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.129",
+      "label": "Parivarta 15 §129",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.130",
+      "label": "Parivarta 15 §130",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.131",
+      "label": "Parivarta 15 §131",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.132",
+      "label": "Parivarta 15 §132",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.133",
+      "label": "Parivarta 15 §133",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.134",
+      "label": "Parivarta 15 §134",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.135",
+      "label": "Parivarta 15 §135",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.136",
+      "label": "Parivarta 15 §136",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.137",
+      "label": "Parivarta 15 §137",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.138",
+      "label": "Parivarta 15 §138",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.139",
+      "label": "Parivarta 15 §139",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.140",
+      "label": "Parivarta 15 §140",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.141",
+      "label": "Parivarta 15 §141",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.142",
+      "label": "Parivarta 15 §142",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.143",
+      "label": "Parivarta 15 §143",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.144",
+      "label": "Parivarta 15 §144",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.145",
+      "label": "Parivarta 15 §145",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.146",
+      "label": "Parivarta 15 §146",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.147",
+      "label": "Parivarta 15 §147",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.148",
+      "label": "Parivarta 15 §148",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.149",
+      "label": "Parivarta 15 §149",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.150",
+      "label": "Parivarta 15 §150",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.151",
+      "label": "Parivarta 15 §151",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.152",
+      "label": "Parivarta 15 §152",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.153",
+      "label": "Parivarta 15 §153",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.154",
+      "label": "Parivarta 15 §154",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.155",
+      "label": "Parivarta 15 §155",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.156",
+      "label": "Parivarta 15 §156",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.157",
+      "label": "Parivarta 15 §157",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.158",
+      "label": "Parivarta 15 §158",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.159",
+      "label": "Parivarta 15 §159",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.160",
+      "label": "Parivarta 15 §160",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.161",
+      "label": "Parivarta 15 §161",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.162",
+      "label": "Parivarta 15 §162",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "16.1",
+      "label": "Parivarta 16 §1",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.2",
+      "label": "Parivarta 16 §2",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.3",
+      "label": "Parivarta 16 §3",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.4",
+      "label": "Parivarta 16 §4",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.5",
+      "label": "Parivarta 16 §5",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.6",
+      "label": "Parivarta 16 §6",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.7",
+      "label": "Parivarta 16 §7",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.8",
+      "label": "Parivarta 16 §8",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.9",
+      "label": "Parivarta 16 §9",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.10",
+      "label": "Parivarta 16 §10",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.11",
+      "label": "Parivarta 16 §11",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.12",
+      "label": "Parivarta 16 §12",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.13",
+      "label": "Parivarta 16 §13",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.14",
+      "label": "Parivarta 16 §14",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.15",
+      "label": "Parivarta 16 §15",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.16",
+      "label": "Parivarta 16 §16",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.17",
+      "label": "Parivarta 16 §17",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.18",
+      "label": "Parivarta 16 §18",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.19",
+      "label": "Parivarta 16 §19",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.20",
+      "label": "Parivarta 16 §20",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.21",
+      "label": "Parivarta 16 §21",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.22",
+      "label": "Parivarta 16 §22",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.23",
+      "label": "Parivarta 16 §23",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.24",
+      "label": "Parivarta 16 §24",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.25",
+      "label": "Parivarta 16 §25",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.26",
+      "label": "Parivarta 16 §26",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.27",
+      "label": "Parivarta 16 §27",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.28",
+      "label": "Parivarta 16 §28",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.29",
+      "label": "Parivarta 16 §29",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.30",
+      "label": "Parivarta 16 §30",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.31",
+      "label": "Parivarta 16 §31",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.32",
+      "label": "Parivarta 16 §32",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.33",
+      "label": "Parivarta 16 §33",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "17.1",
+      "label": "Parivarta 17 §1",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.2",
+      "label": "Parivarta 17 §2",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.3",
+      "label": "Parivarta 17 §3",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.4",
+      "label": "Parivarta 17 §4",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.5",
+      "label": "Parivarta 17 §5",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.6",
+      "label": "Parivarta 17 §6",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.7",
+      "label": "Parivarta 17 §7",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.8",
+      "label": "Parivarta 17 §8",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.9",
+      "label": "Parivarta 17 §9",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.10",
+      "label": "Parivarta 17 §10",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.11",
+      "label": "Parivarta 17 §11",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.12",
+      "label": "Parivarta 17 §12",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.13",
+      "label": "Parivarta 17 §13",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.14",
+      "label": "Parivarta 17 §14",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.15",
+      "label": "Parivarta 17 §15",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.16",
+      "label": "Parivarta 17 §16",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.17",
+      "label": "Parivarta 17 §17",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.18",
+      "label": "Parivarta 17 §18",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.19",
+      "label": "Parivarta 17 §19",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.20",
+      "label": "Parivarta 17 §20",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.21",
+      "label": "Parivarta 17 §21",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.22",
+      "label": "Parivarta 17 §22",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.23",
+      "label": "Parivarta 17 §23",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.24",
+      "label": "Parivarta 17 §24",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.25",
+      "label": "Parivarta 17 §25",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.26",
+      "label": "Parivarta 17 §26",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.27",
+      "label": "Parivarta 17 §27",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.28",
+      "label": "Parivarta 17 §28",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.29",
+      "label": "Parivarta 17 §29",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.30",
+      "label": "Parivarta 17 §30",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.31",
+      "label": "Parivarta 17 §31",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.32",
+      "label": "Parivarta 17 §32",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.33",
+      "label": "Parivarta 17 §33",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.34",
+      "label": "Parivarta 17 §34",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.35",
+      "label": "Parivarta 17 §35",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.36",
+      "label": "Parivarta 17 §36",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.37",
+      "label": "Parivarta 17 §37",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.38",
+      "label": "Parivarta 17 §38",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.39",
+      "label": "Parivarta 17 §39",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.40",
+      "label": "Parivarta 17 §40",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.41",
+      "label": "Parivarta 17 §41",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "18.1",
+      "label": "Parivarta 18 §1",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.2",
+      "label": "Parivarta 18 §2",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.3",
+      "label": "Parivarta 18 §3",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.4",
+      "label": "Parivarta 18 §4",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.5",
+      "label": "Parivarta 18 §5",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.6",
+      "label": "Parivarta 18 §6",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.7",
+      "label": "Parivarta 18 §7",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.8",
+      "label": "Parivarta 18 §8",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.9",
+      "label": "Parivarta 18 §9",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.10",
+      "label": "Parivarta 18 §10",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.11",
+      "label": "Parivarta 18 §11",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.12",
+      "label": "Parivarta 18 §12",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.13",
+      "label": "Parivarta 18 §13",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.14",
+      "label": "Parivarta 18 §14",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.15",
+      "label": "Parivarta 18 §15",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.16",
+      "label": "Parivarta 18 §16",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.17",
+      "label": "Parivarta 18 §17",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.18",
+      "label": "Parivarta 18 §18",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.19",
+      "label": "Parivarta 18 §19",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.20",
+      "label": "Parivarta 18 §20",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.21",
+      "label": "Parivarta 18 §21",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.22",
+      "label": "Parivarta 18 §22",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.23",
+      "label": "Parivarta 18 §23",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.24",
+      "label": "Parivarta 18 §24",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.25",
+      "label": "Parivarta 18 §25",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.26",
+      "label": "Parivarta 18 §26",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.27",
+      "label": "Parivarta 18 §27",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.28",
+      "label": "Parivarta 18 §28",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.29",
+      "label": "Parivarta 18 §29",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.30",
+      "label": "Parivarta 18 §30",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "19.1",
+      "label": "Parivarta 19 §1",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.2",
+      "label": "Parivarta 19 §2",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.3",
+      "label": "Parivarta 19 §3",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.4",
+      "label": "Parivarta 19 §4",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.5",
+      "label": "Parivarta 19 §5",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.6",
+      "label": "Parivarta 19 §6",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.7",
+      "label": "Parivarta 19 §7",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.8",
+      "label": "Parivarta 19 §8",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.9",
+      "label": "Parivarta 19 §9",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.10",
+      "label": "Parivarta 19 §10",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.11",
+      "label": "Parivarta 19 §11",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.12",
+      "label": "Parivarta 19 §12",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.13",
+      "label": "Parivarta 19 §13",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.14",
+      "label": "Parivarta 19 §14",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.15",
+      "label": "Parivarta 19 §15",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.16",
+      "label": "Parivarta 19 §16",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.17",
+      "label": "Parivarta 19 §17",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.18",
+      "label": "Parivarta 19 §18",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.19",
+      "label": "Parivarta 19 §19",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.20",
+      "label": "Parivarta 19 §20",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.21",
+      "label": "Parivarta 19 §21",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.22",
+      "label": "Parivarta 19 §22",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.23",
+      "label": "Parivarta 19 §23",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.24",
+      "label": "Parivarta 19 §24",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.25",
+      "label": "Parivarta 19 §25",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.26",
+      "label": "Parivarta 19 §26",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.27",
+      "label": "Parivarta 19 §27",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.28",
+      "label": "Parivarta 19 §28",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.29",
+      "label": "Parivarta 19 §29",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.30",
+      "label": "Parivarta 19 §30",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.31",
+      "label": "Parivarta 19 §31",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.32",
+      "label": "Parivarta 19 §32",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.33",
+      "label": "Parivarta 19 §33",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.34",
+      "label": "Parivarta 19 §34",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.35",
+      "label": "Parivarta 19 §35",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.36",
+      "label": "Parivarta 19 §36",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.37",
+      "label": "Parivarta 19 §37",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.38",
+      "label": "Parivarta 19 §38",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.39",
+      "label": "Parivarta 19 §39",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.40",
+      "label": "Parivarta 19 §40",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.41",
+      "label": "Parivarta 19 §41",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.42",
+      "label": "Parivarta 19 §42",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.43",
+      "label": "Parivarta 19 §43",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.44",
+      "label": "Parivarta 19 §44",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.45",
+      "label": "Parivarta 19 §45",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.46",
+      "label": "Parivarta 19 §46",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.47",
+      "label": "Parivarta 19 §47",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.48",
+      "label": "Parivarta 19 §48",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.49",
+      "label": "Parivarta 19 §49",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.50",
+      "label": "Parivarta 19 §50",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.51",
+      "label": "Parivarta 19 §51",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.52",
+      "label": "Parivarta 19 §52",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.53",
+      "label": "Parivarta 19 §53",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.54",
+      "label": "Parivarta 19 §54",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.55",
+      "label": "Parivarta 19 §55",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.56",
+      "label": "Parivarta 19 §56",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.57",
+      "label": "Parivarta 19 §57",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "20.1",
+      "label": "Parivarta 20 §1",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.2",
+      "label": "Parivarta 20 §2",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.3",
+      "label": "Parivarta 20 §3",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.4",
+      "label": "Parivarta 20 §4",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.5",
+      "label": "Parivarta 20 §5",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.6",
+      "label": "Parivarta 20 §6",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.7",
+      "label": "Parivarta 20 §7",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.8",
+      "label": "Parivarta 20 §8",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.9",
+      "label": "Parivarta 20 §9",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.10",
+      "label": "Parivarta 20 §10",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.11",
+      "label": "Parivarta 20 §11",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.12",
+      "label": "Parivarta 20 §12",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.13",
+      "label": "Parivarta 20 §13",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.14",
+      "label": "Parivarta 20 §14",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.15",
+      "label": "Parivarta 20 §15",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.16",
+      "label": "Parivarta 20 §16",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.17",
+      "label": "Parivarta 20 §17",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.18",
+      "label": "Parivarta 20 §18",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.19",
+      "label": "Parivarta 20 §19",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.20",
+      "label": "Parivarta 20 §20",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.21",
+      "label": "Parivarta 20 §21",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.22",
+      "label": "Parivarta 20 §22",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.23",
+      "label": "Parivarta 20 §23",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.24",
+      "label": "Parivarta 20 §24",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.25",
+      "label": "Parivarta 20 §25",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.26",
+      "label": "Parivarta 20 §26",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.27",
+      "label": "Parivarta 20 §27",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.28",
+      "label": "Parivarta 20 §28",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.29",
+      "label": "Parivarta 20 §29",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "21.1",
+      "label": "Parivarta 21 §1",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.2",
+      "label": "Parivarta 21 §2",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.3",
+      "label": "Parivarta 21 §3",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.4",
+      "label": "Parivarta 21 §4",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.5",
+      "label": "Parivarta 21 §5",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.6",
+      "label": "Parivarta 21 §6",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.7",
+      "label": "Parivarta 21 §7",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.8",
+      "label": "Parivarta 21 §8",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.9",
+      "label": "Parivarta 21 §9",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.10",
+      "label": "Parivarta 21 §10",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.11",
+      "label": "Parivarta 21 §11",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.12",
+      "label": "Parivarta 21 §12",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.13",
+      "label": "Parivarta 21 §13",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.14",
+      "label": "Parivarta 21 §14",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.15",
+      "label": "Parivarta 21 §15",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.16",
+      "label": "Parivarta 21 §16",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.17",
+      "label": "Parivarta 21 §17",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.18",
+      "label": "Parivarta 21 §18",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.19",
+      "label": "Parivarta 21 §19",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.20",
+      "label": "Parivarta 21 §20",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.21",
+      "label": "Parivarta 21 §21",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.22",
+      "label": "Parivarta 21 §22",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.23",
+      "label": "Parivarta 21 §23",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.24",
+      "label": "Parivarta 21 §24",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.25",
+      "label": "Parivarta 21 §25",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.26",
+      "label": "Parivarta 21 §26",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.27",
+      "label": "Parivarta 21 §27",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.28",
+      "label": "Parivarta 21 §28",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.29",
+      "label": "Parivarta 21 §29",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.30",
+      "label": "Parivarta 21 §30",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.31",
+      "label": "Parivarta 21 §31",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.32",
+      "label": "Parivarta 21 §32",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.33",
+      "label": "Parivarta 21 §33",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.34",
+      "label": "Parivarta 21 §34",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.35",
+      "label": "Parivarta 21 §35",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.36",
+      "label": "Parivarta 21 §36",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.37",
+      "label": "Parivarta 21 §37",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.38",
+      "label": "Parivarta 21 §38",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.39",
+      "label": "Parivarta 21 §39",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.40",
+      "label": "Parivarta 21 §40",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.41",
+      "label": "Parivarta 21 §41",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.42",
+      "label": "Parivarta 21 §42",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.43",
+      "label": "Parivarta 21 §43",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.44",
+      "label": "Parivarta 21 §44",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.45",
+      "label": "Parivarta 21 §45",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.46",
+      "label": "Parivarta 21 §46",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.47",
+      "label": "Parivarta 21 §47",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.48",
+      "label": "Parivarta 21 §48",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.49",
+      "label": "Parivarta 21 §49",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.50",
+      "label": "Parivarta 21 §50",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.51",
+      "label": "Parivarta 21 §51",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.52",
+      "label": "Parivarta 21 §52",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.53",
+      "label": "Parivarta 21 §53",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.54",
+      "label": "Parivarta 21 §54",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.55",
+      "label": "Parivarta 21 §55",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.56",
+      "label": "Parivarta 21 §56",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.57",
+      "label": "Parivarta 21 §57",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.58",
+      "label": "Parivarta 21 §58",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.59",
+      "label": "Parivarta 21 §59",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.60",
+      "label": "Parivarta 21 §60",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.61",
+      "label": "Parivarta 21 §61",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.62",
+      "label": "Parivarta 21 §62",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.63",
+      "label": "Parivarta 21 §63",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.64",
+      "label": "Parivarta 21 §64",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.65",
+      "label": "Parivarta 21 §65",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.66",
+      "label": "Parivarta 21 §66",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.67",
+      "label": "Parivarta 21 §67",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.68",
+      "label": "Parivarta 21 §68",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.69",
+      "label": "Parivarta 21 §69",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.70",
+      "label": "Parivarta 21 §70",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.71",
+      "label": "Parivarta 21 §71",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.72",
+      "label": "Parivarta 21 §72",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.73",
+      "label": "Parivarta 21 §73",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.74",
+      "label": "Parivarta 21 §74",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.75",
+      "label": "Parivarta 21 §75",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.76",
+      "label": "Parivarta 21 §76",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.77",
+      "label": "Parivarta 21 §77",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.78",
+      "label": "Parivarta 21 §78",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.79",
+      "label": "Parivarta 21 §79",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.80",
+      "label": "Parivarta 21 §80",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.81",
+      "label": "Parivarta 21 §81",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.82",
+      "label": "Parivarta 21 §82",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.83",
+      "label": "Parivarta 21 §83",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.84",
+      "label": "Parivarta 21 §84",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.85",
+      "label": "Parivarta 21 §85",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.86",
+      "label": "Parivarta 21 §86",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.87",
+      "label": "Parivarta 21 §87",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.88",
+      "label": "Parivarta 21 §88",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.89",
+      "label": "Parivarta 21 §89",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.90",
+      "label": "Parivarta 21 §90",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.91",
+      "label": "Parivarta 21 §91",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.92",
+      "label": "Parivarta 21 §92",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.93",
+      "label": "Parivarta 21 §93",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.94",
+      "label": "Parivarta 21 §94",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.95",
+      "label": "Parivarta 21 §95",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.96",
+      "label": "Parivarta 21 §96",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.97",
+      "label": "Parivarta 21 §97",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.98",
+      "label": "Parivarta 21 §98",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.99",
+      "label": "Parivarta 21 §99",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.100",
+      "label": "Parivarta 21 §100",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.101",
+      "label": "Parivarta 21 §101",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.102",
+      "label": "Parivarta 21 §102",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.103",
+      "label": "Parivarta 21 §103",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.104",
+      "label": "Parivarta 21 §104",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.105",
+      "label": "Parivarta 21 §105",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.106",
+      "label": "Parivarta 21 §106",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.107",
+      "label": "Parivarta 21 §107",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.108",
+      "label": "Parivarta 21 §108",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.109",
+      "label": "Parivarta 21 §109",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.110",
+      "label": "Parivarta 21 §110",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.111",
+      "label": "Parivarta 21 §111",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.112",
+      "label": "Parivarta 21 §112",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.113",
+      "label": "Parivarta 21 §113",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.114",
+      "label": "Parivarta 21 §114",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.115",
+      "label": "Parivarta 21 §115",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.116",
+      "label": "Parivarta 21 §116",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.117",
+      "label": "Parivarta 21 §117",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.118",
+      "label": "Parivarta 21 §118",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.119",
+      "label": "Parivarta 21 §119",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.120",
+      "label": "Parivarta 21 §120",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.121",
+      "label": "Parivarta 21 §121",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.122",
+      "label": "Parivarta 21 §122",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.123",
+      "label": "Parivarta 21 §123",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.124",
+      "label": "Parivarta 21 §124",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.125",
+      "label": "Parivarta 21 §125",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.126",
+      "label": "Parivarta 21 §126",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.127",
+      "label": "Parivarta 21 §127",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.128",
+      "label": "Parivarta 21 §128",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.129",
+      "label": "Parivarta 21 §129",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.130",
+      "label": "Parivarta 21 §130",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.131",
+      "label": "Parivarta 21 §131",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.132",
+      "label": "Parivarta 21 §132",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.133",
+      "label": "Parivarta 21 §133",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.134",
+      "label": "Parivarta 21 §134",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.135",
+      "label": "Parivarta 21 §135",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.136",
+      "label": "Parivarta 21 §136",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.137",
+      "label": "Parivarta 21 §137",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.138",
+      "label": "Parivarta 21 §138",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.139",
+      "label": "Parivarta 21 §139",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.140",
+      "label": "Parivarta 21 §140",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.141",
+      "label": "Parivarta 21 §141",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.142",
+      "label": "Parivarta 21 §142",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.143",
+      "label": "Parivarta 21 §143",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.144",
+      "label": "Parivarta 21 §144",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.145",
+      "label": "Parivarta 21 §145",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.146",
+      "label": "Parivarta 21 §146",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.147",
+      "label": "Parivarta 21 §147",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.148",
+      "label": "Parivarta 21 §148",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.149",
+      "label": "Parivarta 21 §149",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.150",
+      "label": "Parivarta 21 §150",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.151",
+      "label": "Parivarta 21 §151",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.152",
+      "label": "Parivarta 21 §152",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.153",
+      "label": "Parivarta 21 §153",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.154",
+      "label": "Parivarta 21 §154",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.155",
+      "label": "Parivarta 21 §155",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.156",
+      "label": "Parivarta 21 §156",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.157",
+      "label": "Parivarta 21 §157",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.158",
+      "label": "Parivarta 21 §158",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.159",
+      "label": "Parivarta 21 §159",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.160",
+      "label": "Parivarta 21 §160",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.161",
+      "label": "Parivarta 21 §161",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.162",
+      "label": "Parivarta 21 §162",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.163",
+      "label": "Parivarta 21 §163",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.164",
+      "label": "Parivarta 21 §164",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.165",
+      "label": "Parivarta 21 §165",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.166",
+      "label": "Parivarta 21 §166",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.167",
+      "label": "Parivarta 21 §167",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.168",
+      "label": "Parivarta 21 §168",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.169",
+      "label": "Parivarta 21 §169",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.170",
+      "label": "Parivarta 21 §170",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.171",
+      "label": "Parivarta 21 §171",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.172",
+      "label": "Parivarta 21 §172",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.173",
+      "label": "Parivarta 21 §173",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.174",
+      "label": "Parivarta 21 §174",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.174#2",
+      "label": "Parivarta 21 §174",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.175",
+      "label": "Parivarta 21 §175",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.176",
+      "label": "Parivarta 21 §176",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.177",
+      "label": "Parivarta 21 §177",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.178",
+      "label": "Parivarta 21 §178",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.179",
+      "label": "Parivarta 21 §179",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.180",
+      "label": "Parivarta 21 §180",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.181",
+      "label": "Parivarta 21 §181",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.182",
+      "label": "Parivarta 21 §182",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.183",
+      "label": "Parivarta 21 §183",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.184",
+      "label": "Parivarta 21 §184",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.185",
+      "label": "Parivarta 21 §185",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.186",
+      "label": "Parivarta 21 §186",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.187",
+      "label": "Parivarta 21 §187",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.188",
+      "label": "Parivarta 21 §188",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.189",
+      "label": "Parivarta 21 §189",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.190",
+      "label": "Parivarta 21 §190",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.191",
+      "label": "Parivarta 21 §191",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.192",
+      "label": "Parivarta 21 §192",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.193",
+      "label": "Parivarta 21 §193",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.194",
+      "label": "Parivarta 21 §194",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.195",
+      "label": "Parivarta 21 §195",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.196",
+      "label": "Parivarta 21 §196",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.197",
+      "label": "Parivarta 21 §197",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.198",
+      "label": "Parivarta 21 §198",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.199",
+      "label": "Parivarta 21 §199",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.200",
+      "label": "Parivarta 21 §200",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.201",
+      "label": "Parivarta 21 §201",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.202",
+      "label": "Parivarta 21 §202",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "22.1",
+      "label": "Parivarta 22 §1",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.2",
+      "label": "Parivarta 22 §2",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.3",
+      "label": "Parivarta 22 §3",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.4",
+      "label": "Parivarta 22 §4",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.5",
+      "label": "Parivarta 22 §5",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.6",
+      "label": "Parivarta 22 §6",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.7",
+      "label": "Parivarta 22 §7",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.8",
+      "label": "Parivarta 22 §8",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.9",
+      "label": "Parivarta 22 §9",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.10",
+      "label": "Parivarta 22 §10",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.11",
+      "label": "Parivarta 22 §11",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.12",
+      "label": "Parivarta 22 §12",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.13",
+      "label": "Parivarta 22 §13",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.14",
+      "label": "Parivarta 22 §14",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.15",
+      "label": "Parivarta 22 §15",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.16",
+      "label": "Parivarta 22 §16",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.17",
+      "label": "Parivarta 22 §17",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.18",
+      "label": "Parivarta 22 §18",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.19",
+      "label": "Parivarta 22 §19",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.20",
+      "label": "Parivarta 22 §20",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.21",
+      "label": "Parivarta 22 §21",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.22",
+      "label": "Parivarta 22 §22",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.23",
+      "label": "Parivarta 22 §23",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.24",
+      "label": "Parivarta 22 §24",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.25",
+      "label": "Parivarta 22 §25",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "23.1",
+      "label": "Parivarta 23 §1",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.2",
+      "label": "Parivarta 23 §2",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.3",
+      "label": "Parivarta 23 §3",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.4",
+      "label": "Parivarta 23 §4",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.5",
+      "label": "Parivarta 23 §5",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.6",
+      "label": "Parivarta 23 §6",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.7",
+      "label": "Parivarta 23 §7",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.8",
+      "label": "Parivarta 23 §8",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.9",
+      "label": "Parivarta 23 §9",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.10",
+      "label": "Parivarta 23 §10",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.11",
+      "label": "Parivarta 23 §11",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.12",
+      "label": "Parivarta 23 §12",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.13",
+      "label": "Parivarta 23 §13",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.14",
+      "label": "Parivarta 23 §14",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.15",
+      "label": "Parivarta 23 §15",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.16",
+      "label": "Parivarta 23 §16",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.17",
+      "label": "Parivarta 23 §17",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.18",
+      "label": "Parivarta 23 §18",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.19",
+      "label": "Parivarta 23 §19",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.20",
+      "label": "Parivarta 23 §20",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.21",
+      "label": "Parivarta 23 §21",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.22",
+      "label": "Parivarta 23 §22",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.23",
+      "label": "Parivarta 23 §23",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.24",
+      "label": "Parivarta 23 §24",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.25",
+      "label": "Parivarta 23 §25",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.26",
+      "label": "Parivarta 23 §26",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.27",
+      "label": "Parivarta 23 §27",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.28",
+      "label": "Parivarta 23 §28",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.29",
+      "label": "Parivarta 23 §29",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.30",
+      "label": "Parivarta 23 §30",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.31",
+      "label": "Parivarta 23 §31",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.32",
+      "label": "Parivarta 23 §32",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.33",
+      "label": "Parivarta 23 §33",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.34",
+      "label": "Parivarta 23 §34",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.35",
+      "label": "Parivarta 23 §35",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.36",
+      "label": "Parivarta 23 §36",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.37",
+      "label": "Parivarta 23 §37",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.38",
+      "label": "Parivarta 23 §38",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.39",
+      "label": "Parivarta 23 §39",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.40",
+      "label": "Parivarta 23 §40",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.41",
+      "label": "Parivarta 23 §41",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.42",
+      "label": "Parivarta 23 §42",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.43",
+      "label": "Parivarta 23 §43",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.44",
+      "label": "Parivarta 23 §44",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.45",
+      "label": "Parivarta 23 §45",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.46",
+      "label": "Parivarta 23 §46",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.47",
+      "label": "Parivarta 23 §47",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.48",
+      "label": "Parivarta 23 §48",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.49",
+      "label": "Parivarta 23 §49",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.50",
+      "label": "Parivarta 23 §50",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.51",
+      "label": "Parivarta 23 §51",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.52",
+      "label": "Parivarta 23 §52",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.53",
+      "label": "Parivarta 23 §53",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.54",
+      "label": "Parivarta 23 §54",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.55",
+      "label": "Parivarta 23 §55",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.56",
+      "label": "Parivarta 23 §56",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.57",
+      "label": "Parivarta 23 §57",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.58",
+      "label": "Parivarta 23 §58",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.59",
+      "label": "Parivarta 23 §59",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.60",
+      "label": "Parivarta 23 §60",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.61",
+      "label": "Parivarta 23 §61",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.62",
+      "label": "Parivarta 23 §62",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.63",
+      "label": "Parivarta 23 §63",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.64",
+      "label": "Parivarta 23 §64",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.65",
+      "label": "Parivarta 23 §65",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "24.1",
+      "label": "Parivarta 24 §1",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.2",
+      "label": "Parivarta 24 §2",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.3",
+      "label": "Parivarta 24 §3",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.4",
+      "label": "Parivarta 24 §4",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.5",
+      "label": "Parivarta 24 §5",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.6",
+      "label": "Parivarta 24 §6",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.7",
+      "label": "Parivarta 24 §7",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.8",
+      "label": "Parivarta 24 §8",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.9",
+      "label": "Parivarta 24 §9",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.10",
+      "label": "Parivarta 24 §10",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.11",
+      "label": "Parivarta 24 §11",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.12",
+      "label": "Parivarta 24 §12",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.13",
+      "label": "Parivarta 24 §13",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.14",
+      "label": "Parivarta 24 §14",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.15",
+      "label": "Parivarta 24 §15",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.16",
+      "label": "Parivarta 24 §16",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.17",
+      "label": "Parivarta 24 §17",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.18",
+      "label": "Parivarta 24 §18",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.19",
+      "label": "Parivarta 24 §19",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.20",
+      "label": "Parivarta 24 §20",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.21",
+      "label": "Parivarta 24 §21",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.22",
+      "label": "Parivarta 24 §22",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.23",
+      "label": "Parivarta 24 §23",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.24",
+      "label": "Parivarta 24 §24",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.25",
+      "label": "Parivarta 24 §25",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.26",
+      "label": "Parivarta 24 §26",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.27",
+      "label": "Parivarta 24 §27",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.28",
+      "label": "Parivarta 24 §28",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.29",
+      "label": "Parivarta 24 §29",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.30",
+      "label": "Parivarta 24 §30",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.31",
+      "label": "Parivarta 24 §31",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.32",
+      "label": "Parivarta 24 §32",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.33",
+      "label": "Parivarta 24 §33",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.34",
+      "label": "Parivarta 24 §34",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.35",
+      "label": "Parivarta 24 §35",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.36",
+      "label": "Parivarta 24 §36",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.37",
+      "label": "Parivarta 24 §37",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.38",
+      "label": "Parivarta 24 §38",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.39",
+      "label": "Parivarta 24 §39",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.40",
+      "label": "Parivarta 24 §40",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.41",
+      "label": "Parivarta 24 §41",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.42",
+      "label": "Parivarta 24 §42",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.43",
+      "label": "Parivarta 24 §43",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.44",
+      "label": "Parivarta 24 §44",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.45",
+      "label": "Parivarta 24 §45",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.46",
+      "label": "Parivarta 24 §46",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.47",
+      "label": "Parivarta 24 §47",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.48",
+      "label": "Parivarta 24 §48",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.49",
+      "label": "Parivarta 24 §49",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.50",
+      "label": "Parivarta 24 §50",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.51",
+      "label": "Parivarta 24 §51",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.52",
+      "label": "Parivarta 24 §52",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.53",
+      "label": "Parivarta 24 §53",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.54",
+      "label": "Parivarta 24 §54",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.55",
+      "label": "Parivarta 24 §55",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.56",
+      "label": "Parivarta 24 §56",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.57",
+      "label": "Parivarta 24 §57",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.58",
+      "label": "Parivarta 24 §58",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.59",
+      "label": "Parivarta 24 §59",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.60",
+      "label": "Parivarta 24 §60",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.61",
+      "label": "Parivarta 24 §61",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.62",
+      "label": "Parivarta 24 §62",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.63",
+      "label": "Parivarta 24 §63",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.64",
+      "label": "Parivarta 24 §64",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.65",
+      "label": "Parivarta 24 §65",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.66",
+      "label": "Parivarta 24 §66",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.67",
+      "label": "Parivarta 24 §67",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.68",
+      "label": "Parivarta 24 §68",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.69",
+      "label": "Parivarta 24 §69",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.70",
+      "label": "Parivarta 24 §70",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.71",
+      "label": "Parivarta 24 §71",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.72",
+      "label": "Parivarta 24 §72",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.73",
+      "label": "Parivarta 24 §73",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.74",
+      "label": "Parivarta 24 §74",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.75",
+      "label": "Parivarta 24 §75",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.76",
+      "label": "Parivarta 24 §76",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.77",
+      "label": "Parivarta 24 §77",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.78",
+      "label": "Parivarta 24 §78",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.79",
+      "label": "Parivarta 24 §79",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.80",
+      "label": "Parivarta 24 §80",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.81",
+      "label": "Parivarta 24 §81",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.82",
+      "label": "Parivarta 24 §82",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.83",
+      "label": "Parivarta 24 §83",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.84",
+      "label": "Parivarta 24 §84",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.85",
+      "label": "Parivarta 24 §85",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.86",
+      "label": "Parivarta 24 §86",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.87",
+      "label": "Parivarta 24 §87",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.88",
+      "label": "Parivarta 24 §88",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.89",
+      "label": "Parivarta 24 §89",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.90",
+      "label": "Parivarta 24 §90",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.91",
+      "label": "Parivarta 24 §91",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.92",
+      "label": "Parivarta 24 §92",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.93",
+      "label": "Parivarta 24 §93",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.94",
+      "label": "Parivarta 24 §94",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.95",
+      "label": "Parivarta 24 §95",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.96",
+      "label": "Parivarta 24 §96",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.97",
+      "label": "Parivarta 24 §97",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.98",
+      "label": "Parivarta 24 §98",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.99",
+      "label": "Parivarta 24 §99",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.100",
+      "label": "Parivarta 24 §100",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.101",
+      "label": "Parivarta 24 §101",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.102",
+      "label": "Parivarta 24 §102",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.103",
+      "label": "Parivarta 24 §103",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.104",
+      "label": "Parivarta 24 §104",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.105",
+      "label": "Parivarta 24 §105",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.106",
+      "label": "Parivarta 24 §106",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.107",
+      "label": "Parivarta 24 §107",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.108",
+      "label": "Parivarta 24 §108",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.109",
+      "label": "Parivarta 24 §109",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.110",
+      "label": "Parivarta 24 §110",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.111",
+      "label": "Parivarta 24 §111",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.112",
+      "label": "Parivarta 24 §112",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.113",
+      "label": "Parivarta 24 §113",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.114",
+      "label": "Parivarta 24 §114",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.115",
+      "label": "Parivarta 24 §115",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.116",
+      "label": "Parivarta 24 §116",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.117",
+      "label": "Parivarta 24 §117",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.118",
+      "label": "Parivarta 24 §118",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.119",
+      "label": "Parivarta 24 §119",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.120",
+      "label": "Parivarta 24 §120",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.121",
+      "label": "Parivarta 24 §121",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.122",
+      "label": "Parivarta 24 §122",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.123",
+      "label": "Parivarta 24 §123",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.124",
+      "label": "Parivarta 24 §124",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.125",
+      "label": "Parivarta 24 §125",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.126",
+      "label": "Parivarta 24 §126",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.127",
+      "label": "Parivarta 24 §127",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.128",
+      "label": "Parivarta 24 §128",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.129",
+      "label": "Parivarta 24 §129",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.130",
+      "label": "Parivarta 24 §130",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.131",
+      "label": "Parivarta 24 §131",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.132",
+      "label": "Parivarta 24 §132",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.133",
+      "label": "Parivarta 24 §133",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.134",
+      "label": "Parivarta 24 §134",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.135",
+      "label": "Parivarta 24 §135",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.136",
+      "label": "Parivarta 24 §136",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.137",
+      "label": "Parivarta 24 §137",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.138",
+      "label": "Parivarta 24 §138",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.139",
+      "label": "Parivarta 24 §139",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.140",
+      "label": "Parivarta 24 §140",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.141",
+      "label": "Parivarta 24 §141",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.142",
+      "label": "Parivarta 24 §142",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.143",
+      "label": "Parivarta 24 §143",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.144",
+      "label": "Parivarta 24 §144",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.145",
+      "label": "Parivarta 24 §145",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.146",
+      "label": "Parivarta 24 §146",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.147",
+      "label": "Parivarta 24 §147",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.148",
+      "label": "Parivarta 24 §148",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.149",
+      "label": "Parivarta 24 §149",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.150",
+      "label": "Parivarta 24 §150",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.151",
+      "label": "Parivarta 24 §151",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.152",
+      "label": "Parivarta 24 §152",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.153",
+      "label": "Parivarta 24 §153",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.154",
+      "label": "Parivarta 24 §154",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.155",
+      "label": "Parivarta 24 §155",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "25.1",
+      "label": "Parivarta 25 §1",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.2",
+      "label": "Parivarta 25 §2",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.3",
+      "label": "Parivarta 25 §3",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.4",
+      "label": "Parivarta 25 §4",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.5",
+      "label": "Parivarta 25 §5",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.6",
+      "label": "Parivarta 25 §6",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.7",
+      "label": "Parivarta 25 §7",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.8",
+      "label": "Parivarta 25 §8",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.9",
+      "label": "Parivarta 25 §9",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.10",
+      "label": "Parivarta 25 §10",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.11",
+      "label": "Parivarta 25 §11",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.12",
+      "label": "Parivarta 25 §12",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.13",
+      "label": "Parivarta 25 §13",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.14",
+      "label": "Parivarta 25 §14",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.15",
+      "label": "Parivarta 25 §15",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.16",
+      "label": "Parivarta 25 §16",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.17",
+      "label": "Parivarta 25 §17",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.18",
+      "label": "Parivarta 25 §18",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.19",
+      "label": "Parivarta 25 §19",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.20",
+      "label": "Parivarta 25 §20",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.21",
+      "label": "Parivarta 25 §21",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.22",
+      "label": "Parivarta 25 §22",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.23",
+      "label": "Parivarta 25 §23",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.24",
+      "label": "Parivarta 25 §24",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.25",
+      "label": "Parivarta 25 §25",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.26",
+      "label": "Parivarta 25 §26",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.27",
+      "label": "Parivarta 25 §27",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.28",
+      "label": "Parivarta 25 §28",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.29",
+      "label": "Parivarta 25 §29",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.30",
+      "label": "Parivarta 25 §30",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.31",
+      "label": "Parivarta 25 §31",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.32",
+      "label": "Parivarta 25 §32",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.33",
+      "label": "Parivarta 25 §33",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.34",
+      "label": "Parivarta 25 §34",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.35",
+      "label": "Parivarta 25 §35",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.36",
+      "label": "Parivarta 25 §36",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "26.1",
+      "label": "Parivarta 26 §1",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.2",
+      "label": "Parivarta 26 §2",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.3",
+      "label": "Parivarta 26 §3",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.4",
+      "label": "Parivarta 26 §4",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.5",
+      "label": "Parivarta 26 §5",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.6",
+      "label": "Parivarta 26 §6",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.7",
+      "label": "Parivarta 26 §7",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.8",
+      "label": "Parivarta 26 §8",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.9",
+      "label": "Parivarta 26 §9",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.10",
+      "label": "Parivarta 26 §10",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.11",
+      "label": "Parivarta 26 §11",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.12",
+      "label": "Parivarta 26 §12",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.13",
+      "label": "Parivarta 26 §13",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.14",
+      "label": "Parivarta 26 §14",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.15",
+      "label": "Parivarta 26 §15",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.16",
+      "label": "Parivarta 26 §16",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.17",
+      "label": "Parivarta 26 §17",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.18",
+      "label": "Parivarta 26 §18",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.19",
+      "label": "Parivarta 26 §19",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.20",
+      "label": "Parivarta 26 §20",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.21",
+      "label": "Parivarta 26 §21",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.22",
+      "label": "Parivarta 26 §22",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.23",
+      "label": "Parivarta 26 §23",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.24",
+      "label": "Parivarta 26 §24",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.25",
+      "label": "Parivarta 26 §25",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.26",
+      "label": "Parivarta 26 §26",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.27",
+      "label": "Parivarta 26 §27",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.28",
+      "label": "Parivarta 26 §28",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.29",
+      "label": "Parivarta 26 §29",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.30",
+      "label": "Parivarta 26 §30",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.31",
+      "label": "Parivarta 26 §31",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.32",
+      "label": "Parivarta 26 §32",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.33",
+      "label": "Parivarta 26 §33",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.34",
+      "label": "Parivarta 26 §34",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.35",
+      "label": "Parivarta 26 §35",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.36",
+      "label": "Parivarta 26 §36",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.37",
+      "label": "Parivarta 26 §37",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.38",
+      "label": "Parivarta 26 §38",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.39",
+      "label": "Parivarta 26 §39",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.40",
+      "label": "Parivarta 26 §40",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.41",
+      "label": "Parivarta 26 §41",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.42",
+      "label": "Parivarta 26 §42",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.43",
+      "label": "Parivarta 26 §43",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.44",
+      "label": "Parivarta 26 §44",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.45",
+      "label": "Parivarta 26 §45",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.46",
+      "label": "Parivarta 26 §46",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.47",
+      "label": "Parivarta 26 §47",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.48",
+      "label": "Parivarta 26 §48",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.49",
+      "label": "Parivarta 26 §49",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.50",
+      "label": "Parivarta 26 §50",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.51",
+      "label": "Parivarta 26 §51",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.52",
+      "label": "Parivarta 26 §52",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.53",
+      "label": "Parivarta 26 §53",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.54",
+      "label": "Parivarta 26 §54",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.55",
+      "label": "Parivarta 26 §55",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.56",
+      "label": "Parivarta 26 §56",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.57",
+      "label": "Parivarta 26 §57",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.58",
+      "label": "Parivarta 26 §58",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.59",
+      "label": "Parivarta 26 §59",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.60",
+      "label": "Parivarta 26 §60",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.61",
+      "label": "Parivarta 26 §61",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.62",
+      "label": "Parivarta 26 §62",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.63",
+      "label": "Parivarta 26 §63",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.64",
+      "label": "Parivarta 26 §64",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.65",
+      "label": "Parivarta 26 §65",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.66",
+      "label": "Parivarta 26 §66",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.67",
+      "label": "Parivarta 26 §67",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.68",
+      "label": "Parivarta 26 §68",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.69",
+      "label": "Parivarta 26 §69",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.70",
+      "label": "Parivarta 26 §70",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.71",
+      "label": "Parivarta 26 §71",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.72",
+      "label": "Parivarta 26 §72",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.73",
+      "label": "Parivarta 26 §73",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.74",
+      "label": "Parivarta 26 §74",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.75",
+      "label": "Parivarta 26 §75",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "27.1",
+      "label": "Parivarta 27 §1",
+      "chapterRef": "27"
+    },
+    {
+      "reference": "27.2",
+      "label": "Parivarta 27 §2",
+      "chapterRef": "27"
+    },
+    {
+      "reference": "27.3",
+      "label": "Parivarta 27 §3",
+      "chapterRef": "27"
+    },
+    {
+      "reference": "27.4",
+      "label": "Parivarta 27 §4",
+      "chapterRef": "27"
+    },
+    {
+      "reference": "27.5",
+      "label": "Parivarta 27 §5",
+      "chapterRef": "27"
+    },
+    {
+      "reference": "27.6",
+      "label": "Parivarta 27 §6",
+      "chapterRef": "27"
+    },
+    {
+      "reference": "27.7",
+      "label": "Parivarta 27 §7",
+      "chapterRef": "27"
+    },
+    {
+      "reference": "27.8",
+      "label": "Parivarta 27 §8",
+      "chapterRef": "27"
+    },
+    {
+      "reference": "27.9",
+      "label": "Parivarta 27 §9",
+      "chapterRef": "27"
+    },
+    {
+      "reference": "27.10",
+      "label": "Parivarta 27 §10",
+      "chapterRef": "27"
+    }
+  ],
+  "editions": [
+    {
+      "slug": "lalitavistara-sa",
+      "language": "sa",
+      "editionType": "original",
+      "title": "Lalitavistara, Vaidya edition (GRETIL e-text)",
+      "translator": "",
+      "publisher": "GRETIL, Göttingen State and University Library",
+      "publicationYear": 2020,
+      "source": "gretil",
+      "license": "cc-by-nc-sa-4.0",
+      "rightsStatus": "CC BY-NC-SA 4.0 as recorded in the e-text header",
+      "attributionText": "The Lalitavistara — the Sanskrit text. GRETIL e-text 2020-07-31, Göttingen Register of Electronic Texts in Indian Languages. Source edition: P.L. Vaidya, Darbhanga: The Mithila Institute, 1958 (Buddhist Sanskrit Texts, 1). Input by members of the Digital Sanskrit Buddhist Canon Input Project.",
+      "structureScheme": "reference index; each passage is one verse as GRETIL numbers it",
+      "isSample": false,
+      "notes": "This e-text was provided to GRETIL in good faith that no copyright rights have been infringed. If anyone wishes to assert copyright over this file, please contact the GRETIL management at gretil(at)sub(dot)uni-goettingen(dot)de. The file will be immediately removed pending resolution of the claim. Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. GRETIL describes the reference scheme as: A reference is assembled consisting of a pragmatic abbreviation of the title: Lalitavistara = , the number of the  in arabic numerals, the number of the verse in arabic numerals.. The import cache stores the exact segments that were validated. The reader re-fetches the work from GRETIL and reports when the served count no longer matches the index."
+    }
+  ]
+}

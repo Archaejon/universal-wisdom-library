@@ -1,0 +1,6294 @@
+{
+  "slug": "bible-exodus",
+  "title": "Exodus (Christian Bible)",
+  "originalTitle": "שמות",
+  "transliteration": "",
+  "altTitles": [
+    "Exodus",
+    "Exodus — King James Version"
+  ],
+  "tradition": "christianity",
+  "school": "early-christianity",
+  "genre": "Scripture",
+  "textType": "Biblical book",
+  "category": "Old Testament",
+  "subcategory": "Torah / Pentateuch",
+  "originalLanguage": "he",
+  "dateStart": -1000,
+  "dateEnd": -400,
+  "dateDisplay": "Composed over several centuries in the first millennium BCE; the Masoretic text is attested from the 10th century CE",
+  "authorshipStatus": "traditional",
+  "author": "",
+  "attributionNote": "The text is anonymous or traditionally attributed; the attribution is part of the work's reception rather than a statement about the surviving author. The catalogue does not adjudicate it.",
+  "description": "The deliverance from Egypt, the covenant at Sinai and the instructions for the tabernacle. This is the book as received in Christian Bibles: the Westminster Leningrad Codex Hebrew text beside the King James Version of 1611.",
+  "historicalContext": "The five books traditionally ascribed to Moses, read as the foundation of Israelite law and covenant.",
+  "availabilityNote": "Streamed from the Bolls Bible API. Verse references follow the KJV; where the Hebrew counts a psalm superscription as verse 1, the original-language pane is one verse ahead.",
+  "featured": false,
+  "featuredNote": "",
+  "refScheme": "chapter.verse",
+  "isSample": false,
+  "textStorage": "streamed",
+  "chapters": [
+    {
+      "ref": "1",
+      "label": "Exodus 1"
+    },
+    {
+      "ref": "2",
+      "label": "Exodus 2"
+    },
+    {
+      "ref": "3",
+      "label": "Exodus 3"
+    },
+    {
+      "ref": "4",
+      "label": "Exodus 4"
+    },
+    {
+      "ref": "5",
+      "label": "Exodus 5"
+    },
+    {
+      "ref": "6",
+      "label": "Exodus 6"
+    },
+    {
+      "ref": "7",
+      "label": "Exodus 7"
+    },
+    {
+      "ref": "8",
+      "label": "Exodus 8"
+    },
+    {
+      "ref": "9",
+      "label": "Exodus 9"
+    },
+    {
+      "ref": "10",
+      "label": "Exodus 10"
+    },
+    {
+      "ref": "11",
+      "label": "Exodus 11"
+    },
+    {
+      "ref": "12",
+      "label": "Exodus 12"
+    },
+    {
+      "ref": "13",
+      "label": "Exodus 13"
+    },
+    {
+      "ref": "14",
+      "label": "Exodus 14"
+    },
+    {
+      "ref": "15",
+      "label": "Exodus 15"
+    },
+    {
+      "ref": "16",
+      "label": "Exodus 16"
+    },
+    {
+      "ref": "17",
+      "label": "Exodus 17"
+    },
+    {
+      "ref": "18",
+      "label": "Exodus 18"
+    },
+    {
+      "ref": "19",
+      "label": "Exodus 19"
+    },
+    {
+      "ref": "20",
+      "label": "Exodus 20"
+    },
+    {
+      "ref": "21",
+      "label": "Exodus 21"
+    },
+    {
+      "ref": "22",
+      "label": "Exodus 22"
+    },
+    {
+      "ref": "23",
+      "label": "Exodus 23"
+    },
+    {
+      "ref": "24",
+      "label": "Exodus 24"
+    },
+    {
+      "ref": "25",
+      "label": "Exodus 25"
+    },
+    {
+      "ref": "26",
+      "label": "Exodus 26"
+    },
+    {
+      "ref": "27",
+      "label": "Exodus 27"
+    },
+    {
+      "ref": "28",
+      "label": "Exodus 28"
+    },
+    {
+      "ref": "29",
+      "label": "Exodus 29"
+    },
+    {
+      "ref": "30",
+      "label": "Exodus 30"
+    },
+    {
+      "ref": "31",
+      "label": "Exodus 31"
+    },
+    {
+      "ref": "32",
+      "label": "Exodus 32"
+    },
+    {
+      "ref": "33",
+      "label": "Exodus 33"
+    },
+    {
+      "ref": "34",
+      "label": "Exodus 34"
+    },
+    {
+      "ref": "35",
+      "label": "Exodus 35"
+    },
+    {
+      "ref": "36",
+      "label": "Exodus 36"
+    },
+    {
+      "ref": "37",
+      "label": "Exodus 37"
+    },
+    {
+      "ref": "38",
+      "label": "Exodus 38"
+    },
+    {
+      "ref": "39",
+      "label": "Exodus 39"
+    },
+    {
+      "ref": "40",
+      "label": "Exodus 40"
+    }
+  ],
+  "passages": [
+    {
+      "reference": "1.1",
+      "label": "Exodus 1:1",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.2",
+      "label": "Exodus 1:2",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.3",
+      "label": "Exodus 1:3",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.4",
+      "label": "Exodus 1:4",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.5",
+      "label": "Exodus 1:5",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.6",
+      "label": "Exodus 1:6",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.7",
+      "label": "Exodus 1:7",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.8",
+      "label": "Exodus 1:8",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.9",
+      "label": "Exodus 1:9",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.10",
+      "label": "Exodus 1:10",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.11",
+      "label": "Exodus 1:11",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.12",
+      "label": "Exodus 1:12",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.13",
+      "label": "Exodus 1:13",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.14",
+      "label": "Exodus 1:14",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.15",
+      "label": "Exodus 1:15",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.16",
+      "label": "Exodus 1:16",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.17",
+      "label": "Exodus 1:17",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.18",
+      "label": "Exodus 1:18",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.19",
+      "label": "Exodus 1:19",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.20",
+      "label": "Exodus 1:20",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.21",
+      "label": "Exodus 1:21",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.22",
+      "label": "Exodus 1:22",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "2.1",
+      "label": "Exodus 2:1",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.2",
+      "label": "Exodus 2:2",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.3",
+      "label": "Exodus 2:3",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.4",
+      "label": "Exodus 2:4",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.5",
+      "label": "Exodus 2:5",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.6",
+      "label": "Exodus 2:6",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.7",
+      "label": "Exodus 2:7",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.8",
+      "label": "Exodus 2:8",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.9",
+      "label": "Exodus 2:9",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.10",
+      "label": "Exodus 2:10",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.11",
+      "label": "Exodus 2:11",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.12",
+      "label": "Exodus 2:12",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.13",
+      "label": "Exodus 2:13",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.14",
+      "label": "Exodus 2:14",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.15",
+      "label": "Exodus 2:15",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.16",
+      "label": "Exodus 2:16",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.17",
+      "label": "Exodus 2:17",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.18",
+      "label": "Exodus 2:18",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.19",
+      "label": "Exodus 2:19",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.20",
+      "label": "Exodus 2:20",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.21",
+      "label": "Exodus 2:21",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.22",
+      "label": "Exodus 2:22",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.23",
+      "label": "Exodus 2:23",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.24",
+      "label": "Exodus 2:24",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.25",
+      "label": "Exodus 2:25",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "3.1",
+      "label": "Exodus 3:1",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.2",
+      "label": "Exodus 3:2",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.3",
+      "label": "Exodus 3:3",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.4",
+      "label": "Exodus 3:4",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.5",
+      "label": "Exodus 3:5",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.6",
+      "label": "Exodus 3:6",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.7",
+      "label": "Exodus 3:7",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.8",
+      "label": "Exodus 3:8",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.9",
+      "label": "Exodus 3:9",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.10",
+      "label": "Exodus 3:10",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.11",
+      "label": "Exodus 3:11",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.12",
+      "label": "Exodus 3:12",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.13",
+      "label": "Exodus 3:13",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.14",
+      "label": "Exodus 3:14",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.15",
+      "label": "Exodus 3:15",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.16",
+      "label": "Exodus 3:16",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.17",
+      "label": "Exodus 3:17",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.18",
+      "label": "Exodus 3:18",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.19",
+      "label": "Exodus 3:19",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.20",
+      "label": "Exodus 3:20",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.21",
+      "label": "Exodus 3:21",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.22",
+      "label": "Exodus 3:22",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "4.1",
+      "label": "Exodus 4:1",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.2",
+      "label": "Exodus 4:2",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.3",
+      "label": "Exodus 4:3",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.4",
+      "label": "Exodus 4:4",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.5",
+      "label": "Exodus 4:5",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.6",
+      "label": "Exodus 4:6",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.7",
+      "label": "Exodus 4:7",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.8",
+      "label": "Exodus 4:8",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.9",
+      "label": "Exodus 4:9",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.10",
+      "label": "Exodus 4:10",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.11",
+      "label": "Exodus 4:11",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.12",
+      "label": "Exodus 4:12",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.13",
+      "label": "Exodus 4:13",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.14",
+      "label": "Exodus 4:14",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.15",
+      "label": "Exodus 4:15",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.16",
+      "label": "Exodus 4:16",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.17",
+      "label": "Exodus 4:17",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.18",
+      "label": "Exodus 4:18",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.19",
+      "label": "Exodus 4:19",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.20",
+      "label": "Exodus 4:20",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.21",
+      "label": "Exodus 4:21",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.22",
+      "label": "Exodus 4:22",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.23",
+      "label": "Exodus 4:23",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.24",
+      "label": "Exodus 4:24",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.25",
+      "label": "Exodus 4:25",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.26",
+      "label": "Exodus 4:26",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.27",
+      "label": "Exodus 4:27",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.28",
+      "label": "Exodus 4:28",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.29",
+      "label": "Exodus 4:29",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.30",
+      "label": "Exodus 4:30",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.31",
+      "label": "Exodus 4:31",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "5.1",
+      "label": "Exodus 5:1",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.2",
+      "label": "Exodus 5:2",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.3",
+      "label": "Exodus 5:3",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.4",
+      "label": "Exodus 5:4",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.5",
+      "label": "Exodus 5:5",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.6",
+      "label": "Exodus 5:6",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.7",
+      "label": "Exodus 5:7",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.8",
+      "label": "Exodus 5:8",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.9",
+      "label": "Exodus 5:9",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.10",
+      "label": "Exodus 5:10",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.11",
+      "label": "Exodus 5:11",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.12",
+      "label": "Exodus 5:12",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.13",
+      "label": "Exodus 5:13",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.14",
+      "label": "Exodus 5:14",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.15",
+      "label": "Exodus 5:15",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.16",
+      "label": "Exodus 5:16",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.17",
+      "label": "Exodus 5:17",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.18",
+      "label": "Exodus 5:18",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.19",
+      "label": "Exodus 5:19",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.20",
+      "label": "Exodus 5:20",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.21",
+      "label": "Exodus 5:21",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.22",
+      "label": "Exodus 5:22",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.23",
+      "label": "Exodus 5:23",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "6.1",
+      "label": "Exodus 6:1",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.2",
+      "label": "Exodus 6:2",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.3",
+      "label": "Exodus 6:3",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.4",
+      "label": "Exodus 6:4",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.5",
+      "label": "Exodus 6:5",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.6",
+      "label": "Exodus 6:6",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.7",
+      "label": "Exodus 6:7",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.8",
+      "label": "Exodus 6:8",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.9",
+      "label": "Exodus 6:9",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.10",
+      "label": "Exodus 6:10",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.11",
+      "label": "Exodus 6:11",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.12",
+      "label": "Exodus 6:12",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.13",
+      "label": "Exodus 6:13",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.14",
+      "label": "Exodus 6:14",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.15",
+      "label": "Exodus 6:15",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.16",
+      "label": "Exodus 6:16",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.17",
+      "label": "Exodus 6:17",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.18",
+      "label": "Exodus 6:18",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.19",
+      "label": "Exodus 6:19",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.20",
+      "label": "Exodus 6:20",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.21",
+      "label": "Exodus 6:21",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.22",
+      "label": "Exodus 6:22",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.23",
+      "label": "Exodus 6:23",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.24",
+      "label": "Exodus 6:24",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.25",
+      "label": "Exodus 6:25",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.26",
+      "label": "Exodus 6:26",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.27",
+      "label": "Exodus 6:27",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.28",
+      "label": "Exodus 6:28",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.29",
+      "label": "Exodus 6:29",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.30",
+      "label": "Exodus 6:30",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "7.1",
+      "label": "Exodus 7:1",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.2",
+      "label": "Exodus 7:2",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.3",
+      "label": "Exodus 7:3",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.4",
+      "label": "Exodus 7:4",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.5",
+      "label": "Exodus 7:5",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.6",
+      "label": "Exodus 7:6",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.7",
+      "label": "Exodus 7:7",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.8",
+      "label": "Exodus 7:8",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.9",
+      "label": "Exodus 7:9",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.10",
+      "label": "Exodus 7:10",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.11",
+      "label": "Exodus 7:11",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.12",
+      "label": "Exodus 7:12",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.13",
+      "label": "Exodus 7:13",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.14",
+      "label": "Exodus 7:14",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.15",
+      "label": "Exodus 7:15",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.16",
+      "label": "Exodus 7:16",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.17",
+      "label": "Exodus 7:17",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.18",
+      "label": "Exodus 7:18",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.19",
+      "label": "Exodus 7:19",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.20",
+      "label": "Exodus 7:20",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.21",
+      "label": "Exodus 7:21",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.22",
+      "label": "Exodus 7:22",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.23",
+      "label": "Exodus 7:23",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.24",
+      "label": "Exodus 7:24",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.25",
+      "label": "Exodus 7:25",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "8.1",
+      "label": "Exodus 8:1",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.2",
+      "label": "Exodus 8:2",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.3",
+      "label": "Exodus 8:3",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.4",
+      "label": "Exodus 8:4",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.5",
+      "label": "Exodus 8:5",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.6",
+      "label": "Exodus 8:6",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.7",
+      "label": "Exodus 8:7",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.8",
+      "label": "Exodus 8:8",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.9",
+      "label": "Exodus 8:9",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.10",
+      "label": "Exodus 8:10",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.11",
+      "label": "Exodus 8:11",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.12",
+      "label": "Exodus 8:12",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.13",
+      "label": "Exodus 8:13",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.14",
+      "label": "Exodus 8:14",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.15",
+      "label": "Exodus 8:15",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.16",
+      "label": "Exodus 8:16",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.17",
+      "label": "Exodus 8:17",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.18",
+      "label": "Exodus 8:18",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.19",
+      "label": "Exodus 8:19",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.20",
+      "label": "Exodus 8:20",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.21",
+      "label": "Exodus 8:21",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.22",
+      "label": "Exodus 8:22",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.23",
+      "label": "Exodus 8:23",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.24",
+      "label": "Exodus 8:24",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.25",
+      "label": "Exodus 8:25",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.26",
+      "label": "Exodus 8:26",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.27",
+      "label": "Exodus 8:27",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.28",
+      "label": "Exodus 8:28",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.29",
+      "label": "Exodus 8:29",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.30",
+      "label": "Exodus 8:30",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.31",
+      "label": "Exodus 8:31",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.32",
+      "label": "Exodus 8:32",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "9.1",
+      "label": "Exodus 9:1",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.2",
+      "label": "Exodus 9:2",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.3",
+      "label": "Exodus 9:3",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.4",
+      "label": "Exodus 9:4",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.5",
+      "label": "Exodus 9:5",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.6",
+      "label": "Exodus 9:6",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.7",
+      "label": "Exodus 9:7",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.8",
+      "label": "Exodus 9:8",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.9",
+      "label": "Exodus 9:9",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.10",
+      "label": "Exodus 9:10",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.11",
+      "label": "Exodus 9:11",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.12",
+      "label": "Exodus 9:12",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.13",
+      "label": "Exodus 9:13",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.14",
+      "label": "Exodus 9:14",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.15",
+      "label": "Exodus 9:15",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.16",
+      "label": "Exodus 9:16",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.17",
+      "label": "Exodus 9:17",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.18",
+      "label": "Exodus 9:18",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.19",
+      "label": "Exodus 9:19",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.20",
+      "label": "Exodus 9:20",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.21",
+      "label": "Exodus 9:21",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.22",
+      "label": "Exodus 9:22",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.23",
+      "label": "Exodus 9:23",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.24",
+      "label": "Exodus 9:24",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.25",
+      "label": "Exodus 9:25",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.26",
+      "label": "Exodus 9:26",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.27",
+      "label": "Exodus 9:27",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.28",
+      "label": "Exodus 9:28",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.29",
+      "label": "Exodus 9:29",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.30",
+      "label": "Exodus 9:30",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.31",
+      "label": "Exodus 9:31",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.32",
+      "label": "Exodus 9:32",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.33",
+      "label": "Exodus 9:33",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.34",
+      "label": "Exodus 9:34",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.35",
+      "label": "Exodus 9:35",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "10.1",
+      "label": "Exodus 10:1",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.2",
+      "label": "Exodus 10:2",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.3",
+      "label": "Exodus 10:3",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.4",
+      "label": "Exodus 10:4",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.5",
+      "label": "Exodus 10:5",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.6",
+      "label": "Exodus 10:6",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.7",
+      "label": "Exodus 10:7",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.8",
+      "label": "Exodus 10:8",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.9",
+      "label": "Exodus 10:9",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.10",
+      "label": "Exodus 10:10",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.11",
+      "label": "Exodus 10:11",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.12",
+      "label": "Exodus 10:12",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.13",
+      "label": "Exodus 10:13",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.14",
+      "label": "Exodus 10:14",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.15",
+      "label": "Exodus 10:15",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.16",
+      "label": "Exodus 10:16",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.17",
+      "label": "Exodus 10:17",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.18",
+      "label": "Exodus 10:18",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.19",
+      "label": "Exodus 10:19",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.20",
+      "label": "Exodus 10:20",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.21",
+      "label": "Exodus 10:21",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.22",
+      "label": "Exodus 10:22",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.23",
+      "label": "Exodus 10:23",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.24",
+      "label": "Exodus 10:24",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.25",
+      "label": "Exodus 10:25",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.26",
+      "label": "Exodus 10:26",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.27",
+      "label": "Exodus 10:27",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.28",
+      "label": "Exodus 10:28",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.29",
+      "label": "Exodus 10:29",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "11.1",
+      "label": "Exodus 11:1",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.2",
+      "label": "Exodus 11:2",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.3",
+      "label": "Exodus 11:3",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.4",
+      "label": "Exodus 11:4",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.5",
+      "label": "Exodus 11:5",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.6",
+      "label": "Exodus 11:6",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.7",
+      "label": "Exodus 11:7",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.8",
+      "label": "Exodus 11:8",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.9",
+      "label": "Exodus 11:9",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.10",
+      "label": "Exodus 11:10",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "12.1",
+      "label": "Exodus 12:1",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.2",
+      "label": "Exodus 12:2",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.3",
+      "label": "Exodus 12:3",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.4",
+      "label": "Exodus 12:4",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.5",
+      "label": "Exodus 12:5",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.6",
+      "label": "Exodus 12:6",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.7",
+      "label": "Exodus 12:7",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.8",
+      "label": "Exodus 12:8",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.9",
+      "label": "Exodus 12:9",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.10",
+      "label": "Exodus 12:10",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.11",
+      "label": "Exodus 12:11",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.12",
+      "label": "Exodus 12:12",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.13",
+      "label": "Exodus 12:13",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.14",
+      "label": "Exodus 12:14",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.15",
+      "label": "Exodus 12:15",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.16",
+      "label": "Exodus 12:16",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.17",
+      "label": "Exodus 12:17",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.18",
+      "label": "Exodus 12:18",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.19",
+      "label": "Exodus 12:19",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.20",
+      "label": "Exodus 12:20",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.21",
+      "label": "Exodus 12:21",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.22",
+      "label": "Exodus 12:22",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.23",
+      "label": "Exodus 12:23",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.24",
+      "label": "Exodus 12:24",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.25",
+      "label": "Exodus 12:25",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.26",
+      "label": "Exodus 12:26",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.27",
+      "label": "Exodus 12:27",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.28",
+      "label": "Exodus 12:28",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.29",
+      "label": "Exodus 12:29",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.30",
+      "label": "Exodus 12:30",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.31",
+      "label": "Exodus 12:31",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.32",
+      "label": "Exodus 12:32",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.33",
+      "label": "Exodus 12:33",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.34",
+      "label": "Exodus 12:34",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.35",
+      "label": "Exodus 12:35",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.36",
+      "label": "Exodus 12:36",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.37",
+      "label": "Exodus 12:37",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.38",
+      "label": "Exodus 12:38",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.39",
+      "label": "Exodus 12:39",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.40",
+      "label": "Exodus 12:40",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.41",
+      "label": "Exodus 12:41",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.42",
+      "label": "Exodus 12:42",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.43",
+      "label": "Exodus 12:43",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.44",
+      "label": "Exodus 12:44",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.45",
+      "label": "Exodus 12:45",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.46",
+      "label": "Exodus 12:46",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.47",
+      "label": "Exodus 12:47",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.48",
+      "label": "Exodus 12:48",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.49",
+      "label": "Exodus 12:49",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.50",
+      "label": "Exodus 12:50",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.51",
+      "label": "Exodus 12:51",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "13.1",
+      "label": "Exodus 13:1",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.2",
+      "label": "Exodus 13:2",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.3",
+      "label": "Exodus 13:3",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.4",
+      "label": "Exodus 13:4",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.5",
+      "label": "Exodus 13:5",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.6",
+      "label": "Exodus 13:6",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.7",
+      "label": "Exodus 13:7",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.8",
+      "label": "Exodus 13:8",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.9",
+      "label": "Exodus 13:9",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.10",
+      "label": "Exodus 13:10",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.11",
+      "label": "Exodus 13:11",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.12",
+      "label": "Exodus 13:12",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.13",
+      "label": "Exodus 13:13",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.14",
+      "label": "Exodus 13:14",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.15",
+      "label": "Exodus 13:15",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.16",
+      "label": "Exodus 13:16",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.17",
+      "label": "Exodus 13:17",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.18",
+      "label": "Exodus 13:18",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.19",
+      "label": "Exodus 13:19",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.20",
+      "label": "Exodus 13:20",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.21",
+      "label": "Exodus 13:21",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.22",
+      "label": "Exodus 13:22",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "14.1",
+      "label": "Exodus 14:1",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.2",
+      "label": "Exodus 14:2",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.3",
+      "label": "Exodus 14:3",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.4",
+      "label": "Exodus 14:4",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.5",
+      "label": "Exodus 14:5",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.6",
+      "label": "Exodus 14:6",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.7",
+      "label": "Exodus 14:7",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.8",
+      "label": "Exodus 14:8",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.9",
+      "label": "Exodus 14:9",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.10",
+      "label": "Exodus 14:10",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.11",
+      "label": "Exodus 14:11",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.12",
+      "label": "Exodus 14:12",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.13",
+      "label": "Exodus 14:13",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.14",
+      "label": "Exodus 14:14",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.15",
+      "label": "Exodus 14:15",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.16",
+      "label": "Exodus 14:16",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.17",
+      "label": "Exodus 14:17",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.18",
+      "label": "Exodus 14:18",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.19",
+      "label": "Exodus 14:19",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.20",
+      "label": "Exodus 14:20",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.21",
+      "label": "Exodus 14:21",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.22",
+      "label": "Exodus 14:22",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.23",
+      "label": "Exodus 14:23",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.24",
+      "label": "Exodus 14:24",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.25",
+      "label": "Exodus 14:25",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.26",
+      "label": "Exodus 14:26",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.27",
+      "label": "Exodus 14:27",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.28",
+      "label": "Exodus 14:28",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.29",
+      "label": "Exodus 14:29",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.30",
+      "label": "Exodus 14:30",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.31",
+      "label": "Exodus 14:31",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "15.1",
+      "label": "Exodus 15:1",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.2",
+      "label": "Exodus 15:2",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.3",
+      "label": "Exodus 15:3",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.4",
+      "label": "Exodus 15:4",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.5",
+      "label": "Exodus 15:5",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.6",
+      "label": "Exodus 15:6",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.7",
+      "label": "Exodus 15:7",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.8",
+      "label": "Exodus 15:8",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.9",
+      "label": "Exodus 15:9",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.10",
+      "label": "Exodus 15:10",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.11",
+      "label": "Exodus 15:11",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.12",
+      "label": "Exodus 15:12",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.13",
+      "label": "Exodus 15:13",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.14",
+      "label": "Exodus 15:14",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.15",
+      "label": "Exodus 15:15",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.16",
+      "label": "Exodus 15:16",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.17",
+      "label": "Exodus 15:17",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.18",
+      "label": "Exodus 15:18",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.19",
+      "label": "Exodus 15:19",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.20",
+      "label": "Exodus 15:20",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.21",
+      "label": "Exodus 15:21",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.22",
+      "label": "Exodus 15:22",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.23",
+      "label": "Exodus 15:23",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.24",
+      "label": "Exodus 15:24",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.25",
+      "label": "Exodus 15:25",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.26",
+      "label": "Exodus 15:26",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.27",
+      "label": "Exodus 15:27",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "16.1",
+      "label": "Exodus 16:1",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.2",
+      "label": "Exodus 16:2",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.3",
+      "label": "Exodus 16:3",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.4",
+      "label": "Exodus 16:4",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.5",
+      "label": "Exodus 16:5",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.6",
+      "label": "Exodus 16:6",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.7",
+      "label": "Exodus 16:7",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.8",
+      "label": "Exodus 16:8",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.9",
+      "label": "Exodus 16:9",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.10",
+      "label": "Exodus 16:10",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.11",
+      "label": "Exodus 16:11",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.12",
+      "label": "Exodus 16:12",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.13",
+      "label": "Exodus 16:13",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.14",
+      "label": "Exodus 16:14",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.15",
+      "label": "Exodus 16:15",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.16",
+      "label": "Exodus 16:16",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.17",
+      "label": "Exodus 16:17",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.18",
+      "label": "Exodus 16:18",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.19",
+      "label": "Exodus 16:19",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.20",
+      "label": "Exodus 16:20",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.21",
+      "label": "Exodus 16:21",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.22",
+      "label": "Exodus 16:22",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.23",
+      "label": "Exodus 16:23",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.24",
+      "label": "Exodus 16:24",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.25",
+      "label": "Exodus 16:25",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.26",
+      "label": "Exodus 16:26",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.27",
+      "label": "Exodus 16:27",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.28",
+      "label": "Exodus 16:28",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.29",
+      "label": "Exodus 16:29",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.30",
+      "label": "Exodus 16:30",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.31",
+      "label": "Exodus 16:31",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.32",
+      "label": "Exodus 16:32",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.33",
+      "label": "Exodus 16:33",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.34",
+      "label": "Exodus 16:34",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.35",
+      "label": "Exodus 16:35",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.36",
+      "label": "Exodus 16:36",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "17.1",
+      "label": "Exodus 17:1",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.2",
+      "label": "Exodus 17:2",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.3",
+      "label": "Exodus 17:3",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.4",
+      "label": "Exodus 17:4",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.5",
+      "label": "Exodus 17:5",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.6",
+      "label": "Exodus 17:6",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.7",
+      "label": "Exodus 17:7",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.8",
+      "label": "Exodus 17:8",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.9",
+      "label": "Exodus 17:9",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.10",
+      "label": "Exodus 17:10",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.11",
+      "label": "Exodus 17:11",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.12",
+      "label": "Exodus 17:12",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.13",
+      "label": "Exodus 17:13",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.14",
+      "label": "Exodus 17:14",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.15",
+      "label": "Exodus 17:15",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.16",
+      "label": "Exodus 17:16",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "18.1",
+      "label": "Exodus 18:1",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.2",
+      "label": "Exodus 18:2",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.3",
+      "label": "Exodus 18:3",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.4",
+      "label": "Exodus 18:4",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.5",
+      "label": "Exodus 18:5",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.6",
+      "label": "Exodus 18:6",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.7",
+      "label": "Exodus 18:7",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.8",
+      "label": "Exodus 18:8",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.9",
+      "label": "Exodus 18:9",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.10",
+      "label": "Exodus 18:10",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.11",
+      "label": "Exodus 18:11",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.12",
+      "label": "Exodus 18:12",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.13",
+      "label": "Exodus 18:13",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.14",
+      "label": "Exodus 18:14",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.15",
+      "label": "Exodus 18:15",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.16",
+      "label": "Exodus 18:16",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.17",
+      "label": "Exodus 18:17",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.18",
+      "label": "Exodus 18:18",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.19",
+      "label": "Exodus 18:19",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.20",
+      "label": "Exodus 18:20",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.21",
+      "label": "Exodus 18:21",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.22",
+      "label": "Exodus 18:22",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.23",
+      "label": "Exodus 18:23",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.24",
+      "label": "Exodus 18:24",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.25",
+      "label": "Exodus 18:25",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.26",
+      "label": "Exodus 18:26",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.27",
+      "label": "Exodus 18:27",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "19.1",
+      "label": "Exodus 19:1",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.2",
+      "label": "Exodus 19:2",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.3",
+      "label": "Exodus 19:3",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.4",
+      "label": "Exodus 19:4",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.5",
+      "label": "Exodus 19:5",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.6",
+      "label": "Exodus 19:6",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.7",
+      "label": "Exodus 19:7",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.8",
+      "label": "Exodus 19:8",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.9",
+      "label": "Exodus 19:9",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.10",
+      "label": "Exodus 19:10",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.11",
+      "label": "Exodus 19:11",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.12",
+      "label": "Exodus 19:12",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.13",
+      "label": "Exodus 19:13",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.14",
+      "label": "Exodus 19:14",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.15",
+      "label": "Exodus 19:15",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.16",
+      "label": "Exodus 19:16",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.17",
+      "label": "Exodus 19:17",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.18",
+      "label": "Exodus 19:18",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.19",
+      "label": "Exodus 19:19",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.20",
+      "label": "Exodus 19:20",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.21",
+      "label": "Exodus 19:21",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.22",
+      "label": "Exodus 19:22",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.23",
+      "label": "Exodus 19:23",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.24",
+      "label": "Exodus 19:24",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.25",
+      "label": "Exodus 19:25",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "20.1",
+      "label": "Exodus 20:1",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.2",
+      "label": "Exodus 20:2",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.3",
+      "label": "Exodus 20:3",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.4",
+      "label": "Exodus 20:4",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.5",
+      "label": "Exodus 20:5",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.6",
+      "label": "Exodus 20:6",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.7",
+      "label": "Exodus 20:7",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.8",
+      "label": "Exodus 20:8",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.9",
+      "label": "Exodus 20:9",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.10",
+      "label": "Exodus 20:10",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.11",
+      "label": "Exodus 20:11",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.12",
+      "label": "Exodus 20:12",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.13",
+      "label": "Exodus 20:13",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.14",
+      "label": "Exodus 20:14",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.15",
+      "label": "Exodus 20:15",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.16",
+      "label": "Exodus 20:16",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.17",
+      "label": "Exodus 20:17",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.18",
+      "label": "Exodus 20:18",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.19",
+      "label": "Exodus 20:19",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.20",
+      "label": "Exodus 20:20",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.21",
+      "label": "Exodus 20:21",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.22",
+      "label": "Exodus 20:22",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.23",
+      "label": "Exodus 20:23",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.24",
+      "label": "Exodus 20:24",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.25",
+      "label": "Exodus 20:25",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.26",
+      "label": "Exodus 20:26",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "21.1",
+      "label": "Exodus 21:1",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.2",
+      "label": "Exodus 21:2",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.3",
+      "label": "Exodus 21:3",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.4",
+      "label": "Exodus 21:4",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.5",
+      "label": "Exodus 21:5",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.6",
+      "label": "Exodus 21:6",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.7",
+      "label": "Exodus 21:7",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.8",
+      "label": "Exodus 21:8",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.9",
+      "label": "Exodus 21:9",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.10",
+      "label": "Exodus 21:10",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.11",
+      "label": "Exodus 21:11",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.12",
+      "label": "Exodus 21:12",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.13",
+      "label": "Exodus 21:13",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.14",
+      "label": "Exodus 21:14",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.15",
+      "label": "Exodus 21:15",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.16",
+      "label": "Exodus 21:16",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.17",
+      "label": "Exodus 21:17",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.18",
+      "label": "Exodus 21:18",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.19",
+      "label": "Exodus 21:19",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.20",
+      "label": "Exodus 21:20",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.21",
+      "label": "Exodus 21:21",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.22",
+      "label": "Exodus 21:22",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.23",
+      "label": "Exodus 21:23",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.24",
+      "label": "Exodus 21:24",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.25",
+      "label": "Exodus 21:25",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.26",
+      "label": "Exodus 21:26",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.27",
+      "label": "Exodus 21:27",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.28",
+      "label": "Exodus 21:28",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.29",
+      "label": "Exodus 21:29",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.30",
+      "label": "Exodus 21:30",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.31",
+      "label": "Exodus 21:31",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.32",
+      "label": "Exodus 21:32",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.33",
+      "label": "Exodus 21:33",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.34",
+      "label": "Exodus 21:34",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.35",
+      "label": "Exodus 21:35",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.36",
+      "label": "Exodus 21:36",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "22.1",
+      "label": "Exodus 22:1",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.2",
+      "label": "Exodus 22:2",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.3",
+      "label": "Exodus 22:3",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.4",
+      "label": "Exodus 22:4",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.5",
+      "label": "Exodus 22:5",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.6",
+      "label": "Exodus 22:6",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.7",
+      "label": "Exodus 22:7",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.8",
+      "label": "Exodus 22:8",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.9",
+      "label": "Exodus 22:9",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.10",
+      "label": "Exodus 22:10",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.11",
+      "label": "Exodus 22:11",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.12",
+      "label": "Exodus 22:12",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.13",
+      "label": "Exodus 22:13",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.14",
+      "label": "Exodus 22:14",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.15",
+      "label": "Exodus 22:15",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.16",
+      "label": "Exodus 22:16",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.17",
+      "label": "Exodus 22:17",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.18",
+      "label": "Exodus 22:18",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.19",
+      "label": "Exodus 22:19",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.20",
+      "label": "Exodus 22:20",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.21",
+      "label": "Exodus 22:21",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.22",
+      "label": "Exodus 22:22",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.23",
+      "label": "Exodus 22:23",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.24",
+      "label": "Exodus 22:24",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.25",
+      "label": "Exodus 22:25",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.26",
+      "label": "Exodus 22:26",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.27",
+      "label": "Exodus 22:27",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.28",
+      "label": "Exodus 22:28",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.29",
+      "label": "Exodus 22:29",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.30",
+      "label": "Exodus 22:30",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.31",
+      "label": "Exodus 22:31",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "23.1",
+      "label": "Exodus 23:1",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.2",
+      "label": "Exodus 23:2",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.3",
+      "label": "Exodus 23:3",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.4",
+      "label": "Exodus 23:4",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.5",
+      "label": "Exodus 23:5",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.6",
+      "label": "Exodus 23:6",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.7",
+      "label": "Exodus 23:7",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.8",
+      "label": "Exodus 23:8",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.9",
+      "label": "Exodus 23:9",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.10",
+      "label": "Exodus 23:10",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.11",
+      "label": "Exodus 23:11",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.12",
+      "label": "Exodus 23:12",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.13",
+      "label": "Exodus 23:13",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.14",
+      "label": "Exodus 23:14",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.15",
+      "label": "Exodus 23:15",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.16",
+      "label": "Exodus 23:16",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.17",
+      "label": "Exodus 23:17",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.18",
+      "label": "Exodus 23:18",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.19",
+      "label": "Exodus 23:19",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.20",
+      "label": "Exodus 23:20",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.21",
+      "label": "Exodus 23:21",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.22",
+      "label": "Exodus 23:22",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.23",
+      "label": "Exodus 23:23",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.24",
+      "label": "Exodus 23:24",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.25",
+      "label": "Exodus 23:25",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.26",
+      "label": "Exodus 23:26",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.27",
+      "label": "Exodus 23:27",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.28",
+      "label": "Exodus 23:28",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.29",
+      "label": "Exodus 23:29",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.30",
+      "label": "Exodus 23:30",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.31",
+      "label": "Exodus 23:31",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.32",
+      "label": "Exodus 23:32",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.33",
+      "label": "Exodus 23:33",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "24.1",
+      "label": "Exodus 24:1",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.2",
+      "label": "Exodus 24:2",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.3",
+      "label": "Exodus 24:3",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.4",
+      "label": "Exodus 24:4",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.5",
+      "label": "Exodus 24:5",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.6",
+      "label": "Exodus 24:6",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.7",
+      "label": "Exodus 24:7",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.8",
+      "label": "Exodus 24:8",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.9",
+      "label": "Exodus 24:9",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.10",
+      "label": "Exodus 24:10",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.11",
+      "label": "Exodus 24:11",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.12",
+      "label": "Exodus 24:12",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.13",
+      "label": "Exodus 24:13",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.14",
+      "label": "Exodus 24:14",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.15",
+      "label": "Exodus 24:15",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.16",
+      "label": "Exodus 24:16",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.17",
+      "label": "Exodus 24:17",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.18",
+      "label": "Exodus 24:18",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "25.1",
+      "label": "Exodus 25:1",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.2",
+      "label": "Exodus 25:2",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.3",
+      "label": "Exodus 25:3",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.4",
+      "label": "Exodus 25:4",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.5",
+      "label": "Exodus 25:5",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.6",
+      "label": "Exodus 25:6",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.7",
+      "label": "Exodus 25:7",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.8",
+      "label": "Exodus 25:8",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.9",
+      "label": "Exodus 25:9",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.10",
+      "label": "Exodus 25:10",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.11",
+      "label": "Exodus 25:11",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.12",
+      "label": "Exodus 25:12",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.13",
+      "label": "Exodus 25:13",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.14",
+      "label": "Exodus 25:14",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.15",
+      "label": "Exodus 25:15",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.16",
+      "label": "Exodus 25:16",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.17",
+      "label": "Exodus 25:17",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.18",
+      "label": "Exodus 25:18",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.19",
+      "label": "Exodus 25:19",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.20",
+      "label": "Exodus 25:20",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.21",
+      "label": "Exodus 25:21",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.22",
+      "label": "Exodus 25:22",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.23",
+      "label": "Exodus 25:23",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.24",
+      "label": "Exodus 25:24",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.25",
+      "label": "Exodus 25:25",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.26",
+      "label": "Exodus 25:26",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.27",
+      "label": "Exodus 25:27",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.28",
+      "label": "Exodus 25:28",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.29",
+      "label": "Exodus 25:29",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.30",
+      "label": "Exodus 25:30",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.31",
+      "label": "Exodus 25:31",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.32",
+      "label": "Exodus 25:32",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.33",
+      "label": "Exodus 25:33",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.34",
+      "label": "Exodus 25:34",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.35",
+      "label": "Exodus 25:35",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.36",
+      "label": "Exodus 25:36",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.37",
+      "label": "Exodus 25:37",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.38",
+      "label": "Exodus 25:38",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.39",
+      "label": "Exodus 25:39",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.40",
+      "label": "Exodus 25:40",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "26.1",
+      "label": "Exodus 26:1",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.2",
+      "label": "Exodus 26:2",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.3",
+      "label": "Exodus 26:3",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.4",
+      "label": "Exodus 26:4",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.5",
+      "label": "Exodus 26:5",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.6",
+      "label": "Exodus 26:6",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.7",
+      "label": "Exodus 26:7",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.8",
+      "label": "Exodus 26:8",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.9",
+      "label": "Exodus 26:9",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.10",
+      "label": "Exodus 26:10",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.11",
+      "label": "Exodus 26:11",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.12",
+      "label": "Exodus 26:12",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.13",
+      "label": "Exodus 26:13",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.14",
+      "label": "Exodus 26:14",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.15",
+      "label": "Exodus 26:15",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.16",
+      "label": "Exodus 26:16",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.17",
+      "label": "Exodus 26:17",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.18",
+      "label": "Exodus 26:18",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.19",
+      "label": "Exodus 26:19",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.20",
+      "label": "Exodus 26:20",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.21",
+      "label": "Exodus 26:21",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.22",
+      "label": "Exodus 26:22",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.23",
+      "label": "Exodus 26:23",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.24",
+      "label": "Exodus 26:24",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.25",
+      "label": "Exodus 26:25",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.26",
+      "label": "Exodus 26:26",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.27",
+      "label": "Exodus 26:27",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.28",
+      "label": "Exodus 26:28",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.29",
+      "label": "Exodus 26:29",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.30",
+      "label": "Exodus 26:30",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.31",
+      "label": "Exodus 26:31",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.32",
+      "label": "Exodus 26:32",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.33",
+      "label": "Exodus 26:33",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.34",
+      "label": "Exodus 26:34",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.35",
+      "label": "Exodus 26:35",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.36",
+      "label": "Exodus 26:36",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.37",
+      "label": "Exodus 26:37",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "27.1",
+      "label": "Exodus 27:1",
+      "chapterRef": "27"
+    },
+    {
+      "reference": "27.2",
+      "label": "Exodus 27:2",
+      "chapterRef": "27"
+    },
+    {
+      "reference": "27.3",
+      "label": "Exodus 27:3",
+      "chapterRef": "27"
+    },
+    {
+      "reference": "27.4",
+      "label": "Exodus 27:4",
+      "chapterRef": "27"
+    },
+    {
+      "reference": "27.5",
+      "label": "Exodus 27:5",
+      "chapterRef": "27"
+    },
+    {
+      "reference": "27.6",
+      "label": "Exodus 27:6",
+      "chapterRef": "27"
+    },
+    {
+      "reference": "27.7",
+      "label": "Exodus 27:7",
+      "chapterRef": "27"
+    },
+    {
+      "reference": "27.8",
+      "label": "Exodus 27:8",
+      "chapterRef": "27"
+    },
+    {
+      "reference": "27.9",
+      "label": "Exodus 27:9",
+      "chapterRef": "27"
+    },
+    {
+      "reference": "27.10",
+      "label": "Exodus 27:10",
+      "chapterRef": "27"
+    },
+    {
+      "reference": "27.11",
+      "label": "Exodus 27:11",
+      "chapterRef": "27"
+    },
+    {
+      "reference": "27.12",
+      "label": "Exodus 27:12",
+      "chapterRef": "27"
+    },
+    {
+      "reference": "27.13",
+      "label": "Exodus 27:13",
+      "chapterRef": "27"
+    },
+    {
+      "reference": "27.14",
+      "label": "Exodus 27:14",
+      "chapterRef": "27"
+    },
+    {
+      "reference": "27.15",
+      "label": "Exodus 27:15",
+      "chapterRef": "27"
+    },
+    {
+      "reference": "27.16",
+      "label": "Exodus 27:16",
+      "chapterRef": "27"
+    },
+    {
+      "reference": "27.17",
+      "label": "Exodus 27:17",
+      "chapterRef": "27"
+    },
+    {
+      "reference": "27.18",
+      "label": "Exodus 27:18",
+      "chapterRef": "27"
+    },
+    {
+      "reference": "27.19",
+      "label": "Exodus 27:19",
+      "chapterRef": "27"
+    },
+    {
+      "reference": "27.20",
+      "label": "Exodus 27:20",
+      "chapterRef": "27"
+    },
+    {
+      "reference": "27.21",
+      "label": "Exodus 27:21",
+      "chapterRef": "27"
+    },
+    {
+      "reference": "28.1",
+      "label": "Exodus 28:1",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "28.2",
+      "label": "Exodus 28:2",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "28.3",
+      "label": "Exodus 28:3",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "28.4",
+      "label": "Exodus 28:4",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "28.5",
+      "label": "Exodus 28:5",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "28.6",
+      "label": "Exodus 28:6",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "28.7",
+      "label": "Exodus 28:7",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "28.8",
+      "label": "Exodus 28:8",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "28.9",
+      "label": "Exodus 28:9",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "28.10",
+      "label": "Exodus 28:10",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "28.11",
+      "label": "Exodus 28:11",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "28.12",
+      "label": "Exodus 28:12",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "28.13",
+      "label": "Exodus 28:13",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "28.14",
+      "label": "Exodus 28:14",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "28.15",
+      "label": "Exodus 28:15",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "28.16",
+      "label": "Exodus 28:16",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "28.17",
+      "label": "Exodus 28:17",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "28.18",
+      "label": "Exodus 28:18",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "28.19",
+      "label": "Exodus 28:19",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "28.20",
+      "label": "Exodus 28:20",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "28.21",
+      "label": "Exodus 28:21",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "28.22",
+      "label": "Exodus 28:22",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "28.23",
+      "label": "Exodus 28:23",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "28.24",
+      "label": "Exodus 28:24",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "28.25",
+      "label": "Exodus 28:25",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "28.26",
+      "label": "Exodus 28:26",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "28.27",
+      "label": "Exodus 28:27",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "28.28",
+      "label": "Exodus 28:28",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "28.29",
+      "label": "Exodus 28:29",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "28.30",
+      "label": "Exodus 28:30",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "28.31",
+      "label": "Exodus 28:31",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "28.32",
+      "label": "Exodus 28:32",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "28.33",
+      "label": "Exodus 28:33",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "28.34",
+      "label": "Exodus 28:34",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "28.35",
+      "label": "Exodus 28:35",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "28.36",
+      "label": "Exodus 28:36",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "28.37",
+      "label": "Exodus 28:37",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "28.38",
+      "label": "Exodus 28:38",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "28.39",
+      "label": "Exodus 28:39",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "28.40",
+      "label": "Exodus 28:40",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "28.41",
+      "label": "Exodus 28:41",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "28.42",
+      "label": "Exodus 28:42",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "28.43",
+      "label": "Exodus 28:43",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "29.1",
+      "label": "Exodus 29:1",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.2",
+      "label": "Exodus 29:2",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.3",
+      "label": "Exodus 29:3",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.4",
+      "label": "Exodus 29:4",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.5",
+      "label": "Exodus 29:5",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.6",
+      "label": "Exodus 29:6",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.7",
+      "label": "Exodus 29:7",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.8",
+      "label": "Exodus 29:8",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.9",
+      "label": "Exodus 29:9",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.10",
+      "label": "Exodus 29:10",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.11",
+      "label": "Exodus 29:11",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.12",
+      "label": "Exodus 29:12",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.13",
+      "label": "Exodus 29:13",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.14",
+      "label": "Exodus 29:14",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.15",
+      "label": "Exodus 29:15",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.16",
+      "label": "Exodus 29:16",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.17",
+      "label": "Exodus 29:17",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.18",
+      "label": "Exodus 29:18",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.19",
+      "label": "Exodus 29:19",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.20",
+      "label": "Exodus 29:20",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.21",
+      "label": "Exodus 29:21",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.22",
+      "label": "Exodus 29:22",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.23",
+      "label": "Exodus 29:23",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.24",
+      "label": "Exodus 29:24",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.25",
+      "label": "Exodus 29:25",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.26",
+      "label": "Exodus 29:26",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.27",
+      "label": "Exodus 29:27",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.28",
+      "label": "Exodus 29:28",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.29",
+      "label": "Exodus 29:29",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.30",
+      "label": "Exodus 29:30",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.31",
+      "label": "Exodus 29:31",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.32",
+      "label": "Exodus 29:32",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.33",
+      "label": "Exodus 29:33",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.34",
+      "label": "Exodus 29:34",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.35",
+      "label": "Exodus 29:35",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.36",
+      "label": "Exodus 29:36",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.37",
+      "label": "Exodus 29:37",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.38",
+      "label": "Exodus 29:38",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.39",
+      "label": "Exodus 29:39",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.40",
+      "label": "Exodus 29:40",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.41",
+      "label": "Exodus 29:41",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.42",
+      "label": "Exodus 29:42",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.43",
+      "label": "Exodus 29:43",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.44",
+      "label": "Exodus 29:44",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.45",
+      "label": "Exodus 29:45",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.46",
+      "label": "Exodus 29:46",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "30.1",
+      "label": "Exodus 30:1",
+      "chapterRef": "30"
+    },
+    {
+      "reference": "30.2",
+      "label": "Exodus 30:2",
+      "chapterRef": "30"
+    },
+    {
+      "reference": "30.3",
+      "label": "Exodus 30:3",
+      "chapterRef": "30"
+    },
+    {
+      "reference": "30.4",
+      "label": "Exodus 30:4",
+      "chapterRef": "30"
+    },
+    {
+      "reference": "30.5",
+      "label": "Exodus 30:5",
+      "chapterRef": "30"
+    },
+    {
+      "reference": "30.6",
+      "label": "Exodus 30:6",
+      "chapterRef": "30"
+    },
+    {
+      "reference": "30.7",
+      "label": "Exodus 30:7",
+      "chapterRef": "30"
+    },
+    {
+      "reference": "30.8",
+      "label": "Exodus 30:8",
+      "chapterRef": "30"
+    },
+    {
+      "reference": "30.9",
+      "label": "Exodus 30:9",
+      "chapterRef": "30"
+    },
+    {
+      "reference": "30.10",
+      "label": "Exodus 30:10",
+      "chapterRef": "30"
+    },
+    {
+      "reference": "30.11",
+      "label": "Exodus 30:11",
+      "chapterRef": "30"
+    },
+    {
+      "reference": "30.12",
+      "label": "Exodus 30:12",
+      "chapterRef": "30"
+    },
+    {
+      "reference": "30.13",
+      "label": "Exodus 30:13",
+      "chapterRef": "30"
+    },
+    {
+      "reference": "30.14",
+      "label": "Exodus 30:14",
+      "chapterRef": "30"
+    },
+    {
+      "reference": "30.15",
+      "label": "Exodus 30:15",
+      "chapterRef": "30"
+    },
+    {
+      "reference": "30.16",
+      "label": "Exodus 30:16",
+      "chapterRef": "30"
+    },
+    {
+      "reference": "30.17",
+      "label": "Exodus 30:17",
+      "chapterRef": "30"
+    },
+    {
+      "reference": "30.18",
+      "label": "Exodus 30:18",
+      "chapterRef": "30"
+    },
+    {
+      "reference": "30.19",
+      "label": "Exodus 30:19",
+      "chapterRef": "30"
+    },
+    {
+      "reference": "30.20",
+      "label": "Exodus 30:20",
+      "chapterRef": "30"
+    },
+    {
+      "reference": "30.21",
+      "label": "Exodus 30:21",
+      "chapterRef": "30"
+    },
+    {
+      "reference": "30.22",
+      "label": "Exodus 30:22",
+      "chapterRef": "30"
+    },
+    {
+      "reference": "30.23",
+      "label": "Exodus 30:23",
+      "chapterRef": "30"
+    },
+    {
+      "reference": "30.24",
+      "label": "Exodus 30:24",
+      "chapterRef": "30"
+    },
+    {
+      "reference": "30.25",
+      "label": "Exodus 30:25",
+      "chapterRef": "30"
+    },
+    {
+      "reference": "30.26",
+      "label": "Exodus 30:26",
+      "chapterRef": "30"
+    },
+    {
+      "reference": "30.27",
+      "label": "Exodus 30:27",
+      "chapterRef": "30"
+    },
+    {
+      "reference": "30.28",
+      "label": "Exodus 30:28",
+      "chapterRef": "30"
+    },
+    {
+      "reference": "30.29",
+      "label": "Exodus 30:29",
+      "chapterRef": "30"
+    },
+    {
+      "reference": "30.30",
+      "label": "Exodus 30:30",
+      "chapterRef": "30"
+    },
+    {
+      "reference": "30.31",
+      "label": "Exodus 30:31",
+      "chapterRef": "30"
+    },
+    {
+      "reference": "30.32",
+      "label": "Exodus 30:32",
+      "chapterRef": "30"
+    },
+    {
+      "reference": "30.33",
+      "label": "Exodus 30:33",
+      "chapterRef": "30"
+    },
+    {
+      "reference": "30.34",
+      "label": "Exodus 30:34",
+      "chapterRef": "30"
+    },
+    {
+      "reference": "30.35",
+      "label": "Exodus 30:35",
+      "chapterRef": "30"
+    },
+    {
+      "reference": "30.36",
+      "label": "Exodus 30:36",
+      "chapterRef": "30"
+    },
+    {
+      "reference": "30.37",
+      "label": "Exodus 30:37",
+      "chapterRef": "30"
+    },
+    {
+      "reference": "30.38",
+      "label": "Exodus 30:38",
+      "chapterRef": "30"
+    },
+    {
+      "reference": "31.1",
+      "label": "Exodus 31:1",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.2",
+      "label": "Exodus 31:2",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.3",
+      "label": "Exodus 31:3",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.4",
+      "label": "Exodus 31:4",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.5",
+      "label": "Exodus 31:5",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.6",
+      "label": "Exodus 31:6",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.7",
+      "label": "Exodus 31:7",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.8",
+      "label": "Exodus 31:8",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.9",
+      "label": "Exodus 31:9",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.10",
+      "label": "Exodus 31:10",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.11",
+      "label": "Exodus 31:11",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.12",
+      "label": "Exodus 31:12",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.13",
+      "label": "Exodus 31:13",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.14",
+      "label": "Exodus 31:14",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.15",
+      "label": "Exodus 31:15",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.16",
+      "label": "Exodus 31:16",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.17",
+      "label": "Exodus 31:17",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.18",
+      "label": "Exodus 31:18",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "32.1",
+      "label": "Exodus 32:1",
+      "chapterRef": "32"
+    },
+    {
+      "reference": "32.2",
+      "label": "Exodus 32:2",
+      "chapterRef": "32"
+    },
+    {
+      "reference": "32.3",
+      "label": "Exodus 32:3",
+      "chapterRef": "32"
+    },
+    {
+      "reference": "32.4",
+      "label": "Exodus 32:4",
+      "chapterRef": "32"
+    },
+    {
+      "reference": "32.5",
+      "label": "Exodus 32:5",
+      "chapterRef": "32"
+    },
+    {
+      "reference": "32.6",
+      "label": "Exodus 32:6",
+      "chapterRef": "32"
+    },
+    {
+      "reference": "32.7",
+      "label": "Exodus 32:7",
+      "chapterRef": "32"
+    },
+    {
+      "reference": "32.8",
+      "label": "Exodus 32:8",
+      "chapterRef": "32"
+    },
+    {
+      "reference": "32.9",
+      "label": "Exodus 32:9",
+      "chapterRef": "32"
+    },
+    {
+      "reference": "32.10",
+      "label": "Exodus 32:10",
+      "chapterRef": "32"
+    },
+    {
+      "reference": "32.11",
+      "label": "Exodus 32:11",
+      "chapterRef": "32"
+    },
+    {
+      "reference": "32.12",
+      "label": "Exodus 32:12",
+      "chapterRef": "32"
+    },
+    {
+      "reference": "32.13",
+      "label": "Exodus 32:13",
+      "chapterRef": "32"
+    },
+    {
+      "reference": "32.14",
+      "label": "Exodus 32:14",
+      "chapterRef": "32"
+    },
+    {
+      "reference": "32.15",
+      "label": "Exodus 32:15",
+      "chapterRef": "32"
+    },
+    {
+      "reference": "32.16",
+      "label": "Exodus 32:16",
+      "chapterRef": "32"
+    },
+    {
+      "reference": "32.17",
+      "label": "Exodus 32:17",
+      "chapterRef": "32"
+    },
+    {
+      "reference": "32.18",
+      "label": "Exodus 32:18",
+      "chapterRef": "32"
+    },
+    {
+      "reference": "32.19",
+      "label": "Exodus 32:19",
+      "chapterRef": "32"
+    },
+    {
+      "reference": "32.20",
+      "label": "Exodus 32:20",
+      "chapterRef": "32"
+    },
+    {
+      "reference": "32.21",
+      "label": "Exodus 32:21",
+      "chapterRef": "32"
+    },
+    {
+      "reference": "32.22",
+      "label": "Exodus 32:22",
+      "chapterRef": "32"
+    },
+    {
+      "reference": "32.23",
+      "label": "Exodus 32:23",
+      "chapterRef": "32"
+    },
+    {
+      "reference": "32.24",
+      "label": "Exodus 32:24",
+      "chapterRef": "32"
+    },
+    {
+      "reference": "32.25",
+      "label": "Exodus 32:25",
+      "chapterRef": "32"
+    },
+    {
+      "reference": "32.26",
+      "label": "Exodus 32:26",
+      "chapterRef": "32"
+    },
+    {
+      "reference": "32.27",
+      "label": "Exodus 32:27",
+      "chapterRef": "32"
+    },
+    {
+      "reference": "32.28",
+      "label": "Exodus 32:28",
+      "chapterRef": "32"
+    },
+    {
+      "reference": "32.29",
+      "label": "Exodus 32:29",
+      "chapterRef": "32"
+    },
+    {
+      "reference": "32.30",
+      "label": "Exodus 32:30",
+      "chapterRef": "32"
+    },
+    {
+      "reference": "32.31",
+      "label": "Exodus 32:31",
+      "chapterRef": "32"
+    },
+    {
+      "reference": "32.32",
+      "label": "Exodus 32:32",
+      "chapterRef": "32"
+    },
+    {
+      "reference": "32.33",
+      "label": "Exodus 32:33",
+      "chapterRef": "32"
+    },
+    {
+      "reference": "32.34",
+      "label": "Exodus 32:34",
+      "chapterRef": "32"
+    },
+    {
+      "reference": "32.35",
+      "label": "Exodus 32:35",
+      "chapterRef": "32"
+    },
+    {
+      "reference": "33.1",
+      "label": "Exodus 33:1",
+      "chapterRef": "33"
+    },
+    {
+      "reference": "33.2",
+      "label": "Exodus 33:2",
+      "chapterRef": "33"
+    },
+    {
+      "reference": "33.3",
+      "label": "Exodus 33:3",
+      "chapterRef": "33"
+    },
+    {
+      "reference": "33.4",
+      "label": "Exodus 33:4",
+      "chapterRef": "33"
+    },
+    {
+      "reference": "33.5",
+      "label": "Exodus 33:5",
+      "chapterRef": "33"
+    },
+    {
+      "reference": "33.6",
+      "label": "Exodus 33:6",
+      "chapterRef": "33"
+    },
+    {
+      "reference": "33.7",
+      "label": "Exodus 33:7",
+      "chapterRef": "33"
+    },
+    {
+      "reference": "33.8",
+      "label": "Exodus 33:8",
+      "chapterRef": "33"
+    },
+    {
+      "reference": "33.9",
+      "label": "Exodus 33:9",
+      "chapterRef": "33"
+    },
+    {
+      "reference": "33.10",
+      "label": "Exodus 33:10",
+      "chapterRef": "33"
+    },
+    {
+      "reference": "33.11",
+      "label": "Exodus 33:11",
+      "chapterRef": "33"
+    },
+    {
+      "reference": "33.12",
+      "label": "Exodus 33:12",
+      "chapterRef": "33"
+    },
+    {
+      "reference": "33.13",
+      "label": "Exodus 33:13",
+      "chapterRef": "33"
+    },
+    {
+      "reference": "33.14",
+      "label": "Exodus 33:14",
+      "chapterRef": "33"
+    },
+    {
+      "reference": "33.15",
+      "label": "Exodus 33:15",
+      "chapterRef": "33"
+    },
+    {
+      "reference": "33.16",
+      "label": "Exodus 33:16",
+      "chapterRef": "33"
+    },
+    {
+      "reference": "33.17",
+      "label": "Exodus 33:17",
+      "chapterRef": "33"
+    },
+    {
+      "reference": "33.18",
+      "label": "Exodus 33:18",
+      "chapterRef": "33"
+    },
+    {
+      "reference": "33.19",
+      "label": "Exodus 33:19",
+      "chapterRef": "33"
+    },
+    {
+      "reference": "33.20",
+      "label": "Exodus 33:20",
+      "chapterRef": "33"
+    },
+    {
+      "reference": "33.21",
+      "label": "Exodus 33:21",
+      "chapterRef": "33"
+    },
+    {
+      "reference": "33.22",
+      "label": "Exodus 33:22",
+      "chapterRef": "33"
+    },
+    {
+      "reference": "33.23",
+      "label": "Exodus 33:23",
+      "chapterRef": "33"
+    },
+    {
+      "reference": "34.1",
+      "label": "Exodus 34:1",
+      "chapterRef": "34"
+    },
+    {
+      "reference": "34.2",
+      "label": "Exodus 34:2",
+      "chapterRef": "34"
+    },
+    {
+      "reference": "34.3",
+      "label": "Exodus 34:3",
+      "chapterRef": "34"
+    },
+    {
+      "reference": "34.4",
+      "label": "Exodus 34:4",
+      "chapterRef": "34"
+    },
+    {
+      "reference": "34.5",
+      "label": "Exodus 34:5",
+      "chapterRef": "34"
+    },
+    {
+      "reference": "34.6",
+      "label": "Exodus 34:6",
+      "chapterRef": "34"
+    },
+    {
+      "reference": "34.7",
+      "label": "Exodus 34:7",
+      "chapterRef": "34"
+    },
+    {
+      "reference": "34.8",
+      "label": "Exodus 34:8",
+      "chapterRef": "34"
+    },
+    {
+      "reference": "34.9",
+      "label": "Exodus 34:9",
+      "chapterRef": "34"
+    },
+    {
+      "reference": "34.10",
+      "label": "Exodus 34:10",
+      "chapterRef": "34"
+    },
+    {
+      "reference": "34.11",
+      "label": "Exodus 34:11",
+      "chapterRef": "34"
+    },
+    {
+      "reference": "34.12",
+      "label": "Exodus 34:12",
+      "chapterRef": "34"
+    },
+    {
+      "reference": "34.13",
+      "label": "Exodus 34:13",
+      "chapterRef": "34"
+    },
+    {
+      "reference": "34.14",
+      "label": "Exodus 34:14",
+      "chapterRef": "34"
+    },
+    {
+      "reference": "34.15",
+      "label": "Exodus 34:15",
+      "chapterRef": "34"
+    },
+    {
+      "reference": "34.16",
+      "label": "Exodus 34:16",
+      "chapterRef": "34"
+    },
+    {
+      "reference": "34.17",
+      "label": "Exodus 34:17",
+      "chapterRef": "34"
+    },
+    {
+      "reference": "34.18",
+      "label": "Exodus 34:18",
+      "chapterRef": "34"
+    },
+    {
+      "reference": "34.19",
+      "label": "Exodus 34:19",
+      "chapterRef": "34"
+    },
+    {
+      "reference": "34.20",
+      "label": "Exodus 34:20",
+      "chapterRef": "34"
+    },
+    {
+      "reference": "34.21",
+      "label": "Exodus 34:21",
+      "chapterRef": "34"
+    },
+    {
+      "reference": "34.22",
+      "label": "Exodus 34:22",
+      "chapterRef": "34"
+    },
+    {
+      "reference": "34.23",
+      "label": "Exodus 34:23",
+      "chapterRef": "34"
+    },
+    {
+      "reference": "34.24",
+      "label": "Exodus 34:24",
+      "chapterRef": "34"
+    },
+    {
+      "reference": "34.25",
+      "label": "Exodus 34:25",
+      "chapterRef": "34"
+    },
+    {
+      "reference": "34.26",
+      "label": "Exodus 34:26",
+      "chapterRef": "34"
+    },
+    {
+      "reference": "34.27",
+      "label": "Exodus 34:27",
+      "chapterRef": "34"
+    },
+    {
+      "reference": "34.28",
+      "label": "Exodus 34:28",
+      "chapterRef": "34"
+    },
+    {
+      "reference": "34.29",
+      "label": "Exodus 34:29",
+      "chapterRef": "34"
+    },
+    {
+      "reference": "34.30",
+      "label": "Exodus 34:30",
+      "chapterRef": "34"
+    },
+    {
+      "reference": "34.31",
+      "label": "Exodus 34:31",
+      "chapterRef": "34"
+    },
+    {
+      "reference": "34.32",
+      "label": "Exodus 34:32",
+      "chapterRef": "34"
+    },
+    {
+      "reference": "34.33",
+      "label": "Exodus 34:33",
+      "chapterRef": "34"
+    },
+    {
+      "reference": "34.34",
+      "label": "Exodus 34:34",
+      "chapterRef": "34"
+    },
+    {
+      "reference": "34.35",
+      "label": "Exodus 34:35",
+      "chapterRef": "34"
+    },
+    {
+      "reference": "35.1",
+      "label": "Exodus 35:1",
+      "chapterRef": "35"
+    },
+    {
+      "reference": "35.2",
+      "label": "Exodus 35:2",
+      "chapterRef": "35"
+    },
+    {
+      "reference": "35.3",
+      "label": "Exodus 35:3",
+      "chapterRef": "35"
+    },
+    {
+      "reference": "35.4",
+      "label": "Exodus 35:4",
+      "chapterRef": "35"
+    },
+    {
+      "reference": "35.5",
+      "label": "Exodus 35:5",
+      "chapterRef": "35"
+    },
+    {
+      "reference": "35.6",
+      "label": "Exodus 35:6",
+      "chapterRef": "35"
+    },
+    {
+      "reference": "35.7",
+      "label": "Exodus 35:7",
+      "chapterRef": "35"
+    },
+    {
+      "reference": "35.8",
+      "label": "Exodus 35:8",
+      "chapterRef": "35"
+    },
+    {
+      "reference": "35.9",
+      "label": "Exodus 35:9",
+      "chapterRef": "35"
+    },
+    {
+      "reference": "35.10",
+      "label": "Exodus 35:10",
+      "chapterRef": "35"
+    },
+    {
+      "reference": "35.11",
+      "label": "Exodus 35:11",
+      "chapterRef": "35"
+    },
+    {
+      "reference": "35.12",
+      "label": "Exodus 35:12",
+      "chapterRef": "35"
+    },
+    {
+      "reference": "35.13",
+      "label": "Exodus 35:13",
+      "chapterRef": "35"
+    },
+    {
+      "reference": "35.14",
+      "label": "Exodus 35:14",
+      "chapterRef": "35"
+    },
+    {
+      "reference": "35.15",
+      "label": "Exodus 35:15",
+      "chapterRef": "35"
+    },
+    {
+      "reference": "35.16",
+      "label": "Exodus 35:16",
+      "chapterRef": "35"
+    },
+    {
+      "reference": "35.17",
+      "label": "Exodus 35:17",
+      "chapterRef": "35"
+    },
+    {
+      "reference": "35.18",
+      "label": "Exodus 35:18",
+      "chapterRef": "35"
+    },
+    {
+      "reference": "35.19",
+      "label": "Exodus 35:19",
+      "chapterRef": "35"
+    },
+    {
+      "reference": "35.20",
+      "label": "Exodus 35:20",
+      "chapterRef": "35"
+    },
+    {
+      "reference": "35.21",
+      "label": "Exodus 35:21",
+      "chapterRef": "35"
+    },
+    {
+      "reference": "35.22",
+      "label": "Exodus 35:22",
+      "chapterRef": "35"
+    },
+    {
+      "reference": "35.23",
+      "label": "Exodus 35:23",
+      "chapterRef": "35"
+    },
+    {
+      "reference": "35.24",
+      "label": "Exodus 35:24",
+      "chapterRef": "35"
+    },
+    {
+      "reference": "35.25",
+      "label": "Exodus 35:25",
+      "chapterRef": "35"
+    },
+    {
+      "reference": "35.26",
+      "label": "Exodus 35:26",
+      "chapterRef": "35"
+    },
+    {
+      "reference": "35.27",
+      "label": "Exodus 35:27",
+      "chapterRef": "35"
+    },
+    {
+      "reference": "35.28",
+      "label": "Exodus 35:28",
+      "chapterRef": "35"
+    },
+    {
+      "reference": "35.29",
+      "label": "Exodus 35:29",
+      "chapterRef": "35"
+    },
+    {
+      "reference": "35.30",
+      "label": "Exodus 35:30",
+      "chapterRef": "35"
+    },
+    {
+      "reference": "35.31",
+      "label": "Exodus 35:31",
+      "chapterRef": "35"
+    },
+    {
+      "reference": "35.32",
+      "label": "Exodus 35:32",
+      "chapterRef": "35"
+    },
+    {
+      "reference": "35.33",
+      "label": "Exodus 35:33",
+      "chapterRef": "35"
+    },
+    {
+      "reference": "35.34",
+      "label": "Exodus 35:34",
+      "chapterRef": "35"
+    },
+    {
+      "reference": "35.35",
+      "label": "Exodus 35:35",
+      "chapterRef": "35"
+    },
+    {
+      "reference": "36.1",
+      "label": "Exodus 36:1",
+      "chapterRef": "36"
+    },
+    {
+      "reference": "36.2",
+      "label": "Exodus 36:2",
+      "chapterRef": "36"
+    },
+    {
+      "reference": "36.3",
+      "label": "Exodus 36:3",
+      "chapterRef": "36"
+    },
+    {
+      "reference": "36.4",
+      "label": "Exodus 36:4",
+      "chapterRef": "36"
+    },
+    {
+      "reference": "36.5",
+      "label": "Exodus 36:5",
+      "chapterRef": "36"
+    },
+    {
+      "reference": "36.6",
+      "label": "Exodus 36:6",
+      "chapterRef": "36"
+    },
+    {
+      "reference": "36.7",
+      "label": "Exodus 36:7",
+      "chapterRef": "36"
+    },
+    {
+      "reference": "36.8",
+      "label": "Exodus 36:8",
+      "chapterRef": "36"
+    },
+    {
+      "reference": "36.9",
+      "label": "Exodus 36:9",
+      "chapterRef": "36"
+    },
+    {
+      "reference": "36.10",
+      "label": "Exodus 36:10",
+      "chapterRef": "36"
+    },
+    {
+      "reference": "36.11",
+      "label": "Exodus 36:11",
+      "chapterRef": "36"
+    },
+    {
+      "reference": "36.12",
+      "label": "Exodus 36:12",
+      "chapterRef": "36"
+    },
+    {
+      "reference": "36.13",
+      "label": "Exodus 36:13",
+      "chapterRef": "36"
+    },
+    {
+      "reference": "36.14",
+      "label": "Exodus 36:14",
+      "chapterRef": "36"
+    },
+    {
+      "reference": "36.15",
+      "label": "Exodus 36:15",
+      "chapterRef": "36"
+    },
+    {
+      "reference": "36.16",
+      "label": "Exodus 36:16",
+      "chapterRef": "36"
+    },
+    {
+      "reference": "36.17",
+      "label": "Exodus 36:17",
+      "chapterRef": "36"
+    },
+    {
+      "reference": "36.18",
+      "label": "Exodus 36:18",
+      "chapterRef": "36"
+    },
+    {
+      "reference": "36.19",
+      "label": "Exodus 36:19",
+      "chapterRef": "36"
+    },
+    {
+      "reference": "36.20",
+      "label": "Exodus 36:20",
+      "chapterRef": "36"
+    },
+    {
+      "reference": "36.21",
+      "label": "Exodus 36:21",
+      "chapterRef": "36"
+    },
+    {
+      "reference": "36.22",
+      "label": "Exodus 36:22",
+      "chapterRef": "36"
+    },
+    {
+      "reference": "36.23",
+      "label": "Exodus 36:23",
+      "chapterRef": "36"
+    },
+    {
+      "reference": "36.24",
+      "label": "Exodus 36:24",
+      "chapterRef": "36"
+    },
+    {
+      "reference": "36.25",
+      "label": "Exodus 36:25",
+      "chapterRef": "36"
+    },
+    {
+      "reference": "36.26",
+      "label": "Exodus 36:26",
+      "chapterRef": "36"
+    },
+    {
+      "reference": "36.27",
+      "label": "Exodus 36:27",
+      "chapterRef": "36"
+    },
+    {
+      "reference": "36.28",
+      "label": "Exodus 36:28",
+      "chapterRef": "36"
+    },
+    {
+      "reference": "36.29",
+      "label": "Exodus 36:29",
+      "chapterRef": "36"
+    },
+    {
+      "reference": "36.30",
+      "label": "Exodus 36:30",
+      "chapterRef": "36"
+    },
+    {
+      "reference": "36.31",
+      "label": "Exodus 36:31",
+      "chapterRef": "36"
+    },
+    {
+      "reference": "36.32",
+      "label": "Exodus 36:32",
+      "chapterRef": "36"
+    },
+    {
+      "reference": "36.33",
+      "label": "Exodus 36:33",
+      "chapterRef": "36"
+    },
+    {
+      "reference": "36.34",
+      "label": "Exodus 36:34",
+      "chapterRef": "36"
+    },
+    {
+      "reference": "36.35",
+      "label": "Exodus 36:35",
+      "chapterRef": "36"
+    },
+    {
+      "reference": "36.36",
+      "label": "Exodus 36:36",
+      "chapterRef": "36"
+    },
+    {
+      "reference": "36.37",
+      "label": "Exodus 36:37",
+      "chapterRef": "36"
+    },
+    {
+      "reference": "36.38",
+      "label": "Exodus 36:38",
+      "chapterRef": "36"
+    },
+    {
+      "reference": "37.1",
+      "label": "Exodus 37:1",
+      "chapterRef": "37"
+    },
+    {
+      "reference": "37.2",
+      "label": "Exodus 37:2",
+      "chapterRef": "37"
+    },
+    {
+      "reference": "37.3",
+      "label": "Exodus 37:3",
+      "chapterRef": "37"
+    },
+    {
+      "reference": "37.4",
+      "label": "Exodus 37:4",
+      "chapterRef": "37"
+    },
+    {
+      "reference": "37.5",
+      "label": "Exodus 37:5",
+      "chapterRef": "37"
+    },
+    {
+      "reference": "37.6",
+      "label": "Exodus 37:6",
+      "chapterRef": "37"
+    },
+    {
+      "reference": "37.7",
+      "label": "Exodus 37:7",
+      "chapterRef": "37"
+    },
+    {
+      "reference": "37.8",
+      "label": "Exodus 37:8",
+      "chapterRef": "37"
+    },
+    {
+      "reference": "37.9",
+      "label": "Exodus 37:9",
+      "chapterRef": "37"
+    },
+    {
+      "reference": "37.10",
+      "label": "Exodus 37:10",
+      "chapterRef": "37"
+    },
+    {
+      "reference": "37.11",
+      "label": "Exodus 37:11",
+      "chapterRef": "37"
+    },
+    {
+      "reference": "37.12",
+      "label": "Exodus 37:12",
+      "chapterRef": "37"
+    },
+    {
+      "reference": "37.13",
+      "label": "Exodus 37:13",
+      "chapterRef": "37"
+    },
+    {
+      "reference": "37.14",
+      "label": "Exodus 37:14",
+      "chapterRef": "37"
+    },
+    {
+      "reference": "37.15",
+      "label": "Exodus 37:15",
+      "chapterRef": "37"
+    },
+    {
+      "reference": "37.16",
+      "label": "Exodus 37:16",
+      "chapterRef": "37"
+    },
+    {
+      "reference": "37.17",
+      "label": "Exodus 37:17",
+      "chapterRef": "37"
+    },
+    {
+      "reference": "37.18",
+      "label": "Exodus 37:18",
+      "chapterRef": "37"
+    },
+    {
+      "reference": "37.19",
+      "label": "Exodus 37:19",
+      "chapterRef": "37"
+    },
+    {
+      "reference": "37.20",
+      "label": "Exodus 37:20",
+      "chapterRef": "37"
+    },
+    {
+      "reference": "37.21",
+      "label": "Exodus 37:21",
+      "chapterRef": "37"
+    },
+    {
+      "reference": "37.22",
+      "label": "Exodus 37:22",
+      "chapterRef": "37"
+    },
+    {
+      "reference": "37.23",
+      "label": "Exodus 37:23",
+      "chapterRef": "37"
+    },
+    {
+      "reference": "37.24",
+      "label": "Exodus 37:24",
+      "chapterRef": "37"
+    },
+    {
+      "reference": "37.25",
+      "label": "Exodus 37:25",
+      "chapterRef": "37"
+    },
+    {
+      "reference": "37.26",
+      "label": "Exodus 37:26",
+      "chapterRef": "37"
+    },
+    {
+      "reference": "37.27",
+      "label": "Exodus 37:27",
+      "chapterRef": "37"
+    },
+    {
+      "reference": "37.28",
+      "label": "Exodus 37:28",
+      "chapterRef": "37"
+    },
+    {
+      "reference": "37.29",
+      "label": "Exodus 37:29",
+      "chapterRef": "37"
+    },
+    {
+      "reference": "38.1",
+      "label": "Exodus 38:1",
+      "chapterRef": "38"
+    },
+    {
+      "reference": "38.2",
+      "label": "Exodus 38:2",
+      "chapterRef": "38"
+    },
+    {
+      "reference": "38.3",
+      "label": "Exodus 38:3",
+      "chapterRef": "38"
+    },
+    {
+      "reference": "38.4",
+      "label": "Exodus 38:4",
+      "chapterRef": "38"
+    },
+    {
+      "reference": "38.5",
+      "label": "Exodus 38:5",
+      "chapterRef": "38"
+    },
+    {
+      "reference": "38.6",
+      "label": "Exodus 38:6",
+      "chapterRef": "38"
+    },
+    {
+      "reference": "38.7",
+      "label": "Exodus 38:7",
+      "chapterRef": "38"
+    },
+    {
+      "reference": "38.8",
+      "label": "Exodus 38:8",
+      "chapterRef": "38"
+    },
+    {
+      "reference": "38.9",
+      "label": "Exodus 38:9",
+      "chapterRef": "38"
+    },
+    {
+      "reference": "38.10",
+      "label": "Exodus 38:10",
+      "chapterRef": "38"
+    },
+    {
+      "reference": "38.11",
+      "label": "Exodus 38:11",
+      "chapterRef": "38"
+    },
+    {
+      "reference": "38.12",
+      "label": "Exodus 38:12",
+      "chapterRef": "38"
+    },
+    {
+      "reference": "38.13",
+      "label": "Exodus 38:13",
+      "chapterRef": "38"
+    },
+    {
+      "reference": "38.14",
+      "label": "Exodus 38:14",
+      "chapterRef": "38"
+    },
+    {
+      "reference": "38.15",
+      "label": "Exodus 38:15",
+      "chapterRef": "38"
+    },
+    {
+      "reference": "38.16",
+      "label": "Exodus 38:16",
+      "chapterRef": "38"
+    },
+    {
+      "reference": "38.17",
+      "label": "Exodus 38:17",
+      "chapterRef": "38"
+    },
+    {
+      "reference": "38.18",
+      "label": "Exodus 38:18",
+      "chapterRef": "38"
+    },
+    {
+      "reference": "38.19",
+      "label": "Exodus 38:19",
+      "chapterRef": "38"
+    },
+    {
+      "reference": "38.20",
+      "label": "Exodus 38:20",
+      "chapterRef": "38"
+    },
+    {
+      "reference": "38.21",
+      "label": "Exodus 38:21",
+      "chapterRef": "38"
+    },
+    {
+      "reference": "38.22",
+      "label": "Exodus 38:22",
+      "chapterRef": "38"
+    },
+    {
+      "reference": "38.23",
+      "label": "Exodus 38:23",
+      "chapterRef": "38"
+    },
+    {
+      "reference": "38.24",
+      "label": "Exodus 38:24",
+      "chapterRef": "38"
+    },
+    {
+      "reference": "38.25",
+      "label": "Exodus 38:25",
+      "chapterRef": "38"
+    },
+    {
+      "reference": "38.26",
+      "label": "Exodus 38:26",
+      "chapterRef": "38"
+    },
+    {
+      "reference": "38.27",
+      "label": "Exodus 38:27",
+      "chapterRef": "38"
+    },
+    {
+      "reference": "38.28",
+      "label": "Exodus 38:28",
+      "chapterRef": "38"
+    },
+    {
+      "reference": "38.29",
+      "label": "Exodus 38:29",
+      "chapterRef": "38"
+    },
+    {
+      "reference": "38.30",
+      "label": "Exodus 38:30",
+      "chapterRef": "38"
+    },
+    {
+      "reference": "38.31",
+      "label": "Exodus 38:31",
+      "chapterRef": "38"
+    },
+    {
+      "reference": "39.1",
+      "label": "Exodus 39:1",
+      "chapterRef": "39"
+    },
+    {
+      "reference": "39.2",
+      "label": "Exodus 39:2",
+      "chapterRef": "39"
+    },
+    {
+      "reference": "39.3",
+      "label": "Exodus 39:3",
+      "chapterRef": "39"
+    },
+    {
+      "reference": "39.4",
+      "label": "Exodus 39:4",
+      "chapterRef": "39"
+    },
+    {
+      "reference": "39.5",
+      "label": "Exodus 39:5",
+      "chapterRef": "39"
+    },
+    {
+      "reference": "39.6",
+      "label": "Exodus 39:6",
+      "chapterRef": "39"
+    },
+    {
+      "reference": "39.7",
+      "label": "Exodus 39:7",
+      "chapterRef": "39"
+    },
+    {
+      "reference": "39.8",
+      "label": "Exodus 39:8",
+      "chapterRef": "39"
+    },
+    {
+      "reference": "39.9",
+      "label": "Exodus 39:9",
+      "chapterRef": "39"
+    },
+    {
+      "reference": "39.10",
+      "label": "Exodus 39:10",
+      "chapterRef": "39"
+    },
+    {
+      "reference": "39.11",
+      "label": "Exodus 39:11",
+      "chapterRef": "39"
+    },
+    {
+      "reference": "39.12",
+      "label": "Exodus 39:12",
+      "chapterRef": "39"
+    },
+    {
+      "reference": "39.13",
+      "label": "Exodus 39:13",
+      "chapterRef": "39"
+    },
+    {
+      "reference": "39.14",
+      "label": "Exodus 39:14",
+      "chapterRef": "39"
+    },
+    {
+      "reference": "39.15",
+      "label": "Exodus 39:15",
+      "chapterRef": "39"
+    },
+    {
+      "reference": "39.16",
+      "label": "Exodus 39:16",
+      "chapterRef": "39"
+    },
+    {
+      "reference": "39.17",
+      "label": "Exodus 39:17",
+      "chapterRef": "39"
+    },
+    {
+      "reference": "39.18",
+      "label": "Exodus 39:18",
+      "chapterRef": "39"
+    },
+    {
+      "reference": "39.19",
+      "label": "Exodus 39:19",
+      "chapterRef": "39"
+    },
+    {
+      "reference": "39.20",
+      "label": "Exodus 39:20",
+      "chapterRef": "39"
+    },
+    {
+      "reference": "39.21",
+      "label": "Exodus 39:21",
+      "chapterRef": "39"
+    },
+    {
+      "reference": "39.22",
+      "label": "Exodus 39:22",
+      "chapterRef": "39"
+    },
+    {
+      "reference": "39.23",
+      "label": "Exodus 39:23",
+      "chapterRef": "39"
+    },
+    {
+      "reference": "39.24",
+      "label": "Exodus 39:24",
+      "chapterRef": "39"
+    },
+    {
+      "reference": "39.25",
+      "label": "Exodus 39:25",
+      "chapterRef": "39"
+    },
+    {
+      "reference": "39.26",
+      "label": "Exodus 39:26",
+      "chapterRef": "39"
+    },
+    {
+      "reference": "39.27",
+      "label": "Exodus 39:27",
+      "chapterRef": "39"
+    },
+    {
+      "reference": "39.28",
+      "label": "Exodus 39:28",
+      "chapterRef": "39"
+    },
+    {
+      "reference": "39.29",
+      "label": "Exodus 39:29",
+      "chapterRef": "39"
+    },
+    {
+      "reference": "39.30",
+      "label": "Exodus 39:30",
+      "chapterRef": "39"
+    },
+    {
+      "reference": "39.31",
+      "label": "Exodus 39:31",
+      "chapterRef": "39"
+    },
+    {
+      "reference": "39.32",
+      "label": "Exodus 39:32",
+      "chapterRef": "39"
+    },
+    {
+      "reference": "39.33",
+      "label": "Exodus 39:33",
+      "chapterRef": "39"
+    },
+    {
+      "reference": "39.34",
+      "label": "Exodus 39:34",
+      "chapterRef": "39"
+    },
+    {
+      "reference": "39.35",
+      "label": "Exodus 39:35",
+      "chapterRef": "39"
+    },
+    {
+      "reference": "39.36",
+      "label": "Exodus 39:36",
+      "chapterRef": "39"
+    },
+    {
+      "reference": "39.37",
+      "label": "Exodus 39:37",
+      "chapterRef": "39"
+    },
+    {
+      "reference": "39.38",
+      "label": "Exodus 39:38",
+      "chapterRef": "39"
+    },
+    {
+      "reference": "39.39",
+      "label": "Exodus 39:39",
+      "chapterRef": "39"
+    },
+    {
+      "reference": "39.40",
+      "label": "Exodus 39:40",
+      "chapterRef": "39"
+    },
+    {
+      "reference": "39.41",
+      "label": "Exodus 39:41",
+      "chapterRef": "39"
+    },
+    {
+      "reference": "39.42",
+      "label": "Exodus 39:42",
+      "chapterRef": "39"
+    },
+    {
+      "reference": "39.43",
+      "label": "Exodus 39:43",
+      "chapterRef": "39"
+    },
+    {
+      "reference": "40.1",
+      "label": "Exodus 40:1",
+      "chapterRef": "40"
+    },
+    {
+      "reference": "40.2",
+      "label": "Exodus 40:2",
+      "chapterRef": "40"
+    },
+    {
+      "reference": "40.3",
+      "label": "Exodus 40:3",
+      "chapterRef": "40"
+    },
+    {
+      "reference": "40.4",
+      "label": "Exodus 40:4",
+      "chapterRef": "40"
+    },
+    {
+      "reference": "40.5",
+      "label": "Exodus 40:5",
+      "chapterRef": "40"
+    },
+    {
+      "reference": "40.6",
+      "label": "Exodus 40:6",
+      "chapterRef": "40"
+    },
+    {
+      "reference": "40.7",
+      "label": "Exodus 40:7",
+      "chapterRef": "40"
+    },
+    {
+      "reference": "40.8",
+      "label": "Exodus 40:8",
+      "chapterRef": "40"
+    },
+    {
+      "reference": "40.9",
+      "label": "Exodus 40:9",
+      "chapterRef": "40"
+    },
+    {
+      "reference": "40.10",
+      "label": "Exodus 40:10",
+      "chapterRef": "40"
+    },
+    {
+      "reference": "40.11",
+      "label": "Exodus 40:11",
+      "chapterRef": "40"
+    },
+    {
+      "reference": "40.12",
+      "label": "Exodus 40:12",
+      "chapterRef": "40"
+    },
+    {
+      "reference": "40.13",
+      "label": "Exodus 40:13",
+      "chapterRef": "40"
+    },
+    {
+      "reference": "40.14",
+      "label": "Exodus 40:14",
+      "chapterRef": "40"
+    },
+    {
+      "reference": "40.15",
+      "label": "Exodus 40:15",
+      "chapterRef": "40"
+    },
+    {
+      "reference": "40.16",
+      "label": "Exodus 40:16",
+      "chapterRef": "40"
+    },
+    {
+      "reference": "40.17",
+      "label": "Exodus 40:17",
+      "chapterRef": "40"
+    },
+    {
+      "reference": "40.18",
+      "label": "Exodus 40:18",
+      "chapterRef": "40"
+    },
+    {
+      "reference": "40.19",
+      "label": "Exodus 40:19",
+      "chapterRef": "40"
+    },
+    {
+      "reference": "40.20",
+      "label": "Exodus 40:20",
+      "chapterRef": "40"
+    },
+    {
+      "reference": "40.21",
+      "label": "Exodus 40:21",
+      "chapterRef": "40"
+    },
+    {
+      "reference": "40.22",
+      "label": "Exodus 40:22",
+      "chapterRef": "40"
+    },
+    {
+      "reference": "40.23",
+      "label": "Exodus 40:23",
+      "chapterRef": "40"
+    },
+    {
+      "reference": "40.24",
+      "label": "Exodus 40:24",
+      "chapterRef": "40"
+    },
+    {
+      "reference": "40.25",
+      "label": "Exodus 40:25",
+      "chapterRef": "40"
+    },
+    {
+      "reference": "40.26",
+      "label": "Exodus 40:26",
+      "chapterRef": "40"
+    },
+    {
+      "reference": "40.27",
+      "label": "Exodus 40:27",
+      "chapterRef": "40"
+    },
+    {
+      "reference": "40.28",
+      "label": "Exodus 40:28",
+      "chapterRef": "40"
+    },
+    {
+      "reference": "40.29",
+      "label": "Exodus 40:29",
+      "chapterRef": "40"
+    },
+    {
+      "reference": "40.30",
+      "label": "Exodus 40:30",
+      "chapterRef": "40"
+    },
+    {
+      "reference": "40.31",
+      "label": "Exodus 40:31",
+      "chapterRef": "40"
+    },
+    {
+      "reference": "40.32",
+      "label": "Exodus 40:32",
+      "chapterRef": "40"
+    },
+    {
+      "reference": "40.33",
+      "label": "Exodus 40:33",
+      "chapterRef": "40"
+    },
+    {
+      "reference": "40.34",
+      "label": "Exodus 40:34",
+      "chapterRef": "40"
+    },
+    {
+      "reference": "40.35",
+      "label": "Exodus 40:35",
+      "chapterRef": "40"
+    },
+    {
+      "reference": "40.36",
+      "label": "Exodus 40:36",
+      "chapterRef": "40"
+    },
+    {
+      "reference": "40.37",
+      "label": "Exodus 40:37",
+      "chapterRef": "40"
+    },
+    {
+      "reference": "40.38",
+      "label": "Exodus 40:38",
+      "chapterRef": "40"
+    }
+  ],
+  "editions": [
+    {
+      "slug": "bible-exodus-he",
+      "language": "he",
+      "editionType": "original",
+      "title": "Westminster Leningrad Codex (Hebrew)",
+      "translator": "",
+      "publisher": "Bolls Bible API",
+      "publicationYear": null,
+      "source": "bolls",
+      "license": "public-domain",
+      "rightsStatus": "Public domain",
+      "attributionText": "Westminster Leningrad Codex Hebrew text, served by the Bolls Bible API.",
+      "structureScheme": "book, chapter, verse",
+      "isSample": false,
+      "notes": "The Hebrew text is shown as the API serves it; this library does not collate it against critical editions."
+    },
+    {
+      "slug": "bible-exodus-en-kjv",
+      "language": "en",
+      "editionType": "translation",
+      "title": "King James Version (1611)",
+      "translator": "The King James Bible translators",
+      "publisher": "Bolls Bible API",
+      "publicationYear": 1611,
+      "source": "bolls",
+      "license": "public-domain",
+      "rightsStatus": "Public domain",
+      "attributionText": "The Holy Bible, King James Version (1611). Public domain. Served by the Bolls Bible API.",
+      "structureScheme": "book, chapter, verse",
+      "isSample": false,
+      "notes": "Strong's numbers included in the API's markup are not displayed; the verse wording is unchanged."
+    }
+  ]
+}

@@ -1,0 +1,815 @@
+{
+  "slug": "chasidut-irin-kadishin-tinyana",
+  "title": "Irin Kadishin Tinyana",
+  "originalTitle": "עירין קדישין תניינא",
+  "transliteration": "",
+  "altTitles": [],
+  "tradition": "judaism",
+  "school": "rabbinic-judaism",
+  "genre": "Chasidut",
+  "textType": "Hasidic homily and teaching",
+  "category": "Chasidut",
+  "subcategory": "Other Chasidut Works",
+  "originalLanguage": "he",
+  "dateStart": 1750,
+  "dateEnd": 1950,
+  "dateDisplay": "Hasidic literature, c. 1750–1950 CE",
+  "authorshipStatus": "established",
+  "author": "",
+  "attributionNote": "Authorship follows the Sefaria catalogue record for this work. Where a text is traditionally attributed or collectively compiled, the library does not assert a single author beyond the source's own metadata.",
+  "description": "Complete Chasidut text imported from Sefaria; the exact edition and licence are shown with each version.",
+  "historicalContext": "Hasidic literature gathers sermons, letters and teachings from the movement's dynasties and schools. Individual works are attributed to specific rebbes and schools rather than to Chasidut as a whole.",
+  "availabilityNote": "Imported from Sefaria. Version, source and licence are recorded per edition.",
+  "featured": false,
+  "featuredNote": "",
+  "refScheme": "chapter.paragraph",
+  "isSample": false,
+  "textStorage": "streamed",
+  "chapters": [
+    {
+      "ref": "1",
+      "label": "Introduction"
+    },
+    {
+      "ref": "2",
+      "label": "Bereshit"
+    },
+    {
+      "ref": "3",
+      "label": "Lech Lecha"
+    },
+    {
+      "ref": "4",
+      "label": "Vayera"
+    },
+    {
+      "ref": "5",
+      "label": "Chayei Sara"
+    },
+    {
+      "ref": "6",
+      "label": "Toldot"
+    },
+    {
+      "ref": "7",
+      "label": "Vayetzei"
+    },
+    {
+      "ref": "8",
+      "label": "Vayeshev"
+    },
+    {
+      "ref": "9",
+      "label": "Miketz"
+    },
+    {
+      "ref": "10",
+      "label": "Vayigash"
+    },
+    {
+      "ref": "11",
+      "label": "Shemot"
+    },
+    {
+      "ref": "12",
+      "label": "Vaera"
+    },
+    {
+      "ref": "13",
+      "label": "Beshalach"
+    },
+    {
+      "ref": "14",
+      "label": "Yitro"
+    },
+    {
+      "ref": "15",
+      "label": "Terumah"
+    },
+    {
+      "ref": "16",
+      "label": "Vayikra"
+    },
+    {
+      "ref": "17",
+      "label": "Tzav"
+    },
+    {
+      "ref": "18",
+      "label": "Bamidbar"
+    },
+    {
+      "ref": "19",
+      "label": "Nasso"
+    },
+    {
+      "ref": "20",
+      "label": "Masei"
+    },
+    {
+      "ref": "21",
+      "label": "Vaetchanan"
+    },
+    {
+      "ref": "22",
+      "label": "Eikev"
+    },
+    {
+      "ref": "23",
+      "label": "Ki Teitzei"
+    },
+    {
+      "ref": "24",
+      "label": "Ki Tavo"
+    },
+    {
+      "ref": "25",
+      "label": "Rosh Hashanah"
+    },
+    {
+      "ref": "26",
+      "label": "Chanukkah"
+    },
+    {
+      "ref": "27",
+      "label": "Tu Bishvat"
+    },
+    {
+      "ref": "28",
+      "label": "Purim"
+    },
+    {
+      "ref": "29",
+      "label": "Pesach"
+    },
+    {
+      "ref": "30",
+      "label": "Shavuot"
+    },
+    {
+      "ref": "31",
+      "label": "Kinnot"
+    },
+    {
+      "ref": "32",
+      "label": "Nach Miscellany"
+    },
+    {
+      "ref": "33",
+      "label": "Talmud Miscellany"
+    },
+    {
+      "ref": "34",
+      "label": "Miscellany"
+    },
+    {
+      "ref": "35",
+      "label": "Epistles"
+    }
+  ],
+  "passages": [
+    {
+      "reference": "1.1",
+      "label": "1:1",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.2",
+      "label": "1:2",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.3",
+      "label": "1:3",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "2.1",
+      "label": "2:1",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.2",
+      "label": "2:2",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "3.1",
+      "label": "3:1",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.2",
+      "label": "3:2",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "4.1",
+      "label": "4:1",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.2",
+      "label": "4:2",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "5.1",
+      "label": "5:1",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.2",
+      "label": "5:2",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "6.1",
+      "label": "6:1",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.2",
+      "label": "6:2",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "7.1",
+      "label": "7:1",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.2",
+      "label": "7:2",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "8.1",
+      "label": "8:1",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.2",
+      "label": "8:2",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "9.1",
+      "label": "9:1",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "10.1",
+      "label": "10:1",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.2",
+      "label": "10:2",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.3",
+      "label": "10:3",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "11.1",
+      "label": "11:1",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.2",
+      "label": "11:2",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "12.1",
+      "label": "12:1",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.2",
+      "label": "12:2",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.3",
+      "label": "12:3",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "13.1",
+      "label": "13:1",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "14.1",
+      "label": "14:1",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "15.1",
+      "label": "15:1",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.2",
+      "label": "15:2",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.3",
+      "label": "15:3",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "16.1",
+      "label": "16:1",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "17.1",
+      "label": "17:1",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "18.1",
+      "label": "18:1",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "19.1",
+      "label": "19:1",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.2",
+      "label": "19:2",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "20.1",
+      "label": "20:1",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "21.1",
+      "label": "21:1",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "22.1",
+      "label": "22:1",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.2",
+      "label": "22:2",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "23.1",
+      "label": "23:1",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "24.1",
+      "label": "24:1",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.2",
+      "label": "24:2",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.3",
+      "label": "24:3",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.4",
+      "label": "24:4",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.5",
+      "label": "24:5",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.6",
+      "label": "24:6",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "25.1",
+      "label": "25:1",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "26.1",
+      "label": "26:1",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "27.1",
+      "label": "27:1",
+      "chapterRef": "27"
+    },
+    {
+      "reference": "27.2",
+      "label": "27:2",
+      "chapterRef": "27"
+    },
+    {
+      "reference": "28.1",
+      "label": "28:1",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "29.1",
+      "label": "29:1",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "30.1",
+      "label": "30:1",
+      "chapterRef": "30"
+    },
+    {
+      "reference": "31.1",
+      "label": "31:1",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "32.1",
+      "label": "32:1",
+      "chapterRef": "32"
+    },
+    {
+      "reference": "32.2",
+      "label": "32:2",
+      "chapterRef": "32"
+    },
+    {
+      "reference": "32.3",
+      "label": "32:3",
+      "chapterRef": "32"
+    },
+    {
+      "reference": "32.4",
+      "label": "32:4",
+      "chapterRef": "32"
+    },
+    {
+      "reference": "32.5",
+      "label": "32:5",
+      "chapterRef": "32"
+    },
+    {
+      "reference": "32.6",
+      "label": "32:6",
+      "chapterRef": "32"
+    },
+    {
+      "reference": "32.7",
+      "label": "32:7",
+      "chapterRef": "32"
+    },
+    {
+      "reference": "32.8",
+      "label": "32:8",
+      "chapterRef": "32"
+    },
+    {
+      "reference": "32.9",
+      "label": "32:9",
+      "chapterRef": "32"
+    },
+    {
+      "reference": "32.10",
+      "label": "32:10",
+      "chapterRef": "32"
+    },
+    {
+      "reference": "32.11",
+      "label": "32:11",
+      "chapterRef": "32"
+    },
+    {
+      "reference": "32.12",
+      "label": "32:12",
+      "chapterRef": "32"
+    },
+    {
+      "reference": "32.13",
+      "label": "32:13",
+      "chapterRef": "32"
+    },
+    {
+      "reference": "32.14",
+      "label": "32:14",
+      "chapterRef": "32"
+    },
+    {
+      "reference": "33.1",
+      "label": "33:1",
+      "chapterRef": "33"
+    },
+    {
+      "reference": "33.2",
+      "label": "33:2",
+      "chapterRef": "33"
+    },
+    {
+      "reference": "33.3",
+      "label": "33:3",
+      "chapterRef": "33"
+    },
+    {
+      "reference": "33.4",
+      "label": "33:4",
+      "chapterRef": "33"
+    },
+    {
+      "reference": "33.5",
+      "label": "33:5",
+      "chapterRef": "33"
+    },
+    {
+      "reference": "33.6",
+      "label": "33:6",
+      "chapterRef": "33"
+    },
+    {
+      "reference": "33.7",
+      "label": "33:7",
+      "chapterRef": "33"
+    },
+    {
+      "reference": "33.8",
+      "label": "33:8",
+      "chapterRef": "33"
+    },
+    {
+      "reference": "33.9",
+      "label": "33:9",
+      "chapterRef": "33"
+    },
+    {
+      "reference": "33.10",
+      "label": "33:10",
+      "chapterRef": "33"
+    },
+    {
+      "reference": "34.1",
+      "label": "34:1",
+      "chapterRef": "34"
+    },
+    {
+      "reference": "34.2",
+      "label": "34:2",
+      "chapterRef": "34"
+    },
+    {
+      "reference": "34.3",
+      "label": "34:3",
+      "chapterRef": "34"
+    },
+    {
+      "reference": "34.4",
+      "label": "34:4",
+      "chapterRef": "34"
+    },
+    {
+      "reference": "34.5",
+      "label": "34:5",
+      "chapterRef": "34"
+    },
+    {
+      "reference": "34.6",
+      "label": "34:6",
+      "chapterRef": "34"
+    },
+    {
+      "reference": "34.7",
+      "label": "34:7",
+      "chapterRef": "34"
+    },
+    {
+      "reference": "34.8",
+      "label": "34:8",
+      "chapterRef": "34"
+    },
+    {
+      "reference": "34.9",
+      "label": "34:9",
+      "chapterRef": "34"
+    },
+    {
+      "reference": "34.10",
+      "label": "34:10",
+      "chapterRef": "34"
+    },
+    {
+      "reference": "34.11",
+      "label": "34:11",
+      "chapterRef": "34"
+    },
+    {
+      "reference": "34.12",
+      "label": "34:12",
+      "chapterRef": "34"
+    },
+    {
+      "reference": "34.13",
+      "label": "34:13",
+      "chapterRef": "34"
+    },
+    {
+      "reference": "34.14",
+      "label": "34:14",
+      "chapterRef": "34"
+    },
+    {
+      "reference": "34.15",
+      "label": "34:15",
+      "chapterRef": "34"
+    },
+    {
+      "reference": "34.16",
+      "label": "34:16",
+      "chapterRef": "34"
+    },
+    {
+      "reference": "34.17",
+      "label": "34:17",
+      "chapterRef": "34"
+    },
+    {
+      "reference": "34.18",
+      "label": "34:18",
+      "chapterRef": "34"
+    },
+    {
+      "reference": "34.19",
+      "label": "34:19",
+      "chapterRef": "34"
+    },
+    {
+      "reference": "34.20",
+      "label": "34:20",
+      "chapterRef": "34"
+    },
+    {
+      "reference": "34.21",
+      "label": "34:21",
+      "chapterRef": "34"
+    },
+    {
+      "reference": "34.22",
+      "label": "34:22",
+      "chapterRef": "34"
+    },
+    {
+      "reference": "34.23",
+      "label": "34:23",
+      "chapterRef": "34"
+    },
+    {
+      "reference": "34.24",
+      "label": "34:24",
+      "chapterRef": "34"
+    },
+    {
+      "reference": "34.25",
+      "label": "34:25",
+      "chapterRef": "34"
+    },
+    {
+      "reference": "34.26",
+      "label": "34:26",
+      "chapterRef": "34"
+    },
+    {
+      "reference": "34.27",
+      "label": "34:27",
+      "chapterRef": "34"
+    },
+    {
+      "reference": "34.28",
+      "label": "34:28",
+      "chapterRef": "34"
+    },
+    {
+      "reference": "34.29",
+      "label": "34:29",
+      "chapterRef": "34"
+    },
+    {
+      "reference": "34.30",
+      "label": "34:30",
+      "chapterRef": "34"
+    },
+    {
+      "reference": "34.31",
+      "label": "34:31",
+      "chapterRef": "34"
+    },
+    {
+      "reference": "34.32",
+      "label": "34:32",
+      "chapterRef": "34"
+    },
+    {
+      "reference": "34.33",
+      "label": "34:33",
+      "chapterRef": "34"
+    },
+    {
+      "reference": "34.34",
+      "label": "34:34",
+      "chapterRef": "34"
+    },
+    {
+      "reference": "34.35",
+      "label": "34:35",
+      "chapterRef": "34"
+    },
+    {
+      "reference": "34.36",
+      "label": "34:36",
+      "chapterRef": "34"
+    },
+    {
+      "reference": "34.37",
+      "label": "34:37",
+      "chapterRef": "34"
+    },
+    {
+      "reference": "34.38",
+      "label": "34:38",
+      "chapterRef": "34"
+    },
+    {
+      "reference": "34.39",
+      "label": "34:39",
+      "chapterRef": "34"
+    },
+    {
+      "reference": "34.40",
+      "label": "34:40",
+      "chapterRef": "34"
+    },
+    {
+      "reference": "34.41",
+      "label": "34:41",
+      "chapterRef": "34"
+    },
+    {
+      "reference": "34.42",
+      "label": "34:42",
+      "chapterRef": "34"
+    },
+    {
+      "reference": "35.1",
+      "label": "35:1",
+      "chapterRef": "35"
+    },
+    {
+      "reference": "35.2",
+      "label": "35:2",
+      "chapterRef": "35"
+    },
+    {
+      "reference": "35.3",
+      "label": "35:3",
+      "chapterRef": "35"
+    },
+    {
+      "reference": "35.4",
+      "label": "35:4",
+      "chapterRef": "35"
+    }
+  ],
+  "editions": [
+    {
+      "slug": "chasidut-irin-kadishin-tinyana-hebrew-sefaria",
+      "language": "he",
+      "editionType": "original",
+      "title": "Bardejov, 1907",
+      "translator": "",
+      "publisher": "https://www.nli.org.il/he/books/NNL_ALEPH990020463780205171/NLI",
+      "publicationYear": null,
+      "source": "sefaria",
+      "license": "unknown",
+      "rightsStatus": "unknown",
+      "attributionText": "Bardejov, 1907; licence: unknown; source: https://www.nli.org.il/he/books/NNL_ALEPH990020463780205171/NLI. Retrieved via Sefaria on 2026-10-20.",
+      "structureScheme": "chapter and paragraph",
+      "isSample": false,
+      "notes": "Complete work imported from Sefaria. Text is displayed as supplied by the named edition; HTML markup has been removed."
+    }
+  ]
+}

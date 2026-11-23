@@ -1,0 +1,133 @@
+{
+  "slug": "mandukya-upanishad",
+  "title": "The Mandukya Upanishad",
+  "originalTitle": "माण्डूक्योपनिषद्",
+  "transliteration": "Māṇḍūkyopaniṣad",
+  "altTitles": [
+    "Mandukya Upanishad",
+    "Māṇḍūkya"
+  ],
+  "tradition": "hinduism",
+  "school": "vedanta",
+  "genre": "Upanishad",
+  "textType": "Prose and verse scripture with commentary",
+  "category": "Upanishad",
+  "subcategory": "Principal Upanishads",
+  "originalLanguage": "sa",
+  "dateStart": -100,
+  "dateEnd": 200,
+  "dateDisplay": "c. 1st century BCE–2nd century CE (date unsettled)",
+  "authorshipStatus": "anonymous",
+  "author": "",
+  "attributionNote": "The shortest of the principal Upanishads, belonging to the Atharvaveda and transmitted without an author's name. GRETIL's e-text records the Māṇḍūkyamūlamantrabhāṣya, the commentary the tradition ascribes to Śaṅkara, and was input by members of the Sansknet project.",
+  "description": "The Māṇḍūkya Upaniṣad is twelve verses on the syllable om and the four states of the self: the waking state, the dream, deep sleep, and the fourth, which is neither inward nor outward knowledge, beyond teaching and peace, the self to be realised. Its analysis of consciousness through the four quarters of om is the shortest complete statement of the Upanishadic teaching and the point from which Gauḍapāda's Kārikā and the whole Advaita literature on the Upanishads sets out.",
+  "historicalContext": "Read in the Advaita schools as the crown of the Upanishads, the text is commented on in the Māṇḍūkya Kārikā attributed to Gauḍapāda and then in the commentary attributed to Śaṅkara; the three stand together in the school's teaching as scripture, verse and exposition.",
+  "availabilityNote": "Complete: the twelve verses are streamed from GRETIL at read time, and the same file also carries the commentary attributed to Śaṅkara, which the reader shows beside the verses as a second pane. The Upanishad has a single chapter; the verses are indexed in reading order.",
+  "featured": false,
+  "featuredNote": "",
+  "refScheme": "verse",
+  "isSample": false,
+  "textStorage": "streamed",
+  "chapters": [
+    {
+      "ref": "1",
+      "label": "The Upanishad"
+    }
+  ],
+  "passages": [
+    {
+      "reference": "1",
+      "label": "The Upanishad §1",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "2",
+      "label": "The Upanishad §2",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "3",
+      "label": "The Upanishad §3",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "4",
+      "label": "The Upanishad §4",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "5",
+      "label": "The Upanishad §5",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "6",
+      "label": "The Upanishad §6",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "7",
+      "label": "The Upanishad §7",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "8",
+      "label": "The Upanishad §8",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "9",
+      "label": "The Upanishad §9",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "10",
+      "label": "The Upanishad §10",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "11",
+      "label": "The Upanishad §11",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "12",
+      "label": "The Upanishad §12",
+      "chapterRef": "1"
+    }
+  ],
+  "editions": [
+    {
+      "slug": "mandukya-upanishad-sa",
+      "language": "sa",
+      "editionType": "original",
+      "title": "Māṇḍūkyopaniṣad (GRETIL e-text)",
+      "translator": "",
+      "publisher": "GRETIL, Göttingen State and University Library",
+      "publicationYear": 2020,
+      "source": "gretil",
+      "license": "cc-by-nc-sa-4.0",
+      "rightsStatus": "CC BY-NC-SA 4.0 as recorded in the e-text header",
+      "attributionText": "The Mandukya Upanishad. GRETIL e-text 2020-07-31, Göttingen Register of Electronic Texts in Indian Languages. Source edition: . Input by members of the Sansknet Project.",
+      "structureScheme": "reference index; each passage is one verse as GRETIL numbers it",
+      "isSample": false,
+      "notes": "This e-text was provided to GRETIL in good faith that no copyright rights have been infringed. If anyone wishes to assert copyright over this file, please contact the GRETIL management at gretil(at)sub(dot)uni-goettingen(dot)de. The file will be immediately removed pending resolution of the claim. Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. GRETIL describes the reference scheme as: A reference is assembled consisting of a pragmatic abbreviation of the title: Māṇḍūkyopaniṣad+comm = , the number of the  in arabic numerals, the number of the verse in arabic numerals.. The import cache stores the exact segments that were validated. The reader re-fetches the work from GRETIL and reports when the served count no longer matches the index."
+    },
+    {
+      "slug": "mandukya-upanishad-comm",
+      "language": "sa",
+      "editionType": "original",
+      "title": "Māṇḍūkyopaniṣad with the Māṇḍūkyamūlamantrabhāṣya",
+      "translator": "",
+      "publisher": "GRETIL, Göttingen State and University Library",
+      "publicationYear": 2020,
+      "source": "gretil",
+      "license": "cc-by-nc-sa-4.0",
+      "rightsStatus": "CC BY-NC-SA 4.0 as recorded in the e-text header",
+      "attributionText": "Māṇḍūkyopaniṣad with its commentary, GRETIL e-text. GRETIL e-text 2020-07-31, Göttingen Register of Electronic Texts in Indian Languages. The two texts share one file on GRETIL and are indexed under their own reference markers. Source edition: . Input by members of the Sansknet Project.",
+      "structureScheme": "reference index; each passage is one verse as GRETIL numbers it",
+      "isSample": false,
+      "notes": "This e-text was provided to GRETIL in good faith that no copyright rights have been infringed. If anyone wishes to assert copyright over this file, please contact the GRETIL management at gretil(at)sub(dot)uni-goettingen(dot)de. The file will be immediately removed pending resolution of the claim. Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. GRETIL describes the reference scheme as: A reference is assembled consisting of a pragmatic abbreviation of the title: Māṇḍūkyopaniṣad+comm = , the number of the  in arabic numerals, the number of the verse in arabic numerals.. The import cache stores the exact segments that were validated. The reader re-fetches the work from GRETIL and reports when the served count no longer matches the index."
+    }
+  ]
+}

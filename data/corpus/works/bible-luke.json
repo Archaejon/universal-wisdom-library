@@ -1,0 +1,5920 @@
+{
+  "slug": "bible-luke",
+  "title": "Luke (Christian Bible)",
+  "originalTitle": "ΚΑΤΑ ΛΟΥΚΑΝ",
+  "transliteration": "",
+  "altTitles": [
+    "Luke",
+    "Luke — King James Version"
+  ],
+  "tradition": "christianity",
+  "school": "early-christianity",
+  "genre": "Scripture",
+  "textType": "Biblical book",
+  "category": "New Testament",
+  "subcategory": "Gospels",
+  "originalLanguage": "grc",
+  "dateStart": 50,
+  "dateEnd": 100,
+  "dateDisplay": "Written in the first century CE, with the canon fixed in the following centuries",
+  "authorshipStatus": "traditional",
+  "author": "",
+  "attributionNote": "The text is anonymous or traditionally attributed; the attribution is part of the work's reception rather than a statement about the surviving author. The catalogue does not adjudicate it.",
+  "description": "A gospel addressed to Theophilus, attentive to outsiders, women and the poor. This is the book as received in Christian Bibles: the Textus Receptus Greek text beside the King James Version of 1611.",
+  "historicalContext": "Narratives of Jesus's teaching, death and resurrection.",
+  "availabilityNote": "Streamed from the Bolls Bible API. Verse references follow the KJV; the Greek text is the Textus Receptus, which differs from critical editions at some readings.",
+  "featured": false,
+  "featuredNote": "",
+  "refScheme": "chapter.verse",
+  "isSample": false,
+  "textStorage": "streamed",
+  "chapters": [
+    {
+      "ref": "1",
+      "label": "Luke 1"
+    },
+    {
+      "ref": "2",
+      "label": "Luke 2"
+    },
+    {
+      "ref": "3",
+      "label": "Luke 3"
+    },
+    {
+      "ref": "4",
+      "label": "Luke 4"
+    },
+    {
+      "ref": "5",
+      "label": "Luke 5"
+    },
+    {
+      "ref": "6",
+      "label": "Luke 6"
+    },
+    {
+      "ref": "7",
+      "label": "Luke 7"
+    },
+    {
+      "ref": "8",
+      "label": "Luke 8"
+    },
+    {
+      "ref": "9",
+      "label": "Luke 9"
+    },
+    {
+      "ref": "10",
+      "label": "Luke 10"
+    },
+    {
+      "ref": "11",
+      "label": "Luke 11"
+    },
+    {
+      "ref": "12",
+      "label": "Luke 12"
+    },
+    {
+      "ref": "13",
+      "label": "Luke 13"
+    },
+    {
+      "ref": "14",
+      "label": "Luke 14"
+    },
+    {
+      "ref": "15",
+      "label": "Luke 15"
+    },
+    {
+      "ref": "16",
+      "label": "Luke 16"
+    },
+    {
+      "ref": "17",
+      "label": "Luke 17"
+    },
+    {
+      "ref": "18",
+      "label": "Luke 18"
+    },
+    {
+      "ref": "19",
+      "label": "Luke 19"
+    },
+    {
+      "ref": "20",
+      "label": "Luke 20"
+    },
+    {
+      "ref": "21",
+      "label": "Luke 21"
+    },
+    {
+      "ref": "22",
+      "label": "Luke 22"
+    },
+    {
+      "ref": "23",
+      "label": "Luke 23"
+    },
+    {
+      "ref": "24",
+      "label": "Luke 24"
+    }
+  ],
+  "passages": [
+    {
+      "reference": "1.1",
+      "label": "Luke 1:1",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.2",
+      "label": "Luke 1:2",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.3",
+      "label": "Luke 1:3",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.4",
+      "label": "Luke 1:4",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.5",
+      "label": "Luke 1:5",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.6",
+      "label": "Luke 1:6",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.7",
+      "label": "Luke 1:7",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.8",
+      "label": "Luke 1:8",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.9",
+      "label": "Luke 1:9",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.10",
+      "label": "Luke 1:10",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.11",
+      "label": "Luke 1:11",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.12",
+      "label": "Luke 1:12",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.13",
+      "label": "Luke 1:13",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.14",
+      "label": "Luke 1:14",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.15",
+      "label": "Luke 1:15",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.16",
+      "label": "Luke 1:16",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.17",
+      "label": "Luke 1:17",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.18",
+      "label": "Luke 1:18",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.19",
+      "label": "Luke 1:19",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.20",
+      "label": "Luke 1:20",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.21",
+      "label": "Luke 1:21",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.22",
+      "label": "Luke 1:22",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.23",
+      "label": "Luke 1:23",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.24",
+      "label": "Luke 1:24",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.25",
+      "label": "Luke 1:25",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.26",
+      "label": "Luke 1:26",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.27",
+      "label": "Luke 1:27",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.28",
+      "label": "Luke 1:28",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.29",
+      "label": "Luke 1:29",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.30",
+      "label": "Luke 1:30",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.31",
+      "label": "Luke 1:31",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.32",
+      "label": "Luke 1:32",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.33",
+      "label": "Luke 1:33",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.34",
+      "label": "Luke 1:34",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.35",
+      "label": "Luke 1:35",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.36",
+      "label": "Luke 1:36",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.37",
+      "label": "Luke 1:37",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.38",
+      "label": "Luke 1:38",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.39",
+      "label": "Luke 1:39",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.40",
+      "label": "Luke 1:40",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.41",
+      "label": "Luke 1:41",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.42",
+      "label": "Luke 1:42",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.43",
+      "label": "Luke 1:43",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.44",
+      "label": "Luke 1:44",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.45",
+      "label": "Luke 1:45",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.46",
+      "label": "Luke 1:46",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.47",
+      "label": "Luke 1:47",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.48",
+      "label": "Luke 1:48",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.49",
+      "label": "Luke 1:49",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.50",
+      "label": "Luke 1:50",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.51",
+      "label": "Luke 1:51",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.52",
+      "label": "Luke 1:52",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.53",
+      "label": "Luke 1:53",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.54",
+      "label": "Luke 1:54",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.55",
+      "label": "Luke 1:55",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.56",
+      "label": "Luke 1:56",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.57",
+      "label": "Luke 1:57",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.58",
+      "label": "Luke 1:58",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.59",
+      "label": "Luke 1:59",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.60",
+      "label": "Luke 1:60",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.61",
+      "label": "Luke 1:61",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.62",
+      "label": "Luke 1:62",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.63",
+      "label": "Luke 1:63",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.64",
+      "label": "Luke 1:64",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.65",
+      "label": "Luke 1:65",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.66",
+      "label": "Luke 1:66",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.67",
+      "label": "Luke 1:67",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.68",
+      "label": "Luke 1:68",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.69",
+      "label": "Luke 1:69",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.70",
+      "label": "Luke 1:70",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.71",
+      "label": "Luke 1:71",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.72",
+      "label": "Luke 1:72",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.73",
+      "label": "Luke 1:73",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.74",
+      "label": "Luke 1:74",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.75",
+      "label": "Luke 1:75",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.76",
+      "label": "Luke 1:76",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.77",
+      "label": "Luke 1:77",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.78",
+      "label": "Luke 1:78",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.79",
+      "label": "Luke 1:79",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.80",
+      "label": "Luke 1:80",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "2.1",
+      "label": "Luke 2:1",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.2",
+      "label": "Luke 2:2",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.3",
+      "label": "Luke 2:3",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.4",
+      "label": "Luke 2:4",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.5",
+      "label": "Luke 2:5",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.6",
+      "label": "Luke 2:6",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.7",
+      "label": "Luke 2:7",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.8",
+      "label": "Luke 2:8",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.9",
+      "label": "Luke 2:9",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.10",
+      "label": "Luke 2:10",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.11",
+      "label": "Luke 2:11",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.12",
+      "label": "Luke 2:12",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.13",
+      "label": "Luke 2:13",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.14",
+      "label": "Luke 2:14",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.15",
+      "label": "Luke 2:15",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.16",
+      "label": "Luke 2:16",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.17",
+      "label": "Luke 2:17",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.18",
+      "label": "Luke 2:18",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.19",
+      "label": "Luke 2:19",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.20",
+      "label": "Luke 2:20",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.21",
+      "label": "Luke 2:21",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.22",
+      "label": "Luke 2:22",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.23",
+      "label": "Luke 2:23",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.24",
+      "label": "Luke 2:24",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.25",
+      "label": "Luke 2:25",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.26",
+      "label": "Luke 2:26",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.27",
+      "label": "Luke 2:27",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.28",
+      "label": "Luke 2:28",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.29",
+      "label": "Luke 2:29",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.30",
+      "label": "Luke 2:30",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.31",
+      "label": "Luke 2:31",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.32",
+      "label": "Luke 2:32",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.33",
+      "label": "Luke 2:33",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.34",
+      "label": "Luke 2:34",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.35",
+      "label": "Luke 2:35",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.36",
+      "label": "Luke 2:36",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.37",
+      "label": "Luke 2:37",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.38",
+      "label": "Luke 2:38",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.39",
+      "label": "Luke 2:39",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.40",
+      "label": "Luke 2:40",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.41",
+      "label": "Luke 2:41",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.42",
+      "label": "Luke 2:42",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.43",
+      "label": "Luke 2:43",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.44",
+      "label": "Luke 2:44",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.45",
+      "label": "Luke 2:45",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.46",
+      "label": "Luke 2:46",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.47",
+      "label": "Luke 2:47",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.48",
+      "label": "Luke 2:48",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.49",
+      "label": "Luke 2:49",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.50",
+      "label": "Luke 2:50",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.51",
+      "label": "Luke 2:51",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.52",
+      "label": "Luke 2:52",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "3.1",
+      "label": "Luke 3:1",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.2",
+      "label": "Luke 3:2",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.3",
+      "label": "Luke 3:3",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.4",
+      "label": "Luke 3:4",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.5",
+      "label": "Luke 3:5",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.6",
+      "label": "Luke 3:6",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.7",
+      "label": "Luke 3:7",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.8",
+      "label": "Luke 3:8",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.9",
+      "label": "Luke 3:9",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.10",
+      "label": "Luke 3:10",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.11",
+      "label": "Luke 3:11",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.12",
+      "label": "Luke 3:12",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.13",
+      "label": "Luke 3:13",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.14",
+      "label": "Luke 3:14",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.15",
+      "label": "Luke 3:15",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.16",
+      "label": "Luke 3:16",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.17",
+      "label": "Luke 3:17",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.18",
+      "label": "Luke 3:18",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.19",
+      "label": "Luke 3:19",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.20",
+      "label": "Luke 3:20",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.21",
+      "label": "Luke 3:21",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.22",
+      "label": "Luke 3:22",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.23",
+      "label": "Luke 3:23",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.24",
+      "label": "Luke 3:24",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.25",
+      "label": "Luke 3:25",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.26",
+      "label": "Luke 3:26",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.27",
+      "label": "Luke 3:27",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.28",
+      "label": "Luke 3:28",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.29",
+      "label": "Luke 3:29",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.30",
+      "label": "Luke 3:30",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.31",
+      "label": "Luke 3:31",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.32",
+      "label": "Luke 3:32",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.33",
+      "label": "Luke 3:33",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.34",
+      "label": "Luke 3:34",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.35",
+      "label": "Luke 3:35",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.36",
+      "label": "Luke 3:36",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.37",
+      "label": "Luke 3:37",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.38",
+      "label": "Luke 3:38",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "4.1",
+      "label": "Luke 4:1",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.2",
+      "label": "Luke 4:2",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.3",
+      "label": "Luke 4:3",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.4",
+      "label": "Luke 4:4",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.5",
+      "label": "Luke 4:5",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.6",
+      "label": "Luke 4:6",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.7",
+      "label": "Luke 4:7",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.8",
+      "label": "Luke 4:8",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.9",
+      "label": "Luke 4:9",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.10",
+      "label": "Luke 4:10",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.11",
+      "label": "Luke 4:11",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.12",
+      "label": "Luke 4:12",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.13",
+      "label": "Luke 4:13",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.14",
+      "label": "Luke 4:14",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.15",
+      "label": "Luke 4:15",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.16",
+      "label": "Luke 4:16",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.17",
+      "label": "Luke 4:17",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.18",
+      "label": "Luke 4:18",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.19",
+      "label": "Luke 4:19",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.20",
+      "label": "Luke 4:20",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.21",
+      "label": "Luke 4:21",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.22",
+      "label": "Luke 4:22",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.23",
+      "label": "Luke 4:23",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.24",
+      "label": "Luke 4:24",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.25",
+      "label": "Luke 4:25",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.26",
+      "label": "Luke 4:26",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.27",
+      "label": "Luke 4:27",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.28",
+      "label": "Luke 4:28",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.29",
+      "label": "Luke 4:29",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.30",
+      "label": "Luke 4:30",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.31",
+      "label": "Luke 4:31",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.32",
+      "label": "Luke 4:32",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.33",
+      "label": "Luke 4:33",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.34",
+      "label": "Luke 4:34",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.35",
+      "label": "Luke 4:35",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.36",
+      "label": "Luke 4:36",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.37",
+      "label": "Luke 4:37",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.38",
+      "label": "Luke 4:38",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.39",
+      "label": "Luke 4:39",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.40",
+      "label": "Luke 4:40",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.41",
+      "label": "Luke 4:41",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.42",
+      "label": "Luke 4:42",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.43",
+      "label": "Luke 4:43",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.44",
+      "label": "Luke 4:44",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "5.1",
+      "label": "Luke 5:1",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.2",
+      "label": "Luke 5:2",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.3",
+      "label": "Luke 5:3",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.4",
+      "label": "Luke 5:4",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.5",
+      "label": "Luke 5:5",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.6",
+      "label": "Luke 5:6",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.7",
+      "label": "Luke 5:7",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.8",
+      "label": "Luke 5:8",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.9",
+      "label": "Luke 5:9",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.10",
+      "label": "Luke 5:10",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.11",
+      "label": "Luke 5:11",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.12",
+      "label": "Luke 5:12",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.13",
+      "label": "Luke 5:13",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.14",
+      "label": "Luke 5:14",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.15",
+      "label": "Luke 5:15",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.16",
+      "label": "Luke 5:16",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.17",
+      "label": "Luke 5:17",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.18",
+      "label": "Luke 5:18",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.19",
+      "label": "Luke 5:19",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.20",
+      "label": "Luke 5:20",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.21",
+      "label": "Luke 5:21",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.22",
+      "label": "Luke 5:22",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.23",
+      "label": "Luke 5:23",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.24",
+      "label": "Luke 5:24",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.25",
+      "label": "Luke 5:25",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.26",
+      "label": "Luke 5:26",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.27",
+      "label": "Luke 5:27",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.28",
+      "label": "Luke 5:28",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.29",
+      "label": "Luke 5:29",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.30",
+      "label": "Luke 5:30",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.31",
+      "label": "Luke 5:31",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.32",
+      "label": "Luke 5:32",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.33",
+      "label": "Luke 5:33",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.34",
+      "label": "Luke 5:34",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.35",
+      "label": "Luke 5:35",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.36",
+      "label": "Luke 5:36",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.37",
+      "label": "Luke 5:37",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.38",
+      "label": "Luke 5:38",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.39",
+      "label": "Luke 5:39",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "6.1",
+      "label": "Luke 6:1",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.2",
+      "label": "Luke 6:2",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.3",
+      "label": "Luke 6:3",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.4",
+      "label": "Luke 6:4",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.5",
+      "label": "Luke 6:5",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.6",
+      "label": "Luke 6:6",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.7",
+      "label": "Luke 6:7",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.8",
+      "label": "Luke 6:8",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.9",
+      "label": "Luke 6:9",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.10",
+      "label": "Luke 6:10",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.11",
+      "label": "Luke 6:11",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.12",
+      "label": "Luke 6:12",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.13",
+      "label": "Luke 6:13",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.14",
+      "label": "Luke 6:14",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.15",
+      "label": "Luke 6:15",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.16",
+      "label": "Luke 6:16",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.17",
+      "label": "Luke 6:17",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.18",
+      "label": "Luke 6:18",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.19",
+      "label": "Luke 6:19",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.20",
+      "label": "Luke 6:20",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.21",
+      "label": "Luke 6:21",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.22",
+      "label": "Luke 6:22",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.23",
+      "label": "Luke 6:23",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.24",
+      "label": "Luke 6:24",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.25",
+      "label": "Luke 6:25",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.26",
+      "label": "Luke 6:26",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.27",
+      "label": "Luke 6:27",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.28",
+      "label": "Luke 6:28",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.29",
+      "label": "Luke 6:29",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.30",
+      "label": "Luke 6:30",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.31",
+      "label": "Luke 6:31",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.32",
+      "label": "Luke 6:32",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.33",
+      "label": "Luke 6:33",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.34",
+      "label": "Luke 6:34",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.35",
+      "label": "Luke 6:35",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.36",
+      "label": "Luke 6:36",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.37",
+      "label": "Luke 6:37",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.38",
+      "label": "Luke 6:38",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.39",
+      "label": "Luke 6:39",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.40",
+      "label": "Luke 6:40",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.41",
+      "label": "Luke 6:41",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.42",
+      "label": "Luke 6:42",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.43",
+      "label": "Luke 6:43",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.44",
+      "label": "Luke 6:44",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.45",
+      "label": "Luke 6:45",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.46",
+      "label": "Luke 6:46",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.47",
+      "label": "Luke 6:47",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.48",
+      "label": "Luke 6:48",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.49",
+      "label": "Luke 6:49",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "7.1",
+      "label": "Luke 7:1",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.2",
+      "label": "Luke 7:2",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.3",
+      "label": "Luke 7:3",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.4",
+      "label": "Luke 7:4",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.5",
+      "label": "Luke 7:5",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.6",
+      "label": "Luke 7:6",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.7",
+      "label": "Luke 7:7",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.8",
+      "label": "Luke 7:8",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.9",
+      "label": "Luke 7:9",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.10",
+      "label": "Luke 7:10",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.11",
+      "label": "Luke 7:11",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.12",
+      "label": "Luke 7:12",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.13",
+      "label": "Luke 7:13",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.14",
+      "label": "Luke 7:14",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.15",
+      "label": "Luke 7:15",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.16",
+      "label": "Luke 7:16",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.17",
+      "label": "Luke 7:17",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.18",
+      "label": "Luke 7:18",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.19",
+      "label": "Luke 7:19",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.20",
+      "label": "Luke 7:20",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.21",
+      "label": "Luke 7:21",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.22",
+      "label": "Luke 7:22",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.23",
+      "label": "Luke 7:23",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.24",
+      "label": "Luke 7:24",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.25",
+      "label": "Luke 7:25",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.26",
+      "label": "Luke 7:26",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.27",
+      "label": "Luke 7:27",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.28",
+      "label": "Luke 7:28",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.29",
+      "label": "Luke 7:29",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.30",
+      "label": "Luke 7:30",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.31",
+      "label": "Luke 7:31",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.32",
+      "label": "Luke 7:32",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.33",
+      "label": "Luke 7:33",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.34",
+      "label": "Luke 7:34",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.35",
+      "label": "Luke 7:35",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.36",
+      "label": "Luke 7:36",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.37",
+      "label": "Luke 7:37",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.38",
+      "label": "Luke 7:38",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.39",
+      "label": "Luke 7:39",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.40",
+      "label": "Luke 7:40",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.41",
+      "label": "Luke 7:41",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.42",
+      "label": "Luke 7:42",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.43",
+      "label": "Luke 7:43",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.44",
+      "label": "Luke 7:44",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.45",
+      "label": "Luke 7:45",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.46",
+      "label": "Luke 7:46",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.47",
+      "label": "Luke 7:47",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.48",
+      "label": "Luke 7:48",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.49",
+      "label": "Luke 7:49",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.50",
+      "label": "Luke 7:50",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "8.1",
+      "label": "Luke 8:1",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.2",
+      "label": "Luke 8:2",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.3",
+      "label": "Luke 8:3",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.4",
+      "label": "Luke 8:4",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.5",
+      "label": "Luke 8:5",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.6",
+      "label": "Luke 8:6",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.7",
+      "label": "Luke 8:7",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.8",
+      "label": "Luke 8:8",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.9",
+      "label": "Luke 8:9",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.10",
+      "label": "Luke 8:10",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.11",
+      "label": "Luke 8:11",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.12",
+      "label": "Luke 8:12",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.13",
+      "label": "Luke 8:13",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.14",
+      "label": "Luke 8:14",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.15",
+      "label": "Luke 8:15",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.16",
+      "label": "Luke 8:16",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.17",
+      "label": "Luke 8:17",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.18",
+      "label": "Luke 8:18",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.19",
+      "label": "Luke 8:19",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.20",
+      "label": "Luke 8:20",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.21",
+      "label": "Luke 8:21",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.22",
+      "label": "Luke 8:22",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.23",
+      "label": "Luke 8:23",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.24",
+      "label": "Luke 8:24",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.25",
+      "label": "Luke 8:25",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.26",
+      "label": "Luke 8:26",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.27",
+      "label": "Luke 8:27",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.28",
+      "label": "Luke 8:28",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.29",
+      "label": "Luke 8:29",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.30",
+      "label": "Luke 8:30",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.31",
+      "label": "Luke 8:31",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.32",
+      "label": "Luke 8:32",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.33",
+      "label": "Luke 8:33",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.34",
+      "label": "Luke 8:34",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.35",
+      "label": "Luke 8:35",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.36",
+      "label": "Luke 8:36",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.37",
+      "label": "Luke 8:37",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.38",
+      "label": "Luke 8:38",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.39",
+      "label": "Luke 8:39",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.40",
+      "label": "Luke 8:40",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.41",
+      "label": "Luke 8:41",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.42",
+      "label": "Luke 8:42",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.43",
+      "label": "Luke 8:43",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.44",
+      "label": "Luke 8:44",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.45",
+      "label": "Luke 8:45",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.46",
+      "label": "Luke 8:46",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.47",
+      "label": "Luke 8:47",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.48",
+      "label": "Luke 8:48",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.49",
+      "label": "Luke 8:49",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.50",
+      "label": "Luke 8:50",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.51",
+      "label": "Luke 8:51",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.52",
+      "label": "Luke 8:52",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.53",
+      "label": "Luke 8:53",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.54",
+      "label": "Luke 8:54",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.55",
+      "label": "Luke 8:55",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.56",
+      "label": "Luke 8:56",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "9.1",
+      "label": "Luke 9:1",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.2",
+      "label": "Luke 9:2",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.3",
+      "label": "Luke 9:3",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.4",
+      "label": "Luke 9:4",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.5",
+      "label": "Luke 9:5",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.6",
+      "label": "Luke 9:6",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.7",
+      "label": "Luke 9:7",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.8",
+      "label": "Luke 9:8",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.9",
+      "label": "Luke 9:9",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.10",
+      "label": "Luke 9:10",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.11",
+      "label": "Luke 9:11",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.12",
+      "label": "Luke 9:12",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.13",
+      "label": "Luke 9:13",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.14",
+      "label": "Luke 9:14",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.15",
+      "label": "Luke 9:15",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.16",
+      "label": "Luke 9:16",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.17",
+      "label": "Luke 9:17",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.18",
+      "label": "Luke 9:18",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.19",
+      "label": "Luke 9:19",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.20",
+      "label": "Luke 9:20",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.21",
+      "label": "Luke 9:21",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.22",
+      "label": "Luke 9:22",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.23",
+      "label": "Luke 9:23",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.24",
+      "label": "Luke 9:24",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.25",
+      "label": "Luke 9:25",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.26",
+      "label": "Luke 9:26",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.27",
+      "label": "Luke 9:27",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.28",
+      "label": "Luke 9:28",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.29",
+      "label": "Luke 9:29",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.30",
+      "label": "Luke 9:30",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.31",
+      "label": "Luke 9:31",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.32",
+      "label": "Luke 9:32",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.33",
+      "label": "Luke 9:33",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.34",
+      "label": "Luke 9:34",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.35",
+      "label": "Luke 9:35",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.36",
+      "label": "Luke 9:36",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.37",
+      "label": "Luke 9:37",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.38",
+      "label": "Luke 9:38",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.39",
+      "label": "Luke 9:39",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.40",
+      "label": "Luke 9:40",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.41",
+      "label": "Luke 9:41",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.42",
+      "label": "Luke 9:42",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.43",
+      "label": "Luke 9:43",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.44",
+      "label": "Luke 9:44",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.45",
+      "label": "Luke 9:45",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.46",
+      "label": "Luke 9:46",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.47",
+      "label": "Luke 9:47",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.48",
+      "label": "Luke 9:48",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.49",
+      "label": "Luke 9:49",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.50",
+      "label": "Luke 9:50",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.51",
+      "label": "Luke 9:51",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.52",
+      "label": "Luke 9:52",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.53",
+      "label": "Luke 9:53",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.54",
+      "label": "Luke 9:54",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.55",
+      "label": "Luke 9:55",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.56",
+      "label": "Luke 9:56",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.57",
+      "label": "Luke 9:57",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.58",
+      "label": "Luke 9:58",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.59",
+      "label": "Luke 9:59",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.60",
+      "label": "Luke 9:60",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.61",
+      "label": "Luke 9:61",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.62",
+      "label": "Luke 9:62",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "10.1",
+      "label": "Luke 10:1",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.2",
+      "label": "Luke 10:2",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.3",
+      "label": "Luke 10:3",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.4",
+      "label": "Luke 10:4",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.5",
+      "label": "Luke 10:5",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.6",
+      "label": "Luke 10:6",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.7",
+      "label": "Luke 10:7",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.8",
+      "label": "Luke 10:8",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.9",
+      "label": "Luke 10:9",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.10",
+      "label": "Luke 10:10",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.11",
+      "label": "Luke 10:11",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.12",
+      "label": "Luke 10:12",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.13",
+      "label": "Luke 10:13",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.14",
+      "label": "Luke 10:14",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.15",
+      "label": "Luke 10:15",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.16",
+      "label": "Luke 10:16",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.17",
+      "label": "Luke 10:17",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.18",
+      "label": "Luke 10:18",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.19",
+      "label": "Luke 10:19",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.20",
+      "label": "Luke 10:20",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.21",
+      "label": "Luke 10:21",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.22",
+      "label": "Luke 10:22",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.23",
+      "label": "Luke 10:23",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.24",
+      "label": "Luke 10:24",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.25",
+      "label": "Luke 10:25",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.26",
+      "label": "Luke 10:26",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.27",
+      "label": "Luke 10:27",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.28",
+      "label": "Luke 10:28",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.29",
+      "label": "Luke 10:29",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.30",
+      "label": "Luke 10:30",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.31",
+      "label": "Luke 10:31",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.32",
+      "label": "Luke 10:32",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.33",
+      "label": "Luke 10:33",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.34",
+      "label": "Luke 10:34",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.35",
+      "label": "Luke 10:35",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.36",
+      "label": "Luke 10:36",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.37",
+      "label": "Luke 10:37",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.38",
+      "label": "Luke 10:38",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.39",
+      "label": "Luke 10:39",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.40",
+      "label": "Luke 10:40",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.41",
+      "label": "Luke 10:41",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.42",
+      "label": "Luke 10:42",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "11.1",
+      "label": "Luke 11:1",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.2",
+      "label": "Luke 11:2",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.3",
+      "label": "Luke 11:3",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.4",
+      "label": "Luke 11:4",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.5",
+      "label": "Luke 11:5",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.6",
+      "label": "Luke 11:6",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.7",
+      "label": "Luke 11:7",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.8",
+      "label": "Luke 11:8",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.9",
+      "label": "Luke 11:9",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.10",
+      "label": "Luke 11:10",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.11",
+      "label": "Luke 11:11",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.12",
+      "label": "Luke 11:12",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.13",
+      "label": "Luke 11:13",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.14",
+      "label": "Luke 11:14",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.15",
+      "label": "Luke 11:15",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.16",
+      "label": "Luke 11:16",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.17",
+      "label": "Luke 11:17",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.18",
+      "label": "Luke 11:18",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.19",
+      "label": "Luke 11:19",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.20",
+      "label": "Luke 11:20",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.21",
+      "label": "Luke 11:21",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.22",
+      "label": "Luke 11:22",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.23",
+      "label": "Luke 11:23",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.24",
+      "label": "Luke 11:24",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.25",
+      "label": "Luke 11:25",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.26",
+      "label": "Luke 11:26",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.27",
+      "label": "Luke 11:27",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.28",
+      "label": "Luke 11:28",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.29",
+      "label": "Luke 11:29",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.30",
+      "label": "Luke 11:30",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.31",
+      "label": "Luke 11:31",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.32",
+      "label": "Luke 11:32",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.33",
+      "label": "Luke 11:33",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.34",
+      "label": "Luke 11:34",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.35",
+      "label": "Luke 11:35",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.36",
+      "label": "Luke 11:36",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.37",
+      "label": "Luke 11:37",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.38",
+      "label": "Luke 11:38",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.39",
+      "label": "Luke 11:39",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.40",
+      "label": "Luke 11:40",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.41",
+      "label": "Luke 11:41",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.42",
+      "label": "Luke 11:42",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.43",
+      "label": "Luke 11:43",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.44",
+      "label": "Luke 11:44",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.45",
+      "label": "Luke 11:45",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.46",
+      "label": "Luke 11:46",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.47",
+      "label": "Luke 11:47",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.48",
+      "label": "Luke 11:48",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.49",
+      "label": "Luke 11:49",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.50",
+      "label": "Luke 11:50",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.51",
+      "label": "Luke 11:51",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.52",
+      "label": "Luke 11:52",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.53",
+      "label": "Luke 11:53",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.54",
+      "label": "Luke 11:54",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "12.1",
+      "label": "Luke 12:1",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.2",
+      "label": "Luke 12:2",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.3",
+      "label": "Luke 12:3",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.4",
+      "label": "Luke 12:4",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.5",
+      "label": "Luke 12:5",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.6",
+      "label": "Luke 12:6",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.7",
+      "label": "Luke 12:7",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.8",
+      "label": "Luke 12:8",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.9",
+      "label": "Luke 12:9",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.10",
+      "label": "Luke 12:10",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.11",
+      "label": "Luke 12:11",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.12",
+      "label": "Luke 12:12",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.13",
+      "label": "Luke 12:13",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.14",
+      "label": "Luke 12:14",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.15",
+      "label": "Luke 12:15",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.16",
+      "label": "Luke 12:16",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.17",
+      "label": "Luke 12:17",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.18",
+      "label": "Luke 12:18",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.19",
+      "label": "Luke 12:19",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.20",
+      "label": "Luke 12:20",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.21",
+      "label": "Luke 12:21",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.22",
+      "label": "Luke 12:22",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.23",
+      "label": "Luke 12:23",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.24",
+      "label": "Luke 12:24",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.25",
+      "label": "Luke 12:25",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.26",
+      "label": "Luke 12:26",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.27",
+      "label": "Luke 12:27",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.28",
+      "label": "Luke 12:28",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.29",
+      "label": "Luke 12:29",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.30",
+      "label": "Luke 12:30",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.31",
+      "label": "Luke 12:31",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.32",
+      "label": "Luke 12:32",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.33",
+      "label": "Luke 12:33",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.34",
+      "label": "Luke 12:34",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.35",
+      "label": "Luke 12:35",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.36",
+      "label": "Luke 12:36",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.37",
+      "label": "Luke 12:37",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.38",
+      "label": "Luke 12:38",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.39",
+      "label": "Luke 12:39",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.40",
+      "label": "Luke 12:40",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.41",
+      "label": "Luke 12:41",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.42",
+      "label": "Luke 12:42",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.43",
+      "label": "Luke 12:43",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.44",
+      "label": "Luke 12:44",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.45",
+      "label": "Luke 12:45",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.46",
+      "label": "Luke 12:46",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.47",
+      "label": "Luke 12:47",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.48",
+      "label": "Luke 12:48",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.49",
+      "label": "Luke 12:49",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.50",
+      "label": "Luke 12:50",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.51",
+      "label": "Luke 12:51",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.52",
+      "label": "Luke 12:52",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.53",
+      "label": "Luke 12:53",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.54",
+      "label": "Luke 12:54",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.55",
+      "label": "Luke 12:55",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.56",
+      "label": "Luke 12:56",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.57",
+      "label": "Luke 12:57",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.58",
+      "label": "Luke 12:58",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.59",
+      "label": "Luke 12:59",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "13.1",
+      "label": "Luke 13:1",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.2",
+      "label": "Luke 13:2",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.3",
+      "label": "Luke 13:3",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.4",
+      "label": "Luke 13:4",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.5",
+      "label": "Luke 13:5",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.6",
+      "label": "Luke 13:6",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.7",
+      "label": "Luke 13:7",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.8",
+      "label": "Luke 13:8",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.9",
+      "label": "Luke 13:9",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.10",
+      "label": "Luke 13:10",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.11",
+      "label": "Luke 13:11",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.12",
+      "label": "Luke 13:12",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.13",
+      "label": "Luke 13:13",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.14",
+      "label": "Luke 13:14",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.15",
+      "label": "Luke 13:15",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.16",
+      "label": "Luke 13:16",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.17",
+      "label": "Luke 13:17",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.18",
+      "label": "Luke 13:18",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.19",
+      "label": "Luke 13:19",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.20",
+      "label": "Luke 13:20",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.21",
+      "label": "Luke 13:21",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.22",
+      "label": "Luke 13:22",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.23",
+      "label": "Luke 13:23",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.24",
+      "label": "Luke 13:24",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.25",
+      "label": "Luke 13:25",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.26",
+      "label": "Luke 13:26",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.27",
+      "label": "Luke 13:27",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.28",
+      "label": "Luke 13:28",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.29",
+      "label": "Luke 13:29",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.30",
+      "label": "Luke 13:30",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.31",
+      "label": "Luke 13:31",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.32",
+      "label": "Luke 13:32",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.33",
+      "label": "Luke 13:33",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.34",
+      "label": "Luke 13:34",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.35",
+      "label": "Luke 13:35",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "14.1",
+      "label": "Luke 14:1",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.2",
+      "label": "Luke 14:2",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.3",
+      "label": "Luke 14:3",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.4",
+      "label": "Luke 14:4",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.5",
+      "label": "Luke 14:5",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.6",
+      "label": "Luke 14:6",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.7",
+      "label": "Luke 14:7",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.8",
+      "label": "Luke 14:8",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.9",
+      "label": "Luke 14:9",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.10",
+      "label": "Luke 14:10",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.11",
+      "label": "Luke 14:11",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.12",
+      "label": "Luke 14:12",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.13",
+      "label": "Luke 14:13",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.14",
+      "label": "Luke 14:14",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.15",
+      "label": "Luke 14:15",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.16",
+      "label": "Luke 14:16",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.17",
+      "label": "Luke 14:17",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.18",
+      "label": "Luke 14:18",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.19",
+      "label": "Luke 14:19",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.20",
+      "label": "Luke 14:20",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.21",
+      "label": "Luke 14:21",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.22",
+      "label": "Luke 14:22",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.23",
+      "label": "Luke 14:23",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.24",
+      "label": "Luke 14:24",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.25",
+      "label": "Luke 14:25",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.26",
+      "label": "Luke 14:26",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.27",
+      "label": "Luke 14:27",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.28",
+      "label": "Luke 14:28",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.29",
+      "label": "Luke 14:29",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.30",
+      "label": "Luke 14:30",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.31",
+      "label": "Luke 14:31",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.32",
+      "label": "Luke 14:32",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.33",
+      "label": "Luke 14:33",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.34",
+      "label": "Luke 14:34",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.35",
+      "label": "Luke 14:35",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "15.1",
+      "label": "Luke 15:1",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.2",
+      "label": "Luke 15:2",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.3",
+      "label": "Luke 15:3",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.4",
+      "label": "Luke 15:4",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.5",
+      "label": "Luke 15:5",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.6",
+      "label": "Luke 15:6",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.7",
+      "label": "Luke 15:7",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.8",
+      "label": "Luke 15:8",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.9",
+      "label": "Luke 15:9",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.10",
+      "label": "Luke 15:10",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.11",
+      "label": "Luke 15:11",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.12",
+      "label": "Luke 15:12",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.13",
+      "label": "Luke 15:13",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.14",
+      "label": "Luke 15:14",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.15",
+      "label": "Luke 15:15",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.16",
+      "label": "Luke 15:16",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.17",
+      "label": "Luke 15:17",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.18",
+      "label": "Luke 15:18",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.19",
+      "label": "Luke 15:19",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.20",
+      "label": "Luke 15:20",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.21",
+      "label": "Luke 15:21",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.22",
+      "label": "Luke 15:22",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.23",
+      "label": "Luke 15:23",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.24",
+      "label": "Luke 15:24",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.25",
+      "label": "Luke 15:25",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.26",
+      "label": "Luke 15:26",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.27",
+      "label": "Luke 15:27",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.28",
+      "label": "Luke 15:28",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.29",
+      "label": "Luke 15:29",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.30",
+      "label": "Luke 15:30",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.31",
+      "label": "Luke 15:31",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.32",
+      "label": "Luke 15:32",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "16.1",
+      "label": "Luke 16:1",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.2",
+      "label": "Luke 16:2",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.3",
+      "label": "Luke 16:3",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.4",
+      "label": "Luke 16:4",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.5",
+      "label": "Luke 16:5",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.6",
+      "label": "Luke 16:6",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.7",
+      "label": "Luke 16:7",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.8",
+      "label": "Luke 16:8",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.9",
+      "label": "Luke 16:9",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.10",
+      "label": "Luke 16:10",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.11",
+      "label": "Luke 16:11",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.12",
+      "label": "Luke 16:12",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.13",
+      "label": "Luke 16:13",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.14",
+      "label": "Luke 16:14",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.15",
+      "label": "Luke 16:15",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.16",
+      "label": "Luke 16:16",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.17",
+      "label": "Luke 16:17",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.18",
+      "label": "Luke 16:18",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.19",
+      "label": "Luke 16:19",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.20",
+      "label": "Luke 16:20",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.21",
+      "label": "Luke 16:21",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.22",
+      "label": "Luke 16:22",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.23",
+      "label": "Luke 16:23",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.24",
+      "label": "Luke 16:24",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.25",
+      "label": "Luke 16:25",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.26",
+      "label": "Luke 16:26",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.27",
+      "label": "Luke 16:27",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.28",
+      "label": "Luke 16:28",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.29",
+      "label": "Luke 16:29",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.30",
+      "label": "Luke 16:30",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.31",
+      "label": "Luke 16:31",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "17.1",
+      "label": "Luke 17:1",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.2",
+      "label": "Luke 17:2",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.3",
+      "label": "Luke 17:3",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.4",
+      "label": "Luke 17:4",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.5",
+      "label": "Luke 17:5",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.6",
+      "label": "Luke 17:6",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.7",
+      "label": "Luke 17:7",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.8",
+      "label": "Luke 17:8",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.9",
+      "label": "Luke 17:9",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.10",
+      "label": "Luke 17:10",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.11",
+      "label": "Luke 17:11",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.12",
+      "label": "Luke 17:12",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.13",
+      "label": "Luke 17:13",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.14",
+      "label": "Luke 17:14",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.15",
+      "label": "Luke 17:15",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.16",
+      "label": "Luke 17:16",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.17",
+      "label": "Luke 17:17",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.18",
+      "label": "Luke 17:18",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.19",
+      "label": "Luke 17:19",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.20",
+      "label": "Luke 17:20",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.21",
+      "label": "Luke 17:21",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.22",
+      "label": "Luke 17:22",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.23",
+      "label": "Luke 17:23",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.24",
+      "label": "Luke 17:24",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.25",
+      "label": "Luke 17:25",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.26",
+      "label": "Luke 17:26",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.27",
+      "label": "Luke 17:27",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.28",
+      "label": "Luke 17:28",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.29",
+      "label": "Luke 17:29",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.30",
+      "label": "Luke 17:30",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.31",
+      "label": "Luke 17:31",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.32",
+      "label": "Luke 17:32",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.33",
+      "label": "Luke 17:33",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.34",
+      "label": "Luke 17:34",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.35",
+      "label": "Luke 17:35",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.36",
+      "label": "Luke 17:36",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.37",
+      "label": "Luke 17:37",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "18.1",
+      "label": "Luke 18:1",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.2",
+      "label": "Luke 18:2",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.3",
+      "label": "Luke 18:3",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.4",
+      "label": "Luke 18:4",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.5",
+      "label": "Luke 18:5",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.6",
+      "label": "Luke 18:6",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.7",
+      "label": "Luke 18:7",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.8",
+      "label": "Luke 18:8",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.9",
+      "label": "Luke 18:9",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.10",
+      "label": "Luke 18:10",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.11",
+      "label": "Luke 18:11",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.12",
+      "label": "Luke 18:12",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.13",
+      "label": "Luke 18:13",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.14",
+      "label": "Luke 18:14",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.15",
+      "label": "Luke 18:15",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.16",
+      "label": "Luke 18:16",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.17",
+      "label": "Luke 18:17",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.18",
+      "label": "Luke 18:18",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.19",
+      "label": "Luke 18:19",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.20",
+      "label": "Luke 18:20",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.21",
+      "label": "Luke 18:21",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.22",
+      "label": "Luke 18:22",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.23",
+      "label": "Luke 18:23",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.24",
+      "label": "Luke 18:24",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.25",
+      "label": "Luke 18:25",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.26",
+      "label": "Luke 18:26",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.27",
+      "label": "Luke 18:27",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.28",
+      "label": "Luke 18:28",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.29",
+      "label": "Luke 18:29",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.30",
+      "label": "Luke 18:30",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.31",
+      "label": "Luke 18:31",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.32",
+      "label": "Luke 18:32",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.33",
+      "label": "Luke 18:33",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.34",
+      "label": "Luke 18:34",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.35",
+      "label": "Luke 18:35",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.36",
+      "label": "Luke 18:36",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.37",
+      "label": "Luke 18:37",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.38",
+      "label": "Luke 18:38",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.39",
+      "label": "Luke 18:39",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.40",
+      "label": "Luke 18:40",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.41",
+      "label": "Luke 18:41",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.42",
+      "label": "Luke 18:42",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.43",
+      "label": "Luke 18:43",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "19.1",
+      "label": "Luke 19:1",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.2",
+      "label": "Luke 19:2",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.3",
+      "label": "Luke 19:3",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.4",
+      "label": "Luke 19:4",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.5",
+      "label": "Luke 19:5",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.6",
+      "label": "Luke 19:6",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.7",
+      "label": "Luke 19:7",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.8",
+      "label": "Luke 19:8",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.9",
+      "label": "Luke 19:9",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.10",
+      "label": "Luke 19:10",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.11",
+      "label": "Luke 19:11",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.12",
+      "label": "Luke 19:12",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.13",
+      "label": "Luke 19:13",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.14",
+      "label": "Luke 19:14",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.15",
+      "label": "Luke 19:15",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.16",
+      "label": "Luke 19:16",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.17",
+      "label": "Luke 19:17",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.18",
+      "label": "Luke 19:18",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.19",
+      "label": "Luke 19:19",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.20",
+      "label": "Luke 19:20",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.21",
+      "label": "Luke 19:21",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.22",
+      "label": "Luke 19:22",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.23",
+      "label": "Luke 19:23",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.24",
+      "label": "Luke 19:24",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.25",
+      "label": "Luke 19:25",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.26",
+      "label": "Luke 19:26",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.27",
+      "label": "Luke 19:27",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.28",
+      "label": "Luke 19:28",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.29",
+      "label": "Luke 19:29",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.30",
+      "label": "Luke 19:30",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.31",
+      "label": "Luke 19:31",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.32",
+      "label": "Luke 19:32",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.33",
+      "label": "Luke 19:33",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.34",
+      "label": "Luke 19:34",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.35",
+      "label": "Luke 19:35",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.36",
+      "label": "Luke 19:36",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.37",
+      "label": "Luke 19:37",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.38",
+      "label": "Luke 19:38",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.39",
+      "label": "Luke 19:39",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.40",
+      "label": "Luke 19:40",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.41",
+      "label": "Luke 19:41",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.42",
+      "label": "Luke 19:42",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.43",
+      "label": "Luke 19:43",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.44",
+      "label": "Luke 19:44",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.45",
+      "label": "Luke 19:45",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.46",
+      "label": "Luke 19:46",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.47",
+      "label": "Luke 19:47",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.48",
+      "label": "Luke 19:48",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "20.1",
+      "label": "Luke 20:1",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.2",
+      "label": "Luke 20:2",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.3",
+      "label": "Luke 20:3",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.4",
+      "label": "Luke 20:4",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.5",
+      "label": "Luke 20:5",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.6",
+      "label": "Luke 20:6",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.7",
+      "label": "Luke 20:7",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.8",
+      "label": "Luke 20:8",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.9",
+      "label": "Luke 20:9",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.10",
+      "label": "Luke 20:10",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.11",
+      "label": "Luke 20:11",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.12",
+      "label": "Luke 20:12",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.13",
+      "label": "Luke 20:13",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.14",
+      "label": "Luke 20:14",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.15",
+      "label": "Luke 20:15",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.16",
+      "label": "Luke 20:16",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.17",
+      "label": "Luke 20:17",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.18",
+      "label": "Luke 20:18",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.19",
+      "label": "Luke 20:19",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.20",
+      "label": "Luke 20:20",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.21",
+      "label": "Luke 20:21",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.22",
+      "label": "Luke 20:22",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.23",
+      "label": "Luke 20:23",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.24",
+      "label": "Luke 20:24",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.25",
+      "label": "Luke 20:25",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.26",
+      "label": "Luke 20:26",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.27",
+      "label": "Luke 20:27",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.28",
+      "label": "Luke 20:28",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.29",
+      "label": "Luke 20:29",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.30",
+      "label": "Luke 20:30",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.31",
+      "label": "Luke 20:31",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.32",
+      "label": "Luke 20:32",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.33",
+      "label": "Luke 20:33",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.34",
+      "label": "Luke 20:34",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.35",
+      "label": "Luke 20:35",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.36",
+      "label": "Luke 20:36",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.37",
+      "label": "Luke 20:37",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.38",
+      "label": "Luke 20:38",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.39",
+      "label": "Luke 20:39",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.40",
+      "label": "Luke 20:40",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.41",
+      "label": "Luke 20:41",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.42",
+      "label": "Luke 20:42",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.43",
+      "label": "Luke 20:43",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.44",
+      "label": "Luke 20:44",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.45",
+      "label": "Luke 20:45",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.46",
+      "label": "Luke 20:46",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.47",
+      "label": "Luke 20:47",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "21.1",
+      "label": "Luke 21:1",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.2",
+      "label": "Luke 21:2",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.3",
+      "label": "Luke 21:3",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.4",
+      "label": "Luke 21:4",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.5",
+      "label": "Luke 21:5",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.6",
+      "label": "Luke 21:6",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.7",
+      "label": "Luke 21:7",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.8",
+      "label": "Luke 21:8",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.9",
+      "label": "Luke 21:9",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.10",
+      "label": "Luke 21:10",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.11",
+      "label": "Luke 21:11",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.12",
+      "label": "Luke 21:12",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.13",
+      "label": "Luke 21:13",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.14",
+      "label": "Luke 21:14",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.15",
+      "label": "Luke 21:15",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.16",
+      "label": "Luke 21:16",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.17",
+      "label": "Luke 21:17",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.18",
+      "label": "Luke 21:18",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.19",
+      "label": "Luke 21:19",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.20",
+      "label": "Luke 21:20",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.21",
+      "label": "Luke 21:21",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.22",
+      "label": "Luke 21:22",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.23",
+      "label": "Luke 21:23",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.24",
+      "label": "Luke 21:24",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.25",
+      "label": "Luke 21:25",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.26",
+      "label": "Luke 21:26",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.27",
+      "label": "Luke 21:27",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.28",
+      "label": "Luke 21:28",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.29",
+      "label": "Luke 21:29",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.30",
+      "label": "Luke 21:30",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.31",
+      "label": "Luke 21:31",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.32",
+      "label": "Luke 21:32",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.33",
+      "label": "Luke 21:33",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.34",
+      "label": "Luke 21:34",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.35",
+      "label": "Luke 21:35",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.36",
+      "label": "Luke 21:36",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.37",
+      "label": "Luke 21:37",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.38",
+      "label": "Luke 21:38",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "22.1",
+      "label": "Luke 22:1",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.2",
+      "label": "Luke 22:2",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.3",
+      "label": "Luke 22:3",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.4",
+      "label": "Luke 22:4",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.5",
+      "label": "Luke 22:5",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.6",
+      "label": "Luke 22:6",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.7",
+      "label": "Luke 22:7",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.8",
+      "label": "Luke 22:8",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.9",
+      "label": "Luke 22:9",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.10",
+      "label": "Luke 22:10",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.11",
+      "label": "Luke 22:11",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.12",
+      "label": "Luke 22:12",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.13",
+      "label": "Luke 22:13",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.14",
+      "label": "Luke 22:14",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.15",
+      "label": "Luke 22:15",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.16",
+      "label": "Luke 22:16",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.17",
+      "label": "Luke 22:17",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.18",
+      "label": "Luke 22:18",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.19",
+      "label": "Luke 22:19",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.20",
+      "label": "Luke 22:20",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.21",
+      "label": "Luke 22:21",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.22",
+      "label": "Luke 22:22",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.23",
+      "label": "Luke 22:23",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.24",
+      "label": "Luke 22:24",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.25",
+      "label": "Luke 22:25",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.26",
+      "label": "Luke 22:26",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.27",
+      "label": "Luke 22:27",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.28",
+      "label": "Luke 22:28",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.29",
+      "label": "Luke 22:29",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.30",
+      "label": "Luke 22:30",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.31",
+      "label": "Luke 22:31",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.32",
+      "label": "Luke 22:32",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.33",
+      "label": "Luke 22:33",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.34",
+      "label": "Luke 22:34",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.35",
+      "label": "Luke 22:35",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.36",
+      "label": "Luke 22:36",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.37",
+      "label": "Luke 22:37",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.38",
+      "label": "Luke 22:38",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.39",
+      "label": "Luke 22:39",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.40",
+      "label": "Luke 22:40",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.41",
+      "label": "Luke 22:41",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.42",
+      "label": "Luke 22:42",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.43",
+      "label": "Luke 22:43",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.44",
+      "label": "Luke 22:44",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.45",
+      "label": "Luke 22:45",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.46",
+      "label": "Luke 22:46",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.47",
+      "label": "Luke 22:47",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.48",
+      "label": "Luke 22:48",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.49",
+      "label": "Luke 22:49",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.50",
+      "label": "Luke 22:50",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.51",
+      "label": "Luke 22:51",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.52",
+      "label": "Luke 22:52",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.53",
+      "label": "Luke 22:53",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.54",
+      "label": "Luke 22:54",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.55",
+      "label": "Luke 22:55",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.56",
+      "label": "Luke 22:56",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.57",
+      "label": "Luke 22:57",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.58",
+      "label": "Luke 22:58",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.59",
+      "label": "Luke 22:59",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.60",
+      "label": "Luke 22:60",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.61",
+      "label": "Luke 22:61",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.62",
+      "label": "Luke 22:62",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.63",
+      "label": "Luke 22:63",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.64",
+      "label": "Luke 22:64",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.65",
+      "label": "Luke 22:65",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.66",
+      "label": "Luke 22:66",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.67",
+      "label": "Luke 22:67",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.68",
+      "label": "Luke 22:68",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.69",
+      "label": "Luke 22:69",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.70",
+      "label": "Luke 22:70",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.71",
+      "label": "Luke 22:71",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "23.1",
+      "label": "Luke 23:1",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.2",
+      "label": "Luke 23:2",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.3",
+      "label": "Luke 23:3",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.4",
+      "label": "Luke 23:4",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.5",
+      "label": "Luke 23:5",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.6",
+      "label": "Luke 23:6",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.7",
+      "label": "Luke 23:7",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.8",
+      "label": "Luke 23:8",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.9",
+      "label": "Luke 23:9",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.10",
+      "label": "Luke 23:10",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.11",
+      "label": "Luke 23:11",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.12",
+      "label": "Luke 23:12",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.13",
+      "label": "Luke 23:13",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.14",
+      "label": "Luke 23:14",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.15",
+      "label": "Luke 23:15",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.16",
+      "label": "Luke 23:16",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.17",
+      "label": "Luke 23:17",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.18",
+      "label": "Luke 23:18",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.19",
+      "label": "Luke 23:19",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.20",
+      "label": "Luke 23:20",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.21",
+      "label": "Luke 23:21",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.22",
+      "label": "Luke 23:22",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.23",
+      "label": "Luke 23:23",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.24",
+      "label": "Luke 23:24",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.25",
+      "label": "Luke 23:25",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.26",
+      "label": "Luke 23:26",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.27",
+      "label": "Luke 23:27",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.28",
+      "label": "Luke 23:28",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.29",
+      "label": "Luke 23:29",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.30",
+      "label": "Luke 23:30",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.31",
+      "label": "Luke 23:31",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.32",
+      "label": "Luke 23:32",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.33",
+      "label": "Luke 23:33",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.34",
+      "label": "Luke 23:34",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.35",
+      "label": "Luke 23:35",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.36",
+      "label": "Luke 23:36",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.37",
+      "label": "Luke 23:37",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.38",
+      "label": "Luke 23:38",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.39",
+      "label": "Luke 23:39",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.40",
+      "label": "Luke 23:40",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.41",
+      "label": "Luke 23:41",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.42",
+      "label": "Luke 23:42",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.43",
+      "label": "Luke 23:43",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.44",
+      "label": "Luke 23:44",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.45",
+      "label": "Luke 23:45",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.46",
+      "label": "Luke 23:46",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.47",
+      "label": "Luke 23:47",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.48",
+      "label": "Luke 23:48",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.49",
+      "label": "Luke 23:49",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.50",
+      "label": "Luke 23:50",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.51",
+      "label": "Luke 23:51",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.52",
+      "label": "Luke 23:52",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.53",
+      "label": "Luke 23:53",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.54",
+      "label": "Luke 23:54",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.55",
+      "label": "Luke 23:55",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.56",
+      "label": "Luke 23:56",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "24.1",
+      "label": "Luke 24:1",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.2",
+      "label": "Luke 24:2",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.3",
+      "label": "Luke 24:3",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.4",
+      "label": "Luke 24:4",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.5",
+      "label": "Luke 24:5",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.6",
+      "label": "Luke 24:6",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.7",
+      "label": "Luke 24:7",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.8",
+      "label": "Luke 24:8",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.9",
+      "label": "Luke 24:9",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.10",
+      "label": "Luke 24:10",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.11",
+      "label": "Luke 24:11",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.12",
+      "label": "Luke 24:12",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.13",
+      "label": "Luke 24:13",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.14",
+      "label": "Luke 24:14",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.15",
+      "label": "Luke 24:15",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.16",
+      "label": "Luke 24:16",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.17",
+      "label": "Luke 24:17",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.18",
+      "label": "Luke 24:18",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.19",
+      "label": "Luke 24:19",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.20",
+      "label": "Luke 24:20",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.21",
+      "label": "Luke 24:21",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.22",
+      "label": "Luke 24:22",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.23",
+      "label": "Luke 24:23",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.24",
+      "label": "Luke 24:24",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.25",
+      "label": "Luke 24:25",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.26",
+      "label": "Luke 24:26",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.27",
+      "label": "Luke 24:27",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.28",
+      "label": "Luke 24:28",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.29",
+      "label": "Luke 24:29",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.30",
+      "label": "Luke 24:30",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.31",
+      "label": "Luke 24:31",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.32",
+      "label": "Luke 24:32",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.33",
+      "label": "Luke 24:33",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.34",
+      "label": "Luke 24:34",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.35",
+      "label": "Luke 24:35",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.36",
+      "label": "Luke 24:36",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.37",
+      "label": "Luke 24:37",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.38",
+      "label": "Luke 24:38",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.39",
+      "label": "Luke 24:39",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.40",
+      "label": "Luke 24:40",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.41",
+      "label": "Luke 24:41",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.42",
+      "label": "Luke 24:42",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.43",
+      "label": "Luke 24:43",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.44",
+      "label": "Luke 24:44",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.45",
+      "label": "Luke 24:45",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.46",
+      "label": "Luke 24:46",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.47",
+      "label": "Luke 24:47",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.48",
+      "label": "Luke 24:48",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.49",
+      "label": "Luke 24:49",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.50",
+      "label": "Luke 24:50",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.51",
+      "label": "Luke 24:51",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.52",
+      "label": "Luke 24:52",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.53",
+      "label": "Luke 24:53",
+      "chapterRef": "24"
+    }
+  ],
+  "editions": [
+    {
+      "slug": "bible-luke-grc",
+      "language": "grc",
+      "editionType": "original",
+      "title": "Textus Receptus (Greek)",
+      "translator": "",
+      "publisher": "Bolls Bible API",
+      "publicationYear": null,
+      "source": "bolls",
+      "license": "public-domain",
+      "rightsStatus": "Public domain",
+      "attributionText": "Textus Receptus Greek text, served by the Bolls Bible API.",
+      "structureScheme": "book, chapter, verse",
+      "isSample": false,
+      "notes": "The Greek text is shown as the API serves it; this library does not collate it against critical editions."
+    },
+    {
+      "slug": "bible-luke-en-kjv",
+      "language": "en",
+      "editionType": "translation",
+      "title": "King James Version (1611)",
+      "translator": "The King James Bible translators",
+      "publisher": "Bolls Bible API",
+      "publicationYear": 1611,
+      "source": "bolls",
+      "license": "public-domain",
+      "rightsStatus": "Public domain",
+      "attributionText": "The Holy Bible, King James Version (1611). Public domain. Served by the Bolls Bible API.",
+      "structureScheme": "book, chapter, verse",
+      "isSample": false,
+      "notes": "Strong's numbers included in the API's markup are not displayed; the verse wording is unchanged."
+    }
+  ]
+}

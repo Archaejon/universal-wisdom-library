@@ -1,0 +1,340 @@
+{
+  "slug": "tosefta-nazir",
+  "title": "Tosefta Nazir",
+  "originalTitle": "תוספתא נזיר",
+  "transliteration": "",
+  "altTitles": [],
+  "tradition": "judaism",
+  "school": "rabbinic-judaism",
+  "genre": "Tosefta",
+  "textType": "Tosefta",
+  "category": "Tosefta",
+  "subcategory": "Seder Nashim",
+  "originalLanguage": "he",
+  "dateStart": 200,
+  "dateEnd": 300,
+  "dateDisplay": "Compiled c. 250 CE",
+  "authorshipStatus": "composite",
+  "author": "",
+  "attributionNote": "The Sefaria catalogue records this as a composite or traditionally transmitted work. Authorship is not asserted here beyond the source's own metadata.",
+  "description": "The nazarite, or one who vows abstinence from wine, haircuts, and ritual impurity generated from contact with corpses. Complete Tosefta text imported from Sefaria; the exact edition and licence are shown with each version.",
+  "historicalContext": "The Tosefta is a collection of rabbinic traditions parallel to and supplementing the Mishnah. Its relationship to the Mishnah is debated; it is presented here as a distinct legal corpus.",
+  "availabilityNote": "Imported from Sefaria. Version, source and licence are recorded per edition.",
+  "featured": false,
+  "featuredNote": "",
+  "refScheme": "chapter.paragraph",
+  "isSample": false,
+  "textStorage": "streamed",
+  "chapters": [
+    {
+      "ref": "1",
+      "label": "Chapter 1"
+    },
+    {
+      "ref": "2",
+      "label": "Chapter 2"
+    },
+    {
+      "ref": "3",
+      "label": "Chapter 3"
+    },
+    {
+      "ref": "4",
+      "label": "Chapter 4"
+    },
+    {
+      "ref": "5",
+      "label": "Chapter 5"
+    },
+    {
+      "ref": "6",
+      "label": "Chapter 6"
+    }
+  ],
+  "passages": [
+    {
+      "reference": "1.1",
+      "label": "1:1",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.2",
+      "label": "1:2",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.3",
+      "label": "1:3",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.4",
+      "label": "1:4",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.5",
+      "label": "1:5",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.6",
+      "label": "1:6",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.7",
+      "label": "1:7",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.8",
+      "label": "1:8",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "2.1",
+      "label": "2:1",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.2",
+      "label": "2:2",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.3",
+      "label": "2:3",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.4",
+      "label": "2:4",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.5",
+      "label": "2:5",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.6",
+      "label": "2:6",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.7",
+      "label": "2:7",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.8",
+      "label": "2:8",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.9",
+      "label": "2:9",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.10",
+      "label": "2:10",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.11",
+      "label": "2:11",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "3.1",
+      "label": "3:1",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.2",
+      "label": "3:2",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.3",
+      "label": "3:3",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.4",
+      "label": "3:4",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.5",
+      "label": "3:5",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.6",
+      "label": "3:6",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.7",
+      "label": "3:7",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.8",
+      "label": "3:8",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.9",
+      "label": "3:9",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.10",
+      "label": "3:10",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.11",
+      "label": "3:11",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "4.1",
+      "label": "4:1",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.2",
+      "label": "4:2",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.3",
+      "label": "4:3",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.4",
+      "label": "4:4",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.5",
+      "label": "4:5",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.6",
+      "label": "4:6",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.7",
+      "label": "4:7",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.8",
+      "label": "4:8",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.9",
+      "label": "4:9",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.10",
+      "label": "4:10",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "5.1",
+      "label": "5:1",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.2",
+      "label": "5:2",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.3",
+      "label": "5:3",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.4",
+      "label": "5:4",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.5",
+      "label": "5:5",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "6.1",
+      "label": "6:1",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.2",
+      "label": "6:2",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.3",
+      "label": "6:3",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.4",
+      "label": "6:4",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.5",
+      "label": "6:5",
+      "chapterRef": "6"
+    }
+  ],
+  "editions": [
+    {
+      "slug": "tosefta-nazir-hebrew-sefaria",
+      "language": "he",
+      "editionType": "original",
+      "title": "Tosefta Nazir - Machon Mamre",
+      "translator": "",
+      "publisher": "http://www.mechon-mamre.org/b/f/f34.htm",
+      "publicationYear": null,
+      "source": "sefaria",
+      "license": "public-domain",
+      "rightsStatus": "Public Domain",
+      "attributionText": "Tosefta Nazir - Machon Mamre; licence: Public Domain; source: http://www.mechon-mamre.org/b/f/f34.htm. Retrieved via Sefaria on 2026-10-20.",
+      "structureScheme": "chapter and paragraph",
+      "isSample": false,
+      "notes": "Complete work imported from Sefaria. Text is displayed as supplied by the named edition; HTML markup has been removed."
+    },
+    {
+      "slug": "tosefta-nazir-english-sefaria-1",
+      "language": "en",
+      "editionType": "translation",
+      "title": "Sefaria Community Translation",
+      "translator": "",
+      "publisher": "https://www.sefaria.org",
+      "publicationYear": null,
+      "source": "sefaria",
+      "license": "cc0-1.0",
+      "rightsStatus": "CC0",
+      "attributionText": "Sefaria Community Translation; licence: CC0; source: https://www.sefaria.org. Retrieved via Sefaria on 2026-10-20.",
+      "structureScheme": "chapter and paragraph",
+      "isSample": false,
+      "notes": "Complete work imported from Sefaria. Text is displayed as supplied by the named edition; HTML markup has been removed."
+    }
+  ]
+}

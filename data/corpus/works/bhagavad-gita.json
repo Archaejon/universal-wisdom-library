@@ -1,0 +1,1600 @@
+{
+  "slug": "bhagavad-gita",
+  "title": "Bhagavad Gita",
+  "originalTitle": "भगवद्गीता",
+  "transliteration": "Bhagavadgītā",
+  "altTitles": [
+    "The Song of the Lord",
+    "Gita"
+  ],
+  "tradition": "hinduism",
+  "school": "vaishnavism",
+  "genre": "Scripture",
+  "textType": "Philosophical dialogue in verse",
+  "category": "Scripture",
+  "subcategory": "Philosophical dialogue in verse",
+  "originalLanguage": "sa",
+  "dateStart": -200,
+  "dateEnd": 200,
+  "dateDisplay": "c. 2nd century BCE–2nd century CE",
+  "authorshipStatus": "composite",
+  "author": "vyasa",
+  "attributionNote": "Traditionally attributed to Vyasa and embedded in the Mahabharata. Modern scholarship treats the Gita as a composite philosophical poem shaped within the epic tradition.",
+  "description": "Set on the eve of battle, the Gita records Krishna's instruction to Arjuna on duty, action, knowledge and devotion. The complete eighteen chapters are read here in Edwin Arnold's 1885 verse translation, from the opening distress of Arjuna to the final account of renunciation.",
+  "historicalContext": "The Gita synthesises strands of Brahmanical, Samkhya, Yoga and devotional thought. It has been interpreted by competing schools and has become one of the most widely translated Hindu texts. Arnold's The Song Celestial was one of the first English verse translations to reach a general readership.",
+  "availabilityNote": "Streamed from Project Gutenberg at read time: the whole plain-text edition is fetched and split at the chapter headings it prints. The 1885 translation by Edwin Arnold is public domain in the United States.",
+  "featured": false,
+  "featuredNote": "",
+  "refScheme": "chapter.paragraph",
+  "isSample": false,
+  "textStorage": "streamed",
+  "chapters": [
+    {
+      "ref": "1",
+      "label": "Chapter 1 — The Distress of Arjuna"
+    },
+    {
+      "ref": "2",
+      "label": "Chapter 2 — The Book of Doctrines"
+    },
+    {
+      "ref": "3",
+      "label": "Chapter 3 — Virtue in Work"
+    },
+    {
+      "ref": "4",
+      "label": "Chapter 4 — The Religion of Knowledge"
+    },
+    {
+      "ref": "5",
+      "label": "Chapter 5 — The Book of Renunciation"
+    },
+    {
+      "ref": "6",
+      "label": "Chapter 6 — The Book of Religion by Self-Restraint"
+    },
+    {
+      "ref": "7",
+      "label": "Chapter 7 — The Book of Religion by Discernment"
+    },
+    {
+      "ref": "8",
+      "label": "Chapter 8 — The Book of Religion by Devotion to the One Supreme God"
+    },
+    {
+      "ref": "9",
+      "label": "Chapter 9 — The Book of Religion by the Kingly Knowledge and the Kingly Mystery"
+    },
+    {
+      "ref": "10",
+      "label": "Chapter 10 — The Book of Religion by the Heavenly Perfections"
+    },
+    {
+      "ref": "11",
+      "label": "Chapter 11 — The Book of the Manifesting of the One and Manifold"
+    },
+    {
+      "ref": "12",
+      "label": "Chapter 12 — The Book of the Religion of Faith"
+    },
+    {
+      "ref": "13",
+      "label": "Chapter 13 — The Book of Religion by Separation of Matter and Spirit"
+    },
+    {
+      "ref": "14",
+      "label": "Chapter 14 — The Book of Religion by Separation from the Qualities"
+    },
+    {
+      "ref": "15",
+      "label": "Chapter 15 — The Book of Religion by Attaining the Supreme"
+    },
+    {
+      "ref": "16",
+      "label": "Chapter 16 — The Book of the Separateness of the Divine and Undivine"
+    },
+    {
+      "ref": "17",
+      "label": "Chapter 17 — The Book of Religion by the Threefold Faith"
+    },
+    {
+      "ref": "18",
+      "label": "Chapter 18 — The Book of Religion by Deliverance and Renunciation"
+    }
+  ],
+  "passages": [
+    {
+      "reference": "1.1",
+      "label": "Chapter 1 — The Distress of Arjuna §1",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.2",
+      "label": "Chapter 1 — The Distress of Arjuna §2",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.3",
+      "label": "Chapter 1 — The Distress of Arjuna §3",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.4",
+      "label": "Chapter 1 — The Distress of Arjuna §4",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.5",
+      "label": "Chapter 1 — The Distress of Arjuna §5",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.6",
+      "label": "Chapter 1 — The Distress of Arjuna §6",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.7",
+      "label": "Chapter 1 — The Distress of Arjuna §7",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.8",
+      "label": "Chapter 1 — The Distress of Arjuna §8",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.9",
+      "label": "Chapter 1 — The Distress of Arjuna §9",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "2.1",
+      "label": "Chapter 2 — The Book of Doctrines §1",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.2",
+      "label": "Chapter 2 — The Book of Doctrines §2",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.3",
+      "label": "Chapter 2 — The Book of Doctrines §3",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.4",
+      "label": "Chapter 2 — The Book of Doctrines §4",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.5",
+      "label": "Chapter 2 — The Book of Doctrines §5",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.6",
+      "label": "Chapter 2 — The Book of Doctrines §6",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.7",
+      "label": "Chapter 2 — The Book of Doctrines §7",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.8",
+      "label": "Chapter 2 — The Book of Doctrines §8",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.9",
+      "label": "Chapter 2 — The Book of Doctrines §9",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.10",
+      "label": "Chapter 2 — The Book of Doctrines §10",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.11",
+      "label": "Chapter 2 — The Book of Doctrines §11",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.12",
+      "label": "Chapter 2 — The Book of Doctrines §12",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.13",
+      "label": "Chapter 2 — The Book of Doctrines §13",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.14",
+      "label": "Chapter 2 — The Book of Doctrines §14",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.15",
+      "label": "Chapter 2 — The Book of Doctrines §15",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.16",
+      "label": "Chapter 2 — The Book of Doctrines §16",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.17",
+      "label": "Chapter 2 — The Book of Doctrines §17",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.18",
+      "label": "Chapter 2 — The Book of Doctrines §18",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.19",
+      "label": "Chapter 2 — The Book of Doctrines §19",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.20",
+      "label": "Chapter 2 — The Book of Doctrines §20",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "3.1",
+      "label": "Chapter 3 — Virtue in Work §1",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.2",
+      "label": "Chapter 3 — Virtue in Work §2",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.3",
+      "label": "Chapter 3 — Virtue in Work §3",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.4",
+      "label": "Chapter 3 — Virtue in Work §4",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.5",
+      "label": "Chapter 3 — Virtue in Work §5",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.6",
+      "label": "Chapter 3 — Virtue in Work §6",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.7",
+      "label": "Chapter 3 — Virtue in Work §7",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "4.1",
+      "label": "Chapter 4 — The Religion of Knowledge §1",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.2",
+      "label": "Chapter 4 — The Religion of Knowledge §2",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.3",
+      "label": "Chapter 4 — The Religion of Knowledge §3",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.4",
+      "label": "Chapter 4 — The Religion of Knowledge §4",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.5",
+      "label": "Chapter 4 — The Religion of Knowledge §5",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.6",
+      "label": "Chapter 4 — The Religion of Knowledge §6",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "5.1",
+      "label": "Chapter 5 — The Book of Renunciation §1",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.2",
+      "label": "Chapter 5 — The Book of Renunciation §2",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.3",
+      "label": "Chapter 5 — The Book of Renunciation §3",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.4",
+      "label": "Chapter 5 — The Book of Renunciation §4",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.5",
+      "label": "Chapter 5 — The Book of Renunciation §5",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.6",
+      "label": "Chapter 5 — The Book of Renunciation §6",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "6.1",
+      "label": "Chapter 6 — The Book of Religion by Self-Restraint §1",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.2",
+      "label": "Chapter 6 — The Book of Religion by Self-Restraint §2",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.3",
+      "label": "Chapter 6 — The Book of Religion by Self-Restraint §3",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.4",
+      "label": "Chapter 6 — The Book of Religion by Self-Restraint §4",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.5",
+      "label": "Chapter 6 — The Book of Religion by Self-Restraint §5",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.6",
+      "label": "Chapter 6 — The Book of Religion by Self-Restraint §6",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.7",
+      "label": "Chapter 6 — The Book of Religion by Self-Restraint §7",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.8",
+      "label": "Chapter 6 — The Book of Religion by Self-Restraint §8",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.9",
+      "label": "Chapter 6 — The Book of Religion by Self-Restraint §9",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.10",
+      "label": "Chapter 6 — The Book of Religion by Self-Restraint §10",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.11",
+      "label": "Chapter 6 — The Book of Religion by Self-Restraint §11",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.12",
+      "label": "Chapter 6 — The Book of Religion by Self-Restraint §12",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.13",
+      "label": "Chapter 6 — The Book of Religion by Self-Restraint §13",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "7.1",
+      "label": "Chapter 7 — The Book of Religion by Discernment §1",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.2",
+      "label": "Chapter 7 — The Book of Religion by Discernment §2",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.3",
+      "label": "Chapter 7 — The Book of Religion by Discernment §3",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.4",
+      "label": "Chapter 7 — The Book of Religion by Discernment §4",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.5",
+      "label": "Chapter 7 — The Book of Religion by Discernment §5",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.6",
+      "label": "Chapter 7 — The Book of Religion by Discernment §6",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.7",
+      "label": "Chapter 7 — The Book of Religion by Discernment §7",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.8",
+      "label": "Chapter 7 — The Book of Religion by Discernment §8",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.9",
+      "label": "Chapter 7 — The Book of Religion by Discernment §9",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.10",
+      "label": "Chapter 7 — The Book of Religion by Discernment §10",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.11",
+      "label": "Chapter 7 — The Book of Religion by Discernment §11",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "8.1",
+      "label": "Chapter 8 — The Book of Religion by Devotion to the One Supreme God §1",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.2",
+      "label": "Chapter 8 — The Book of Religion by Devotion to the One Supreme God §2",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.3",
+      "label": "Chapter 8 — The Book of Religion by Devotion to the One Supreme God §3",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.4",
+      "label": "Chapter 8 — The Book of Religion by Devotion to the One Supreme God §4",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.5",
+      "label": "Chapter 8 — The Book of Religion by Devotion to the One Supreme God §5",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.6",
+      "label": "Chapter 8 — The Book of Religion by Devotion to the One Supreme God §6",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.7",
+      "label": "Chapter 8 — The Book of Religion by Devotion to the One Supreme God §7",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.8",
+      "label": "Chapter 8 — The Book of Religion by Devotion to the One Supreme God §8",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.9",
+      "label": "Chapter 8 — The Book of Religion by Devotion to the One Supreme God §9",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.10",
+      "label": "Chapter 8 — The Book of Religion by Devotion to the One Supreme God §10",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.11",
+      "label": "Chapter 8 — The Book of Religion by Devotion to the One Supreme God §11",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.12",
+      "label": "Chapter 8 — The Book of Religion by Devotion to the One Supreme God §12",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.13",
+      "label": "Chapter 8 — The Book of Religion by Devotion to the One Supreme God §13",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "9.1",
+      "label": "Chapter 9 — The Book of Religion by the Kingly Knowledge and the Kingly Mystery §1",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.2",
+      "label": "Chapter 9 — The Book of Religion by the Kingly Knowledge and the Kingly Mystery §2",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.3",
+      "label": "Chapter 9 — The Book of Religion by the Kingly Knowledge and the Kingly Mystery §3",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.4",
+      "label": "Chapter 9 — The Book of Religion by the Kingly Knowledge and the Kingly Mystery §4",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.5",
+      "label": "Chapter 9 — The Book of Religion by the Kingly Knowledge and the Kingly Mystery §5",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.6",
+      "label": "Chapter 9 — The Book of Religion by the Kingly Knowledge and the Kingly Mystery §6",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.7",
+      "label": "Chapter 9 — The Book of Religion by the Kingly Knowledge and the Kingly Mystery §7",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.8",
+      "label": "Chapter 9 — The Book of Religion by the Kingly Knowledge and the Kingly Mystery §8",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.9",
+      "label": "Chapter 9 — The Book of Religion by the Kingly Knowledge and the Kingly Mystery §9",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.10",
+      "label": "Chapter 9 — The Book of Religion by the Kingly Knowledge and the Kingly Mystery §10",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.11",
+      "label": "Chapter 9 — The Book of Religion by the Kingly Knowledge and the Kingly Mystery §11",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.12",
+      "label": "Chapter 9 — The Book of Religion by the Kingly Knowledge and the Kingly Mystery §12",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.13",
+      "label": "Chapter 9 — The Book of Religion by the Kingly Knowledge and the Kingly Mystery §13",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.14",
+      "label": "Chapter 9 — The Book of Religion by the Kingly Knowledge and the Kingly Mystery §14",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.15",
+      "label": "Chapter 9 — The Book of Religion by the Kingly Knowledge and the Kingly Mystery §15",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.16",
+      "label": "Chapter 9 — The Book of Religion by the Kingly Knowledge and the Kingly Mystery §16",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.17",
+      "label": "Chapter 9 — The Book of Religion by the Kingly Knowledge and the Kingly Mystery §17",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.18",
+      "label": "Chapter 9 — The Book of Religion by the Kingly Knowledge and the Kingly Mystery §18",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "10.1",
+      "label": "Chapter 10 — The Book of Religion by the Heavenly Perfections §1",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.2",
+      "label": "Chapter 10 — The Book of Religion by the Heavenly Perfections §2",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.3",
+      "label": "Chapter 10 — The Book of Religion by the Heavenly Perfections §3",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.4",
+      "label": "Chapter 10 — The Book of Religion by the Heavenly Perfections §4",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "11.1",
+      "label": "Chapter 11 — The Book of the Manifesting of the One and Manifold §1",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.2",
+      "label": "Chapter 11 — The Book of the Manifesting of the One and Manifold §2",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.3",
+      "label": "Chapter 11 — The Book of the Manifesting of the One and Manifold §3",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.4",
+      "label": "Chapter 11 — The Book of the Manifesting of the One and Manifold §4",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.5",
+      "label": "Chapter 11 — The Book of the Manifesting of the One and Manifold §5",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.6",
+      "label": "Chapter 11 — The Book of the Manifesting of the One and Manifold §6",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.7",
+      "label": "Chapter 11 — The Book of the Manifesting of the One and Manifold §7",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.8",
+      "label": "Chapter 11 — The Book of the Manifesting of the One and Manifold §8",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.9",
+      "label": "Chapter 11 — The Book of the Manifesting of the One and Manifold §9",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.10",
+      "label": "Chapter 11 — The Book of the Manifesting of the One and Manifold §10",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.11",
+      "label": "Chapter 11 — The Book of the Manifesting of the One and Manifold §11",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.12",
+      "label": "Chapter 11 — The Book of the Manifesting of the One and Manifold §12",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.13",
+      "label": "Chapter 11 — The Book of the Manifesting of the One and Manifold §13",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.14",
+      "label": "Chapter 11 — The Book of the Manifesting of the One and Manifold §14",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.15",
+      "label": "Chapter 11 — The Book of the Manifesting of the One and Manifold §15",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.16",
+      "label": "Chapter 11 — The Book of the Manifesting of the One and Manifold §16",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.17",
+      "label": "Chapter 11 — The Book of the Manifesting of the One and Manifold §17",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.18",
+      "label": "Chapter 11 — The Book of the Manifesting of the One and Manifold §18",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.19",
+      "label": "Chapter 11 — The Book of the Manifesting of the One and Manifold §19",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.20",
+      "label": "Chapter 11 — The Book of the Manifesting of the One and Manifold §20",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.21",
+      "label": "Chapter 11 — The Book of the Manifesting of the One and Manifold §21",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.22",
+      "label": "Chapter 11 — The Book of the Manifesting of the One and Manifold §22",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.23",
+      "label": "Chapter 11 — The Book of the Manifesting of the One and Manifold §23",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.24",
+      "label": "Chapter 11 — The Book of the Manifesting of the One and Manifold §24",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.25",
+      "label": "Chapter 11 — The Book of the Manifesting of the One and Manifold §25",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.26",
+      "label": "Chapter 11 — The Book of the Manifesting of the One and Manifold §26",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.27",
+      "label": "Chapter 11 — The Book of the Manifesting of the One and Manifold §27",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.28",
+      "label": "Chapter 11 — The Book of the Manifesting of the One and Manifold §28",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.29",
+      "label": "Chapter 11 — The Book of the Manifesting of the One and Manifold §29",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.30",
+      "label": "Chapter 11 — The Book of the Manifesting of the One and Manifold §30",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.31",
+      "label": "Chapter 11 — The Book of the Manifesting of the One and Manifold §31",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.32",
+      "label": "Chapter 11 — The Book of the Manifesting of the One and Manifold §32",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.33",
+      "label": "Chapter 11 — The Book of the Manifesting of the One and Manifold §33",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.34",
+      "label": "Chapter 11 — The Book of the Manifesting of the One and Manifold §34",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.35",
+      "label": "Chapter 11 — The Book of the Manifesting of the One and Manifold §35",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.36",
+      "label": "Chapter 11 — The Book of the Manifesting of the One and Manifold §36",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.37",
+      "label": "Chapter 11 — The Book of the Manifesting of the One and Manifold §37",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.38",
+      "label": "Chapter 11 — The Book of the Manifesting of the One and Manifold §38",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.39",
+      "label": "Chapter 11 — The Book of the Manifesting of the One and Manifold §39",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.40",
+      "label": "Chapter 11 — The Book of the Manifesting of the One and Manifold §40",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.41",
+      "label": "Chapter 11 — The Book of the Manifesting of the One and Manifold §41",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.42",
+      "label": "Chapter 11 — The Book of the Manifesting of the One and Manifold §42",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.43",
+      "label": "Chapter 11 — The Book of the Manifesting of the One and Manifold §43",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.44",
+      "label": "Chapter 11 — The Book of the Manifesting of the One and Manifold §44",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.45",
+      "label": "Chapter 11 — The Book of the Manifesting of the One and Manifold §45",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.46",
+      "label": "Chapter 11 — The Book of the Manifesting of the One and Manifold §46",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.47",
+      "label": "Chapter 11 — The Book of the Manifesting of the One and Manifold §47",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.48",
+      "label": "Chapter 11 — The Book of the Manifesting of the One and Manifold §48",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.49",
+      "label": "Chapter 11 — The Book of the Manifesting of the One and Manifold §49",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.50",
+      "label": "Chapter 11 — The Book of the Manifesting of the One and Manifold §50",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "12.1",
+      "label": "Chapter 12 — The Book of the Religion of Faith §1",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.2",
+      "label": "Chapter 12 — The Book of the Religion of Faith §2",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.3",
+      "label": "Chapter 12 — The Book of the Religion of Faith §3",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.4",
+      "label": "Chapter 12 — The Book of the Religion of Faith §4",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.5",
+      "label": "Chapter 12 — The Book of the Religion of Faith §5",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "13.1",
+      "label": "Chapter 13 — The Book of Religion by Separation of Matter and Spirit §1",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.2",
+      "label": "Chapter 13 — The Book of Religion by Separation of Matter and Spirit §2",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.3",
+      "label": "Chapter 13 — The Book of Religion by Separation of Matter and Spirit §3",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.4",
+      "label": "Chapter 13 — The Book of Religion by Separation of Matter and Spirit §4",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.5",
+      "label": "Chapter 13 — The Book of Religion by Separation of Matter and Spirit §5",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.6",
+      "label": "Chapter 13 — The Book of Religion by Separation of Matter and Spirit §6",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.7",
+      "label": "Chapter 13 — The Book of Religion by Separation of Matter and Spirit §7",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.8",
+      "label": "Chapter 13 — The Book of Religion by Separation of Matter and Spirit §8",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.9",
+      "label": "Chapter 13 — The Book of Religion by Separation of Matter and Spirit §9",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.10",
+      "label": "Chapter 13 — The Book of Religion by Separation of Matter and Spirit §10",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.11",
+      "label": "Chapter 13 — The Book of Religion by Separation of Matter and Spirit §11",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.12",
+      "label": "Chapter 13 — The Book of Religion by Separation of Matter and Spirit §12",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.13",
+      "label": "Chapter 13 — The Book of Religion by Separation of Matter and Spirit §13",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "14.1",
+      "label": "Chapter 14 — The Book of Religion by Separation from the Qualities §1",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.2",
+      "label": "Chapter 14 — The Book of Religion by Separation from the Qualities §2",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.3",
+      "label": "Chapter 14 — The Book of Religion by Separation from the Qualities §3",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.4",
+      "label": "Chapter 14 — The Book of Religion by Separation from the Qualities §4",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.5",
+      "label": "Chapter 14 — The Book of Religion by Separation from the Qualities §5",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.6",
+      "label": "Chapter 14 — The Book of Religion by Separation from the Qualities §6",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.7",
+      "label": "Chapter 14 — The Book of Religion by Separation from the Qualities §7",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.8",
+      "label": "Chapter 14 — The Book of Religion by Separation from the Qualities §8",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.9",
+      "label": "Chapter 14 — The Book of Religion by Separation from the Qualities §9",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.10",
+      "label": "Chapter 14 — The Book of Religion by Separation from the Qualities §10",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.11",
+      "label": "Chapter 14 — The Book of Religion by Separation from the Qualities §11",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.12",
+      "label": "Chapter 14 — The Book of Religion by Separation from the Qualities §12",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "15.1",
+      "label": "Chapter 15 — The Book of Religion by Attaining the Supreme §1",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.2",
+      "label": "Chapter 15 — The Book of Religion by Attaining the Supreme §2",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.3",
+      "label": "Chapter 15 — The Book of Religion by Attaining the Supreme §3",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.4",
+      "label": "Chapter 15 — The Book of Religion by Attaining the Supreme §4",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.5",
+      "label": "Chapter 15 — The Book of Religion by Attaining the Supreme §5",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.6",
+      "label": "Chapter 15 — The Book of Religion by Attaining the Supreme §6",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.7",
+      "label": "Chapter 15 — The Book of Religion by Attaining the Supreme §7",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.8",
+      "label": "Chapter 15 — The Book of Religion by Attaining the Supreme §8",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.9",
+      "label": "Chapter 15 — The Book of Religion by Attaining the Supreme §9",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.10",
+      "label": "Chapter 15 — The Book of Religion by Attaining the Supreme §10",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.11",
+      "label": "Chapter 15 — The Book of Religion by Attaining the Supreme §11",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.12",
+      "label": "Chapter 15 — The Book of Religion by Attaining the Supreme §12",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.13",
+      "label": "Chapter 15 — The Book of Religion by Attaining the Supreme §13",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.14",
+      "label": "Chapter 15 — The Book of Religion by Attaining the Supreme §14",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.15",
+      "label": "Chapter 15 — The Book of Religion by Attaining the Supreme §15",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.16",
+      "label": "Chapter 15 — The Book of Religion by Attaining the Supreme §16",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "16.1",
+      "label": "Chapter 16 — The Book of the Separateness of the Divine and Undivine §1",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.2",
+      "label": "Chapter 16 — The Book of the Separateness of the Divine and Undivine §2",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.3",
+      "label": "Chapter 16 — The Book of the Separateness of the Divine and Undivine §3",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.4",
+      "label": "Chapter 16 — The Book of the Separateness of the Divine and Undivine §4",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.5",
+      "label": "Chapter 16 — The Book of the Separateness of the Divine and Undivine §5",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.6",
+      "label": "Chapter 16 — The Book of the Separateness of the Divine and Undivine §6",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.7",
+      "label": "Chapter 16 — The Book of the Separateness of the Divine and Undivine §7",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.8",
+      "label": "Chapter 16 — The Book of the Separateness of the Divine and Undivine §8",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.9",
+      "label": "Chapter 16 — The Book of the Separateness of the Divine and Undivine §9",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "17.1",
+      "label": "Chapter 17 — The Book of Religion by the Threefold Faith §1",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.2",
+      "label": "Chapter 17 — The Book of Religion by the Threefold Faith §2",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.3",
+      "label": "Chapter 17 — The Book of Religion by the Threefold Faith §3",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.4",
+      "label": "Chapter 17 — The Book of Religion by the Threefold Faith §4",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.5",
+      "label": "Chapter 17 — The Book of Religion by the Threefold Faith §5",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.6",
+      "label": "Chapter 17 — The Book of Religion by the Threefold Faith §6",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.7",
+      "label": "Chapter 17 — The Book of Religion by the Threefold Faith §7",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.8",
+      "label": "Chapter 17 — The Book of Religion by the Threefold Faith §8",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.9",
+      "label": "Chapter 17 — The Book of Religion by the Threefold Faith §9",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.10",
+      "label": "Chapter 17 — The Book of Religion by the Threefold Faith §10",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.11",
+      "label": "Chapter 17 — The Book of Religion by the Threefold Faith §11",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.12",
+      "label": "Chapter 17 — The Book of Religion by the Threefold Faith §12",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.13",
+      "label": "Chapter 17 — The Book of Religion by the Threefold Faith §13",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.14",
+      "label": "Chapter 17 — The Book of Religion by the Threefold Faith §14",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "18.1",
+      "label": "Chapter 18 — The Book of Religion by Deliverance and Renunciation §1",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.2",
+      "label": "Chapter 18 — The Book of Religion by Deliverance and Renunciation §2",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.3",
+      "label": "Chapter 18 — The Book of Religion by Deliverance and Renunciation §3",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.4",
+      "label": "Chapter 18 — The Book of Religion by Deliverance and Renunciation §4",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.5",
+      "label": "Chapter 18 — The Book of Religion by Deliverance and Renunciation §5",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.6",
+      "label": "Chapter 18 — The Book of Religion by Deliverance and Renunciation §6",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.7",
+      "label": "Chapter 18 — The Book of Religion by Deliverance and Renunciation §7",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.8",
+      "label": "Chapter 18 — The Book of Religion by Deliverance and Renunciation §8",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.9",
+      "label": "Chapter 18 — The Book of Religion by Deliverance and Renunciation §9",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.10",
+      "label": "Chapter 18 — The Book of Religion by Deliverance and Renunciation §10",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.11",
+      "label": "Chapter 18 — The Book of Religion by Deliverance and Renunciation §11",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.12",
+      "label": "Chapter 18 — The Book of Religion by Deliverance and Renunciation §12",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.13",
+      "label": "Chapter 18 — The Book of Religion by Deliverance and Renunciation §13",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.14",
+      "label": "Chapter 18 — The Book of Religion by Deliverance and Renunciation §14",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.15",
+      "label": "Chapter 18 — The Book of Religion by Deliverance and Renunciation §15",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.16",
+      "label": "Chapter 18 — The Book of Religion by Deliverance and Renunciation §16",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.17",
+      "label": "Chapter 18 — The Book of Religion by Deliverance and Renunciation §17",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.18",
+      "label": "Chapter 18 — The Book of Religion by Deliverance and Renunciation §18",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.19",
+      "label": "Chapter 18 — The Book of Religion by Deliverance and Renunciation §19",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.20",
+      "label": "Chapter 18 — The Book of Religion by Deliverance and Renunciation §20",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.21",
+      "label": "Chapter 18 — The Book of Religion by Deliverance and Renunciation §21",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.22",
+      "label": "Chapter 18 — The Book of Religion by Deliverance and Renunciation §22",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.23",
+      "label": "Chapter 18 — The Book of Religion by Deliverance and Renunciation §23",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.24",
+      "label": "Chapter 18 — The Book of Religion by Deliverance and Renunciation §24",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.25",
+      "label": "Chapter 18 — The Book of Religion by Deliverance and Renunciation §25",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.26",
+      "label": "Chapter 18 — The Book of Religion by Deliverance and Renunciation §26",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.27",
+      "label": "Chapter 18 — The Book of Religion by Deliverance and Renunciation §27",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.28",
+      "label": "Chapter 18 — The Book of Religion by Deliverance and Renunciation §28",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.29",
+      "label": "Chapter 18 — The Book of Religion by Deliverance and Renunciation §29",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.30",
+      "label": "Chapter 18 — The Book of Religion by Deliverance and Renunciation §30",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.31",
+      "label": "Chapter 18 — The Book of Religion by Deliverance and Renunciation §31",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.32",
+      "label": "Chapter 18 — The Book of Religion by Deliverance and Renunciation §32",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.33",
+      "label": "Chapter 18 — The Book of Religion by Deliverance and Renunciation §33",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.34",
+      "label": "Chapter 18 — The Book of Religion by Deliverance and Renunciation §34",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.35",
+      "label": "Chapter 18 — The Book of Religion by Deliverance and Renunciation §35",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.36",
+      "label": "Chapter 18 — The Book of Religion by Deliverance and Renunciation §36",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.37",
+      "label": "Chapter 18 — The Book of Religion by Deliverance and Renunciation §37",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.38",
+      "label": "Chapter 18 — The Book of Religion by Deliverance and Renunciation §38",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.39",
+      "label": "Chapter 18 — The Book of Religion by Deliverance and Renunciation §39",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.40",
+      "label": "Chapter 18 — The Book of Religion by Deliverance and Renunciation §40",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.41",
+      "label": "Chapter 18 — The Book of Religion by Deliverance and Renunciation §41",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.42",
+      "label": "Chapter 18 — The Book of Religion by Deliverance and Renunciation §42",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.43",
+      "label": "Chapter 18 — The Book of Religion by Deliverance and Renunciation §43",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.44",
+      "label": "Chapter 18 — The Book of Religion by Deliverance and Renunciation §44",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.45",
+      "label": "Chapter 18 — The Book of Religion by Deliverance and Renunciation §45",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.46",
+      "label": "Chapter 18 — The Book of Religion by Deliverance and Renunciation §46",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.47",
+      "label": "Chapter 18 — The Book of Religion by Deliverance and Renunciation §47",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.48",
+      "label": "Chapter 18 — The Book of Religion by Deliverance and Renunciation §48",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.49",
+      "label": "Chapter 18 — The Book of Religion by Deliverance and Renunciation §49",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.50",
+      "label": "Chapter 18 — The Book of Religion by Deliverance and Renunciation §50",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.51",
+      "label": "Chapter 18 — The Book of Religion by Deliverance and Renunciation §51",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.52",
+      "label": "Chapter 18 — The Book of Religion by Deliverance and Renunciation §52",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.53",
+      "label": "Chapter 18 — The Book of Religion by Deliverance and Renunciation §53",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.54",
+      "label": "Chapter 18 — The Book of Religion by Deliverance and Renunciation §54",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.55",
+      "label": "Chapter 18 — The Book of Religion by Deliverance and Renunciation §55",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.56",
+      "label": "Chapter 18 — The Book of Religion by Deliverance and Renunciation §56",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.57",
+      "label": "Chapter 18 — The Book of Religion by Deliverance and Renunciation §57",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.58",
+      "label": "Chapter 18 — The Book of Religion by Deliverance and Renunciation §58",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.59",
+      "label": "Chapter 18 — The Book of Religion by Deliverance and Renunciation §59",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.60",
+      "label": "Chapter 18 — The Book of Religion by Deliverance and Renunciation §60",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.61",
+      "label": "Chapter 18 — The Book of Religion by Deliverance and Renunciation §61",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.62",
+      "label": "Chapter 18 — The Book of Religion by Deliverance and Renunciation §62",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.63",
+      "label": "Chapter 18 — The Book of Religion by Deliverance and Renunciation §63",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.64",
+      "label": "Chapter 18 — The Book of Religion by Deliverance and Renunciation §64",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.65",
+      "label": "Chapter 18 — The Book of Religion by Deliverance and Renunciation §65",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.66",
+      "label": "Chapter 18 — The Book of Religion by Deliverance and Renunciation §66",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.67",
+      "label": "Chapter 18 — The Book of Religion by Deliverance and Renunciation §67",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.68",
+      "label": "Chapter 18 — The Book of Religion by Deliverance and Renunciation §68",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.69",
+      "label": "Chapter 18 — The Book of Religion by Deliverance and Renunciation §69",
+      "chapterRef": "18"
+    }
+  ],
+  "editions": [
+    {
+      "slug": "bhagavad-gita-en",
+      "language": "en",
+      "editionType": "translation",
+      "title": "The Song Celestial; or, Bhagavad-Gîtâ",
+      "translator": "Edwin Arnold",
+      "publisher": "Project Gutenberg",
+      "publicationYear": 1885,
+      "source": "project-gutenberg",
+      "license": "public-domain",
+      "rightsStatus": "Public domain in the United States",
+      "attributionText": "The Song Celestial; or, Bhagavad-Gîtâ, translated by Edwin Arnold (1885). Public domain in the United States. Digital text from Project Gutenberg.",
+      "structureScheme": "single plain-text edition, split at printed chapter headings",
+      "isSample": false,
+      "notes": "The chapter split is performed on the edition as served; the reader is told when the served text no longer matches the indexed paragraphs."
+    }
+  ]
+}

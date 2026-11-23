@@ -1,0 +1,110 @@
+{
+  "slug": "musar-letter-from-ramban-to-his-son",
+  "title": "Letter from Ramban to his Son",
+  "originalTitle": "אגרת הרמב\"ן לבנו",
+  "transliteration": "",
+  "altTitles": [],
+  "tradition": "judaism",
+  "school": "rabbinic-judaism",
+  "genre": "Musar",
+  "textType": "Ethical literature",
+  "category": "Musar",
+  "subcategory": "Rishonim",
+  "originalLanguage": "he",
+  "dateStart": 1000,
+  "dateEnd": 1950,
+  "dateDisplay": "Medieval to modern ethical literature",
+  "authorshipStatus": "established",
+  "author": "",
+  "attributionNote": "Authorship follows the Sefaria catalogue record for this work. Where a text is traditionally attributed or collectively compiled, the library does not assert a single author beyond the source's own metadata.",
+  "description": "13th-century letter of Nachmanides to his son focusing on the value of chastity, incorporated in the will of a figure named Shlomo ben Yitzchak. Complete Musar text imported from Sefaria; the exact edition and licence are shown with each version.",
+  "historicalContext": "Musar is Jewish ethical and devotional literature concerned with character, discipline and the conduct of ordinary life. Its genre ranges from short letters to systematic treatises.",
+  "availabilityNote": "Imported from Sefaria. Version, source and licence are recorded per edition.",
+  "featured": false,
+  "featuredNote": "",
+  "refScheme": "chapter.paragraph",
+  "isSample": false,
+  "textStorage": "streamed",
+  "chapters": [
+    {
+      "ref": "1",
+      "label": "Paragraph 1"
+    }
+  ],
+  "passages": [
+    {
+      "reference": "1.1",
+      "label": "1:1",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.2",
+      "label": "1:2",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.3",
+      "label": "1:3",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.4",
+      "label": "1:4",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.5",
+      "label": "1:5",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.6",
+      "label": "1:6",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.7",
+      "label": "1:7",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.8",
+      "label": "1:8",
+      "chapterRef": "1"
+    }
+  ],
+  "editions": [
+    {
+      "slug": "musar-letter-from-ramban-to-his-son-hebrew-sefaria",
+      "language": "he",
+      "editionType": "original",
+      "title": "Jewish Quaterly Review, 1892, Solomon Schechter",
+      "translator": "",
+      "publisher": "http://www.jstor.org/stable/pdf/1449914.pdf",
+      "publicationYear": null,
+      "source": "sefaria",
+      "license": "public-domain",
+      "rightsStatus": "Public Domain",
+      "attributionText": "Jewish Quaterly Review, 1892, Solomon Schechter; licence: Public Domain; source: http://www.jstor.org/stable/pdf/1449914.pdf. Retrieved via Sefaria on 2026-10-20.",
+      "structureScheme": "chapter and paragraph",
+      "isSample": false,
+      "notes": "Complete work imported from Sefaria. Text is displayed as supplied by the named edition; HTML markup has been removed."
+    },
+    {
+      "slug": "musar-letter-from-ramban-to-his-son-english-sefaria-1",
+      "language": "en",
+      "editionType": "translation",
+      "title": "Jewish Quaterly Review, 1892, Solomon Schechter",
+      "translator": "",
+      "publisher": "http://www.jstor.org/stable/pdf/1449914.pdf",
+      "publicationYear": null,
+      "source": "sefaria",
+      "license": "public-domain",
+      "rightsStatus": "Public Domain",
+      "attributionText": "Jewish Quaterly Review, 1892, Solomon Schechter; licence: Public Domain; source: http://www.jstor.org/stable/pdf/1449914.pdf. Retrieved via Sefaria on 2026-10-20.",
+      "structureScheme": "chapter and paragraph",
+      "isSample": false,
+      "notes": "Complete work imported from Sefaria. Text is displayed as supplied by the named edition; HTML markup has been removed."
+    }
+  ]
+}

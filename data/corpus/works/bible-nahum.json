@@ -1,0 +1,316 @@
+{
+  "slug": "bible-nahum",
+  "title": "Nahum (Christian Bible)",
+  "originalTitle": "נחום",
+  "transliteration": "",
+  "altTitles": [
+    "Nahum",
+    "Nahum — King James Version"
+  ],
+  "tradition": "christianity",
+  "school": "early-christianity",
+  "genre": "Scripture",
+  "textType": "Biblical book",
+  "category": "Old Testament",
+  "subcategory": "Prophets",
+  "originalLanguage": "he",
+  "dateStart": -1000,
+  "dateEnd": -400,
+  "dateDisplay": "Composed over several centuries in the first millennium BCE; the Masoretic text is attested from the 10th century CE",
+  "authorshipStatus": "traditional",
+  "author": "",
+  "attributionNote": "The text is anonymous or traditionally attributed; the attribution is part of the work's reception rather than a statement about the surviving author. The catalogue does not adjudicate it.",
+  "description": "An oracle on the fall of Nineveh. This is the book as received in Christian Bibles: the Westminster Leningrad Codex Hebrew text beside the King James Version of 1611.",
+  "historicalContext": "Prophetic oracles and narratives from the Assyrian, Babylonian and Persian periods.",
+  "availabilityNote": "Streamed from the Bolls Bible API. Verse references follow the KJV; where the Hebrew counts a psalm superscription as verse 1, the original-language pane is one verse ahead.",
+  "featured": false,
+  "featuredNote": "",
+  "refScheme": "chapter.verse",
+  "isSample": false,
+  "textStorage": "streamed",
+  "chapters": [
+    {
+      "ref": "1",
+      "label": "Nahum 1"
+    },
+    {
+      "ref": "2",
+      "label": "Nahum 2"
+    },
+    {
+      "ref": "3",
+      "label": "Nahum 3"
+    }
+  ],
+  "passages": [
+    {
+      "reference": "1.1",
+      "label": "Nahum 1:1",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.2",
+      "label": "Nahum 1:2",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.3",
+      "label": "Nahum 1:3",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.4",
+      "label": "Nahum 1:4",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.5",
+      "label": "Nahum 1:5",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.6",
+      "label": "Nahum 1:6",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.7",
+      "label": "Nahum 1:7",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.8",
+      "label": "Nahum 1:8",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.9",
+      "label": "Nahum 1:9",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.10",
+      "label": "Nahum 1:10",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.11",
+      "label": "Nahum 1:11",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.12",
+      "label": "Nahum 1:12",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.13",
+      "label": "Nahum 1:13",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.14",
+      "label": "Nahum 1:14",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.15",
+      "label": "Nahum 1:15",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "2.1",
+      "label": "Nahum 2:1",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.2",
+      "label": "Nahum 2:2",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.3",
+      "label": "Nahum 2:3",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.4",
+      "label": "Nahum 2:4",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.5",
+      "label": "Nahum 2:5",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.6",
+      "label": "Nahum 2:6",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.7",
+      "label": "Nahum 2:7",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.8",
+      "label": "Nahum 2:8",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.9",
+      "label": "Nahum 2:9",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.10",
+      "label": "Nahum 2:10",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.11",
+      "label": "Nahum 2:11",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.12",
+      "label": "Nahum 2:12",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.13",
+      "label": "Nahum 2:13",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "3.1",
+      "label": "Nahum 3:1",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.2",
+      "label": "Nahum 3:2",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.3",
+      "label": "Nahum 3:3",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.4",
+      "label": "Nahum 3:4",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.5",
+      "label": "Nahum 3:5",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.6",
+      "label": "Nahum 3:6",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.7",
+      "label": "Nahum 3:7",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.8",
+      "label": "Nahum 3:8",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.9",
+      "label": "Nahum 3:9",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.10",
+      "label": "Nahum 3:10",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.11",
+      "label": "Nahum 3:11",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.12",
+      "label": "Nahum 3:12",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.13",
+      "label": "Nahum 3:13",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.14",
+      "label": "Nahum 3:14",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.15",
+      "label": "Nahum 3:15",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.16",
+      "label": "Nahum 3:16",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.17",
+      "label": "Nahum 3:17",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.18",
+      "label": "Nahum 3:18",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.19",
+      "label": "Nahum 3:19",
+      "chapterRef": "3"
+    }
+  ],
+  "editions": [
+    {
+      "slug": "bible-nahum-he",
+      "language": "he",
+      "editionType": "original",
+      "title": "Westminster Leningrad Codex (Hebrew)",
+      "translator": "",
+      "publisher": "Bolls Bible API",
+      "publicationYear": null,
+      "source": "bolls",
+      "license": "public-domain",
+      "rightsStatus": "Public domain",
+      "attributionText": "Westminster Leningrad Codex Hebrew text, served by the Bolls Bible API.",
+      "structureScheme": "book, chapter, verse",
+      "isSample": false,
+      "notes": "The Hebrew text is shown as the API serves it; this library does not collate it against critical editions."
+    },
+    {
+      "slug": "bible-nahum-en-kjv",
+      "language": "en",
+      "editionType": "translation",
+      "title": "King James Version (1611)",
+      "translator": "The King James Bible translators",
+      "publisher": "Bolls Bible API",
+      "publicationYear": 1611,
+      "source": "bolls",
+      "license": "public-domain",
+      "rightsStatus": "Public domain",
+      "attributionText": "The Holy Bible, King James Version (1611). Public domain. Served by the Bolls Bible API.",
+      "structureScheme": "book, chapter, verse",
+      "isSample": false,
+      "notes": "Strong's numbers included in the API's markup are not displayed; the verse wording is unchanged."
+    }
+  ]
+}

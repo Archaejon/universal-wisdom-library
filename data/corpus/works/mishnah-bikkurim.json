@@ -1,0 +1,95 @@
+{
+  "slug": "mishnah-bikkurim",
+  "title": "Mishnah Bikkurim",
+  "originalTitle": "",
+  "transliteration": "",
+  "altTitles": [],
+  "tradition": "judaism",
+  "school": "rabbinic-judaism",
+  "genre": "Mishnah",
+  "textType": "Mishnah · Seder Zeraim",
+  "category": "Mishnah",
+  "subcategory": "Zeraim",
+  "originalLanguage": "he",
+  "dateStart": 200,
+  "dateEnd": 220,
+  "dateDisplay": "Compiled c. 200 CE",
+  "authorshipStatus": "composite",
+  "author": "",
+  "attributionNote": "Traditionally compiled by Rabbi Judah ha-Nasi from earlier rabbinic traditions. The Mishnah is a composite legal corpus, not a single-author book.",
+  "description": "First fruits and grains ceremoniously brought to the Temple and given to a priest next to the altar. The complete tractate is imported in Hebrew and, where available, in the William Davidson English translation.",
+  "historicalContext": "The Mishnah is the foundational compilation of rabbinic oral law, arranged in six sedarim. It is authoritative in traditional Judaism but is not part of the Tanakh.",
+  "availabilityNote": "",
+  "featured": false,
+  "featuredNote": "",
+  "refScheme": "chapter.mishnah",
+  "isSample": false,
+  "textStorage": "streamed",
+  "chapters": [
+    {
+      "ref": "4",
+      "label": "Chapter 4"
+    }
+  ],
+  "passages": [
+    {
+      "reference": "4.1",
+      "label": "4:1",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.2",
+      "label": "4:2",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.3",
+      "label": "4:3",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.4",
+      "label": "4:4",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.5",
+      "label": "4:5",
+      "chapterRef": "4"
+    }
+  ],
+  "editions": [
+    {
+      "slug": "mishnah-bikkurim-hebrew-torat-emet",
+      "language": "he",
+      "editionType": "original",
+      "title": "Torat Emet 357",
+      "translator": "",
+      "publisher": "Torat Emet edition, via Sefaria",
+      "publicationYear": null,
+      "source": "sefaria",
+      "license": "public-domain",
+      "rightsStatus": "Public domain (as reported by Sefaria)",
+      "attributionText": "Mishnah, Torat Emet 357 edition, public domain, accessed via Sefaria. Hebrew text is reproduced as supplied.",
+      "structureScheme": "chapter and mishnah",
+      "isSample": false,
+      "notes": "Complete tractate in Hebrew. Text is displayed as supplied by the named edition."
+    },
+    {
+      "slug": "mishnah-bikkurim-english-william-davidson",
+      "language": "en",
+      "editionType": "translation",
+      "title": "Mishnah Yomit by Dr. Joshua Kulp",
+      "translator": "William Davidson Edition",
+      "publisher": "Koren Publishers, via Sefaria",
+      "publicationYear": null,
+      "source": "sefaria",
+      "license": "cc-by-nc",
+      "rightsStatus": "CC-BY",
+      "attributionText": "Mishnah Yomit by Dr. Joshua Kulp, licence CC-BY, source http://learn.conservativeyeshiva.org/mishnah/. Retrieved via Sefaria. The translation is displayed with attribution and is not relicensed by this library.",
+      "structureScheme": "chapter and mishnah",
+      "isSample": false,
+      "notes": "Complete tractate in English. Text is displayed as supplied; HTML markup has been removed."
+    }
+  ]
+}

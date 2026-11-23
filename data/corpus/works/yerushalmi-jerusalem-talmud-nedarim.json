@@ -1,0 +1,580 @@
+{
+  "slug": "yerushalmi-jerusalem-talmud-nedarim",
+  "title": "Jerusalem Talmud Nedarim",
+  "originalTitle": "תלמוד ירושלמי נדרים",
+  "transliteration": "",
+  "altTitles": [],
+  "tradition": "judaism",
+  "school": "rabbinic-judaism",
+  "genre": "Talmud",
+  "textType": "Talmud",
+  "category": "Talmud",
+  "subcategory": "Yerushalmi",
+  "originalLanguage": "he",
+  "dateStart": 350,
+  "dateEnd": 450,
+  "dateDisplay": "Compiled c. 400 CE",
+  "authorshipStatus": "composite",
+  "author": "",
+  "attributionNote": "The Sefaria catalogue records this as a composite or traditionally transmitted work. Authorship is not asserted here beyond the source's own metadata.",
+  "description": "Vows taken voluntarily, particularly those that forbid specific actions or objects. Complete Talmud text imported from Sefaria; the exact edition and licence are shown with each version.",
+  "historicalContext": "The Jerusalem Talmud is a separate rabbinic compilation from the Babylonian Talmud, shaped by the academies of the Land of Israel.",
+  "availabilityNote": "Imported from Sefaria. Version, source and licence are recorded per edition.",
+  "featured": false,
+  "featuredNote": "",
+  "refScheme": "chapter.paragraph",
+  "isSample": false,
+  "textStorage": "streamed",
+  "chapters": [
+    {
+      "ref": "1",
+      "label": "Chapter 1"
+    },
+    {
+      "ref": "2",
+      "label": "Chapter 2"
+    },
+    {
+      "ref": "3",
+      "label": "Chapter 3"
+    },
+    {
+      "ref": "4",
+      "label": "Chapter 4"
+    },
+    {
+      "ref": "5",
+      "label": "Chapter 5"
+    },
+    {
+      "ref": "6",
+      "label": "Chapter 6"
+    },
+    {
+      "ref": "7",
+      "label": "Chapter 7"
+    },
+    {
+      "ref": "8",
+      "label": "Chapter 8"
+    },
+    {
+      "ref": "9",
+      "label": "Chapter 9"
+    },
+    {
+      "ref": "10",
+      "label": "Chapter 10"
+    },
+    {
+      "ref": "11",
+      "label": "Chapter 11"
+    }
+  ],
+  "passages": [
+    {
+      "reference": "1.1",
+      "label": "1:1",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.2",
+      "label": "1:2",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.3",
+      "label": "1:3",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.4",
+      "label": "1:4",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "2.1",
+      "label": "2:1",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.2",
+      "label": "2:2",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.3",
+      "label": "2:3",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.4",
+      "label": "2:4",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.5",
+      "label": "2:5",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "3.1",
+      "label": "3:1",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.2",
+      "label": "3:2",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.3",
+      "label": "3:3",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.4",
+      "label": "3:4",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.5",
+      "label": "3:5",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.6",
+      "label": "3:6",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.7",
+      "label": "3:7",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.8",
+      "label": "3:8",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.9",
+      "label": "3:9",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "4.1",
+      "label": "4:1",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.2",
+      "label": "4:2",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.3",
+      "label": "4:3",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.4",
+      "label": "4:4",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.5",
+      "label": "4:5",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.6",
+      "label": "4:6",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.7",
+      "label": "4:7",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.8",
+      "label": "4:8",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.9",
+      "label": "4:9",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.10",
+      "label": "4:10",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "5.1",
+      "label": "5:1",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.2",
+      "label": "5:2",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.3",
+      "label": "5:3",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.4",
+      "label": "5:4",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.5",
+      "label": "5:5",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.6",
+      "label": "5:6",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "6.1",
+      "label": "6:1",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.2",
+      "label": "6:2",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.3",
+      "label": "6:3",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.4",
+      "label": "6:4",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.5",
+      "label": "6:5",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.6",
+      "label": "6:6",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.7",
+      "label": "6:7",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.8",
+      "label": "6:8",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.9",
+      "label": "6:9",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.10",
+      "label": "6:10",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.11",
+      "label": "6:11",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "7.1",
+      "label": "7:1",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.2",
+      "label": "7:2",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.3",
+      "label": "7:3",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.4",
+      "label": "7:4",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.5",
+      "label": "7:5",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.6",
+      "label": "7:6",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.7",
+      "label": "7:7",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.8",
+      "label": "7:8",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.9",
+      "label": "7:9",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.10",
+      "label": "7:10",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.11",
+      "label": "7:11",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "8.1",
+      "label": "8:1",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.2",
+      "label": "8:2",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.3",
+      "label": "8:3",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.4",
+      "label": "8:4",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.5",
+      "label": "8:5",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.6",
+      "label": "8:6",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.7",
+      "label": "8:7",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.8",
+      "label": "8:8",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.9",
+      "label": "8:9",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "9.1",
+      "label": "9:1",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.2",
+      "label": "9:2",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.3",
+      "label": "9:3",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.4",
+      "label": "9:4",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.5",
+      "label": "9:5",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.6",
+      "label": "9:6",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.7",
+      "label": "9:7",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.8",
+      "label": "9:8",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.9",
+      "label": "9:9",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "10.1",
+      "label": "10:1",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.2",
+      "label": "10:2",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.3",
+      "label": "10:3",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.4",
+      "label": "10:4",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.5",
+      "label": "10:5",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.6",
+      "label": "10:6",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.7",
+      "label": "10:7",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.8",
+      "label": "10:8",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "11.1",
+      "label": "11:1",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.2",
+      "label": "11:2",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.3",
+      "label": "11:3",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.4",
+      "label": "11:4",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.5",
+      "label": "11:5",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.6",
+      "label": "11:6",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.7",
+      "label": "11:7",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.8",
+      "label": "11:8",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.9",
+      "label": "11:9",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.10",
+      "label": "11:10",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.11",
+      "label": "11:11",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.12",
+      "label": "11:12",
+      "chapterRef": "11"
+    }
+  ],
+  "editions": [
+    {
+      "slug": "yerushalmi-jerusalem-talmud-nedarim-hebrew-sefaria",
+      "language": "he",
+      "editionType": "original",
+      "title": "The Jerusalem Talmud, edition by Heinrich W. Guggenheimer. Berlin, De Gruyter, 1999-2015",
+      "translator": "",
+      "publisher": "https://www.nli.org.il/he/books/NNL_ALEPH001901012/NLI",
+      "publicationYear": null,
+      "source": "sefaria",
+      "license": "cc-by",
+      "rightsStatus": "CC-BY",
+      "attributionText": "The Jerusalem Talmud, edition by Heinrich W. Guggenheimer. Berlin, De Gruyter, 1999-2015; licence: CC-BY; source: https://www.nli.org.il/he/books/NNL_ALEPH001901012/NLI. Retrieved via Sefaria on 2026-10-20.",
+      "structureScheme": "chapter and paragraph",
+      "isSample": false,
+      "notes": "Complete work imported from Sefaria. Text is displayed as supplied by the named edition; HTML markup has been removed."
+    },
+    {
+      "slug": "yerushalmi-jerusalem-talmud-nedarim-english-sefaria-1",
+      "language": "en",
+      "editionType": "translation",
+      "title": "The Jerusalem Talmud, translation and commentary by Heinrich W. Guggenheimer. Berlin, De Gruyter, 1999-2015",
+      "translator": "",
+      "publisher": "https://www.nli.org.il/he/books/NNL_ALEPH001901012/NLI",
+      "publicationYear": null,
+      "source": "sefaria",
+      "license": "cc-by",
+      "rightsStatus": "CC-BY",
+      "attributionText": "The Jerusalem Talmud, translation and commentary by Heinrich W. Guggenheimer. Berlin, De Gruyter, 1999-2015; licence: CC-BY; source: https://www.nli.org.il/he/books/NNL_ALEPH001901012/NLI. Retrieved via Sefaria on 2026-10-20.",
+      "structureScheme": "chapter and paragraph",
+      "isSample": false,
+      "notes": "Complete work imported from Sefaria. Text is displayed as supplied by the named edition; HTML markup has been removed."
+    }
+  ]
+}

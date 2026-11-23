@@ -1,0 +1,525 @@
+{
+  "slug": "liturgy-machzor-rosh-hashanah-ashkenaz",
+  "title": "Machzor Rosh Hashanah Ashkenaz",
+  "originalTitle": "מחזור אשכנז לראש השנה",
+  "transliteration": "",
+  "altTitles": [],
+  "tradition": "judaism",
+  "school": "rabbinic-judaism",
+  "genre": "Liturgy",
+  "textType": "Liturgical text",
+  "category": "Liturgy",
+  "subcategory": "High Holidays",
+  "originalLanguage": "he",
+  "dateStart": 800,
+  "dateEnd": 1950,
+  "dateDisplay": "Liturgy in use, c. 800–1950 CE",
+  "authorshipStatus": "traditional",
+  "author": "",
+  "attributionNote": "Authorship follows the Sefaria catalogue record for this work. Where a text is traditionally attributed or collectively compiled, the library does not assert a single author beyond the source's own metadata.",
+  "description": "Prayer book for the Jewish New Year commonly used in Ashkenazi communities. Complete Liturgy text imported from Sefaria; the exact edition and licence are shown with each version.",
+  "historicalContext": "Liturgy is the recited text of prayer and ritual. Its wording varies by rite and community, so each imported text names its rite and edition instead of being harmonised into a single service.",
+  "availabilityNote": "Imported from Sefaria. Version, source and licence are recorded per edition.",
+  "featured": false,
+  "featuredNote": "",
+  "refScheme": "chapter.paragraph",
+  "isSample": false,
+  "textStorage": "streamed",
+  "chapters": [
+    {
+      "ref": "1",
+      "label": "Annullment of Vows"
+    },
+    {
+      "ref": "2",
+      "label": "Eiruv Tavshilin"
+    },
+    {
+      "ref": "3",
+      "label": "Lighting the Candles"
+    },
+    {
+      "ref": "6",
+      "label": "Kiddush"
+    },
+    {
+      "ref": "9",
+      "label": "Sounding of the Shofar"
+    },
+    {
+      "ref": "12",
+      "label": "Tashlich"
+    }
+  ],
+  "passages": [
+    {
+      "reference": "1.1",
+      "label": "1:1",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.2",
+      "label": "1:2",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.3",
+      "label": "1:3",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.4",
+      "label": "1:4",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.5",
+      "label": "1:5",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.6",
+      "label": "1:6",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.7",
+      "label": "1:7",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.8",
+      "label": "1:8",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "2.1",
+      "label": "2:1",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.2",
+      "label": "2:2",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.3",
+      "label": "2:3",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "3.1",
+      "label": "3:1",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.2",
+      "label": "3:2",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.3",
+      "label": "3:3",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.4",
+      "label": "3:4",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.5",
+      "label": "3:5",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "6.1",
+      "label": "6:1",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.2",
+      "label": "6:2",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.3",
+      "label": "6:3",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.4",
+      "label": "6:4",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.5",
+      "label": "6:5",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.6",
+      "label": "6:6",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.7",
+      "label": "6:7",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.8",
+      "label": "6:8",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.9",
+      "label": "6:9",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.10",
+      "label": "6:10",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.11",
+      "label": "6:11",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.12",
+      "label": "6:12",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.13",
+      "label": "6:13",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.14",
+      "label": "6:14",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.15",
+      "label": "6:15",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.16",
+      "label": "6:16",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.17",
+      "label": "6:17",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.18",
+      "label": "6:18",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.19",
+      "label": "6:19",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "9.1",
+      "label": "9:1",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.2",
+      "label": "9:2",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.3",
+      "label": "9:3",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.4",
+      "label": "9:4",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.5",
+      "label": "9:5",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.6",
+      "label": "9:6",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.7",
+      "label": "9:7",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.8",
+      "label": "9:8",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.9",
+      "label": "9:9",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.10",
+      "label": "9:10",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.11",
+      "label": "9:11",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.12",
+      "label": "9:12",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.13",
+      "label": "9:13",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.14",
+      "label": "9:14",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.15",
+      "label": "9:15",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.16",
+      "label": "9:16",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.17",
+      "label": "9:17",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.18",
+      "label": "9:18",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.19",
+      "label": "9:19",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.20",
+      "label": "9:20",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.21",
+      "label": "9:21",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.22",
+      "label": "9:22",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.23",
+      "label": "9:23",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.24",
+      "label": "9:24",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.25",
+      "label": "9:25",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.26",
+      "label": "9:26",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.27",
+      "label": "9:27",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.28",
+      "label": "9:28",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.29",
+      "label": "9:29",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.30",
+      "label": "9:30",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.31",
+      "label": "9:31",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.32",
+      "label": "9:32",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.33",
+      "label": "9:33",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.34",
+      "label": "9:34",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.35",
+      "label": "9:35",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.36",
+      "label": "9:36",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.37",
+      "label": "9:37",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.38",
+      "label": "9:38",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.39",
+      "label": "9:39",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.40",
+      "label": "9:40",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.41",
+      "label": "9:41",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.42",
+      "label": "9:42",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.43",
+      "label": "9:43",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.44",
+      "label": "9:44",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "12.1",
+      "label": "12:1",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.2",
+      "label": "12:2",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.3",
+      "label": "12:3",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.4",
+      "label": "12:4",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.5",
+      "label": "12:5",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.6",
+      "label": "12:6",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.7",
+      "label": "12:7",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.8",
+      "label": "12:8",
+      "chapterRef": "12"
+    }
+  ],
+  "editions": [
+    {
+      "slug": "liturgy-machzor-rosh-hashanah-ashkenaz-hebrew-sefaria",
+      "language": "he",
+      "editionType": "original",
+      "title": "The Metsudah Machzor. Metsudah Publications, New York -- he (paragraph ed.)",
+      "translator": "",
+      "publisher": "https://www.nli.org.il/he/books/NNL_ALEPH000996925",
+      "publicationYear": null,
+      "source": "sefaria",
+      "license": "cc-by",
+      "rightsStatus": "CC-BY",
+      "attributionText": "The Metsudah Machzor. Metsudah Publications, New York -- he (paragraph ed.); licence: CC-BY; source: https://www.nli.org.il/he/books/NNL_ALEPH000996925. Retrieved via Sefaria on 2026-10-20.",
+      "structureScheme": "chapter and paragraph",
+      "isSample": false,
+      "notes": "Complete work imported from Sefaria. Text is displayed as supplied by the named edition; HTML markup has been removed."
+    },
+    {
+      "slug": "liturgy-machzor-rosh-hashanah-ashkenaz-english-sefaria-1",
+      "language": "en",
+      "editionType": "translation",
+      "title": "The Metsudah Machzor. Metsudah Publications, New York -- en (paragraph ed.)",
+      "translator": "",
+      "publisher": "https://www.nli.org.il/he/books/NNL_ALEPH000996925",
+      "publicationYear": null,
+      "source": "sefaria",
+      "license": "cc-by",
+      "rightsStatus": "CC-BY",
+      "attributionText": "The Metsudah Machzor. Metsudah Publications, New York -- en (paragraph ed.); licence: CC-BY; source: https://www.nli.org.il/he/books/NNL_ALEPH000996925. Retrieved via Sefaria on 2026-10-20.",
+      "structureScheme": "chapter and paragraph",
+      "isSample": false,
+      "notes": "Complete work imported from Sefaria. Text is displayed as supplied by the named edition; HTML markup has been removed."
+    }
+  ]
+}

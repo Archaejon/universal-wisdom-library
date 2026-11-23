@@ -1,0 +1,211 @@
+{
+  "slug": "midrash-legends-of-the-jews",
+  "title": "Legends of the Jews",
+  "originalTitle": "אגדות היהודים",
+  "transliteration": "",
+  "altTitles": [],
+  "tradition": "judaism",
+  "school": "rabbinic-judaism",
+  "genre": "Midrash",
+  "textType": "Midrash",
+  "category": "Midrash",
+  "subcategory": "Aggadah",
+  "originalLanguage": "en",
+  "dateStart": 200,
+  "dateEnd": 1200,
+  "dateDisplay": "Classical and medieval rabbinic compilation",
+  "authorshipStatus": "composite",
+  "author": "",
+  "attributionNote": "The Sefaria catalogue records this as a composite or traditionally transmitted work. Authorship is not asserted here beyond the source's own metadata.",
+  "description": "20th-century compilation of midrashim from rabbinic literature on creation through the Esther story. Complete Midrash text imported from Sefaria; the exact edition and licence are shown with each version.",
+  "historicalContext": "Midrash is a family of rabbinic works that interpret scripture through legal exposition, narrative expansion and homily. The genre spans several centuries and several distinct collections.",
+  "availabilityNote": "Imported from Sefaria. Version, source and licence are recorded per edition.",
+  "featured": false,
+  "featuredNote": "",
+  "refScheme": "chapter.paragraph",
+  "isSample": false,
+  "textStorage": "streamed",
+  "chapters": [
+    {
+      "ref": "1",
+      "label": "Volume 1"
+    },
+    {
+      "ref": "2",
+      "label": "Volume 2"
+    },
+    {
+      "ref": "3",
+      "label": "Volume 3"
+    },
+    {
+      "ref": "4",
+      "label": "Volume 4"
+    }
+  ],
+  "passages": [
+    {
+      "reference": "1.1",
+      "label": "1:1",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.2",
+      "label": "1:2",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.3",
+      "label": "1:3",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.4",
+      "label": "1:4",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.5",
+      "label": "1:5",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.6",
+      "label": "1:6",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "2.1",
+      "label": "2:1",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.2",
+      "label": "2:2",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.3",
+      "label": "2:3",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.4",
+      "label": "2:4",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "3.1",
+      "label": "3:1",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.2",
+      "label": "3:2",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.3",
+      "label": "3:3",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.4",
+      "label": "3:4",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.5",
+      "label": "3:5",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.6",
+      "label": "3:6",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.7",
+      "label": "3:7",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "4.1",
+      "label": "4:1",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.2",
+      "label": "4:2",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.3",
+      "label": "4:3",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.4",
+      "label": "4:4",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.5",
+      "label": "4:5",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.6",
+      "label": "4:6",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.7",
+      "label": "4:7",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.8",
+      "label": "4:8",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.9",
+      "label": "4:9",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.10",
+      "label": "4:10",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.11",
+      "label": "4:11",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.12",
+      "label": "4:12",
+      "chapterRef": "4"
+    }
+  ],
+  "editions": [
+    {
+      "slug": "midrash-legends-of-the-jews-english-sefaria",
+      "language": "en",
+      "editionType": "original",
+      "title": "The Legends of the Jews by Louis Ginzberg [1909]",
+      "translator": "",
+      "publisher": "http://www.sacred-texts.com/jud/loj/loj105.htm",
+      "publicationYear": null,
+      "source": "sefaria",
+      "license": "public-domain",
+      "rightsStatus": "Public Domain",
+      "attributionText": "The Legends of the Jews by Louis Ginzberg [1909]; licence: Public Domain; source: http://www.sacred-texts.com/jud/loj/loj105.htm. Retrieved via Sefaria on 2026-10-20.",
+      "structureScheme": "chapter and paragraph",
+      "isSample": false,
+      "notes": "Complete work imported from Sefaria. Text is displayed as supplied by the named edition; HTML markup has been removed."
+    }
+  ]
+}

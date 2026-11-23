@@ -1,0 +1,3826 @@
+{
+  "slug": "chandogya-upanishad-chu",
+  "title": "Chandogya Upanishad",
+  "originalTitle": "छान्दोग्योपनिषद्",
+  "transliteration": "Chāndogya Upaniṣad",
+  "altTitles": [],
+  "tradition": "hinduism",
+  "school": "vedanta",
+  "genre": "Scripture",
+  "textType": "Sanskrit text (mantra)",
+  "category": "Upaniṣad",
+  "subcategory": "Upaniṣads",
+  "originalLanguage": "sa",
+  "dateStart": null,
+  "dateEnd": null,
+  "dateDisplay": "",
+  "authorshipStatus": "anonymous",
+  "author": "",
+  "attributionNote": "Chandogya Upanishad, as Heritage IITKanpur's Scripture Server catalogues it (CHU), on its own shelf (Upaniṣads).",
+  "description": "The summary above is the one Heritage IITKanpur's Scripture Server publishes for the text; an editor's note for the work itself is still to be written.",
+  "historicalContext": "Read in the Heritage Scripture Server corpus, which continues the Gita Supersite built at IIT Kanpur: the text, its classical commentaries and the translations the server may serve are held together there.",
+  "availabilityNote": "The outline is held: 154 chapter(s) and 632 verse address(es), read from the server's own catalogue. The verses are not stored — the licence forbids bulk harvesting and database reconstruction — and are streamed from the API one verse at a time as the work is read, with the attribution HCAL-1.1 requires and the server's own quota and licence notice.",
+  "featured": false,
+  "featuredNote": "",
+  "refScheme": "chapter.verse",
+  "isSample": false,
+  "textStorage": "streamed",
+  "chapters": [
+    {
+      "ref": "1.1",
+      "label": "Chapter 1.1"
+    },
+    {
+      "ref": "1.2",
+      "label": "Chapter 1.2"
+    },
+    {
+      "ref": "1.3",
+      "label": "Chapter 1.3"
+    },
+    {
+      "ref": "1.4",
+      "label": "Chapter 1.4"
+    },
+    {
+      "ref": "1.5",
+      "label": "Chapter 1.5"
+    },
+    {
+      "ref": "1.6",
+      "label": "Chapter 1.6"
+    },
+    {
+      "ref": "1.7",
+      "label": "Chapter 1.7"
+    },
+    {
+      "ref": "1.8",
+      "label": "Chapter 1.8"
+    },
+    {
+      "ref": "1.9",
+      "label": "Chapter 1.9"
+    },
+    {
+      "ref": "1.10",
+      "label": "Chapter 1.10"
+    },
+    {
+      "ref": "1.11",
+      "label": "Chapter 1.11"
+    },
+    {
+      "ref": "1.12",
+      "label": "Chapter 1.12"
+    },
+    {
+      "ref": "1.13",
+      "label": "Chapter 1.13"
+    },
+    {
+      "ref": "2.1",
+      "label": "Chapter 2.1"
+    },
+    {
+      "ref": "2.2",
+      "label": "Chapter 2.2"
+    },
+    {
+      "ref": "2.3",
+      "label": "Chapter 2.3"
+    },
+    {
+      "ref": "2.4",
+      "label": "Chapter 2.4"
+    },
+    {
+      "ref": "2.5",
+      "label": "Chapter 2.5"
+    },
+    {
+      "ref": "2.6",
+      "label": "Chapter 2.6"
+    },
+    {
+      "ref": "2.7",
+      "label": "Chapter 2.7"
+    },
+    {
+      "ref": "2.8",
+      "label": "Chapter 2.8"
+    },
+    {
+      "ref": "2.9",
+      "label": "Chapter 2.9"
+    },
+    {
+      "ref": "2.10",
+      "label": "Chapter 2.10"
+    },
+    {
+      "ref": "2.11",
+      "label": "Chapter 2.11"
+    },
+    {
+      "ref": "2.12",
+      "label": "Chapter 2.12"
+    },
+    {
+      "ref": "2.13",
+      "label": "Chapter 2.13"
+    },
+    {
+      "ref": "2.14",
+      "label": "Chapter 2.14"
+    },
+    {
+      "ref": "2.15",
+      "label": "Chapter 2.15"
+    },
+    {
+      "ref": "2.16",
+      "label": "Chapter 2.16"
+    },
+    {
+      "ref": "2.17",
+      "label": "Chapter 2.17"
+    },
+    {
+      "ref": "2.18",
+      "label": "Chapter 2.18"
+    },
+    {
+      "ref": "2.19",
+      "label": "Chapter 2.19"
+    },
+    {
+      "ref": "2.20",
+      "label": "Chapter 2.20"
+    },
+    {
+      "ref": "2.21",
+      "label": "Chapter 2.21"
+    },
+    {
+      "ref": "2.22",
+      "label": "Chapter 2.22"
+    },
+    {
+      "ref": "2.23",
+      "label": "Chapter 2.23"
+    },
+    {
+      "ref": "2.24",
+      "label": "Chapter 2.24"
+    },
+    {
+      "ref": "3.1",
+      "label": "Chapter 3.1"
+    },
+    {
+      "ref": "3.2",
+      "label": "Chapter 3.2"
+    },
+    {
+      "ref": "3.3",
+      "label": "Chapter 3.3"
+    },
+    {
+      "ref": "3.4",
+      "label": "Chapter 3.4"
+    },
+    {
+      "ref": "3.5",
+      "label": "Chapter 3.5"
+    },
+    {
+      "ref": "3.6",
+      "label": "Chapter 3.6"
+    },
+    {
+      "ref": "3.7",
+      "label": "Chapter 3.7"
+    },
+    {
+      "ref": "3.8",
+      "label": "Chapter 3.8"
+    },
+    {
+      "ref": "3.9",
+      "label": "Chapter 3.9"
+    },
+    {
+      "ref": "3.10",
+      "label": "Chapter 3.10"
+    },
+    {
+      "ref": "3.11",
+      "label": "Chapter 3.11"
+    },
+    {
+      "ref": "3.12",
+      "label": "Chapter 3.12"
+    },
+    {
+      "ref": "3.13",
+      "label": "Chapter 3.13"
+    },
+    {
+      "ref": "3.14",
+      "label": "Chapter 3.14"
+    },
+    {
+      "ref": "3.15",
+      "label": "Chapter 3.15"
+    },
+    {
+      "ref": "3.16",
+      "label": "Chapter 3.16"
+    },
+    {
+      "ref": "3.17",
+      "label": "Chapter 3.17"
+    },
+    {
+      "ref": "3.18",
+      "label": "Chapter 3.18"
+    },
+    {
+      "ref": "3.19",
+      "label": "Chapter 3.19"
+    },
+    {
+      "ref": "4.1",
+      "label": "Chapter 4.1"
+    },
+    {
+      "ref": "4.2",
+      "label": "Chapter 4.2"
+    },
+    {
+      "ref": "4.3",
+      "label": "Chapter 4.3"
+    },
+    {
+      "ref": "4.4",
+      "label": "Chapter 4.4"
+    },
+    {
+      "ref": "4.5",
+      "label": "Chapter 4.5"
+    },
+    {
+      "ref": "4.6",
+      "label": "Chapter 4.6"
+    },
+    {
+      "ref": "4.7",
+      "label": "Chapter 4.7"
+    },
+    {
+      "ref": "4.8",
+      "label": "Chapter 4.8"
+    },
+    {
+      "ref": "4.9",
+      "label": "Chapter 4.9"
+    },
+    {
+      "ref": "4.10",
+      "label": "Chapter 4.10"
+    },
+    {
+      "ref": "4.11",
+      "label": "Chapter 4.11"
+    },
+    {
+      "ref": "4.12",
+      "label": "Chapter 4.12"
+    },
+    {
+      "ref": "4.13",
+      "label": "Chapter 4.13"
+    },
+    {
+      "ref": "4.14",
+      "label": "Chapter 4.14"
+    },
+    {
+      "ref": "4.15",
+      "label": "Chapter 4.15"
+    },
+    {
+      "ref": "4.16",
+      "label": "Chapter 4.16"
+    },
+    {
+      "ref": "4.17",
+      "label": "Chapter 4.17"
+    },
+    {
+      "ref": "5.1",
+      "label": "Chapter 5.1"
+    },
+    {
+      "ref": "5.2",
+      "label": "Chapter 5.2"
+    },
+    {
+      "ref": "5.3",
+      "label": "Chapter 5.3"
+    },
+    {
+      "ref": "5.4",
+      "label": "Chapter 5.4"
+    },
+    {
+      "ref": "5.5",
+      "label": "Chapter 5.5"
+    },
+    {
+      "ref": "5.6",
+      "label": "Chapter 5.6"
+    },
+    {
+      "ref": "5.7",
+      "label": "Chapter 5.7"
+    },
+    {
+      "ref": "5.8",
+      "label": "Chapter 5.8"
+    },
+    {
+      "ref": "5.9",
+      "label": "Chapter 5.9"
+    },
+    {
+      "ref": "5.10",
+      "label": "Chapter 5.10"
+    },
+    {
+      "ref": "5.11",
+      "label": "Chapter 5.11"
+    },
+    {
+      "ref": "5.12",
+      "label": "Chapter 5.12"
+    },
+    {
+      "ref": "5.13",
+      "label": "Chapter 5.13"
+    },
+    {
+      "ref": "5.14",
+      "label": "Chapter 5.14"
+    },
+    {
+      "ref": "5.15",
+      "label": "Chapter 5.15"
+    },
+    {
+      "ref": "5.16",
+      "label": "Chapter 5.16"
+    },
+    {
+      "ref": "5.17",
+      "label": "Chapter 5.17"
+    },
+    {
+      "ref": "5.18",
+      "label": "Chapter 5.18"
+    },
+    {
+      "ref": "5.19",
+      "label": "Chapter 5.19"
+    },
+    {
+      "ref": "5.20",
+      "label": "Chapter 5.20"
+    },
+    {
+      "ref": "5.21",
+      "label": "Chapter 5.21"
+    },
+    {
+      "ref": "5.22",
+      "label": "Chapter 5.22"
+    },
+    {
+      "ref": "5.23",
+      "label": "Chapter 5.23"
+    },
+    {
+      "ref": "5.24",
+      "label": "Chapter 5.24"
+    },
+    {
+      "ref": "6.1",
+      "label": "Chapter 6.1"
+    },
+    {
+      "ref": "6.2",
+      "label": "Chapter 6.2"
+    },
+    {
+      "ref": "6.3",
+      "label": "Chapter 6.3"
+    },
+    {
+      "ref": "6.4",
+      "label": "Chapter 6.4"
+    },
+    {
+      "ref": "6.5",
+      "label": "Chapter 6.5"
+    },
+    {
+      "ref": "6.6",
+      "label": "Chapter 6.6"
+    },
+    {
+      "ref": "6.7",
+      "label": "Chapter 6.7"
+    },
+    {
+      "ref": "6.8",
+      "label": "Chapter 6.8"
+    },
+    {
+      "ref": "6.9",
+      "label": "Chapter 6.9"
+    },
+    {
+      "ref": "6.10",
+      "label": "Chapter 6.10"
+    },
+    {
+      "ref": "6.11",
+      "label": "Chapter 6.11"
+    },
+    {
+      "ref": "6.12",
+      "label": "Chapter 6.12"
+    },
+    {
+      "ref": "6.13",
+      "label": "Chapter 6.13"
+    },
+    {
+      "ref": "6.14",
+      "label": "Chapter 6.14"
+    },
+    {
+      "ref": "6.15",
+      "label": "Chapter 6.15"
+    },
+    {
+      "ref": "6.16",
+      "label": "Chapter 6.16"
+    },
+    {
+      "ref": "7.1",
+      "label": "Chapter 7.1"
+    },
+    {
+      "ref": "7.2",
+      "label": "Chapter 7.2"
+    },
+    {
+      "ref": "7.3",
+      "label": "Chapter 7.3"
+    },
+    {
+      "ref": "7.4",
+      "label": "Chapter 7.4"
+    },
+    {
+      "ref": "7.5",
+      "label": "Chapter 7.5"
+    },
+    {
+      "ref": "7.6",
+      "label": "Chapter 7.6"
+    },
+    {
+      "ref": "7.7",
+      "label": "Chapter 7.7"
+    },
+    {
+      "ref": "7.8",
+      "label": "Chapter 7.8"
+    },
+    {
+      "ref": "7.9",
+      "label": "Chapter 7.9"
+    },
+    {
+      "ref": "7.10",
+      "label": "Chapter 7.10"
+    },
+    {
+      "ref": "7.11",
+      "label": "Chapter 7.11"
+    },
+    {
+      "ref": "7.12",
+      "label": "Chapter 7.12"
+    },
+    {
+      "ref": "7.13",
+      "label": "Chapter 7.13"
+    },
+    {
+      "ref": "7.14",
+      "label": "Chapter 7.14"
+    },
+    {
+      "ref": "7.15",
+      "label": "Chapter 7.15"
+    },
+    {
+      "ref": "7.16",
+      "label": "Chapter 7.16"
+    },
+    {
+      "ref": "7.17",
+      "label": "Chapter 7.17"
+    },
+    {
+      "ref": "7.18",
+      "label": "Chapter 7.18"
+    },
+    {
+      "ref": "7.19",
+      "label": "Chapter 7.19"
+    },
+    {
+      "ref": "7.20",
+      "label": "Chapter 7.20"
+    },
+    {
+      "ref": "7.21",
+      "label": "Chapter 7.21"
+    },
+    {
+      "ref": "7.22",
+      "label": "Chapter 7.22"
+    },
+    {
+      "ref": "7.23",
+      "label": "Chapter 7.23"
+    },
+    {
+      "ref": "7.24",
+      "label": "Chapter 7.24"
+    },
+    {
+      "ref": "7.25",
+      "label": "Chapter 7.25"
+    },
+    {
+      "ref": "7.26",
+      "label": "Chapter 7.26"
+    },
+    {
+      "ref": "8.1",
+      "label": "Chapter 8.1"
+    },
+    {
+      "ref": "8.2",
+      "label": "Chapter 8.2"
+    },
+    {
+      "ref": "8.3",
+      "label": "Chapter 8.3"
+    },
+    {
+      "ref": "8.4",
+      "label": "Chapter 8.4"
+    },
+    {
+      "ref": "8.5",
+      "label": "Chapter 8.5"
+    },
+    {
+      "ref": "8.6",
+      "label": "Chapter 8.6"
+    },
+    {
+      "ref": "8.7",
+      "label": "Chapter 8.7"
+    },
+    {
+      "ref": "8.8",
+      "label": "Chapter 8.8"
+    },
+    {
+      "ref": "8.9",
+      "label": "Chapter 8.9"
+    },
+    {
+      "ref": "8.10",
+      "label": "Chapter 8.10"
+    },
+    {
+      "ref": "8.11",
+      "label": "Chapter 8.11"
+    },
+    {
+      "ref": "8.12",
+      "label": "Chapter 8.12"
+    },
+    {
+      "ref": "8.13",
+      "label": "Chapter 8.13"
+    },
+    {
+      "ref": "8.14",
+      "label": "Chapter 8.14"
+    },
+    {
+      "ref": "8.15",
+      "label": "Chapter 8.15"
+    }
+  ],
+  "passages": [
+    {
+      "reference": "1.1.1",
+      "label": "Chapter 1.1 · verse 1",
+      "chapterRef": "1.1"
+    },
+    {
+      "reference": "1.1.2",
+      "label": "Chapter 1.1 · verse 2",
+      "chapterRef": "1.1"
+    },
+    {
+      "reference": "1.1.3",
+      "label": "Chapter 1.1 · verse 3",
+      "chapterRef": "1.1"
+    },
+    {
+      "reference": "1.1.4",
+      "label": "Chapter 1.1 · verse 4",
+      "chapterRef": "1.1"
+    },
+    {
+      "reference": "1.1.5",
+      "label": "Chapter 1.1 · verse 5",
+      "chapterRef": "1.1"
+    },
+    {
+      "reference": "1.1.6",
+      "label": "Chapter 1.1 · verse 6",
+      "chapterRef": "1.1"
+    },
+    {
+      "reference": "1.1.7",
+      "label": "Chapter 1.1 · verse 7",
+      "chapterRef": "1.1"
+    },
+    {
+      "reference": "1.1.8",
+      "label": "Chapter 1.1 · verse 8",
+      "chapterRef": "1.1"
+    },
+    {
+      "reference": "1.1.9",
+      "label": "Chapter 1.1 · verse 9",
+      "chapterRef": "1.1"
+    },
+    {
+      "reference": "1.1.10",
+      "label": "Chapter 1.1 · verse 10",
+      "chapterRef": "1.1"
+    },
+    {
+      "reference": "1.2.1",
+      "label": "Chapter 1.2 · verse 1",
+      "chapterRef": "1.2"
+    },
+    {
+      "reference": "1.2.2",
+      "label": "Chapter 1.2 · verse 2",
+      "chapterRef": "1.2"
+    },
+    {
+      "reference": "1.2.3",
+      "label": "Chapter 1.2 · verse 3",
+      "chapterRef": "1.2"
+    },
+    {
+      "reference": "1.2.4",
+      "label": "Chapter 1.2 · verse 4",
+      "chapterRef": "1.2"
+    },
+    {
+      "reference": "1.2.5",
+      "label": "Chapter 1.2 · verse 5",
+      "chapterRef": "1.2"
+    },
+    {
+      "reference": "1.2.6",
+      "label": "Chapter 1.2 · verse 6",
+      "chapterRef": "1.2"
+    },
+    {
+      "reference": "1.2.7",
+      "label": "Chapter 1.2 · verse 7",
+      "chapterRef": "1.2"
+    },
+    {
+      "reference": "1.2.8",
+      "label": "Chapter 1.2 · verse 8",
+      "chapterRef": "1.2"
+    },
+    {
+      "reference": "1.2.9",
+      "label": "Chapter 1.2 · verse 9",
+      "chapterRef": "1.2"
+    },
+    {
+      "reference": "1.2.10",
+      "label": "Chapter 1.2 · verse 10",
+      "chapterRef": "1.2"
+    },
+    {
+      "reference": "1.2.11",
+      "label": "Chapter 1.2 · verse 11",
+      "chapterRef": "1.2"
+    },
+    {
+      "reference": "1.2.12",
+      "label": "Chapter 1.2 · verse 12",
+      "chapterRef": "1.2"
+    },
+    {
+      "reference": "1.2.13",
+      "label": "Chapter 1.2 · verse 13",
+      "chapterRef": "1.2"
+    },
+    {
+      "reference": "1.2.14",
+      "label": "Chapter 1.2 · verse 14",
+      "chapterRef": "1.2"
+    },
+    {
+      "reference": "1.3.1",
+      "label": "Chapter 1.3 · verse 1",
+      "chapterRef": "1.3"
+    },
+    {
+      "reference": "1.3.2",
+      "label": "Chapter 1.3 · verse 2",
+      "chapterRef": "1.3"
+    },
+    {
+      "reference": "1.3.3",
+      "label": "Chapter 1.3 · verse 3",
+      "chapterRef": "1.3"
+    },
+    {
+      "reference": "1.3.4",
+      "label": "Chapter 1.3 · verse 4",
+      "chapterRef": "1.3"
+    },
+    {
+      "reference": "1.3.5",
+      "label": "Chapter 1.3 · verse 5",
+      "chapterRef": "1.3"
+    },
+    {
+      "reference": "1.3.6",
+      "label": "Chapter 1.3 · verse 6",
+      "chapterRef": "1.3"
+    },
+    {
+      "reference": "1.3.7",
+      "label": "Chapter 1.3 · verse 7",
+      "chapterRef": "1.3"
+    },
+    {
+      "reference": "1.3.8",
+      "label": "Chapter 1.3 · verse 8",
+      "chapterRef": "1.3"
+    },
+    {
+      "reference": "1.3.9",
+      "label": "Chapter 1.3 · verse 9",
+      "chapterRef": "1.3"
+    },
+    {
+      "reference": "1.3.10",
+      "label": "Chapter 1.3 · verse 10",
+      "chapterRef": "1.3"
+    },
+    {
+      "reference": "1.3.11",
+      "label": "Chapter 1.3 · verse 11",
+      "chapterRef": "1.3"
+    },
+    {
+      "reference": "1.3.12",
+      "label": "Chapter 1.3 · verse 12",
+      "chapterRef": "1.3"
+    },
+    {
+      "reference": "1.4.1",
+      "label": "Chapter 1.4 · verse 1",
+      "chapterRef": "1.4"
+    },
+    {
+      "reference": "1.4.2",
+      "label": "Chapter 1.4 · verse 2",
+      "chapterRef": "1.4"
+    },
+    {
+      "reference": "1.4.3",
+      "label": "Chapter 1.4 · verse 3",
+      "chapterRef": "1.4"
+    },
+    {
+      "reference": "1.4.4",
+      "label": "Chapter 1.4 · verse 4",
+      "chapterRef": "1.4"
+    },
+    {
+      "reference": "1.4.5",
+      "label": "Chapter 1.4 · verse 5",
+      "chapterRef": "1.4"
+    },
+    {
+      "reference": "1.5.1",
+      "label": "Chapter 1.5 · verse 1",
+      "chapterRef": "1.5"
+    },
+    {
+      "reference": "1.5.2",
+      "label": "Chapter 1.5 · verse 2",
+      "chapterRef": "1.5"
+    },
+    {
+      "reference": "1.5.3",
+      "label": "Chapter 1.5 · verse 3",
+      "chapterRef": "1.5"
+    },
+    {
+      "reference": "1.5.4",
+      "label": "Chapter 1.5 · verse 4",
+      "chapterRef": "1.5"
+    },
+    {
+      "reference": "1.5.5",
+      "label": "Chapter 1.5 · verse 5",
+      "chapterRef": "1.5"
+    },
+    {
+      "reference": "1.6.1",
+      "label": "Chapter 1.6 · verse 1",
+      "chapterRef": "1.6"
+    },
+    {
+      "reference": "1.6.2",
+      "label": "Chapter 1.6 · verse 2",
+      "chapterRef": "1.6"
+    },
+    {
+      "reference": "1.6.3",
+      "label": "Chapter 1.6 · verse 3",
+      "chapterRef": "1.6"
+    },
+    {
+      "reference": "1.6.4",
+      "label": "Chapter 1.6 · verse 4",
+      "chapterRef": "1.6"
+    },
+    {
+      "reference": "1.6.5",
+      "label": "Chapter 1.6 · verse 5",
+      "chapterRef": "1.6"
+    },
+    {
+      "reference": "1.6.6",
+      "label": "Chapter 1.6 · verse 6",
+      "chapterRef": "1.6"
+    },
+    {
+      "reference": "1.6.7",
+      "label": "Chapter 1.6 · verse 7",
+      "chapterRef": "1.6"
+    },
+    {
+      "reference": "1.6.8",
+      "label": "Chapter 1.6 · verse 8",
+      "chapterRef": "1.6"
+    },
+    {
+      "reference": "1.7.1",
+      "label": "Chapter 1.7 · verse 1",
+      "chapterRef": "1.7"
+    },
+    {
+      "reference": "1.7.2",
+      "label": "Chapter 1.7 · verse 2",
+      "chapterRef": "1.7"
+    },
+    {
+      "reference": "1.7.3",
+      "label": "Chapter 1.7 · verse 3",
+      "chapterRef": "1.7"
+    },
+    {
+      "reference": "1.7.4",
+      "label": "Chapter 1.7 · verse 4",
+      "chapterRef": "1.7"
+    },
+    {
+      "reference": "1.7.5",
+      "label": "Chapter 1.7 · verse 5",
+      "chapterRef": "1.7"
+    },
+    {
+      "reference": "1.7.6",
+      "label": "Chapter 1.7 · verse 6",
+      "chapterRef": "1.7"
+    },
+    {
+      "reference": "1.7.7",
+      "label": "Chapter 1.7 · verse 7",
+      "chapterRef": "1.7"
+    },
+    {
+      "reference": "1.7.8",
+      "label": "Chapter 1.7 · verse 8",
+      "chapterRef": "1.7"
+    },
+    {
+      "reference": "1.7.9",
+      "label": "Chapter 1.7 · verse 9",
+      "chapterRef": "1.7"
+    },
+    {
+      "reference": "1.8.1",
+      "label": "Chapter 1.8 · verse 1",
+      "chapterRef": "1.8"
+    },
+    {
+      "reference": "1.8.2",
+      "label": "Chapter 1.8 · verse 2",
+      "chapterRef": "1.8"
+    },
+    {
+      "reference": "1.8.3",
+      "label": "Chapter 1.8 · verse 3",
+      "chapterRef": "1.8"
+    },
+    {
+      "reference": "1.8.4",
+      "label": "Chapter 1.8 · verse 4",
+      "chapterRef": "1.8"
+    },
+    {
+      "reference": "1.8.5",
+      "label": "Chapter 1.8 · verse 5",
+      "chapterRef": "1.8"
+    },
+    {
+      "reference": "1.8.6",
+      "label": "Chapter 1.8 · verse 6",
+      "chapterRef": "1.8"
+    },
+    {
+      "reference": "1.8.7",
+      "label": "Chapter 1.8 · verse 7",
+      "chapterRef": "1.8"
+    },
+    {
+      "reference": "1.8.8",
+      "label": "Chapter 1.8 · verse 8",
+      "chapterRef": "1.8"
+    },
+    {
+      "reference": "1.9.1",
+      "label": "Chapter 1.9 · verse 1",
+      "chapterRef": "1.9"
+    },
+    {
+      "reference": "1.9.2",
+      "label": "Chapter 1.9 · verse 2",
+      "chapterRef": "1.9"
+    },
+    {
+      "reference": "1.9.3",
+      "label": "Chapter 1.9 · verse 3",
+      "chapterRef": "1.9"
+    },
+    {
+      "reference": "1.9.4",
+      "label": "Chapter 1.9 · verse 4",
+      "chapterRef": "1.9"
+    },
+    {
+      "reference": "1.10.1",
+      "label": "Chapter 1.10 · verse 1",
+      "chapterRef": "1.10"
+    },
+    {
+      "reference": "1.10.2",
+      "label": "Chapter 1.10 · verse 2",
+      "chapterRef": "1.10"
+    },
+    {
+      "reference": "1.10.3",
+      "label": "Chapter 1.10 · verse 3",
+      "chapterRef": "1.10"
+    },
+    {
+      "reference": "1.10.4",
+      "label": "Chapter 1.10 · verse 4",
+      "chapterRef": "1.10"
+    },
+    {
+      "reference": "1.10.5",
+      "label": "Chapter 1.10 · verse 5",
+      "chapterRef": "1.10"
+    },
+    {
+      "reference": "1.10.6",
+      "label": "Chapter 1.10 · verse 6",
+      "chapterRef": "1.10"
+    },
+    {
+      "reference": "1.10.7",
+      "label": "Chapter 1.10 · verse 7",
+      "chapterRef": "1.10"
+    },
+    {
+      "reference": "1.10.8",
+      "label": "Chapter 1.10 · verse 8",
+      "chapterRef": "1.10"
+    },
+    {
+      "reference": "1.10.9",
+      "label": "Chapter 1.10 · verse 9",
+      "chapterRef": "1.10"
+    },
+    {
+      "reference": "1.10.10",
+      "label": "Chapter 1.10 · verse 10",
+      "chapterRef": "1.10"
+    },
+    {
+      "reference": "1.10.11",
+      "label": "Chapter 1.10 · verse 11",
+      "chapterRef": "1.10"
+    },
+    {
+      "reference": "1.11.1",
+      "label": "Chapter 1.11 · verse 1",
+      "chapterRef": "1.11"
+    },
+    {
+      "reference": "1.11.2",
+      "label": "Chapter 1.11 · verse 2",
+      "chapterRef": "1.11"
+    },
+    {
+      "reference": "1.11.3",
+      "label": "Chapter 1.11 · verse 3",
+      "chapterRef": "1.11"
+    },
+    {
+      "reference": "1.11.4",
+      "label": "Chapter 1.11 · verse 4",
+      "chapterRef": "1.11"
+    },
+    {
+      "reference": "1.11.5",
+      "label": "Chapter 1.11 · verse 5",
+      "chapterRef": "1.11"
+    },
+    {
+      "reference": "1.11.6",
+      "label": "Chapter 1.11 · verse 6",
+      "chapterRef": "1.11"
+    },
+    {
+      "reference": "1.11.7",
+      "label": "Chapter 1.11 · verse 7",
+      "chapterRef": "1.11"
+    },
+    {
+      "reference": "1.11.8",
+      "label": "Chapter 1.11 · verse 8",
+      "chapterRef": "1.11"
+    },
+    {
+      "reference": "1.11.9",
+      "label": "Chapter 1.11 · verse 9",
+      "chapterRef": "1.11"
+    },
+    {
+      "reference": "1.12.1",
+      "label": "Chapter 1.12 · verse 1",
+      "chapterRef": "1.12"
+    },
+    {
+      "reference": "1.12.2",
+      "label": "Chapter 1.12 · verse 2",
+      "chapterRef": "1.12"
+    },
+    {
+      "reference": "1.12.3",
+      "label": "Chapter 1.12 · verse 3",
+      "chapterRef": "1.12"
+    },
+    {
+      "reference": "1.12.4",
+      "label": "Chapter 1.12 · verse 4",
+      "chapterRef": "1.12"
+    },
+    {
+      "reference": "1.12.5",
+      "label": "Chapter 1.12 · verse 5",
+      "chapterRef": "1.12"
+    },
+    {
+      "reference": "1.13.1",
+      "label": "Chapter 1.13 · verse 1",
+      "chapterRef": "1.13"
+    },
+    {
+      "reference": "1.13.2",
+      "label": "Chapter 1.13 · verse 2",
+      "chapterRef": "1.13"
+    },
+    {
+      "reference": "1.13.3",
+      "label": "Chapter 1.13 · verse 3",
+      "chapterRef": "1.13"
+    },
+    {
+      "reference": "1.13.4",
+      "label": "Chapter 1.13 · verse 4",
+      "chapterRef": "1.13"
+    },
+    {
+      "reference": "2.1.1",
+      "label": "Chapter 2.1 · verse 1",
+      "chapterRef": "2.1"
+    },
+    {
+      "reference": "2.1.2",
+      "label": "Chapter 2.1 · verse 2",
+      "chapterRef": "2.1"
+    },
+    {
+      "reference": "2.1.3",
+      "label": "Chapter 2.1 · verse 3",
+      "chapterRef": "2.1"
+    },
+    {
+      "reference": "2.1.4",
+      "label": "Chapter 2.1 · verse 4",
+      "chapterRef": "2.1"
+    },
+    {
+      "reference": "2.2.1",
+      "label": "Chapter 2.2 · verse 1",
+      "chapterRef": "2.2"
+    },
+    {
+      "reference": "2.2.2",
+      "label": "Chapter 2.2 · verse 2",
+      "chapterRef": "2.2"
+    },
+    {
+      "reference": "2.2.3",
+      "label": "Chapter 2.2 · verse 3",
+      "chapterRef": "2.2"
+    },
+    {
+      "reference": "2.3.1",
+      "label": "Chapter 2.3 · verse 1",
+      "chapterRef": "2.3"
+    },
+    {
+      "reference": "2.3.2",
+      "label": "Chapter 2.3 · verse 2",
+      "chapterRef": "2.3"
+    },
+    {
+      "reference": "2.4.1",
+      "label": "Chapter 2.4 · verse 1",
+      "chapterRef": "2.4"
+    },
+    {
+      "reference": "2.4.2",
+      "label": "Chapter 2.4 · verse 2",
+      "chapterRef": "2.4"
+    },
+    {
+      "reference": "2.5.1",
+      "label": "Chapter 2.5 · verse 1",
+      "chapterRef": "2.5"
+    },
+    {
+      "reference": "2.5.2",
+      "label": "Chapter 2.5 · verse 2",
+      "chapterRef": "2.5"
+    },
+    {
+      "reference": "2.6.1",
+      "label": "Chapter 2.6 · verse 1",
+      "chapterRef": "2.6"
+    },
+    {
+      "reference": "2.6.2",
+      "label": "Chapter 2.6 · verse 2",
+      "chapterRef": "2.6"
+    },
+    {
+      "reference": "2.7.1",
+      "label": "Chapter 2.7 · verse 1",
+      "chapterRef": "2.7"
+    },
+    {
+      "reference": "2.7.2",
+      "label": "Chapter 2.7 · verse 2",
+      "chapterRef": "2.7"
+    },
+    {
+      "reference": "2.8.1",
+      "label": "Chapter 2.8 · verse 1",
+      "chapterRef": "2.8"
+    },
+    {
+      "reference": "2.8.2",
+      "label": "Chapter 2.8 · verse 2",
+      "chapterRef": "2.8"
+    },
+    {
+      "reference": "2.8.3",
+      "label": "Chapter 2.8 · verse 3",
+      "chapterRef": "2.8"
+    },
+    {
+      "reference": "2.9.1",
+      "label": "Chapter 2.9 · verse 1",
+      "chapterRef": "2.9"
+    },
+    {
+      "reference": "2.9.2",
+      "label": "Chapter 2.9 · verse 2",
+      "chapterRef": "2.9"
+    },
+    {
+      "reference": "2.9.3",
+      "label": "Chapter 2.9 · verse 3",
+      "chapterRef": "2.9"
+    },
+    {
+      "reference": "2.9.4",
+      "label": "Chapter 2.9 · verse 4",
+      "chapterRef": "2.9"
+    },
+    {
+      "reference": "2.9.5",
+      "label": "Chapter 2.9 · verse 5",
+      "chapterRef": "2.9"
+    },
+    {
+      "reference": "2.9.6",
+      "label": "Chapter 2.9 · verse 6",
+      "chapterRef": "2.9"
+    },
+    {
+      "reference": "2.9.7",
+      "label": "Chapter 2.9 · verse 7",
+      "chapterRef": "2.9"
+    },
+    {
+      "reference": "2.9.8",
+      "label": "Chapter 2.9 · verse 8",
+      "chapterRef": "2.9"
+    },
+    {
+      "reference": "2.10.1",
+      "label": "Chapter 2.10 · verse 1",
+      "chapterRef": "2.10"
+    },
+    {
+      "reference": "2.10.2",
+      "label": "Chapter 2.10 · verse 2",
+      "chapterRef": "2.10"
+    },
+    {
+      "reference": "2.10.3",
+      "label": "Chapter 2.10 · verse 3",
+      "chapterRef": "2.10"
+    },
+    {
+      "reference": "2.10.4",
+      "label": "Chapter 2.10 · verse 4",
+      "chapterRef": "2.10"
+    },
+    {
+      "reference": "2.10.5",
+      "label": "Chapter 2.10 · verse 5",
+      "chapterRef": "2.10"
+    },
+    {
+      "reference": "2.10.6",
+      "label": "Chapter 2.10 · verse 6",
+      "chapterRef": "2.10"
+    },
+    {
+      "reference": "2.11.1",
+      "label": "Chapter 2.11 · verse 1",
+      "chapterRef": "2.11"
+    },
+    {
+      "reference": "2.11.2",
+      "label": "Chapter 2.11 · verse 2",
+      "chapterRef": "2.11"
+    },
+    {
+      "reference": "2.12.1",
+      "label": "Chapter 2.12 · verse 1",
+      "chapterRef": "2.12"
+    },
+    {
+      "reference": "2.12.2",
+      "label": "Chapter 2.12 · verse 2",
+      "chapterRef": "2.12"
+    },
+    {
+      "reference": "2.13.1",
+      "label": "Chapter 2.13 · verse 1",
+      "chapterRef": "2.13"
+    },
+    {
+      "reference": "2.13.2",
+      "label": "Chapter 2.13 · verse 2",
+      "chapterRef": "2.13"
+    },
+    {
+      "reference": "2.14.1",
+      "label": "Chapter 2.14 · verse 1",
+      "chapterRef": "2.14"
+    },
+    {
+      "reference": "2.14.2",
+      "label": "Chapter 2.14 · verse 2",
+      "chapterRef": "2.14"
+    },
+    {
+      "reference": "2.15.1",
+      "label": "Chapter 2.15 · verse 1",
+      "chapterRef": "2.15"
+    },
+    {
+      "reference": "2.15.2",
+      "label": "Chapter 2.15 · verse 2",
+      "chapterRef": "2.15"
+    },
+    {
+      "reference": "2.16.1",
+      "label": "Chapter 2.16 · verse 1",
+      "chapterRef": "2.16"
+    },
+    {
+      "reference": "2.16.2",
+      "label": "Chapter 2.16 · verse 2",
+      "chapterRef": "2.16"
+    },
+    {
+      "reference": "2.17.1",
+      "label": "Chapter 2.17 · verse 1",
+      "chapterRef": "2.17"
+    },
+    {
+      "reference": "2.17.2",
+      "label": "Chapter 2.17 · verse 2",
+      "chapterRef": "2.17"
+    },
+    {
+      "reference": "2.18.1",
+      "label": "Chapter 2.18 · verse 1",
+      "chapterRef": "2.18"
+    },
+    {
+      "reference": "2.18.2",
+      "label": "Chapter 2.18 · verse 2",
+      "chapterRef": "2.18"
+    },
+    {
+      "reference": "2.19.1",
+      "label": "Chapter 2.19 · verse 1",
+      "chapterRef": "2.19"
+    },
+    {
+      "reference": "2.19.2",
+      "label": "Chapter 2.19 · verse 2",
+      "chapterRef": "2.19"
+    },
+    {
+      "reference": "2.20.1",
+      "label": "Chapter 2.20 · verse 1",
+      "chapterRef": "2.20"
+    },
+    {
+      "reference": "2.20.2",
+      "label": "Chapter 2.20 · verse 2",
+      "chapterRef": "2.20"
+    },
+    {
+      "reference": "2.21.1",
+      "label": "Chapter 2.21 · verse 1",
+      "chapterRef": "2.21"
+    },
+    {
+      "reference": "2.21.2",
+      "label": "Chapter 2.21 · verse 2",
+      "chapterRef": "2.21"
+    },
+    {
+      "reference": "2.21.3",
+      "label": "Chapter 2.21 · verse 3",
+      "chapterRef": "2.21"
+    },
+    {
+      "reference": "2.21.4",
+      "label": "Chapter 2.21 · verse 4",
+      "chapterRef": "2.21"
+    },
+    {
+      "reference": "2.22.1",
+      "label": "Chapter 2.22 · verse 1",
+      "chapterRef": "2.22"
+    },
+    {
+      "reference": "2.22.2",
+      "label": "Chapter 2.22 · verse 2",
+      "chapterRef": "2.22"
+    },
+    {
+      "reference": "2.22.3",
+      "label": "Chapter 2.22 · verse 3",
+      "chapterRef": "2.22"
+    },
+    {
+      "reference": "2.22.4",
+      "label": "Chapter 2.22 · verse 4",
+      "chapterRef": "2.22"
+    },
+    {
+      "reference": "2.22.5",
+      "label": "Chapter 2.22 · verse 5",
+      "chapterRef": "2.22"
+    },
+    {
+      "reference": "2.23.1",
+      "label": "Chapter 2.23 · verse 1",
+      "chapterRef": "2.23"
+    },
+    {
+      "reference": "2.23.2",
+      "label": "Chapter 2.23 · verse 2",
+      "chapterRef": "2.23"
+    },
+    {
+      "reference": "2.23.3",
+      "label": "Chapter 2.23 · verse 3",
+      "chapterRef": "2.23"
+    },
+    {
+      "reference": "2.24.1",
+      "label": "Chapter 2.24 · verse 1",
+      "chapterRef": "2.24"
+    },
+    {
+      "reference": "2.24.2",
+      "label": "Chapter 2.24 · verse 2",
+      "chapterRef": "2.24"
+    },
+    {
+      "reference": "2.24.3",
+      "label": "Chapter 2.24 · verse 3",
+      "chapterRef": "2.24"
+    },
+    {
+      "reference": "2.24.4",
+      "label": "Chapter 2.24 · verse 4",
+      "chapterRef": "2.24"
+    },
+    {
+      "reference": "2.24.5",
+      "label": "Chapter 2.24 · verse 5",
+      "chapterRef": "2.24"
+    },
+    {
+      "reference": "2.24.6",
+      "label": "Chapter 2.24 · verse 6",
+      "chapterRef": "2.24"
+    },
+    {
+      "reference": "2.24.7",
+      "label": "Chapter 2.24 · verse 7",
+      "chapterRef": "2.24"
+    },
+    {
+      "reference": "2.24.8",
+      "label": "Chapter 2.24 · verse 8",
+      "chapterRef": "2.24"
+    },
+    {
+      "reference": "2.24.9",
+      "label": "Chapter 2.24 · verse 9",
+      "chapterRef": "2.24"
+    },
+    {
+      "reference": "2.24.10",
+      "label": "Chapter 2.24 · verse 10",
+      "chapterRef": "2.24"
+    },
+    {
+      "reference": "2.24.11",
+      "label": "Chapter 2.24 · verse 11",
+      "chapterRef": "2.24"
+    },
+    {
+      "reference": "2.24.12",
+      "label": "Chapter 2.24 · verse 12",
+      "chapterRef": "2.24"
+    },
+    {
+      "reference": "2.24.13",
+      "label": "Chapter 2.24 · verse 13",
+      "chapterRef": "2.24"
+    },
+    {
+      "reference": "2.24.14",
+      "label": "Chapter 2.24 · verse 14",
+      "chapterRef": "2.24"
+    },
+    {
+      "reference": "2.24.15",
+      "label": "Chapter 2.24 · verse 15",
+      "chapterRef": "2.24"
+    },
+    {
+      "reference": "2.24.16",
+      "label": "Chapter 2.24 · verse 16",
+      "chapterRef": "2.24"
+    },
+    {
+      "reference": "3.1.1",
+      "label": "Chapter 3.1 · verse 1",
+      "chapterRef": "3.1"
+    },
+    {
+      "reference": "3.1.2",
+      "label": "Chapter 3.1 · verse 2",
+      "chapterRef": "3.1"
+    },
+    {
+      "reference": "3.1.3",
+      "label": "Chapter 3.1 · verse 3",
+      "chapterRef": "3.1"
+    },
+    {
+      "reference": "3.1.4",
+      "label": "Chapter 3.1 · verse 4",
+      "chapterRef": "3.1"
+    },
+    {
+      "reference": "3.2.1",
+      "label": "Chapter 3.2 · verse 1",
+      "chapterRef": "3.2"
+    },
+    {
+      "reference": "3.2.2",
+      "label": "Chapter 3.2 · verse 2",
+      "chapterRef": "3.2"
+    },
+    {
+      "reference": "3.2.3",
+      "label": "Chapter 3.2 · verse 3",
+      "chapterRef": "3.2"
+    },
+    {
+      "reference": "3.3.1",
+      "label": "Chapter 3.3 · verse 1",
+      "chapterRef": "3.3"
+    },
+    {
+      "reference": "3.3.2",
+      "label": "Chapter 3.3 · verse 2",
+      "chapterRef": "3.3"
+    },
+    {
+      "reference": "3.3.3",
+      "label": "Chapter 3.3 · verse 3",
+      "chapterRef": "3.3"
+    },
+    {
+      "reference": "3.4.1",
+      "label": "Chapter 3.4 · verse 1",
+      "chapterRef": "3.4"
+    },
+    {
+      "reference": "3.4.2",
+      "label": "Chapter 3.4 · verse 2",
+      "chapterRef": "3.4"
+    },
+    {
+      "reference": "3.4.3",
+      "label": "Chapter 3.4 · verse 3",
+      "chapterRef": "3.4"
+    },
+    {
+      "reference": "3.5.1",
+      "label": "Chapter 3.5 · verse 1",
+      "chapterRef": "3.5"
+    },
+    {
+      "reference": "3.5.2",
+      "label": "Chapter 3.5 · verse 2",
+      "chapterRef": "3.5"
+    },
+    {
+      "reference": "3.5.3",
+      "label": "Chapter 3.5 · verse 3",
+      "chapterRef": "3.5"
+    },
+    {
+      "reference": "3.5.4",
+      "label": "Chapter 3.5 · verse 4",
+      "chapterRef": "3.5"
+    },
+    {
+      "reference": "3.6.1",
+      "label": "Chapter 3.6 · verse 1",
+      "chapterRef": "3.6"
+    },
+    {
+      "reference": "3.6.2",
+      "label": "Chapter 3.6 · verse 2",
+      "chapterRef": "3.6"
+    },
+    {
+      "reference": "3.6.3",
+      "label": "Chapter 3.6 · verse 3",
+      "chapterRef": "3.6"
+    },
+    {
+      "reference": "3.6.4",
+      "label": "Chapter 3.6 · verse 4",
+      "chapterRef": "3.6"
+    },
+    {
+      "reference": "3.7.1",
+      "label": "Chapter 3.7 · verse 1",
+      "chapterRef": "3.7"
+    },
+    {
+      "reference": "3.7.2",
+      "label": "Chapter 3.7 · verse 2",
+      "chapterRef": "3.7"
+    },
+    {
+      "reference": "3.7.3",
+      "label": "Chapter 3.7 · verse 3",
+      "chapterRef": "3.7"
+    },
+    {
+      "reference": "3.7.4",
+      "label": "Chapter 3.7 · verse 4",
+      "chapterRef": "3.7"
+    },
+    {
+      "reference": "3.8.1",
+      "label": "Chapter 3.8 · verse 1",
+      "chapterRef": "3.8"
+    },
+    {
+      "reference": "3.8.2",
+      "label": "Chapter 3.8 · verse 2",
+      "chapterRef": "3.8"
+    },
+    {
+      "reference": "3.8.3",
+      "label": "Chapter 3.8 · verse 3",
+      "chapterRef": "3.8"
+    },
+    {
+      "reference": "3.8.4",
+      "label": "Chapter 3.8 · verse 4",
+      "chapterRef": "3.8"
+    },
+    {
+      "reference": "3.9.1",
+      "label": "Chapter 3.9 · verse 1",
+      "chapterRef": "3.9"
+    },
+    {
+      "reference": "3.9.2",
+      "label": "Chapter 3.9 · verse 2",
+      "chapterRef": "3.9"
+    },
+    {
+      "reference": "3.9.3",
+      "label": "Chapter 3.9 · verse 3",
+      "chapterRef": "3.9"
+    },
+    {
+      "reference": "3.9.4",
+      "label": "Chapter 3.9 · verse 4",
+      "chapterRef": "3.9"
+    },
+    {
+      "reference": "3.10.1",
+      "label": "Chapter 3.10 · verse 1",
+      "chapterRef": "3.10"
+    },
+    {
+      "reference": "3.10.2",
+      "label": "Chapter 3.10 · verse 2",
+      "chapterRef": "3.10"
+    },
+    {
+      "reference": "3.10.3",
+      "label": "Chapter 3.10 · verse 3",
+      "chapterRef": "3.10"
+    },
+    {
+      "reference": "3.10.4",
+      "label": "Chapter 3.10 · verse 4",
+      "chapterRef": "3.10"
+    },
+    {
+      "reference": "3.11.1",
+      "label": "Chapter 3.11 · verse 1",
+      "chapterRef": "3.11"
+    },
+    {
+      "reference": "3.11.2",
+      "label": "Chapter 3.11 · verse 2",
+      "chapterRef": "3.11"
+    },
+    {
+      "reference": "3.11.3",
+      "label": "Chapter 3.11 · verse 3",
+      "chapterRef": "3.11"
+    },
+    {
+      "reference": "3.11.4",
+      "label": "Chapter 3.11 · verse 4",
+      "chapterRef": "3.11"
+    },
+    {
+      "reference": "3.11.5",
+      "label": "Chapter 3.11 · verse 5",
+      "chapterRef": "3.11"
+    },
+    {
+      "reference": "3.11.6",
+      "label": "Chapter 3.11 · verse 6",
+      "chapterRef": "3.11"
+    },
+    {
+      "reference": "3.12.1",
+      "label": "Chapter 3.12 · verse 1",
+      "chapterRef": "3.12"
+    },
+    {
+      "reference": "3.12.2",
+      "label": "Chapter 3.12 · verse 2",
+      "chapterRef": "3.12"
+    },
+    {
+      "reference": "3.12.3",
+      "label": "Chapter 3.12 · verse 3",
+      "chapterRef": "3.12"
+    },
+    {
+      "reference": "3.12.4",
+      "label": "Chapter 3.12 · verse 4",
+      "chapterRef": "3.12"
+    },
+    {
+      "reference": "3.12.5",
+      "label": "Chapter 3.12 · verse 5",
+      "chapterRef": "3.12"
+    },
+    {
+      "reference": "3.12.6",
+      "label": "Chapter 3.12 · verse 6",
+      "chapterRef": "3.12"
+    },
+    {
+      "reference": "3.12.7",
+      "label": "Chapter 3.12 · verse 7",
+      "chapterRef": "3.12"
+    },
+    {
+      "reference": "3.12.8",
+      "label": "Chapter 3.12 · verse 8",
+      "chapterRef": "3.12"
+    },
+    {
+      "reference": "3.12.9",
+      "label": "Chapter 3.12 · verse 9",
+      "chapterRef": "3.12"
+    },
+    {
+      "reference": "3.13.1",
+      "label": "Chapter 3.13 · verse 1",
+      "chapterRef": "3.13"
+    },
+    {
+      "reference": "3.13.2",
+      "label": "Chapter 3.13 · verse 2",
+      "chapterRef": "3.13"
+    },
+    {
+      "reference": "3.13.3",
+      "label": "Chapter 3.13 · verse 3",
+      "chapterRef": "3.13"
+    },
+    {
+      "reference": "3.13.4",
+      "label": "Chapter 3.13 · verse 4",
+      "chapterRef": "3.13"
+    },
+    {
+      "reference": "3.13.5",
+      "label": "Chapter 3.13 · verse 5",
+      "chapterRef": "3.13"
+    },
+    {
+      "reference": "3.13.6",
+      "label": "Chapter 3.13 · verse 6",
+      "chapterRef": "3.13"
+    },
+    {
+      "reference": "3.13.7",
+      "label": "Chapter 3.13 · verse 7",
+      "chapterRef": "3.13"
+    },
+    {
+      "reference": "3.13.8",
+      "label": "Chapter 3.13 · verse 8",
+      "chapterRef": "3.13"
+    },
+    {
+      "reference": "3.14.1",
+      "label": "Chapter 3.14 · verse 1",
+      "chapterRef": "3.14"
+    },
+    {
+      "reference": "3.14.2",
+      "label": "Chapter 3.14 · verse 2",
+      "chapterRef": "3.14"
+    },
+    {
+      "reference": "3.14.3",
+      "label": "Chapter 3.14 · verse 3",
+      "chapterRef": "3.14"
+    },
+    {
+      "reference": "3.14.4",
+      "label": "Chapter 3.14 · verse 4",
+      "chapterRef": "3.14"
+    },
+    {
+      "reference": "3.15.1",
+      "label": "Chapter 3.15 · verse 1",
+      "chapterRef": "3.15"
+    },
+    {
+      "reference": "3.15.2",
+      "label": "Chapter 3.15 · verse 2",
+      "chapterRef": "3.15"
+    },
+    {
+      "reference": "3.15.3",
+      "label": "Chapter 3.15 · verse 3",
+      "chapterRef": "3.15"
+    },
+    {
+      "reference": "3.15.4",
+      "label": "Chapter 3.15 · verse 4",
+      "chapterRef": "3.15"
+    },
+    {
+      "reference": "3.15.5",
+      "label": "Chapter 3.15 · verse 5",
+      "chapterRef": "3.15"
+    },
+    {
+      "reference": "3.15.6",
+      "label": "Chapter 3.15 · verse 6",
+      "chapterRef": "3.15"
+    },
+    {
+      "reference": "3.15.7",
+      "label": "Chapter 3.15 · verse 7",
+      "chapterRef": "3.15"
+    },
+    {
+      "reference": "3.16.1",
+      "label": "Chapter 3.16 · verse 1",
+      "chapterRef": "3.16"
+    },
+    {
+      "reference": "3.16.2",
+      "label": "Chapter 3.16 · verse 2",
+      "chapterRef": "3.16"
+    },
+    {
+      "reference": "3.16.3",
+      "label": "Chapter 3.16 · verse 3",
+      "chapterRef": "3.16"
+    },
+    {
+      "reference": "3.16.4",
+      "label": "Chapter 3.16 · verse 4",
+      "chapterRef": "3.16"
+    },
+    {
+      "reference": "3.16.5",
+      "label": "Chapter 3.16 · verse 5",
+      "chapterRef": "3.16"
+    },
+    {
+      "reference": "3.16.6",
+      "label": "Chapter 3.16 · verse 6",
+      "chapterRef": "3.16"
+    },
+    {
+      "reference": "3.16.7",
+      "label": "Chapter 3.16 · verse 7",
+      "chapterRef": "3.16"
+    },
+    {
+      "reference": "3.17.1",
+      "label": "Chapter 3.17 · verse 1",
+      "chapterRef": "3.17"
+    },
+    {
+      "reference": "3.17.2",
+      "label": "Chapter 3.17 · verse 2",
+      "chapterRef": "3.17"
+    },
+    {
+      "reference": "3.17.3",
+      "label": "Chapter 3.17 · verse 3",
+      "chapterRef": "3.17"
+    },
+    {
+      "reference": "3.17.4",
+      "label": "Chapter 3.17 · verse 4",
+      "chapterRef": "3.17"
+    },
+    {
+      "reference": "3.17.5",
+      "label": "Chapter 3.17 · verse 5",
+      "chapterRef": "3.17"
+    },
+    {
+      "reference": "3.17.6",
+      "label": "Chapter 3.17 · verse 6",
+      "chapterRef": "3.17"
+    },
+    {
+      "reference": "3.17.7",
+      "label": "Chapter 3.17 · verse 7",
+      "chapterRef": "3.17"
+    },
+    {
+      "reference": "3.18.1",
+      "label": "Chapter 3.18 · verse 1",
+      "chapterRef": "3.18"
+    },
+    {
+      "reference": "3.18.2",
+      "label": "Chapter 3.18 · verse 2",
+      "chapterRef": "3.18"
+    },
+    {
+      "reference": "3.18.3",
+      "label": "Chapter 3.18 · verse 3",
+      "chapterRef": "3.18"
+    },
+    {
+      "reference": "3.18.4",
+      "label": "Chapter 3.18 · verse 4",
+      "chapterRef": "3.18"
+    },
+    {
+      "reference": "3.18.5",
+      "label": "Chapter 3.18 · verse 5",
+      "chapterRef": "3.18"
+    },
+    {
+      "reference": "3.18.6",
+      "label": "Chapter 3.18 · verse 6",
+      "chapterRef": "3.18"
+    },
+    {
+      "reference": "3.19.1",
+      "label": "Chapter 3.19 · verse 1",
+      "chapterRef": "3.19"
+    },
+    {
+      "reference": "3.19.2",
+      "label": "Chapter 3.19 · verse 2",
+      "chapterRef": "3.19"
+    },
+    {
+      "reference": "3.19.3",
+      "label": "Chapter 3.19 · verse 3",
+      "chapterRef": "3.19"
+    },
+    {
+      "reference": "3.19.4",
+      "label": "Chapter 3.19 · verse 4",
+      "chapterRef": "3.19"
+    },
+    {
+      "reference": "4.1.1",
+      "label": "Chapter 4.1 · verse 1",
+      "chapterRef": "4.1"
+    },
+    {
+      "reference": "4.1.2",
+      "label": "Chapter 4.1 · verse 2",
+      "chapterRef": "4.1"
+    },
+    {
+      "reference": "4.1.3",
+      "label": "Chapter 4.1 · verse 3",
+      "chapterRef": "4.1"
+    },
+    {
+      "reference": "4.1.4",
+      "label": "Chapter 4.1 · verse 4",
+      "chapterRef": "4.1"
+    },
+    {
+      "reference": "4.1.5",
+      "label": "Chapter 4.1 · verse 5",
+      "chapterRef": "4.1"
+    },
+    {
+      "reference": "4.1.6",
+      "label": "Chapter 4.1 · verse 6",
+      "chapterRef": "4.1"
+    },
+    {
+      "reference": "4.1.7",
+      "label": "Chapter 4.1 · verse 7",
+      "chapterRef": "4.1"
+    },
+    {
+      "reference": "4.1.8",
+      "label": "Chapter 4.1 · verse 8",
+      "chapterRef": "4.1"
+    },
+    {
+      "reference": "4.2.1",
+      "label": "Chapter 4.2 · verse 1",
+      "chapterRef": "4.2"
+    },
+    {
+      "reference": "4.2.2",
+      "label": "Chapter 4.2 · verse 2",
+      "chapterRef": "4.2"
+    },
+    {
+      "reference": "4.2.3",
+      "label": "Chapter 4.2 · verse 3",
+      "chapterRef": "4.2"
+    },
+    {
+      "reference": "4.2.4",
+      "label": "Chapter 4.2 · verse 4",
+      "chapterRef": "4.2"
+    },
+    {
+      "reference": "4.2.5",
+      "label": "Chapter 4.2 · verse 5",
+      "chapterRef": "4.2"
+    },
+    {
+      "reference": "4.3.1",
+      "label": "Chapter 4.3 · verse 1",
+      "chapterRef": "4.3"
+    },
+    {
+      "reference": "4.3.2",
+      "label": "Chapter 4.3 · verse 2",
+      "chapterRef": "4.3"
+    },
+    {
+      "reference": "4.3.3",
+      "label": "Chapter 4.3 · verse 3",
+      "chapterRef": "4.3"
+    },
+    {
+      "reference": "4.3.4",
+      "label": "Chapter 4.3 · verse 4",
+      "chapterRef": "4.3"
+    },
+    {
+      "reference": "4.3.5",
+      "label": "Chapter 4.3 · verse 5",
+      "chapterRef": "4.3"
+    },
+    {
+      "reference": "4.3.6",
+      "label": "Chapter 4.3 · verse 6",
+      "chapterRef": "4.3"
+    },
+    {
+      "reference": "4.3.7",
+      "label": "Chapter 4.3 · verse 7",
+      "chapterRef": "4.3"
+    },
+    {
+      "reference": "4.3.8",
+      "label": "Chapter 4.3 · verse 8",
+      "chapterRef": "4.3"
+    },
+    {
+      "reference": "4.4.1",
+      "label": "Chapter 4.4 · verse 1",
+      "chapterRef": "4.4"
+    },
+    {
+      "reference": "4.4.2",
+      "label": "Chapter 4.4 · verse 2",
+      "chapterRef": "4.4"
+    },
+    {
+      "reference": "4.4.3",
+      "label": "Chapter 4.4 · verse 3",
+      "chapterRef": "4.4"
+    },
+    {
+      "reference": "4.4.4",
+      "label": "Chapter 4.4 · verse 4",
+      "chapterRef": "4.4"
+    },
+    {
+      "reference": "4.4.5",
+      "label": "Chapter 4.4 · verse 5",
+      "chapterRef": "4.4"
+    },
+    {
+      "reference": "4.5.1",
+      "label": "Chapter 4.5 · verse 1",
+      "chapterRef": "4.5"
+    },
+    {
+      "reference": "4.5.2",
+      "label": "Chapter 4.5 · verse 2",
+      "chapterRef": "4.5"
+    },
+    {
+      "reference": "4.5.3",
+      "label": "Chapter 4.5 · verse 3",
+      "chapterRef": "4.5"
+    },
+    {
+      "reference": "4.6.1",
+      "label": "Chapter 4.6 · verse 1",
+      "chapterRef": "4.6"
+    },
+    {
+      "reference": "4.6.2",
+      "label": "Chapter 4.6 · verse 2",
+      "chapterRef": "4.6"
+    },
+    {
+      "reference": "4.6.3",
+      "label": "Chapter 4.6 · verse 3",
+      "chapterRef": "4.6"
+    },
+    {
+      "reference": "4.6.4",
+      "label": "Chapter 4.6 · verse 4",
+      "chapterRef": "4.6"
+    },
+    {
+      "reference": "4.7.1",
+      "label": "Chapter 4.7 · verse 1",
+      "chapterRef": "4.7"
+    },
+    {
+      "reference": "4.7.2",
+      "label": "Chapter 4.7 · verse 2",
+      "chapterRef": "4.7"
+    },
+    {
+      "reference": "4.7.3",
+      "label": "Chapter 4.7 · verse 3",
+      "chapterRef": "4.7"
+    },
+    {
+      "reference": "4.7.4",
+      "label": "Chapter 4.7 · verse 4",
+      "chapterRef": "4.7"
+    },
+    {
+      "reference": "4.8.1",
+      "label": "Chapter 4.8 · verse 1",
+      "chapterRef": "4.8"
+    },
+    {
+      "reference": "4.8.2",
+      "label": "Chapter 4.8 · verse 2",
+      "chapterRef": "4.8"
+    },
+    {
+      "reference": "4.8.3",
+      "label": "Chapter 4.8 · verse 3",
+      "chapterRef": "4.8"
+    },
+    {
+      "reference": "4.8.4",
+      "label": "Chapter 4.8 · verse 4",
+      "chapterRef": "4.8"
+    },
+    {
+      "reference": "4.9.1",
+      "label": "Chapter 4.9 · verse 1",
+      "chapterRef": "4.9"
+    },
+    {
+      "reference": "4.9.2",
+      "label": "Chapter 4.9 · verse 2",
+      "chapterRef": "4.9"
+    },
+    {
+      "reference": "4.9.3",
+      "label": "Chapter 4.9 · verse 3",
+      "chapterRef": "4.9"
+    },
+    {
+      "reference": "4.10.1",
+      "label": "Chapter 4.10 · verse 1",
+      "chapterRef": "4.10"
+    },
+    {
+      "reference": "4.10.2",
+      "label": "Chapter 4.10 · verse 2",
+      "chapterRef": "4.10"
+    },
+    {
+      "reference": "4.10.3",
+      "label": "Chapter 4.10 · verse 3",
+      "chapterRef": "4.10"
+    },
+    {
+      "reference": "4.10.4",
+      "label": "Chapter 4.10 · verse 4",
+      "chapterRef": "4.10"
+    },
+    {
+      "reference": "4.10.5",
+      "label": "Chapter 4.10 · verse 5",
+      "chapterRef": "4.10"
+    },
+    {
+      "reference": "4.11.1",
+      "label": "Chapter 4.11 · verse 1",
+      "chapterRef": "4.11"
+    },
+    {
+      "reference": "4.11.2",
+      "label": "Chapter 4.11 · verse 2",
+      "chapterRef": "4.11"
+    },
+    {
+      "reference": "4.12.1",
+      "label": "Chapter 4.12 · verse 1",
+      "chapterRef": "4.12"
+    },
+    {
+      "reference": "4.12.2",
+      "label": "Chapter 4.12 · verse 2",
+      "chapterRef": "4.12"
+    },
+    {
+      "reference": "4.13.1",
+      "label": "Chapter 4.13 · verse 1",
+      "chapterRef": "4.13"
+    },
+    {
+      "reference": "4.13.2",
+      "label": "Chapter 4.13 · verse 2",
+      "chapterRef": "4.13"
+    },
+    {
+      "reference": "4.14.1",
+      "label": "Chapter 4.14 · verse 1",
+      "chapterRef": "4.14"
+    },
+    {
+      "reference": "4.14.2",
+      "label": "Chapter 4.14 · verse 2",
+      "chapterRef": "4.14"
+    },
+    {
+      "reference": "4.14.3",
+      "label": "Chapter 4.14 · verse 3",
+      "chapterRef": "4.14"
+    },
+    {
+      "reference": "4.15.1",
+      "label": "Chapter 4.15 · verse 1",
+      "chapterRef": "4.15"
+    },
+    {
+      "reference": "4.15.2",
+      "label": "Chapter 4.15 · verse 2",
+      "chapterRef": "4.15"
+    },
+    {
+      "reference": "4.15.3",
+      "label": "Chapter 4.15 · verse 3",
+      "chapterRef": "4.15"
+    },
+    {
+      "reference": "4.15.4",
+      "label": "Chapter 4.15 · verse 4",
+      "chapterRef": "4.15"
+    },
+    {
+      "reference": "4.15.5",
+      "label": "Chapter 4.15 · verse 5",
+      "chapterRef": "4.15"
+    },
+    {
+      "reference": "4.16.1",
+      "label": "Chapter 4.16 · verse 1",
+      "chapterRef": "4.16"
+    },
+    {
+      "reference": "4.16.2",
+      "label": "Chapter 4.16 · verse 2",
+      "chapterRef": "4.16"
+    },
+    {
+      "reference": "4.16.3",
+      "label": "Chapter 4.16 · verse 3",
+      "chapterRef": "4.16"
+    },
+    {
+      "reference": "4.16.4",
+      "label": "Chapter 4.16 · verse 4",
+      "chapterRef": "4.16"
+    },
+    {
+      "reference": "4.16.5",
+      "label": "Chapter 4.16 · verse 5",
+      "chapterRef": "4.16"
+    },
+    {
+      "reference": "4.17.1",
+      "label": "Chapter 4.17 · verse 1",
+      "chapterRef": "4.17"
+    },
+    {
+      "reference": "4.17.2",
+      "label": "Chapter 4.17 · verse 2",
+      "chapterRef": "4.17"
+    },
+    {
+      "reference": "4.17.3",
+      "label": "Chapter 4.17 · verse 3",
+      "chapterRef": "4.17"
+    },
+    {
+      "reference": "4.17.4",
+      "label": "Chapter 4.17 · verse 4",
+      "chapterRef": "4.17"
+    },
+    {
+      "reference": "4.17.5",
+      "label": "Chapter 4.17 · verse 5",
+      "chapterRef": "4.17"
+    },
+    {
+      "reference": "4.17.6",
+      "label": "Chapter 4.17 · verse 6",
+      "chapterRef": "4.17"
+    },
+    {
+      "reference": "4.17.7",
+      "label": "Chapter 4.17 · verse 7",
+      "chapterRef": "4.17"
+    },
+    {
+      "reference": "4.17.8",
+      "label": "Chapter 4.17 · verse 8",
+      "chapterRef": "4.17"
+    },
+    {
+      "reference": "4.17.9",
+      "label": "Chapter 4.17 · verse 9",
+      "chapterRef": "4.17"
+    },
+    {
+      "reference": "4.17.10",
+      "label": "Chapter 4.17 · verse 10",
+      "chapterRef": "4.17"
+    },
+    {
+      "reference": "5.1.1",
+      "label": "Chapter 5.1 · verse 1",
+      "chapterRef": "5.1"
+    },
+    {
+      "reference": "5.1.2",
+      "label": "Chapter 5.1 · verse 2",
+      "chapterRef": "5.1"
+    },
+    {
+      "reference": "5.1.3",
+      "label": "Chapter 5.1 · verse 3",
+      "chapterRef": "5.1"
+    },
+    {
+      "reference": "5.1.4",
+      "label": "Chapter 5.1 · verse 4",
+      "chapterRef": "5.1"
+    },
+    {
+      "reference": "5.1.5",
+      "label": "Chapter 5.1 · verse 5",
+      "chapterRef": "5.1"
+    },
+    {
+      "reference": "5.1.6",
+      "label": "Chapter 5.1 · verse 6",
+      "chapterRef": "5.1"
+    },
+    {
+      "reference": "5.1.7",
+      "label": "Chapter 5.1 · verse 7",
+      "chapterRef": "5.1"
+    },
+    {
+      "reference": "5.1.8",
+      "label": "Chapter 5.1 · verse 8",
+      "chapterRef": "5.1"
+    },
+    {
+      "reference": "5.1.9",
+      "label": "Chapter 5.1 · verse 9",
+      "chapterRef": "5.1"
+    },
+    {
+      "reference": "5.1.10",
+      "label": "Chapter 5.1 · verse 10",
+      "chapterRef": "5.1"
+    },
+    {
+      "reference": "5.1.11",
+      "label": "Chapter 5.1 · verse 11",
+      "chapterRef": "5.1"
+    },
+    {
+      "reference": "5.1.12",
+      "label": "Chapter 5.1 · verse 12",
+      "chapterRef": "5.1"
+    },
+    {
+      "reference": "5.1.13",
+      "label": "Chapter 5.1 · verse 13",
+      "chapterRef": "5.1"
+    },
+    {
+      "reference": "5.1.14",
+      "label": "Chapter 5.1 · verse 14",
+      "chapterRef": "5.1"
+    },
+    {
+      "reference": "5.1.15",
+      "label": "Chapter 5.1 · verse 15",
+      "chapterRef": "5.1"
+    },
+    {
+      "reference": "5.2.1",
+      "label": "Chapter 5.2 · verse 1",
+      "chapterRef": "5.2"
+    },
+    {
+      "reference": "5.2.2",
+      "label": "Chapter 5.2 · verse 2",
+      "chapterRef": "5.2"
+    },
+    {
+      "reference": "5.2.3",
+      "label": "Chapter 5.2 · verse 3",
+      "chapterRef": "5.2"
+    },
+    {
+      "reference": "5.2.4",
+      "label": "Chapter 5.2 · verse 4",
+      "chapterRef": "5.2"
+    },
+    {
+      "reference": "5.2.5",
+      "label": "Chapter 5.2 · verse 5",
+      "chapterRef": "5.2"
+    },
+    {
+      "reference": "5.2.6",
+      "label": "Chapter 5.2 · verse 6",
+      "chapterRef": "5.2"
+    },
+    {
+      "reference": "5.2.7",
+      "label": "Chapter 5.2 · verse 7",
+      "chapterRef": "5.2"
+    },
+    {
+      "reference": "5.2.8",
+      "label": "Chapter 5.2 · verse 8",
+      "chapterRef": "5.2"
+    },
+    {
+      "reference": "5.3.1",
+      "label": "Chapter 5.3 · verse 1",
+      "chapterRef": "5.3"
+    },
+    {
+      "reference": "5.3.2",
+      "label": "Chapter 5.3 · verse 2",
+      "chapterRef": "5.3"
+    },
+    {
+      "reference": "5.3.3",
+      "label": "Chapter 5.3 · verse 3",
+      "chapterRef": "5.3"
+    },
+    {
+      "reference": "5.3.4",
+      "label": "Chapter 5.3 · verse 4",
+      "chapterRef": "5.3"
+    },
+    {
+      "reference": "5.3.5",
+      "label": "Chapter 5.3 · verse 5",
+      "chapterRef": "5.3"
+    },
+    {
+      "reference": "5.3.6",
+      "label": "Chapter 5.3 · verse 6",
+      "chapterRef": "5.3"
+    },
+    {
+      "reference": "5.3.7",
+      "label": "Chapter 5.3 · verse 7",
+      "chapterRef": "5.3"
+    },
+    {
+      "reference": "5.4.1",
+      "label": "Chapter 5.4 · verse 1",
+      "chapterRef": "5.4"
+    },
+    {
+      "reference": "5.4.2",
+      "label": "Chapter 5.4 · verse 2",
+      "chapterRef": "5.4"
+    },
+    {
+      "reference": "5.5.1",
+      "label": "Chapter 5.5 · verse 1",
+      "chapterRef": "5.5"
+    },
+    {
+      "reference": "5.5.2",
+      "label": "Chapter 5.5 · verse 2",
+      "chapterRef": "5.5"
+    },
+    {
+      "reference": "5.6.1",
+      "label": "Chapter 5.6 · verse 1",
+      "chapterRef": "5.6"
+    },
+    {
+      "reference": "5.6.2",
+      "label": "Chapter 5.6 · verse 2",
+      "chapterRef": "5.6"
+    },
+    {
+      "reference": "5.7.1",
+      "label": "Chapter 5.7 · verse 1",
+      "chapterRef": "5.7"
+    },
+    {
+      "reference": "5.7.2",
+      "label": "Chapter 5.7 · verse 2",
+      "chapterRef": "5.7"
+    },
+    {
+      "reference": "5.8.1",
+      "label": "Chapter 5.8 · verse 1",
+      "chapterRef": "5.8"
+    },
+    {
+      "reference": "5.8.2",
+      "label": "Chapter 5.8 · verse 2",
+      "chapterRef": "5.8"
+    },
+    {
+      "reference": "5.9.1",
+      "label": "Chapter 5.9 · verse 1",
+      "chapterRef": "5.9"
+    },
+    {
+      "reference": "5.9.2",
+      "label": "Chapter 5.9 · verse 2",
+      "chapterRef": "5.9"
+    },
+    {
+      "reference": "5.10.1",
+      "label": "Chapter 5.10 · verse 1",
+      "chapterRef": "5.10"
+    },
+    {
+      "reference": "5.10.2",
+      "label": "Chapter 5.10 · verse 2",
+      "chapterRef": "5.10"
+    },
+    {
+      "reference": "5.10.3",
+      "label": "Chapter 5.10 · verse 3",
+      "chapterRef": "5.10"
+    },
+    {
+      "reference": "5.10.4",
+      "label": "Chapter 5.10 · verse 4",
+      "chapterRef": "5.10"
+    },
+    {
+      "reference": "5.10.5",
+      "label": "Chapter 5.10 · verse 5",
+      "chapterRef": "5.10"
+    },
+    {
+      "reference": "5.10.6",
+      "label": "Chapter 5.10 · verse 6",
+      "chapterRef": "5.10"
+    },
+    {
+      "reference": "5.10.7",
+      "label": "Chapter 5.10 · verse 7",
+      "chapterRef": "5.10"
+    },
+    {
+      "reference": "5.10.8",
+      "label": "Chapter 5.10 · verse 8",
+      "chapterRef": "5.10"
+    },
+    {
+      "reference": "5.10.9",
+      "label": "Chapter 5.10 · verse 9",
+      "chapterRef": "5.10"
+    },
+    {
+      "reference": "5.10.10",
+      "label": "Chapter 5.10 · verse 10",
+      "chapterRef": "5.10"
+    },
+    {
+      "reference": "5.11.1",
+      "label": "Chapter 5.11 · verse 1",
+      "chapterRef": "5.11"
+    },
+    {
+      "reference": "5.11.2",
+      "label": "Chapter 5.11 · verse 2",
+      "chapterRef": "5.11"
+    },
+    {
+      "reference": "5.11.3",
+      "label": "Chapter 5.11 · verse 3",
+      "chapterRef": "5.11"
+    },
+    {
+      "reference": "5.11.4",
+      "label": "Chapter 5.11 · verse 4",
+      "chapterRef": "5.11"
+    },
+    {
+      "reference": "5.11.5",
+      "label": "Chapter 5.11 · verse 5",
+      "chapterRef": "5.11"
+    },
+    {
+      "reference": "5.11.6",
+      "label": "Chapter 5.11 · verse 6",
+      "chapterRef": "5.11"
+    },
+    {
+      "reference": "5.11.7",
+      "label": "Chapter 5.11 · verse 7",
+      "chapterRef": "5.11"
+    },
+    {
+      "reference": "5.12.1",
+      "label": "Chapter 5.12 · verse 1",
+      "chapterRef": "5.12"
+    },
+    {
+      "reference": "5.12.2",
+      "label": "Chapter 5.12 · verse 2",
+      "chapterRef": "5.12"
+    },
+    {
+      "reference": "5.13.1",
+      "label": "Chapter 5.13 · verse 1",
+      "chapterRef": "5.13"
+    },
+    {
+      "reference": "5.13.2",
+      "label": "Chapter 5.13 · verse 2",
+      "chapterRef": "5.13"
+    },
+    {
+      "reference": "5.14.1",
+      "label": "Chapter 5.14 · verse 1",
+      "chapterRef": "5.14"
+    },
+    {
+      "reference": "5.14.2",
+      "label": "Chapter 5.14 · verse 2",
+      "chapterRef": "5.14"
+    },
+    {
+      "reference": "5.15.1",
+      "label": "Chapter 5.15 · verse 1",
+      "chapterRef": "5.15"
+    },
+    {
+      "reference": "5.15.2",
+      "label": "Chapter 5.15 · verse 2",
+      "chapterRef": "5.15"
+    },
+    {
+      "reference": "5.16.1",
+      "label": "Chapter 5.16 · verse 1",
+      "chapterRef": "5.16"
+    },
+    {
+      "reference": "5.16.2",
+      "label": "Chapter 5.16 · verse 2",
+      "chapterRef": "5.16"
+    },
+    {
+      "reference": "5.17.1",
+      "label": "Chapter 5.17 · verse 1",
+      "chapterRef": "5.17"
+    },
+    {
+      "reference": "5.17.2",
+      "label": "Chapter 5.17 · verse 2",
+      "chapterRef": "5.17"
+    },
+    {
+      "reference": "5.18.1",
+      "label": "Chapter 5.18 · verse 1",
+      "chapterRef": "5.18"
+    },
+    {
+      "reference": "5.18.2",
+      "label": "Chapter 5.18 · verse 2",
+      "chapterRef": "5.18"
+    },
+    {
+      "reference": "5.19.1",
+      "label": "Chapter 5.19 · verse 1",
+      "chapterRef": "5.19"
+    },
+    {
+      "reference": "5.19.2",
+      "label": "Chapter 5.19 · verse 2",
+      "chapterRef": "5.19"
+    },
+    {
+      "reference": "5.20.1",
+      "label": "Chapter 5.20 · verse 1",
+      "chapterRef": "5.20"
+    },
+    {
+      "reference": "5.20.2",
+      "label": "Chapter 5.20 · verse 2",
+      "chapterRef": "5.20"
+    },
+    {
+      "reference": "5.21.1",
+      "label": "Chapter 5.21 · verse 1",
+      "chapterRef": "5.21"
+    },
+    {
+      "reference": "5.21.2",
+      "label": "Chapter 5.21 · verse 2",
+      "chapterRef": "5.21"
+    },
+    {
+      "reference": "5.22.1",
+      "label": "Chapter 5.22 · verse 1",
+      "chapterRef": "5.22"
+    },
+    {
+      "reference": "5.22.2",
+      "label": "Chapter 5.22 · verse 2",
+      "chapterRef": "5.22"
+    },
+    {
+      "reference": "5.23.1",
+      "label": "Chapter 5.23 · verse 1",
+      "chapterRef": "5.23"
+    },
+    {
+      "reference": "5.23.2",
+      "label": "Chapter 5.23 · verse 2",
+      "chapterRef": "5.23"
+    },
+    {
+      "reference": "5.24.1",
+      "label": "Chapter 5.24 · verse 1",
+      "chapterRef": "5.24"
+    },
+    {
+      "reference": "5.24.2",
+      "label": "Chapter 5.24 · verse 2",
+      "chapterRef": "5.24"
+    },
+    {
+      "reference": "5.24.3",
+      "label": "Chapter 5.24 · verse 3",
+      "chapterRef": "5.24"
+    },
+    {
+      "reference": "5.24.4",
+      "label": "Chapter 5.24 · verse 4",
+      "chapterRef": "5.24"
+    },
+    {
+      "reference": "5.24.5",
+      "label": "Chapter 5.24 · verse 5",
+      "chapterRef": "5.24"
+    },
+    {
+      "reference": "6.1.1",
+      "label": "Chapter 6.1 · verse 1",
+      "chapterRef": "6.1"
+    },
+    {
+      "reference": "6.1.2",
+      "label": "Chapter 6.1 · verse 2",
+      "chapterRef": "6.1"
+    },
+    {
+      "reference": "6.1.3",
+      "label": "Chapter 6.1 · verse 3",
+      "chapterRef": "6.1"
+    },
+    {
+      "reference": "6.1.4",
+      "label": "Chapter 6.1 · verse 4",
+      "chapterRef": "6.1"
+    },
+    {
+      "reference": "6.1.5",
+      "label": "Chapter 6.1 · verse 5",
+      "chapterRef": "6.1"
+    },
+    {
+      "reference": "6.1.6",
+      "label": "Chapter 6.1 · verse 6",
+      "chapterRef": "6.1"
+    },
+    {
+      "reference": "6.1.7",
+      "label": "Chapter 6.1 · verse 7",
+      "chapterRef": "6.1"
+    },
+    {
+      "reference": "6.2.1",
+      "label": "Chapter 6.2 · verse 1",
+      "chapterRef": "6.2"
+    },
+    {
+      "reference": "6.2.2",
+      "label": "Chapter 6.2 · verse 2",
+      "chapterRef": "6.2"
+    },
+    {
+      "reference": "6.2.3",
+      "label": "Chapter 6.2 · verse 3",
+      "chapterRef": "6.2"
+    },
+    {
+      "reference": "6.2.4",
+      "label": "Chapter 6.2 · verse 4",
+      "chapterRef": "6.2"
+    },
+    {
+      "reference": "6.3.1",
+      "label": "Chapter 6.3 · verse 1",
+      "chapterRef": "6.3"
+    },
+    {
+      "reference": "6.3.2",
+      "label": "Chapter 6.3 · verse 2",
+      "chapterRef": "6.3"
+    },
+    {
+      "reference": "6.3.3",
+      "label": "Chapter 6.3 · verse 3",
+      "chapterRef": "6.3"
+    },
+    {
+      "reference": "6.3.4",
+      "label": "Chapter 6.3 · verse 4",
+      "chapterRef": "6.3"
+    },
+    {
+      "reference": "6.4.1",
+      "label": "Chapter 6.4 · verse 1",
+      "chapterRef": "6.4"
+    },
+    {
+      "reference": "6.4.2",
+      "label": "Chapter 6.4 · verse 2",
+      "chapterRef": "6.4"
+    },
+    {
+      "reference": "6.4.3",
+      "label": "Chapter 6.4 · verse 3",
+      "chapterRef": "6.4"
+    },
+    {
+      "reference": "6.4.4",
+      "label": "Chapter 6.4 · verse 4",
+      "chapterRef": "6.4"
+    },
+    {
+      "reference": "6.4.5",
+      "label": "Chapter 6.4 · verse 5",
+      "chapterRef": "6.4"
+    },
+    {
+      "reference": "6.4.6",
+      "label": "Chapter 6.4 · verse 6",
+      "chapterRef": "6.4"
+    },
+    {
+      "reference": "6.4.7",
+      "label": "Chapter 6.4 · verse 7",
+      "chapterRef": "6.4"
+    },
+    {
+      "reference": "6.5.1",
+      "label": "Chapter 6.5 · verse 1",
+      "chapterRef": "6.5"
+    },
+    {
+      "reference": "6.5.2",
+      "label": "Chapter 6.5 · verse 2",
+      "chapterRef": "6.5"
+    },
+    {
+      "reference": "6.5.3",
+      "label": "Chapter 6.5 · verse 3",
+      "chapterRef": "6.5"
+    },
+    {
+      "reference": "6.5.4",
+      "label": "Chapter 6.5 · verse 4",
+      "chapterRef": "6.5"
+    },
+    {
+      "reference": "6.6.1",
+      "label": "Chapter 6.6 · verse 1",
+      "chapterRef": "6.6"
+    },
+    {
+      "reference": "6.6.2",
+      "label": "Chapter 6.6 · verse 2",
+      "chapterRef": "6.6"
+    },
+    {
+      "reference": "6.6.3",
+      "label": "Chapter 6.6 · verse 3",
+      "chapterRef": "6.6"
+    },
+    {
+      "reference": "6.6.4",
+      "label": "Chapter 6.6 · verse 4",
+      "chapterRef": "6.6"
+    },
+    {
+      "reference": "6.6.5",
+      "label": "Chapter 6.6 · verse 5",
+      "chapterRef": "6.6"
+    },
+    {
+      "reference": "6.7.1",
+      "label": "Chapter 6.7 · verse 1",
+      "chapterRef": "6.7"
+    },
+    {
+      "reference": "6.7.2",
+      "label": "Chapter 6.7 · verse 2",
+      "chapterRef": "6.7"
+    },
+    {
+      "reference": "6.7.3",
+      "label": "Chapter 6.7 · verse 3",
+      "chapterRef": "6.7"
+    },
+    {
+      "reference": "6.7.4",
+      "label": "Chapter 6.7 · verse 4",
+      "chapterRef": "6.7"
+    },
+    {
+      "reference": "6.7.5",
+      "label": "Chapter 6.7 · verse 5",
+      "chapterRef": "6.7"
+    },
+    {
+      "reference": "6.7.6",
+      "label": "Chapter 6.7 · verse 6",
+      "chapterRef": "6.7"
+    },
+    {
+      "reference": "6.8.1",
+      "label": "Chapter 6.8 · verse 1",
+      "chapterRef": "6.8"
+    },
+    {
+      "reference": "6.8.2",
+      "label": "Chapter 6.8 · verse 2",
+      "chapterRef": "6.8"
+    },
+    {
+      "reference": "6.8.3",
+      "label": "Chapter 6.8 · verse 3",
+      "chapterRef": "6.8"
+    },
+    {
+      "reference": "6.8.4",
+      "label": "Chapter 6.8 · verse 4",
+      "chapterRef": "6.8"
+    },
+    {
+      "reference": "6.8.5",
+      "label": "Chapter 6.8 · verse 5",
+      "chapterRef": "6.8"
+    },
+    {
+      "reference": "6.8.6",
+      "label": "Chapter 6.8 · verse 6",
+      "chapterRef": "6.8"
+    },
+    {
+      "reference": "6.8.7",
+      "label": "Chapter 6.8 · verse 7",
+      "chapterRef": "6.8"
+    },
+    {
+      "reference": "6.9.1",
+      "label": "Chapter 6.9 · verse 1",
+      "chapterRef": "6.9"
+    },
+    {
+      "reference": "6.9.2",
+      "label": "Chapter 6.9 · verse 2",
+      "chapterRef": "6.9"
+    },
+    {
+      "reference": "6.9.3",
+      "label": "Chapter 6.9 · verse 3",
+      "chapterRef": "6.9"
+    },
+    {
+      "reference": "6.9.4",
+      "label": "Chapter 6.9 · verse 4",
+      "chapterRef": "6.9"
+    },
+    {
+      "reference": "6.10.1",
+      "label": "Chapter 6.10 · verse 1",
+      "chapterRef": "6.10"
+    },
+    {
+      "reference": "6.10.2",
+      "label": "Chapter 6.10 · verse 2",
+      "chapterRef": "6.10"
+    },
+    {
+      "reference": "6.10.3",
+      "label": "Chapter 6.10 · verse 3",
+      "chapterRef": "6.10"
+    },
+    {
+      "reference": "6.11.1",
+      "label": "Chapter 6.11 · verse 1",
+      "chapterRef": "6.11"
+    },
+    {
+      "reference": "6.11.2",
+      "label": "Chapter 6.11 · verse 2",
+      "chapterRef": "6.11"
+    },
+    {
+      "reference": "6.11.3",
+      "label": "Chapter 6.11 · verse 3",
+      "chapterRef": "6.11"
+    },
+    {
+      "reference": "6.12.1",
+      "label": "Chapter 6.12 · verse 1",
+      "chapterRef": "6.12"
+    },
+    {
+      "reference": "6.12.2",
+      "label": "Chapter 6.12 · verse 2",
+      "chapterRef": "6.12"
+    },
+    {
+      "reference": "6.12.3",
+      "label": "Chapter 6.12 · verse 3",
+      "chapterRef": "6.12"
+    },
+    {
+      "reference": "6.13.1",
+      "label": "Chapter 6.13 · verse 1",
+      "chapterRef": "6.13"
+    },
+    {
+      "reference": "6.13.2",
+      "label": "Chapter 6.13 · verse 2",
+      "chapterRef": "6.13"
+    },
+    {
+      "reference": "6.13.3",
+      "label": "Chapter 6.13 · verse 3",
+      "chapterRef": "6.13"
+    },
+    {
+      "reference": "6.13.4",
+      "label": "Chapter 6.13 · verse 4",
+      "chapterRef": "6.13"
+    },
+    {
+      "reference": "6.13.5",
+      "label": "Chapter 6.13 · verse 5",
+      "chapterRef": "6.13"
+    },
+    {
+      "reference": "6.13.6",
+      "label": "Chapter 6.13 · verse 6",
+      "chapterRef": "6.13"
+    },
+    {
+      "reference": "6.14.1",
+      "label": "Chapter 6.14 · verse 1",
+      "chapterRef": "6.14"
+    },
+    {
+      "reference": "6.14.2",
+      "label": "Chapter 6.14 · verse 2",
+      "chapterRef": "6.14"
+    },
+    {
+      "reference": "6.14.3",
+      "label": "Chapter 6.14 · verse 3",
+      "chapterRef": "6.14"
+    },
+    {
+      "reference": "6.15.1",
+      "label": "Chapter 6.15 · verse 1",
+      "chapterRef": "6.15"
+    },
+    {
+      "reference": "6.15.2",
+      "label": "Chapter 6.15 · verse 2",
+      "chapterRef": "6.15"
+    },
+    {
+      "reference": "6.15.3",
+      "label": "Chapter 6.15 · verse 3",
+      "chapterRef": "6.15"
+    },
+    {
+      "reference": "6.16.1",
+      "label": "Chapter 6.16 · verse 1",
+      "chapterRef": "6.16"
+    },
+    {
+      "reference": "6.16.2",
+      "label": "Chapter 6.16 · verse 2",
+      "chapterRef": "6.16"
+    },
+    {
+      "reference": "6.16.3",
+      "label": "Chapter 6.16 · verse 3",
+      "chapterRef": "6.16"
+    },
+    {
+      "reference": "7.1.1",
+      "label": "Chapter 7.1 · verse 1",
+      "chapterRef": "7.1"
+    },
+    {
+      "reference": "7.1.2",
+      "label": "Chapter 7.1 · verse 2",
+      "chapterRef": "7.1"
+    },
+    {
+      "reference": "7.1.3",
+      "label": "Chapter 7.1 · verse 3",
+      "chapterRef": "7.1"
+    },
+    {
+      "reference": "7.1.4",
+      "label": "Chapter 7.1 · verse 4",
+      "chapterRef": "7.1"
+    },
+    {
+      "reference": "7.1.5",
+      "label": "Chapter 7.1 · verse 5",
+      "chapterRef": "7.1"
+    },
+    {
+      "reference": "7.2.1",
+      "label": "Chapter 7.2 · verse 1",
+      "chapterRef": "7.2"
+    },
+    {
+      "reference": "7.2.2",
+      "label": "Chapter 7.2 · verse 2",
+      "chapterRef": "7.2"
+    },
+    {
+      "reference": "7.3.1",
+      "label": "Chapter 7.3 · verse 1",
+      "chapterRef": "7.3"
+    },
+    {
+      "reference": "7.3.2",
+      "label": "Chapter 7.3 · verse 2",
+      "chapterRef": "7.3"
+    },
+    {
+      "reference": "7.4.1",
+      "label": "Chapter 7.4 · verse 1",
+      "chapterRef": "7.4"
+    },
+    {
+      "reference": "7.4.2",
+      "label": "Chapter 7.4 · verse 2",
+      "chapterRef": "7.4"
+    },
+    {
+      "reference": "7.4.3",
+      "label": "Chapter 7.4 · verse 3",
+      "chapterRef": "7.4"
+    },
+    {
+      "reference": "7.5.1",
+      "label": "Chapter 7.5 · verse 1",
+      "chapterRef": "7.5"
+    },
+    {
+      "reference": "7.5.2",
+      "label": "Chapter 7.5 · verse 2",
+      "chapterRef": "7.5"
+    },
+    {
+      "reference": "7.5.3",
+      "label": "Chapter 7.5 · verse 3",
+      "chapterRef": "7.5"
+    },
+    {
+      "reference": "7.6.1",
+      "label": "Chapter 7.6 · verse 1",
+      "chapterRef": "7.6"
+    },
+    {
+      "reference": "7.6.2",
+      "label": "Chapter 7.6 · verse 2",
+      "chapterRef": "7.6"
+    },
+    {
+      "reference": "7.7.1",
+      "label": "Chapter 7.7 · verse 1",
+      "chapterRef": "7.7"
+    },
+    {
+      "reference": "7.7.2",
+      "label": "Chapter 7.7 · verse 2",
+      "chapterRef": "7.7"
+    },
+    {
+      "reference": "7.8.1",
+      "label": "Chapter 7.8 · verse 1",
+      "chapterRef": "7.8"
+    },
+    {
+      "reference": "7.8.2",
+      "label": "Chapter 7.8 · verse 2",
+      "chapterRef": "7.8"
+    },
+    {
+      "reference": "7.9.1",
+      "label": "Chapter 7.9 · verse 1",
+      "chapterRef": "7.9"
+    },
+    {
+      "reference": "7.9.2",
+      "label": "Chapter 7.9 · verse 2",
+      "chapterRef": "7.9"
+    },
+    {
+      "reference": "7.10.1",
+      "label": "Chapter 7.10 · verse 1",
+      "chapterRef": "7.10"
+    },
+    {
+      "reference": "7.10.2",
+      "label": "Chapter 7.10 · verse 2",
+      "chapterRef": "7.10"
+    },
+    {
+      "reference": "7.11.1",
+      "label": "Chapter 7.11 · verse 1",
+      "chapterRef": "7.11"
+    },
+    {
+      "reference": "7.11.2",
+      "label": "Chapter 7.11 · verse 2",
+      "chapterRef": "7.11"
+    },
+    {
+      "reference": "7.12.1",
+      "label": "Chapter 7.12 · verse 1",
+      "chapterRef": "7.12"
+    },
+    {
+      "reference": "7.12.2",
+      "label": "Chapter 7.12 · verse 2",
+      "chapterRef": "7.12"
+    },
+    {
+      "reference": "7.13.1",
+      "label": "Chapter 7.13 · verse 1",
+      "chapterRef": "7.13"
+    },
+    {
+      "reference": "7.13.2",
+      "label": "Chapter 7.13 · verse 2",
+      "chapterRef": "7.13"
+    },
+    {
+      "reference": "7.14.1",
+      "label": "Chapter 7.14 · verse 1",
+      "chapterRef": "7.14"
+    },
+    {
+      "reference": "7.14.2",
+      "label": "Chapter 7.14 · verse 2",
+      "chapterRef": "7.14"
+    },
+    {
+      "reference": "7.15.1",
+      "label": "Chapter 7.15 · verse 1",
+      "chapterRef": "7.15"
+    },
+    {
+      "reference": "7.15.2",
+      "label": "Chapter 7.15 · verse 2",
+      "chapterRef": "7.15"
+    },
+    {
+      "reference": "7.15.3",
+      "label": "Chapter 7.15 · verse 3",
+      "chapterRef": "7.15"
+    },
+    {
+      "reference": "7.15.4",
+      "label": "Chapter 7.15 · verse 4",
+      "chapterRef": "7.15"
+    },
+    {
+      "reference": "7.16.1",
+      "label": "Chapter 7.16 · verse 1",
+      "chapterRef": "7.16"
+    },
+    {
+      "reference": "7.17.1",
+      "label": "Chapter 7.17 · verse 1",
+      "chapterRef": "7.17"
+    },
+    {
+      "reference": "7.18.1",
+      "label": "Chapter 7.18 · verse 1",
+      "chapterRef": "7.18"
+    },
+    {
+      "reference": "7.19.1",
+      "label": "Chapter 7.19 · verse 1",
+      "chapterRef": "7.19"
+    },
+    {
+      "reference": "7.20.1",
+      "label": "Chapter 7.20 · verse 1",
+      "chapterRef": "7.20"
+    },
+    {
+      "reference": "7.21.1",
+      "label": "Chapter 7.21 · verse 1",
+      "chapterRef": "7.21"
+    },
+    {
+      "reference": "7.22.1",
+      "label": "Chapter 7.22 · verse 1",
+      "chapterRef": "7.22"
+    },
+    {
+      "reference": "7.23.1",
+      "label": "Chapter 7.23 · verse 1",
+      "chapterRef": "7.23"
+    },
+    {
+      "reference": "7.24.1",
+      "label": "Chapter 7.24 · verse 1",
+      "chapterRef": "7.24"
+    },
+    {
+      "reference": "7.24.2",
+      "label": "Chapter 7.24 · verse 2",
+      "chapterRef": "7.24"
+    },
+    {
+      "reference": "7.25.1",
+      "label": "Chapter 7.25 · verse 1",
+      "chapterRef": "7.25"
+    },
+    {
+      "reference": "7.25.2",
+      "label": "Chapter 7.25 · verse 2",
+      "chapterRef": "7.25"
+    },
+    {
+      "reference": "7.26.1",
+      "label": "Chapter 7.26 · verse 1",
+      "chapterRef": "7.26"
+    },
+    {
+      "reference": "7.26.2",
+      "label": "Chapter 7.26 · verse 2",
+      "chapterRef": "7.26"
+    },
+    {
+      "reference": "8.1.1",
+      "label": "Chapter 8.1 · verse 1",
+      "chapterRef": "8.1"
+    },
+    {
+      "reference": "8.1.2",
+      "label": "Chapter 8.1 · verse 2",
+      "chapterRef": "8.1"
+    },
+    {
+      "reference": "8.1.3",
+      "label": "Chapter 8.1 · verse 3",
+      "chapterRef": "8.1"
+    },
+    {
+      "reference": "8.1.4",
+      "label": "Chapter 8.1 · verse 4",
+      "chapterRef": "8.1"
+    },
+    {
+      "reference": "8.1.5",
+      "label": "Chapter 8.1 · verse 5",
+      "chapterRef": "8.1"
+    },
+    {
+      "reference": "8.1.6",
+      "label": "Chapter 8.1 · verse 6",
+      "chapterRef": "8.1"
+    },
+    {
+      "reference": "8.2.1",
+      "label": "Chapter 8.2 · verse 1",
+      "chapterRef": "8.2"
+    },
+    {
+      "reference": "8.2.2",
+      "label": "Chapter 8.2 · verse 2",
+      "chapterRef": "8.2"
+    },
+    {
+      "reference": "8.2.3",
+      "label": "Chapter 8.2 · verse 3",
+      "chapterRef": "8.2"
+    },
+    {
+      "reference": "8.2.4",
+      "label": "Chapter 8.2 · verse 4",
+      "chapterRef": "8.2"
+    },
+    {
+      "reference": "8.2.5",
+      "label": "Chapter 8.2 · verse 5",
+      "chapterRef": "8.2"
+    },
+    {
+      "reference": "8.2.6",
+      "label": "Chapter 8.2 · verse 6",
+      "chapterRef": "8.2"
+    },
+    {
+      "reference": "8.2.7",
+      "label": "Chapter 8.2 · verse 7",
+      "chapterRef": "8.2"
+    },
+    {
+      "reference": "8.2.8",
+      "label": "Chapter 8.2 · verse 8",
+      "chapterRef": "8.2"
+    },
+    {
+      "reference": "8.2.9",
+      "label": "Chapter 8.2 · verse 9",
+      "chapterRef": "8.2"
+    },
+    {
+      "reference": "8.2.10",
+      "label": "Chapter 8.2 · verse 10",
+      "chapterRef": "8.2"
+    },
+    {
+      "reference": "8.3.1",
+      "label": "Chapter 8.3 · verse 1",
+      "chapterRef": "8.3"
+    },
+    {
+      "reference": "8.3.2",
+      "label": "Chapter 8.3 · verse 2",
+      "chapterRef": "8.3"
+    },
+    {
+      "reference": "8.3.3",
+      "label": "Chapter 8.3 · verse 3",
+      "chapterRef": "8.3"
+    },
+    {
+      "reference": "8.3.4",
+      "label": "Chapter 8.3 · verse 4",
+      "chapterRef": "8.3"
+    },
+    {
+      "reference": "8.3.5",
+      "label": "Chapter 8.3 · verse 5",
+      "chapterRef": "8.3"
+    },
+    {
+      "reference": "8.4.1",
+      "label": "Chapter 8.4 · verse 1",
+      "chapterRef": "8.4"
+    },
+    {
+      "reference": "8.4.2",
+      "label": "Chapter 8.4 · verse 2",
+      "chapterRef": "8.4"
+    },
+    {
+      "reference": "8.4.3",
+      "label": "Chapter 8.4 · verse 3",
+      "chapterRef": "8.4"
+    },
+    {
+      "reference": "8.5.1",
+      "label": "Chapter 8.5 · verse 1",
+      "chapterRef": "8.5"
+    },
+    {
+      "reference": "8.5.2",
+      "label": "Chapter 8.5 · verse 2",
+      "chapterRef": "8.5"
+    },
+    {
+      "reference": "8.5.3",
+      "label": "Chapter 8.5 · verse 3",
+      "chapterRef": "8.5"
+    },
+    {
+      "reference": "8.5.4",
+      "label": "Chapter 8.5 · verse 4",
+      "chapterRef": "8.5"
+    },
+    {
+      "reference": "8.6.1",
+      "label": "Chapter 8.6 · verse 1",
+      "chapterRef": "8.6"
+    },
+    {
+      "reference": "8.6.2",
+      "label": "Chapter 8.6 · verse 2",
+      "chapterRef": "8.6"
+    },
+    {
+      "reference": "8.6.3",
+      "label": "Chapter 8.6 · verse 3",
+      "chapterRef": "8.6"
+    },
+    {
+      "reference": "8.6.4",
+      "label": "Chapter 8.6 · verse 4",
+      "chapterRef": "8.6"
+    },
+    {
+      "reference": "8.6.5",
+      "label": "Chapter 8.6 · verse 5",
+      "chapterRef": "8.6"
+    },
+    {
+      "reference": "8.6.6",
+      "label": "Chapter 8.6 · verse 6",
+      "chapterRef": "8.6"
+    },
+    {
+      "reference": "8.7.1",
+      "label": "Chapter 8.7 · verse 1",
+      "chapterRef": "8.7"
+    },
+    {
+      "reference": "8.7.2",
+      "label": "Chapter 8.7 · verse 2",
+      "chapterRef": "8.7"
+    },
+    {
+      "reference": "8.7.3",
+      "label": "Chapter 8.7 · verse 3",
+      "chapterRef": "8.7"
+    },
+    {
+      "reference": "8.7.4",
+      "label": "Chapter 8.7 · verse 4",
+      "chapterRef": "8.7"
+    },
+    {
+      "reference": "8.8.1",
+      "label": "Chapter 8.8 · verse 1",
+      "chapterRef": "8.8"
+    },
+    {
+      "reference": "8.8.2",
+      "label": "Chapter 8.8 · verse 2",
+      "chapterRef": "8.8"
+    },
+    {
+      "reference": "8.8.3",
+      "label": "Chapter 8.8 · verse 3",
+      "chapterRef": "8.8"
+    },
+    {
+      "reference": "8.8.4",
+      "label": "Chapter 8.8 · verse 4",
+      "chapterRef": "8.8"
+    },
+    {
+      "reference": "8.8.5",
+      "label": "Chapter 8.8 · verse 5",
+      "chapterRef": "8.8"
+    },
+    {
+      "reference": "8.9.1",
+      "label": "Chapter 8.9 · verse 1",
+      "chapterRef": "8.9"
+    },
+    {
+      "reference": "8.9.2",
+      "label": "Chapter 8.9 · verse 2",
+      "chapterRef": "8.9"
+    },
+    {
+      "reference": "8.9.3",
+      "label": "Chapter 8.9 · verse 3",
+      "chapterRef": "8.9"
+    },
+    {
+      "reference": "8.10.1",
+      "label": "Chapter 8.10 · verse 1",
+      "chapterRef": "8.10"
+    },
+    {
+      "reference": "8.10.2",
+      "label": "Chapter 8.10 · verse 2",
+      "chapterRef": "8.10"
+    },
+    {
+      "reference": "8.10.3",
+      "label": "Chapter 8.10 · verse 3",
+      "chapterRef": "8.10"
+    },
+    {
+      "reference": "8.10.4",
+      "label": "Chapter 8.10 · verse 4",
+      "chapterRef": "8.10"
+    },
+    {
+      "reference": "8.11.1",
+      "label": "Chapter 8.11 · verse 1",
+      "chapterRef": "8.11"
+    },
+    {
+      "reference": "8.11.2",
+      "label": "Chapter 8.11 · verse 2",
+      "chapterRef": "8.11"
+    },
+    {
+      "reference": "8.11.3",
+      "label": "Chapter 8.11 · verse 3",
+      "chapterRef": "8.11"
+    },
+    {
+      "reference": "8.12.1",
+      "label": "Chapter 8.12 · verse 1",
+      "chapterRef": "8.12"
+    },
+    {
+      "reference": "8.12.2",
+      "label": "Chapter 8.12 · verse 2",
+      "chapterRef": "8.12"
+    },
+    {
+      "reference": "8.12.3",
+      "label": "Chapter 8.12 · verse 3",
+      "chapterRef": "8.12"
+    },
+    {
+      "reference": "8.12.4",
+      "label": "Chapter 8.12 · verse 4",
+      "chapterRef": "8.12"
+    },
+    {
+      "reference": "8.12.5",
+      "label": "Chapter 8.12 · verse 5",
+      "chapterRef": "8.12"
+    },
+    {
+      "reference": "8.12.6",
+      "label": "Chapter 8.12 · verse 6",
+      "chapterRef": "8.12"
+    },
+    {
+      "reference": "8.13.1",
+      "label": "Chapter 8.13 · verse 1",
+      "chapterRef": "8.13"
+    },
+    {
+      "reference": "8.14.1",
+      "label": "Chapter 8.14 · verse 1",
+      "chapterRef": "8.14"
+    },
+    {
+      "reference": "8.15.1",
+      "label": "Chapter 8.15 · verse 1",
+      "chapterRef": "8.15"
+    }
+  ],
+  "editions": [
+    {
+      "slug": "chandogya-upanishad-chu-sa",
+      "language": "sa",
+      "editionType": "original",
+      "title": "Chandogya Upanishad (Heritage Scripture Server transcription)",
+      "translator": "",
+      "publisher": "Heritage IITKanpur, Heritage Scripture Server",
+      "publicationYear": null,
+      "source": "gita-supersite",
+      "license": "hcal-1-1",
+      "rightsStatus": "Tier A (the moolam and its transliterations): no modern copyright, freely redistributable. Where the API serves Tier B — the Sanskrit bhāṣya and the AI-generated, community and editorially authored translations — it is displayed non-commercially with attribution and is not relicensed here. Tier C, the authoritative modern-language translations and commentaries, is not served by the API and is not imported.",
+      "attributionText": "Chandogya Upanishad. Accessed via Heritage Scripture Server (heritage.iitk.ac.in), licence HCAL-1.1. Source: https://heritage.iitk.ac.in/CHU",
+      "structureScheme": "chapter and verse, as the server's own sections and verse addresses divide the text",
+      "isSample": false,
+      "notes": "The verse index was built from the server's published verse addresses. The verses themselves are fetched from the API at read time and are shown with the licence's attribution; the licence identifier and any watermark the server returns are left in place."
+    }
+  ]
+}

@@ -1,0 +1,4055 @@
+{
+  "slug": "udana",
+  "title": "The Udāna",
+  "originalTitle": "उदान",
+  "transliteration": "Udāna",
+  "altTitles": [
+    "The Solemn Utterances of the Buddha",
+    "Udana"
+  ],
+  "tradition": "buddhism",
+  "school": "theravada",
+  "genre": "Scripture",
+  "textType": "Inspired utterances",
+  "category": "Sutta",
+  "subcategory": "Khuddaka Nikāya",
+  "originalLanguage": "pi",
+  "dateStart": -300,
+  "dateEnd": -100,
+  "dateDisplay": "Verses c. 3rd–2nd century BCE; commentary c. 5th century CE",
+  "authorshipStatus": "anonymous",
+  "author": "",
+  "attributionNote": "The Udāna is a canonical collection without an author. Its eighty discourses are ascribed to the Buddha and were assembled by the early Buddhist community; the verse at the end of each discourse is the udāna, the solemn utterance that gives the book its name.",
+  "description": "The Udāna gathers eighty short discourses in eight chapters, each closing with a verse the Buddha is said to have spoken on that occasion. The subjects are the whole range of the early teaching: the chain of dependent origination under the Bodhi tree, the monk who cannot be shaken by Māra, the leper Suppabuddha, the quarrelsome monks of Kosambī, the blind men and the elephant, and the Buddha's refusal to name a successor. It is one of the most quoted books of the Pali canon, and its stories are among the oldest surviving Buddhist narratives.",
+  "historicalContext": "The Udāna belongs to the Khuddaka Nikāya, the miscellaneous collection of the Pali canon, and its oldest verses go back to the oral period. Major-General G. M. Strong's translation, published in London in 1902, was the first complete English Udāna and remains the version the archive carries, with the translator's notes on Pali terms and on the commentarial tradition.",
+  "availabilityNote": "Complete. All eight chapters and eighty discourses of Strong's translation are streamed from the Internet Sacred Text Archive at read time, one chapter (vagga) per chapter. The volume's title page, preface and introduction are not part of the work; the footnotes printed on each page are kept.",
+  "featured": false,
+  "featuredNote": "",
+  "refScheme": "chapter.paragraph",
+  "isSample": false,
+  "textStorage": "streamed",
+  "chapters": [
+    {
+      "ref": "1",
+      "label": "The Enlightenment"
+    },
+    {
+      "ref": "2",
+      "label": "Mucilinda"
+    },
+    {
+      "ref": "3",
+      "label": "Nanda"
+    },
+    {
+      "ref": "4",
+      "label": "Meghiya"
+    },
+    {
+      "ref": "5",
+      "label": "Sona Thera"
+    },
+    {
+      "ref": "6",
+      "label": "Jaccandha"
+    },
+    {
+      "ref": "7",
+      "label": "Cula"
+    },
+    {
+      "ref": "8",
+      "label": "Patalagami"
+    }
+  ],
+  "passages": [
+    {
+      "reference": "1.1",
+      "label": "The Enlightenment §1",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.2",
+      "label": "The Enlightenment §2",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.3",
+      "label": "The Enlightenment §3",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.4",
+      "label": "The Enlightenment §4",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.5",
+      "label": "The Enlightenment §5",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.6",
+      "label": "The Enlightenment §6",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.7",
+      "label": "The Enlightenment §7",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.8",
+      "label": "The Enlightenment §8",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.9",
+      "label": "The Enlightenment §9",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.10",
+      "label": "The Enlightenment §10",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.11",
+      "label": "The Enlightenment §11",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.12",
+      "label": "The Enlightenment §12",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.13",
+      "label": "The Enlightenment §13",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.14",
+      "label": "The Enlightenment §14",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.15",
+      "label": "The Enlightenment §15",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.16",
+      "label": "The Enlightenment §16",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.17",
+      "label": "The Enlightenment §17",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.18",
+      "label": "The Enlightenment §18",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.19",
+      "label": "The Enlightenment §19",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.20",
+      "label": "The Enlightenment §20",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.21",
+      "label": "The Enlightenment §21",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.22",
+      "label": "The Enlightenment §22",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.23",
+      "label": "The Enlightenment §23",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.24",
+      "label": "The Enlightenment §24",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.25",
+      "label": "The Enlightenment §25",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.26",
+      "label": "The Enlightenment §26",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.27",
+      "label": "The Enlightenment §27",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.28",
+      "label": "The Enlightenment §28",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.29",
+      "label": "The Enlightenment §29",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.30",
+      "label": "The Enlightenment §30",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.31",
+      "label": "The Enlightenment §31",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.32",
+      "label": "The Enlightenment §32",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.33",
+      "label": "The Enlightenment §33",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.34",
+      "label": "The Enlightenment §34",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.35",
+      "label": "The Enlightenment §35",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.36",
+      "label": "The Enlightenment §36",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.37",
+      "label": "The Enlightenment §37",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.38",
+      "label": "The Enlightenment §38",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.39",
+      "label": "The Enlightenment §39",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.40",
+      "label": "The Enlightenment §40",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.41",
+      "label": "The Enlightenment §41",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.42",
+      "label": "The Enlightenment §42",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.43",
+      "label": "The Enlightenment §43",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.44",
+      "label": "The Enlightenment §44",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.45",
+      "label": "The Enlightenment §45",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.46",
+      "label": "The Enlightenment §46",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.47",
+      "label": "The Enlightenment §47",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.48",
+      "label": "The Enlightenment §48",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "2.1",
+      "label": "Mucilinda §1",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.2",
+      "label": "Mucilinda §2",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.3",
+      "label": "Mucilinda §3",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.4",
+      "label": "Mucilinda §4",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.5",
+      "label": "Mucilinda §5",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.6",
+      "label": "Mucilinda §6",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.7",
+      "label": "Mucilinda §7",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.8",
+      "label": "Mucilinda §8",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.9",
+      "label": "Mucilinda §9",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.10",
+      "label": "Mucilinda §10",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.11",
+      "label": "Mucilinda §11",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.12",
+      "label": "Mucilinda §12",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.13",
+      "label": "Mucilinda §13",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.14",
+      "label": "Mucilinda §14",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.15",
+      "label": "Mucilinda §15",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.16",
+      "label": "Mucilinda §16",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.17",
+      "label": "Mucilinda §17",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.18",
+      "label": "Mucilinda §18",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.19",
+      "label": "Mucilinda §19",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.20",
+      "label": "Mucilinda §20",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.21",
+      "label": "Mucilinda §21",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.22",
+      "label": "Mucilinda §22",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.23",
+      "label": "Mucilinda §23",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.24",
+      "label": "Mucilinda §24",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.25",
+      "label": "Mucilinda §25",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.26",
+      "label": "Mucilinda §26",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.27",
+      "label": "Mucilinda §27",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.28",
+      "label": "Mucilinda §28",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.29",
+      "label": "Mucilinda §29",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.30",
+      "label": "Mucilinda §30",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.31",
+      "label": "Mucilinda §31",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.32",
+      "label": "Mucilinda §32",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.33",
+      "label": "Mucilinda §33",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.34",
+      "label": "Mucilinda §34",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.35",
+      "label": "Mucilinda §35",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.36",
+      "label": "Mucilinda §36",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.37",
+      "label": "Mucilinda §37",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.38",
+      "label": "Mucilinda §38",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.39",
+      "label": "Mucilinda §39",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.40",
+      "label": "Mucilinda §40",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.41",
+      "label": "Mucilinda §41",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.42",
+      "label": "Mucilinda §42",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.43",
+      "label": "Mucilinda §43",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.44",
+      "label": "Mucilinda §44",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.45",
+      "label": "Mucilinda §45",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.46",
+      "label": "Mucilinda §46",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.47",
+      "label": "Mucilinda §47",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.48",
+      "label": "Mucilinda §48",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.49",
+      "label": "Mucilinda §49",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.50",
+      "label": "Mucilinda §50",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.51",
+      "label": "Mucilinda §51",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.52",
+      "label": "Mucilinda §52",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.53",
+      "label": "Mucilinda §53",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.54",
+      "label": "Mucilinda §54",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.55",
+      "label": "Mucilinda §55",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.56",
+      "label": "Mucilinda §56",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.57",
+      "label": "Mucilinda §57",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.58",
+      "label": "Mucilinda §58",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.59",
+      "label": "Mucilinda §59",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.60",
+      "label": "Mucilinda §60",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.61",
+      "label": "Mucilinda §61",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.62",
+      "label": "Mucilinda §62",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.63",
+      "label": "Mucilinda §63",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.64",
+      "label": "Mucilinda §64",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.65",
+      "label": "Mucilinda §65",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.66",
+      "label": "Mucilinda §66",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.67",
+      "label": "Mucilinda §67",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.68",
+      "label": "Mucilinda §68",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.69",
+      "label": "Mucilinda §69",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.70",
+      "label": "Mucilinda §70",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.71",
+      "label": "Mucilinda §71",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.72",
+      "label": "Mucilinda §72",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.73",
+      "label": "Mucilinda §73",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "3.1",
+      "label": "Nanda §1",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.2",
+      "label": "Nanda §2",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.3",
+      "label": "Nanda §3",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.4",
+      "label": "Nanda §4",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.5",
+      "label": "Nanda §5",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.6",
+      "label": "Nanda §6",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.7",
+      "label": "Nanda §7",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.8",
+      "label": "Nanda §8",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.9",
+      "label": "Nanda §9",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.10",
+      "label": "Nanda §10",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.11",
+      "label": "Nanda §11",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.12",
+      "label": "Nanda §12",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.13",
+      "label": "Nanda §13",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.14",
+      "label": "Nanda §14",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.15",
+      "label": "Nanda §15",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.16",
+      "label": "Nanda §16",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.17",
+      "label": "Nanda §17",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.18",
+      "label": "Nanda §18",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.19",
+      "label": "Nanda §19",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.20",
+      "label": "Nanda §20",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.21",
+      "label": "Nanda §21",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.22",
+      "label": "Nanda §22",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.23",
+      "label": "Nanda §23",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.24",
+      "label": "Nanda §24",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.25",
+      "label": "Nanda §25",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.26",
+      "label": "Nanda §26",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.27",
+      "label": "Nanda §27",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.28",
+      "label": "Nanda §28",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.29",
+      "label": "Nanda §29",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.30",
+      "label": "Nanda §30",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.31",
+      "label": "Nanda §31",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.32",
+      "label": "Nanda §32",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.33",
+      "label": "Nanda §33",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.34",
+      "label": "Nanda §34",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.35",
+      "label": "Nanda §35",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.36",
+      "label": "Nanda §36",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.37",
+      "label": "Nanda §37",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.38",
+      "label": "Nanda §38",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.39",
+      "label": "Nanda §39",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.40",
+      "label": "Nanda §40",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.41",
+      "label": "Nanda §41",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.42",
+      "label": "Nanda §42",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.43",
+      "label": "Nanda §43",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.44",
+      "label": "Nanda §44",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.45",
+      "label": "Nanda §45",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.46",
+      "label": "Nanda §46",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.47",
+      "label": "Nanda §47",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.48",
+      "label": "Nanda §48",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.49",
+      "label": "Nanda §49",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.50",
+      "label": "Nanda §50",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.51",
+      "label": "Nanda §51",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.52",
+      "label": "Nanda §52",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.53",
+      "label": "Nanda §53",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.54",
+      "label": "Nanda §54",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.55",
+      "label": "Nanda §55",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.56",
+      "label": "Nanda §56",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.57",
+      "label": "Nanda §57",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.58",
+      "label": "Nanda §58",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.59",
+      "label": "Nanda §59",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.60",
+      "label": "Nanda §60",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.61",
+      "label": "Nanda §61",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.62",
+      "label": "Nanda §62",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.63",
+      "label": "Nanda §63",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.64",
+      "label": "Nanda §64",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.65",
+      "label": "Nanda §65",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.66",
+      "label": "Nanda §66",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.67",
+      "label": "Nanda §67",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.68",
+      "label": "Nanda §68",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.69",
+      "label": "Nanda §69",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.70",
+      "label": "Nanda §70",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.71",
+      "label": "Nanda §71",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.72",
+      "label": "Nanda §72",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.73",
+      "label": "Nanda §73",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.74",
+      "label": "Nanda §74",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.75",
+      "label": "Nanda §75",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.76",
+      "label": "Nanda §76",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.77",
+      "label": "Nanda §77",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.78",
+      "label": "Nanda §78",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.79",
+      "label": "Nanda §79",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.80",
+      "label": "Nanda §80",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.81",
+      "label": "Nanda §81",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.82",
+      "label": "Nanda §82",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.83",
+      "label": "Nanda §83",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.84",
+      "label": "Nanda §84",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.85",
+      "label": "Nanda §85",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.86",
+      "label": "Nanda §86",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.87",
+      "label": "Nanda §87",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.88",
+      "label": "Nanda §88",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.89",
+      "label": "Nanda §89",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.90",
+      "label": "Nanda §90",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.91",
+      "label": "Nanda §91",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.92",
+      "label": "Nanda §92",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.93",
+      "label": "Nanda §93",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.94",
+      "label": "Nanda §94",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.95",
+      "label": "Nanda §95",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.96",
+      "label": "Nanda §96",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.97",
+      "label": "Nanda §97",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.98",
+      "label": "Nanda §98",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.99",
+      "label": "Nanda §99",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.100",
+      "label": "Nanda §100",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.101",
+      "label": "Nanda §101",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.102",
+      "label": "Nanda §102",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.103",
+      "label": "Nanda §103",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.104",
+      "label": "Nanda §104",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.105",
+      "label": "Nanda §105",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.106",
+      "label": "Nanda §106",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.107",
+      "label": "Nanda §107",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.108",
+      "label": "Nanda §108",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.109",
+      "label": "Nanda §109",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "4.1",
+      "label": "Meghiya §1",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.2",
+      "label": "Meghiya §2",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.3",
+      "label": "Meghiya §3",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.4",
+      "label": "Meghiya §4",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.5",
+      "label": "Meghiya §5",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.6",
+      "label": "Meghiya §6",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.7",
+      "label": "Meghiya §7",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.8",
+      "label": "Meghiya §8",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.9",
+      "label": "Meghiya §9",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.10",
+      "label": "Meghiya §10",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.11",
+      "label": "Meghiya §11",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.12",
+      "label": "Meghiya §12",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.13",
+      "label": "Meghiya §13",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.14",
+      "label": "Meghiya §14",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.15",
+      "label": "Meghiya §15",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.16",
+      "label": "Meghiya §16",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.17",
+      "label": "Meghiya §17",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.18",
+      "label": "Meghiya §18",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.19",
+      "label": "Meghiya §19",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.20",
+      "label": "Meghiya §20",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.21",
+      "label": "Meghiya §21",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.22",
+      "label": "Meghiya §22",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.23",
+      "label": "Meghiya §23",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.24",
+      "label": "Meghiya §24",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.25",
+      "label": "Meghiya §25",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.26",
+      "label": "Meghiya §26",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.27",
+      "label": "Meghiya §27",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.28",
+      "label": "Meghiya §28",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.29",
+      "label": "Meghiya §29",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.30",
+      "label": "Meghiya §30",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.31",
+      "label": "Meghiya §31",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.32",
+      "label": "Meghiya §32",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.33",
+      "label": "Meghiya §33",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.34",
+      "label": "Meghiya §34",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.35",
+      "label": "Meghiya §35",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.36",
+      "label": "Meghiya §36",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.37",
+      "label": "Meghiya §37",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.38",
+      "label": "Meghiya §38",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.39",
+      "label": "Meghiya §39",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.40",
+      "label": "Meghiya §40",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.41",
+      "label": "Meghiya §41",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.42",
+      "label": "Meghiya §42",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.43",
+      "label": "Meghiya §43",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.44",
+      "label": "Meghiya §44",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.45",
+      "label": "Meghiya §45",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.46",
+      "label": "Meghiya §46",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.47",
+      "label": "Meghiya §47",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.48",
+      "label": "Meghiya §48",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.49",
+      "label": "Meghiya §49",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.50",
+      "label": "Meghiya §50",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.51",
+      "label": "Meghiya §51",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.52",
+      "label": "Meghiya §52",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.53",
+      "label": "Meghiya §53",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.54",
+      "label": "Meghiya §54",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.55",
+      "label": "Meghiya §55",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.56",
+      "label": "Meghiya §56",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.57",
+      "label": "Meghiya §57",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.58",
+      "label": "Meghiya §58",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.59",
+      "label": "Meghiya §59",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.60",
+      "label": "Meghiya §60",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.61",
+      "label": "Meghiya §61",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.62",
+      "label": "Meghiya §62",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.63",
+      "label": "Meghiya §63",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.64",
+      "label": "Meghiya §64",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.65",
+      "label": "Meghiya §65",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.66",
+      "label": "Meghiya §66",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.67",
+      "label": "Meghiya §67",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.68",
+      "label": "Meghiya §68",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.69",
+      "label": "Meghiya §69",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.70",
+      "label": "Meghiya §70",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.71",
+      "label": "Meghiya §71",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.72",
+      "label": "Meghiya §72",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.73",
+      "label": "Meghiya §73",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.74",
+      "label": "Meghiya §74",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.75",
+      "label": "Meghiya §75",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.76",
+      "label": "Meghiya §76",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.77",
+      "label": "Meghiya §77",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.78",
+      "label": "Meghiya §78",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.79",
+      "label": "Meghiya §79",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.80",
+      "label": "Meghiya §80",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.81",
+      "label": "Meghiya §81",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.82",
+      "label": "Meghiya §82",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.83",
+      "label": "Meghiya §83",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.84",
+      "label": "Meghiya §84",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.85",
+      "label": "Meghiya §85",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.86",
+      "label": "Meghiya §86",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.87",
+      "label": "Meghiya §87",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.88",
+      "label": "Meghiya §88",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.89",
+      "label": "Meghiya §89",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.90",
+      "label": "Meghiya §90",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.91",
+      "label": "Meghiya §91",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.92",
+      "label": "Meghiya §92",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.93",
+      "label": "Meghiya §93",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.94",
+      "label": "Meghiya §94",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.95",
+      "label": "Meghiya §95",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.96",
+      "label": "Meghiya §96",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.97",
+      "label": "Meghiya §97",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.98",
+      "label": "Meghiya §98",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.99",
+      "label": "Meghiya §99",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.100",
+      "label": "Meghiya §100",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.101",
+      "label": "Meghiya §101",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.102",
+      "label": "Meghiya §102",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.103",
+      "label": "Meghiya §103",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.104",
+      "label": "Meghiya §104",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "5.1",
+      "label": "Sona Thera §1",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.2",
+      "label": "Sona Thera §2",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.3",
+      "label": "Sona Thera §3",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.4",
+      "label": "Sona Thera §4",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.5",
+      "label": "Sona Thera §5",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.6",
+      "label": "Sona Thera §6",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.7",
+      "label": "Sona Thera §7",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.8",
+      "label": "Sona Thera §8",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.9",
+      "label": "Sona Thera §9",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.10",
+      "label": "Sona Thera §10",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.11",
+      "label": "Sona Thera §11",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.12",
+      "label": "Sona Thera §12",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.13",
+      "label": "Sona Thera §13",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.14",
+      "label": "Sona Thera §14",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.15",
+      "label": "Sona Thera §15",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.16",
+      "label": "Sona Thera §16",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.17",
+      "label": "Sona Thera §17",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.18",
+      "label": "Sona Thera §18",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.19",
+      "label": "Sona Thera §19",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.20",
+      "label": "Sona Thera §20",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.21",
+      "label": "Sona Thera §21",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.22",
+      "label": "Sona Thera §22",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.23",
+      "label": "Sona Thera §23",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.24",
+      "label": "Sona Thera §24",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.25",
+      "label": "Sona Thera §25",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.26",
+      "label": "Sona Thera §26",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.27",
+      "label": "Sona Thera §27",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.28",
+      "label": "Sona Thera §28",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.29",
+      "label": "Sona Thera §29",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.30",
+      "label": "Sona Thera §30",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.31",
+      "label": "Sona Thera §31",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.32",
+      "label": "Sona Thera §32",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.33",
+      "label": "Sona Thera §33",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.34",
+      "label": "Sona Thera §34",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.35",
+      "label": "Sona Thera §35",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.36",
+      "label": "Sona Thera §36",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.37",
+      "label": "Sona Thera §37",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.38",
+      "label": "Sona Thera §38",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.39",
+      "label": "Sona Thera §39",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.40",
+      "label": "Sona Thera §40",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.41",
+      "label": "Sona Thera §41",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.42",
+      "label": "Sona Thera §42",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.43",
+      "label": "Sona Thera §43",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.44",
+      "label": "Sona Thera §44",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.45",
+      "label": "Sona Thera §45",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.46",
+      "label": "Sona Thera §46",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.47",
+      "label": "Sona Thera §47",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.48",
+      "label": "Sona Thera §48",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.49",
+      "label": "Sona Thera §49",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.50",
+      "label": "Sona Thera §50",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.51",
+      "label": "Sona Thera §51",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.52",
+      "label": "Sona Thera §52",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.53",
+      "label": "Sona Thera §53",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.54",
+      "label": "Sona Thera §54",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.55",
+      "label": "Sona Thera §55",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.56",
+      "label": "Sona Thera §56",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.57",
+      "label": "Sona Thera §57",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.58",
+      "label": "Sona Thera §58",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.59",
+      "label": "Sona Thera §59",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.60",
+      "label": "Sona Thera §60",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.61",
+      "label": "Sona Thera §61",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.62",
+      "label": "Sona Thera §62",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.63",
+      "label": "Sona Thera §63",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.64",
+      "label": "Sona Thera §64",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.65",
+      "label": "Sona Thera §65",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.66",
+      "label": "Sona Thera §66",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.67",
+      "label": "Sona Thera §67",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.68",
+      "label": "Sona Thera §68",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.69",
+      "label": "Sona Thera §69",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.70",
+      "label": "Sona Thera §70",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.71",
+      "label": "Sona Thera §71",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.72",
+      "label": "Sona Thera §72",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.73",
+      "label": "Sona Thera §73",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.74",
+      "label": "Sona Thera §74",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.75",
+      "label": "Sona Thera §75",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.76",
+      "label": "Sona Thera §76",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.77",
+      "label": "Sona Thera §77",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.78",
+      "label": "Sona Thera §78",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.79",
+      "label": "Sona Thera §79",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.80",
+      "label": "Sona Thera §80",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.81",
+      "label": "Sona Thera §81",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.82",
+      "label": "Sona Thera §82",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.83",
+      "label": "Sona Thera §83",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.84",
+      "label": "Sona Thera §84",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.85",
+      "label": "Sona Thera §85",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.86",
+      "label": "Sona Thera §86",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.87",
+      "label": "Sona Thera §87",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.88",
+      "label": "Sona Thera §88",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.89",
+      "label": "Sona Thera §89",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.90",
+      "label": "Sona Thera §90",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.91",
+      "label": "Sona Thera §91",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.92",
+      "label": "Sona Thera §92",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.93",
+      "label": "Sona Thera §93",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.94",
+      "label": "Sona Thera §94",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.95",
+      "label": "Sona Thera §95",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.96",
+      "label": "Sona Thera §96",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.97",
+      "label": "Sona Thera §97",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.98",
+      "label": "Sona Thera §98",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.99",
+      "label": "Sona Thera §99",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.100",
+      "label": "Sona Thera §100",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.101",
+      "label": "Sona Thera §101",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.102",
+      "label": "Sona Thera §102",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.103",
+      "label": "Sona Thera §103",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.104",
+      "label": "Sona Thera §104",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.105",
+      "label": "Sona Thera §105",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.106",
+      "label": "Sona Thera §106",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.107",
+      "label": "Sona Thera §107",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.108",
+      "label": "Sona Thera §108",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.109",
+      "label": "Sona Thera §109",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.110",
+      "label": "Sona Thera §110",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.111",
+      "label": "Sona Thera §111",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.112",
+      "label": "Sona Thera §112",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.113",
+      "label": "Sona Thera §113",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.114",
+      "label": "Sona Thera §114",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.115",
+      "label": "Sona Thera §115",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.116",
+      "label": "Sona Thera §116",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.117",
+      "label": "Sona Thera §117",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.118",
+      "label": "Sona Thera §118",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.119",
+      "label": "Sona Thera §119",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.120",
+      "label": "Sona Thera §120",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.121",
+      "label": "Sona Thera §121",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.122",
+      "label": "Sona Thera §122",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.123",
+      "label": "Sona Thera §123",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.124",
+      "label": "Sona Thera §124",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.125",
+      "label": "Sona Thera §125",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.126",
+      "label": "Sona Thera §126",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.127",
+      "label": "Sona Thera §127",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.128",
+      "label": "Sona Thera §128",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.129",
+      "label": "Sona Thera §129",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.130",
+      "label": "Sona Thera §130",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.131",
+      "label": "Sona Thera §131",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.132",
+      "label": "Sona Thera §132",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.133",
+      "label": "Sona Thera §133",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.134",
+      "label": "Sona Thera §134",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.135",
+      "label": "Sona Thera §135",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.136",
+      "label": "Sona Thera §136",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.137",
+      "label": "Sona Thera §137",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.138",
+      "label": "Sona Thera §138",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.139",
+      "label": "Sona Thera §139",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.140",
+      "label": "Sona Thera §140",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.141",
+      "label": "Sona Thera §141",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.142",
+      "label": "Sona Thera §142",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.143",
+      "label": "Sona Thera §143",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.144",
+      "label": "Sona Thera §144",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.145",
+      "label": "Sona Thera §145",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.146",
+      "label": "Sona Thera §146",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "6.1",
+      "label": "Jaccandha §1",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.2",
+      "label": "Jaccandha §2",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.3",
+      "label": "Jaccandha §3",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.4",
+      "label": "Jaccandha §4",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.5",
+      "label": "Jaccandha §5",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.6",
+      "label": "Jaccandha §6",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.7",
+      "label": "Jaccandha §7",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.8",
+      "label": "Jaccandha §8",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.9",
+      "label": "Jaccandha §9",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.10",
+      "label": "Jaccandha §10",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.11",
+      "label": "Jaccandha §11",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.12",
+      "label": "Jaccandha §12",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.13",
+      "label": "Jaccandha §13",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.14",
+      "label": "Jaccandha §14",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.15",
+      "label": "Jaccandha §15",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.16",
+      "label": "Jaccandha §16",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.17",
+      "label": "Jaccandha §17",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.18",
+      "label": "Jaccandha §18",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.19",
+      "label": "Jaccandha §19",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.20",
+      "label": "Jaccandha §20",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.21",
+      "label": "Jaccandha §21",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.22",
+      "label": "Jaccandha §22",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.23",
+      "label": "Jaccandha §23",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.24",
+      "label": "Jaccandha §24",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.25",
+      "label": "Jaccandha §25",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.26",
+      "label": "Jaccandha §26",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.27",
+      "label": "Jaccandha §27",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.28",
+      "label": "Jaccandha §28",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.29",
+      "label": "Jaccandha §29",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.30",
+      "label": "Jaccandha §30",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.31",
+      "label": "Jaccandha §31",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.32",
+      "label": "Jaccandha §32",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.33",
+      "label": "Jaccandha §33",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.34",
+      "label": "Jaccandha §34",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.35",
+      "label": "Jaccandha §35",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.36",
+      "label": "Jaccandha §36",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.37",
+      "label": "Jaccandha §37",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.38",
+      "label": "Jaccandha §38",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.39",
+      "label": "Jaccandha §39",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.40",
+      "label": "Jaccandha §40",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.41",
+      "label": "Jaccandha §41",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.42",
+      "label": "Jaccandha §42",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.43",
+      "label": "Jaccandha §43",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.44",
+      "label": "Jaccandha §44",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.45",
+      "label": "Jaccandha §45",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.46",
+      "label": "Jaccandha §46",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.47",
+      "label": "Jaccandha §47",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.48",
+      "label": "Jaccandha §48",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.49",
+      "label": "Jaccandha §49",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.50",
+      "label": "Jaccandha §50",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.51",
+      "label": "Jaccandha §51",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.52",
+      "label": "Jaccandha §52",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.53",
+      "label": "Jaccandha §53",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.54",
+      "label": "Jaccandha §54",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.55",
+      "label": "Jaccandha §55",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.56",
+      "label": "Jaccandha §56",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.57",
+      "label": "Jaccandha §57",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.58",
+      "label": "Jaccandha §58",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.59",
+      "label": "Jaccandha §59",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.60",
+      "label": "Jaccandha §60",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.61",
+      "label": "Jaccandha §61",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.62",
+      "label": "Jaccandha §62",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.63",
+      "label": "Jaccandha §63",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.64",
+      "label": "Jaccandha §64",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.65",
+      "label": "Jaccandha §65",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.66",
+      "label": "Jaccandha §66",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.67",
+      "label": "Jaccandha §67",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.68",
+      "label": "Jaccandha §68",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.69",
+      "label": "Jaccandha §69",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.70",
+      "label": "Jaccandha §70",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.71",
+      "label": "Jaccandha §71",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.72",
+      "label": "Jaccandha §72",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.73",
+      "label": "Jaccandha §73",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.74",
+      "label": "Jaccandha §74",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.75",
+      "label": "Jaccandha §75",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.76",
+      "label": "Jaccandha §76",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.77",
+      "label": "Jaccandha §77",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.78",
+      "label": "Jaccandha §78",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.79",
+      "label": "Jaccandha §79",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.80",
+      "label": "Jaccandha §80",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.81",
+      "label": "Jaccandha §81",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.82",
+      "label": "Jaccandha §82",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.83",
+      "label": "Jaccandha §83",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.84",
+      "label": "Jaccandha §84",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.85",
+      "label": "Jaccandha §85",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.86",
+      "label": "Jaccandha §86",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.87",
+      "label": "Jaccandha §87",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.88",
+      "label": "Jaccandha §88",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.89",
+      "label": "Jaccandha §89",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.90",
+      "label": "Jaccandha §90",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.91",
+      "label": "Jaccandha §91",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.92",
+      "label": "Jaccandha §92",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.93",
+      "label": "Jaccandha §93",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.94",
+      "label": "Jaccandha §94",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.95",
+      "label": "Jaccandha §95",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.96",
+      "label": "Jaccandha §96",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.97",
+      "label": "Jaccandha §97",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.98",
+      "label": "Jaccandha §98",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.99",
+      "label": "Jaccandha §99",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.100",
+      "label": "Jaccandha §100",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.101",
+      "label": "Jaccandha §101",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.102",
+      "label": "Jaccandha §102",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.103",
+      "label": "Jaccandha §103",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.104",
+      "label": "Jaccandha §104",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.105",
+      "label": "Jaccandha §105",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.106",
+      "label": "Jaccandha §106",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.107",
+      "label": "Jaccandha §107",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.108",
+      "label": "Jaccandha §108",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.109",
+      "label": "Jaccandha §109",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.110",
+      "label": "Jaccandha §110",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.111",
+      "label": "Jaccandha §111",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.112",
+      "label": "Jaccandha §112",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.113",
+      "label": "Jaccandha §113",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.114",
+      "label": "Jaccandha §114",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.115",
+      "label": "Jaccandha §115",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.116",
+      "label": "Jaccandha §116",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.117",
+      "label": "Jaccandha §117",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.118",
+      "label": "Jaccandha §118",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.119",
+      "label": "Jaccandha §119",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.120",
+      "label": "Jaccandha §120",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "7.1",
+      "label": "Cula §1",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.2",
+      "label": "Cula §2",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.3",
+      "label": "Cula §3",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.4",
+      "label": "Cula §4",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.5",
+      "label": "Cula §5",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.6",
+      "label": "Cula §6",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.7",
+      "label": "Cula §7",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.8",
+      "label": "Cula §8",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.9",
+      "label": "Cula §9",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.10",
+      "label": "Cula §10",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.11",
+      "label": "Cula §11",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.12",
+      "label": "Cula §12",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.13",
+      "label": "Cula §13",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.14",
+      "label": "Cula §14",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.15",
+      "label": "Cula §15",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.16",
+      "label": "Cula §16",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.17",
+      "label": "Cula §17",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.18",
+      "label": "Cula §18",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.19",
+      "label": "Cula §19",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.20",
+      "label": "Cula §20",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.21",
+      "label": "Cula §21",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.22",
+      "label": "Cula §22",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.23",
+      "label": "Cula §23",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.24",
+      "label": "Cula §24",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.25",
+      "label": "Cula §25",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.26",
+      "label": "Cula §26",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.27",
+      "label": "Cula §27",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.28",
+      "label": "Cula §28",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.29",
+      "label": "Cula §29",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.30",
+      "label": "Cula §30",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.31",
+      "label": "Cula §31",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.32",
+      "label": "Cula §32",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.33",
+      "label": "Cula §33",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.34",
+      "label": "Cula §34",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.35",
+      "label": "Cula §35",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.36",
+      "label": "Cula §36",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.37",
+      "label": "Cula §37",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.38",
+      "label": "Cula §38",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.39",
+      "label": "Cula §39",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.40",
+      "label": "Cula §40",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.41",
+      "label": "Cula §41",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.42",
+      "label": "Cula §42",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.43",
+      "label": "Cula §43",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.44",
+      "label": "Cula §44",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.45",
+      "label": "Cula §45",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.46",
+      "label": "Cula §46",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.47",
+      "label": "Cula §47",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.48",
+      "label": "Cula §48",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.49",
+      "label": "Cula §49",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.50",
+      "label": "Cula §50",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.51",
+      "label": "Cula §51",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.52",
+      "label": "Cula §52",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.53",
+      "label": "Cula §53",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.54",
+      "label": "Cula §54",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.55",
+      "label": "Cula §55",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.56",
+      "label": "Cula §56",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "8.1",
+      "label": "Patalagami §1",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.2",
+      "label": "Patalagami §2",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.3",
+      "label": "Patalagami §3",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.4",
+      "label": "Patalagami §4",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.5",
+      "label": "Patalagami §5",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.6",
+      "label": "Patalagami §6",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.7",
+      "label": "Patalagami §7",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.8",
+      "label": "Patalagami §8",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.9",
+      "label": "Patalagami §9",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.10",
+      "label": "Patalagami §10",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.11",
+      "label": "Patalagami §11",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.12",
+      "label": "Patalagami §12",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.13",
+      "label": "Patalagami §13",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.14",
+      "label": "Patalagami §14",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.15",
+      "label": "Patalagami §15",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.16",
+      "label": "Patalagami §16",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.17",
+      "label": "Patalagami §17",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.18",
+      "label": "Patalagami §18",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.19",
+      "label": "Patalagami §19",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.20",
+      "label": "Patalagami §20",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.21",
+      "label": "Patalagami §21",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.22",
+      "label": "Patalagami §22",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.23",
+      "label": "Patalagami §23",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.24",
+      "label": "Patalagami §24",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.25",
+      "label": "Patalagami §25",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.26",
+      "label": "Patalagami §26",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.27",
+      "label": "Patalagami §27",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.28",
+      "label": "Patalagami §28",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.29",
+      "label": "Patalagami §29",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.30",
+      "label": "Patalagami §30",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.31",
+      "label": "Patalagami §31",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.32",
+      "label": "Patalagami §32",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.33",
+      "label": "Patalagami §33",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.34",
+      "label": "Patalagami §34",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.35",
+      "label": "Patalagami §35",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.36",
+      "label": "Patalagami §36",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.37",
+      "label": "Patalagami §37",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.38",
+      "label": "Patalagami §38",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.39",
+      "label": "Patalagami §39",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.40",
+      "label": "Patalagami §40",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.41",
+      "label": "Patalagami §41",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.42",
+      "label": "Patalagami §42",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.43",
+      "label": "Patalagami §43",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.44",
+      "label": "Patalagami §44",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.45",
+      "label": "Patalagami §45",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.46",
+      "label": "Patalagami §46",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.47",
+      "label": "Patalagami §47",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.48",
+      "label": "Patalagami §48",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.49",
+      "label": "Patalagami §49",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.50",
+      "label": "Patalagami §50",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.51",
+      "label": "Patalagami §51",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.52",
+      "label": "Patalagami §52",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.53",
+      "label": "Patalagami §53",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.54",
+      "label": "Patalagami §54",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.55",
+      "label": "Patalagami §55",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.56",
+      "label": "Patalagami §56",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.57",
+      "label": "Patalagami §57",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.58",
+      "label": "Patalagami §58",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.59",
+      "label": "Patalagami §59",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.60",
+      "label": "Patalagami §60",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.61",
+      "label": "Patalagami §61",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.62",
+      "label": "Patalagami §62",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.63",
+      "label": "Patalagami §63",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.64",
+      "label": "Patalagami §64",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.65",
+      "label": "Patalagami §65",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.66",
+      "label": "Patalagami §66",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.67",
+      "label": "Patalagami §67",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.68",
+      "label": "Patalagami §68",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.69",
+      "label": "Patalagami §69",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.70",
+      "label": "Patalagami §70",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.71",
+      "label": "Patalagami §71",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.72",
+      "label": "Patalagami §72",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.73",
+      "label": "Patalagami §73",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.74",
+      "label": "Patalagami §74",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.75",
+      "label": "Patalagami §75",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.76",
+      "label": "Patalagami §76",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.77",
+      "label": "Patalagami §77",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.78",
+      "label": "Patalagami §78",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.79",
+      "label": "Patalagami §79",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.80",
+      "label": "Patalagami §80",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.81",
+      "label": "Patalagami §81",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.82",
+      "label": "Patalagami §82",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.83",
+      "label": "Patalagami §83",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.84",
+      "label": "Patalagami §84",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.85",
+      "label": "Patalagami §85",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.86",
+      "label": "Patalagami §86",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.87",
+      "label": "Patalagami §87",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.88",
+      "label": "Patalagami §88",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.89",
+      "label": "Patalagami §89",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.90",
+      "label": "Patalagami §90",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.91",
+      "label": "Patalagami §91",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.92",
+      "label": "Patalagami §92",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.93",
+      "label": "Patalagami §93",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.94",
+      "label": "Patalagami §94",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.95",
+      "label": "Patalagami §95",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.96",
+      "label": "Patalagami §96",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.97",
+      "label": "Patalagami §97",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.98",
+      "label": "Patalagami §98",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.99",
+      "label": "Patalagami §99",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.100",
+      "label": "Patalagami §100",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.101",
+      "label": "Patalagami §101",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.102",
+      "label": "Patalagami §102",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.103",
+      "label": "Patalagami §103",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.104",
+      "label": "Patalagami §104",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.105",
+      "label": "Patalagami §105",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.106",
+      "label": "Patalagami §106",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.107",
+      "label": "Patalagami §107",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.108",
+      "label": "Patalagami §108",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.109",
+      "label": "Patalagami §109",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.110",
+      "label": "Patalagami §110",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.111",
+      "label": "Patalagami §111",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.112",
+      "label": "Patalagami §112",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.113",
+      "label": "Patalagami §113",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.114",
+      "label": "Patalagami §114",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.115",
+      "label": "Patalagami §115",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.116",
+      "label": "Patalagami §116",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.117",
+      "label": "Patalagami §117",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.118",
+      "label": "Patalagami §118",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.119",
+      "label": "Patalagami §119",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.120",
+      "label": "Patalagami §120",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.121",
+      "label": "Patalagami §121",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.122",
+      "label": "Patalagami §122",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.123",
+      "label": "Patalagami §123",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.124",
+      "label": "Patalagami §124",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.125",
+      "label": "Patalagami §125",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.126",
+      "label": "Patalagami §126",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.127",
+      "label": "Patalagami §127",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.128",
+      "label": "Patalagami §128",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.129",
+      "label": "Patalagami §129",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.130",
+      "label": "Patalagami §130",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.131",
+      "label": "Patalagami §131",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.132",
+      "label": "Patalagami §132",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.133",
+      "label": "Patalagami §133",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.134",
+      "label": "Patalagami §134",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.135",
+      "label": "Patalagami §135",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.136",
+      "label": "Patalagami §136",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.137",
+      "label": "Patalagami §137",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.138",
+      "label": "Patalagami §138",
+      "chapterRef": "8"
+    }
+  ],
+  "editions": [
+    {
+      "slug": "udana-en",
+      "language": "en",
+      "editionType": "translation",
+      "title": "The Udāna, or The Solemn Utterances of the Buddha",
+      "translator": "G. M. Strong",
+      "publisher": "Internet Sacred Text Archive",
+      "publicationYear": 1902,
+      "source": "sacred-texts",
+      "license": "public-domain",
+      "rightsStatus": "Public domain in the United States",
+      "attributionText": "The Udāna, or The Solemn Utterances of the Buddha, translated by G. M. Strong (1902). Luzac & Co., London. Public domain in the United States. Digital text from the Internet Sacred Text Archive.",
+      "structureScheme": "chapter and paragraph index; each chapter is one printed vagga",
+      "isSample": false,
+      "notes": "The import cache stores the exact segments that were validated. The reader re-fetches the chapter from the host and reports when the served count no longer matches the index."
+    }
+  ]
+}

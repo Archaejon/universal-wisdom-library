@@ -1,0 +1,916 @@
+{
+  "slug": "bahaullah",
+  "title": "Bahá’u’lláh",
+  "originalTitle": "",
+  "transliteration": "",
+  "altTitles": [],
+  "tradition": "bahai",
+  "school": "",
+  "genre": "Institutional text",
+  "textType": "Statement or commentary issued by a Bahá’í institution",
+  "category": "Institutional text",
+  "subcategory": "Official statements and commentaries",
+  "originalLanguage": "en",
+  "dateStart": null,
+  "dateEnd": null,
+  "dateDisplay": "",
+  "authorshipStatus": "established",
+  "author": "bahai-international-community",
+  "attributionNote": "Bahá’u’lláh, by the Bahá’í International Community: the Bahá’í Reference Library's own record of the work, on its Official Statements and Commentaries shelf.",
+  "description": "A brief introduction to Bahá’u’lláh’s life and work, prepared at the request of the Universal House of Justice by the Bahá’í International Community Office of Public Information and published in 1992. The record was created by the Bahá’í import from the Reference Library's own catalogue and reading views; the summary above is the library's own description of the work, and an editor's note for the work itself is still to be written.",
+  "historicalContext": "Read in the Bahá’í Reference Library, in the section where the Bahá’í International Community publishes the authorised English text (Official Statements and Commentaries).",
+  "availabilityNote": "Complete as the Reference Library publishes it: the library's reading views for this work are streamed from bahai.org at read time, one chapter at a time, with the Community's copyright notice. The chapters are the divisions of the library's own reading text; the publication's front matter and its notes are not imported.",
+  "featured": false,
+  "featuredNote": "",
+  "refScheme": "chapter.paragraph",
+  "isSample": false,
+  "textStorage": "streamed",
+  "chapters": [
+    {
+      "ref": "1",
+      "label": "Selection 1"
+    },
+    {
+      "ref": "2",
+      "label": "Birth of a New Revelation"
+    },
+    {
+      "ref": "3",
+      "label": "Exile"
+    },
+    {
+      "ref": "4",
+      "label": "The Declaration in the Riḍván Garden"
+    },
+    {
+      "ref": "5",
+      "label": "“The Changeless Faith of God…”"
+    },
+    {
+      "ref": "6",
+      "label": "The Manifestation of God"
+    },
+    {
+      "ref": "7",
+      "label": "“An Ever-Advancing Civilization…”"
+    },
+    {
+      "ref": "8",
+      "label": "The Day of God"
+    },
+    {
+      "ref": "9",
+      "label": "Announcement to the Kings"
+    },
+    {
+      "ref": "10",
+      "label": "Arrival in the Holy Land"
+    },
+    {
+      "ref": "11",
+      "label": "Religion as Light and Darkness"
+    },
+    {
+      "ref": "12",
+      "label": "World Peace"
+    },
+    {
+      "ref": "13",
+      "label": "“Not of Mine Own Volition”"
+    },
+    {
+      "ref": "14",
+      "label": "The Covenant of God with Humankind"
+    }
+  ],
+  "passages": [
+    {
+      "reference": "1.1",
+      "label": "Selection 1 §1",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.2",
+      "label": "Selection 1 §2",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "2.1",
+      "label": "Birth of a New Revelation §1",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.2",
+      "label": "Birth of a New Revelation §2",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.3",
+      "label": "Birth of a New Revelation §3",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.4",
+      "label": "Birth of a New Revelation §4",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.5",
+      "label": "Birth of a New Revelation §5",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.6",
+      "label": "Birth of a New Revelation §6",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.7",
+      "label": "Birth of a New Revelation §7",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.8",
+      "label": "Birth of a New Revelation §8",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.9",
+      "label": "Birth of a New Revelation §9",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.10",
+      "label": "Birth of a New Revelation §10",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.11",
+      "label": "Birth of a New Revelation §11",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.12",
+      "label": "Birth of a New Revelation §12",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "3.1",
+      "label": "Exile §1",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.2",
+      "label": "Exile §2",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.3",
+      "label": "Exile §3",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.4",
+      "label": "Exile §4",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.5",
+      "label": "Exile §5",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.6",
+      "label": "Exile §6",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.7",
+      "label": "Exile §7",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.8",
+      "label": "Exile §8",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.9",
+      "label": "Exile §9",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.10",
+      "label": "Exile §10",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.11",
+      "label": "Exile §11",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.12",
+      "label": "Exile §12",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.13",
+      "label": "Exile §13",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.14",
+      "label": "Exile §14",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.15",
+      "label": "Exile §15",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.16",
+      "label": "Exile §16",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.17",
+      "label": "Exile §17",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.18",
+      "label": "Exile §18",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.19",
+      "label": "Exile §19",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "4.1",
+      "label": "The Declaration in the Riḍván Garden §1",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.2",
+      "label": "The Declaration in the Riḍván Garden §2",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.3",
+      "label": "The Declaration in the Riḍván Garden §3",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.4",
+      "label": "The Declaration in the Riḍván Garden §4",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.5",
+      "label": "The Declaration in the Riḍván Garden §5",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.6",
+      "label": "The Declaration in the Riḍván Garden §6",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.7",
+      "label": "The Declaration in the Riḍván Garden §7",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.8",
+      "label": "The Declaration in the Riḍván Garden §8",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.9",
+      "label": "The Declaration in the Riḍván Garden §9",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.10",
+      "label": "The Declaration in the Riḍván Garden §10",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.11",
+      "label": "The Declaration in the Riḍván Garden §11",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.12",
+      "label": "The Declaration in the Riḍván Garden §12",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.13",
+      "label": "The Declaration in the Riḍván Garden §13",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "5.1",
+      "label": "“The Changeless Faith of God…” §1",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.2",
+      "label": "“The Changeless Faith of God…” §2",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.3",
+      "label": "“The Changeless Faith of God…” §3",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.4",
+      "label": "“The Changeless Faith of God…” §4",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.5",
+      "label": "“The Changeless Faith of God…” §5",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.6",
+      "label": "“The Changeless Faith of God…” §6",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.7",
+      "label": "“The Changeless Faith of God…” §7",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.8",
+      "label": "“The Changeless Faith of God…” §8",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.9",
+      "label": "“The Changeless Faith of God…” §9",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.10",
+      "label": "“The Changeless Faith of God…” §10",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.11",
+      "label": "“The Changeless Faith of God…” §11",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.12",
+      "label": "“The Changeless Faith of God…” §12",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.13",
+      "label": "“The Changeless Faith of God…” §13",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.14",
+      "label": "“The Changeless Faith of God…” §14",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.15",
+      "label": "“The Changeless Faith of God…” §15",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.16",
+      "label": "“The Changeless Faith of God…” §16",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.17",
+      "label": "“The Changeless Faith of God…” §17",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.18",
+      "label": "“The Changeless Faith of God…” §18",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "6.1",
+      "label": "The Manifestation of God §1",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.2",
+      "label": "The Manifestation of God §2",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.3",
+      "label": "The Manifestation of God §3",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.4",
+      "label": "The Manifestation of God §4",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.5",
+      "label": "The Manifestation of God §5",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.6",
+      "label": "The Manifestation of God §6",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.7",
+      "label": "The Manifestation of God §7",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.8",
+      "label": "The Manifestation of God §8",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.9",
+      "label": "The Manifestation of God §9",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.10",
+      "label": "The Manifestation of God §10",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "7.1",
+      "label": "“An Ever-Advancing Civilization…” §1",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.2",
+      "label": "“An Ever-Advancing Civilization…” §2",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.3",
+      "label": "“An Ever-Advancing Civilization…” §3",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.4",
+      "label": "“An Ever-Advancing Civilization…” §4",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.5",
+      "label": "“An Ever-Advancing Civilization…” §5",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.6",
+      "label": "“An Ever-Advancing Civilization…” §6",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.7",
+      "label": "“An Ever-Advancing Civilization…” §7",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.8",
+      "label": "“An Ever-Advancing Civilization…” §8",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.9",
+      "label": "“An Ever-Advancing Civilization…” §9",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.10",
+      "label": "“An Ever-Advancing Civilization…” §10",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "8.1",
+      "label": "The Day of God §1",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.2",
+      "label": "The Day of God §2",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.3",
+      "label": "The Day of God §3",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.4",
+      "label": "The Day of God §4",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.5",
+      "label": "The Day of God §5",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.6",
+      "label": "The Day of God §6",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.7",
+      "label": "The Day of God §7",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.8",
+      "label": "The Day of God §8",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.9",
+      "label": "The Day of God §9",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.10",
+      "label": "The Day of God §10",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.11",
+      "label": "The Day of God §11",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.12",
+      "label": "The Day of God §12",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "9.1",
+      "label": "Announcement to the Kings §1",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.2",
+      "label": "Announcement to the Kings §2",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.3",
+      "label": "Announcement to the Kings §3",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.4",
+      "label": "Announcement to the Kings §4",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.5",
+      "label": "Announcement to the Kings §5",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.6",
+      "label": "Announcement to the Kings §6",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.7",
+      "label": "Announcement to the Kings §7",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.8",
+      "label": "Announcement to the Kings §8",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.9",
+      "label": "Announcement to the Kings §9",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.10",
+      "label": "Announcement to the Kings §10",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.11",
+      "label": "Announcement to the Kings §11",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.12",
+      "label": "Announcement to the Kings §12",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.13",
+      "label": "Announcement to the Kings §13",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.14",
+      "label": "Announcement to the Kings §14",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.15",
+      "label": "Announcement to the Kings §15",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.16",
+      "label": "Announcement to the Kings §16",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "10.1",
+      "label": "Arrival in the Holy Land §1",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.2",
+      "label": "Arrival in the Holy Land §2",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.3",
+      "label": "Arrival in the Holy Land §3",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.4",
+      "label": "Arrival in the Holy Land §4",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.5",
+      "label": "Arrival in the Holy Land §5",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.6",
+      "label": "Arrival in the Holy Land §6",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.7",
+      "label": "Arrival in the Holy Land §7",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.8",
+      "label": "Arrival in the Holy Land §8",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.9",
+      "label": "Arrival in the Holy Land §9",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.10",
+      "label": "Arrival in the Holy Land §10",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.11",
+      "label": "Arrival in the Holy Land §11",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.12",
+      "label": "Arrival in the Holy Land §12",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "11.1",
+      "label": "Religion as Light and Darkness §1",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.2",
+      "label": "Religion as Light and Darkness §2",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.3",
+      "label": "Religion as Light and Darkness §3",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.4",
+      "label": "Religion as Light and Darkness §4",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.5",
+      "label": "Religion as Light and Darkness §5",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.6",
+      "label": "Religion as Light and Darkness §6",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.7",
+      "label": "Religion as Light and Darkness §7",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.8",
+      "label": "Religion as Light and Darkness §8",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.9",
+      "label": "Religion as Light and Darkness §9",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.10",
+      "label": "Religion as Light and Darkness §10",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.11",
+      "label": "Religion as Light and Darkness §11",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "12.1",
+      "label": "World Peace §1",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.2",
+      "label": "World Peace §2",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.3",
+      "label": "World Peace §3",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.4",
+      "label": "World Peace §4",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.5",
+      "label": "World Peace §5",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.6",
+      "label": "World Peace §6",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.7",
+      "label": "World Peace §7",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.8",
+      "label": "World Peace §8",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.9",
+      "label": "World Peace §9",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.10",
+      "label": "World Peace §10",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "13.1",
+      "label": "“Not of Mine Own Volition” §1",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.2",
+      "label": "“Not of Mine Own Volition” §2",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.3",
+      "label": "“Not of Mine Own Volition” §3",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.4",
+      "label": "“Not of Mine Own Volition” §4",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.5",
+      "label": "“Not of Mine Own Volition” §5",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.6",
+      "label": "“Not of Mine Own Volition” §6",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.7",
+      "label": "“Not of Mine Own Volition” §7",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.8",
+      "label": "“Not of Mine Own Volition” §8",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.9",
+      "label": "“Not of Mine Own Volition” §9",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.10",
+      "label": "“Not of Mine Own Volition” §10",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "14.1",
+      "label": "The Covenant of God with Humankind §1",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.2",
+      "label": "The Covenant of God with Humankind §2",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.3",
+      "label": "The Covenant of God with Humankind §3",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.4",
+      "label": "The Covenant of God with Humankind §4",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.5",
+      "label": "The Covenant of God with Humankind §5",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.6",
+      "label": "The Covenant of God with Humankind §6",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.7",
+      "label": "The Covenant of God with Humankind §7",
+      "chapterRef": "14"
+    }
+  ],
+  "editions": [
+    {
+      "slug": "bahaullah-en",
+      "language": "en",
+      "editionType": "translation",
+      "title": "Bahá’u’lláh (authorised English translation)",
+      "translator": "",
+      "publisher": "Bahá’í International Community, Bahá’í Reference Library",
+      "publicationYear": null,
+      "source": "bahai-reference-library",
+      "license": "bahai-reference-library-terms",
+      "rightsStatus": "Copyright © Bahá’í International Community.",
+      "attributionText": "Bahá’u’lláh, by the Bahá’í International Community. Copyright © Bahá’í International Community. Read from the Bahá’í Reference Library, the official online source of the Bahá’í writings: https://www.bahai.org/library/other-literature/official-statements-commentaries/bahaullah",
+      "structureScheme": "the library's own paragraph numbering where it prints one; otherwise reading order within the chapter",
+      "isSample": false,
+      "notes": "The text is streamed from the Bahá’í Reference Library under its legal terms: it is displayed with the Community's copyright notice and attribution, is not relicensed, and is not used commercially. The import cache holds only the paragraphs that were validated, for the search index."
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "slug": "mundaka-upanishad",
+  "title": "Mundaka Upanishad",
+  "originalTitle": "मुण्डकोपनिषद्",
+  "transliteration": "Muṇḍaka Upaniṣad",
+  "altTitles": [],
+  "tradition": "hinduism",
+  "school": "vedanta",
+  "genre": "Scripture",
+  "textType": "Upanishad",
+  "category": "Scripture",
+  "subcategory": "Upanishads",
+  "originalLanguage": "sa",
+  "dateStart": -500,
+  "dateEnd": -300,
+  "dateDisplay": "c. 5th–3rd century BCE",
+  "authorshipStatus": "anonymous",
+  "author": "",
+  "attributionNote": "The Upanishads are anonymous and composite texts. The catalogue records the school of the Veda to which the text belongs and does not assign an author.",
+  "description": "Three chapters distinguishing the lower knowledge of the Vedas and sciences from the higher knowledge by which the imperishable is known. Its image of the two birds on one tree, one eating the fruit and one watching, is among the most quoted passages in the Upanishads.",
+  "historicalContext": "Belonging to the Atharvaveda. Max Müller's translation is in the second volume of the Sacred Books of the East (1884).",
+  "availabilityNote": "Streamed from Wikisource page by page at read time. The 1884 translation by F. Max Müller is public domain; the page text is served by Wikisource under its own terms.",
+  "featured": false,
+  "featuredNote": "",
+  "refScheme": "chapter.paragraph",
+  "isSample": false,
+  "textStorage": "streamed",
+  "chapters": [
+    {
+      "ref": "1",
+      "label": "Mundaka Upanishad"
+    }
+  ],
+  "passages": [
+    {
+      "reference": "1.1",
+      "label": "Mundaka Upanishad §1",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.2",
+      "label": "Mundaka Upanishad §2",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.3",
+      "label": "Mundaka Upanishad §3",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.4",
+      "label": "Mundaka Upanishad §4",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.5",
+      "label": "Mundaka Upanishad §5",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.6",
+      "label": "Mundaka Upanishad §6",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.7",
+      "label": "Mundaka Upanishad §7",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.8",
+      "label": "Mundaka Upanishad §8",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.9",
+      "label": "Mundaka Upanishad §9",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.10",
+      "label": "Mundaka Upanishad §10",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.11",
+      "label": "Mundaka Upanishad §11",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.12",
+      "label": "Mundaka Upanishad §12",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.13",
+      "label": "Mundaka Upanishad §13",
+      "chapterRef": "1"
+    }
+  ],
+  "editions": [
+    {
+      "slug": "mundaka-upanishad-en",
+      "language": "en",
+      "editionType": "translation",
+      "title": "The Upanishads, translated by F. Max Müller (Sacred Books of the East, 1884)",
+      "translator": "F. Max Müller",
+      "publisher": "Wikisource",
+      "publicationYear": 1884,
+      "source": "wikisource",
+      "license": "public-domain",
+      "rightsStatus": "Public-domain translation",
+      "attributionText": "The Upanishads, translated by F. Max Müller (1884). Public domain. Digital text served by Wikisource.",
+      "structureScheme": "one Wikisource page per chapter",
+      "isSample": false,
+      "notes": "Only the English translation is hosted; the Sanskrit text is not reproduced. The edition is the Sacred Books of the East volume named in the translation title."
+    }
+  ]
+}

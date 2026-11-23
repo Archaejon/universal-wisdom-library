@@ -1,0 +1,679 @@
+{
+  "slug": "aryabhatiya",
+  "title": "The Aryabhatiya",
+  "originalTitle": "आर्यभटीय",
+  "transliteration": "Āryabhaṭīya",
+  "altTitles": [
+    "Aryabhatiya of Aryabhata",
+    "Aryabhatiyam"
+  ],
+  "tradition": "hinduism",
+  "school": "jyotisha",
+  "genre": "Astronomy",
+  "textType": "Verses on mathematics and astronomy",
+  "category": "Science",
+  "subcategory": "Astronomy",
+  "originalLanguage": "sa",
+  "dateStart": 499,
+  "dateEnd": 499,
+  "dateDisplay": "499 CE",
+  "authorshipStatus": "established",
+  "author": "aryabhata",
+  "attributionNote": "Written by Aryabhata of Kusumapura in 499 CE, who states his date, his school and the tradition he follows in the work itself.",
+  "description": "The Aryabhatiya is the oldest surviving Sanskrit work of mathematics and astronomy to treat both systematically: in four parts it gives the alphabetic notation of numbers, the arithmetic of squares, cubes, roots and proportions, the rules of interest and progressions, sines of arcs, the rotation of the earth, the sizes and periods of the sun, moon and planets and the calculation of eclipses.",
+  "historicalContext": "Aryabhata's earth rotates, his sines are tabulated for astronomy, and his place-value system with a written zero reached the Arab world and beyond — the arithmetic algorithms of medieval Europe are called after his name. Commentaries by Bhaskara I and Someshvara carried the work into the astronomical tradition that his critics and successors shaped.",
+  "availabilityNote": "Complete: all four parts (the ten-verse summary and the three divisions) in the Sanskrit text GRETIL publishes, streamed from GRETIL at read time, one part at a time. This is the original Sanskrit, not a translation.",
+  "featured": false,
+  "featuredNote": "",
+  "refScheme": "part.verse",
+  "isSample": false,
+  "textStorage": "streamed",
+  "chapters": [
+    {
+      "ref": "1",
+      "label": "Pāda 1"
+    },
+    {
+      "ref": "2",
+      "label": "Pāda 2"
+    },
+    {
+      "ref": "3",
+      "label": "Pāda 3"
+    },
+    {
+      "ref": "4",
+      "label": "Pāda 4"
+    }
+  ],
+  "passages": [
+    {
+      "reference": "1.1",
+      "label": "Pāda 1 §1",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.2",
+      "label": "Pāda 1 §2",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.3",
+      "label": "Pāda 1 §3",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.4",
+      "label": "Pāda 1 §4",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.5",
+      "label": "Pāda 1 §5",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.6",
+      "label": "Pāda 1 §6",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.7",
+      "label": "Pāda 1 §7",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.8",
+      "label": "Pāda 1 §8",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.9",
+      "label": "Pāda 1 §9",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.10",
+      "label": "Pāda 1 §10",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.11",
+      "label": "Pāda 1 §11",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.12",
+      "label": "Pāda 1 §12",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.13",
+      "label": "Pāda 1 §13",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "2.1",
+      "label": "Pāda 2 §1",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.2",
+      "label": "Pāda 2 §2",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.3",
+      "label": "Pāda 2 §3",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.4",
+      "label": "Pāda 2 §4",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.5",
+      "label": "Pāda 2 §5",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.6",
+      "label": "Pāda 2 §6",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.7",
+      "label": "Pāda 2 §7",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.8",
+      "label": "Pāda 2 §8",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.9",
+      "label": "Pāda 2 §9",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.10",
+      "label": "Pāda 2 §10",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.11",
+      "label": "Pāda 2 §11",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.12",
+      "label": "Pāda 2 §12",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.13",
+      "label": "Pāda 2 §13",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.14",
+      "label": "Pāda 2 §14",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.15",
+      "label": "Pāda 2 §15",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.16",
+      "label": "Pāda 2 §16",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.17",
+      "label": "Pāda 2 §17",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.18",
+      "label": "Pāda 2 §18",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.19",
+      "label": "Pāda 2 §19",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.20",
+      "label": "Pāda 2 §20",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.21",
+      "label": "Pāda 2 §21",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.22",
+      "label": "Pāda 2 §22",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.23",
+      "label": "Pāda 2 §23",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.24",
+      "label": "Pāda 2 §24",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.25",
+      "label": "Pāda 2 §25",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.26",
+      "label": "Pāda 2 §26",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.27",
+      "label": "Pāda 2 §27",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.28",
+      "label": "Pāda 2 §28",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.29",
+      "label": "Pāda 2 §29",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.30",
+      "label": "Pāda 2 §30",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.31",
+      "label": "Pāda 2 §31",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.32",
+      "label": "Pāda 2 §32",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.33",
+      "label": "Pāda 2 §33",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.22#2",
+      "label": "Pāda 2 §22",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "3.1",
+      "label": "Pāda 3 §1",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.2",
+      "label": "Pāda 3 §2",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.3",
+      "label": "Pāda 3 §3",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.4",
+      "label": "Pāda 3 §4",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.5",
+      "label": "Pāda 3 §5",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.6",
+      "label": "Pāda 3 §6",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.7",
+      "label": "Pāda 3 §7",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.8",
+      "label": "Pāda 3 §8",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.9",
+      "label": "Pāda 3 §9",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.10",
+      "label": "Pāda 3 §10",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.11",
+      "label": "Pāda 3 §11",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.12",
+      "label": "Pāda 3 §12",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.13",
+      "label": "Pāda 3 §13",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.14",
+      "label": "Pāda 3 §14",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.15",
+      "label": "Pāda 3 §15",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.16",
+      "label": "Pāda 3 §16",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.17",
+      "label": "Pāda 3 §17",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.18",
+      "label": "Pāda 3 §18",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.19",
+      "label": "Pāda 3 §19",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.20",
+      "label": "Pāda 3 §20",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.21",
+      "label": "Pāda 3 §21",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.22",
+      "label": "Pāda 3 §22",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.23",
+      "label": "Pāda 3 §23",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.24",
+      "label": "Pāda 3 §24",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.25",
+      "label": "Pāda 3 §25",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "4.1",
+      "label": "Pāda 4 §1",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.2",
+      "label": "Pāda 4 §2",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.3",
+      "label": "Pāda 4 §3",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.4",
+      "label": "Pāda 4 §4",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.5",
+      "label": "Pāda 4 §5",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.6",
+      "label": "Pāda 4 §6",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.7",
+      "label": "Pāda 4 §7",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.8",
+      "label": "Pāda 4 §8",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.9",
+      "label": "Pāda 4 §9",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.10",
+      "label": "Pāda 4 §10",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.11",
+      "label": "Pāda 4 §11",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.12",
+      "label": "Pāda 4 §12",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.13",
+      "label": "Pāda 4 §13",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.14",
+      "label": "Pāda 4 §14",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.15",
+      "label": "Pāda 4 §15",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.16",
+      "label": "Pāda 4 §16",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.17",
+      "label": "Pāda 4 §17",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.18",
+      "label": "Pāda 4 §18",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.19",
+      "label": "Pāda 4 §19",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.20",
+      "label": "Pāda 4 §20",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.21",
+      "label": "Pāda 4 §21",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.22",
+      "label": "Pāda 4 §22",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.23",
+      "label": "Pāda 4 §23",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.24",
+      "label": "Pāda 4 §24",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.25",
+      "label": "Pāda 4 §25",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.26",
+      "label": "Pāda 4 §26",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.27",
+      "label": "Pāda 4 §27",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.28",
+      "label": "Pāda 4 §28",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.29",
+      "label": "Pāda 4 §29",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.30",
+      "label": "Pāda 4 §30",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.31",
+      "label": "Pāda 4 §31",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.32",
+      "label": "Pāda 4 §32",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.33",
+      "label": "Pāda 4 §33",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.34",
+      "label": "Pāda 4 §34",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.35",
+      "label": "Pāda 4 §35",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.36",
+      "label": "Pāda 4 §36",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.37",
+      "label": "Pāda 4 §37",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.38",
+      "label": "Pāda 4 §38",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.39",
+      "label": "Pāda 4 §39",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.40",
+      "label": "Pāda 4 §40",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.41",
+      "label": "Pāda 4 §41",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.42",
+      "label": "Pāda 4 §42",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.43",
+      "label": "Pāda 4 §43",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.44",
+      "label": "Pāda 4 §44",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.45",
+      "label": "Pāda 4 §45",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.46",
+      "label": "Pāda 4 §46",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.47",
+      "label": "Pāda 4 §47",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.48",
+      "label": "Pāda 4 §48",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.49",
+      "label": "Pāda 4 §49",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.50",
+      "label": "Pāda 4 §50",
+      "chapterRef": "4"
+    }
+  ],
+  "editions": [
+    {
+      "slug": "aryabhatiya-sa",
+      "language": "sa",
+      "editionType": "original",
+      "title": "Āryabhaṭīya (GRETIL e-text)",
+      "translator": "",
+      "publisher": "GRETIL, Göttingen State and University Library",
+      "publicationYear": 2020,
+      "source": "gretil",
+      "license": "cc-by-nc-sa-4.0",
+      "rightsStatus": "CC BY-NC-SA 4.0 as recorded in the e-text header",
+      "attributionText": "The Aryabhatiya. GRETIL e-text 2020-07-31, Göttingen Register of Electronic Texts in Indian Languages. Source edition: K.S. Shukla's edition, New Delhi: INSA 1976. Input by T. Hayashi.",
+      "structureScheme": "reference index; each passage is one verse as GRETIL numbers it",
+      "isSample": false,
+      "notes": "This e-text was provided to GRETIL in good faith that no copyright rights have been infringed. If anyone wishes to assert copyright over this file, please contact the GRETIL management at gretil(at)sub(dot)uni-goettingen(dot)de. The file will be immediately removed pending resolution of the claim. Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. GRETIL describes the reference scheme as: A reference is assembled consisting of a pragmatic abbreviation of the title: Āryabhaṭīya = AB, the number of the  in arabic numerals, the number of the verse in arabic numerals.. The import cache stores the exact segments that were validated. The reader re-fetches the work from GRETIL and reports when the served count no longer matches the index."
+    }
+  ]
+}

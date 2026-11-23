@@ -1,0 +1,1628 @@
+{
+  "slug": "krsnamrta-maharnava-kam",
+  "title": "Kṛṣṇāmṛta-mahārṇava",
+  "originalTitle": "कृष्णामृतमहार्णवः",
+  "transliteration": "Kṛṣṇāmṛta-mahārṇava",
+  "altTitles": [],
+  "tradition": "hinduism",
+  "school": "",
+  "genre": "Scripture",
+  "textType": "Sanskrit verse (sloka)",
+  "category": "Dharmaśāstra",
+  "subcategory": "",
+  "originalLanguage": "sa",
+  "dateStart": null,
+  "dateEnd": null,
+  "dateDisplay": "",
+  "authorshipStatus": "traditional",
+  "author": "madhva",
+  "attributionNote": "Kṛṣṇāmṛta-mahārṇava, attributed to Madhvācārya (Ānandatīrtha), as Heritage IITKanpur's Scripture Server catalogues it (KAM), on its own shelf.",
+  "description": "The summary above is the one Heritage IITKanpur's Scripture Server publishes for the text; an editor's note for the work itself is still to be written.",
+  "historicalContext": "Read in the Heritage Scripture Server corpus, which continues the Gita Supersite built at IIT Kanpur: the text, its classical commentaries and the translations the server may serve are held together there.",
+  "availabilityNote": "The outline is held: 22 chapter(s) and 298 verse address(es), read from the server's own catalogue. The verses are not stored — the licence forbids bulk harvesting and database reconstruction — and are streamed from the API one verse at a time as the work is read, with the attribution HCAL-1.1 requires and the server's own quota and licence notice.",
+  "featured": false,
+  "featuredNote": "",
+  "refScheme": "chapter.verse",
+  "isSample": false,
+  "textStorage": "streamed",
+  "chapters": [
+    {
+      "ref": "1",
+      "label": "1. मङ्गलाचरणम्"
+    },
+    {
+      "ref": "2",
+      "label": "2. विष्ण्वर्चनमहिमा"
+    },
+    {
+      "ref": "3",
+      "label": "3. हरिस्मरणमहिमा"
+    },
+    {
+      "ref": "4",
+      "label": "4. हरिध्यानमहिमा"
+    },
+    {
+      "ref": "5",
+      "label": "5. हरिकीर्तनमहिमा"
+    },
+    {
+      "ref": "6",
+      "label": "6. विष्णुप्रदक्षिणनमस्करादि"
+    },
+    {
+      "ref": "7",
+      "label": "7. विष्णुनैवेद्यमहिमा"
+    },
+    {
+      "ref": "8",
+      "label": "8. विष्णुपादोदकमहिमा"
+    },
+    {
+      "ref": "9",
+      "label": "9. विष्णुचक्राङ्कितमहिमा"
+    },
+    {
+      "ref": "10",
+      "label": "10. पुनश्च विष्ण्वर्चनादिमहिमा"
+    },
+    {
+      "ref": "11",
+      "label": "11. एकादश्यादिमहिमा"
+    },
+    {
+      "ref": "12",
+      "label": "12. विष्णुभक्तिमहिमा"
+    },
+    {
+      "ref": "13",
+      "label": "13. विष्णुप्रार्थना"
+    },
+    {
+      "ref": "14",
+      "label": "14. विष्णुस्मरणफलम्"
+    },
+    {
+      "ref": "15",
+      "label": "15. शास्त्रश्रवणादिविचारः"
+    },
+    {
+      "ref": "16",
+      "label": "16. पुनश्च विष्णुपादोदकादिमहिमा"
+    },
+    {
+      "ref": "17",
+      "label": "17. वैराग्योपदेशो विष्णुध्यानादिमहिमा च"
+    },
+    {
+      "ref": "18",
+      "label": "18. विष्णुज्ञानस्यावश्यकता"
+    },
+    {
+      "ref": "19",
+      "label": "19. अर्चनादिषु तारतम्यादि"
+    },
+    {
+      "ref": "20",
+      "label": "20. गोपिचन्दनमहिमा (ऊर्ध्वपुण्ड्रमहिमा)"
+    },
+    {
+      "ref": "21",
+      "label": "21. ज्ञानिनोऽपि कर्मविधिः"
+    },
+    {
+      "ref": "22",
+      "label": "22. उपसंहारः, अन्तिममङ्गलाचरणम्"
+    }
+  ],
+  "passages": [
+    {
+      "reference": "1.1",
+      "label": "1. मङ्गलाचरणम् · verse 1",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.2",
+      "label": "1. मङ्गलाचरणम् · verse 2",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "2.1",
+      "label": "2. विष्ण्वर्चनमहिमा · verse 1",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.2",
+      "label": "2. विष्ण्वर्चनमहिमा · verse 2",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.3",
+      "label": "2. विष्ण्वर्चनमहिमा · verse 3",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.4",
+      "label": "2. विष्ण्वर्चनमहिमा · verse 4",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.5",
+      "label": "2. विष्ण्वर्चनमहिमा · verse 5",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.6",
+      "label": "2. विष्ण्वर्चनमहिमा · verse 6",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.7",
+      "label": "2. विष्ण्वर्चनमहिमा · verse 7",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.8",
+      "label": "2. विष्ण्वर्चनमहिमा · verse 8",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.9",
+      "label": "2. विष्ण्वर्चनमहिमा · verse 9",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.10",
+      "label": "2. विष्ण्वर्चनमहिमा · verse 10",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.11",
+      "label": "2. विष्ण्वर्चनमहिमा · verse 11",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.12",
+      "label": "2. विष्ण्वर्चनमहिमा · verse 12",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.13",
+      "label": "2. विष्ण्वर्चनमहिमा · verse 13",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.14",
+      "label": "2. विष्ण्वर्चनमहिमा · verse 14",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.15",
+      "label": "2. विष्ण्वर्चनमहिमा · verse 15",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.16",
+      "label": "2. विष्ण्वर्चनमहिमा · verse 16",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.17",
+      "label": "2. विष्ण्वर्चनमहिमा · verse 17",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.18",
+      "label": "2. विष्ण्वर्चनमहिमा · verse 18",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.19",
+      "label": "2. विष्ण्वर्चनमहिमा · verse 19",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.20",
+      "label": "2. विष्ण्वर्चनमहिमा · verse 20",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.21",
+      "label": "2. विष्ण्वर्चनमहिमा · verse 21",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.22",
+      "label": "2. विष्ण्वर्चनमहिमा · verse 22",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.23",
+      "label": "2. विष्ण्वर्चनमहिमा · verse 23",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.24",
+      "label": "2. विष्ण्वर्चनमहिमा · verse 24",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.25",
+      "label": "2. विष्ण्वर्चनमहिमा · verse 25",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.26",
+      "label": "2. विष्ण्वर्चनमहिमा · verse 26",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.27",
+      "label": "2. विष्ण्वर्चनमहिमा · verse 27",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.28",
+      "label": "2. विष्ण्वर्चनमहिमा · verse 28",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.29",
+      "label": "2. विष्ण्वर्चनमहिमा · verse 29",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.30",
+      "label": "2. विष्ण्वर्चनमहिमा · verse 30",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.31",
+      "label": "2. विष्ण्वर्चनमहिमा · verse 31",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.32",
+      "label": "2. विष्ण्वर्चनमहिमा · verse 32",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.33",
+      "label": "2. विष्ण्वर्चनमहिमा · verse 33",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.34",
+      "label": "2. विष्ण्वर्चनमहिमा · verse 34",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "3.1",
+      "label": "3. हरिस्मरणमहिमा · verse 1",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.2",
+      "label": "3. हरिस्मरणमहिमा · verse 2",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.3",
+      "label": "3. हरिस्मरणमहिमा · verse 3",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.4",
+      "label": "3. हरिस्मरणमहिमा · verse 4",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.5",
+      "label": "3. हरिस्मरणमहिमा · verse 5",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.6",
+      "label": "3. हरिस्मरणमहिमा · verse 6",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.7",
+      "label": "3. हरिस्मरणमहिमा · verse 7",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.8",
+      "label": "3. हरिस्मरणमहिमा · verse 8",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.9",
+      "label": "3. हरिस्मरणमहिमा · verse 9",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.10",
+      "label": "3. हरिस्मरणमहिमा · verse 10",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.11",
+      "label": "3. हरिस्मरणमहिमा · verse 11",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.12",
+      "label": "3. हरिस्मरणमहिमा · verse 12",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.13",
+      "label": "3. हरिस्मरणमहिमा · verse 13",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.14",
+      "label": "3. हरिस्मरणमहिमा · verse 14",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.15",
+      "label": "3. हरिस्मरणमहिमा · verse 15",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.16",
+      "label": "3. हरिस्मरणमहिमा · verse 16",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "4.1",
+      "label": "4. हरिध्यानमहिमा · verse 1",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.2",
+      "label": "4. हरिध्यानमहिमा · verse 2",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.3",
+      "label": "4. हरिध्यानमहिमा · verse 3",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.4",
+      "label": "4. हरिध्यानमहिमा · verse 4",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.5",
+      "label": "4. हरिध्यानमहिमा · verse 5",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.6",
+      "label": "4. हरिध्यानमहिमा · verse 6",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.7",
+      "label": "4. हरिध्यानमहिमा · verse 7",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "5.1",
+      "label": "5. हरिकीर्तनमहिमा · verse 1",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.2",
+      "label": "5. हरिकीर्तनमहिमा · verse 2",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.3",
+      "label": "5. हरिकीर्तनमहिमा · verse 3",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.4",
+      "label": "5. हरिकीर्तनमहिमा · verse 4",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.5",
+      "label": "5. हरिकीर्तनमहिमा · verse 5",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.6",
+      "label": "5. हरिकीर्तनमहिमा · verse 6",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.7",
+      "label": "5. हरिकीर्तनमहिमा · verse 7",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.8",
+      "label": "5. हरिकीर्तनमहिमा · verse 8",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.9",
+      "label": "5. हरिकीर्तनमहिमा · verse 9",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.10",
+      "label": "5. हरिकीर्तनमहिमा · verse 10",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.11",
+      "label": "5. हरिकीर्तनमहिमा · verse 11",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.12",
+      "label": "5. हरिकीर्तनमहिमा · verse 12",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.13",
+      "label": "5. हरिकीर्तनमहिमा · verse 13",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.14",
+      "label": "5. हरिकीर्तनमहिमा · verse 14",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.15",
+      "label": "5. हरिकीर्तनमहिमा · verse 15",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.16",
+      "label": "5. हरिकीर्तनमहिमा · verse 16",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.17",
+      "label": "5. हरिकीर्तनमहिमा · verse 17",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.18",
+      "label": "5. हरिकीर्तनमहिमा · verse 18",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.19",
+      "label": "5. हरिकीर्तनमहिमा · verse 19",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.20",
+      "label": "5. हरिकीर्तनमहिमा · verse 20",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.21",
+      "label": "5. हरिकीर्तनमहिमा · verse 21",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.22",
+      "label": "5. हरिकीर्तनमहिमा · verse 22",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.23",
+      "label": "5. हरिकीर्तनमहिमा · verse 23",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.24",
+      "label": "5. हरिकीर्तनमहिमा · verse 24",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.25",
+      "label": "5. हरिकीर्तनमहिमा · verse 25",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.26",
+      "label": "5. हरिकीर्तनमहिमा · verse 26",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.27",
+      "label": "5. हरिकीर्तनमहिमा · verse 27",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.28",
+      "label": "5. हरिकीर्तनमहिमा · verse 28",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.29",
+      "label": "5. हरिकीर्तनमहिमा · verse 29",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "6.1",
+      "label": "6. विष्णुप्रदक्षिणनमस्करादि · verse 1",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.2",
+      "label": "6. विष्णुप्रदक्षिणनमस्करादि · verse 2",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.3",
+      "label": "6. विष्णुप्रदक्षिणनमस्करादि · verse 3",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.4",
+      "label": "6. विष्णुप्रदक्षिणनमस्करादि · verse 4",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.5",
+      "label": "6. विष्णुप्रदक्षिणनमस्करादि · verse 5",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.6",
+      "label": "6. विष्णुप्रदक्षिणनमस्करादि · verse 6",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.7",
+      "label": "6. विष्णुप्रदक्षिणनमस्करादि · verse 7",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.8",
+      "label": "6. विष्णुप्रदक्षिणनमस्करादि · verse 8",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "7.1",
+      "label": "7. विष्णुनैवेद्यमहिमा · verse 1",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.2",
+      "label": "7. विष्णुनैवेद्यमहिमा · verse 2",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.3",
+      "label": "7. विष्णुनैवेद्यमहिमा · verse 3",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.4",
+      "label": "7. विष्णुनैवेद्यमहिमा · verse 4",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.5",
+      "label": "7. विष्णुनैवेद्यमहिमा · verse 5",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.6",
+      "label": "7. विष्णुनैवेद्यमहिमा · verse 6",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.7",
+      "label": "7. विष्णुनैवेद्यमहिमा · verse 7",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "8.1",
+      "label": "8. विष्णुपादोदकमहिमा · verse 1",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.2",
+      "label": "8. विष्णुपादोदकमहिमा · verse 2",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.3",
+      "label": "8. विष्णुपादोदकमहिमा · verse 3",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.4",
+      "label": "8. विष्णुपादोदकमहिमा · verse 4",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.5",
+      "label": "8. विष्णुपादोदकमहिमा · verse 5",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.6",
+      "label": "8. विष्णुपादोदकमहिमा · verse 6",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.7",
+      "label": "8. विष्णुपादोदकमहिमा · verse 7",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.8",
+      "label": "8. विष्णुपादोदकमहिमा · verse 8",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.9",
+      "label": "8. विष्णुपादोदकमहिमा · verse 9",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.10",
+      "label": "8. विष्णुपादोदकमहिमा · verse 10",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.11",
+      "label": "8. विष्णुपादोदकमहिमा · verse 11",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.12",
+      "label": "8. विष्णुपादोदकमहिमा · verse 12",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.13",
+      "label": "8. विष्णुपादोदकमहिमा · verse 13",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.14",
+      "label": "8. विष्णुपादोदकमहिमा · verse 14",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.15",
+      "label": "8. विष्णुपादोदकमहिमा · verse 15",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.16",
+      "label": "8. विष्णुपादोदकमहिमा · verse 16",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.17",
+      "label": "8. विष्णुपादोदकमहिमा · verse 17",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.18",
+      "label": "8. विष्णुपादोदकमहिमा · verse 18",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.19",
+      "label": "8. विष्णुपादोदकमहिमा · verse 19",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.20",
+      "label": "8. विष्णुपादोदकमहिमा · verse 20",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.21",
+      "label": "8. विष्णुपादोदकमहिमा · verse 21",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.22",
+      "label": "8. विष्णुपादोदकमहिमा · verse 22",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.23",
+      "label": "8. विष्णुपादोदकमहिमा · verse 23",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.24",
+      "label": "8. विष्णुपादोदकमहिमा · verse 24",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.25",
+      "label": "8. विष्णुपादोदकमहिमा · verse 25",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.26",
+      "label": "8. विष्णुपादोदकमहिमा · verse 26",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.27",
+      "label": "8. विष्णुपादोदकमहिमा · verse 27",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "9.1",
+      "label": "9. विष्णुचक्राङ्कितमहिमा · verse 1",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.2",
+      "label": "9. विष्णुचक्राङ्कितमहिमा · verse 2",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.3",
+      "label": "9. विष्णुचक्राङ्कितमहिमा · verse 3",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.4",
+      "label": "9. विष्णुचक्राङ्कितमहिमा · verse 4",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.5",
+      "label": "9. विष्णुचक्राङ्कितमहिमा · verse 5",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.6",
+      "label": "9. विष्णुचक्राङ्कितमहिमा · verse 6",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.7",
+      "label": "9. विष्णुचक्राङ्कितमहिमा · verse 7",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.8",
+      "label": "9. विष्णुचक्राङ्कितमहिमा · verse 8",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.9",
+      "label": "9. विष्णुचक्राङ्कितमहिमा · verse 9",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.10",
+      "label": "9. विष्णुचक्राङ्कितमहिमा · verse 10",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.11",
+      "label": "9. विष्णुचक्राङ्कितमहिमा · verse 11",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.12",
+      "label": "9. विष्णुचक्राङ्कितमहिमा · verse 12",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.13",
+      "label": "9. विष्णुचक्राङ्कितमहिमा · verse 13",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.14",
+      "label": "9. विष्णुचक्राङ्कितमहिमा · verse 14",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.15",
+      "label": "9. विष्णुचक्राङ्कितमहिमा · verse 15",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "10.1",
+      "label": "10. पुनश्च विष्ण्वर्चनादिमहिमा · verse 1",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.2",
+      "label": "10. पुनश्च विष्ण्वर्चनादिमहिमा · verse 2",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.3",
+      "label": "10. पुनश्च विष्ण्वर्चनादिमहिमा · verse 3",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.4",
+      "label": "10. पुनश्च विष्ण्वर्चनादिमहिमा · verse 4",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.5",
+      "label": "10. पुनश्च विष्ण्वर्चनादिमहिमा · verse 5",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.6",
+      "label": "10. पुनश्च विष्ण्वर्चनादिमहिमा · verse 6",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.7",
+      "label": "10. पुनश्च विष्ण्वर्चनादिमहिमा · verse 7",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.8",
+      "label": "10. पुनश्च विष्ण्वर्चनादिमहिमा · verse 8",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.9",
+      "label": "10. पुनश्च विष्ण्वर्चनादिमहिमा · verse 9",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.10",
+      "label": "10. पुनश्च विष्ण्वर्चनादिमहिमा · verse 10",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.11",
+      "label": "10. पुनश्च विष्ण्वर्चनादिमहिमा · verse 11",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.12",
+      "label": "10. पुनश्च विष्ण्वर्चनादिमहिमा · verse 12",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.13",
+      "label": "10. पुनश्च विष्ण्वर्चनादिमहिमा · verse 13",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.14",
+      "label": "10. पुनश्च विष्ण्वर्चनादिमहिमा · verse 14",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "11.1",
+      "label": "11. एकादश्यादिमहिमा · verse 1",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.2",
+      "label": "11. एकादश्यादिमहिमा · verse 2",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.3",
+      "label": "11. एकादश्यादिमहिमा · verse 3",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.4",
+      "label": "11. एकादश्यादिमहिमा · verse 4",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.5",
+      "label": "11. एकादश्यादिमहिमा · verse 5",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.6",
+      "label": "11. एकादश्यादिमहिमा · verse 6",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.7",
+      "label": "11. एकादश्यादिमहिमा · verse 7",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.8",
+      "label": "11. एकादश्यादिमहिमा · verse 8",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.9",
+      "label": "11. एकादश्यादिमहिमा · verse 9",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.10",
+      "label": "11. एकादश्यादिमहिमा · verse 10",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.11",
+      "label": "11. एकादश्यादिमहिमा · verse 11",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.12",
+      "label": "11. एकादश्यादिमहिमा · verse 12",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.13",
+      "label": "11. एकादश्यादिमहिमा · verse 13",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.14",
+      "label": "11. एकादश्यादिमहिमा · verse 14",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.15",
+      "label": "11. एकादश्यादिमहिमा · verse 15",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.16",
+      "label": "11. एकादश्यादिमहिमा · verse 16",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.17",
+      "label": "11. एकादश्यादिमहिमा · verse 17",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.18",
+      "label": "11. एकादश्यादिमहिमा · verse 18",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.19",
+      "label": "11. एकादश्यादिमहिमा · verse 19",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.20",
+      "label": "11. एकादश्यादिमहिमा · verse 20",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.21",
+      "label": "11. एकादश्यादिमहिमा · verse 21",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.22",
+      "label": "11. एकादश्यादिमहिमा · verse 22",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.23",
+      "label": "11. एकादश्यादिमहिमा · verse 23",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.24",
+      "label": "11. एकादश्यादिमहिमा · verse 24",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.25",
+      "label": "11. एकादश्यादिमहिमा · verse 25",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.26",
+      "label": "11. एकादश्यादिमहिमा · verse 26",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.27",
+      "label": "11. एकादश्यादिमहिमा · verse 27",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.28",
+      "label": "11. एकादश्यादिमहिमा · verse 28",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.29",
+      "label": "11. एकादश्यादिमहिमा · verse 29",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.30",
+      "label": "11. एकादश्यादिमहिमा · verse 30",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.31",
+      "label": "11. एकादश्यादिमहिमा · verse 31",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.32",
+      "label": "11. एकादश्यादिमहिमा · verse 32",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.33",
+      "label": "11. एकादश्यादिमहिमा · verse 33",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.34",
+      "label": "11. एकादश्यादिमहिमा · verse 34",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.35",
+      "label": "11. एकादश्यादिमहिमा · verse 35",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.36",
+      "label": "11. एकादश्यादिमहिमा · verse 36",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.37",
+      "label": "11. एकादश्यादिमहिमा · verse 37",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.38",
+      "label": "11. एकादश्यादिमहिमा · verse 38",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.39",
+      "label": "11. एकादश्यादिमहिमा · verse 39",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.40",
+      "label": "11. एकादश्यादिमहिमा · verse 40",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.41",
+      "label": "11. एकादश्यादिमहिमा · verse 41",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.42",
+      "label": "11. एकादश्यादिमहिमा · verse 42",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.43",
+      "label": "11. एकादश्यादिमहिमा · verse 43",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.44",
+      "label": "11. एकादश्यादिमहिमा · verse 44",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.45",
+      "label": "11. एकादश्यादिमहिमा · verse 45",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.46",
+      "label": "11. एकादश्यादिमहिमा · verse 46",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.47",
+      "label": "11. एकादश्यादिमहिमा · verse 47",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.48",
+      "label": "11. एकादश्यादिमहिमा · verse 48",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.49",
+      "label": "11. एकादश्यादिमहिमा · verse 49",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.50",
+      "label": "11. एकादश्यादिमहिमा · verse 50",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.51",
+      "label": "11. एकादश्यादिमहिमा · verse 51",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.52",
+      "label": "11. एकादश्यादिमहिमा · verse 52",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.53",
+      "label": "11. एकादश्यादिमहिमा · verse 53",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.54",
+      "label": "11. एकादश्यादिमहिमा · verse 54",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.55",
+      "label": "11. एकादश्यादिमहिमा · verse 55",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.56",
+      "label": "11. एकादश्यादिमहिमा · verse 56",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.57",
+      "label": "11. एकादश्यादिमहिमा · verse 57",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.58",
+      "label": "11. एकादश्यादिमहिमा · verse 58",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.59",
+      "label": "11. एकादश्यादिमहिमा · verse 59",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.60",
+      "label": "11. एकादश्यादिमहिमा · verse 60",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.61",
+      "label": "11. एकादश्यादिमहिमा · verse 61",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.62",
+      "label": "11. एकादश्यादिमहिमा · verse 62",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.63",
+      "label": "11. एकादश्यादिमहिमा · verse 63",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.64",
+      "label": "11. एकादश्यादिमहिमा · verse 64",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.65",
+      "label": "11. एकादश्यादिमहिमा · verse 65",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.66",
+      "label": "11. एकादश्यादिमहिमा · verse 66",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.67",
+      "label": "11. एकादश्यादिमहिमा · verse 67",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.68",
+      "label": "11. एकादश्यादिमहिमा · verse 68",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.69",
+      "label": "11. एकादश्यादिमहिमा · verse 69",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.70",
+      "label": "11. एकादश्यादिमहिमा · verse 70",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.71",
+      "label": "11. एकादश्यादिमहिमा · verse 71",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "12.1",
+      "label": "12. विष्णुभक्तिमहिमा · verse 1",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.2",
+      "label": "12. विष्णुभक्तिमहिमा · verse 2",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "13.1",
+      "label": "13. विष्णुप्रार्थना · verse 1",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.2",
+      "label": "13. विष्णुप्रार्थना · verse 2",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.3",
+      "label": "13. विष्णुप्रार्थना · verse 3",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.4",
+      "label": "13. विष्णुप्रार्थना · verse 4",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.5",
+      "label": "13. विष्णुप्रार्थना · verse 5",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.6",
+      "label": "13. विष्णुप्रार्थना · verse 6",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "14.1",
+      "label": "14. विष्णुस्मरणफलम् · verse 1",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.2",
+      "label": "14. विष्णुस्मरणफलम् · verse 2",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "15.1",
+      "label": "15. शास्त्रश्रवणादिविचारः · verse 1",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.2",
+      "label": "15. शास्त्रश्रवणादिविचारः · verse 2",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.3",
+      "label": "15. शास्त्रश्रवणादिविचारः · verse 3",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.4",
+      "label": "15. शास्त्रश्रवणादिविचारः · verse 4",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.5",
+      "label": "15. शास्त्रश्रवणादिविचारः · verse 5",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "16.1",
+      "label": "16. पुनश्च विष्णुपादोदकादिमहिमा · verse 1",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.2",
+      "label": "16. पुनश्च विष्णुपादोदकादिमहिमा · verse 2",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.3",
+      "label": "16. पुनश्च विष्णुपादोदकादिमहिमा · verse 3",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "17.1",
+      "label": "17. वैराग्योपदेशो विष्णुध्यानादिमहिमा च · verse 1",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.2",
+      "label": "17. वैराग्योपदेशो विष्णुध्यानादिमहिमा च · verse 2",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.3",
+      "label": "17. वैराग्योपदेशो विष्णुध्यानादिमहिमा च · verse 3",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.4",
+      "label": "17. वैराग्योपदेशो विष्णुध्यानादिमहिमा च · verse 4",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.5",
+      "label": "17. वैराग्योपदेशो विष्णुध्यानादिमहिमा च · verse 5",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.6",
+      "label": "17. वैराग्योपदेशो विष्णुध्यानादिमहिमा च · verse 6",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.7",
+      "label": "17. वैराग्योपदेशो विष्णुध्यानादिमहिमा च · verse 7",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.8",
+      "label": "17. वैराग्योपदेशो विष्णुध्यानादिमहिमा च · verse 8",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "18.1",
+      "label": "18. विष्णुज्ञानस्यावश्यकता · verse 1",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.2",
+      "label": "18. विष्णुज्ञानस्यावश्यकता · verse 2",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.3",
+      "label": "18. विष्णुज्ञानस्यावश्यकता · verse 3",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "19.1",
+      "label": "19. अर्चनादिषु तारतम्यादि · verse 1",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.2",
+      "label": "19. अर्चनादिषु तारतम्यादि · verse 2",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.3",
+      "label": "19. अर्चनादिषु तारतम्यादि · verse 3",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.4",
+      "label": "19. अर्चनादिषु तारतम्यादि · verse 4",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "20.1",
+      "label": "20. गोपिचन्दनमहिमा (ऊर्ध्वपुण्ड्रमहिमा) · verse 1",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.2",
+      "label": "20. गोपिचन्दनमहिमा (ऊर्ध्वपुण्ड्रमहिमा) · verse 2",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.3",
+      "label": "20. गोपिचन्दनमहिमा (ऊर्ध्वपुण्ड्रमहिमा) · verse 3",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.4",
+      "label": "20. गोपिचन्दनमहिमा (ऊर्ध्वपुण्ड्रमहिमा) · verse 4",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.5",
+      "label": "20. गोपिचन्दनमहिमा (ऊर्ध्वपुण्ड्रमहिमा) · verse 5",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.6",
+      "label": "20. गोपिचन्दनमहिमा (ऊर्ध्वपुण्ड्रमहिमा) · verse 6",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.7",
+      "label": "20. गोपिचन्दनमहिमा (ऊर्ध्वपुण्ड्रमहिमा) · verse 7",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.8",
+      "label": "20. गोपिचन्दनमहिमा (ऊर्ध्वपुण्ड्रमहिमा) · verse 8",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.9",
+      "label": "20. गोपिचन्दनमहिमा (ऊर्ध्वपुण्ड्रमहिमा) · verse 9",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.10",
+      "label": "20. गोपिचन्दनमहिमा (ऊर्ध्वपुण्ड्रमहिमा) · verse 10",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.11",
+      "label": "20. गोपिचन्दनमहिमा (ऊर्ध्वपुण्ड्रमहिमा) · verse 11",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.12",
+      "label": "20. गोपिचन्दनमहिमा (ऊर्ध्वपुण्ड्रमहिमा) · verse 12",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.13",
+      "label": "20. गोपिचन्दनमहिमा (ऊर्ध्वपुण्ड्रमहिमा) · verse 13",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.14",
+      "label": "20. गोपिचन्दनमहिमा (ऊर्ध्वपुण्ड्रमहिमा) · verse 14",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.15",
+      "label": "20. गोपिचन्दनमहिमा (ऊर्ध्वपुण्ड्रमहिमा) · verse 15",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.16",
+      "label": "20. गोपिचन्दनमहिमा (ऊर्ध्वपुण्ड्रमहिमा) · verse 16",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.17",
+      "label": "20. गोपिचन्दनमहिमा (ऊर्ध्वपुण्ड्रमहिमा) · verse 17",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.18",
+      "label": "20. गोपिचन्दनमहिमा (ऊर्ध्वपुण्ड्रमहिमा) · verse 18",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.19",
+      "label": "20. गोपिचन्दनमहिमा (ऊर्ध्वपुण्ड्रमहिमा) · verse 19",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.20",
+      "label": "20. गोपिचन्दनमहिमा (ऊर्ध्वपुण्ड्रमहिमा) · verse 20",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.21",
+      "label": "20. गोपिचन्दनमहिमा (ऊर्ध्वपुण्ड्रमहिमा) · verse 21",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.22",
+      "label": "20. गोपिचन्दनमहिमा (ऊर्ध्वपुण्ड्रमहिमा) · verse 22",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.23",
+      "label": "20. गोपिचन्दनमहिमा (ऊर्ध्वपुण्ड्रमहिमा) · verse 23",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.24",
+      "label": "20. गोपिचन्दनमहिमा (ऊर्ध्वपुण्ड्रमहिमा) · verse 24",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.25",
+      "label": "20. गोपिचन्दनमहिमा (ऊर्ध्वपुण्ड्रमहिमा) · verse 25",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.26",
+      "label": "20. गोपिचन्दनमहिमा (ऊर्ध्वपुण्ड्रमहिमा) · verse 26",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "21.1",
+      "label": "21. ज्ञानिनोऽपि कर्मविधिः · verse 1",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.2",
+      "label": "21. ज्ञानिनोऽपि कर्मविधिः · verse 2",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.3",
+      "label": "21. ज्ञानिनोऽपि कर्मविधिः · verse 3",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.4",
+      "label": "21. ज्ञानिनोऽपि कर्मविधिः · verse 4",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.5",
+      "label": "21. ज्ञानिनोऽपि कर्मविधिः · verse 5",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.6",
+      "label": "21. ज्ञानिनोऽपि कर्मविधिः · verse 6",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "22.1",
+      "label": "22. उपसंहारः, अन्तिममङ्गलाचरणम् · verse 1",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.2",
+      "label": "22. उपसंहारः, अन्तिममङ्गलाचरणम् · verse 2",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.3",
+      "label": "22. उपसंहारः, अन्तिममङ्गलाचरणम् · verse 3",
+      "chapterRef": "22"
+    }
+  ],
+  "editions": [
+    {
+      "slug": "krsnamrta-maharnava-kam-sa",
+      "language": "sa",
+      "editionType": "original",
+      "title": "Kṛṣṇāmṛta-mahārṇava (Heritage Scripture Server transcription)",
+      "translator": "",
+      "publisher": "Heritage IITKanpur, Heritage Scripture Server",
+      "publicationYear": null,
+      "source": "gita-supersite",
+      "license": "hcal-1-1",
+      "rightsStatus": "Tier A (the moolam and its transliterations): no modern copyright, freely redistributable. Where the API serves Tier B — the Sanskrit bhāṣya and the AI-generated, community and editorially authored translations — it is displayed non-commercially with attribution and is not relicensed here. Tier C, the authoritative modern-language translations and commentaries, is not served by the API and is not imported.",
+      "attributionText": "Kṛṣṇāmṛta-mahārṇava, Madhvācārya (Ānandatīrtha). Accessed via Heritage Scripture Server (heritage.iitk.ac.in), licence HCAL-1.1. Source: https://heritage.iitk.ac.in/KAM",
+      "structureScheme": "chapter and verse, as the server's own sections and verse addresses divide the text",
+      "isSample": false,
+      "notes": "The verse index was built from the server's published verse addresses. The verses themselves are fetched from the API at read time and are shown with the licence's attribution; the licence identifier and any watermark the server returns are left in place."
+    }
+  ]
+}

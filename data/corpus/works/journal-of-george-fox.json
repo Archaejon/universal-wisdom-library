@@ -1,0 +1,75 @@
+{
+  "slug": "journal-of-george-fox",
+  "title": "The Journal of George Fox",
+  "originalTitle": "",
+  "transliteration": "",
+  "altTitles": [
+    "Fox's Journal",
+    "A Journal or Historical Account of the Life, Travels, Sufferings, Christian Experiences, and Labour of Love of George Fox"
+  ],
+  "tradition": "quakerism",
+  "school": "",
+  "genre": "Journal and spiritual autobiography",
+  "textType": "Historical document",
+  "category": "Journal and spiritual autobiography",
+  "subcategory": "Historical document",
+  "originalLanguage": "en",
+  "dateStart": 1694,
+  "dateEnd": 1694,
+  "dateDisplay": "1694; this edition 1901",
+  "authorshipStatus": "established",
+  "author": "george-fox",
+  "attributionNote": "Written by George Fox and first published in 1694, after his death, with editorial work by Thomas Ellwood and others. This excerpt is from Norman Penney's 1901 eighth (bi-centenary) edition, which modernised some spelling and collated the first edition.",
+  "description": "George Fox's Journal is the central autobiographical account of the early Quaker movement. It describes his inward struggles, his conviction that true religion is experienced in the Spirit rather than in outward forms, and the first gatherings of Friends.",
+  "historicalContext": "Fox (1624–1691) travelled through England during the upheavals of the Civil War and Interregnum, preaching a religion of inward light and direct experience. The Journal was edited for publication after his death and became a foundational text for the Religious Society of Friends. It is not a book of discipline and does not speak for every Quaker yearly meeting.",
+  "availabilityNote": "",
+  "featured": false,
+  "featuredNote": "",
+  "refScheme": "section",
+  "isSample": true,
+  "textStorage": "local",
+  "chapters": [
+    {
+      "ref": "1",
+      "label": "Chapter I — 1647"
+    },
+    {
+      "ref": "2",
+      "label": "Chapter II — 1648"
+    }
+  ],
+  "passages": [
+    {
+      "reference": "1",
+      "label": "Chapter I (1647)",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "2",
+      "label": "Chapter II (1648)",
+      "chapterRef": "2"
+    }
+  ],
+  "editions": [
+    {
+      "slug": "fox-journal-en-gutenberg-1901",
+      "language": "en",
+      "editionType": "original",
+      "title": "The Journal of George Fox, vol. 1 of 2 (eighth edition)",
+      "translator": "",
+      "publisher": "Friends' Tract Association; Project Gutenberg transcription",
+      "publicationYear": 1901,
+      "source": "project-gutenberg",
+      "license": "public-domain",
+      "rightsStatus": "Public domain in the United States",
+      "attributionText": "The Journal of George Fox, vol. 1 of 2, eighth (bi-centenary) edition, edited by Norman Penney (London: Friends' Tract Association, 1901). Public domain in the United States. Plain text from Project Gutenberg eBook #75559, produced from Internet Archive images by Project Gutenberg volunteers.",
+      "structureScheme": "chapter",
+      "isSample": true,
+      "notes": "Two bounded excerpts imported by the tested Gutenberg adapter. The 1901 edition modernises some spelling and collates the first edition; it is not a verbatim 1694 text. This is a sample, not the complete Journal.",
+      "texts": {
+        "1": "Pharaoh, Cain, Ishmael, Esau, &c.; the natures of these I saw within, though people had been looking without. I cried to the Lord, saying, “Why should I be thus, seeing I was never addicted to commit those evils?” and the Lord answered, “That it was needful I should have a sense of all conditions, how else should I speak to all conditions?” and in this I saw the infinite love of God. I saw also, that there was an ocean of darkness and death; but an infinite ocean of light and love, which flowed over the ocean of darkness. In that also I saw the infinite love of God, and I had great openings.",
+        "2": "In the year 1648, as I was sitting in a friend’s house in Nottinghamshire (for by this time the power of God had opened the hearts of some to receive the word of life and reconciliation,) I saw there was a great crack to go throughout the earth, and a great smoke to go as the crack went; and that after the crack there should be a great shaking: this was the earth in people’s hearts, which was to be shaken before the seed of God was raised out of the earth. And it was so; for the Lord’s power began to shake them, and great meetings we begun to have, and a mighty power and work of God there was amongst people, to the astonishment of both people and priests."
+      }
+    }
+  ]
+}

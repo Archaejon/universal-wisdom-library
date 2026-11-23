@@ -1,0 +1,814 @@
+{
+  "slug": "karma-nirnaya-kmn",
+  "title": "Karma-nirṇaya",
+  "originalTitle": "कर्मनिर्णयः",
+  "transliteration": "Karma-nirṇaya",
+  "altTitles": [],
+  "tradition": "hinduism",
+  "school": "vedanta",
+  "genre": "Philosophy",
+  "textType": "Sanskrit text (paragraph)",
+  "category": "Dvaita Vedānta",
+  "subcategory": "",
+  "originalLanguage": "sa",
+  "dateStart": null,
+  "dateEnd": null,
+  "dateDisplay": "",
+  "authorshipStatus": "traditional",
+  "author": "madhva",
+  "attributionNote": "Karma-nirṇaya, attributed to Madhvācārya (Ānandatīrtha), as Heritage IITKanpur's Scripture Server catalogues it (KMN), on its own shelf.",
+  "description": "The summary above is the one Heritage IITKanpur's Scripture Server publishes for the text; an editor's note for the work itself is still to be written.",
+  "historicalContext": "Read in the Heritage Scripture Server corpus, which continues the Gita Supersite built at IIT Kanpur: the text, its classical commentaries and the translations the server may serve are held together there.",
+  "availabilityNote": "The outline is held: 6 chapter(s) and 148 verse address(es), read from the server's own catalogue. The verses are not stored — the licence forbids bulk harvesting and database reconstruction — and are streamed from the API one verse at a time as the work is read, with the attribution HCAL-1.1 requires and the server's own quota and licence notice.",
+  "featured": false,
+  "featuredNote": "",
+  "refScheme": "chapter.verse",
+  "isSample": false,
+  "textStorage": "streamed",
+  "chapters": [
+    {
+      "ref": "1",
+      "label": "1. मङ्गलाचारणम्"
+    },
+    {
+      "ref": "2",
+      "label": "2. उपोद्घातः"
+    },
+    {
+      "ref": "3",
+      "label": "3. महानाम्नीनां व्याख्यानम्"
+    },
+    {
+      "ref": "4",
+      "label": "4. शस्त्रशेषव्याख्यानम्"
+    },
+    {
+      "ref": "5",
+      "label": "5. शिष्टस्य ब्राह्मणस्य ऋचां च व्याख्यानम्"
+    },
+    {
+      "ref": "6",
+      "label": "6. अन्तिममङ्गलाचरणम्"
+    }
+  ],
+  "passages": [
+    {
+      "reference": "1.1",
+      "label": "1. मङ्गलाचारणम् · verse 1",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.2",
+      "label": "1. मङ्गलाचारणम् · verse 2",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "2.1",
+      "label": "2. उपोद्घातः · verse 1",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.2",
+      "label": "2. उपोद्घातः · verse 2",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.3",
+      "label": "2. उपोद्घातः · verse 3",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.4",
+      "label": "2. उपोद्घातः · verse 4",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.5",
+      "label": "2. उपोद्घातः · verse 5",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.6",
+      "label": "2. उपोद्घातः · verse 6",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.7",
+      "label": "2. उपोद्घातः · verse 7",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.8",
+      "label": "2. उपोद्घातः · verse 8",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.9",
+      "label": "2. उपोद्घातः · verse 9",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.10",
+      "label": "2. उपोद्घातः · verse 10",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.11",
+      "label": "2. उपोद्घातः · verse 11",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.12",
+      "label": "2. उपोद्घातः · verse 12",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.13",
+      "label": "2. उपोद्घातः · verse 13",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.14",
+      "label": "2. उपोद्घातः · verse 14",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.15",
+      "label": "2. उपोद्घातः · verse 15",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.16",
+      "label": "2. उपोद्घातः · verse 16",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "3.1",
+      "label": "3. महानाम्नीनां व्याख्यानम् · verse 1",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.2",
+      "label": "3. महानाम्नीनां व्याख्यानम् · verse 2",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.3",
+      "label": "3. महानाम्नीनां व्याख्यानम् · verse 3",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.4",
+      "label": "3. महानाम्नीनां व्याख्यानम् · verse 4",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.5",
+      "label": "3. महानाम्नीनां व्याख्यानम् · verse 5",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.6",
+      "label": "3. महानाम्नीनां व्याख्यानम् · verse 6",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.7",
+      "label": "3. महानाम्नीनां व्याख्यानम् · verse 7",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.8",
+      "label": "3. महानाम्नीनां व्याख्यानम् · verse 8",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.9",
+      "label": "3. महानाम्नीनां व्याख्यानम् · verse 9",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.10",
+      "label": "3. महानाम्नीनां व्याख्यानम् · verse 10",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.11",
+      "label": "3. महानाम्नीनां व्याख्यानम् · verse 11",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.12",
+      "label": "3. महानाम्नीनां व्याख्यानम् · verse 12",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.13",
+      "label": "3. महानाम्नीनां व्याख्यानम् · verse 13",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.14",
+      "label": "3. महानाम्नीनां व्याख्यानम् · verse 14",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.15",
+      "label": "3. महानाम्नीनां व्याख्यानम् · verse 15",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.16",
+      "label": "3. महानाम्नीनां व्याख्यानम् · verse 16",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.17",
+      "label": "3. महानाम्नीनां व्याख्यानम् · verse 17",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.18",
+      "label": "3. महानाम्नीनां व्याख्यानम् · verse 18",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.19",
+      "label": "3. महानाम्नीनां व्याख्यानम् · verse 19",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.20",
+      "label": "3. महानाम्नीनां व्याख्यानम् · verse 20",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.21",
+      "label": "3. महानाम्नीनां व्याख्यानम् · verse 21",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.22",
+      "label": "3. महानाम्नीनां व्याख्यानम् · verse 22",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.23",
+      "label": "3. महानाम्नीनां व्याख्यानम् · verse 23",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.24",
+      "label": "3. महानाम्नीनां व्याख्यानम् · verse 24",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.25",
+      "label": "3. महानाम्नीनां व्याख्यानम् · verse 25",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.26",
+      "label": "3. महानाम्नीनां व्याख्यानम् · verse 26",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.27",
+      "label": "3. महानाम्नीनां व्याख्यानम् · verse 27",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.28",
+      "label": "3. महानाम्नीनां व्याख्यानम् · verse 28",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.29",
+      "label": "3. महानाम्नीनां व्याख्यानम् · verse 29",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.30",
+      "label": "3. महानाम्नीनां व्याख्यानम् · verse 30",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.31",
+      "label": "3. महानाम्नीनां व्याख्यानम् · verse 31",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.32",
+      "label": "3. महानाम्नीनां व्याख्यानम् · verse 32",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.33",
+      "label": "3. महानाम्नीनां व्याख्यानम् · verse 33",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.34",
+      "label": "3. महानाम्नीनां व्याख्यानम् · verse 34",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.35",
+      "label": "3. महानाम्नीनां व्याख्यानम् · verse 35",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.36",
+      "label": "3. महानाम्नीनां व्याख्यानम् · verse 36",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.37",
+      "label": "3. महानाम्नीनां व्याख्यानम् · verse 37",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.38",
+      "label": "3. महानाम्नीनां व्याख्यानम् · verse 38",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.39",
+      "label": "3. महानाम्नीनां व्याख्यानम् · verse 39",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.40",
+      "label": "3. महानाम्नीनां व्याख्यानम् · verse 40",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.41",
+      "label": "3. महानाम्नीनां व्याख्यानम् · verse 41",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "4.1",
+      "label": "4. शस्त्रशेषव्याख्यानम् · verse 1",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.2",
+      "label": "4. शस्त्रशेषव्याख्यानम् · verse 2",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.3",
+      "label": "4. शस्त्रशेषव्याख्यानम् · verse 3",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.4",
+      "label": "4. शस्त्रशेषव्याख्यानम् · verse 4",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.5",
+      "label": "4. शस्त्रशेषव्याख्यानम् · verse 5",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.6",
+      "label": "4. शस्त्रशेषव्याख्यानम् · verse 6",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.7",
+      "label": "4. शस्त्रशेषव्याख्यानम् · verse 7",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.8",
+      "label": "4. शस्त्रशेषव्याख्यानम् · verse 8",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.9",
+      "label": "4. शस्त्रशेषव्याख्यानम् · verse 9",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.10",
+      "label": "4. शस्त्रशेषव्याख्यानम् · verse 10",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.11",
+      "label": "4. शस्त्रशेषव्याख्यानम् · verse 11",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.12",
+      "label": "4. शस्त्रशेषव्याख्यानम् · verse 12",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.13",
+      "label": "4. शस्त्रशेषव्याख्यानम् · verse 13",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.14",
+      "label": "4. शस्त्रशेषव्याख्यानम् · verse 14",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.15",
+      "label": "4. शस्त्रशेषव्याख्यानम् · verse 15",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.16",
+      "label": "4. शस्त्रशेषव्याख्यानम् · verse 16",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.17",
+      "label": "4. शस्त्रशेषव्याख्यानम् · verse 17",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.18",
+      "label": "4. शस्त्रशेषव्याख्यानम् · verse 18",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.19",
+      "label": "4. शस्त्रशेषव्याख्यानम् · verse 19",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.20",
+      "label": "4. शस्त्रशेषव्याख्यानम् · verse 20",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.21",
+      "label": "4. शस्त्रशेषव्याख्यानम् · verse 21",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.22",
+      "label": "4. शस्त्रशेषव्याख्यानम् · verse 22",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.23",
+      "label": "4. शस्त्रशेषव्याख्यानम् · verse 23",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.24",
+      "label": "4. शस्त्रशेषव्याख्यानम् · verse 24",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.25",
+      "label": "4. शस्त्रशेषव्याख्यानम् · verse 25",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.26",
+      "label": "4. शस्त्रशेषव्याख्यानम् · verse 26",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.27",
+      "label": "4. शस्त्रशेषव्याख्यानम् · verse 27",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.28",
+      "label": "4. शस्त्रशेषव्याख्यानम् · verse 28",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.29",
+      "label": "4. शस्त्रशेषव्याख्यानम् · verse 29",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.30",
+      "label": "4. शस्त्रशेषव्याख्यानम् · verse 30",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.31",
+      "label": "4. शस्त्रशेषव्याख्यानम् · verse 31",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.32",
+      "label": "4. शस्त्रशेषव्याख्यानम् · verse 32",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.33",
+      "label": "4. शस्त्रशेषव्याख्यानम् · verse 33",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.34",
+      "label": "4. शस्त्रशेषव्याख्यानम् · verse 34",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.35",
+      "label": "4. शस्त्रशेषव्याख्यानम् · verse 35",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.36",
+      "label": "4. शस्त्रशेषव्याख्यानम् · verse 36",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.37",
+      "label": "4. शस्त्रशेषव्याख्यानम् · verse 37",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.38",
+      "label": "4. शस्त्रशेषव्याख्यानम् · verse 38",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.39",
+      "label": "4. शस्त्रशेषव्याख्यानम् · verse 39",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.40",
+      "label": "4. शस्त्रशेषव्याख्यानम् · verse 40",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.41",
+      "label": "4. शस्त्रशेषव्याख्यानम् · verse 41",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.42",
+      "label": "4. शस्त्रशेषव्याख्यानम् · verse 42",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.43",
+      "label": "4. शस्त्रशेषव्याख्यानम् · verse 43",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.44",
+      "label": "4. शस्त्रशेषव्याख्यानम् · verse 44",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.45",
+      "label": "4. शस्त्रशेषव्याख्यानम् · verse 45",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.46",
+      "label": "4. शस्त्रशेषव्याख्यानम् · verse 46",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.47",
+      "label": "4. शस्त्रशेषव्याख्यानम् · verse 47",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.48",
+      "label": "4. शस्त्रशेषव्याख्यानम् · verse 48",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.49",
+      "label": "4. शस्त्रशेषव्याख्यानम् · verse 49",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.50",
+      "label": "4. शस्त्रशेषव्याख्यानम् · verse 50",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.51",
+      "label": "4. शस्त्रशेषव्याख्यानम् · verse 51",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.52",
+      "label": "4. शस्त्रशेषव्याख्यानम् · verse 52",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.53",
+      "label": "4. शस्त्रशेषव्याख्यानम् · verse 53",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.54",
+      "label": "4. शस्त्रशेषव्याख्यानम् · verse 54",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.55",
+      "label": "4. शस्त्रशेषव्याख्यानम् · verse 55",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.56",
+      "label": "4. शस्त्रशेषव्याख्यानम् · verse 56",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.57",
+      "label": "4. शस्त्रशेषव्याख्यानम् · verse 57",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.58",
+      "label": "4. शस्त्रशेषव्याख्यानम् · verse 58",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.59",
+      "label": "4. शस्त्रशेषव्याख्यानम् · verse 59",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.60",
+      "label": "4. शस्त्रशेषव्याख्यानम् · verse 60",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.61",
+      "label": "4. शस्त्रशेषव्याख्यानम् · verse 61",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.62",
+      "label": "4. शस्त्रशेषव्याख्यानम् · verse 62",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.63",
+      "label": "4. शस्त्रशेषव्याख्यानम् · verse 63",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.64",
+      "label": "4. शस्त्रशेषव्याख्यानम् · verse 64",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.65",
+      "label": "4. शस्त्रशेषव्याख्यानम् · verse 65",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.66",
+      "label": "4. शस्त्रशेषव्याख्यानम् · verse 66",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.67",
+      "label": "4. शस्त्रशेषव्याख्यानम् · verse 67",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.68",
+      "label": "4. शस्त्रशेषव्याख्यानम् · verse 68",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.69",
+      "label": "4. शस्त्रशेषव्याख्यानम् · verse 69",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.70",
+      "label": "4. शस्त्रशेषव्याख्यानम् · verse 70",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.71",
+      "label": "4. शस्त्रशेषव्याख्यानम् · verse 71",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.72",
+      "label": "4. शस्त्रशेषव्याख्यानम् · verse 72",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.73",
+      "label": "4. शस्त्रशेषव्याख्यानम् · verse 73",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.74",
+      "label": "4. शस्त्रशेषव्याख्यानम् · verse 74",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.75",
+      "label": "4. शस्त्रशेषव्याख्यानम् · verse 75",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.76",
+      "label": "4. शस्त्रशेषव्याख्यानम् · verse 76",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "5.1",
+      "label": "5. शिष्टस्य ब्राह्मणस्य ऋचां च व्याख्यानम् · verse 1",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.2",
+      "label": "5. शिष्टस्य ब्राह्मणस्य ऋचां च व्याख्यानम् · verse 2",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.3",
+      "label": "5. शिष्टस्य ब्राह्मणस्य ऋचां च व्याख्यानम् · verse 3",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.4",
+      "label": "5. शिष्टस्य ब्राह्मणस्य ऋचां च व्याख्यानम् · verse 4",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.5",
+      "label": "5. शिष्टस्य ब्राह्मणस्य ऋचां च व्याख्यानम् · verse 5",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.6",
+      "label": "5. शिष्टस्य ब्राह्मणस्य ऋचां च व्याख्यानम् · verse 6",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.7",
+      "label": "5. शिष्टस्य ब्राह्मणस्य ऋचां च व्याख्यानम् · verse 7",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.8",
+      "label": "5. शिष्टस्य ब्राह्मणस्य ऋचां च व्याख्यानम् · verse 8",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.9",
+      "label": "5. शिष्टस्य ब्राह्मणस्य ऋचां च व्याख्यानम् · verse 9",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.10",
+      "label": "5. शिष्टस्य ब्राह्मणस्य ऋचां च व्याख्यानम् · verse 10",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.11",
+      "label": "5. शिष्टस्य ब्राह्मणस्य ऋचां च व्याख्यानम् · verse 11",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "6.1",
+      "label": "6. अन्तिममङ्गलाचरणम् · verse 1",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.2",
+      "label": "6. अन्तिममङ्गलाचरणम् · verse 2",
+      "chapterRef": "6"
+    }
+  ],
+  "editions": [
+    {
+      "slug": "karma-nirnaya-kmn-sa",
+      "language": "sa",
+      "editionType": "original",
+      "title": "Karma-nirṇaya (Heritage Scripture Server transcription)",
+      "translator": "",
+      "publisher": "Heritage IITKanpur, Heritage Scripture Server",
+      "publicationYear": null,
+      "source": "gita-supersite",
+      "license": "hcal-1-1",
+      "rightsStatus": "Tier A (the moolam and its transliterations): no modern copyright, freely redistributable. Where the API serves Tier B — the Sanskrit bhāṣya and the AI-generated, community and editorially authored translations — it is displayed non-commercially with attribution and is not relicensed here. Tier C, the authoritative modern-language translations and commentaries, is not served by the API and is not imported.",
+      "attributionText": "Karma-nirṇaya, Madhvācārya (Ānandatīrtha). Accessed via Heritage Scripture Server (heritage.iitk.ac.in), licence HCAL-1.1. Source: https://heritage.iitk.ac.in/KMN",
+      "structureScheme": "chapter and verse, as the server's own sections and verse addresses divide the text",
+      "isSample": false,
+      "notes": "The verse index was built from the server's published verse addresses. The verses themselves are fetched from the API at read time and are shown with the licence's attribution; the licence identifier and any watermark the server returns are left in place."
+    }
+  ]
+}

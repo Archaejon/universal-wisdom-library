@@ -1,0 +1,658 @@
+{
+  "slug": "bible-1-timothy",
+  "title": "1 Timothy (Christian Bible)",
+  "originalTitle": "ΠΡΟΣ ΤΙΜΟΘΕΟΝ Α΄",
+  "transliteration": "",
+  "altTitles": [
+    "1 Timothy",
+    "1 Timothy — King James Version"
+  ],
+  "tradition": "christianity",
+  "school": "early-christianity",
+  "genre": "Scripture",
+  "textType": "Biblical book",
+  "category": "New Testament",
+  "subcategory": "Pauline Epistles",
+  "originalLanguage": "grc",
+  "dateStart": 50,
+  "dateEnd": 100,
+  "dateDisplay": "Written in the first century CE, with the canon fixed in the following centuries",
+  "authorshipStatus": "traditional",
+  "author": "",
+  "attributionNote": "The text is anonymous or traditionally attributed; the attribution is part of the work's reception rather than a statement about the surviving author. The catalogue does not adjudicate it.",
+  "description": "Pastoral instruction on teaching, order and the conduct of a congregation. This is the book as received in Christian Bibles: the Textus Receptus Greek text beside the King James Version of 1611.",
+  "historicalContext": "Letters attributed to Paul, addressed to congregations and co-workers.",
+  "availabilityNote": "Streamed from the Bolls Bible API. Verse references follow the KJV; the Greek text is the Textus Receptus, which differs from critical editions at some readings.",
+  "featured": false,
+  "featuredNote": "",
+  "refScheme": "chapter.verse",
+  "isSample": false,
+  "textStorage": "streamed",
+  "chapters": [
+    {
+      "ref": "1",
+      "label": "1 Timothy 1"
+    },
+    {
+      "ref": "2",
+      "label": "1 Timothy 2"
+    },
+    {
+      "ref": "3",
+      "label": "1 Timothy 3"
+    },
+    {
+      "ref": "4",
+      "label": "1 Timothy 4"
+    },
+    {
+      "ref": "5",
+      "label": "1 Timothy 5"
+    },
+    {
+      "ref": "6",
+      "label": "1 Timothy 6"
+    }
+  ],
+  "passages": [
+    {
+      "reference": "1.1",
+      "label": "1 Timothy 1:1",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.2",
+      "label": "1 Timothy 1:2",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.3",
+      "label": "1 Timothy 1:3",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.4",
+      "label": "1 Timothy 1:4",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.5",
+      "label": "1 Timothy 1:5",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.6",
+      "label": "1 Timothy 1:6",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.7",
+      "label": "1 Timothy 1:7",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.8",
+      "label": "1 Timothy 1:8",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.9",
+      "label": "1 Timothy 1:9",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.10",
+      "label": "1 Timothy 1:10",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.11",
+      "label": "1 Timothy 1:11",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.12",
+      "label": "1 Timothy 1:12",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.13",
+      "label": "1 Timothy 1:13",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.14",
+      "label": "1 Timothy 1:14",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.15",
+      "label": "1 Timothy 1:15",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.16",
+      "label": "1 Timothy 1:16",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.17",
+      "label": "1 Timothy 1:17",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.18",
+      "label": "1 Timothy 1:18",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.19",
+      "label": "1 Timothy 1:19",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.20",
+      "label": "1 Timothy 1:20",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "2.1",
+      "label": "1 Timothy 2:1",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.2",
+      "label": "1 Timothy 2:2",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.3",
+      "label": "1 Timothy 2:3",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.4",
+      "label": "1 Timothy 2:4",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.5",
+      "label": "1 Timothy 2:5",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.6",
+      "label": "1 Timothy 2:6",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.7",
+      "label": "1 Timothy 2:7",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.8",
+      "label": "1 Timothy 2:8",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.9",
+      "label": "1 Timothy 2:9",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.10",
+      "label": "1 Timothy 2:10",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.11",
+      "label": "1 Timothy 2:11",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.12",
+      "label": "1 Timothy 2:12",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.13",
+      "label": "1 Timothy 2:13",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.14",
+      "label": "1 Timothy 2:14",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.15",
+      "label": "1 Timothy 2:15",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "3.1",
+      "label": "1 Timothy 3:1",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.2",
+      "label": "1 Timothy 3:2",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.3",
+      "label": "1 Timothy 3:3",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.4",
+      "label": "1 Timothy 3:4",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.5",
+      "label": "1 Timothy 3:5",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.6",
+      "label": "1 Timothy 3:6",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.7",
+      "label": "1 Timothy 3:7",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.8",
+      "label": "1 Timothy 3:8",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.9",
+      "label": "1 Timothy 3:9",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.10",
+      "label": "1 Timothy 3:10",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.11",
+      "label": "1 Timothy 3:11",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.12",
+      "label": "1 Timothy 3:12",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.13",
+      "label": "1 Timothy 3:13",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.14",
+      "label": "1 Timothy 3:14",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.15",
+      "label": "1 Timothy 3:15",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.16",
+      "label": "1 Timothy 3:16",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "4.1",
+      "label": "1 Timothy 4:1",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.2",
+      "label": "1 Timothy 4:2",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.3",
+      "label": "1 Timothy 4:3",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.4",
+      "label": "1 Timothy 4:4",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.5",
+      "label": "1 Timothy 4:5",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.6",
+      "label": "1 Timothy 4:6",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.7",
+      "label": "1 Timothy 4:7",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.8",
+      "label": "1 Timothy 4:8",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.9",
+      "label": "1 Timothy 4:9",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.10",
+      "label": "1 Timothy 4:10",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.11",
+      "label": "1 Timothy 4:11",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.12",
+      "label": "1 Timothy 4:12",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.13",
+      "label": "1 Timothy 4:13",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.14",
+      "label": "1 Timothy 4:14",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.15",
+      "label": "1 Timothy 4:15",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.16",
+      "label": "1 Timothy 4:16",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "5.1",
+      "label": "1 Timothy 5:1",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.2",
+      "label": "1 Timothy 5:2",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.3",
+      "label": "1 Timothy 5:3",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.4",
+      "label": "1 Timothy 5:4",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.5",
+      "label": "1 Timothy 5:5",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.6",
+      "label": "1 Timothy 5:6",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.7",
+      "label": "1 Timothy 5:7",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.8",
+      "label": "1 Timothy 5:8",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.9",
+      "label": "1 Timothy 5:9",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.10",
+      "label": "1 Timothy 5:10",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.11",
+      "label": "1 Timothy 5:11",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.12",
+      "label": "1 Timothy 5:12",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.13",
+      "label": "1 Timothy 5:13",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.14",
+      "label": "1 Timothy 5:14",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.15",
+      "label": "1 Timothy 5:15",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.16",
+      "label": "1 Timothy 5:16",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.17",
+      "label": "1 Timothy 5:17",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.18",
+      "label": "1 Timothy 5:18",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.19",
+      "label": "1 Timothy 5:19",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.20",
+      "label": "1 Timothy 5:20",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.21",
+      "label": "1 Timothy 5:21",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.22",
+      "label": "1 Timothy 5:22",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.23",
+      "label": "1 Timothy 5:23",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.24",
+      "label": "1 Timothy 5:24",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.25",
+      "label": "1 Timothy 5:25",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "6.1",
+      "label": "1 Timothy 6:1",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.2",
+      "label": "1 Timothy 6:2",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.3",
+      "label": "1 Timothy 6:3",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.4",
+      "label": "1 Timothy 6:4",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.5",
+      "label": "1 Timothy 6:5",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.6",
+      "label": "1 Timothy 6:6",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.7",
+      "label": "1 Timothy 6:7",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.8",
+      "label": "1 Timothy 6:8",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.9",
+      "label": "1 Timothy 6:9",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.10",
+      "label": "1 Timothy 6:10",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.11",
+      "label": "1 Timothy 6:11",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.12",
+      "label": "1 Timothy 6:12",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.13",
+      "label": "1 Timothy 6:13",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.14",
+      "label": "1 Timothy 6:14",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.15",
+      "label": "1 Timothy 6:15",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.16",
+      "label": "1 Timothy 6:16",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.17",
+      "label": "1 Timothy 6:17",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.18",
+      "label": "1 Timothy 6:18",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.19",
+      "label": "1 Timothy 6:19",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.20",
+      "label": "1 Timothy 6:20",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.21",
+      "label": "1 Timothy 6:21",
+      "chapterRef": "6"
+    }
+  ],
+  "editions": [
+    {
+      "slug": "bible-1-timothy-grc",
+      "language": "grc",
+      "editionType": "original",
+      "title": "Textus Receptus (Greek)",
+      "translator": "",
+      "publisher": "Bolls Bible API",
+      "publicationYear": null,
+      "source": "bolls",
+      "license": "public-domain",
+      "rightsStatus": "Public domain",
+      "attributionText": "Textus Receptus Greek text, served by the Bolls Bible API.",
+      "structureScheme": "book, chapter, verse",
+      "isSample": false,
+      "notes": "The Greek text is shown as the API serves it; this library does not collate it against critical editions."
+    },
+    {
+      "slug": "bible-1-timothy-en-kjv",
+      "language": "en",
+      "editionType": "translation",
+      "title": "King James Version (1611)",
+      "translator": "The King James Bible translators",
+      "publisher": "Bolls Bible API",
+      "publicationYear": 1611,
+      "source": "bolls",
+      "license": "public-domain",
+      "rightsStatus": "Public domain",
+      "attributionText": "The Holy Bible, King James Version (1611). Public domain. Served by the Bolls Bible API.",
+      "structureScheme": "book, chapter, verse",
+      "isSample": false,
+      "notes": "Strong's numbers included in the API's markup are not displayed; the verse wording is unchanged."
+    }
+  ]
+}

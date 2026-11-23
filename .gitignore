@@ -1,10 +1,14 @@
 # Dependencies
 node_modules/
 
-# Derived data: the SQLite library (9.4 GB), the corpus it is seeded from
-# (1.4 GB) and the import caches (341 MB). Rebuild with `bun run db:reset`;
-# `bun run export:corpus` writes the corpus back out of the database.
-data/
+# Data. The corpus (data/corpus, the seed input and source of truth for a
+# rebuild) and the registry (data/registry, which the tests read) are tracked.
+# Everything else under data/ is derived or bulky and stays out: the SQLite
+# library (9.4 GB, rebuilt with `bun run db:rebuild`), its backups, and the
+# import caches (341 MB, refetched by the importers).
+data/*
+!data/corpus/
+!data/registry/
 
 # Build output of `bun run build`
 public/

@@ -1,0 +1,134 @@
+{
+  "slug": "brownlie-hymnsmorning",
+  "title": "Hymns from the Morningland",
+  "originalTitle": "",
+  "transliteration": "",
+  "altTitles": [],
+  "tradition": "christianity",
+  "school": "",
+  "genre": "Hymns and liturgy",
+  "textType": "Christian text in English translation",
+  "category": "Hymns and liturgy",
+  "subcategory": "Hymns",
+  "originalLanguage": "en",
+  "dateStart": null,
+  "dateEnd": null,
+  "dateDisplay": "",
+  "authorshipStatus": "traditional",
+  "author": "brownlie",
+  "attributionNote": "Recorded in the Christian Classics Ethereal Library under John (1857-1925) Brownlie (10 classics). The site catalogues the work at https://ccel.org/ccel/brownlie/hymnsmorning, whose own card names the print edition transcribed here; where the site carries a title by a publisher's permission rather than in public domain, this library does not take it.",
+  "description": "Hymns from the Morningland — the English text the Christian Classics Ethereal Library publishes for this work, on the site's Hymns shelf. The record was created by the CCEL import from the site's own catalogue and plain text; an editor's note for the work itself is still to be written.",
+  "historicalContext": "Read in the Christian Classics Ethereal Library's catalogue, whose shelves follow the site's own division of Christian literature, and whose transcription follows the print edition Paisley: Alexander Gardner, 1911.",
+  "availabilityNote": "Complete in the Christian Classics Ethereal Library's plain-text edition: 4 chapter(s), 11 paragraph(s), 219 words. The divisions are the headings of the site's own text, which the library stores rather than asking the site for again when the work is read. The text is public domain and is displayed with the library's credit.",
+  "featured": false,
+  "featuredNote": "",
+  "refScheme": "chapter.paragraph",
+  "isSample": false,
+  "textStorage": "local",
+  "chapters": [
+    {
+      "ref": "1",
+      "label": "HYMNS FROM THE MORNINGLAND"
+    },
+    {
+      "ref": "2",
+      "label": "WITH INTRODUCTION, HYMNS FROM THE MORNINGLAND"
+    },
+    {
+      "ref": "3",
+      "label": "WITH INTRODUCTION, PAISLEY: ALEXANDER GARDNER"
+    },
+    {
+      "ref": "4",
+      "label": "WITH INTRODUCTION, PRINTED BY ALEXANDER GARDNER, PAISLEY"
+    }
+  ],
+  "passages": [
+    {
+      "reference": "1.1",
+      "label": "HYMNS FROM THE MORNINGLAND §1",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.2",
+      "label": "HYMNS FROM THE MORNINGLAND §2",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "2.1",
+      "label": "WITH INTRODUCTION, HYMNS FROM THE MORNINGLAND §1",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.2",
+      "label": "WITH INTRODUCTION, HYMNS FROM THE MORNINGLAND §2",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.3",
+      "label": "WITH INTRODUCTION, HYMNS FROM THE MORNINGLAND §3",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "3.1",
+      "label": "WITH INTRODUCTION, PAISLEY: ALEXANDER GARDNER §1",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.2",
+      "label": "WITH INTRODUCTION, PAISLEY: ALEXANDER GARDNER §2",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "4.1",
+      "label": "WITH INTRODUCTION, PRINTED BY ALEXANDER GARDNER, PAISLEY §1",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.2",
+      "label": "WITH INTRODUCTION, PRINTED BY ALEXANDER GARDNER, PAISLEY §2",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.3",
+      "label": "WITH INTRODUCTION, PRINTED BY ALEXANDER GARDNER, PAISLEY §3",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.4",
+      "label": "WITH INTRODUCTION, PRINTED BY ALEXANDER GARDNER, PAISLEY §4",
+      "chapterRef": "4"
+    }
+  ],
+  "editions": [
+    {
+      "slug": "brownlie-hymnsmorning-en",
+      "language": "en",
+      "editionType": "translation",
+      "title": "Hymns from the Morningland",
+      "translator": "",
+      "publisher": "Christian Classics Ethereal Library",
+      "publicationYear": null,
+      "source": "ccel",
+      "license": "public-domain",
+      "rightsStatus": "Public domain., as the Christian Classics Ethereal Library states for this work on its own card",
+      "attributionText": "Text from the Christian Classics Ethereal Library (ccel.org), which transcribed and published this edition from Paisley: Alexander Gardner, 1911. The translation is public domain; the transcription is credited to the library.",
+      "structureScheme": "chapter and paragraph, the chapters being the divisions of the site's plain text",
+      "isSample": false,
+      "notes": "Imported from the plain-text file the CCEL publishes for this work; its headings divide the work, its blank lines separate the paragraphs, and nothing is fetched from ccel.org when the work is read.",
+      "texts": {
+        "1.1": "HYMNS FROM THE MORNINGLAND",
+        "1.2": "BEING TRANSLATIONS, CENTOS AND SUGGESTIONS FROM THE SERVICE BOOKS OF THE HOLY EASTERN CHURCH",
+        "2.1": "BY JOHN BROWNLIE, D.D.",
+        "2.2": "Author of \"Hymns and Hymn Writers of the Church Hymnary\" \"Hymns of the Greek Church,\" \"Hymns from the Greek Office Books\" \"Hymns of the Holy Eastern Church\" &c., &c.",
+        "2.3": "(SIXTH SERIES)",
+        "3.1": "Publisher by Appointment to the late Queen Victoria 1911",
+        "3.2": "LONDON: SIMPKIN, MARSHALL, HAMILTON, KENT & CO., LMD.",
+        "4.1": "PREFACE",
+        "4.2": "This sixth series of hymns from the Greek Offices is sent forth in the hope that some of the flowers that bloom in the gardens of the East, in which our Lord prayed and His Apostles tilled, may serve to beautify the homes of the faithful in Western lands. Cut flowers lose their beauty and freshness soon, but not infrequently their perfume remains; and roots transplanted do not always continue to put forth leaves and blossoms in that richness which adorns them in their native soil; but if in the case of the culled flowers, which are here presented, some of their perfume may chance to linger, it will probably serve to suggest their original attractiveness. That they may, in some capacity, be used to adorn the worship of Christ in our sterner clime, is the earnest prayer of the translator.",
+        "4.3": "J. B.",
+        "4.4": "Trinity Manse, Portpatrick, July, 1911."
+      }
+    }
+  ]
+}

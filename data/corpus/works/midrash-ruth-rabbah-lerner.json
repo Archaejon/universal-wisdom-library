@@ -1,0 +1,548 @@
+{
+  "slug": "midrash-ruth-rabbah-lerner",
+  "title": "Ruth Rabbah (Lerner)",
+  "originalTitle": "רות רבה (לרנר)",
+  "transliteration": "",
+  "altTitles": [],
+  "tradition": "judaism",
+  "school": "rabbinic-judaism",
+  "genre": "Midrash",
+  "textType": "Midrash",
+  "category": "Midrash",
+  "subcategory": "Midrash Rabbah",
+  "originalLanguage": "he",
+  "dateStart": 200,
+  "dateEnd": 1200,
+  "dateDisplay": "Classical and medieval rabbinic compilation",
+  "authorshipStatus": "composite",
+  "author": "",
+  "attributionNote": "The Sefaria catalogue records this as a composite or traditionally transmitted work. Authorship is not asserted here beyond the source's own metadata.",
+  "description": "Complete Midrash text imported from Sefaria; the exact edition and licence are shown with each version.",
+  "historicalContext": "Midrash is a family of rabbinic works that interpret scripture through legal exposition, narrative expansion and homily. The genre spans several centuries and several distinct collections.",
+  "availabilityNote": "Imported from Sefaria. Version, source and licence are recorded per edition.",
+  "featured": false,
+  "featuredNote": "",
+  "refScheme": "chapter.paragraph",
+  "isSample": false,
+  "textStorage": "streamed",
+  "chapters": [
+    {
+      "ref": "1",
+      "label": "Parasha 1"
+    },
+    {
+      "ref": "2",
+      "label": "Parasha 2"
+    },
+    {
+      "ref": "3",
+      "label": "Parasha 3"
+    },
+    {
+      "ref": "4",
+      "label": "Parasha 4"
+    },
+    {
+      "ref": "5",
+      "label": "Parasha 5"
+    },
+    {
+      "ref": "6",
+      "label": "Parasha 6"
+    },
+    {
+      "ref": "7",
+      "label": "Parasha 7"
+    },
+    {
+      "ref": "8",
+      "label": "Parasha 8"
+    }
+  ],
+  "passages": [
+    {
+      "reference": "1.1",
+      "label": "1:1",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.2",
+      "label": "1:2",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.3",
+      "label": "1:3",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.4",
+      "label": "1:4",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.5",
+      "label": "1:5",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.6",
+      "label": "1:6",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.7",
+      "label": "1:7",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.8",
+      "label": "1:8",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.9",
+      "label": "1:9",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.10",
+      "label": "1:10",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "2.1",
+      "label": "2:1",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.2",
+      "label": "2:2",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.3",
+      "label": "2:3",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.4",
+      "label": "2:4",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.5",
+      "label": "2:5",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.6",
+      "label": "2:6",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.7",
+      "label": "2:7",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.8",
+      "label": "2:8",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.9",
+      "label": "2:9",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.10",
+      "label": "2:10",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.11",
+      "label": "2:11",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.12",
+      "label": "2:12",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.13",
+      "label": "2:13",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.14",
+      "label": "2:14",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.15",
+      "label": "2:15",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.16",
+      "label": "2:16",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.17",
+      "label": "2:17",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.18",
+      "label": "2:18",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.19",
+      "label": "2:19",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.20",
+      "label": "2:20",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "3.1",
+      "label": "3:1",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.2",
+      "label": "3:2",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.3",
+      "label": "3:3",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.4",
+      "label": "3:4",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.5",
+      "label": "3:5",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "4.1",
+      "label": "4:1",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.2",
+      "label": "4:2",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.3",
+      "label": "4:3",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.4",
+      "label": "4:4",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.5",
+      "label": "4:5",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.6",
+      "label": "4:6",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.7",
+      "label": "4:7",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.8",
+      "label": "4:8",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.9",
+      "label": "4:9",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "5.1",
+      "label": "5:1",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.2",
+      "label": "5:2",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.3",
+      "label": "5:3",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.4",
+      "label": "5:4",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.5",
+      "label": "5:5",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.6",
+      "label": "5:6",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.7",
+      "label": "5:7",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.8",
+      "label": "5:8",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.9",
+      "label": "5:9",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.10",
+      "label": "5:10",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.11",
+      "label": "5:11",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.12",
+      "label": "5:12",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.13",
+      "label": "5:13",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.14",
+      "label": "5:14",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.15",
+      "label": "5:15",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "6.1",
+      "label": "6:1",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.2",
+      "label": "6:2",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.3",
+      "label": "6:3",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.4",
+      "label": "6:4",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.5",
+      "label": "6:5",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.6",
+      "label": "6:6",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.7",
+      "label": "6:7",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.8",
+      "label": "6:8",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "7.1",
+      "label": "7:1",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.2",
+      "label": "7:2",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.3",
+      "label": "7:3",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.4",
+      "label": "7:4",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.5",
+      "label": "7:5",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.6",
+      "label": "7:6",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.7",
+      "label": "7:7",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.8",
+      "label": "7:8",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.9",
+      "label": "7:9",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.10",
+      "label": "7:10",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.11",
+      "label": "7:11",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.12",
+      "label": "7:12",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.13",
+      "label": "7:13",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.14",
+      "label": "7:14",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.15",
+      "label": "7:15",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.16",
+      "label": "7:16",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "8.1",
+      "label": "8:1",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.2",
+      "label": "8:2",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.3",
+      "label": "8:3",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.4",
+      "label": "8:4",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.5",
+      "label": "8:5",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.6",
+      "label": "8:6",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.7",
+      "label": "8:7",
+      "chapterRef": "8"
+    }
+  ],
+  "editions": [
+    {
+      "slug": "midrash-ruth-rabbah-lerner-hebrew-sefaria",
+      "language": "he",
+      "editionType": "original",
+      "title": "Midrash Ruth Rabbah, edited by Prof. Meron Bialik Lerner, 1971",
+      "translator": "",
+      "publisher": "https://www.nli.org.il/he/dissertations/NNL_ALEPH001297853/NLI",
+      "publicationYear": null,
+      "source": "sefaria",
+      "license": "public-domain",
+      "rightsStatus": "Public Domain",
+      "attributionText": "Midrash Ruth Rabbah, edited by Prof. Meron Bialik Lerner, 1971; licence: Public Domain; source: https://www.nli.org.il/he/dissertations/NNL_ALEPH001297853/NLI. Retrieved via Sefaria on 2026-10-20.",
+      "structureScheme": "chapter and paragraph",
+      "isSample": false,
+      "notes": "Complete work imported from Sefaria. Text is displayed as supplied by the named edition; HTML markup has been removed."
+    },
+    {
+      "slug": "midrash-ruth-rabbah-lerner-english-sefaria-1",
+      "language": "en",
+      "editionType": "translation",
+      "title": "Sefaria Community Translation",
+      "translator": "",
+      "publisher": "https://www.sefaria.org",
+      "publicationYear": null,
+      "source": "sefaria",
+      "license": "cc0-1.0",
+      "rightsStatus": "CC0",
+      "attributionText": "Sefaria Community Translation; licence: CC0; source: https://www.sefaria.org. Retrieved via Sefaria on 2026-10-20.",
+      "structureScheme": "chapter and paragraph",
+      "isSample": false,
+      "notes": "Complete work imported from Sefaria. Text is displayed as supplied by the named edition; HTML markup has been removed."
+    }
+  ]
+}

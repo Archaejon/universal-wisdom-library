@@ -1,0 +1,2965 @@
+{
+  "slug": "mukhtasar-khalil",
+  "title": "Mukhtasar Khalil",
+  "originalTitle": "مختصر خليل",
+  "transliteration": "Mukhtaṣar Khalīl",
+  "altTitles": [],
+  "tradition": "islam",
+  "school": "maliki",
+  "genre": "Jurisprudence",
+  "textType": "Legal manual",
+  "category": "Jurisprudence (Fiqh)",
+  "subcategory": "Classical manuals",
+  "originalLanguage": "ar",
+  "dateStart": 1340,
+  "dateEnd": 1374,
+  "dateDisplay": "14th century CE",
+  "authorshipStatus": "established",
+  "author": "khalil-ibn-ishaq",
+  "attributionNote": "The attribution is the one the manuscript tradition and the scholarship give.",
+  "description": "Khalil's compressed statement of the authoritative Maliki position on every question, written in a deliberately dense style in which each word carries a ruling. It became the central text of Maliki law across North and West Africa.",
+  "historicalContext": "Khalil ibn Ishaq al-Jundi taught in Cairo and spent some twenty-five years on the work. Its compression called forth hundreds of commentaries, and French colonial jurists translated it as the code of Maliki law in Algeria.",
+  "availabilityNote": "Arabic text only, streamed from OpenITI at read time. No English translation is included because no public-domain English translation was verified. Only the catalogue record, chapter outline and passage index are held here.",
+  "featured": false,
+  "featuredNote": "",
+  "refScheme": "chapter.paragraph",
+  "isSample": false,
+  "textStorage": "streamed",
+  "chapters": [
+    {
+      "ref": "1",
+      "label": "باب في أحكام الطهارة وما يناسبهما"
+    },
+    {
+      "ref": "2",
+      "label": "باب في احكام الصلاة"
+    },
+    {
+      "ref": "3",
+      "label": "باب أحكام الزكاة"
+    },
+    {
+      "ref": "4",
+      "label": "باب أحكام الصيام"
+    },
+    {
+      "ref": "5",
+      "label": "باب في أحكام كتاب الحج والعمرة"
+    },
+    {
+      "ref": "6",
+      "label": "باب في الذكاة"
+    },
+    {
+      "ref": "7",
+      "label": "باب في حكم الاضحية والعقيقة"
+    },
+    {
+      "ref": "8",
+      "label": "باب في اليمين"
+    },
+    {
+      "ref": "9",
+      "label": "باب في أحكام الجهاد"
+    },
+    {
+      "ref": "10",
+      "label": "باب في أحكام المسابقة المعينة على الجهاد"
+    },
+    {
+      "ref": "11",
+      "label": "باب في خصائص النبي صلى الله عليه وسلم"
+    },
+    {
+      "ref": "12",
+      "label": "باب في أحكام النكاح وما يتبعه"
+    },
+    {
+      "ref": "13",
+      "label": "باب في الخلع وما يتعلق به"
+    },
+    {
+      "ref": "14",
+      "label": "باب في الإيلاء وما يتعلق به"
+    },
+    {
+      "ref": "15",
+      "label": "باب في الظهار وأحكامه وما يتعلق به"
+    },
+    {
+      "ref": "16",
+      "label": "باب في أحكام اللعان وما يتعلق به"
+    },
+    {
+      "ref": "17",
+      "label": "باب في العدة"
+    },
+    {
+      "ref": "18",
+      "label": "باب في أحكام الرضاع"
+    },
+    {
+      "ref": "19",
+      "label": "باب في النفقة بالنكاح والملك والقرابة"
+    },
+    {
+      "ref": "20",
+      "label": "باب في أحكام: البيع شروط الصحة واللزوم"
+    },
+    {
+      "ref": "21",
+      "label": "باب في بيان أحكام السلم"
+    },
+    {
+      "ref": "22",
+      "label": "باب في أحكام الرهن"
+    },
+    {
+      "ref": "23",
+      "label": "باب في بيان أحكام إحاطة الدين بمال المدين والتفليس"
+    },
+    {
+      "ref": "24",
+      "label": "باب في بيان أسباب الحجر1 وأحكامه ومتعلقاته"
+    },
+    {
+      "ref": "25",
+      "label": "باب في بيان أحكام أقسام الصلح"
+    },
+    {
+      "ref": "26",
+      "label": "باب في بيان شروط الحوالة ومتعلقاتها"
+    },
+    {
+      "ref": "27",
+      "label": "باب في بيان الضمان وأقسامه"
+    },
+    {
+      "ref": "28",
+      "label": "باب في بيان حقيقة الشركة وأقسامها وأحكامها"
+    },
+    {
+      "ref": "29",
+      "label": "باب في أحكام الوكالة"
+    },
+    {
+      "ref": "30",
+      "label": "باب في بيان أحكام الإقرار"
+    },
+    {
+      "ref": "31",
+      "label": "باب في بيان أحكام الوديعة ومتعلقاتها"
+    },
+    {
+      "ref": "32",
+      "label": "باب في بيان أحكام العارية"
+    },
+    {
+      "ref": "33",
+      "label": "باب في بيان حقيقة الغصب وأحكامه وما يتعلق به"
+    },
+    {
+      "ref": "34",
+      "label": "باب في حقيقة الشفعة1 وأحكامها"
+    },
+    {
+      "ref": "35",
+      "label": "باب في أحكام القسمة ومتعلقاتها"
+    },
+    {
+      "ref": "36",
+      "label": "باب في بيان أحكام القراض"
+    },
+    {
+      "ref": "37",
+      "label": "باب في بيان أحكام المساقاة"
+    },
+    {
+      "ref": "38",
+      "label": "باب في أحكام المغارسة"
+    },
+    {
+      "ref": "39",
+      "label": "باب في أحكام الإجارة والكراء"
+    },
+    {
+      "ref": "40",
+      "label": "باب في أحكام الجعل وما يتعلق به"
+    },
+    {
+      "ref": "41",
+      "label": "باب في بيان إحياء الموات"
+    },
+    {
+      "ref": "42",
+      "label": "باب في بيان أحكام الوقف"
+    },
+    {
+      "ref": "43",
+      "label": "باب في أحكام الهبة ومتعلقاتها"
+    },
+    {
+      "ref": "44",
+      "label": "باب في اللقطة والضالة والآبق واللقيط"
+    },
+    {
+      "ref": "45",
+      "label": "باب في شروط القضاء وأحكامه"
+    },
+    {
+      "ref": "46",
+      "label": "باب في أحكام الشهادة"
+    },
+    {
+      "ref": "47",
+      "label": "باب في أحكام الدماء والقصاص وما يتعلق بذلك"
+    },
+    {
+      "ref": "48",
+      "label": "باب في بيان حد الباغية وأحكامها"
+    },
+    {
+      "ref": "49",
+      "label": "باب في بيان حقيقة الردة وأحكامها"
+    },
+    {
+      "ref": "50",
+      "label": "باب في حد الزنا ومتعلقاته"
+    },
+    {
+      "ref": "51",
+      "label": "باب في بيان أحكام القذف"
+    },
+    {
+      "ref": "52",
+      "label": "باب في أحكام السرقة وما يتعلق بها"
+    },
+    {
+      "ref": "53",
+      "label": "باب في بيان حقيقة المحارب وأحكامه"
+    },
+    {
+      "ref": "54",
+      "label": "باب في بيان حد شارب الخمر"
+    },
+    {
+      "ref": "55",
+      "label": "باب في بيان أحكام الإعتاق ومتعلقاته"
+    },
+    {
+      "ref": "56",
+      "label": "باب في بيان حقيقة التدبير وأحكامه"
+    },
+    {
+      "ref": "57",
+      "label": "باب في بيان أحكام الكتابة والمكاتب"
+    },
+    {
+      "ref": "58",
+      "label": "باب في بيان أحكام أم الولد"
+    },
+    {
+      "ref": "59",
+      "label": "باب في بيان أحكام الوصية"
+    },
+    {
+      "ref": "60",
+      "label": "باب في بيان الفرائض"
+    }
+  ],
+  "passages": [
+    {
+      "reference": "1.1",
+      "label": "باب في أحكام الطهارة وما يناسبهما §1",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.2",
+      "label": "باب في أحكام الطهارة وما يناسبهما §2",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.3",
+      "label": "باب في أحكام الطهارة وما يناسبهما §3",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.4",
+      "label": "باب في أحكام الطهارة وما يناسبهما §4",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.5",
+      "label": "باب في أحكام الطهارة وما يناسبهما §5",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.6",
+      "label": "باب في أحكام الطهارة وما يناسبهما §6",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.7",
+      "label": "باب في أحكام الطهارة وما يناسبهما §7",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.8",
+      "label": "باب في أحكام الطهارة وما يناسبهما §8",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.9",
+      "label": "باب في أحكام الطهارة وما يناسبهما §9",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.10",
+      "label": "باب في أحكام الطهارة وما يناسبهما §10",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.11",
+      "label": "باب في أحكام الطهارة وما يناسبهما §11",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.12",
+      "label": "باب في أحكام الطهارة وما يناسبهما §12",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.13",
+      "label": "باب في أحكام الطهارة وما يناسبهما §13",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.14",
+      "label": "باب في أحكام الطهارة وما يناسبهما §14",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.15",
+      "label": "باب في أحكام الطهارة وما يناسبهما §15",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.16",
+      "label": "باب في أحكام الطهارة وما يناسبهما §16",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.17",
+      "label": "باب في أحكام الطهارة وما يناسبهما §17",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.18",
+      "label": "باب في أحكام الطهارة وما يناسبهما §18",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.19",
+      "label": "باب في أحكام الطهارة وما يناسبهما §19",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.20",
+      "label": "باب في أحكام الطهارة وما يناسبهما §20",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.21",
+      "label": "باب في أحكام الطهارة وما يناسبهما §21",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.22",
+      "label": "باب في أحكام الطهارة وما يناسبهما §22",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.23",
+      "label": "باب في أحكام الطهارة وما يناسبهما §23",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.24",
+      "label": "باب في أحكام الطهارة وما يناسبهما §24",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.25",
+      "label": "باب في أحكام الطهارة وما يناسبهما §25",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.26",
+      "label": "باب في أحكام الطهارة وما يناسبهما §26",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.27",
+      "label": "باب في أحكام الطهارة وما يناسبهما §27",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.28",
+      "label": "باب في أحكام الطهارة وما يناسبهما §28",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.29",
+      "label": "باب في أحكام الطهارة وما يناسبهما §29",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.30",
+      "label": "باب في أحكام الطهارة وما يناسبهما §30",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.31",
+      "label": "باب في أحكام الطهارة وما يناسبهما §31",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.32",
+      "label": "باب في أحكام الطهارة وما يناسبهما §32",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.33",
+      "label": "باب في أحكام الطهارة وما يناسبهما §33",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.34",
+      "label": "باب في أحكام الطهارة وما يناسبهما §34",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.35",
+      "label": "باب في أحكام الطهارة وما يناسبهما §35",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.36",
+      "label": "باب في أحكام الطهارة وما يناسبهما §36",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.37",
+      "label": "باب في أحكام الطهارة وما يناسبهما §37",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.38",
+      "label": "باب في أحكام الطهارة وما يناسبهما §38",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.39",
+      "label": "باب في أحكام الطهارة وما يناسبهما §39",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.40",
+      "label": "باب في أحكام الطهارة وما يناسبهما §40",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.41",
+      "label": "باب في أحكام الطهارة وما يناسبهما §41",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.42",
+      "label": "باب في أحكام الطهارة وما يناسبهما §42",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.43",
+      "label": "باب في أحكام الطهارة وما يناسبهما §43",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.44",
+      "label": "باب في أحكام الطهارة وما يناسبهما §44",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.45",
+      "label": "باب في أحكام الطهارة وما يناسبهما §45",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.46",
+      "label": "باب في أحكام الطهارة وما يناسبهما §46",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.47",
+      "label": "باب في أحكام الطهارة وما يناسبهما §47",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.48",
+      "label": "باب في أحكام الطهارة وما يناسبهما §48",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "2.1",
+      "label": "باب في احكام الصلاة §1",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.2",
+      "label": "باب في احكام الصلاة §2",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.3",
+      "label": "باب في احكام الصلاة §3",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.4",
+      "label": "باب في احكام الصلاة §4",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.5",
+      "label": "باب في احكام الصلاة §5",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.6",
+      "label": "باب في احكام الصلاة §6",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.7",
+      "label": "باب في احكام الصلاة §7",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.8",
+      "label": "باب في احكام الصلاة §8",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.9",
+      "label": "باب في احكام الصلاة §9",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.10",
+      "label": "باب في احكام الصلاة §10",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.11",
+      "label": "باب في احكام الصلاة §11",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.12",
+      "label": "باب في احكام الصلاة §12",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.13",
+      "label": "باب في احكام الصلاة §13",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.14",
+      "label": "باب في احكام الصلاة §14",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.15",
+      "label": "باب في احكام الصلاة §15",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.16",
+      "label": "باب في احكام الصلاة §16",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.17",
+      "label": "باب في احكام الصلاة §17",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.18",
+      "label": "باب في احكام الصلاة §18",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.19",
+      "label": "باب في احكام الصلاة §19",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.20",
+      "label": "باب في احكام الصلاة §20",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.21",
+      "label": "باب في احكام الصلاة §21",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.22",
+      "label": "باب في احكام الصلاة §22",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.23",
+      "label": "باب في احكام الصلاة §23",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.24",
+      "label": "باب في احكام الصلاة §24",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.25",
+      "label": "باب في احكام الصلاة §25",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.26",
+      "label": "باب في احكام الصلاة §26",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.27",
+      "label": "باب في احكام الصلاة §27",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.28",
+      "label": "باب في احكام الصلاة §28",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.29",
+      "label": "باب في احكام الصلاة §29",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.30",
+      "label": "باب في احكام الصلاة §30",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.31",
+      "label": "باب في احكام الصلاة §31",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.32",
+      "label": "باب في احكام الصلاة §32",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.33",
+      "label": "باب في احكام الصلاة §33",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.34",
+      "label": "باب في احكام الصلاة §34",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.35",
+      "label": "باب في احكام الصلاة §35",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.36",
+      "label": "باب في احكام الصلاة §36",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.37",
+      "label": "باب في احكام الصلاة §37",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.38",
+      "label": "باب في احكام الصلاة §38",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.39",
+      "label": "باب في احكام الصلاة §39",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.40",
+      "label": "باب في احكام الصلاة §40",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.41",
+      "label": "باب في احكام الصلاة §41",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.42",
+      "label": "باب في احكام الصلاة §42",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.43",
+      "label": "باب في احكام الصلاة §43",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.44",
+      "label": "باب في احكام الصلاة §44",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.45",
+      "label": "باب في احكام الصلاة §45",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.46",
+      "label": "باب في احكام الصلاة §46",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.47",
+      "label": "باب في احكام الصلاة §47",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.48",
+      "label": "باب في احكام الصلاة §48",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.49",
+      "label": "باب في احكام الصلاة §49",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.50",
+      "label": "باب في احكام الصلاة §50",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.51",
+      "label": "باب في احكام الصلاة §51",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.52",
+      "label": "باب في احكام الصلاة §52",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.53",
+      "label": "باب في احكام الصلاة §53",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.54",
+      "label": "باب في احكام الصلاة §54",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.55",
+      "label": "باب في احكام الصلاة §55",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.56",
+      "label": "باب في احكام الصلاة §56",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.57",
+      "label": "باب في احكام الصلاة §57",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.58",
+      "label": "باب في احكام الصلاة §58",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.59",
+      "label": "باب في احكام الصلاة §59",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.60",
+      "label": "باب في احكام الصلاة §60",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.61",
+      "label": "باب في احكام الصلاة §61",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.62",
+      "label": "باب في احكام الصلاة §62",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.63",
+      "label": "باب في احكام الصلاة §63",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.64",
+      "label": "باب في احكام الصلاة §64",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.65",
+      "label": "باب في احكام الصلاة §65",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.66",
+      "label": "باب في احكام الصلاة §66",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.67",
+      "label": "باب في احكام الصلاة §67",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.68",
+      "label": "باب في احكام الصلاة §68",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.69",
+      "label": "باب في احكام الصلاة §69",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.70",
+      "label": "باب في احكام الصلاة §70",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.71",
+      "label": "باب في احكام الصلاة §71",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.72",
+      "label": "باب في احكام الصلاة §72",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.73",
+      "label": "باب في احكام الصلاة §73",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.74",
+      "label": "باب في احكام الصلاة §74",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.75",
+      "label": "باب في احكام الصلاة §75",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.76",
+      "label": "باب في احكام الصلاة §76",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.77",
+      "label": "باب في احكام الصلاة §77",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.78",
+      "label": "باب في احكام الصلاة §78",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.79",
+      "label": "باب في احكام الصلاة §79",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.80",
+      "label": "باب في احكام الصلاة §80",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "3.1",
+      "label": "باب أحكام الزكاة §1",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.2",
+      "label": "باب أحكام الزكاة §2",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.3",
+      "label": "باب أحكام الزكاة §3",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.4",
+      "label": "باب أحكام الزكاة §4",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.5",
+      "label": "باب أحكام الزكاة §5",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.6",
+      "label": "باب أحكام الزكاة §6",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.7",
+      "label": "باب أحكام الزكاة §7",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.8",
+      "label": "باب أحكام الزكاة §8",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.9",
+      "label": "باب أحكام الزكاة §9",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.10",
+      "label": "باب أحكام الزكاة §10",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.11",
+      "label": "باب أحكام الزكاة §11",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.12",
+      "label": "باب أحكام الزكاة §12",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.13",
+      "label": "باب أحكام الزكاة §13",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.14",
+      "label": "باب أحكام الزكاة §14",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.15",
+      "label": "باب أحكام الزكاة §15",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.16",
+      "label": "باب أحكام الزكاة §16",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.17",
+      "label": "باب أحكام الزكاة §17",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.18",
+      "label": "باب أحكام الزكاة §18",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.19",
+      "label": "باب أحكام الزكاة §19",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.20",
+      "label": "باب أحكام الزكاة §20",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.21",
+      "label": "باب أحكام الزكاة §21",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.22",
+      "label": "باب أحكام الزكاة §22",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.23",
+      "label": "باب أحكام الزكاة §23",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.24",
+      "label": "باب أحكام الزكاة §24",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.25",
+      "label": "باب أحكام الزكاة §25",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "4.1",
+      "label": "باب أحكام الصيام §1",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.2",
+      "label": "باب أحكام الصيام §2",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.3",
+      "label": "باب أحكام الصيام §3",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.4",
+      "label": "باب أحكام الصيام §4",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.5",
+      "label": "باب أحكام الصيام §5",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.6",
+      "label": "باب أحكام الصيام §6",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.7",
+      "label": "باب أحكام الصيام §7",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.8",
+      "label": "باب أحكام الصيام §8",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "5.1",
+      "label": "باب في أحكام كتاب الحج والعمرة §1",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.2",
+      "label": "باب في أحكام كتاب الحج والعمرة §2",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.3",
+      "label": "باب في أحكام كتاب الحج والعمرة §3",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.4",
+      "label": "باب في أحكام كتاب الحج والعمرة §4",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.5",
+      "label": "باب في أحكام كتاب الحج والعمرة §5",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.6",
+      "label": "باب في أحكام كتاب الحج والعمرة §6",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.7",
+      "label": "باب في أحكام كتاب الحج والعمرة §7",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.8",
+      "label": "باب في أحكام كتاب الحج والعمرة §8",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.9",
+      "label": "باب في أحكام كتاب الحج والعمرة §9",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.10",
+      "label": "باب في أحكام كتاب الحج والعمرة §10",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.11",
+      "label": "باب في أحكام كتاب الحج والعمرة §11",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.12",
+      "label": "باب في أحكام كتاب الحج والعمرة §12",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.13",
+      "label": "باب في أحكام كتاب الحج والعمرة §13",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.14",
+      "label": "باب في أحكام كتاب الحج والعمرة §14",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.15",
+      "label": "باب في أحكام كتاب الحج والعمرة §15",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.16",
+      "label": "باب في أحكام كتاب الحج والعمرة §16",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.17",
+      "label": "باب في أحكام كتاب الحج والعمرة §17",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.18",
+      "label": "باب في أحكام كتاب الحج والعمرة §18",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.19",
+      "label": "باب في أحكام كتاب الحج والعمرة §19",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.20",
+      "label": "باب في أحكام كتاب الحج والعمرة §20",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.21",
+      "label": "باب في أحكام كتاب الحج والعمرة §21",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "6.1",
+      "label": "باب في الذكاة §1",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.2",
+      "label": "باب في الذكاة §2",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.3",
+      "label": "باب في الذكاة §3",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.4",
+      "label": "باب في الذكاة §4",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.5",
+      "label": "باب في الذكاة §5",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.6",
+      "label": "باب في الذكاة §6",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.7",
+      "label": "باب في الذكاة §7",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.8",
+      "label": "باب في الذكاة §8",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "7.1",
+      "label": "باب في حكم الاضحية والعقيقة §1",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.2",
+      "label": "باب في حكم الاضحية والعقيقة §2",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "8.1",
+      "label": "باب في اليمين §1",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.2",
+      "label": "باب في اليمين §2",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.3",
+      "label": "باب في اليمين §3",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.4",
+      "label": "باب في اليمين §4",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.5",
+      "label": "باب في اليمين §5",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.6",
+      "label": "باب في اليمين §6",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.7",
+      "label": "باب في اليمين §7",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.8",
+      "label": "باب في اليمين §8",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.9",
+      "label": "باب في اليمين §9",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.10",
+      "label": "باب في اليمين §10",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.11",
+      "label": "باب في اليمين §11",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "9.1",
+      "label": "باب في أحكام الجهاد §1",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.2",
+      "label": "باب في أحكام الجهاد §2",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.3",
+      "label": "باب في أحكام الجهاد §3",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.4",
+      "label": "باب في أحكام الجهاد §4",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.5",
+      "label": "باب في أحكام الجهاد §5",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.6",
+      "label": "باب في أحكام الجهاد §6",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.7",
+      "label": "باب في أحكام الجهاد §7",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.8",
+      "label": "باب في أحكام الجهاد §8",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.9",
+      "label": "باب في أحكام الجهاد §9",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.10",
+      "label": "باب في أحكام الجهاد §10",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.11",
+      "label": "باب في أحكام الجهاد §11",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "10.1",
+      "label": "باب في أحكام المسابقة المعينة على الجهاد §1",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "11.1",
+      "label": "باب في خصائص النبي صلى الله عليه وسلم §1",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "12.1",
+      "label": "باب في أحكام النكاح وما يتبعه §1",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.2",
+      "label": "باب في أحكام النكاح وما يتبعه §2",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.3",
+      "label": "باب في أحكام النكاح وما يتبعه §3",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.4",
+      "label": "باب في أحكام النكاح وما يتبعه §4",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.5",
+      "label": "باب في أحكام النكاح وما يتبعه §5",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.6",
+      "label": "باب في أحكام النكاح وما يتبعه §6",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.7",
+      "label": "باب في أحكام النكاح وما يتبعه §7",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.8",
+      "label": "باب في أحكام النكاح وما يتبعه §8",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.9",
+      "label": "باب في أحكام النكاح وما يتبعه §9",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.10",
+      "label": "باب في أحكام النكاح وما يتبعه §10",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.11",
+      "label": "باب في أحكام النكاح وما يتبعه §11",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.12",
+      "label": "باب في أحكام النكاح وما يتبعه §12",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.13",
+      "label": "باب في أحكام النكاح وما يتبعه §13",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.14",
+      "label": "باب في أحكام النكاح وما يتبعه §14",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.15",
+      "label": "باب في أحكام النكاح وما يتبعه §15",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.16",
+      "label": "باب في أحكام النكاح وما يتبعه §16",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.17",
+      "label": "باب في أحكام النكاح وما يتبعه §17",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.18",
+      "label": "باب في أحكام النكاح وما يتبعه §18",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.19",
+      "label": "باب في أحكام النكاح وما يتبعه §19",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.20",
+      "label": "باب في أحكام النكاح وما يتبعه §20",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.21",
+      "label": "باب في أحكام النكاح وما يتبعه §21",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.22",
+      "label": "باب في أحكام النكاح وما يتبعه §22",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.23",
+      "label": "باب في أحكام النكاح وما يتبعه §23",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.24",
+      "label": "باب في أحكام النكاح وما يتبعه §24",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.25",
+      "label": "باب في أحكام النكاح وما يتبعه §25",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.26",
+      "label": "باب في أحكام النكاح وما يتبعه §26",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.27",
+      "label": "باب في أحكام النكاح وما يتبعه §27",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.28",
+      "label": "باب في أحكام النكاح وما يتبعه §28",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.29",
+      "label": "باب في أحكام النكاح وما يتبعه §29",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.30",
+      "label": "باب في أحكام النكاح وما يتبعه §30",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.31",
+      "label": "باب في أحكام النكاح وما يتبعه §31",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.32",
+      "label": "باب في أحكام النكاح وما يتبعه §32",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.33",
+      "label": "باب في أحكام النكاح وما يتبعه §33",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.34",
+      "label": "باب في أحكام النكاح وما يتبعه §34",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.35",
+      "label": "باب في أحكام النكاح وما يتبعه §35",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "13.1",
+      "label": "باب في الخلع وما يتعلق به §1",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.2",
+      "label": "باب في الخلع وما يتعلق به §2",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.3",
+      "label": "باب في الخلع وما يتعلق به §3",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.4",
+      "label": "باب في الخلع وما يتعلق به §4",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.5",
+      "label": "باب في الخلع وما يتعلق به §5",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.6",
+      "label": "باب في الخلع وما يتعلق به §6",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.7",
+      "label": "باب في الخلع وما يتعلق به §7",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.8",
+      "label": "باب في الخلع وما يتعلق به §8",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.9",
+      "label": "باب في الخلع وما يتعلق به §9",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.10",
+      "label": "باب في الخلع وما يتعلق به §10",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.11",
+      "label": "باب في الخلع وما يتعلق به §11",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.12",
+      "label": "باب في الخلع وما يتعلق به §12",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.13",
+      "label": "باب في الخلع وما يتعلق به §13",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.14",
+      "label": "باب في الخلع وما يتعلق به §14",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.15",
+      "label": "باب في الخلع وما يتعلق به §15",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.16",
+      "label": "باب في الخلع وما يتعلق به §16",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.17",
+      "label": "باب في الخلع وما يتعلق به §17",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.18",
+      "label": "باب في الخلع وما يتعلق به §18",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.19",
+      "label": "باب في الخلع وما يتعلق به §19",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.20",
+      "label": "باب في الخلع وما يتعلق به §20",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.21",
+      "label": "باب في الخلع وما يتعلق به §21",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.22",
+      "label": "باب في الخلع وما يتعلق به §22",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.23",
+      "label": "باب في الخلع وما يتعلق به §23",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.24",
+      "label": "باب في الخلع وما يتعلق به §24",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.25",
+      "label": "باب في الخلع وما يتعلق به §25",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.26",
+      "label": "باب في الخلع وما يتعلق به §26",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "14.1",
+      "label": "باب في الإيلاء وما يتعلق به §1",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.2",
+      "label": "باب في الإيلاء وما يتعلق به §2",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "15.1",
+      "label": "باب في الظهار وأحكامه وما يتعلق به §1",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.2",
+      "label": "باب في الظهار وأحكامه وما يتعلق به §2",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.3",
+      "label": "باب في الظهار وأحكامه وما يتعلق به §3",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "16.1",
+      "label": "باب في أحكام اللعان وما يتعلق به §1",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.2",
+      "label": "باب في أحكام اللعان وما يتعلق به §2",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "17.1",
+      "label": "باب في العدة §1",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.2",
+      "label": "باب في العدة §2",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.3",
+      "label": "باب في العدة §3",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.4",
+      "label": "باب في العدة §4",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.5",
+      "label": "باب في العدة §5",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.6",
+      "label": "باب في العدة §6",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.7",
+      "label": "باب في العدة §7",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.8",
+      "label": "باب في العدة §8",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.9",
+      "label": "باب في العدة §9",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.10",
+      "label": "باب في العدة §10",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.11",
+      "label": "باب في العدة §11",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.12",
+      "label": "باب في العدة §12",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.13",
+      "label": "باب في العدة §13",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.14",
+      "label": "باب في العدة §14",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "18.1",
+      "label": "باب في أحكام الرضاع §1",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "19.1",
+      "label": "باب في النفقة بالنكاح والملك والقرابة §1",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.2",
+      "label": "باب في النفقة بالنكاح والملك والقرابة §2",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.3",
+      "label": "باب في النفقة بالنكاح والملك والقرابة §3",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.4",
+      "label": "باب في النفقة بالنكاح والملك والقرابة §4",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.5",
+      "label": "باب في النفقة بالنكاح والملك والقرابة §5",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.6",
+      "label": "باب في النفقة بالنكاح والملك والقرابة §6",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.7",
+      "label": "باب في النفقة بالنكاح والملك والقرابة §7",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.8",
+      "label": "باب في النفقة بالنكاح والملك والقرابة §8",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.9",
+      "label": "باب في النفقة بالنكاح والملك والقرابة §9",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.10",
+      "label": "باب في النفقة بالنكاح والملك والقرابة §10",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.11",
+      "label": "باب في النفقة بالنكاح والملك والقرابة §11",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.12",
+      "label": "باب في النفقة بالنكاح والملك والقرابة §12",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.13",
+      "label": "باب في النفقة بالنكاح والملك والقرابة §13",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.14",
+      "label": "باب في النفقة بالنكاح والملك والقرابة §14",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "20.1",
+      "label": "باب في أحكام: البيع شروط الصحة واللزوم §1",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.2",
+      "label": "باب في أحكام: البيع شروط الصحة واللزوم §2",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.3",
+      "label": "باب في أحكام: البيع شروط الصحة واللزوم §3",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.4",
+      "label": "باب في أحكام: البيع شروط الصحة واللزوم §4",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.5",
+      "label": "باب في أحكام: البيع شروط الصحة واللزوم §5",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.6",
+      "label": "باب في أحكام: البيع شروط الصحة واللزوم §6",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.7",
+      "label": "باب في أحكام: البيع شروط الصحة واللزوم §7",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.8",
+      "label": "باب في أحكام: البيع شروط الصحة واللزوم §8",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.9",
+      "label": "باب في أحكام: البيع شروط الصحة واللزوم §9",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.10",
+      "label": "باب في أحكام: البيع شروط الصحة واللزوم §10",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.11",
+      "label": "باب في أحكام: البيع شروط الصحة واللزوم §11",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.12",
+      "label": "باب في أحكام: البيع شروط الصحة واللزوم §12",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.13",
+      "label": "باب في أحكام: البيع شروط الصحة واللزوم §13",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.14",
+      "label": "باب في أحكام: البيع شروط الصحة واللزوم §14",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.15",
+      "label": "باب في أحكام: البيع شروط الصحة واللزوم §15",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.16",
+      "label": "باب في أحكام: البيع شروط الصحة واللزوم §16",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.17",
+      "label": "باب في أحكام: البيع شروط الصحة واللزوم §17",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.18",
+      "label": "باب في أحكام: البيع شروط الصحة واللزوم §18",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.19",
+      "label": "باب في أحكام: البيع شروط الصحة واللزوم §19",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.20",
+      "label": "باب في أحكام: البيع شروط الصحة واللزوم §20",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.21",
+      "label": "باب في أحكام: البيع شروط الصحة واللزوم §21",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.22",
+      "label": "باب في أحكام: البيع شروط الصحة واللزوم §22",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.23",
+      "label": "باب في أحكام: البيع شروط الصحة واللزوم §23",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.24",
+      "label": "باب في أحكام: البيع شروط الصحة واللزوم §24",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.25",
+      "label": "باب في أحكام: البيع شروط الصحة واللزوم §25",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.26",
+      "label": "باب في أحكام: البيع شروط الصحة واللزوم §26",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.27",
+      "label": "باب في أحكام: البيع شروط الصحة واللزوم §27",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.28",
+      "label": "باب في أحكام: البيع شروط الصحة واللزوم §28",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.29",
+      "label": "باب في أحكام: البيع شروط الصحة واللزوم §29",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.30",
+      "label": "باب في أحكام: البيع شروط الصحة واللزوم §30",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.31",
+      "label": "باب في أحكام: البيع شروط الصحة واللزوم §31",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.32",
+      "label": "باب في أحكام: البيع شروط الصحة واللزوم §32",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.33",
+      "label": "باب في أحكام: البيع شروط الصحة واللزوم §33",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.34",
+      "label": "باب في أحكام: البيع شروط الصحة واللزوم §34",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.35",
+      "label": "باب في أحكام: البيع شروط الصحة واللزوم §35",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.36",
+      "label": "باب في أحكام: البيع شروط الصحة واللزوم §36",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.37",
+      "label": "باب في أحكام: البيع شروط الصحة واللزوم §37",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.38",
+      "label": "باب في أحكام: البيع شروط الصحة واللزوم §38",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.39",
+      "label": "باب في أحكام: البيع شروط الصحة واللزوم §39",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.40",
+      "label": "باب في أحكام: البيع شروط الصحة واللزوم §40",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.41",
+      "label": "باب في أحكام: البيع شروط الصحة واللزوم §41",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.42",
+      "label": "باب في أحكام: البيع شروط الصحة واللزوم §42",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.43",
+      "label": "باب في أحكام: البيع شروط الصحة واللزوم §43",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.44",
+      "label": "باب في أحكام: البيع شروط الصحة واللزوم §44",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.45",
+      "label": "باب في أحكام: البيع شروط الصحة واللزوم §45",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.46",
+      "label": "باب في أحكام: البيع شروط الصحة واللزوم §46",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.47",
+      "label": "باب في أحكام: البيع شروط الصحة واللزوم §47",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.48",
+      "label": "باب في أحكام: البيع شروط الصحة واللزوم §48",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.49",
+      "label": "باب في أحكام: البيع شروط الصحة واللزوم §49",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.50",
+      "label": "باب في أحكام: البيع شروط الصحة واللزوم §50",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.51",
+      "label": "باب في أحكام: البيع شروط الصحة واللزوم §51",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.52",
+      "label": "باب في أحكام: البيع شروط الصحة واللزوم §52",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.53",
+      "label": "باب في أحكام: البيع شروط الصحة واللزوم §53",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.54",
+      "label": "باب في أحكام: البيع شروط الصحة واللزوم §54",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.55",
+      "label": "باب في أحكام: البيع شروط الصحة واللزوم §55",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.56",
+      "label": "باب في أحكام: البيع شروط الصحة واللزوم §56",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.57",
+      "label": "باب في أحكام: البيع شروط الصحة واللزوم §57",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.58",
+      "label": "باب في أحكام: البيع شروط الصحة واللزوم §58",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.59",
+      "label": "باب في أحكام: البيع شروط الصحة واللزوم §59",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.60",
+      "label": "باب في أحكام: البيع شروط الصحة واللزوم §60",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.61",
+      "label": "باب في أحكام: البيع شروط الصحة واللزوم §61",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.62",
+      "label": "باب في أحكام: البيع شروط الصحة واللزوم §62",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.63",
+      "label": "باب في أحكام: البيع شروط الصحة واللزوم §63",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "21.1",
+      "label": "باب في بيان أحكام السلم §1",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.2",
+      "label": "باب في بيان أحكام السلم §2",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.3",
+      "label": "باب في بيان أحكام السلم §3",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.4",
+      "label": "باب في بيان أحكام السلم §4",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.5",
+      "label": "باب في بيان أحكام السلم §5",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.6",
+      "label": "باب في بيان أحكام السلم §6",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.7",
+      "label": "باب في بيان أحكام السلم §7",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.8",
+      "label": "باب في بيان أحكام السلم §8",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.9",
+      "label": "باب في بيان أحكام السلم §9",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.10",
+      "label": "باب في بيان أحكام السلم §10",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.11",
+      "label": "باب في بيان أحكام السلم §11",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.12",
+      "label": "باب في بيان أحكام السلم §12",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.13",
+      "label": "باب في بيان أحكام السلم §13",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "22.1",
+      "label": "باب في أحكام الرهن §1",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.2",
+      "label": "باب في أحكام الرهن §2",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.3",
+      "label": "باب في أحكام الرهن §3",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.4",
+      "label": "باب في أحكام الرهن §4",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "23.1",
+      "label": "باب في بيان أحكام إحاطة الدين بمال المدين والتفليس §1",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.2",
+      "label": "باب في بيان أحكام إحاطة الدين بمال المدين والتفليس §2",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.3",
+      "label": "باب في بيان أحكام إحاطة الدين بمال المدين والتفليس §3",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.4",
+      "label": "باب في بيان أحكام إحاطة الدين بمال المدين والتفليس §4",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "24.1",
+      "label": "باب في بيان أسباب الحجر1 وأحكامه ومتعلقاته §1",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.2",
+      "label": "باب في بيان أسباب الحجر1 وأحكامه ومتعلقاته §2",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "25.1",
+      "label": "باب في بيان أحكام أقسام الصلح §1",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.2",
+      "label": "باب في بيان أحكام أقسام الصلح §2",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "26.1",
+      "label": "باب في بيان شروط الحوالة ومتعلقاتها §1",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "27.1",
+      "label": "باب في بيان الضمان وأقسامه §1",
+      "chapterRef": "27"
+    },
+    {
+      "reference": "27.2",
+      "label": "باب في بيان الضمان وأقسامه §2",
+      "chapterRef": "27"
+    },
+    {
+      "reference": "28.1",
+      "label": "باب في بيان حقيقة الشركة وأقسامها وأحكامها §1",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "28.2",
+      "label": "باب في بيان حقيقة الشركة وأقسامها وأحكامها §2",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "28.3",
+      "label": "باب في بيان حقيقة الشركة وأقسامها وأحكامها §3",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "28.4",
+      "label": "باب في بيان حقيقة الشركة وأقسامها وأحكامها §4",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "28.5",
+      "label": "باب في بيان حقيقة الشركة وأقسامها وأحكامها §5",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "28.6",
+      "label": "باب في بيان حقيقة الشركة وأقسامها وأحكامها §6",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "28.7",
+      "label": "باب في بيان حقيقة الشركة وأقسامها وأحكامها §7",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "28.8",
+      "label": "باب في بيان حقيقة الشركة وأقسامها وأحكامها §8",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "28.9",
+      "label": "باب في بيان حقيقة الشركة وأقسامها وأحكامها §9",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "29.1",
+      "label": "باب في أحكام الوكالة §1",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.2",
+      "label": "باب في أحكام الوكالة §2",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.3",
+      "label": "باب في أحكام الوكالة §3",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.4",
+      "label": "باب في أحكام الوكالة §4",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "30.1",
+      "label": "باب في بيان أحكام الإقرار §1",
+      "chapterRef": "30"
+    },
+    {
+      "reference": "30.2",
+      "label": "باب في بيان أحكام الإقرار §2",
+      "chapterRef": "30"
+    },
+    {
+      "reference": "30.3",
+      "label": "باب في بيان أحكام الإقرار §3",
+      "chapterRef": "30"
+    },
+    {
+      "reference": "30.4",
+      "label": "باب في بيان أحكام الإقرار §4",
+      "chapterRef": "30"
+    },
+    {
+      "reference": "30.5",
+      "label": "باب في بيان أحكام الإقرار §5",
+      "chapterRef": "30"
+    },
+    {
+      "reference": "30.6",
+      "label": "باب في بيان أحكام الإقرار §6",
+      "chapterRef": "30"
+    },
+    {
+      "reference": "30.7",
+      "label": "باب في بيان أحكام الإقرار §7",
+      "chapterRef": "30"
+    },
+    {
+      "reference": "30.8",
+      "label": "باب في بيان أحكام الإقرار §8",
+      "chapterRef": "30"
+    },
+    {
+      "reference": "31.1",
+      "label": "باب في بيان أحكام الوديعة ومتعلقاتها §1",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.2",
+      "label": "باب في بيان أحكام الوديعة ومتعلقاتها §2",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "32.1",
+      "label": "باب في بيان أحكام العارية §1",
+      "chapterRef": "32"
+    },
+    {
+      "reference": "32.2",
+      "label": "باب في بيان أحكام العارية §2",
+      "chapterRef": "32"
+    },
+    {
+      "reference": "33.1",
+      "label": "باب في بيان حقيقة الغصب وأحكامه وما يتعلق به §1",
+      "chapterRef": "33"
+    },
+    {
+      "reference": "33.2",
+      "label": "باب في بيان حقيقة الغصب وأحكامه وما يتعلق به §2",
+      "chapterRef": "33"
+    },
+    {
+      "reference": "33.3",
+      "label": "باب في بيان حقيقة الغصب وأحكامه وما يتعلق به §3",
+      "chapterRef": "33"
+    },
+    {
+      "reference": "33.4",
+      "label": "باب في بيان حقيقة الغصب وأحكامه وما يتعلق به §4",
+      "chapterRef": "33"
+    },
+    {
+      "reference": "33.5",
+      "label": "باب في بيان حقيقة الغصب وأحكامه وما يتعلق به §5",
+      "chapterRef": "33"
+    },
+    {
+      "reference": "33.6",
+      "label": "باب في بيان حقيقة الغصب وأحكامه وما يتعلق به §6",
+      "chapterRef": "33"
+    },
+    {
+      "reference": "33.7",
+      "label": "باب في بيان حقيقة الغصب وأحكامه وما يتعلق به §7",
+      "chapterRef": "33"
+    },
+    {
+      "reference": "33.8",
+      "label": "باب في بيان حقيقة الغصب وأحكامه وما يتعلق به §8",
+      "chapterRef": "33"
+    },
+    {
+      "reference": "33.9",
+      "label": "باب في بيان حقيقة الغصب وأحكامه وما يتعلق به §9",
+      "chapterRef": "33"
+    },
+    {
+      "reference": "34.1",
+      "label": "باب في حقيقة الشفعة1 وأحكامها §1",
+      "chapterRef": "34"
+    },
+    {
+      "reference": "34.2",
+      "label": "باب في حقيقة الشفعة1 وأحكامها §2",
+      "chapterRef": "34"
+    },
+    {
+      "reference": "34.3",
+      "label": "باب في حقيقة الشفعة1 وأحكامها §3",
+      "chapterRef": "34"
+    },
+    {
+      "reference": "35.1",
+      "label": "باب في أحكام القسمة ومتعلقاتها §1",
+      "chapterRef": "35"
+    },
+    {
+      "reference": "35.2",
+      "label": "باب في أحكام القسمة ومتعلقاتها §2",
+      "chapterRef": "35"
+    },
+    {
+      "reference": "36.1",
+      "label": "باب في بيان أحكام القراض §1",
+      "chapterRef": "36"
+    },
+    {
+      "reference": "36.2",
+      "label": "باب في بيان أحكام القراض §2",
+      "chapterRef": "36"
+    },
+    {
+      "reference": "36.3",
+      "label": "باب في بيان أحكام القراض §3",
+      "chapterRef": "36"
+    },
+    {
+      "reference": "37.1",
+      "label": "باب في بيان أحكام المساقاة §1",
+      "chapterRef": "37"
+    },
+    {
+      "reference": "37.2",
+      "label": "باب في بيان أحكام المساقاة §2",
+      "chapterRef": "37"
+    },
+    {
+      "reference": "37.3",
+      "label": "باب في بيان أحكام المساقاة §3",
+      "chapterRef": "37"
+    },
+    {
+      "reference": "38.1",
+      "label": "باب في أحكام المغارسة §1",
+      "chapterRef": "38"
+    },
+    {
+      "reference": "38.2",
+      "label": "باب في أحكام المغارسة §2",
+      "chapterRef": "38"
+    },
+    {
+      "reference": "38.3",
+      "label": "باب في أحكام المغارسة §3",
+      "chapterRef": "38"
+    },
+    {
+      "reference": "39.1",
+      "label": "باب في أحكام الإجارة والكراء §1",
+      "chapterRef": "39"
+    },
+    {
+      "reference": "39.2",
+      "label": "باب في أحكام الإجارة والكراء §2",
+      "chapterRef": "39"
+    },
+    {
+      "reference": "39.3",
+      "label": "باب في أحكام الإجارة والكراء §3",
+      "chapterRef": "39"
+    },
+    {
+      "reference": "39.4",
+      "label": "باب في أحكام الإجارة والكراء §4",
+      "chapterRef": "39"
+    },
+    {
+      "reference": "39.5",
+      "label": "باب في أحكام الإجارة والكراء §5",
+      "chapterRef": "39"
+    },
+    {
+      "reference": "39.6",
+      "label": "باب في أحكام الإجارة والكراء §6",
+      "chapterRef": "39"
+    },
+    {
+      "reference": "39.7",
+      "label": "باب في أحكام الإجارة والكراء §7",
+      "chapterRef": "39"
+    },
+    {
+      "reference": "39.8",
+      "label": "باب في أحكام الإجارة والكراء §8",
+      "chapterRef": "39"
+    },
+    {
+      "reference": "39.9",
+      "label": "باب في أحكام الإجارة والكراء §9",
+      "chapterRef": "39"
+    },
+    {
+      "reference": "39.10",
+      "label": "باب في أحكام الإجارة والكراء §10",
+      "chapterRef": "39"
+    },
+    {
+      "reference": "39.11",
+      "label": "باب في أحكام الإجارة والكراء §11",
+      "chapterRef": "39"
+    },
+    {
+      "reference": "39.12",
+      "label": "باب في أحكام الإجارة والكراء §12",
+      "chapterRef": "39"
+    },
+    {
+      "reference": "39.13",
+      "label": "باب في أحكام الإجارة والكراء §13",
+      "chapterRef": "39"
+    },
+    {
+      "reference": "40.1",
+      "label": "باب في أحكام الجعل وما يتعلق به §1",
+      "chapterRef": "40"
+    },
+    {
+      "reference": "41.1",
+      "label": "باب في بيان إحياء الموات §1",
+      "chapterRef": "41"
+    },
+    {
+      "reference": "42.1",
+      "label": "باب في بيان أحكام الوقف §1",
+      "chapterRef": "42"
+    },
+    {
+      "reference": "42.2",
+      "label": "باب في بيان أحكام الوقف §2",
+      "chapterRef": "42"
+    },
+    {
+      "reference": "42.3",
+      "label": "باب في بيان أحكام الوقف §3",
+      "chapterRef": "42"
+    },
+    {
+      "reference": "42.4",
+      "label": "باب في بيان أحكام الوقف §4",
+      "chapterRef": "42"
+    },
+    {
+      "reference": "43.1",
+      "label": "باب في أحكام الهبة ومتعلقاتها §1",
+      "chapterRef": "43"
+    },
+    {
+      "reference": "43.2",
+      "label": "باب في أحكام الهبة ومتعلقاتها §2",
+      "chapterRef": "43"
+    },
+    {
+      "reference": "44.1",
+      "label": "باب في اللقطة والضالة والآبق واللقيط §1",
+      "chapterRef": "44"
+    },
+    {
+      "reference": "44.2",
+      "label": "باب في اللقطة والضالة والآبق واللقيط §2",
+      "chapterRef": "44"
+    },
+    {
+      "reference": "44.3",
+      "label": "باب في اللقطة والضالة والآبق واللقيط §3",
+      "chapterRef": "44"
+    },
+    {
+      "reference": "44.4",
+      "label": "باب في اللقطة والضالة والآبق واللقيط §4",
+      "chapterRef": "44"
+    },
+    {
+      "reference": "45.1",
+      "label": "باب في شروط القضاء وأحكامه §1",
+      "chapterRef": "45"
+    },
+    {
+      "reference": "45.2",
+      "label": "باب في شروط القضاء وأحكامه §2",
+      "chapterRef": "45"
+    },
+    {
+      "reference": "45.3",
+      "label": "باب في شروط القضاء وأحكامه §3",
+      "chapterRef": "45"
+    },
+    {
+      "reference": "45.4",
+      "label": "باب في شروط القضاء وأحكامه §4",
+      "chapterRef": "45"
+    },
+    {
+      "reference": "46.1",
+      "label": "باب في أحكام الشهادة §1",
+      "chapterRef": "46"
+    },
+    {
+      "reference": "46.2",
+      "label": "باب في أحكام الشهادة §2",
+      "chapterRef": "46"
+    },
+    {
+      "reference": "46.3",
+      "label": "باب في أحكام الشهادة §3",
+      "chapterRef": "46"
+    },
+    {
+      "reference": "46.4",
+      "label": "باب في أحكام الشهادة §4",
+      "chapterRef": "46"
+    },
+    {
+      "reference": "46.5",
+      "label": "باب في أحكام الشهادة §5",
+      "chapterRef": "46"
+    },
+    {
+      "reference": "46.6",
+      "label": "باب في أحكام الشهادة §6",
+      "chapterRef": "46"
+    },
+    {
+      "reference": "46.7",
+      "label": "باب في أحكام الشهادة §7",
+      "chapterRef": "46"
+    },
+    {
+      "reference": "46.8",
+      "label": "باب في أحكام الشهادة §8",
+      "chapterRef": "46"
+    },
+    {
+      "reference": "46.9",
+      "label": "باب في أحكام الشهادة §9",
+      "chapterRef": "46"
+    },
+    {
+      "reference": "46.10",
+      "label": "باب في أحكام الشهادة §10",
+      "chapterRef": "46"
+    },
+    {
+      "reference": "47.1",
+      "label": "باب في أحكام الدماء والقصاص وما يتعلق بذلك §1",
+      "chapterRef": "47"
+    },
+    {
+      "reference": "47.2",
+      "label": "باب في أحكام الدماء والقصاص وما يتعلق بذلك §2",
+      "chapterRef": "47"
+    },
+    {
+      "reference": "47.3",
+      "label": "باب في أحكام الدماء والقصاص وما يتعلق بذلك §3",
+      "chapterRef": "47"
+    },
+    {
+      "reference": "47.4",
+      "label": "باب في أحكام الدماء والقصاص وما يتعلق بذلك §4",
+      "chapterRef": "47"
+    },
+    {
+      "reference": "47.5",
+      "label": "باب في أحكام الدماء والقصاص وما يتعلق بذلك §5",
+      "chapterRef": "47"
+    },
+    {
+      "reference": "47.6",
+      "label": "باب في أحكام الدماء والقصاص وما يتعلق بذلك §6",
+      "chapterRef": "47"
+    },
+    {
+      "reference": "47.7",
+      "label": "باب في أحكام الدماء والقصاص وما يتعلق بذلك §7",
+      "chapterRef": "47"
+    },
+    {
+      "reference": "47.8",
+      "label": "باب في أحكام الدماء والقصاص وما يتعلق بذلك §8",
+      "chapterRef": "47"
+    },
+    {
+      "reference": "47.9",
+      "label": "باب في أحكام الدماء والقصاص وما يتعلق بذلك §9",
+      "chapterRef": "47"
+    },
+    {
+      "reference": "47.10",
+      "label": "باب في أحكام الدماء والقصاص وما يتعلق بذلك §10",
+      "chapterRef": "47"
+    },
+    {
+      "reference": "48.1",
+      "label": "باب في بيان حد الباغية وأحكامها §1",
+      "chapterRef": "48"
+    },
+    {
+      "reference": "49.1",
+      "label": "باب في بيان حقيقة الردة وأحكامها §1",
+      "chapterRef": "49"
+    },
+    {
+      "reference": "49.2",
+      "label": "باب في بيان حقيقة الردة وأحكامها §2",
+      "chapterRef": "49"
+    },
+    {
+      "reference": "50.1",
+      "label": "باب في حد الزنا ومتعلقاته §1",
+      "chapterRef": "50"
+    },
+    {
+      "reference": "50.2",
+      "label": "باب في حد الزنا ومتعلقاته §2",
+      "chapterRef": "50"
+    },
+    {
+      "reference": "51.1",
+      "label": "باب في بيان أحكام القذف §1",
+      "chapterRef": "51"
+    },
+    {
+      "reference": "52.1",
+      "label": "باب في أحكام السرقة وما يتعلق بها §1",
+      "chapterRef": "52"
+    },
+    {
+      "reference": "52.2",
+      "label": "باب في أحكام السرقة وما يتعلق بها §2",
+      "chapterRef": "52"
+    },
+    {
+      "reference": "53.1",
+      "label": "باب في بيان حقيقة المحارب وأحكامه §1",
+      "chapterRef": "53"
+    },
+    {
+      "reference": "54.1",
+      "label": "باب في بيان حد شارب الخمر §1",
+      "chapterRef": "54"
+    },
+    {
+      "reference": "55.1",
+      "label": "باب في بيان أحكام الإعتاق ومتعلقاته §1",
+      "chapterRef": "55"
+    },
+    {
+      "reference": "55.2",
+      "label": "باب في بيان أحكام الإعتاق ومتعلقاته §2",
+      "chapterRef": "55"
+    },
+    {
+      "reference": "55.3",
+      "label": "باب في بيان أحكام الإعتاق ومتعلقاته §3",
+      "chapterRef": "55"
+    },
+    {
+      "reference": "56.1",
+      "label": "باب في بيان حقيقة التدبير وأحكامه §1",
+      "chapterRef": "56"
+    },
+    {
+      "reference": "57.1",
+      "label": "باب في بيان أحكام الكتابة والمكاتب §1",
+      "chapterRef": "57"
+    },
+    {
+      "reference": "57.2",
+      "label": "باب في بيان أحكام الكتابة والمكاتب §2",
+      "chapterRef": "57"
+    },
+    {
+      "reference": "57.3",
+      "label": "باب في بيان أحكام الكتابة والمكاتب §3",
+      "chapterRef": "57"
+    },
+    {
+      "reference": "58.1",
+      "label": "باب في بيان أحكام أم الولد §1",
+      "chapterRef": "58"
+    },
+    {
+      "reference": "58.2",
+      "label": "باب في بيان أحكام أم الولد §2",
+      "chapterRef": "58"
+    },
+    {
+      "reference": "58.3",
+      "label": "باب في بيان أحكام أم الولد §3",
+      "chapterRef": "58"
+    },
+    {
+      "reference": "58.4",
+      "label": "باب في بيان أحكام أم الولد §4",
+      "chapterRef": "58"
+    },
+    {
+      "reference": "58.5",
+      "label": "باب في بيان أحكام أم الولد §5",
+      "chapterRef": "58"
+    },
+    {
+      "reference": "58.6",
+      "label": "باب في بيان أحكام أم الولد §6",
+      "chapterRef": "58"
+    },
+    {
+      "reference": "58.7",
+      "label": "باب في بيان أحكام أم الولد §7",
+      "chapterRef": "58"
+    },
+    {
+      "reference": "59.1",
+      "label": "باب في بيان أحكام الوصية §1",
+      "chapterRef": "59"
+    },
+    {
+      "reference": "59.2",
+      "label": "باب في بيان أحكام الوصية §2",
+      "chapterRef": "59"
+    },
+    {
+      "reference": "59.3",
+      "label": "باب في بيان أحكام الوصية §3",
+      "chapterRef": "59"
+    },
+    {
+      "reference": "59.4",
+      "label": "باب في بيان أحكام الوصية §4",
+      "chapterRef": "59"
+    },
+    {
+      "reference": "60.1",
+      "label": "باب في بيان الفرائض §1",
+      "chapterRef": "60"
+    },
+    {
+      "reference": "60.2",
+      "label": "باب في بيان الفرائض §2",
+      "chapterRef": "60"
+    },
+    {
+      "reference": "60.3",
+      "label": "باب في بيان الفرائض §3",
+      "chapterRef": "60"
+    },
+    {
+      "reference": "60.4",
+      "label": "باب في بيان الفرائض §4",
+      "chapterRef": "60"
+    },
+    {
+      "reference": "60.5",
+      "label": "باب في بيان الفرائض §5",
+      "chapterRef": "60"
+    },
+    {
+      "reference": "60.6",
+      "label": "باب في بيان الفرائض §6",
+      "chapterRef": "60"
+    }
+  ],
+  "editions": [
+    {
+      "slug": "mukhtasar-khalil-ar-openiti",
+      "language": "ar",
+      "editionType": "original",
+      "title": "Arabic text (OpenITI transcription of the Shamela edition)",
+      "translator": "",
+      "publisher": "OpenITI",
+      "publicationYear": null,
+      "source": "openiti",
+      "license": "cc-by-nc-sa",
+      "rightsStatus": "The classical work is public domain. This digital transcription is distributed by OpenITI under CC BY-NC-SA 4.0 and is streamed with attribution.",
+      "attributionText": "Mukhtasar Khalil by Khalil ibn Ishaq al-Jundi. Arabic text from the OpenITI corpus (0775AH/0767KhalilIbnIshaq.MukhtasarKhalil.Shamela0011355-ara1), distributed under CC BY-NC-SA 4.0.",
+      "structureScheme": "chapter and paragraph; chapter headings from the OpenITI transcription",
+      "isSample": false,
+      "notes": "Arabic only. The English translation was not available under a verifiable public-domain licence, so it is not included."
+    }
+  ]
+}

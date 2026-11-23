@@ -1,0 +1,4928 @@
+{
+  "slug": "dionysius-areopagite",
+  "title": "The Works of Dionysius the Areopagite",
+  "originalTitle": "",
+  "transliteration": "Corpus Dionysiacum",
+  "altTitles": [
+    "Pseudo-Dionysius",
+    "On the Divine Names",
+    "Mystical Theology"
+  ],
+  "tradition": "christianity",
+  "school": "patristics",
+  "genre": "Mystical theology",
+  "textType": "Treatises and letters",
+  "category": "Patristic theology",
+  "subcategory": "",
+  "originalLanguage": "grc",
+  "dateStart": 480,
+  "dateEnd": 530,
+  "dateDisplay": "c. 480–530 CE",
+  "authorshipStatus": "disputed",
+  "author": "pseudo-dionysius",
+  "attributionNote": "The corpus is presented as the work of Dionysius the Areopagite, the Athenian converted by Paul in Acts 17. Since the 6th century it has been recognised as the work of a later writer, probably a Syrian monk of around 500 CE, and is now called Pseudo-Dionysius.",
+  "description": "The Dionysian corpus is the foundation of Christian mystical theology: On the Divine Names, which thinks God through the names Scripture gives him; the Celestial and Ecclesiastical Hierarchies, which order angels and liturgy in a single ascending scale; the Mystical Theology, a few pages on the God beyond affirmation and denial; and ten letters on prayer, pastors and the hiddenness of God. Its language of hierarchy, deification and the cloud of unknowing shaped Byzantine theology, Aquinas, the medieval English mystics and the whole tradition of apophatic prayer.",
+  "historicalContext": "The corpus first appears in the early 6th century and was defended as apostolic at a council in 532; its dependence on Proclus was established in the 19th century. John Parker's translation, published at Oxford in 1897, was the first complete English edition of all the works and is the version the archive carries, with the translator's prefaces and notes.",
+  "availabilityNote": "Complete. The five works of the corpus — the Divine Names, the Mystic Theology, the Letters, the Celestial Hierarchy and the Ecclesiastical Hierarchy — are streamed from the Internet Sacred Text Archive at read time, one chapter (caput) or letter per chapter. The two volumes' title pages, prefaces, bibliographies and indexes are not part of the work; each chapter label carries the treatise it belongs to.",
+  "featured": false,
+  "featuredNote": "",
+  "refScheme": "chapter.paragraph",
+  "isSample": false,
+  "textStorage": "streamed",
+  "chapters": [
+    {
+      "ref": "1",
+      "label": "The Divine Names — Caput I"
+    },
+    {
+      "ref": "2",
+      "label": "The Divine Names — Caput II"
+    },
+    {
+      "ref": "3",
+      "label": "The Divine Names — Caput III"
+    },
+    {
+      "ref": "4",
+      "label": "The Divine Names — Caput IV"
+    },
+    {
+      "ref": "5",
+      "label": "The Divine Names — Caput V"
+    },
+    {
+      "ref": "6",
+      "label": "The Divine Names — Caput VI"
+    },
+    {
+      "ref": "7",
+      "label": "The Divine Names — Caput VII"
+    },
+    {
+      "ref": "8",
+      "label": "The Divine Names — Caput VIII"
+    },
+    {
+      "ref": "9",
+      "label": "The Divine Names — Caput IX"
+    },
+    {
+      "ref": "10",
+      "label": "The Divine Names — Caput X"
+    },
+    {
+      "ref": "11",
+      "label": "The Divine Names — Caput XI"
+    },
+    {
+      "ref": "12",
+      "label": "The Divine Names — Caput XII"
+    },
+    {
+      "ref": "13",
+      "label": "The Divine Names — Caput XIII"
+    },
+    {
+      "ref": "14",
+      "label": "Mystic Theology — Caput I"
+    },
+    {
+      "ref": "15",
+      "label": "Mystic Theology — Caput II"
+    },
+    {
+      "ref": "16",
+      "label": "Mystic Theology — Caput III"
+    },
+    {
+      "ref": "17",
+      "label": "Mystic Theology — Caput IV"
+    },
+    {
+      "ref": "18",
+      "label": "Mystic Theology — Caput V"
+    },
+    {
+      "ref": "19",
+      "label": "Letters — Letter I"
+    },
+    {
+      "ref": "20",
+      "label": "Letters — Letter II"
+    },
+    {
+      "ref": "21",
+      "label": "Letters — Letter III"
+    },
+    {
+      "ref": "22",
+      "label": "Letters — Letter IV"
+    },
+    {
+      "ref": "23",
+      "label": "Letters — Letter V"
+    },
+    {
+      "ref": "24",
+      "label": "Letters — Letter VI"
+    },
+    {
+      "ref": "25",
+      "label": "Letters — Letter VII"
+    },
+    {
+      "ref": "26",
+      "label": "Letters — Letter VIII"
+    },
+    {
+      "ref": "27",
+      "label": "Letters — Letter IX"
+    },
+    {
+      "ref": "28",
+      "label": "Letters — Letter X"
+    },
+    {
+      "ref": "29",
+      "label": "Letters — Letter XI"
+    },
+    {
+      "ref": "30",
+      "label": "The Celestial Hierarchy — Caput I"
+    },
+    {
+      "ref": "31",
+      "label": "The Celestial Hierarchy — Caput II"
+    },
+    {
+      "ref": "32",
+      "label": "The Celestial Hierarchy — Caput III"
+    },
+    {
+      "ref": "33",
+      "label": "The Celestial Hierarchy — Caput IV"
+    },
+    {
+      "ref": "34",
+      "label": "The Celestial Hierarchy — Caput V"
+    },
+    {
+      "ref": "35",
+      "label": "The Celestial Hierarchy — Caput VI"
+    },
+    {
+      "ref": "36",
+      "label": "The Celestial Hierarchy — Caput VII"
+    },
+    {
+      "ref": "37",
+      "label": "The Celestial Hierarchy — Caput VIII"
+    },
+    {
+      "ref": "38",
+      "label": "The Celestial Hierarchy — Caput IX"
+    },
+    {
+      "ref": "39",
+      "label": "The Celestial Hierarchy — Caput X"
+    },
+    {
+      "ref": "40",
+      "label": "The Celestial Hierarchy — Caput XI"
+    },
+    {
+      "ref": "41",
+      "label": "The Celestial Hierarchy — Caput XII"
+    },
+    {
+      "ref": "42",
+      "label": "The Celestial Hierarchy — Caput XIII"
+    },
+    {
+      "ref": "43",
+      "label": "The Celestial Hierarchy — Caput XIV"
+    },
+    {
+      "ref": "44",
+      "label": "The Celestial Hierarchy — Caput XV"
+    },
+    {
+      "ref": "45",
+      "label": "The Ecclesiastical Hierarchy — Caput I"
+    },
+    {
+      "ref": "46",
+      "label": "The Ecclesiastical Hierarchy — Caput II"
+    },
+    {
+      "ref": "47",
+      "label": "The Ecclesiastical Hierarchy — Caput III"
+    },
+    {
+      "ref": "48",
+      "label": "The Ecclesiastical Hierarchy — Caput IV"
+    },
+    {
+      "ref": "49",
+      "label": "The Ecclesiastical Hierarchy — Caput V"
+    },
+    {
+      "ref": "50",
+      "label": "The Ecclesiastical Hierarchy — Caput VI"
+    },
+    {
+      "ref": "51",
+      "label": "The Ecclesiastical Hierarchy — Caput VII"
+    }
+  ],
+  "passages": [
+    {
+      "reference": "1.1",
+      "label": "The Divine Names — Caput I §1",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.2",
+      "label": "The Divine Names — Caput I §2",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.3",
+      "label": "The Divine Names — Caput I §3",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.4",
+      "label": "The Divine Names — Caput I §4",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.5",
+      "label": "The Divine Names — Caput I §5",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.6",
+      "label": "The Divine Names — Caput I §6",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.7",
+      "label": "The Divine Names — Caput I §7",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.8",
+      "label": "The Divine Names — Caput I §8",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.9",
+      "label": "The Divine Names — Caput I §9",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.10",
+      "label": "The Divine Names — Caput I §10",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.11",
+      "label": "The Divine Names — Caput I §11",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.12",
+      "label": "The Divine Names — Caput I §12",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.13",
+      "label": "The Divine Names — Caput I §13",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.14",
+      "label": "The Divine Names — Caput I §14",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.15",
+      "label": "The Divine Names — Caput I §15",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.16",
+      "label": "The Divine Names — Caput I §16",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.17",
+      "label": "The Divine Names — Caput I §17",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.18",
+      "label": "The Divine Names — Caput I §18",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.19",
+      "label": "The Divine Names — Caput I §19",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.20",
+      "label": "The Divine Names — Caput I §20",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.21",
+      "label": "The Divine Names — Caput I §21",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.22",
+      "label": "The Divine Names — Caput I §22",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.23",
+      "label": "The Divine Names — Caput I §23",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.24",
+      "label": "The Divine Names — Caput I §24",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.25",
+      "label": "The Divine Names — Caput I §25",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "2.1",
+      "label": "The Divine Names — Caput II §1",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.2",
+      "label": "The Divine Names — Caput II §2",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.3",
+      "label": "The Divine Names — Caput II §3",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.4",
+      "label": "The Divine Names — Caput II §4",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.5",
+      "label": "The Divine Names — Caput II §5",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.6",
+      "label": "The Divine Names — Caput II §6",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.7",
+      "label": "The Divine Names — Caput II §7",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.8",
+      "label": "The Divine Names — Caput II §8",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.9",
+      "label": "The Divine Names — Caput II §9",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.10",
+      "label": "The Divine Names — Caput II §10",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.11",
+      "label": "The Divine Names — Caput II §11",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.12",
+      "label": "The Divine Names — Caput II §12",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.13",
+      "label": "The Divine Names — Caput II §13",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.14",
+      "label": "The Divine Names — Caput II §14",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.15",
+      "label": "The Divine Names — Caput II §15",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.16",
+      "label": "The Divine Names — Caput II §16",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.17",
+      "label": "The Divine Names — Caput II §17",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.18",
+      "label": "The Divine Names — Caput II §18",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.19",
+      "label": "The Divine Names — Caput II §19",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.20",
+      "label": "The Divine Names — Caput II §20",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.21",
+      "label": "The Divine Names — Caput II §21",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.22",
+      "label": "The Divine Names — Caput II §22",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.23",
+      "label": "The Divine Names — Caput II §23",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.24",
+      "label": "The Divine Names — Caput II §24",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.25",
+      "label": "The Divine Names — Caput II §25",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.26",
+      "label": "The Divine Names — Caput II §26",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.27",
+      "label": "The Divine Names — Caput II §27",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.28",
+      "label": "The Divine Names — Caput II §28",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.29",
+      "label": "The Divine Names — Caput II §29",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.30",
+      "label": "The Divine Names — Caput II §30",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.31",
+      "label": "The Divine Names — Caput II §31",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.32",
+      "label": "The Divine Names — Caput II §32",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.33",
+      "label": "The Divine Names — Caput II §33",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.34",
+      "label": "The Divine Names — Caput II §34",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.35",
+      "label": "The Divine Names — Caput II §35",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.36",
+      "label": "The Divine Names — Caput II §36",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.37",
+      "label": "The Divine Names — Caput II §37",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.38",
+      "label": "The Divine Names — Caput II §38",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.39",
+      "label": "The Divine Names — Caput II §39",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "3.1",
+      "label": "The Divine Names — Caput III §1",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.2",
+      "label": "The Divine Names — Caput III §2",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.3",
+      "label": "The Divine Names — Caput III §3",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.4",
+      "label": "The Divine Names — Caput III §4",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.5",
+      "label": "The Divine Names — Caput III §5",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.6",
+      "label": "The Divine Names — Caput III §6",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.7",
+      "label": "The Divine Names — Caput III §7",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "4.1",
+      "label": "The Divine Names — Caput IV §1",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.2",
+      "label": "The Divine Names — Caput IV §2",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.3",
+      "label": "The Divine Names — Caput IV §3",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.4",
+      "label": "The Divine Names — Caput IV §4",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.5",
+      "label": "The Divine Names — Caput IV §5",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.6",
+      "label": "The Divine Names — Caput IV §6",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.7",
+      "label": "The Divine Names — Caput IV §7",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.8",
+      "label": "The Divine Names — Caput IV §8",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.9",
+      "label": "The Divine Names — Caput IV §9",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.10",
+      "label": "The Divine Names — Caput IV §10",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.11",
+      "label": "The Divine Names — Caput IV §11",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.12",
+      "label": "The Divine Names — Caput IV §12",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.13",
+      "label": "The Divine Names — Caput IV §13",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.14",
+      "label": "The Divine Names — Caput IV §14",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.15",
+      "label": "The Divine Names — Caput IV §15",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.16",
+      "label": "The Divine Names — Caput IV §16",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.17",
+      "label": "The Divine Names — Caput IV §17",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.18",
+      "label": "The Divine Names — Caput IV §18",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.19",
+      "label": "The Divine Names — Caput IV §19",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.20",
+      "label": "The Divine Names — Caput IV §20",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.21",
+      "label": "The Divine Names — Caput IV §21",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.22",
+      "label": "The Divine Names — Caput IV §22",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.23",
+      "label": "The Divine Names — Caput IV §23",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.24",
+      "label": "The Divine Names — Caput IV §24",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.25",
+      "label": "The Divine Names — Caput IV §25",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.26",
+      "label": "The Divine Names — Caput IV §26",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.27",
+      "label": "The Divine Names — Caput IV §27",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.28",
+      "label": "The Divine Names — Caput IV §28",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.29",
+      "label": "The Divine Names — Caput IV §29",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.30",
+      "label": "The Divine Names — Caput IV §30",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.31",
+      "label": "The Divine Names — Caput IV §31",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.32",
+      "label": "The Divine Names — Caput IV §32",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.33",
+      "label": "The Divine Names — Caput IV §33",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.34",
+      "label": "The Divine Names — Caput IV §34",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.35",
+      "label": "The Divine Names — Caput IV §35",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.36",
+      "label": "The Divine Names — Caput IV §36",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.37",
+      "label": "The Divine Names — Caput IV §37",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.38",
+      "label": "The Divine Names — Caput IV §38",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.39",
+      "label": "The Divine Names — Caput IV §39",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.40",
+      "label": "The Divine Names — Caput IV §40",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.41",
+      "label": "The Divine Names — Caput IV §41",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.42",
+      "label": "The Divine Names — Caput IV §42",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.43",
+      "label": "The Divine Names — Caput IV §43",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.44",
+      "label": "The Divine Names — Caput IV §44",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.45",
+      "label": "The Divine Names — Caput IV §45",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.46",
+      "label": "The Divine Names — Caput IV §46",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.47",
+      "label": "The Divine Names — Caput IV §47",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.48",
+      "label": "The Divine Names — Caput IV §48",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.49",
+      "label": "The Divine Names — Caput IV §49",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.50",
+      "label": "The Divine Names — Caput IV §50",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.51",
+      "label": "The Divine Names — Caput IV §51",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.52",
+      "label": "The Divine Names — Caput IV §52",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.53",
+      "label": "The Divine Names — Caput IV §53",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.54",
+      "label": "The Divine Names — Caput IV §54",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.55",
+      "label": "The Divine Names — Caput IV §55",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.56",
+      "label": "The Divine Names — Caput IV §56",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.57",
+      "label": "The Divine Names — Caput IV §57",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.58",
+      "label": "The Divine Names — Caput IV §58",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.59",
+      "label": "The Divine Names — Caput IV §59",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.60",
+      "label": "The Divine Names — Caput IV §60",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.61",
+      "label": "The Divine Names — Caput IV §61",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.62",
+      "label": "The Divine Names — Caput IV §62",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.63",
+      "label": "The Divine Names — Caput IV §63",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.64",
+      "label": "The Divine Names — Caput IV §64",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.65",
+      "label": "The Divine Names — Caput IV §65",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.66",
+      "label": "The Divine Names — Caput IV §66",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.67",
+      "label": "The Divine Names — Caput IV §67",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.68",
+      "label": "The Divine Names — Caput IV §68",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.69",
+      "label": "The Divine Names — Caput IV §69",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.70",
+      "label": "The Divine Names — Caput IV §70",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.71",
+      "label": "The Divine Names — Caput IV §71",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.72",
+      "label": "The Divine Names — Caput IV §72",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.73",
+      "label": "The Divine Names — Caput IV §73",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.74",
+      "label": "The Divine Names — Caput IV §74",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.75",
+      "label": "The Divine Names — Caput IV §75",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.76",
+      "label": "The Divine Names — Caput IV §76",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.77",
+      "label": "The Divine Names — Caput IV §77",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.78",
+      "label": "The Divine Names — Caput IV §78",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.79",
+      "label": "The Divine Names — Caput IV §79",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.80",
+      "label": "The Divine Names — Caput IV §80",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.81",
+      "label": "The Divine Names — Caput IV §81",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.82",
+      "label": "The Divine Names — Caput IV §82",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.83",
+      "label": "The Divine Names — Caput IV §83",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.84",
+      "label": "The Divine Names — Caput IV §84",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.85",
+      "label": "The Divine Names — Caput IV §85",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.86",
+      "label": "The Divine Names — Caput IV §86",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.87",
+      "label": "The Divine Names — Caput IV §87",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.88",
+      "label": "The Divine Names — Caput IV §88",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.89",
+      "label": "The Divine Names — Caput IV §89",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.90",
+      "label": "The Divine Names — Caput IV §90",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.91",
+      "label": "The Divine Names — Caput IV §91",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.92",
+      "label": "The Divine Names — Caput IV §92",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.93",
+      "label": "The Divine Names — Caput IV §93",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "5.1",
+      "label": "The Divine Names — Caput V §1",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.2",
+      "label": "The Divine Names — Caput V §2",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.3",
+      "label": "The Divine Names — Caput V §3",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.4",
+      "label": "The Divine Names — Caput V §4",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.5",
+      "label": "The Divine Names — Caput V §5",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.6",
+      "label": "The Divine Names — Caput V §6",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.7",
+      "label": "The Divine Names — Caput V §7",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.8",
+      "label": "The Divine Names — Caput V §8",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.9",
+      "label": "The Divine Names — Caput V §9",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.10",
+      "label": "The Divine Names — Caput V §10",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.11",
+      "label": "The Divine Names — Caput V §11",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.12",
+      "label": "The Divine Names — Caput V §12",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.13",
+      "label": "The Divine Names — Caput V §13",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.14",
+      "label": "The Divine Names — Caput V §14",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.15",
+      "label": "The Divine Names — Caput V §15",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.16",
+      "label": "The Divine Names — Caput V §16",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.17",
+      "label": "The Divine Names — Caput V §17",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.18",
+      "label": "The Divine Names — Caput V §18",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.19",
+      "label": "The Divine Names — Caput V §19",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.20",
+      "label": "The Divine Names — Caput V §20",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.21",
+      "label": "The Divine Names — Caput V §21",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.22",
+      "label": "The Divine Names — Caput V §22",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.23",
+      "label": "The Divine Names — Caput V §23",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.24",
+      "label": "The Divine Names — Caput V §24",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.25",
+      "label": "The Divine Names — Caput V §25",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "6.1",
+      "label": "The Divine Names — Caput VI §1",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.2",
+      "label": "The Divine Names — Caput VI §2",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.3",
+      "label": "The Divine Names — Caput VI §3",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.4",
+      "label": "The Divine Names — Caput VI §4",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.5",
+      "label": "The Divine Names — Caput VI §5",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.6",
+      "label": "The Divine Names — Caput VI §6",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.7",
+      "label": "The Divine Names — Caput VI §7",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.8",
+      "label": "The Divine Names — Caput VI §8",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "7.1",
+      "label": "The Divine Names — Caput VII §1",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.2",
+      "label": "The Divine Names — Caput VII §2",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.3",
+      "label": "The Divine Names — Caput VII §3",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.4",
+      "label": "The Divine Names — Caput VII §4",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.5",
+      "label": "The Divine Names — Caput VII §5",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.6",
+      "label": "The Divine Names — Caput VII §6",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.7",
+      "label": "The Divine Names — Caput VII §7",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.8",
+      "label": "The Divine Names — Caput VII §8",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.9",
+      "label": "The Divine Names — Caput VII §9",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.10",
+      "label": "The Divine Names — Caput VII §10",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.11",
+      "label": "The Divine Names — Caput VII §11",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.12",
+      "label": "The Divine Names — Caput VII §12",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "8.1",
+      "label": "The Divine Names — Caput VIII §1",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.2",
+      "label": "The Divine Names — Caput VIII §2",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.3",
+      "label": "The Divine Names — Caput VIII §3",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.4",
+      "label": "The Divine Names — Caput VIII §4",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.5",
+      "label": "The Divine Names — Caput VIII §5",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.6",
+      "label": "The Divine Names — Caput VIII §6",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.7",
+      "label": "The Divine Names — Caput VIII §7",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.8",
+      "label": "The Divine Names — Caput VIII §8",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.9",
+      "label": "The Divine Names — Caput VIII §9",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.10",
+      "label": "The Divine Names — Caput VIII §10",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.11",
+      "label": "The Divine Names — Caput VIII §11",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.12",
+      "label": "The Divine Names — Caput VIII §12",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.13",
+      "label": "The Divine Names — Caput VIII §13",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.14",
+      "label": "The Divine Names — Caput VIII §14",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.15",
+      "label": "The Divine Names — Caput VIII §15",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.16",
+      "label": "The Divine Names — Caput VIII §16",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.17",
+      "label": "The Divine Names — Caput VIII §17",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.18",
+      "label": "The Divine Names — Caput VIII §18",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.19",
+      "label": "The Divine Names — Caput VIII §19",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.20",
+      "label": "The Divine Names — Caput VIII §20",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "9.1",
+      "label": "The Divine Names — Caput IX §1",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.2",
+      "label": "The Divine Names — Caput IX §2",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.3",
+      "label": "The Divine Names — Caput IX §3",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.4",
+      "label": "The Divine Names — Caput IX §4",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.5",
+      "label": "The Divine Names — Caput IX §5",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.6",
+      "label": "The Divine Names — Caput IX §6",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.7",
+      "label": "The Divine Names — Caput IX §7",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.8",
+      "label": "The Divine Names — Caput IX §8",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.9",
+      "label": "The Divine Names — Caput IX §9",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.10",
+      "label": "The Divine Names — Caput IX §10",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.11",
+      "label": "The Divine Names — Caput IX §11",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.12",
+      "label": "The Divine Names — Caput IX §12",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.13",
+      "label": "The Divine Names — Caput IX §13",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.14",
+      "label": "The Divine Names — Caput IX §14",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.15",
+      "label": "The Divine Names — Caput IX §15",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.16",
+      "label": "The Divine Names — Caput IX §16",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.17",
+      "label": "The Divine Names — Caput IX §17",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.18",
+      "label": "The Divine Names — Caput IX §18",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.19",
+      "label": "The Divine Names — Caput IX §19",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.20",
+      "label": "The Divine Names — Caput IX §20",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.21",
+      "label": "The Divine Names — Caput IX §21",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.22",
+      "label": "The Divine Names — Caput IX §22",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.23",
+      "label": "The Divine Names — Caput IX §23",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "10.1",
+      "label": "The Divine Names — Caput X §1",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.2",
+      "label": "The Divine Names — Caput X §2",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.3",
+      "label": "The Divine Names — Caput X §3",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.4",
+      "label": "The Divine Names — Caput X §4",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.5",
+      "label": "The Divine Names — Caput X §5",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.6",
+      "label": "The Divine Names — Caput X §6",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.7",
+      "label": "The Divine Names — Caput X §7",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.8",
+      "label": "The Divine Names — Caput X §8",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.9",
+      "label": "The Divine Names — Caput X §9",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "11.1",
+      "label": "The Divine Names — Caput XI §1",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.2",
+      "label": "The Divine Names — Caput XI §2",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.3",
+      "label": "The Divine Names — Caput XI §3",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.4",
+      "label": "The Divine Names — Caput XI §4",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.5",
+      "label": "The Divine Names — Caput XI §5",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.6",
+      "label": "The Divine Names — Caput XI §6",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.7",
+      "label": "The Divine Names — Caput XI §7",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.8",
+      "label": "The Divine Names — Caput XI §8",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.9",
+      "label": "The Divine Names — Caput XI §9",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.10",
+      "label": "The Divine Names — Caput XI §10",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.11",
+      "label": "The Divine Names — Caput XI §11",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.12",
+      "label": "The Divine Names — Caput XI §12",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.13",
+      "label": "The Divine Names — Caput XI §13",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "12.1",
+      "label": "The Divine Names — Caput XII §1",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.2",
+      "label": "The Divine Names — Caput XII §2",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.3",
+      "label": "The Divine Names — Caput XII §3",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.4",
+      "label": "The Divine Names — Caput XII §4",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.5",
+      "label": "The Divine Names — Caput XII §5",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.6",
+      "label": "The Divine Names — Caput XII §6",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.7",
+      "label": "The Divine Names — Caput XII §7",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.8",
+      "label": "The Divine Names — Caput XII §8",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.9",
+      "label": "The Divine Names — Caput XII §9",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.10",
+      "label": "The Divine Names — Caput XII §10",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.11",
+      "label": "The Divine Names — Caput XII §11",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "13.1",
+      "label": "The Divine Names — Caput XIII §1",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.2",
+      "label": "The Divine Names — Caput XIII §2",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.3",
+      "label": "The Divine Names — Caput XIII §3",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.4",
+      "label": "The Divine Names — Caput XIII §4",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.5",
+      "label": "The Divine Names — Caput XIII §5",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.6",
+      "label": "The Divine Names — Caput XIII §6",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.7",
+      "label": "The Divine Names — Caput XIII §7",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.8",
+      "label": "The Divine Names — Caput XIII §8",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.9",
+      "label": "The Divine Names — Caput XIII §9",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.10",
+      "label": "The Divine Names — Caput XIII §10",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.11",
+      "label": "The Divine Names — Caput XIII §11",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.12",
+      "label": "The Divine Names — Caput XIII §12",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "14.1",
+      "label": "Mystic Theology — Caput I §1",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.2",
+      "label": "Mystic Theology — Caput I §2",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.3",
+      "label": "Mystic Theology — Caput I §3",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.4",
+      "label": "Mystic Theology — Caput I §4",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.5",
+      "label": "Mystic Theology — Caput I §5",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.6",
+      "label": "Mystic Theology — Caput I §6",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.7",
+      "label": "Mystic Theology — Caput I §7",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "15.1",
+      "label": "Mystic Theology — Caput II §1",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.2",
+      "label": "Mystic Theology — Caput II §2",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.3",
+      "label": "Mystic Theology — Caput II §3",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.4",
+      "label": "Mystic Theology — Caput II §4",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "16.1",
+      "label": "Mystic Theology — Caput III §1",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.2",
+      "label": "Mystic Theology — Caput III §2",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.3",
+      "label": "Mystic Theology — Caput III §3",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "17.1",
+      "label": "Mystic Theology — Caput IV §1",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.2",
+      "label": "Mystic Theology — Caput IV §2",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.3",
+      "label": "Mystic Theology — Caput IV §3",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "18.1",
+      "label": "Mystic Theology — Caput V §1",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.2",
+      "label": "Mystic Theology — Caput V §2",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "19.1",
+      "label": "Letters — Letter I §1",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.2",
+      "label": "Letters — Letter I §2",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.3",
+      "label": "Letters — Letter I §3",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "20.1",
+      "label": "Letters — Letter II §1",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.2",
+      "label": "Letters — Letter II §2",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.3",
+      "label": "Letters — Letter II §3",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "21.1",
+      "label": "Letters — Letter III §1",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.2",
+      "label": "Letters — Letter III §2",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "22.1",
+      "label": "Letters — Letter IV §1",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.2",
+      "label": "Letters — Letter IV §2",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.3",
+      "label": "Letters — Letter IV §3",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.4",
+      "label": "Letters — Letter IV §4",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "23.1",
+      "label": "Letters — Letter V §1",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.2",
+      "label": "Letters — Letter V §2",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.3",
+      "label": "Letters — Letter V §3",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.4",
+      "label": "Letters — Letter V §4",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.5",
+      "label": "Letters — Letter V §5",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.6",
+      "label": "Letters — Letter V §6",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.7",
+      "label": "Letters — Letter V §7",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.8",
+      "label": "Letters — Letter V §8",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "24.1",
+      "label": "Letters — Letter VI §1",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.2",
+      "label": "Letters — Letter VI §2",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.3",
+      "label": "Letters — Letter VI §3",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.4",
+      "label": "Letters — Letter VI §4",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "25.1",
+      "label": "Letters — Letter VII §1",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.2",
+      "label": "Letters — Letter VII §2",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.3",
+      "label": "Letters — Letter VII §3",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.4",
+      "label": "Letters — Letter VII §4",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.5",
+      "label": "Letters — Letter VII §5",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.6",
+      "label": "Letters — Letter VII §6",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.7",
+      "label": "Letters — Letter VII §7",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.8",
+      "label": "Letters — Letter VII §8",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.9",
+      "label": "Letters — Letter VII §9",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.10",
+      "label": "Letters — Letter VII §10",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.11",
+      "label": "Letters — Letter VII §11",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.12",
+      "label": "Letters — Letter VII §12",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.13",
+      "label": "Letters — Letter VII §13",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.14",
+      "label": "Letters — Letter VII §14",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.15",
+      "label": "Letters — Letter VII §15",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.16",
+      "label": "Letters — Letter VII §16",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.17",
+      "label": "Letters — Letter VII §17",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.18",
+      "label": "Letters — Letter VII §18",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "26.1",
+      "label": "Letters — Letter VIII §1",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.2",
+      "label": "Letters — Letter VIII §2",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.3",
+      "label": "Letters — Letter VIII §3",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.4",
+      "label": "Letters — Letter VIII §4",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.5",
+      "label": "Letters — Letter VIII §5",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.6",
+      "label": "Letters — Letter VIII §6",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.7",
+      "label": "Letters — Letter VIII §7",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.8",
+      "label": "Letters — Letter VIII §8",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.9",
+      "label": "Letters — Letter VIII §9",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.10",
+      "label": "Letters — Letter VIII §10",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.11",
+      "label": "Letters — Letter VIII §11",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.12",
+      "label": "Letters — Letter VIII §12",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.13",
+      "label": "Letters — Letter VIII §13",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.14",
+      "label": "Letters — Letter VIII §14",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.15",
+      "label": "Letters — Letter VIII §15",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.16",
+      "label": "Letters — Letter VIII §16",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.17",
+      "label": "Letters — Letter VIII §17",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.18",
+      "label": "Letters — Letter VIII §18",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.19",
+      "label": "Letters — Letter VIII §19",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.20",
+      "label": "Letters — Letter VIII §20",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.21",
+      "label": "Letters — Letter VIII §21",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.22",
+      "label": "Letters — Letter VIII §22",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.23",
+      "label": "Letters — Letter VIII §23",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.24",
+      "label": "Letters — Letter VIII §24",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.25",
+      "label": "Letters — Letter VIII §25",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.26",
+      "label": "Letters — Letter VIII §26",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.27",
+      "label": "Letters — Letter VIII §27",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.28",
+      "label": "Letters — Letter VIII §28",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.29",
+      "label": "Letters — Letter VIII §29",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.30",
+      "label": "Letters — Letter VIII §30",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.31",
+      "label": "Letters — Letter VIII §31",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.32",
+      "label": "Letters — Letter VIII §32",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.33",
+      "label": "Letters — Letter VIII §33",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.34",
+      "label": "Letters — Letter VIII §34",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.35",
+      "label": "Letters — Letter VIII §35",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.36",
+      "label": "Letters — Letter VIII §36",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.37",
+      "label": "Letters — Letter VIII §37",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.38",
+      "label": "Letters — Letter VIII §38",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.39",
+      "label": "Letters — Letter VIII §39",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.40",
+      "label": "Letters — Letter VIII §40",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.41",
+      "label": "Letters — Letter VIII §41",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.42",
+      "label": "Letters — Letter VIII §42",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.43",
+      "label": "Letters — Letter VIII §43",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.44",
+      "label": "Letters — Letter VIII §44",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.45",
+      "label": "Letters — Letter VIII §45",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.46",
+      "label": "Letters — Letter VIII §46",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.47",
+      "label": "Letters — Letter VIII §47",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.48",
+      "label": "Letters — Letter VIII §48",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.49",
+      "label": "Letters — Letter VIII §49",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.50",
+      "label": "Letters — Letter VIII §50",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.51",
+      "label": "Letters — Letter VIII §51",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.52",
+      "label": "Letters — Letter VIII §52",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.53",
+      "label": "Letters — Letter VIII §53",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.54",
+      "label": "Letters — Letter VIII §54",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.55",
+      "label": "Letters — Letter VIII §55",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.56",
+      "label": "Letters — Letter VIII §56",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.57",
+      "label": "Letters — Letter VIII §57",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.58",
+      "label": "Letters — Letter VIII §58",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.59",
+      "label": "Letters — Letter VIII §59",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.60",
+      "label": "Letters — Letter VIII §60",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.61",
+      "label": "Letters — Letter VIII §61",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.62",
+      "label": "Letters — Letter VIII §62",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.63",
+      "label": "Letters — Letter VIII §63",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.64",
+      "label": "Letters — Letter VIII §64",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.65",
+      "label": "Letters — Letter VIII §65",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.66",
+      "label": "Letters — Letter VIII §66",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.67",
+      "label": "Letters — Letter VIII §67",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "27.1",
+      "label": "Letters — Letter IX §1",
+      "chapterRef": "27"
+    },
+    {
+      "reference": "27.2",
+      "label": "Letters — Letter IX §2",
+      "chapterRef": "27"
+    },
+    {
+      "reference": "27.3",
+      "label": "Letters — Letter IX §3",
+      "chapterRef": "27"
+    },
+    {
+      "reference": "27.4",
+      "label": "Letters — Letter IX §4",
+      "chapterRef": "27"
+    },
+    {
+      "reference": "27.5",
+      "label": "Letters — Letter IX §5",
+      "chapterRef": "27"
+    },
+    {
+      "reference": "27.6",
+      "label": "Letters — Letter IX §6",
+      "chapterRef": "27"
+    },
+    {
+      "reference": "27.7",
+      "label": "Letters — Letter IX §7",
+      "chapterRef": "27"
+    },
+    {
+      "reference": "27.8",
+      "label": "Letters — Letter IX §8",
+      "chapterRef": "27"
+    },
+    {
+      "reference": "27.9",
+      "label": "Letters — Letter IX §9",
+      "chapterRef": "27"
+    },
+    {
+      "reference": "27.10",
+      "label": "Letters — Letter IX §10",
+      "chapterRef": "27"
+    },
+    {
+      "reference": "27.11",
+      "label": "Letters — Letter IX §11",
+      "chapterRef": "27"
+    },
+    {
+      "reference": "27.12",
+      "label": "Letters — Letter IX §12",
+      "chapterRef": "27"
+    },
+    {
+      "reference": "27.13",
+      "label": "Letters — Letter IX §13",
+      "chapterRef": "27"
+    },
+    {
+      "reference": "27.14",
+      "label": "Letters — Letter IX §14",
+      "chapterRef": "27"
+    },
+    {
+      "reference": "27.15",
+      "label": "Letters — Letter IX §15",
+      "chapterRef": "27"
+    },
+    {
+      "reference": "28.1",
+      "label": "Letters — Letter X §1",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "28.2",
+      "label": "Letters — Letter X §2",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "28.3",
+      "label": "Letters — Letter X §3",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "29.1",
+      "label": "Letters — Letter XI §1",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.2",
+      "label": "Letters — Letter XI §2",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.3",
+      "label": "Letters — Letter XI §3",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "30.1",
+      "label": "The Celestial Hierarchy — Caput I §1",
+      "chapterRef": "30"
+    },
+    {
+      "reference": "30.2",
+      "label": "The Celestial Hierarchy — Caput I §2",
+      "chapterRef": "30"
+    },
+    {
+      "reference": "30.3",
+      "label": "The Celestial Hierarchy — Caput I §3",
+      "chapterRef": "30"
+    },
+    {
+      "reference": "30.4",
+      "label": "The Celestial Hierarchy — Caput I §4",
+      "chapterRef": "30"
+    },
+    {
+      "reference": "30.5",
+      "label": "The Celestial Hierarchy — Caput I §5",
+      "chapterRef": "30"
+    },
+    {
+      "reference": "30.6",
+      "label": "The Celestial Hierarchy — Caput I §6",
+      "chapterRef": "30"
+    },
+    {
+      "reference": "30.7",
+      "label": "The Celestial Hierarchy — Caput I §7",
+      "chapterRef": "30"
+    },
+    {
+      "reference": "30.8",
+      "label": "The Celestial Hierarchy — Caput I §8",
+      "chapterRef": "30"
+    },
+    {
+      "reference": "30.9",
+      "label": "The Celestial Hierarchy — Caput I §9",
+      "chapterRef": "30"
+    },
+    {
+      "reference": "30.10",
+      "label": "The Celestial Hierarchy — Caput I §10",
+      "chapterRef": "30"
+    },
+    {
+      "reference": "30.11",
+      "label": "The Celestial Hierarchy — Caput I §11",
+      "chapterRef": "30"
+    },
+    {
+      "reference": "30.12",
+      "label": "The Celestial Hierarchy — Caput I §12",
+      "chapterRef": "30"
+    },
+    {
+      "reference": "30.13",
+      "label": "The Celestial Hierarchy — Caput I §13",
+      "chapterRef": "30"
+    },
+    {
+      "reference": "30.14",
+      "label": "The Celestial Hierarchy — Caput I §14",
+      "chapterRef": "30"
+    },
+    {
+      "reference": "30.15",
+      "label": "The Celestial Hierarchy — Caput I §15",
+      "chapterRef": "30"
+    },
+    {
+      "reference": "30.16",
+      "label": "The Celestial Hierarchy — Caput I §16",
+      "chapterRef": "30"
+    },
+    {
+      "reference": "30.17",
+      "label": "The Celestial Hierarchy — Caput I §17",
+      "chapterRef": "30"
+    },
+    {
+      "reference": "30.18",
+      "label": "The Celestial Hierarchy — Caput I §18",
+      "chapterRef": "30"
+    },
+    {
+      "reference": "30.19",
+      "label": "The Celestial Hierarchy — Caput I §19",
+      "chapterRef": "30"
+    },
+    {
+      "reference": "30.20",
+      "label": "The Celestial Hierarchy — Caput I §20",
+      "chapterRef": "30"
+    },
+    {
+      "reference": "30.21",
+      "label": "The Celestial Hierarchy — Caput I §21",
+      "chapterRef": "30"
+    },
+    {
+      "reference": "30.22",
+      "label": "The Celestial Hierarchy — Caput I §22",
+      "chapterRef": "30"
+    },
+    {
+      "reference": "30.23",
+      "label": "The Celestial Hierarchy — Caput I §23",
+      "chapterRef": "30"
+    },
+    {
+      "reference": "30.24",
+      "label": "The Celestial Hierarchy — Caput I §24",
+      "chapterRef": "30"
+    },
+    {
+      "reference": "31.1",
+      "label": "The Celestial Hierarchy — Caput II §1",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.2",
+      "label": "The Celestial Hierarchy — Caput II §2",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.3",
+      "label": "The Celestial Hierarchy — Caput II §3",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.4",
+      "label": "The Celestial Hierarchy — Caput II §4",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.5",
+      "label": "The Celestial Hierarchy — Caput II §5",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.6",
+      "label": "The Celestial Hierarchy — Caput II §6",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.7",
+      "label": "The Celestial Hierarchy — Caput II §7",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.8",
+      "label": "The Celestial Hierarchy — Caput II §8",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.9",
+      "label": "The Celestial Hierarchy — Caput II §9",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.10",
+      "label": "The Celestial Hierarchy — Caput II §10",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.11",
+      "label": "The Celestial Hierarchy — Caput II §11",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.12",
+      "label": "The Celestial Hierarchy — Caput II §12",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.13",
+      "label": "The Celestial Hierarchy — Caput II §13",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.14",
+      "label": "The Celestial Hierarchy — Caput II §14",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.15",
+      "label": "The Celestial Hierarchy — Caput II §15",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.16",
+      "label": "The Celestial Hierarchy — Caput II §16",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.17",
+      "label": "The Celestial Hierarchy — Caput II §17",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.18",
+      "label": "The Celestial Hierarchy — Caput II §18",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.19",
+      "label": "The Celestial Hierarchy — Caput II §19",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.20",
+      "label": "The Celestial Hierarchy — Caput II §20",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.21",
+      "label": "The Celestial Hierarchy — Caput II §21",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.22",
+      "label": "The Celestial Hierarchy — Caput II §22",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.23",
+      "label": "The Celestial Hierarchy — Caput II §23",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.24",
+      "label": "The Celestial Hierarchy — Caput II §24",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.25",
+      "label": "The Celestial Hierarchy — Caput II §25",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.26",
+      "label": "The Celestial Hierarchy — Caput II §26",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.27",
+      "label": "The Celestial Hierarchy — Caput II §27",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.28",
+      "label": "The Celestial Hierarchy — Caput II §28",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.29",
+      "label": "The Celestial Hierarchy — Caput II §29",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.30",
+      "label": "The Celestial Hierarchy — Caput II §30",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.31",
+      "label": "The Celestial Hierarchy — Caput II §31",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.32",
+      "label": "The Celestial Hierarchy — Caput II §32",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.33",
+      "label": "The Celestial Hierarchy — Caput II §33",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.34",
+      "label": "The Celestial Hierarchy — Caput II §34",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.35",
+      "label": "The Celestial Hierarchy — Caput II §35",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.36",
+      "label": "The Celestial Hierarchy — Caput II §36",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.37",
+      "label": "The Celestial Hierarchy — Caput II §37",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.38",
+      "label": "The Celestial Hierarchy — Caput II §38",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.39",
+      "label": "The Celestial Hierarchy — Caput II §39",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.40",
+      "label": "The Celestial Hierarchy — Caput II §40",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.41",
+      "label": "The Celestial Hierarchy — Caput II §41",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.42",
+      "label": "The Celestial Hierarchy — Caput II §42",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.43",
+      "label": "The Celestial Hierarchy — Caput II §43",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.44",
+      "label": "The Celestial Hierarchy — Caput II §44",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.45",
+      "label": "The Celestial Hierarchy — Caput II §45",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.46",
+      "label": "The Celestial Hierarchy — Caput II §46",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "32.1",
+      "label": "The Celestial Hierarchy — Caput III §1",
+      "chapterRef": "32"
+    },
+    {
+      "reference": "32.2",
+      "label": "The Celestial Hierarchy — Caput III §2",
+      "chapterRef": "32"
+    },
+    {
+      "reference": "32.3",
+      "label": "The Celestial Hierarchy — Caput III §3",
+      "chapterRef": "32"
+    },
+    {
+      "reference": "32.4",
+      "label": "The Celestial Hierarchy — Caput III §4",
+      "chapterRef": "32"
+    },
+    {
+      "reference": "32.5",
+      "label": "The Celestial Hierarchy — Caput III §5",
+      "chapterRef": "32"
+    },
+    {
+      "reference": "32.6",
+      "label": "The Celestial Hierarchy — Caput III §6",
+      "chapterRef": "32"
+    },
+    {
+      "reference": "32.7",
+      "label": "The Celestial Hierarchy — Caput III §7",
+      "chapterRef": "32"
+    },
+    {
+      "reference": "32.8",
+      "label": "The Celestial Hierarchy — Caput III §8",
+      "chapterRef": "32"
+    },
+    {
+      "reference": "32.9",
+      "label": "The Celestial Hierarchy — Caput III §9",
+      "chapterRef": "32"
+    },
+    {
+      "reference": "32.10",
+      "label": "The Celestial Hierarchy — Caput III §10",
+      "chapterRef": "32"
+    },
+    {
+      "reference": "32.11",
+      "label": "The Celestial Hierarchy — Caput III §11",
+      "chapterRef": "32"
+    },
+    {
+      "reference": "32.12",
+      "label": "The Celestial Hierarchy — Caput III §12",
+      "chapterRef": "32"
+    },
+    {
+      "reference": "32.13",
+      "label": "The Celestial Hierarchy — Caput III §13",
+      "chapterRef": "32"
+    },
+    {
+      "reference": "32.14",
+      "label": "The Celestial Hierarchy — Caput III §14",
+      "chapterRef": "32"
+    },
+    {
+      "reference": "32.15",
+      "label": "The Celestial Hierarchy — Caput III §15",
+      "chapterRef": "32"
+    },
+    {
+      "reference": "32.16",
+      "label": "The Celestial Hierarchy — Caput III §16",
+      "chapterRef": "32"
+    },
+    {
+      "reference": "33.1",
+      "label": "The Celestial Hierarchy — Caput IV §1",
+      "chapterRef": "33"
+    },
+    {
+      "reference": "33.2",
+      "label": "The Celestial Hierarchy — Caput IV §2",
+      "chapterRef": "33"
+    },
+    {
+      "reference": "33.3",
+      "label": "The Celestial Hierarchy — Caput IV §3",
+      "chapterRef": "33"
+    },
+    {
+      "reference": "33.4",
+      "label": "The Celestial Hierarchy — Caput IV §4",
+      "chapterRef": "33"
+    },
+    {
+      "reference": "33.5",
+      "label": "The Celestial Hierarchy — Caput IV §5",
+      "chapterRef": "33"
+    },
+    {
+      "reference": "33.6",
+      "label": "The Celestial Hierarchy — Caput IV §6",
+      "chapterRef": "33"
+    },
+    {
+      "reference": "33.7",
+      "label": "The Celestial Hierarchy — Caput IV §7",
+      "chapterRef": "33"
+    },
+    {
+      "reference": "33.8",
+      "label": "The Celestial Hierarchy — Caput IV §8",
+      "chapterRef": "33"
+    },
+    {
+      "reference": "33.9",
+      "label": "The Celestial Hierarchy — Caput IV §9",
+      "chapterRef": "33"
+    },
+    {
+      "reference": "33.10",
+      "label": "The Celestial Hierarchy — Caput IV §10",
+      "chapterRef": "33"
+    },
+    {
+      "reference": "33.11",
+      "label": "The Celestial Hierarchy — Caput IV §11",
+      "chapterRef": "33"
+    },
+    {
+      "reference": "33.12",
+      "label": "The Celestial Hierarchy — Caput IV §12",
+      "chapterRef": "33"
+    },
+    {
+      "reference": "33.13",
+      "label": "The Celestial Hierarchy — Caput IV §13",
+      "chapterRef": "33"
+    },
+    {
+      "reference": "33.14",
+      "label": "The Celestial Hierarchy — Caput IV §14",
+      "chapterRef": "33"
+    },
+    {
+      "reference": "33.15",
+      "label": "The Celestial Hierarchy — Caput IV §15",
+      "chapterRef": "33"
+    },
+    {
+      "reference": "33.16",
+      "label": "The Celestial Hierarchy — Caput IV §16",
+      "chapterRef": "33"
+    },
+    {
+      "reference": "33.17",
+      "label": "The Celestial Hierarchy — Caput IV §17",
+      "chapterRef": "33"
+    },
+    {
+      "reference": "33.18",
+      "label": "The Celestial Hierarchy — Caput IV §18",
+      "chapterRef": "33"
+    },
+    {
+      "reference": "34.1",
+      "label": "The Celestial Hierarchy — Caput V §1",
+      "chapterRef": "34"
+    },
+    {
+      "reference": "34.2",
+      "label": "The Celestial Hierarchy — Caput V §2",
+      "chapterRef": "34"
+    },
+    {
+      "reference": "35.1",
+      "label": "The Celestial Hierarchy — Caput VI §1",
+      "chapterRef": "35"
+    },
+    {
+      "reference": "35.2",
+      "label": "The Celestial Hierarchy — Caput VI §2",
+      "chapterRef": "35"
+    },
+    {
+      "reference": "36.1",
+      "label": "The Celestial Hierarchy — Caput VII §1",
+      "chapterRef": "36"
+    },
+    {
+      "reference": "36.2",
+      "label": "The Celestial Hierarchy — Caput VII §2",
+      "chapterRef": "36"
+    },
+    {
+      "reference": "36.3",
+      "label": "The Celestial Hierarchy — Caput VII §3",
+      "chapterRef": "36"
+    },
+    {
+      "reference": "36.4",
+      "label": "The Celestial Hierarchy — Caput VII §4",
+      "chapterRef": "36"
+    },
+    {
+      "reference": "36.5",
+      "label": "The Celestial Hierarchy — Caput VII §5",
+      "chapterRef": "36"
+    },
+    {
+      "reference": "36.6",
+      "label": "The Celestial Hierarchy — Caput VII §6",
+      "chapterRef": "36"
+    },
+    {
+      "reference": "36.7",
+      "label": "The Celestial Hierarchy — Caput VII §7",
+      "chapterRef": "36"
+    },
+    {
+      "reference": "36.8",
+      "label": "The Celestial Hierarchy — Caput VII §8",
+      "chapterRef": "36"
+    },
+    {
+      "reference": "36.9",
+      "label": "The Celestial Hierarchy — Caput VII §9",
+      "chapterRef": "36"
+    },
+    {
+      "reference": "36.10",
+      "label": "The Celestial Hierarchy — Caput VII §10",
+      "chapterRef": "36"
+    },
+    {
+      "reference": "36.11",
+      "label": "The Celestial Hierarchy — Caput VII §11",
+      "chapterRef": "36"
+    },
+    {
+      "reference": "36.12",
+      "label": "The Celestial Hierarchy — Caput VII §12",
+      "chapterRef": "36"
+    },
+    {
+      "reference": "37.1",
+      "label": "The Celestial Hierarchy — Caput VIII §1",
+      "chapterRef": "37"
+    },
+    {
+      "reference": "37.2",
+      "label": "The Celestial Hierarchy — Caput VIII §2",
+      "chapterRef": "37"
+    },
+    {
+      "reference": "37.3",
+      "label": "The Celestial Hierarchy — Caput VIII §3",
+      "chapterRef": "37"
+    },
+    {
+      "reference": "37.4",
+      "label": "The Celestial Hierarchy — Caput VIII §4",
+      "chapterRef": "37"
+    },
+    {
+      "reference": "37.5",
+      "label": "The Celestial Hierarchy — Caput VIII §5",
+      "chapterRef": "37"
+    },
+    {
+      "reference": "37.6",
+      "label": "The Celestial Hierarchy — Caput VIII §6",
+      "chapterRef": "37"
+    },
+    {
+      "reference": "38.1",
+      "label": "The Celestial Hierarchy — Caput IX §1",
+      "chapterRef": "38"
+    },
+    {
+      "reference": "38.2",
+      "label": "The Celestial Hierarchy — Caput IX §2",
+      "chapterRef": "38"
+    },
+    {
+      "reference": "38.3",
+      "label": "The Celestial Hierarchy — Caput IX §3",
+      "chapterRef": "38"
+    },
+    {
+      "reference": "38.4",
+      "label": "The Celestial Hierarchy — Caput IX §4",
+      "chapterRef": "38"
+    },
+    {
+      "reference": "38.5",
+      "label": "The Celestial Hierarchy — Caput IX §5",
+      "chapterRef": "38"
+    },
+    {
+      "reference": "38.6",
+      "label": "The Celestial Hierarchy — Caput IX §6",
+      "chapterRef": "38"
+    },
+    {
+      "reference": "38.7",
+      "label": "The Celestial Hierarchy — Caput IX §7",
+      "chapterRef": "38"
+    },
+    {
+      "reference": "38.8",
+      "label": "The Celestial Hierarchy — Caput IX §8",
+      "chapterRef": "38"
+    },
+    {
+      "reference": "38.9",
+      "label": "The Celestial Hierarchy — Caput IX §9",
+      "chapterRef": "38"
+    },
+    {
+      "reference": "39.1",
+      "label": "The Celestial Hierarchy — Caput X §1",
+      "chapterRef": "39"
+    },
+    {
+      "reference": "39.2",
+      "label": "The Celestial Hierarchy — Caput X §2",
+      "chapterRef": "39"
+    },
+    {
+      "reference": "39.3",
+      "label": "The Celestial Hierarchy — Caput X §3",
+      "chapterRef": "39"
+    },
+    {
+      "reference": "39.4",
+      "label": "The Celestial Hierarchy — Caput X §4",
+      "chapterRef": "39"
+    },
+    {
+      "reference": "39.5",
+      "label": "The Celestial Hierarchy — Caput X §5",
+      "chapterRef": "39"
+    },
+    {
+      "reference": "39.6",
+      "label": "The Celestial Hierarchy — Caput X §6",
+      "chapterRef": "39"
+    },
+    {
+      "reference": "39.7",
+      "label": "The Celestial Hierarchy — Caput X §7",
+      "chapterRef": "39"
+    },
+    {
+      "reference": "40.1",
+      "label": "The Celestial Hierarchy — Caput XI §1",
+      "chapterRef": "40"
+    },
+    {
+      "reference": "40.2",
+      "label": "The Celestial Hierarchy — Caput XI §2",
+      "chapterRef": "40"
+    },
+    {
+      "reference": "40.3",
+      "label": "The Celestial Hierarchy — Caput XI §3",
+      "chapterRef": "40"
+    },
+    {
+      "reference": "40.4",
+      "label": "The Celestial Hierarchy — Caput XI §4",
+      "chapterRef": "40"
+    },
+    {
+      "reference": "40.5",
+      "label": "The Celestial Hierarchy — Caput XI §5",
+      "chapterRef": "40"
+    },
+    {
+      "reference": "41.1",
+      "label": "The Celestial Hierarchy — Caput XII §1",
+      "chapterRef": "41"
+    },
+    {
+      "reference": "41.2",
+      "label": "The Celestial Hierarchy — Caput XII §2",
+      "chapterRef": "41"
+    },
+    {
+      "reference": "41.3",
+      "label": "The Celestial Hierarchy — Caput XII §3",
+      "chapterRef": "41"
+    },
+    {
+      "reference": "41.4",
+      "label": "The Celestial Hierarchy — Caput XII §4",
+      "chapterRef": "41"
+    },
+    {
+      "reference": "41.5",
+      "label": "The Celestial Hierarchy — Caput XII §5",
+      "chapterRef": "41"
+    },
+    {
+      "reference": "41.6",
+      "label": "The Celestial Hierarchy — Caput XII §6",
+      "chapterRef": "41"
+    },
+    {
+      "reference": "41.7",
+      "label": "The Celestial Hierarchy — Caput XII §7",
+      "chapterRef": "41"
+    },
+    {
+      "reference": "42.1",
+      "label": "The Celestial Hierarchy — Caput XIII §1",
+      "chapterRef": "42"
+    },
+    {
+      "reference": "42.2",
+      "label": "The Celestial Hierarchy — Caput XIII §2",
+      "chapterRef": "42"
+    },
+    {
+      "reference": "42.3",
+      "label": "The Celestial Hierarchy — Caput XIII §3",
+      "chapterRef": "42"
+    },
+    {
+      "reference": "42.4",
+      "label": "The Celestial Hierarchy — Caput XIII §4",
+      "chapterRef": "42"
+    },
+    {
+      "reference": "42.5",
+      "label": "The Celestial Hierarchy — Caput XIII §5",
+      "chapterRef": "42"
+    },
+    {
+      "reference": "42.6",
+      "label": "The Celestial Hierarchy — Caput XIII §6",
+      "chapterRef": "42"
+    },
+    {
+      "reference": "42.7",
+      "label": "The Celestial Hierarchy — Caput XIII §7",
+      "chapterRef": "42"
+    },
+    {
+      "reference": "42.8",
+      "label": "The Celestial Hierarchy — Caput XIII §8",
+      "chapterRef": "42"
+    },
+    {
+      "reference": "42.9",
+      "label": "The Celestial Hierarchy — Caput XIII §9",
+      "chapterRef": "42"
+    },
+    {
+      "reference": "42.10",
+      "label": "The Celestial Hierarchy — Caput XIII §10",
+      "chapterRef": "42"
+    },
+    {
+      "reference": "42.11",
+      "label": "The Celestial Hierarchy — Caput XIII §11",
+      "chapterRef": "42"
+    },
+    {
+      "reference": "42.12",
+      "label": "The Celestial Hierarchy — Caput XIII §12",
+      "chapterRef": "42"
+    },
+    {
+      "reference": "43.1",
+      "label": "The Celestial Hierarchy — Caput XIV §1",
+      "chapterRef": "43"
+    },
+    {
+      "reference": "43.2",
+      "label": "The Celestial Hierarchy — Caput XIV §2",
+      "chapterRef": "43"
+    },
+    {
+      "reference": "44.1",
+      "label": "The Celestial Hierarchy — Caput XV §1",
+      "chapterRef": "44"
+    },
+    {
+      "reference": "44.2",
+      "label": "The Celestial Hierarchy — Caput XV §2",
+      "chapterRef": "44"
+    },
+    {
+      "reference": "44.3",
+      "label": "The Celestial Hierarchy — Caput XV §3",
+      "chapterRef": "44"
+    },
+    {
+      "reference": "44.4",
+      "label": "The Celestial Hierarchy — Caput XV §4",
+      "chapterRef": "44"
+    },
+    {
+      "reference": "44.5",
+      "label": "The Celestial Hierarchy — Caput XV §5",
+      "chapterRef": "44"
+    },
+    {
+      "reference": "44.6",
+      "label": "The Celestial Hierarchy — Caput XV §6",
+      "chapterRef": "44"
+    },
+    {
+      "reference": "44.7",
+      "label": "The Celestial Hierarchy — Caput XV §7",
+      "chapterRef": "44"
+    },
+    {
+      "reference": "44.8",
+      "label": "The Celestial Hierarchy — Caput XV §8",
+      "chapterRef": "44"
+    },
+    {
+      "reference": "44.9",
+      "label": "The Celestial Hierarchy — Caput XV §9",
+      "chapterRef": "44"
+    },
+    {
+      "reference": "44.10",
+      "label": "The Celestial Hierarchy — Caput XV §10",
+      "chapterRef": "44"
+    },
+    {
+      "reference": "44.11",
+      "label": "The Celestial Hierarchy — Caput XV §11",
+      "chapterRef": "44"
+    },
+    {
+      "reference": "44.12",
+      "label": "The Celestial Hierarchy — Caput XV §12",
+      "chapterRef": "44"
+    },
+    {
+      "reference": "44.13",
+      "label": "The Celestial Hierarchy — Caput XV §13",
+      "chapterRef": "44"
+    },
+    {
+      "reference": "44.14",
+      "label": "The Celestial Hierarchy — Caput XV §14",
+      "chapterRef": "44"
+    },
+    {
+      "reference": "44.15",
+      "label": "The Celestial Hierarchy — Caput XV §15",
+      "chapterRef": "44"
+    },
+    {
+      "reference": "44.16",
+      "label": "The Celestial Hierarchy — Caput XV §16",
+      "chapterRef": "44"
+    },
+    {
+      "reference": "44.17",
+      "label": "The Celestial Hierarchy — Caput XV §17",
+      "chapterRef": "44"
+    },
+    {
+      "reference": "44.18",
+      "label": "The Celestial Hierarchy — Caput XV §18",
+      "chapterRef": "44"
+    },
+    {
+      "reference": "44.19",
+      "label": "The Celestial Hierarchy — Caput XV §19",
+      "chapterRef": "44"
+    },
+    {
+      "reference": "44.20",
+      "label": "The Celestial Hierarchy — Caput XV §20",
+      "chapterRef": "44"
+    },
+    {
+      "reference": "44.21",
+      "label": "The Celestial Hierarchy — Caput XV §21",
+      "chapterRef": "44"
+    },
+    {
+      "reference": "44.22",
+      "label": "The Celestial Hierarchy — Caput XV §22",
+      "chapterRef": "44"
+    },
+    {
+      "reference": "44.23",
+      "label": "The Celestial Hierarchy — Caput XV §23",
+      "chapterRef": "44"
+    },
+    {
+      "reference": "44.24",
+      "label": "The Celestial Hierarchy — Caput XV §24",
+      "chapterRef": "44"
+    },
+    {
+      "reference": "44.25",
+      "label": "The Celestial Hierarchy — Caput XV §25",
+      "chapterRef": "44"
+    },
+    {
+      "reference": "44.26",
+      "label": "The Celestial Hierarchy — Caput XV §26",
+      "chapterRef": "44"
+    },
+    {
+      "reference": "44.27",
+      "label": "The Celestial Hierarchy — Caput XV §27",
+      "chapterRef": "44"
+    },
+    {
+      "reference": "44.28",
+      "label": "The Celestial Hierarchy — Caput XV §28",
+      "chapterRef": "44"
+    },
+    {
+      "reference": "44.29",
+      "label": "The Celestial Hierarchy — Caput XV §29",
+      "chapterRef": "44"
+    },
+    {
+      "reference": "44.30",
+      "label": "The Celestial Hierarchy — Caput XV §30",
+      "chapterRef": "44"
+    },
+    {
+      "reference": "44.31",
+      "label": "The Celestial Hierarchy — Caput XV §31",
+      "chapterRef": "44"
+    },
+    {
+      "reference": "44.32",
+      "label": "The Celestial Hierarchy — Caput XV §32",
+      "chapterRef": "44"
+    },
+    {
+      "reference": "44.33",
+      "label": "The Celestial Hierarchy — Caput XV §33",
+      "chapterRef": "44"
+    },
+    {
+      "reference": "44.34",
+      "label": "The Celestial Hierarchy — Caput XV §34",
+      "chapterRef": "44"
+    },
+    {
+      "reference": "44.35",
+      "label": "The Celestial Hierarchy — Caput XV §35",
+      "chapterRef": "44"
+    },
+    {
+      "reference": "44.36",
+      "label": "The Celestial Hierarchy — Caput XV §36",
+      "chapterRef": "44"
+    },
+    {
+      "reference": "44.37",
+      "label": "The Celestial Hierarchy — Caput XV §37",
+      "chapterRef": "44"
+    },
+    {
+      "reference": "44.38",
+      "label": "The Celestial Hierarchy — Caput XV §38",
+      "chapterRef": "44"
+    },
+    {
+      "reference": "44.39",
+      "label": "The Celestial Hierarchy — Caput XV §39",
+      "chapterRef": "44"
+    },
+    {
+      "reference": "44.40",
+      "label": "The Celestial Hierarchy — Caput XV §40",
+      "chapterRef": "44"
+    },
+    {
+      "reference": "44.41",
+      "label": "The Celestial Hierarchy — Caput XV §41",
+      "chapterRef": "44"
+    },
+    {
+      "reference": "44.42",
+      "label": "The Celestial Hierarchy — Caput XV §42",
+      "chapterRef": "44"
+    },
+    {
+      "reference": "44.43",
+      "label": "The Celestial Hierarchy — Caput XV §43",
+      "chapterRef": "44"
+    },
+    {
+      "reference": "44.44",
+      "label": "The Celestial Hierarchy — Caput XV §44",
+      "chapterRef": "44"
+    },
+    {
+      "reference": "44.45",
+      "label": "The Celestial Hierarchy — Caput XV §45",
+      "chapterRef": "44"
+    },
+    {
+      "reference": "45.1",
+      "label": "The Ecclesiastical Hierarchy — Caput I §1",
+      "chapterRef": "45"
+    },
+    {
+      "reference": "45.2",
+      "label": "The Ecclesiastical Hierarchy — Caput I §2",
+      "chapterRef": "45"
+    },
+    {
+      "reference": "45.3",
+      "label": "The Ecclesiastical Hierarchy — Caput I §3",
+      "chapterRef": "45"
+    },
+    {
+      "reference": "45.4",
+      "label": "The Ecclesiastical Hierarchy — Caput I §4",
+      "chapterRef": "45"
+    },
+    {
+      "reference": "45.5",
+      "label": "The Ecclesiastical Hierarchy — Caput I §5",
+      "chapterRef": "45"
+    },
+    {
+      "reference": "45.6",
+      "label": "The Ecclesiastical Hierarchy — Caput I §6",
+      "chapterRef": "45"
+    },
+    {
+      "reference": "45.7",
+      "label": "The Ecclesiastical Hierarchy — Caput I §7",
+      "chapterRef": "45"
+    },
+    {
+      "reference": "45.8",
+      "label": "The Ecclesiastical Hierarchy — Caput I §8",
+      "chapterRef": "45"
+    },
+    {
+      "reference": "45.9",
+      "label": "The Ecclesiastical Hierarchy — Caput I §9",
+      "chapterRef": "45"
+    },
+    {
+      "reference": "45.10",
+      "label": "The Ecclesiastical Hierarchy — Caput I §10",
+      "chapterRef": "45"
+    },
+    {
+      "reference": "45.11",
+      "label": "The Ecclesiastical Hierarchy — Caput I §11",
+      "chapterRef": "45"
+    },
+    {
+      "reference": "45.12",
+      "label": "The Ecclesiastical Hierarchy — Caput I §12",
+      "chapterRef": "45"
+    },
+    {
+      "reference": "45.13",
+      "label": "The Ecclesiastical Hierarchy — Caput I §13",
+      "chapterRef": "45"
+    },
+    {
+      "reference": "45.14",
+      "label": "The Ecclesiastical Hierarchy — Caput I §14",
+      "chapterRef": "45"
+    },
+    {
+      "reference": "45.15",
+      "label": "The Ecclesiastical Hierarchy — Caput I §15",
+      "chapterRef": "45"
+    },
+    {
+      "reference": "45.16",
+      "label": "The Ecclesiastical Hierarchy — Caput I §16",
+      "chapterRef": "45"
+    },
+    {
+      "reference": "45.17",
+      "label": "The Ecclesiastical Hierarchy — Caput I §17",
+      "chapterRef": "45"
+    },
+    {
+      "reference": "45.18",
+      "label": "The Ecclesiastical Hierarchy — Caput I §18",
+      "chapterRef": "45"
+    },
+    {
+      "reference": "46.1",
+      "label": "The Ecclesiastical Hierarchy — Caput II §1",
+      "chapterRef": "46"
+    },
+    {
+      "reference": "46.2",
+      "label": "The Ecclesiastical Hierarchy — Caput II §2",
+      "chapterRef": "46"
+    },
+    {
+      "reference": "46.3",
+      "label": "The Ecclesiastical Hierarchy — Caput II §3",
+      "chapterRef": "46"
+    },
+    {
+      "reference": "46.4",
+      "label": "The Ecclesiastical Hierarchy — Caput II §4",
+      "chapterRef": "46"
+    },
+    {
+      "reference": "46.5",
+      "label": "The Ecclesiastical Hierarchy — Caput II §5",
+      "chapterRef": "46"
+    },
+    {
+      "reference": "46.6",
+      "label": "The Ecclesiastical Hierarchy — Caput II §6",
+      "chapterRef": "46"
+    },
+    {
+      "reference": "46.7",
+      "label": "The Ecclesiastical Hierarchy — Caput II §7",
+      "chapterRef": "46"
+    },
+    {
+      "reference": "46.8",
+      "label": "The Ecclesiastical Hierarchy — Caput II §8",
+      "chapterRef": "46"
+    },
+    {
+      "reference": "46.9",
+      "label": "The Ecclesiastical Hierarchy — Caput II §9",
+      "chapterRef": "46"
+    },
+    {
+      "reference": "46.10",
+      "label": "The Ecclesiastical Hierarchy — Caput II §10",
+      "chapterRef": "46"
+    },
+    {
+      "reference": "46.11",
+      "label": "The Ecclesiastical Hierarchy — Caput II §11",
+      "chapterRef": "46"
+    },
+    {
+      "reference": "46.12",
+      "label": "The Ecclesiastical Hierarchy — Caput II §12",
+      "chapterRef": "46"
+    },
+    {
+      "reference": "46.13",
+      "label": "The Ecclesiastical Hierarchy — Caput II §13",
+      "chapterRef": "46"
+    },
+    {
+      "reference": "46.14",
+      "label": "The Ecclesiastical Hierarchy — Caput II §14",
+      "chapterRef": "46"
+    },
+    {
+      "reference": "46.15",
+      "label": "The Ecclesiastical Hierarchy — Caput II §15",
+      "chapterRef": "46"
+    },
+    {
+      "reference": "46.16",
+      "label": "The Ecclesiastical Hierarchy — Caput II §16",
+      "chapterRef": "46"
+    },
+    {
+      "reference": "46.17",
+      "label": "The Ecclesiastical Hierarchy — Caput II §17",
+      "chapterRef": "46"
+    },
+    {
+      "reference": "46.18",
+      "label": "The Ecclesiastical Hierarchy — Caput II §18",
+      "chapterRef": "46"
+    },
+    {
+      "reference": "46.19",
+      "label": "The Ecclesiastical Hierarchy — Caput II §19",
+      "chapterRef": "46"
+    },
+    {
+      "reference": "46.20",
+      "label": "The Ecclesiastical Hierarchy — Caput II §20",
+      "chapterRef": "46"
+    },
+    {
+      "reference": "46.21",
+      "label": "The Ecclesiastical Hierarchy — Caput II §21",
+      "chapterRef": "46"
+    },
+    {
+      "reference": "46.22",
+      "label": "The Ecclesiastical Hierarchy — Caput II §22",
+      "chapterRef": "46"
+    },
+    {
+      "reference": "46.23",
+      "label": "The Ecclesiastical Hierarchy — Caput II §23",
+      "chapterRef": "46"
+    },
+    {
+      "reference": "46.24",
+      "label": "The Ecclesiastical Hierarchy — Caput II §24",
+      "chapterRef": "46"
+    },
+    {
+      "reference": "46.25",
+      "label": "The Ecclesiastical Hierarchy — Caput II §25",
+      "chapterRef": "46"
+    },
+    {
+      "reference": "46.26",
+      "label": "The Ecclesiastical Hierarchy — Caput II §26",
+      "chapterRef": "46"
+    },
+    {
+      "reference": "46.27",
+      "label": "The Ecclesiastical Hierarchy — Caput II §27",
+      "chapterRef": "46"
+    },
+    {
+      "reference": "46.28",
+      "label": "The Ecclesiastical Hierarchy — Caput II §28",
+      "chapterRef": "46"
+    },
+    {
+      "reference": "46.29",
+      "label": "The Ecclesiastical Hierarchy — Caput II §29",
+      "chapterRef": "46"
+    },
+    {
+      "reference": "46.30",
+      "label": "The Ecclesiastical Hierarchy — Caput II §30",
+      "chapterRef": "46"
+    },
+    {
+      "reference": "46.31",
+      "label": "The Ecclesiastical Hierarchy — Caput II §31",
+      "chapterRef": "46"
+    },
+    {
+      "reference": "46.32",
+      "label": "The Ecclesiastical Hierarchy — Caput II §32",
+      "chapterRef": "46"
+    },
+    {
+      "reference": "46.33",
+      "label": "The Ecclesiastical Hierarchy — Caput II §33",
+      "chapterRef": "46"
+    },
+    {
+      "reference": "46.34",
+      "label": "The Ecclesiastical Hierarchy — Caput II §34",
+      "chapterRef": "46"
+    },
+    {
+      "reference": "46.35",
+      "label": "The Ecclesiastical Hierarchy — Caput II §35",
+      "chapterRef": "46"
+    },
+    {
+      "reference": "46.36",
+      "label": "The Ecclesiastical Hierarchy — Caput II §36",
+      "chapterRef": "46"
+    },
+    {
+      "reference": "46.37",
+      "label": "The Ecclesiastical Hierarchy — Caput II §37",
+      "chapterRef": "46"
+    },
+    {
+      "reference": "46.38",
+      "label": "The Ecclesiastical Hierarchy — Caput II §38",
+      "chapterRef": "46"
+    },
+    {
+      "reference": "46.39",
+      "label": "The Ecclesiastical Hierarchy — Caput II §39",
+      "chapterRef": "46"
+    },
+    {
+      "reference": "46.40",
+      "label": "The Ecclesiastical Hierarchy — Caput II §40",
+      "chapterRef": "46"
+    },
+    {
+      "reference": "46.41",
+      "label": "The Ecclesiastical Hierarchy — Caput II §41",
+      "chapterRef": "46"
+    },
+    {
+      "reference": "46.42",
+      "label": "The Ecclesiastical Hierarchy — Caput II §42",
+      "chapterRef": "46"
+    },
+    {
+      "reference": "46.43",
+      "label": "The Ecclesiastical Hierarchy — Caput II §43",
+      "chapterRef": "46"
+    },
+    {
+      "reference": "46.44",
+      "label": "The Ecclesiastical Hierarchy — Caput II §44",
+      "chapterRef": "46"
+    },
+    {
+      "reference": "46.45",
+      "label": "The Ecclesiastical Hierarchy — Caput II §45",
+      "chapterRef": "46"
+    },
+    {
+      "reference": "46.46",
+      "label": "The Ecclesiastical Hierarchy — Caput II §46",
+      "chapterRef": "46"
+    },
+    {
+      "reference": "46.47",
+      "label": "The Ecclesiastical Hierarchy — Caput II §47",
+      "chapterRef": "46"
+    },
+    {
+      "reference": "46.48",
+      "label": "The Ecclesiastical Hierarchy — Caput II §48",
+      "chapterRef": "46"
+    },
+    {
+      "reference": "46.49",
+      "label": "The Ecclesiastical Hierarchy — Caput II §49",
+      "chapterRef": "46"
+    },
+    {
+      "reference": "47.1",
+      "label": "The Ecclesiastical Hierarchy — Caput III §1",
+      "chapterRef": "47"
+    },
+    {
+      "reference": "47.2",
+      "label": "The Ecclesiastical Hierarchy — Caput III §2",
+      "chapterRef": "47"
+    },
+    {
+      "reference": "47.3",
+      "label": "The Ecclesiastical Hierarchy — Caput III §3",
+      "chapterRef": "47"
+    },
+    {
+      "reference": "47.4",
+      "label": "The Ecclesiastical Hierarchy — Caput III §4",
+      "chapterRef": "47"
+    },
+    {
+      "reference": "47.5",
+      "label": "The Ecclesiastical Hierarchy — Caput III §5",
+      "chapterRef": "47"
+    },
+    {
+      "reference": "47.6",
+      "label": "The Ecclesiastical Hierarchy — Caput III §6",
+      "chapterRef": "47"
+    },
+    {
+      "reference": "47.7",
+      "label": "The Ecclesiastical Hierarchy — Caput III §7",
+      "chapterRef": "47"
+    },
+    {
+      "reference": "47.8",
+      "label": "The Ecclesiastical Hierarchy — Caput III §8",
+      "chapterRef": "47"
+    },
+    {
+      "reference": "47.9",
+      "label": "The Ecclesiastical Hierarchy — Caput III §9",
+      "chapterRef": "47"
+    },
+    {
+      "reference": "47.10",
+      "label": "The Ecclesiastical Hierarchy — Caput III §10",
+      "chapterRef": "47"
+    },
+    {
+      "reference": "47.11",
+      "label": "The Ecclesiastical Hierarchy — Caput III §11",
+      "chapterRef": "47"
+    },
+    {
+      "reference": "47.12",
+      "label": "The Ecclesiastical Hierarchy — Caput III §12",
+      "chapterRef": "47"
+    },
+    {
+      "reference": "47.13",
+      "label": "The Ecclesiastical Hierarchy — Caput III §13",
+      "chapterRef": "47"
+    },
+    {
+      "reference": "47.14",
+      "label": "The Ecclesiastical Hierarchy — Caput III §14",
+      "chapterRef": "47"
+    },
+    {
+      "reference": "47.15",
+      "label": "The Ecclesiastical Hierarchy — Caput III §15",
+      "chapterRef": "47"
+    },
+    {
+      "reference": "47.16",
+      "label": "The Ecclesiastical Hierarchy — Caput III §16",
+      "chapterRef": "47"
+    },
+    {
+      "reference": "47.17",
+      "label": "The Ecclesiastical Hierarchy — Caput III §17",
+      "chapterRef": "47"
+    },
+    {
+      "reference": "47.18",
+      "label": "The Ecclesiastical Hierarchy — Caput III §18",
+      "chapterRef": "47"
+    },
+    {
+      "reference": "47.19",
+      "label": "The Ecclesiastical Hierarchy — Caput III §19",
+      "chapterRef": "47"
+    },
+    {
+      "reference": "47.20",
+      "label": "The Ecclesiastical Hierarchy — Caput III §20",
+      "chapterRef": "47"
+    },
+    {
+      "reference": "47.21",
+      "label": "The Ecclesiastical Hierarchy — Caput III §21",
+      "chapterRef": "47"
+    },
+    {
+      "reference": "47.22",
+      "label": "The Ecclesiastical Hierarchy — Caput III §22",
+      "chapterRef": "47"
+    },
+    {
+      "reference": "47.23",
+      "label": "The Ecclesiastical Hierarchy — Caput III §23",
+      "chapterRef": "47"
+    },
+    {
+      "reference": "47.24",
+      "label": "The Ecclesiastical Hierarchy — Caput III §24",
+      "chapterRef": "47"
+    },
+    {
+      "reference": "47.25",
+      "label": "The Ecclesiastical Hierarchy — Caput III §25",
+      "chapterRef": "47"
+    },
+    {
+      "reference": "47.26",
+      "label": "The Ecclesiastical Hierarchy — Caput III §26",
+      "chapterRef": "47"
+    },
+    {
+      "reference": "47.27",
+      "label": "The Ecclesiastical Hierarchy — Caput III §27",
+      "chapterRef": "47"
+    },
+    {
+      "reference": "47.28",
+      "label": "The Ecclesiastical Hierarchy — Caput III §28",
+      "chapterRef": "47"
+    },
+    {
+      "reference": "47.29",
+      "label": "The Ecclesiastical Hierarchy — Caput III §29",
+      "chapterRef": "47"
+    },
+    {
+      "reference": "47.30",
+      "label": "The Ecclesiastical Hierarchy — Caput III §30",
+      "chapterRef": "47"
+    },
+    {
+      "reference": "47.31",
+      "label": "The Ecclesiastical Hierarchy — Caput III §31",
+      "chapterRef": "47"
+    },
+    {
+      "reference": "47.32",
+      "label": "The Ecclesiastical Hierarchy — Caput III §32",
+      "chapterRef": "47"
+    },
+    {
+      "reference": "47.33",
+      "label": "The Ecclesiastical Hierarchy — Caput III §33",
+      "chapterRef": "47"
+    },
+    {
+      "reference": "47.34",
+      "label": "The Ecclesiastical Hierarchy — Caput III §34",
+      "chapterRef": "47"
+    },
+    {
+      "reference": "47.35",
+      "label": "The Ecclesiastical Hierarchy — Caput III §35",
+      "chapterRef": "47"
+    },
+    {
+      "reference": "47.36",
+      "label": "The Ecclesiastical Hierarchy — Caput III §36",
+      "chapterRef": "47"
+    },
+    {
+      "reference": "47.37",
+      "label": "The Ecclesiastical Hierarchy — Caput III §37",
+      "chapterRef": "47"
+    },
+    {
+      "reference": "47.38",
+      "label": "The Ecclesiastical Hierarchy — Caput III §38",
+      "chapterRef": "47"
+    },
+    {
+      "reference": "47.39",
+      "label": "The Ecclesiastical Hierarchy — Caput III §39",
+      "chapterRef": "47"
+    },
+    {
+      "reference": "47.40",
+      "label": "The Ecclesiastical Hierarchy — Caput III §40",
+      "chapterRef": "47"
+    },
+    {
+      "reference": "47.41",
+      "label": "The Ecclesiastical Hierarchy — Caput III §41",
+      "chapterRef": "47"
+    },
+    {
+      "reference": "47.42",
+      "label": "The Ecclesiastical Hierarchy — Caput III §42",
+      "chapterRef": "47"
+    },
+    {
+      "reference": "47.43",
+      "label": "The Ecclesiastical Hierarchy — Caput III §43",
+      "chapterRef": "47"
+    },
+    {
+      "reference": "47.44",
+      "label": "The Ecclesiastical Hierarchy — Caput III §44",
+      "chapterRef": "47"
+    },
+    {
+      "reference": "47.45",
+      "label": "The Ecclesiastical Hierarchy — Caput III §45",
+      "chapterRef": "47"
+    },
+    {
+      "reference": "47.46",
+      "label": "The Ecclesiastical Hierarchy — Caput III §46",
+      "chapterRef": "47"
+    },
+    {
+      "reference": "47.47",
+      "label": "The Ecclesiastical Hierarchy — Caput III §47",
+      "chapterRef": "47"
+    },
+    {
+      "reference": "47.48",
+      "label": "The Ecclesiastical Hierarchy — Caput III §48",
+      "chapterRef": "47"
+    },
+    {
+      "reference": "47.49",
+      "label": "The Ecclesiastical Hierarchy — Caput III §49",
+      "chapterRef": "47"
+    },
+    {
+      "reference": "47.50",
+      "label": "The Ecclesiastical Hierarchy — Caput III §50",
+      "chapterRef": "47"
+    },
+    {
+      "reference": "47.51",
+      "label": "The Ecclesiastical Hierarchy — Caput III §51",
+      "chapterRef": "47"
+    },
+    {
+      "reference": "47.52",
+      "label": "The Ecclesiastical Hierarchy — Caput III §52",
+      "chapterRef": "47"
+    },
+    {
+      "reference": "47.53",
+      "label": "The Ecclesiastical Hierarchy — Caput III §53",
+      "chapterRef": "47"
+    },
+    {
+      "reference": "47.54",
+      "label": "The Ecclesiastical Hierarchy — Caput III §54",
+      "chapterRef": "47"
+    },
+    {
+      "reference": "47.55",
+      "label": "The Ecclesiastical Hierarchy — Caput III §55",
+      "chapterRef": "47"
+    },
+    {
+      "reference": "47.56",
+      "label": "The Ecclesiastical Hierarchy — Caput III §56",
+      "chapterRef": "47"
+    },
+    {
+      "reference": "47.57",
+      "label": "The Ecclesiastical Hierarchy — Caput III §57",
+      "chapterRef": "47"
+    },
+    {
+      "reference": "48.1",
+      "label": "The Ecclesiastical Hierarchy — Caput IV §1",
+      "chapterRef": "48"
+    },
+    {
+      "reference": "48.2",
+      "label": "The Ecclesiastical Hierarchy — Caput IV §2",
+      "chapterRef": "48"
+    },
+    {
+      "reference": "48.3",
+      "label": "The Ecclesiastical Hierarchy — Caput IV §3",
+      "chapterRef": "48"
+    },
+    {
+      "reference": "48.4",
+      "label": "The Ecclesiastical Hierarchy — Caput IV §4",
+      "chapterRef": "48"
+    },
+    {
+      "reference": "48.5",
+      "label": "The Ecclesiastical Hierarchy — Caput IV §5",
+      "chapterRef": "48"
+    },
+    {
+      "reference": "48.6",
+      "label": "The Ecclesiastical Hierarchy — Caput IV §6",
+      "chapterRef": "48"
+    },
+    {
+      "reference": "48.7",
+      "label": "The Ecclesiastical Hierarchy — Caput IV §7",
+      "chapterRef": "48"
+    },
+    {
+      "reference": "48.8",
+      "label": "The Ecclesiastical Hierarchy — Caput IV §8",
+      "chapterRef": "48"
+    },
+    {
+      "reference": "48.9",
+      "label": "The Ecclesiastical Hierarchy — Caput IV §9",
+      "chapterRef": "48"
+    },
+    {
+      "reference": "48.10",
+      "label": "The Ecclesiastical Hierarchy — Caput IV §10",
+      "chapterRef": "48"
+    },
+    {
+      "reference": "48.11",
+      "label": "The Ecclesiastical Hierarchy — Caput IV §11",
+      "chapterRef": "48"
+    },
+    {
+      "reference": "48.12",
+      "label": "The Ecclesiastical Hierarchy — Caput IV §12",
+      "chapterRef": "48"
+    },
+    {
+      "reference": "48.13",
+      "label": "The Ecclesiastical Hierarchy — Caput IV §13",
+      "chapterRef": "48"
+    },
+    {
+      "reference": "48.14",
+      "label": "The Ecclesiastical Hierarchy — Caput IV §14",
+      "chapterRef": "48"
+    },
+    {
+      "reference": "48.15",
+      "label": "The Ecclesiastical Hierarchy — Caput IV §15",
+      "chapterRef": "48"
+    },
+    {
+      "reference": "48.16",
+      "label": "The Ecclesiastical Hierarchy — Caput IV §16",
+      "chapterRef": "48"
+    },
+    {
+      "reference": "48.17",
+      "label": "The Ecclesiastical Hierarchy — Caput IV §17",
+      "chapterRef": "48"
+    },
+    {
+      "reference": "48.18",
+      "label": "The Ecclesiastical Hierarchy — Caput IV §18",
+      "chapterRef": "48"
+    },
+    {
+      "reference": "48.19",
+      "label": "The Ecclesiastical Hierarchy — Caput IV §19",
+      "chapterRef": "48"
+    },
+    {
+      "reference": "48.20",
+      "label": "The Ecclesiastical Hierarchy — Caput IV §20",
+      "chapterRef": "48"
+    },
+    {
+      "reference": "48.21",
+      "label": "The Ecclesiastical Hierarchy — Caput IV §21",
+      "chapterRef": "48"
+    },
+    {
+      "reference": "48.22",
+      "label": "The Ecclesiastical Hierarchy — Caput IV §22",
+      "chapterRef": "48"
+    },
+    {
+      "reference": "48.23",
+      "label": "The Ecclesiastical Hierarchy — Caput IV §23",
+      "chapterRef": "48"
+    },
+    {
+      "reference": "48.24",
+      "label": "The Ecclesiastical Hierarchy — Caput IV §24",
+      "chapterRef": "48"
+    },
+    {
+      "reference": "48.25",
+      "label": "The Ecclesiastical Hierarchy — Caput IV §25",
+      "chapterRef": "48"
+    },
+    {
+      "reference": "48.26",
+      "label": "The Ecclesiastical Hierarchy — Caput IV §26",
+      "chapterRef": "48"
+    },
+    {
+      "reference": "48.27",
+      "label": "The Ecclesiastical Hierarchy — Caput IV §27",
+      "chapterRef": "48"
+    },
+    {
+      "reference": "48.28",
+      "label": "The Ecclesiastical Hierarchy — Caput IV §28",
+      "chapterRef": "48"
+    },
+    {
+      "reference": "48.29",
+      "label": "The Ecclesiastical Hierarchy — Caput IV §29",
+      "chapterRef": "48"
+    },
+    {
+      "reference": "48.30",
+      "label": "The Ecclesiastical Hierarchy — Caput IV §30",
+      "chapterRef": "48"
+    },
+    {
+      "reference": "48.31",
+      "label": "The Ecclesiastical Hierarchy — Caput IV §31",
+      "chapterRef": "48"
+    },
+    {
+      "reference": "48.32",
+      "label": "The Ecclesiastical Hierarchy — Caput IV §32",
+      "chapterRef": "48"
+    },
+    {
+      "reference": "48.33",
+      "label": "The Ecclesiastical Hierarchy — Caput IV §33",
+      "chapterRef": "48"
+    },
+    {
+      "reference": "48.34",
+      "label": "The Ecclesiastical Hierarchy — Caput IV §34",
+      "chapterRef": "48"
+    },
+    {
+      "reference": "49.1",
+      "label": "The Ecclesiastical Hierarchy — Caput V §1",
+      "chapterRef": "49"
+    },
+    {
+      "reference": "49.2",
+      "label": "The Ecclesiastical Hierarchy — Caput V §2",
+      "chapterRef": "49"
+    },
+    {
+      "reference": "49.3",
+      "label": "The Ecclesiastical Hierarchy — Caput V §3",
+      "chapterRef": "49"
+    },
+    {
+      "reference": "49.4",
+      "label": "The Ecclesiastical Hierarchy — Caput V §4",
+      "chapterRef": "49"
+    },
+    {
+      "reference": "49.5",
+      "label": "The Ecclesiastical Hierarchy — Caput V §5",
+      "chapterRef": "49"
+    },
+    {
+      "reference": "49.6",
+      "label": "The Ecclesiastical Hierarchy — Caput V §6",
+      "chapterRef": "49"
+    },
+    {
+      "reference": "49.7",
+      "label": "The Ecclesiastical Hierarchy — Caput V §7",
+      "chapterRef": "49"
+    },
+    {
+      "reference": "49.8",
+      "label": "The Ecclesiastical Hierarchy — Caput V §8",
+      "chapterRef": "49"
+    },
+    {
+      "reference": "49.9",
+      "label": "The Ecclesiastical Hierarchy — Caput V §9",
+      "chapterRef": "49"
+    },
+    {
+      "reference": "49.10",
+      "label": "The Ecclesiastical Hierarchy — Caput V §10",
+      "chapterRef": "49"
+    },
+    {
+      "reference": "49.11",
+      "label": "The Ecclesiastical Hierarchy — Caput V §11",
+      "chapterRef": "49"
+    },
+    {
+      "reference": "49.12",
+      "label": "The Ecclesiastical Hierarchy — Caput V §12",
+      "chapterRef": "49"
+    },
+    {
+      "reference": "49.13",
+      "label": "The Ecclesiastical Hierarchy — Caput V §13",
+      "chapterRef": "49"
+    },
+    {
+      "reference": "49.14",
+      "label": "The Ecclesiastical Hierarchy — Caput V §14",
+      "chapterRef": "49"
+    },
+    {
+      "reference": "49.15",
+      "label": "The Ecclesiastical Hierarchy — Caput V §15",
+      "chapterRef": "49"
+    },
+    {
+      "reference": "49.16",
+      "label": "The Ecclesiastical Hierarchy — Caput V §16",
+      "chapterRef": "49"
+    },
+    {
+      "reference": "49.17",
+      "label": "The Ecclesiastical Hierarchy — Caput V §17",
+      "chapterRef": "49"
+    },
+    {
+      "reference": "49.18",
+      "label": "The Ecclesiastical Hierarchy — Caput V §18",
+      "chapterRef": "49"
+    },
+    {
+      "reference": "49.19",
+      "label": "The Ecclesiastical Hierarchy — Caput V §19",
+      "chapterRef": "49"
+    },
+    {
+      "reference": "49.20",
+      "label": "The Ecclesiastical Hierarchy — Caput V §20",
+      "chapterRef": "49"
+    },
+    {
+      "reference": "49.21",
+      "label": "The Ecclesiastical Hierarchy — Caput V §21",
+      "chapterRef": "49"
+    },
+    {
+      "reference": "49.22",
+      "label": "The Ecclesiastical Hierarchy — Caput V §22",
+      "chapterRef": "49"
+    },
+    {
+      "reference": "49.23",
+      "label": "The Ecclesiastical Hierarchy — Caput V §23",
+      "chapterRef": "49"
+    },
+    {
+      "reference": "49.24",
+      "label": "The Ecclesiastical Hierarchy — Caput V §24",
+      "chapterRef": "49"
+    },
+    {
+      "reference": "49.25",
+      "label": "The Ecclesiastical Hierarchy — Caput V §25",
+      "chapterRef": "49"
+    },
+    {
+      "reference": "49.26",
+      "label": "The Ecclesiastical Hierarchy — Caput V §26",
+      "chapterRef": "49"
+    },
+    {
+      "reference": "49.27",
+      "label": "The Ecclesiastical Hierarchy — Caput V §27",
+      "chapterRef": "49"
+    },
+    {
+      "reference": "49.28",
+      "label": "The Ecclesiastical Hierarchy — Caput V §28",
+      "chapterRef": "49"
+    },
+    {
+      "reference": "49.29",
+      "label": "The Ecclesiastical Hierarchy — Caput V §29",
+      "chapterRef": "49"
+    },
+    {
+      "reference": "49.30",
+      "label": "The Ecclesiastical Hierarchy — Caput V §30",
+      "chapterRef": "49"
+    },
+    {
+      "reference": "49.31",
+      "label": "The Ecclesiastical Hierarchy — Caput V §31",
+      "chapterRef": "49"
+    },
+    {
+      "reference": "49.32",
+      "label": "The Ecclesiastical Hierarchy — Caput V §32",
+      "chapterRef": "49"
+    },
+    {
+      "reference": "49.33",
+      "label": "The Ecclesiastical Hierarchy — Caput V §33",
+      "chapterRef": "49"
+    },
+    {
+      "reference": "49.34",
+      "label": "The Ecclesiastical Hierarchy — Caput V §34",
+      "chapterRef": "49"
+    },
+    {
+      "reference": "49.35",
+      "label": "The Ecclesiastical Hierarchy — Caput V §35",
+      "chapterRef": "49"
+    },
+    {
+      "reference": "49.36",
+      "label": "The Ecclesiastical Hierarchy — Caput V §36",
+      "chapterRef": "49"
+    },
+    {
+      "reference": "49.37",
+      "label": "The Ecclesiastical Hierarchy — Caput V §37",
+      "chapterRef": "49"
+    },
+    {
+      "reference": "49.38",
+      "label": "The Ecclesiastical Hierarchy — Caput V §38",
+      "chapterRef": "49"
+    },
+    {
+      "reference": "49.39",
+      "label": "The Ecclesiastical Hierarchy — Caput V §39",
+      "chapterRef": "49"
+    },
+    {
+      "reference": "49.40",
+      "label": "The Ecclesiastical Hierarchy — Caput V §40",
+      "chapterRef": "49"
+    },
+    {
+      "reference": "50.1",
+      "label": "The Ecclesiastical Hierarchy — Caput VI §1",
+      "chapterRef": "50"
+    },
+    {
+      "reference": "50.2",
+      "label": "The Ecclesiastical Hierarchy — Caput VI §2",
+      "chapterRef": "50"
+    },
+    {
+      "reference": "50.3",
+      "label": "The Ecclesiastical Hierarchy — Caput VI §3",
+      "chapterRef": "50"
+    },
+    {
+      "reference": "50.4",
+      "label": "The Ecclesiastical Hierarchy — Caput VI §4",
+      "chapterRef": "50"
+    },
+    {
+      "reference": "50.5",
+      "label": "The Ecclesiastical Hierarchy — Caput VI §5",
+      "chapterRef": "50"
+    },
+    {
+      "reference": "50.6",
+      "label": "The Ecclesiastical Hierarchy — Caput VI §6",
+      "chapterRef": "50"
+    },
+    {
+      "reference": "50.7",
+      "label": "The Ecclesiastical Hierarchy — Caput VI §7",
+      "chapterRef": "50"
+    },
+    {
+      "reference": "50.8",
+      "label": "The Ecclesiastical Hierarchy — Caput VI §8",
+      "chapterRef": "50"
+    },
+    {
+      "reference": "50.9",
+      "label": "The Ecclesiastical Hierarchy — Caput VI §9",
+      "chapterRef": "50"
+    },
+    {
+      "reference": "50.10",
+      "label": "The Ecclesiastical Hierarchy — Caput VI §10",
+      "chapterRef": "50"
+    },
+    {
+      "reference": "50.11",
+      "label": "The Ecclesiastical Hierarchy — Caput VI §11",
+      "chapterRef": "50"
+    },
+    {
+      "reference": "50.12",
+      "label": "The Ecclesiastical Hierarchy — Caput VI §12",
+      "chapterRef": "50"
+    },
+    {
+      "reference": "50.13",
+      "label": "The Ecclesiastical Hierarchy — Caput VI §13",
+      "chapterRef": "50"
+    },
+    {
+      "reference": "50.14",
+      "label": "The Ecclesiastical Hierarchy — Caput VI §14",
+      "chapterRef": "50"
+    },
+    {
+      "reference": "50.15",
+      "label": "The Ecclesiastical Hierarchy — Caput VI §15",
+      "chapterRef": "50"
+    },
+    {
+      "reference": "50.16",
+      "label": "The Ecclesiastical Hierarchy — Caput VI §16",
+      "chapterRef": "50"
+    },
+    {
+      "reference": "50.17",
+      "label": "The Ecclesiastical Hierarchy — Caput VI §17",
+      "chapterRef": "50"
+    },
+    {
+      "reference": "50.18",
+      "label": "The Ecclesiastical Hierarchy — Caput VI §18",
+      "chapterRef": "50"
+    },
+    {
+      "reference": "50.19",
+      "label": "The Ecclesiastical Hierarchy — Caput VI §19",
+      "chapterRef": "50"
+    },
+    {
+      "reference": "50.20",
+      "label": "The Ecclesiastical Hierarchy — Caput VI §20",
+      "chapterRef": "50"
+    },
+    {
+      "reference": "50.21",
+      "label": "The Ecclesiastical Hierarchy — Caput VI §21",
+      "chapterRef": "50"
+    },
+    {
+      "reference": "50.22",
+      "label": "The Ecclesiastical Hierarchy — Caput VI §22",
+      "chapterRef": "50"
+    },
+    {
+      "reference": "50.23",
+      "label": "The Ecclesiastical Hierarchy — Caput VI §23",
+      "chapterRef": "50"
+    },
+    {
+      "reference": "51.1",
+      "label": "The Ecclesiastical Hierarchy — Caput VII §1",
+      "chapterRef": "51"
+    },
+    {
+      "reference": "51.2",
+      "label": "The Ecclesiastical Hierarchy — Caput VII §2",
+      "chapterRef": "51"
+    },
+    {
+      "reference": "51.3",
+      "label": "The Ecclesiastical Hierarchy — Caput VII §3",
+      "chapterRef": "51"
+    },
+    {
+      "reference": "51.4",
+      "label": "The Ecclesiastical Hierarchy — Caput VII §4",
+      "chapterRef": "51"
+    },
+    {
+      "reference": "51.5",
+      "label": "The Ecclesiastical Hierarchy — Caput VII §5",
+      "chapterRef": "51"
+    },
+    {
+      "reference": "51.6",
+      "label": "The Ecclesiastical Hierarchy — Caput VII §6",
+      "chapterRef": "51"
+    },
+    {
+      "reference": "51.7",
+      "label": "The Ecclesiastical Hierarchy — Caput VII §7",
+      "chapterRef": "51"
+    },
+    {
+      "reference": "51.8",
+      "label": "The Ecclesiastical Hierarchy — Caput VII §8",
+      "chapterRef": "51"
+    },
+    {
+      "reference": "51.9",
+      "label": "The Ecclesiastical Hierarchy — Caput VII §9",
+      "chapterRef": "51"
+    },
+    {
+      "reference": "51.10",
+      "label": "The Ecclesiastical Hierarchy — Caput VII §10",
+      "chapterRef": "51"
+    },
+    {
+      "reference": "51.11",
+      "label": "The Ecclesiastical Hierarchy — Caput VII §11",
+      "chapterRef": "51"
+    },
+    {
+      "reference": "51.12",
+      "label": "The Ecclesiastical Hierarchy — Caput VII §12",
+      "chapterRef": "51"
+    },
+    {
+      "reference": "51.13",
+      "label": "The Ecclesiastical Hierarchy — Caput VII §13",
+      "chapterRef": "51"
+    },
+    {
+      "reference": "51.14",
+      "label": "The Ecclesiastical Hierarchy — Caput VII §14",
+      "chapterRef": "51"
+    },
+    {
+      "reference": "51.15",
+      "label": "The Ecclesiastical Hierarchy — Caput VII §15",
+      "chapterRef": "51"
+    },
+    {
+      "reference": "51.16",
+      "label": "The Ecclesiastical Hierarchy — Caput VII §16",
+      "chapterRef": "51"
+    },
+    {
+      "reference": "51.17",
+      "label": "The Ecclesiastical Hierarchy — Caput VII §17",
+      "chapterRef": "51"
+    },
+    {
+      "reference": "51.18",
+      "label": "The Ecclesiastical Hierarchy — Caput VII §18",
+      "chapterRef": "51"
+    },
+    {
+      "reference": "51.19",
+      "label": "The Ecclesiastical Hierarchy — Caput VII §19",
+      "chapterRef": "51"
+    },
+    {
+      "reference": "51.20",
+      "label": "The Ecclesiastical Hierarchy — Caput VII §20",
+      "chapterRef": "51"
+    },
+    {
+      "reference": "51.21",
+      "label": "The Ecclesiastical Hierarchy — Caput VII §21",
+      "chapterRef": "51"
+    },
+    {
+      "reference": "51.22",
+      "label": "The Ecclesiastical Hierarchy — Caput VII §22",
+      "chapterRef": "51"
+    },
+    {
+      "reference": "51.23",
+      "label": "The Ecclesiastical Hierarchy — Caput VII §23",
+      "chapterRef": "51"
+    },
+    {
+      "reference": "51.24",
+      "label": "The Ecclesiastical Hierarchy — Caput VII §24",
+      "chapterRef": "51"
+    },
+    {
+      "reference": "51.25",
+      "label": "The Ecclesiastical Hierarchy — Caput VII §25",
+      "chapterRef": "51"
+    },
+    {
+      "reference": "51.26",
+      "label": "The Ecclesiastical Hierarchy — Caput VII §26",
+      "chapterRef": "51"
+    },
+    {
+      "reference": "51.27",
+      "label": "The Ecclesiastical Hierarchy — Caput VII §27",
+      "chapterRef": "51"
+    },
+    {
+      "reference": "51.28",
+      "label": "The Ecclesiastical Hierarchy — Caput VII §28",
+      "chapterRef": "51"
+    },
+    {
+      "reference": "51.29",
+      "label": "The Ecclesiastical Hierarchy — Caput VII §29",
+      "chapterRef": "51"
+    },
+    {
+      "reference": "51.30",
+      "label": "The Ecclesiastical Hierarchy — Caput VII §30",
+      "chapterRef": "51"
+    },
+    {
+      "reference": "51.31",
+      "label": "The Ecclesiastical Hierarchy — Caput VII §31",
+      "chapterRef": "51"
+    },
+    {
+      "reference": "51.32",
+      "label": "The Ecclesiastical Hierarchy — Caput VII §32",
+      "chapterRef": "51"
+    },
+    {
+      "reference": "51.33",
+      "label": "The Ecclesiastical Hierarchy — Caput VII §33",
+      "chapterRef": "51"
+    },
+    {
+      "reference": "51.34",
+      "label": "The Ecclesiastical Hierarchy — Caput VII §34",
+      "chapterRef": "51"
+    },
+    {
+      "reference": "51.35",
+      "label": "The Ecclesiastical Hierarchy — Caput VII §35",
+      "chapterRef": "51"
+    },
+    {
+      "reference": "51.36",
+      "label": "The Ecclesiastical Hierarchy — Caput VII §36",
+      "chapterRef": "51"
+    },
+    {
+      "reference": "51.37",
+      "label": "The Ecclesiastical Hierarchy — Caput VII §37",
+      "chapterRef": "51"
+    },
+    {
+      "reference": "51.38",
+      "label": "The Ecclesiastical Hierarchy — Caput VII §38",
+      "chapterRef": "51"
+    },
+    {
+      "reference": "51.39",
+      "label": "The Ecclesiastical Hierarchy — Caput VII §39",
+      "chapterRef": "51"
+    },
+    {
+      "reference": "51.40",
+      "label": "The Ecclesiastical Hierarchy — Caput VII §40",
+      "chapterRef": "51"
+    },
+    {
+      "reference": "51.41",
+      "label": "The Ecclesiastical Hierarchy — Caput VII §41",
+      "chapterRef": "51"
+    },
+    {
+      "reference": "51.42",
+      "label": "The Ecclesiastical Hierarchy — Caput VII §42",
+      "chapterRef": "51"
+    },
+    {
+      "reference": "51.43",
+      "label": "The Ecclesiastical Hierarchy — Caput VII §43",
+      "chapterRef": "51"
+    },
+    {
+      "reference": "51.44",
+      "label": "The Ecclesiastical Hierarchy — Caput VII §44",
+      "chapterRef": "51"
+    },
+    {
+      "reference": "51.45",
+      "label": "The Ecclesiastical Hierarchy — Caput VII §45",
+      "chapterRef": "51"
+    },
+    {
+      "reference": "51.46",
+      "label": "The Ecclesiastical Hierarchy — Caput VII §46",
+      "chapterRef": "51"
+    },
+    {
+      "reference": "51.47",
+      "label": "The Ecclesiastical Hierarchy — Caput VII §47",
+      "chapterRef": "51"
+    },
+    {
+      "reference": "51.48",
+      "label": "The Ecclesiastical Hierarchy — Caput VII §48",
+      "chapterRef": "51"
+    },
+    {
+      "reference": "51.49",
+      "label": "The Ecclesiastical Hierarchy — Caput VII §49",
+      "chapterRef": "51"
+    },
+    {
+      "reference": "51.50",
+      "label": "The Ecclesiastical Hierarchy — Caput VII §50",
+      "chapterRef": "51"
+    },
+    {
+      "reference": "51.51",
+      "label": "The Ecclesiastical Hierarchy — Caput VII §51",
+      "chapterRef": "51"
+    },
+    {
+      "reference": "51.52",
+      "label": "The Ecclesiastical Hierarchy — Caput VII §52",
+      "chapterRef": "51"
+    },
+    {
+      "reference": "51.53",
+      "label": "The Ecclesiastical Hierarchy — Caput VII §53",
+      "chapterRef": "51"
+    },
+    {
+      "reference": "51.54",
+      "label": "The Ecclesiastical Hierarchy — Caput VII §54",
+      "chapterRef": "51"
+    }
+  ],
+  "editions": [
+    {
+      "slug": "dionysius-areopagite-en",
+      "language": "en",
+      "editionType": "translation",
+      "title": "The Works of Dionysius the Areopagite",
+      "translator": "John Parker",
+      "publisher": "Internet Sacred Text Archive",
+      "publicationYear": 1897,
+      "source": "sacred-texts",
+      "license": "public-domain",
+      "rightsStatus": "Public domain in the United States",
+      "attributionText": "The Works of Dionysius the Areopagite, translated by John Parker (1897). James Parker & Co., Oxford. Public domain in the United States. Digital text from the Internet Sacred Text Archive.",
+      "structureScheme": "chapter and paragraph index; each chapter is one printed caput or letter",
+      "isSample": false,
+      "notes": "The import cache stores the exact segments that were validated. The reader re-fetches the chapter from the host and reports when the served count no longer matches the index."
+    }
+  ]
+}

@@ -1,0 +1,2848 @@
+{
+  "slug": "kojiki",
+  "title": "Kojiki",
+  "originalTitle": "古事記",
+  "transliteration": "Kojiki",
+  "altTitles": [
+    "Records of Ancient Matters",
+    "Furukoto Fumi"
+  ],
+  "tradition": "shinto",
+  "school": "shinto",
+  "genre": "Chronicle",
+  "textType": "Myth and dynastic history",
+  "category": "Chronicle",
+  "subcategory": "Myth and dynastic history",
+  "originalLanguage": "ja",
+  "dateStart": 712,
+  "dateEnd": 712,
+  "dateDisplay": "712 CE",
+  "authorshipStatus": "established",
+  "author": "ono-yasumaro",
+  "attributionNote": "Compiled by Ō no Yasumaro in 712 CE at imperial command, drawing on earlier oral and written traditions. The compiler is historically established; the underlying myths are traditional.",
+  "description": "Japan's oldest surviving chronicle, in three books: the age of the kami from the first deities through the creation of the islands, the descent of the heavenly grandchild and the founding of the imperial line, and the reigns of the early emperors down to 628 CE. Chamberlain's translation prints the work in 180 numbered sections.",
+  "historicalContext": "The Kojiki was compiled in the Nara period as part of the state's consolidation of myth, genealogy and legitimacy, and was presented to the court in 712. Long studied as a philological monument of the Japanese language, it became central to Shinto and to later Japanese nationalism.",
+  "availabilityNote": "Streamed from Wikisource section by section at read time. Chamberlain's 1882 translation is public domain; the classical Japanese and Chinese source text is not included.",
+  "featured": false,
+  "featuredNote": "",
+  "refScheme": "chapter.paragraph",
+  "isSample": false,
+  "textStorage": "streamed",
+  "chapters": [
+    {
+      "ref": "1",
+      "label": "Section I — The Beginning of Heaven and Earth"
+    },
+    {
+      "ref": "2",
+      "label": "Section II — The Seven Divine Generations"
+    },
+    {
+      "ref": "3",
+      "label": "Section III — The Island of Onogoro"
+    },
+    {
+      "ref": "4",
+      "label": "Section IV — Courtship of the Deities the Male-Who-Invites and the Female-Who-Invites"
+    },
+    {
+      "ref": "5",
+      "label": "Section V — Birth of the Eight Great Islands"
+    },
+    {
+      "ref": "6",
+      "label": "Section VI — Birth of the Various Deities"
+    },
+    {
+      "ref": "7",
+      "label": "Section VII — Retirement of Her Augustness the Princess-Who-Invites"
+    },
+    {
+      "ref": "8",
+      "label": "Section VIII — The Slaying of the Fire-Deity"
+    },
+    {
+      "ref": "9",
+      "label": "Section IX — The Land of Hades"
+    },
+    {
+      "ref": "10",
+      "label": "Section X — The Purification of the August Person"
+    },
+    {
+      "ref": "11",
+      "label": "Section XI — Investiture of the Three Deities the Illustrious August Children"
+    },
+    {
+      "ref": "12",
+      "label": "Section XII — The Crying and Weeping of His Impetuous-Male-Augustness"
+    },
+    {
+      "ref": "13",
+      "label": "Section XIII — The August Oath"
+    },
+    {
+      "ref": "14",
+      "label": "Section XIV — The August Declaration of the Division of the August Male Children and the August Female Children"
+    },
+    {
+      "ref": "15",
+      "label": "Section XV — The August Ravages of His-Impetuous-Male-Augustness"
+    },
+    {
+      "ref": "16",
+      "label": "Section XVI — The Door of the Heavenly Rock-Dwelling"
+    },
+    {
+      "ref": "17",
+      "label": "Section XVII — The August Expulsion of His-Impetuous-Male-Augustness"
+    },
+    {
+      "ref": "18",
+      "label": "Section XVIII — The Eight-Forked Serpent"
+    },
+    {
+      "ref": "19",
+      "label": "Section XIX — The Palace of Suga"
+    },
+    {
+      "ref": "20",
+      "label": "Section XX — The August Ancestors of the Deity-Master-of-the-Great Land"
+    },
+    {
+      "ref": "21",
+      "label": "Section XXI — The White Hare of Inaba"
+    },
+    {
+      "ref": "22",
+      "label": "Section XXII — Mount Tema"
+    },
+    {
+      "ref": "23",
+      "label": "Section XXIII — The Nether-Distant-Land"
+    },
+    {
+      "ref": "24",
+      "label": "Section XXIV — The Wooing of the Deity-of-Eight-Thousand-Spears"
+    },
+    {
+      "ref": "25",
+      "label": "Section XXV — The Cup Pledge"
+    },
+    {
+      "ref": "26",
+      "label": "Section XXVI — The Deities the August Descendants of the Deity Master-of-the-Great-Land"
+    },
+    {
+      "ref": "27",
+      "label": "Section XXVII — The Little-Prince-the-Renowned-Deity"
+    },
+    {
+      "ref": "28",
+      "label": "Section XXVIII — The August-Luck-Spirit-the-August-Wondrous-Spirit.[1]"
+    },
+    {
+      "ref": "29",
+      "label": "Section XXIX — The August Children of the Great-Harvest-Deity and of the Swift-Mountain-Deity"
+    },
+    {
+      "ref": "30",
+      "label": "Section XXX — The August Deliberation for Pacifying the Land"
+    },
+    {
+      "ref": "31",
+      "label": "Section XXXI — The Heavenly-Young-Prince"
+    },
+    {
+      "ref": "32",
+      "label": "Section XXXII — Abdication of the Deity Master-of-the-Great-Land"
+    },
+    {
+      "ref": "33",
+      "label": "Section XXXIII — The August Descent from Heaven of his Augustness the August Grandchild"
+    },
+    {
+      "ref": "34",
+      "label": "Section XXXIV — The August Reign in Himuka of His Augustness Prince Rice-ear-Ruddy-Plenty"
+    },
+    {
+      "ref": "35",
+      "label": "Section XXXV — The Duchess of Saru"
+    },
+    {
+      "ref": "36",
+      "label": "Section XXXVI — The Deity Prince of Saruta at Azaka"
+    },
+    {
+      "ref": "37",
+      "label": "Section XXXVII — The Curse of the Deity Great-Mountain-Possessor"
+    },
+    {
+      "ref": "38",
+      "label": "Section XXXVIII — The August Child-Bearing of Princess-Blossoming Brilliantly-Like-the-Flowers-of-the-Trees"
+    },
+    {
+      "ref": "39",
+      "label": "Section XXXIX — The August Exchange of Luck"
+    },
+    {
+      "ref": "40",
+      "label": "Section XL — The Palace of the Ocean-Possessor"
+    },
+    {
+      "ref": "41",
+      "label": "Section XLI — Submission of His Augustness Fire-Shine"
+    },
+    {
+      "ref": "42",
+      "label": "Section XLII — The Parturition-House of Cormorants’ Feathers"
+    },
+    {
+      "ref": "43",
+      "label": "Section XLIII — The August Children of His Augustness Cormorant-Thatch-Meeting-Incompletely"
+    },
+    {
+      "ref": "44",
+      "label": "Section XLIV — Reign of the Emperor Jim-mu[2] (Part I.—His Progress Eastward, and Death of His Elder Brother)"
+    },
+    {
+      "ref": "45",
+      "label": "Section XLV — Emperor Jim-mu (Part II.—The Cross-sword Sent Down from Heaven)"
+    },
+    {
+      "ref": "46",
+      "label": "Section XLVI — Emperor Jim-mu (Part III.—The Gigantic Crow and Gods with Tails)"
+    },
+    {
+      "ref": "47",
+      "label": "Section XLVII — Emperor Jim-mu (Part IV.—The Ukashi Brethren)"
+    },
+    {
+      "ref": "48",
+      "label": "Section XLVIII — Emperor Jim-mu (Part V.—The Earth-spiders of the Cave of Osaka)"
+    },
+    {
+      "ref": "49",
+      "label": "Section XLIX — Emperor Jim-mu (Part VI.—The Prince of Tomi and the Shiki Brethren)"
+    },
+    {
+      "ref": "50",
+      "label": "Section L — Emperor Jim-mu (Part VII.—The Empire Pacified)"
+    },
+    {
+      "ref": "51",
+      "label": "Section LI — Emperor Jim-mu (Part VIII.—He Weds I-suke-yori-hime)"
+    },
+    {
+      "ref": "52",
+      "label": "Section LII — Emperor Jim-mu ( Part. IX—Troubles Which Followed His Decease)"
+    },
+    {
+      "ref": "53",
+      "label": "Section LIII — Emperor Jim-mu (Part X.—Genealogies)"
+    },
+    {
+      "ref": "54",
+      "label": "Section LIV — Emperor Jim-mu (Part XI.—His Age and Place of Burial)"
+    },
+    {
+      "ref": "55",
+      "label": "Section LV — Emperor Sui-zei"
+    },
+    {
+      "ref": "56",
+      "label": "Section LVI — Emperor An-nei"
+    },
+    {
+      "ref": "57",
+      "label": "Section LVII — Emperor I-toku"
+    },
+    {
+      "ref": "58",
+      "label": "Section LVIII — Emperor Kō-shō"
+    },
+    {
+      "ref": "59",
+      "label": "Section LIX — Emperor Kō-an"
+    },
+    {
+      "ref": "60",
+      "label": "Section LX — Emperor Kō-rei"
+    },
+    {
+      "ref": "61",
+      "label": "Section LXI — Emperor Kō-gen"
+    },
+    {
+      "ref": "62",
+      "label": "Section LXII — Emperor Kai-kuwa"
+    },
+    {
+      "ref": "63",
+      "label": "Section LXIII — Emperor Sū-jin (Part I.—Genealogies)"
+    },
+    {
+      "ref": "64",
+      "label": "Section LXIV — Emperor Sū-jin (Part II.—A Pestilence is Staid by Oho-tata-ne-ko)"
+    },
+    {
+      "ref": "65",
+      "label": "Section LXV — Emperor Sū-jun (Part III.—Story of Oho-taka-ne-ko’s Birth)"
+    },
+    {
+      "ref": "66",
+      "label": "Section LXVI — Emperor Sū-jin (Part IV.—War with King Take-hani-yasu)"
+    },
+    {
+      "ref": "67",
+      "label": "Section LXVII — Emperor Sū-jin (Part V.—Peace Restored and Tribute Levied)"
+    },
+    {
+      "ref": "68",
+      "label": "Section LXVIII — Emperor Sū-jin (Part VI.—His Age and Place of Burial)"
+    },
+    {
+      "ref": "69",
+      "label": "Section LXIX — Emperor Sui-nin (Part I.—Genealogies)"
+    },
+    {
+      "ref": "70",
+      "label": "Section LXX — Emperor Sui-nin (Part II.—Conspiracy of King Saho-biko and the Empress Saho-bime)"
+    },
+    {
+      "ref": "71",
+      "label": "Section LXXI — Emperor Sui-nin (Part III.—Birth of Prince Homu-chi-wake and Death of the Conspirators)"
+    },
+    {
+      "ref": "72",
+      "label": "Section LXXII — Emperor Sui-nin (Part IV.—The Dumb Prince Homu-chi-wake)"
+    },
+    {
+      "ref": "73",
+      "label": "Section LXXIII — Emperor Sui-nin (Part V.—His Later Wives)"
+    },
+    {
+      "ref": "74",
+      "label": "Section LXXIV — Emperor Sui-nin (Part VI.—Tajima-mori Brings Back the Orange from the Eternal Land)"
+    },
+    {
+      "ref": "75",
+      "label": "Section LXXV — Emperor Sui-nin (Part VII.—His Death and That of the Empress Hibasu .)"
+    },
+    {
+      "ref": "76",
+      "label": "Section LXXVI — Emperor Kei-kō (Part I.—Genealogies)"
+    },
+    {
+      "ref": "77",
+      "label": "Section LXXVII — Emperor Kei-kō (Part II.—The Maidens Ye-hime and Oto-hime)"
+    },
+    {
+      "ref": "78",
+      "label": "Section LXXVIII — Emperor Kei-kō (Part III.—Various Deeds)"
+    },
+    {
+      "ref": "79",
+      "label": "Section LXXIX — Emperor Kei-kō (Part IV.—Yamato-take Slays His Elder Brother)"
+    },
+    {
+      "ref": "80",
+      "label": "Section LXXX — Emperor Kei-kō (Part V.—Yamato-take Slays the Kumaso Bravoes)"
+    },
+    {
+      "ref": "81",
+      "label": "Section LXXXI — Emperor Kei-kō (Part VI.—Yamato-take Slays the Idzumo Bravo)"
+    },
+    {
+      "ref": "82",
+      "label": "Section LXXXII — Emperor Kei-kō (Part VII.—Yamato-take is Sent to Subdue the East, and Visits His Aunt at Ise)"
+    },
+    {
+      "ref": "83",
+      "label": "Section LXXXIII — Emperor Kei-kō (Part VIII.—Yamato-take Slays the Rulers of Sagamu)"
+    },
+    {
+      "ref": "84",
+      "label": "Section LXXXIV — Emperor Kei-kō (Part IX.—Yamato-take’s Empress Stills the Waves .)"
+    },
+    {
+      "ref": "85",
+      "label": "Section LXXXV — Emperor Kei-kō (Part X.—Yamato-take Slays the Deity of the Ashigara Pass)"
+    },
+    {
+      "ref": "86",
+      "label": "Section LXXXVI — Emperor Kei-kō (Part XI.—Yamato-take Dwells in the Palace of Sakawori)"
+    },
+    {
+      "ref": "87",
+      "label": "Section LXXXVII — Emperor Kei-kō (Part XII.—Yamato-take Wooes Princess Miyazu)"
+    },
+    {
+      "ref": "88",
+      "label": "Section LXXXVIII — Emperor Kei-kō (Part XIII.—Yamato-take Meets the Deity of Mount Ibuki)"
+    },
+    {
+      "ref": "89",
+      "label": "Section LXXXIX — Emperor Kei-kō (Part XIV.—Yamato-take Sickens and Dies)"
+    },
+    {
+      "ref": "90",
+      "label": "Section XC — Emperor Kei-kō (Part XV.—Yamato-take Turns into a White Bird)"
+    },
+    {
+      "ref": "91",
+      "label": "Section XCI — Emperor Kei-kō (Part XVI.—Yamato-take’s Butler)"
+    },
+    {
+      "ref": "92",
+      "label": "Section XCII — Emperor Kei-kō (Part XVII.—Yamato-take’s Descendants)"
+    },
+    {
+      "ref": "93",
+      "label": "Section XCIII — Emperor Kei-kō (Part XVIII.—His Age and Place of Burial)"
+    },
+    {
+      "ref": "94",
+      "label": "Section XCIV — Emperor Sei-mu"
+    },
+    {
+      "ref": "95",
+      "label": "Section XCV — Emperor Chiū-ai (Part I.—Genealogies)"
+    },
+    {
+      "ref": "96",
+      "label": "Section XCVI — Emperor Chiū-ai (Part II.—The Possession of Korea Divinely Promised)"
+    },
+    {
+      "ref": "97",
+      "label": "Section XCVII — Emperor Chiū-ai (Part III.—Preparations for the Conquest of Korea)"
+    },
+    {
+      "ref": "98",
+      "label": "Section XCVIII — Emperor Chiū-ai (Part IV.—The Empress Jin-gō Conquers Korea)"
+    },
+    {
+      "ref": "99",
+      "label": "Section XCIX — Emperor Chiū-ai (Part V.—The Empress Jin-gō Fishes in Tsukushi)"
+    },
+    {
+      "ref": "100",
+      "label": "Section C — Emperor Chiū-ai (Part VI.—The Empress Jin-gō Subdues Yamato)"
+    },
+    {
+      "ref": "101",
+      "label": "Section CI — Emperor Chiū-ai (Part VIII.—The Heir Apparent Exchanges Names with the Great Deity Izasa-Wake)"
+    },
+    {
+      "ref": "102",
+      "label": "Section CII — Emperor Chiū-ai (Part VIII.—The Empress Jin-gō Presents Liquor to the Heir Apparent)"
+    },
+    {
+      "ref": "103",
+      "label": "Section CIII — Emperor Chiū-ai (Part IX.—His Death and That of the Empress Jin-gō)"
+    },
+    {
+      "ref": "104",
+      "label": "Section CIV — Emperor Ō-jin[1] (Part I.—Genealogies)"
+    },
+    {
+      "ref": "105",
+      "label": "Section CV — Emperor Ō-jin (Part II.—He Divides the Inheritance Between His Three Sons)"
+    },
+    {
+      "ref": "106",
+      "label": "Section CVI — Emperor Ō-jin (Part III.—He Wooes Princess Miya-nushi-ya-kaha-ye)"
+    },
+    {
+      "ref": "107",
+      "label": "Section CVII — Emperor Ō-jin (Part IV.—He Grants Princess Kami-naga to His Son Oho-sazaki)"
+    },
+    {
+      "ref": "108",
+      "label": "Section CVIII — Emperor Ō-jin (Part V.—Songs of the Territorial Owners of Yeshinu)"
+    },
+    {
+      "ref": "109",
+      "label": "Section CIX — Emperor Ō-jin (Part VI.—Various Deeds)"
+    },
+    {
+      "ref": "110",
+      "label": "Section CX — Emperor Ō-jin (Part VII.—Tribute From Korea)"
+    },
+    {
+      "ref": "111",
+      "label": "Section CXI — Emperor Ō-jin (Part VIII.—The Emperor Intoxicated)"
+    },
+    {
+      "ref": "112",
+      "label": "Section CXII — Emperor Ō-jin (Part IX.—Troubles Which Followed His Decease)"
+    },
+    {
+      "ref": "113",
+      "label": "Section CXIII — Emperor Ō-jin (Part X.—Princes Oho-sazaki and Uji-no-waki-iratsuko Cede the Empire to Each Other)"
+    },
+    {
+      "ref": "114",
+      "label": "Section CXIV — Emperor Ō-jin (Part XI.—Ama-no-hi-boko Crosses Over to Japan)"
+    },
+    {
+      "ref": "115",
+      "label": "Section CXV — Emperor Ō-jin (Part XII.—Descendants of Ama-no-hi-boko, and Treasures Brought by Him)"
+    },
+    {
+      "ref": "116",
+      "label": "Section CXVI — Emperor Ō-jin (Part XIII.—The Youth-of-the-Glow-on-the-Autumn-Mountains and the Youth-of-the-Haze-on-the-Spring-Mountains)"
+    },
+    {
+      "ref": "117",
+      "label": "Section CXVII — Emperor Ō-jin (Part XVI.—Genealogies)"
+    },
+    {
+      "ref": "118",
+      "label": "Section CXVIII — Emperor Ō-jin (Part XV.—His Age and Place of Burial)"
+    },
+    {
+      "ref": "119",
+      "label": "Section CXIX — Emperor Nin-toku (Part I.—Genealogies)"
+    },
+    {
+      "ref": "120",
+      "label": "Section CXX — Emperor Nin-toku (Part II.—Various Deeds)"
+    },
+    {
+      "ref": "121",
+      "label": "Section CXXI — Emperor Nin-toku (Part III.—He Remits the Taxes)"
+    },
+    {
+      "ref": "122",
+      "label": "Section CXXII — Emperor Nin-toku (Part IV.—He Loves Princess Kuro)"
+    },
+    {
+      "ref": "123",
+      "label": "Section CXXIII — Emperor Nin-toku (Part V.—The Empress Retires to Yamashiro)"
+    },
+    {
+      "ref": "124",
+      "label": "Section CXXIV — Emperor Nin-toku (Part VI.—He Follows the Empress Into Yamashiro)"
+    },
+    {
+      "ref": "125",
+      "label": "Section CXXV — Emperor Nin-toku (Part VII.—He Loves Yata-no-waki-iratsume)"
+    },
+    {
+      "ref": "126",
+      "label": "Section CXXVI — Emperor Nin-toku (Part VIII.—Death of King Hayabusa-wake and Queen Medori)"
+    },
+    {
+      "ref": "127",
+      "label": "Section CXXVII — Emperor Nin-toku (Part VIII.—Queen Medori’s Armlet)"
+    },
+    {
+      "ref": "128",
+      "label": "Section CXXVIII — Emperor Nin-toku (Part IX.—A Wild-goose Lays an Egg)"
+    },
+    {
+      "ref": "129",
+      "label": "Section CXXIX — Emperor Nin-toku (Part X.—A Vessel is Made Into a Lute)"
+    },
+    {
+      "ref": "130",
+      "label": "Section CXXX — Emperor Nin-toku (Part XI.—His Age and Place of Burial)"
+    },
+    {
+      "ref": "131",
+      "label": "Section CXXXI — Emperor Ri-chiū (Part I.—Genealogies)"
+    },
+    {
+      "ref": "132",
+      "label": "Section CXXXII — Emperor Ri-chiū (Part II.—He is Taken to Iso-no-Kami)"
+    },
+    {
+      "ref": "133",
+      "label": "Section CXXXIII — Emperor Ri-chiū (Part III.—His Rebellious Brother and the Latter’s Retainer Sobakari are Slain)"
+    },
+    {
+      "ref": "134",
+      "label": "Section CXXXIV — Emperor Ri-chiū (Part IV.—Various Deeds)"
+    },
+    {
+      "ref": "135",
+      "label": "Section CXXXV — Emperor Ri-chiū (Part V.—His Age and Place of Burial)"
+    },
+    {
+      "ref": "136",
+      "label": "Section CXXXVI — Emperor Han-zei"
+    },
+    {
+      "ref": "137",
+      "label": "Section CXXXVII — Emperor In-giyō[1] (Part I.—Genealogies)"
+    },
+    {
+      "ref": "138",
+      "label": "Section CXXXVIII — Emperor In-giyō (Part II.—His Sickness is Cured by a Korean Physician)"
+    },
+    {
+      "ref": "139",
+      "label": "Section CXXXIX — Emperor In-giyō (Part III.—He Rectifies the People’s Names)"
+    },
+    {
+      "ref": "140",
+      "label": "Section CXL — Emperor In-giyō (Part IV.—His Age and Place of Burial)"
+    },
+    {
+      "ref": "141",
+      "label": "Section CXLI — Emperor In-giyō (Part V.—Prince Karu Loves His Sister Princess So-tohoshi)"
+    },
+    {
+      "ref": "142",
+      "label": "Section CXLII — Emperor In-giyō (Part VI.—War Between Prince Karu and Prince Anaho)"
+    },
+    {
+      "ref": "143",
+      "label": "Section CXLIII — Emperor In-giyō (Part VII.—Death of Prince Karu and Princess So-tohoshi)"
+    },
+    {
+      "ref": "144",
+      "label": "Section CXLIV — Emperor An-kō (Part I.—He Slays King Oho-kusaka)"
+    },
+    {
+      "ref": "145",
+      "label": "Section CXLV — Emperor An-kō (Part II.—He is Slain by King Ma-yowa)"
+    },
+    {
+      "ref": "146",
+      "label": "Section CXLVI — Emperor An-kō (Part III.—Prince Oho-hatsuse Slays Princes Kuro-biko and Shiro-biko)"
+    },
+    {
+      "ref": "147",
+      "label": "Section CXLVII — Emperor An-kō (Part IV.—Death of Prince Ma-yowa and of the Grandee Tsubura)"
+    },
+    {
+      "ref": "148",
+      "label": "Section CXLVIII — Emperor An-kō (Part V.—Prince Oho-hatsuse Slays Prince Oshiha)"
+    },
+    {
+      "ref": "149",
+      "label": "Section CXLIX — Emperor An-kō (Part VI.—Flight of Princes Ohoke and Woke) ]"
+    },
+    {
+      "ref": "150",
+      "label": "Section CL — Emperor Yū-riyaku (Part I.—Genealogies)"
+    },
+    {
+      "ref": "151",
+      "label": "Section CLI — Emperor Yū-riyaku (Part II.—Various Deeds)"
+    },
+    {
+      "ref": "152",
+      "label": "Section CLII — Emperor Yū-riyaku (Part III.—The Roof of the House of the Great Departmental Lord of Shiki)"
+    },
+    {
+      "ref": "153",
+      "label": "Section CLIII — Emperor Yū-riyaku (Part IV.—He Wooes Princess Waka-kusaka-be)"
+    },
+    {
+      "ref": "154",
+      "label": "Section CLIV — Emperor Yū-riyaku (Part V.—Story of the Woman Akawi-ko)"
+    },
+    {
+      "ref": "155",
+      "label": "Section CLV — Emperor Yū-riyaku (Part VI.—He Makes a Progress to Yeshinu)"
+    },
+    {
+      "ref": "156",
+      "label": "Section CLVI — Emperor Yū-riyaku (Part VII.—The Horse-fly and the Dragon-fly)"
+    },
+    {
+      "ref": "157",
+      "label": "Section CLVII — Emperor Yū-riyaku (Part VIII.—Adventure with a Wild Boar)"
+    },
+    {
+      "ref": "158",
+      "label": "Section CLVIII — Emperor Yū-riyaku (Part IX.—Revelation of the Great Deity of Kadzuraki, Lord of One Word)"
+    },
+    {
+      "ref": "159",
+      "label": "Section CLIX — Emperor Yū-riyaku (Part X.—The Mound of the Metal Spade)"
+    },
+    {
+      "ref": "160",
+      "label": "Section CLX — Emperor Yū-riyaku (Part XI.—The Leaf in the Cup)"
+    },
+    {
+      "ref": "161",
+      "label": "Section CLXI — Emperor Yū-riyaku (Part XII.—Songs by the Emperor and Princess Wodo)"
+    },
+    {
+      "ref": "162",
+      "label": "Section CLXII — Emperor Yū-riyaku (Part XIII.—His Age and Place of Burial)"
+    },
+    {
+      "ref": "163",
+      "label": "Section CLXIII — Emperor Sei-nei (Part I.—Search for a Successor to Him)"
+    },
+    {
+      "ref": "164",
+      "label": "Section CLXIV — Emperor Sei-nei (Part II.—Princes Ohoke and Woke Are Discovered)"
+    },
+    {
+      "ref": "165",
+      "label": "Section CLXV — Emperor Sei-nei (Part III.—The Grandee Shibi).[1]"
+    },
+    {
+      "ref": "166",
+      "label": "Section CLXVI — Emperor Sei-nei (Part IV.—Prince Ohoke Cedes the Empire to Prince Woke)"
+    },
+    {
+      "ref": "167",
+      "label": "Section CLXVII — Emperor Ken-zō (Part I.—The Old Woman Oki-me)"
+    },
+    {
+      "ref": "168",
+      "label": "Section CLXVIII — Emperor Ken-zō (Part II.—He Slays the Boar-herd)"
+    },
+    {
+      "ref": "169",
+      "label": "Section CLXIX — Emperor Ken-zō (Part III.—The Emperor Yū-riyaku’s Mausoleum is Disfigured)"
+    },
+    {
+      "ref": "170",
+      "label": "Section CLXX — Emperor Ken-zō (Part IV.—His Age and Place of Burial)"
+    },
+    {
+      "ref": "171",
+      "label": "Section CLXXI — Emperor Nin-ken.][1"
+    },
+    {
+      "ref": "172",
+      "label": "Section CLXXII — Emperor Mu-retsu"
+    },
+    {
+      "ref": "173",
+      "label": "Section CLXXIII — Emperor Kei-tai"
+    },
+    {
+      "ref": "174",
+      "label": "Section CLXXIV — Emperor An-kan"
+    },
+    {
+      "ref": "175",
+      "label": "Section CLXXV — Emperor Sen-kuwa"
+    },
+    {
+      "ref": "176",
+      "label": "Section CLXXVI — Emperor Kim-mei"
+    },
+    {
+      "ref": "177",
+      "label": "Section CLXXVII — Emperor Bi-datsu"
+    },
+    {
+      "ref": "178",
+      "label": "Section CLXXVIII — Emperor Yō-mei"
+    },
+    {
+      "ref": "179",
+      "label": "Section CLXXIX — Emperor Su-jun"
+    },
+    {
+      "ref": "180",
+      "label": "Section CLXXX — Empress Sui-ko"
+    }
+  ],
+  "passages": [
+    {
+      "reference": "1.1",
+      "label": "Section I — The Beginning of Heaven and Earth §1",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "2.1",
+      "label": "Section II — The Seven Divine Generations §1",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "3.1",
+      "label": "Section III — The Island of Onogoro §1",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "4.1",
+      "label": "Section IV — Courtship of the Deities the Male-Who-Invites and the Female-Who-Invites §1",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "5.1",
+      "label": "Section V — Birth of the Eight Great Islands §1",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "6.1",
+      "label": "Section VI — Birth of the Various Deities §1",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "7.1",
+      "label": "Section VII — Retirement of Her Augustness the Princess-Who-Invites §1",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.2",
+      "label": "Section VII — Retirement of Her Augustness the Princess-Who-Invites §2",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "8.1",
+      "label": "Section VIII — The Slaying of the Fire-Deity §1",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.2",
+      "label": "Section VIII — The Slaying of the Fire-Deity §2",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "9.1",
+      "label": "Section IX — The Land of Hades §1",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "10.1",
+      "label": "Section X — The Purification of the August Person §1",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.2",
+      "label": "Section X — The Purification of the August Person §2",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "11.1",
+      "label": "Section XI — Investiture of the Three Deities the Illustrious August Children §1",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "12.1",
+      "label": "Section XII — The Crying and Weeping of His Impetuous-Male-Augustness §1",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "13.1",
+      "label": "Section XIII — The August Oath §1",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "14.1",
+      "label": "Section XIV — The August Declaration of the Division of the August Male Children and the August Female Children §1",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "15.1",
+      "label": "Section XV — The August Ravages of His-Impetuous-Male-Augustness §1",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "16.1",
+      "label": "Section XVI — The Door of the Heavenly Rock-Dwelling §1",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "17.1",
+      "label": "Section XVII — The August Expulsion of His-Impetuous-Male-Augustness §1",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "18.1",
+      "label": "Section XVIII — The Eight-Forked Serpent §1",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "19.1",
+      "label": "Section XIX — The Palace of Suga §1",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.2",
+      "label": "Section XIX — The Palace of Suga §2",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.3",
+      "label": "Section XIX — The Palace of Suga §3",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.4",
+      "label": "Section XIX — The Palace of Suga §4",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.5",
+      "label": "Section XIX — The Palace of Suga §5",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.6",
+      "label": "Section XIX — The Palace of Suga §6",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.7",
+      "label": "Section XIX — The Palace of Suga §7",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.8",
+      "label": "Section XIX — The Palace of Suga §8",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.9",
+      "label": "Section XIX — The Palace of Suga §9",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.10",
+      "label": "Section XIX — The Palace of Suga §10",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "20.1",
+      "label": "Section XX — The August Ancestors of the Deity-Master-of-the-Great Land §1",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "21.1",
+      "label": "Section XXI — The White Hare of Inaba §1",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "22.1",
+      "label": "Section XXII — Mount Tema §1",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "23.1",
+      "label": "Section XXIII — The Nether-Distant-Land §1",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "24.1",
+      "label": "Section XXIV — The Wooing of the Deity-of-Eight-Thousand-Spears §1",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.2",
+      "label": "Section XXIV — The Wooing of the Deity-of-Eight-Thousand-Spears §2",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.3",
+      "label": "Section XXIV — The Wooing of the Deity-of-Eight-Thousand-Spears §3",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.4",
+      "label": "Section XXIV — The Wooing of the Deity-of-Eight-Thousand-Spears §4",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.5",
+      "label": "Section XXIV — The Wooing of the Deity-of-Eight-Thousand-Spears §5",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.6",
+      "label": "Section XXIV — The Wooing of the Deity-of-Eight-Thousand-Spears §6",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "25.1",
+      "label": "Section XXV — The Cup Pledge §1",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.2",
+      "label": "Section XXV — The Cup Pledge §2",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.3",
+      "label": "Section XXV — The Cup Pledge §3",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "26.1",
+      "label": "Section XXVI — The Deities the August Descendants of the Deity Master-of-the-Great-Land §1",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "27.1",
+      "label": "Section XXVII — The Little-Prince-the-Renowned-Deity §1",
+      "chapterRef": "27"
+    },
+    {
+      "reference": "28.1",
+      "label": "Section XXVIII — The August-Luck-Spirit-the-August-Wondrous-Spirit.[1] §1",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "29.1",
+      "label": "Section XXIX — The August Children of the Great-Harvest-Deity and of the Swift-Mountain-Deity §1",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.2",
+      "label": "Section XXIX — The August Children of the Great-Harvest-Deity and of the Swift-Mountain-Deity §2",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "30.1",
+      "label": "Section XXX — The August Deliberation for Pacifying the Land §1",
+      "chapterRef": "30"
+    },
+    {
+      "reference": "31.1",
+      "label": "Section XXXI — The Heavenly-Young-Prince §1",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.2",
+      "label": "Section XXXI — The Heavenly-Young-Prince §2",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.3",
+      "label": "Section XXXI — The Heavenly-Young-Prince §3",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "32.1",
+      "label": "Section XXXII — Abdication of the Deity Master-of-the-Great-Land §1",
+      "chapterRef": "32"
+    },
+    {
+      "reference": "33.1",
+      "label": "Section XXXIII — The August Descent from Heaven of his Augustness the August Grandchild §1",
+      "chapterRef": "33"
+    },
+    {
+      "reference": "34.1",
+      "label": "Section XXXIV — The August Reign in Himuka of His Augustness Prince Rice-ear-Ruddy-Plenty §1",
+      "chapterRef": "34"
+    },
+    {
+      "reference": "35.1",
+      "label": "Section XXXV — The Duchess of Saru §1",
+      "chapterRef": "35"
+    },
+    {
+      "reference": "36.1",
+      "label": "Section XXXVI — The Deity Prince of Saruta at Azaka §1",
+      "chapterRef": "36"
+    },
+    {
+      "reference": "37.1",
+      "label": "Section XXXVII — The Curse of the Deity Great-Mountain-Possessor §1",
+      "chapterRef": "37"
+    },
+    {
+      "reference": "38.1",
+      "label": "Section XXXVIII — The August Child-Bearing of Princess-Blossoming Brilliantly-Like-the-Flowers-of-the-Trees §1",
+      "chapterRef": "38"
+    },
+    {
+      "reference": "39.1",
+      "label": "Section XXXIX — The August Exchange of Luck §1",
+      "chapterRef": "39"
+    },
+    {
+      "reference": "40.1",
+      "label": "Section XL — The Palace of the Ocean-Possessor §1",
+      "chapterRef": "40"
+    },
+    {
+      "reference": "41.1",
+      "label": "Section XLI — Submission of His Augustness Fire-Shine §1",
+      "chapterRef": "41"
+    },
+    {
+      "reference": "42.1",
+      "label": "Section XLII — The Parturition-House of Cormorants’ Feathers §1",
+      "chapterRef": "42"
+    },
+    {
+      "reference": "42.2",
+      "label": "Section XLII — The Parturition-House of Cormorants’ Feathers §2",
+      "chapterRef": "42"
+    },
+    {
+      "reference": "42.3",
+      "label": "Section XLII — The Parturition-House of Cormorants’ Feathers §3",
+      "chapterRef": "42"
+    },
+    {
+      "reference": "42.4",
+      "label": "Section XLII — The Parturition-House of Cormorants’ Feathers §4",
+      "chapterRef": "42"
+    },
+    {
+      "reference": "42.5",
+      "label": "Section XLII — The Parturition-House of Cormorants’ Feathers §5",
+      "chapterRef": "42"
+    },
+    {
+      "reference": "43.1",
+      "label": "Section XLIII — The August Children of His Augustness Cormorant-Thatch-Meeting-Incompletely §1",
+      "chapterRef": "43"
+    },
+    {
+      "reference": "44.1",
+      "label": "Section XLIV — Reign of the Emperor Jim-mu[2] (Part I.—His Progress Eastward, and Death of His Elder Brother) §1",
+      "chapterRef": "44"
+    },
+    {
+      "reference": "45.1",
+      "label": "Section XLV — Emperor Jim-mu (Part II.—The Cross-sword Sent Down from Heaven) §1",
+      "chapterRef": "45"
+    },
+    {
+      "reference": "46.1",
+      "label": "Section XLVI — Emperor Jim-mu (Part III.—The Gigantic Crow and Gods with Tails) §1",
+      "chapterRef": "46"
+    },
+    {
+      "reference": "47.1",
+      "label": "Section XLVII — Emperor Jim-mu (Part IV.—The Ukashi Brethren) §1",
+      "chapterRef": "47"
+    },
+    {
+      "reference": "47.2",
+      "label": "Section XLVII — Emperor Jim-mu (Part IV.—The Ukashi Brethren) §2",
+      "chapterRef": "47"
+    },
+    {
+      "reference": "47.3",
+      "label": "Section XLVII — Emperor Jim-mu (Part IV.—The Ukashi Brethren) §3",
+      "chapterRef": "47"
+    },
+    {
+      "reference": "48.1",
+      "label": "Section XLVIII — Emperor Jim-mu (Part V.—The Earth-spiders of the Cave of Osaka) §1",
+      "chapterRef": "48"
+    },
+    {
+      "reference": "48.2",
+      "label": "Section XLVIII — Emperor Jim-mu (Part V.—The Earth-spiders of the Cave of Osaka) §2",
+      "chapterRef": "48"
+    },
+    {
+      "reference": "48.3",
+      "label": "Section XLVIII — Emperor Jim-mu (Part V.—The Earth-spiders of the Cave of Osaka) §3",
+      "chapterRef": "48"
+    },
+    {
+      "reference": "49.1",
+      "label": "Section XLIX — Emperor Jim-mu (Part VI.—The Prince of Tomi and the Shiki Brethren) §1",
+      "chapterRef": "49"
+    },
+    {
+      "reference": "49.2",
+      "label": "Section XLIX — Emperor Jim-mu (Part VI.—The Prince of Tomi and the Shiki Brethren) §2",
+      "chapterRef": "49"
+    },
+    {
+      "reference": "49.3",
+      "label": "Section XLIX — Emperor Jim-mu (Part VI.—The Prince of Tomi and the Shiki Brethren) §3",
+      "chapterRef": "49"
+    },
+    {
+      "reference": "49.4",
+      "label": "Section XLIX — Emperor Jim-mu (Part VI.—The Prince of Tomi and the Shiki Brethren) §4",
+      "chapterRef": "49"
+    },
+    {
+      "reference": "49.5",
+      "label": "Section XLIX — Emperor Jim-mu (Part VI.—The Prince of Tomi and the Shiki Brethren) §5",
+      "chapterRef": "49"
+    },
+    {
+      "reference": "49.6",
+      "label": "Section XLIX — Emperor Jim-mu (Part VI.—The Prince of Tomi and the Shiki Brethren) §6",
+      "chapterRef": "49"
+    },
+    {
+      "reference": "49.7",
+      "label": "Section XLIX — Emperor Jim-mu (Part VI.—The Prince of Tomi and the Shiki Brethren) §7",
+      "chapterRef": "49"
+    },
+    {
+      "reference": "49.8",
+      "label": "Section XLIX — Emperor Jim-mu (Part VI.—The Prince of Tomi and the Shiki Brethren) §8",
+      "chapterRef": "49"
+    },
+    {
+      "reference": "50.1",
+      "label": "Section L — Emperor Jim-mu (Part VII.—The Empire Pacified) §1",
+      "chapterRef": "50"
+    },
+    {
+      "reference": "51.1",
+      "label": "Section LI — Emperor Jim-mu (Part VIII.—He Weds I-suke-yori-hime) §1",
+      "chapterRef": "51"
+    },
+    {
+      "reference": "51.2",
+      "label": "Section LI — Emperor Jim-mu (Part VIII.—He Weds I-suke-yori-hime) §2",
+      "chapterRef": "51"
+    },
+    {
+      "reference": "51.3",
+      "label": "Section LI — Emperor Jim-mu (Part VIII.—He Weds I-suke-yori-hime) §3",
+      "chapterRef": "51"
+    },
+    {
+      "reference": "51.4",
+      "label": "Section LI — Emperor Jim-mu (Part VIII.—He Weds I-suke-yori-hime) §4",
+      "chapterRef": "51"
+    },
+    {
+      "reference": "51.5",
+      "label": "Section LI — Emperor Jim-mu (Part VIII.—He Weds I-suke-yori-hime) §5",
+      "chapterRef": "51"
+    },
+    {
+      "reference": "51.6",
+      "label": "Section LI — Emperor Jim-mu (Part VIII.—He Weds I-suke-yori-hime) §6",
+      "chapterRef": "51"
+    },
+    {
+      "reference": "51.7",
+      "label": "Section LI — Emperor Jim-mu (Part VIII.—He Weds I-suke-yori-hime) §7",
+      "chapterRef": "51"
+    },
+    {
+      "reference": "51.8",
+      "label": "Section LI — Emperor Jim-mu (Part VIII.—He Weds I-suke-yori-hime) §8",
+      "chapterRef": "51"
+    },
+    {
+      "reference": "51.9",
+      "label": "Section LI — Emperor Jim-mu (Part VIII.—He Weds I-suke-yori-hime) §9",
+      "chapterRef": "51"
+    },
+    {
+      "reference": "51.10",
+      "label": "Section LI — Emperor Jim-mu (Part VIII.—He Weds I-suke-yori-hime) §10",
+      "chapterRef": "51"
+    },
+    {
+      "reference": "51.11",
+      "label": "Section LI — Emperor Jim-mu (Part VIII.—He Weds I-suke-yori-hime) §11",
+      "chapterRef": "51"
+    },
+    {
+      "reference": "52.1",
+      "label": "Section LII — Emperor Jim-mu ( Part. IX—Troubles Which Followed His Decease) §1",
+      "chapterRef": "52"
+    },
+    {
+      "reference": "52.2",
+      "label": "Section LII — Emperor Jim-mu ( Part. IX—Troubles Which Followed His Decease) §2",
+      "chapterRef": "52"
+    },
+    {
+      "reference": "52.3",
+      "label": "Section LII — Emperor Jim-mu ( Part. IX—Troubles Which Followed His Decease) §3",
+      "chapterRef": "52"
+    },
+    {
+      "reference": "52.4",
+      "label": "Section LII — Emperor Jim-mu ( Part. IX—Troubles Which Followed His Decease) §4",
+      "chapterRef": "52"
+    },
+    {
+      "reference": "52.5",
+      "label": "Section LII — Emperor Jim-mu ( Part. IX—Troubles Which Followed His Decease) §5",
+      "chapterRef": "52"
+    },
+    {
+      "reference": "53.1",
+      "label": "Section LIII — Emperor Jim-mu (Part X.—Genealogies) §1",
+      "chapterRef": "53"
+    },
+    {
+      "reference": "54.1",
+      "label": "Section LIV — Emperor Jim-mu (Part XI.—His Age and Place of Burial) §1",
+      "chapterRef": "54"
+    },
+    {
+      "reference": "55.1",
+      "label": "Section LV — Emperor Sui-zei §1",
+      "chapterRef": "55"
+    },
+    {
+      "reference": "56.1",
+      "label": "Section LVI — Emperor An-nei §1",
+      "chapterRef": "56"
+    },
+    {
+      "reference": "57.1",
+      "label": "Section LVII — Emperor I-toku §1",
+      "chapterRef": "57"
+    },
+    {
+      "reference": "58.1",
+      "label": "Section LVIII — Emperor Kō-shō §1",
+      "chapterRef": "58"
+    },
+    {
+      "reference": "58.2",
+      "label": "Section LVIII — Emperor Kō-shō §2",
+      "chapterRef": "58"
+    },
+    {
+      "reference": "59.1",
+      "label": "Section LIX — Emperor Kō-an §1",
+      "chapterRef": "59"
+    },
+    {
+      "reference": "60.1",
+      "label": "Section LX — Emperor Kō-rei §1",
+      "chapterRef": "60"
+    },
+    {
+      "reference": "61.1",
+      "label": "Section LXI — Emperor Kō-gen §1",
+      "chapterRef": "61"
+    },
+    {
+      "reference": "62.1",
+      "label": "Section LXII — Emperor Kai-kuwa §1",
+      "chapterRef": "62"
+    },
+    {
+      "reference": "63.1",
+      "label": "Section LXIII — Emperor Sū-jin (Part I.—Genealogies) §1",
+      "chapterRef": "63"
+    },
+    {
+      "reference": "64.1",
+      "label": "Section LXIV — Emperor Sū-jin (Part II.—A Pestilence is Staid by Oho-tata-ne-ko) §1",
+      "chapterRef": "64"
+    },
+    {
+      "reference": "65.1",
+      "label": "Section LXV — Emperor Sū-jun (Part III.—Story of Oho-taka-ne-ko’s Birth) §1",
+      "chapterRef": "65"
+    },
+    {
+      "reference": "66.1",
+      "label": "Section LXVI — Emperor Sū-jin (Part IV.—War with King Take-hani-yasu) §1",
+      "chapterRef": "66"
+    },
+    {
+      "reference": "66.2",
+      "label": "Section LXVI — Emperor Sū-jin (Part IV.—War with King Take-hani-yasu) §2",
+      "chapterRef": "66"
+    },
+    {
+      "reference": "66.3",
+      "label": "Section LXVI — Emperor Sū-jin (Part IV.—War with King Take-hani-yasu) §3",
+      "chapterRef": "66"
+    },
+    {
+      "reference": "67.1",
+      "label": "Section LXVII — Emperor Sū-jin (Part V.—Peace Restored and Tribute Levied) §1",
+      "chapterRef": "67"
+    },
+    {
+      "reference": "68.1",
+      "label": "Section LXVIII — Emperor Sū-jin (Part VI.—His Age and Place of Burial) §1",
+      "chapterRef": "68"
+    },
+    {
+      "reference": "69.1",
+      "label": "Section LXIX — Emperor Sui-nin (Part I.—Genealogies) §1",
+      "chapterRef": "69"
+    },
+    {
+      "reference": "70.1",
+      "label": "Section LXX — Emperor Sui-nin (Part II.—Conspiracy of King Saho-biko and the Empress Saho-bime) §1",
+      "chapterRef": "70"
+    },
+    {
+      "reference": "71.1",
+      "label": "Section LXXI — Emperor Sui-nin (Part III.—Birth of Prince Homu-chi-wake and Death of the Conspirators) §1",
+      "chapterRef": "71"
+    },
+    {
+      "reference": "71.2",
+      "label": "Section LXXI — Emperor Sui-nin (Part III.—Birth of Prince Homu-chi-wake and Death of the Conspirators) §2",
+      "chapterRef": "71"
+    },
+    {
+      "reference": "71.3",
+      "label": "Section LXXI — Emperor Sui-nin (Part III.—Birth of Prince Homu-chi-wake and Death of the Conspirators) §3",
+      "chapterRef": "71"
+    },
+    {
+      "reference": "71.4",
+      "label": "Section LXXI — Emperor Sui-nin (Part III.—Birth of Prince Homu-chi-wake and Death of the Conspirators) §4",
+      "chapterRef": "71"
+    },
+    {
+      "reference": "71.5",
+      "label": "Section LXXI — Emperor Sui-nin (Part III.—Birth of Prince Homu-chi-wake and Death of the Conspirators) §5",
+      "chapterRef": "71"
+    },
+    {
+      "reference": "72.1",
+      "label": "Section LXXII — Emperor Sui-nin (Part IV.—The Dumb Prince Homu-chi-wake) §1",
+      "chapterRef": "72"
+    },
+    {
+      "reference": "73.1",
+      "label": "Section LXXIII — Emperor Sui-nin (Part V.—His Later Wives) §1",
+      "chapterRef": "73"
+    },
+    {
+      "reference": "74.1",
+      "label": "Section LXXIV — Emperor Sui-nin (Part VI.—Tajima-mori Brings Back the Orange from the Eternal Land) §1",
+      "chapterRef": "74"
+    },
+    {
+      "reference": "75.1",
+      "label": "Section LXXV — Emperor Sui-nin (Part VII.—His Death and That of the Empress Hibasu .) §1",
+      "chapterRef": "75"
+    },
+    {
+      "reference": "75.2",
+      "label": "Section LXXV — Emperor Sui-nin (Part VII.—His Death and That of the Empress Hibasu .) §2",
+      "chapterRef": "75"
+    },
+    {
+      "reference": "76.1",
+      "label": "Section LXXVI — Emperor Kei-kō (Part I.—Genealogies) §1",
+      "chapterRef": "76"
+    },
+    {
+      "reference": "77.1",
+      "label": "Section LXXVII — Emperor Kei-kō (Part II.—The Maidens Ye-hime and Oto-hime) §1",
+      "chapterRef": "77"
+    },
+    {
+      "reference": "78.1",
+      "label": "Section LXXVIII — Emperor Kei-kō (Part III.—Various Deeds) §1",
+      "chapterRef": "78"
+    },
+    {
+      "reference": "79.1",
+      "label": "Section LXXIX — Emperor Kei-kō (Part IV.—Yamato-take Slays His Elder Brother) §1",
+      "chapterRef": "79"
+    },
+    {
+      "reference": "80.1",
+      "label": "Section LXXX — Emperor Kei-kō (Part V.—Yamato-take Slays the Kumaso Bravoes) §1",
+      "chapterRef": "80"
+    },
+    {
+      "reference": "81.1",
+      "label": "Section LXXXI — Emperor Kei-kō (Part VI.—Yamato-take Slays the Idzumo Bravo) §1",
+      "chapterRef": "81"
+    },
+    {
+      "reference": "81.2",
+      "label": "Section LXXXI — Emperor Kei-kō (Part VI.—Yamato-take Slays the Idzumo Bravo) §2",
+      "chapterRef": "81"
+    },
+    {
+      "reference": "81.3",
+      "label": "Section LXXXI — Emperor Kei-kō (Part VI.—Yamato-take Slays the Idzumo Bravo) §3",
+      "chapterRef": "81"
+    },
+    {
+      "reference": "82.1",
+      "label": "Section LXXXII — Emperor Kei-kō (Part VII.—Yamato-take is Sent to Subdue the East, and Visits His Aunt at Ise) §1",
+      "chapterRef": "82"
+    },
+    {
+      "reference": "83.1",
+      "label": "Section LXXXIII — Emperor Kei-kō (Part VIII.—Yamato-take Slays the Rulers of Sagamu) §1",
+      "chapterRef": "83"
+    },
+    {
+      "reference": "84.1",
+      "label": "Section LXXXIV — Emperor Kei-kō (Part IX.—Yamato-take’s Empress Stills the Waves .) §1",
+      "chapterRef": "84"
+    },
+    {
+      "reference": "84.2",
+      "label": "Section LXXXIV — Emperor Kei-kō (Part IX.—Yamato-take’s Empress Stills the Waves .) §2",
+      "chapterRef": "84"
+    },
+    {
+      "reference": "84.3",
+      "label": "Section LXXXIV — Emperor Kei-kō (Part IX.—Yamato-take’s Empress Stills the Waves .) §3",
+      "chapterRef": "84"
+    },
+    {
+      "reference": "85.1",
+      "label": "Section LXXXV — Emperor Kei-kō (Part X.—Yamato-take Slays the Deity of the Ashigara Pass) §1",
+      "chapterRef": "85"
+    },
+    {
+      "reference": "86.1",
+      "label": "Section LXXXVI — Emperor Kei-kō (Part XI.—Yamato-take Dwells in the Palace of Sakawori) §1",
+      "chapterRef": "86"
+    },
+    {
+      "reference": "86.2",
+      "label": "Section LXXXVI — Emperor Kei-kō (Part XI.—Yamato-take Dwells in the Palace of Sakawori) §2",
+      "chapterRef": "86"
+    },
+    {
+      "reference": "86.3",
+      "label": "Section LXXXVI — Emperor Kei-kō (Part XI.—Yamato-take Dwells in the Palace of Sakawori) §3",
+      "chapterRef": "86"
+    },
+    {
+      "reference": "86.4",
+      "label": "Section LXXXVI — Emperor Kei-kō (Part XI.—Yamato-take Dwells in the Palace of Sakawori) §4",
+      "chapterRef": "86"
+    },
+    {
+      "reference": "86.5",
+      "label": "Section LXXXVI — Emperor Kei-kō (Part XI.—Yamato-take Dwells in the Palace of Sakawori) §5",
+      "chapterRef": "86"
+    },
+    {
+      "reference": "87.1",
+      "label": "Section LXXXVII — Emperor Kei-kō (Part XII.—Yamato-take Wooes Princess Miyazu) §1",
+      "chapterRef": "87"
+    },
+    {
+      "reference": "87.2",
+      "label": "Section LXXXVII — Emperor Kei-kō (Part XII.—Yamato-take Wooes Princess Miyazu) §2",
+      "chapterRef": "87"
+    },
+    {
+      "reference": "87.3",
+      "label": "Section LXXXVII — Emperor Kei-kō (Part XII.—Yamato-take Wooes Princess Miyazu) §3",
+      "chapterRef": "87"
+    },
+    {
+      "reference": "87.4",
+      "label": "Section LXXXVII — Emperor Kei-kō (Part XII.—Yamato-take Wooes Princess Miyazu) §4",
+      "chapterRef": "87"
+    },
+    {
+      "reference": "87.5",
+      "label": "Section LXXXVII — Emperor Kei-kō (Part XII.—Yamato-take Wooes Princess Miyazu) §5",
+      "chapterRef": "87"
+    },
+    {
+      "reference": "87.6",
+      "label": "Section LXXXVII — Emperor Kei-kō (Part XII.—Yamato-take Wooes Princess Miyazu) §6",
+      "chapterRef": "87"
+    },
+    {
+      "reference": "87.7",
+      "label": "Section LXXXVII — Emperor Kei-kō (Part XII.—Yamato-take Wooes Princess Miyazu) §7",
+      "chapterRef": "87"
+    },
+    {
+      "reference": "88.1",
+      "label": "Section LXXXVIII — Emperor Kei-kō (Part XIII.—Yamato-take Meets the Deity of Mount Ibuki) §1",
+      "chapterRef": "88"
+    },
+    {
+      "reference": "89.1",
+      "label": "Section LXXXIX — Emperor Kei-kō (Part XIV.—Yamato-take Sickens and Dies) §1",
+      "chapterRef": "89"
+    },
+    {
+      "reference": "89.2",
+      "label": "Section LXXXIX — Emperor Kei-kō (Part XIV.—Yamato-take Sickens and Dies) §2",
+      "chapterRef": "89"
+    },
+    {
+      "reference": "89.3",
+      "label": "Section LXXXIX — Emperor Kei-kō (Part XIV.—Yamato-take Sickens and Dies) §3",
+      "chapterRef": "89"
+    },
+    {
+      "reference": "89.4",
+      "label": "Section LXXXIX — Emperor Kei-kō (Part XIV.—Yamato-take Sickens and Dies) §4",
+      "chapterRef": "89"
+    },
+    {
+      "reference": "89.5",
+      "label": "Section LXXXIX — Emperor Kei-kō (Part XIV.—Yamato-take Sickens and Dies) §5",
+      "chapterRef": "89"
+    },
+    {
+      "reference": "89.6",
+      "label": "Section LXXXIX — Emperor Kei-kō (Part XIV.—Yamato-take Sickens and Dies) §6",
+      "chapterRef": "89"
+    },
+    {
+      "reference": "89.7",
+      "label": "Section LXXXIX — Emperor Kei-kō (Part XIV.—Yamato-take Sickens and Dies) §7",
+      "chapterRef": "89"
+    },
+    {
+      "reference": "89.8",
+      "label": "Section LXXXIX — Emperor Kei-kō (Part XIV.—Yamato-take Sickens and Dies) §8",
+      "chapterRef": "89"
+    },
+    {
+      "reference": "89.9",
+      "label": "Section LXXXIX — Emperor Kei-kō (Part XIV.—Yamato-take Sickens and Dies) §9",
+      "chapterRef": "89"
+    },
+    {
+      "reference": "89.10",
+      "label": "Section LXXXIX — Emperor Kei-kō (Part XIV.—Yamato-take Sickens and Dies) §10",
+      "chapterRef": "89"
+    },
+    {
+      "reference": "89.11",
+      "label": "Section LXXXIX — Emperor Kei-kō (Part XIV.—Yamato-take Sickens and Dies) §11",
+      "chapterRef": "89"
+    },
+    {
+      "reference": "90.1",
+      "label": "Section XC — Emperor Kei-kō (Part XV.—Yamato-take Turns into a White Bird) §1",
+      "chapterRef": "90"
+    },
+    {
+      "reference": "90.2",
+      "label": "Section XC — Emperor Kei-kō (Part XV.—Yamato-take Turns into a White Bird) §2",
+      "chapterRef": "90"
+    },
+    {
+      "reference": "90.3",
+      "label": "Section XC — Emperor Kei-kō (Part XV.—Yamato-take Turns into a White Bird) §3",
+      "chapterRef": "90"
+    },
+    {
+      "reference": "90.4",
+      "label": "Section XC — Emperor Kei-kō (Part XV.—Yamato-take Turns into a White Bird) §4",
+      "chapterRef": "90"
+    },
+    {
+      "reference": "90.5",
+      "label": "Section XC — Emperor Kei-kō (Part XV.—Yamato-take Turns into a White Bird) §5",
+      "chapterRef": "90"
+    },
+    {
+      "reference": "90.6",
+      "label": "Section XC — Emperor Kei-kō (Part XV.—Yamato-take Turns into a White Bird) §6",
+      "chapterRef": "90"
+    },
+    {
+      "reference": "90.7",
+      "label": "Section XC — Emperor Kei-kō (Part XV.—Yamato-take Turns into a White Bird) §7",
+      "chapterRef": "90"
+    },
+    {
+      "reference": "90.8",
+      "label": "Section XC — Emperor Kei-kō (Part XV.—Yamato-take Turns into a White Bird) §8",
+      "chapterRef": "90"
+    },
+    {
+      "reference": "90.9",
+      "label": "Section XC — Emperor Kei-kō (Part XV.—Yamato-take Turns into a White Bird) §9",
+      "chapterRef": "90"
+    },
+    {
+      "reference": "91.1",
+      "label": "Section XCI — Emperor Kei-kō (Part XVI.—Yamato-take’s Butler) §1",
+      "chapterRef": "91"
+    },
+    {
+      "reference": "92.1",
+      "label": "Section XCII — Emperor Kei-kō (Part XVII.—Yamato-take’s Descendants) §1",
+      "chapterRef": "92"
+    },
+    {
+      "reference": "93.1",
+      "label": "Section XCIII — Emperor Kei-kō (Part XVIII.—His Age and Place of Burial) §1",
+      "chapterRef": "93"
+    },
+    {
+      "reference": "94.1",
+      "label": "Section XCIV — Emperor Sei-mu §1",
+      "chapterRef": "94"
+    },
+    {
+      "reference": "95.1",
+      "label": "Section XCV — Emperor Chiū-ai (Part I.—Genealogies) §1",
+      "chapterRef": "95"
+    },
+    {
+      "reference": "96.1",
+      "label": "Section XCVI — Emperor Chiū-ai (Part II.—The Possession of Korea Divinely Promised) §1",
+      "chapterRef": "96"
+    },
+    {
+      "reference": "97.1",
+      "label": "Section XCVII — Emperor Chiū-ai (Part III.—Preparations for the Conquest of Korea) §1",
+      "chapterRef": "97"
+    },
+    {
+      "reference": "98.1",
+      "label": "Section XCVIII — Emperor Chiū-ai (Part IV.—The Empress Jin-gō Conquers Korea) §1",
+      "chapterRef": "98"
+    },
+    {
+      "reference": "99.1",
+      "label": "Section XCIX — Emperor Chiū-ai (Part V.—The Empress Jin-gō Fishes in Tsukushi) §1",
+      "chapterRef": "99"
+    },
+    {
+      "reference": "100.1",
+      "label": "Section C — Emperor Chiū-ai (Part VI.—The Empress Jin-gō Subdues Yamato) §1",
+      "chapterRef": "100"
+    },
+    {
+      "reference": "100.2",
+      "label": "Section C — Emperor Chiū-ai (Part VI.—The Empress Jin-gō Subdues Yamato) §2",
+      "chapterRef": "100"
+    },
+    {
+      "reference": "100.3",
+      "label": "Section C — Emperor Chiū-ai (Part VI.—The Empress Jin-gō Subdues Yamato) §3",
+      "chapterRef": "100"
+    },
+    {
+      "reference": "101.1",
+      "label": "Section CI — Emperor Chiū-ai (Part VIII.—The Heir Apparent Exchanges Names with the Great Deity Izasa-Wake) §1",
+      "chapterRef": "101"
+    },
+    {
+      "reference": "102.1",
+      "label": "Section CII — Emperor Chiū-ai (Part VIII.—The Empress Jin-gō Presents Liquor to the Heir Apparent) §1",
+      "chapterRef": "102"
+    },
+    {
+      "reference": "102.2",
+      "label": "Section CII — Emperor Chiū-ai (Part VIII.—The Empress Jin-gō Presents Liquor to the Heir Apparent) §2",
+      "chapterRef": "102"
+    },
+    {
+      "reference": "102.3",
+      "label": "Section CII — Emperor Chiū-ai (Part VIII.—The Empress Jin-gō Presents Liquor to the Heir Apparent) §3",
+      "chapterRef": "102"
+    },
+    {
+      "reference": "102.4",
+      "label": "Section CII — Emperor Chiū-ai (Part VIII.—The Empress Jin-gō Presents Liquor to the Heir Apparent) §4",
+      "chapterRef": "102"
+    },
+    {
+      "reference": "103.1",
+      "label": "Section CIII — Emperor Chiū-ai (Part IX.—His Death and That of the Empress Jin-gō) §1",
+      "chapterRef": "103"
+    },
+    {
+      "reference": "104.1",
+      "label": "Section CIV — Emperor Ō-jin[1] (Part I.—Genealogies) §1",
+      "chapterRef": "104"
+    },
+    {
+      "reference": "105.1",
+      "label": "Section CV — Emperor Ō-jin (Part II.—He Divides the Inheritance Between His Three Sons) §1",
+      "chapterRef": "105"
+    },
+    {
+      "reference": "106.1",
+      "label": "Section CVI — Emperor Ō-jin (Part III.—He Wooes Princess Miya-nushi-ya-kaha-ye) §1",
+      "chapterRef": "106"
+    },
+    {
+      "reference": "106.2",
+      "label": "Section CVI — Emperor Ō-jin (Part III.—He Wooes Princess Miya-nushi-ya-kaha-ye) §2",
+      "chapterRef": "106"
+    },
+    {
+      "reference": "106.3",
+      "label": "Section CVI — Emperor Ō-jin (Part III.—He Wooes Princess Miya-nushi-ya-kaha-ye) §3",
+      "chapterRef": "106"
+    },
+    {
+      "reference": "106.4",
+      "label": "Section CVI — Emperor Ō-jin (Part III.—He Wooes Princess Miya-nushi-ya-kaha-ye) §4",
+      "chapterRef": "106"
+    },
+    {
+      "reference": "106.5",
+      "label": "Section CVI — Emperor Ō-jin (Part III.—He Wooes Princess Miya-nushi-ya-kaha-ye) §5",
+      "chapterRef": "106"
+    },
+    {
+      "reference": "107.1",
+      "label": "Section CVII — Emperor Ō-jin (Part IV.—He Grants Princess Kami-naga to His Son Oho-sazaki) §1",
+      "chapterRef": "107"
+    },
+    {
+      "reference": "107.2",
+      "label": "Section CVII — Emperor Ō-jin (Part IV.—He Grants Princess Kami-naga to His Son Oho-sazaki) §2",
+      "chapterRef": "107"
+    },
+    {
+      "reference": "107.3",
+      "label": "Section CVII — Emperor Ō-jin (Part IV.—He Grants Princess Kami-naga to His Son Oho-sazaki) §3",
+      "chapterRef": "107"
+    },
+    {
+      "reference": "107.4",
+      "label": "Section CVII — Emperor Ō-jin (Part IV.—He Grants Princess Kami-naga to His Son Oho-sazaki) §4",
+      "chapterRef": "107"
+    },
+    {
+      "reference": "107.5",
+      "label": "Section CVII — Emperor Ō-jin (Part IV.—He Grants Princess Kami-naga to His Son Oho-sazaki) §5",
+      "chapterRef": "107"
+    },
+    {
+      "reference": "107.6",
+      "label": "Section CVII — Emperor Ō-jin (Part IV.—He Grants Princess Kami-naga to His Son Oho-sazaki) §6",
+      "chapterRef": "107"
+    },
+    {
+      "reference": "107.7",
+      "label": "Section CVII — Emperor Ō-jin (Part IV.—He Grants Princess Kami-naga to His Son Oho-sazaki) §7",
+      "chapterRef": "107"
+    },
+    {
+      "reference": "107.8",
+      "label": "Section CVII — Emperor Ō-jin (Part IV.—He Grants Princess Kami-naga to His Son Oho-sazaki) §8",
+      "chapterRef": "107"
+    },
+    {
+      "reference": "108.1",
+      "label": "Section CVIII — Emperor Ō-jin (Part V.—Songs of the Territorial Owners of Yeshinu) §1",
+      "chapterRef": "108"
+    },
+    {
+      "reference": "108.2",
+      "label": "Section CVIII — Emperor Ō-jin (Part V.—Songs of the Territorial Owners of Yeshinu) §2",
+      "chapterRef": "108"
+    },
+    {
+      "reference": "108.3",
+      "label": "Section CVIII — Emperor Ō-jin (Part V.—Songs of the Territorial Owners of Yeshinu) §3",
+      "chapterRef": "108"
+    },
+    {
+      "reference": "108.4",
+      "label": "Section CVIII — Emperor Ō-jin (Part V.—Songs of the Territorial Owners of Yeshinu) §4",
+      "chapterRef": "108"
+    },
+    {
+      "reference": "108.5",
+      "label": "Section CVIII — Emperor Ō-jin (Part V.—Songs of the Territorial Owners of Yeshinu) §5",
+      "chapterRef": "108"
+    },
+    {
+      "reference": "109.1",
+      "label": "Section CIX — Emperor Ō-jin (Part VI.—Various Deeds) §1",
+      "chapterRef": "109"
+    },
+    {
+      "reference": "110.1",
+      "label": "Section CX — Emperor Ō-jin (Part VII.—Tribute From Korea) §1",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "111.1",
+      "label": "Section CXI — Emperor Ō-jin (Part VIII.—The Emperor Intoxicated) §1",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.2",
+      "label": "Section CXI — Emperor Ō-jin (Part VIII.—The Emperor Intoxicated) §2",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.3",
+      "label": "Section CXI — Emperor Ō-jin (Part VIII.—The Emperor Intoxicated) §3",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "112.1",
+      "label": "Section CXII — Emperor Ō-jin (Part IX.—Troubles Which Followed His Decease) §1",
+      "chapterRef": "112"
+    },
+    {
+      "reference": "112.2",
+      "label": "Section CXII — Emperor Ō-jin (Part IX.—Troubles Which Followed His Decease) §2",
+      "chapterRef": "112"
+    },
+    {
+      "reference": "112.3",
+      "label": "Section CXII — Emperor Ō-jin (Part IX.—Troubles Which Followed His Decease) §3",
+      "chapterRef": "112"
+    },
+    {
+      "reference": "112.4",
+      "label": "Section CXII — Emperor Ō-jin (Part IX.—Troubles Which Followed His Decease) §4",
+      "chapterRef": "112"
+    },
+    {
+      "reference": "112.5",
+      "label": "Section CXII — Emperor Ō-jin (Part IX.—Troubles Which Followed His Decease) §5",
+      "chapterRef": "112"
+    },
+    {
+      "reference": "113.1",
+      "label": "Section CXIII — Emperor Ō-jin (Part X.—Princes Oho-sazaki and Uji-no-waki-iratsuko Cede the Empire to Each Other) §1",
+      "chapterRef": "113"
+    },
+    {
+      "reference": "114.1",
+      "label": "Section CXIV — Emperor Ō-jin (Part XI.—Ama-no-hi-boko Crosses Over to Japan) §1",
+      "chapterRef": "114"
+    },
+    {
+      "reference": "115.1",
+      "label": "Section CXV — Emperor Ō-jin (Part XII.—Descendants of Ama-no-hi-boko, and Treasures Brought by Him) §1",
+      "chapterRef": "115"
+    },
+    {
+      "reference": "116.1",
+      "label": "Section CXVI — Emperor Ō-jin (Part XIII.—The Youth-of-the-Glow-on-the-Autumn-Mountains and the Youth-of-the-Haze-on-the-Spring-Mountains) §1",
+      "chapterRef": "116"
+    },
+    {
+      "reference": "117.1",
+      "label": "Section CXVII — Emperor Ō-jin (Part XVI.—Genealogies) §1",
+      "chapterRef": "117"
+    },
+    {
+      "reference": "118.1",
+      "label": "Section CXVIII — Emperor Ō-jin (Part XV.—His Age and Place of Burial) §1",
+      "chapterRef": "118"
+    },
+    {
+      "reference": "119.1",
+      "label": "Section CXIX — Emperor Nin-toku (Part I.—Genealogies) §1",
+      "chapterRef": "119"
+    },
+    {
+      "reference": "120.1",
+      "label": "Section CXX — Emperor Nin-toku (Part II.—Various Deeds) §1",
+      "chapterRef": "120"
+    },
+    {
+      "reference": "121.1",
+      "label": "Section CXXI — Emperor Nin-toku (Part III.—He Remits the Taxes) §1",
+      "chapterRef": "121"
+    },
+    {
+      "reference": "122.1",
+      "label": "Section CXXII — Emperor Nin-toku (Part IV.—He Loves Princess Kuro) §1",
+      "chapterRef": "122"
+    },
+    {
+      "reference": "122.2",
+      "label": "Section CXXII — Emperor Nin-toku (Part IV.—He Loves Princess Kuro) §2",
+      "chapterRef": "122"
+    },
+    {
+      "reference": "122.3",
+      "label": "Section CXXII — Emperor Nin-toku (Part IV.—He Loves Princess Kuro) §3",
+      "chapterRef": "122"
+    },
+    {
+      "reference": "122.4",
+      "label": "Section CXXII — Emperor Nin-toku (Part IV.—He Loves Princess Kuro) §4",
+      "chapterRef": "122"
+    },
+    {
+      "reference": "122.5",
+      "label": "Section CXXII — Emperor Nin-toku (Part IV.—He Loves Princess Kuro) §5",
+      "chapterRef": "122"
+    },
+    {
+      "reference": "122.6",
+      "label": "Section CXXII — Emperor Nin-toku (Part IV.—He Loves Princess Kuro) §6",
+      "chapterRef": "122"
+    },
+    {
+      "reference": "122.7",
+      "label": "Section CXXII — Emperor Nin-toku (Part IV.—He Loves Princess Kuro) §7",
+      "chapterRef": "122"
+    },
+    {
+      "reference": "122.8",
+      "label": "Section CXXII — Emperor Nin-toku (Part IV.—He Loves Princess Kuro) §8",
+      "chapterRef": "122"
+    },
+    {
+      "reference": "122.9",
+      "label": "Section CXXII — Emperor Nin-toku (Part IV.—He Loves Princess Kuro) §9",
+      "chapterRef": "122"
+    },
+    {
+      "reference": "122.10",
+      "label": "Section CXXII — Emperor Nin-toku (Part IV.—He Loves Princess Kuro) §10",
+      "chapterRef": "122"
+    },
+    {
+      "reference": "123.1",
+      "label": "Section CXXIII — Emperor Nin-toku (Part V.—The Empress Retires to Yamashiro) §1",
+      "chapterRef": "123"
+    },
+    {
+      "reference": "123.2",
+      "label": "Section CXXIII — Emperor Nin-toku (Part V.—The Empress Retires to Yamashiro) §2",
+      "chapterRef": "123"
+    },
+    {
+      "reference": "123.3",
+      "label": "Section CXXIII — Emperor Nin-toku (Part V.—The Empress Retires to Yamashiro) §3",
+      "chapterRef": "123"
+    },
+    {
+      "reference": "123.4",
+      "label": "Section CXXIII — Emperor Nin-toku (Part V.—The Empress Retires to Yamashiro) §4",
+      "chapterRef": "123"
+    },
+    {
+      "reference": "123.5",
+      "label": "Section CXXIII — Emperor Nin-toku (Part V.—The Empress Retires to Yamashiro) §5",
+      "chapterRef": "123"
+    },
+    {
+      "reference": "123.6",
+      "label": "Section CXXIII — Emperor Nin-toku (Part V.—The Empress Retires to Yamashiro) §6",
+      "chapterRef": "123"
+    },
+    {
+      "reference": "124.1",
+      "label": "Section CXXIV — Emperor Nin-toku (Part VI.—He Follows the Empress Into Yamashiro) §1",
+      "chapterRef": "124"
+    },
+    {
+      "reference": "124.2",
+      "label": "Section CXXIV — Emperor Nin-toku (Part VI.—He Follows the Empress Into Yamashiro) §2",
+      "chapterRef": "124"
+    },
+    {
+      "reference": "124.3",
+      "label": "Section CXXIV — Emperor Nin-toku (Part VI.—He Follows the Empress Into Yamashiro) §3",
+      "chapterRef": "124"
+    },
+    {
+      "reference": "124.4",
+      "label": "Section CXXIV — Emperor Nin-toku (Part VI.—He Follows the Empress Into Yamashiro) §4",
+      "chapterRef": "124"
+    },
+    {
+      "reference": "124.5",
+      "label": "Section CXXIV — Emperor Nin-toku (Part VI.—He Follows the Empress Into Yamashiro) §5",
+      "chapterRef": "124"
+    },
+    {
+      "reference": "124.6",
+      "label": "Section CXXIV — Emperor Nin-toku (Part VI.—He Follows the Empress Into Yamashiro) §6",
+      "chapterRef": "124"
+    },
+    {
+      "reference": "124.7",
+      "label": "Section CXXIV — Emperor Nin-toku (Part VI.—He Follows the Empress Into Yamashiro) §7",
+      "chapterRef": "124"
+    },
+    {
+      "reference": "124.8",
+      "label": "Section CXXIV — Emperor Nin-toku (Part VI.—He Follows the Empress Into Yamashiro) §8",
+      "chapterRef": "124"
+    },
+    {
+      "reference": "124.9",
+      "label": "Section CXXIV — Emperor Nin-toku (Part VI.—He Follows the Empress Into Yamashiro) §9",
+      "chapterRef": "124"
+    },
+    {
+      "reference": "124.10",
+      "label": "Section CXXIV — Emperor Nin-toku (Part VI.—He Follows the Empress Into Yamashiro) §10",
+      "chapterRef": "124"
+    },
+    {
+      "reference": "124.11",
+      "label": "Section CXXIV — Emperor Nin-toku (Part VI.—He Follows the Empress Into Yamashiro) §11",
+      "chapterRef": "124"
+    },
+    {
+      "reference": "125.1",
+      "label": "Section CXXV — Emperor Nin-toku (Part VII.—He Loves Yata-no-waki-iratsume) §1",
+      "chapterRef": "125"
+    },
+    {
+      "reference": "125.2",
+      "label": "Section CXXV — Emperor Nin-toku (Part VII.—He Loves Yata-no-waki-iratsume) §2",
+      "chapterRef": "125"
+    },
+    {
+      "reference": "125.3",
+      "label": "Section CXXV — Emperor Nin-toku (Part VII.—He Loves Yata-no-waki-iratsume) §3",
+      "chapterRef": "125"
+    },
+    {
+      "reference": "125.4",
+      "label": "Section CXXV — Emperor Nin-toku (Part VII.—He Loves Yata-no-waki-iratsume) §4",
+      "chapterRef": "125"
+    },
+    {
+      "reference": "125.5",
+      "label": "Section CXXV — Emperor Nin-toku (Part VII.—He Loves Yata-no-waki-iratsume) §5",
+      "chapterRef": "125"
+    },
+    {
+      "reference": "126.1",
+      "label": "Section CXXVI — Emperor Nin-toku (Part VIII.—Death of King Hayabusa-wake and Queen Medori) §1",
+      "chapterRef": "126"
+    },
+    {
+      "reference": "126.2",
+      "label": "Section CXXVI — Emperor Nin-toku (Part VIII.—Death of King Hayabusa-wake and Queen Medori) §2",
+      "chapterRef": "126"
+    },
+    {
+      "reference": "126.3",
+      "label": "Section CXXVI — Emperor Nin-toku (Part VIII.—Death of King Hayabusa-wake and Queen Medori) §3",
+      "chapterRef": "126"
+    },
+    {
+      "reference": "126.4",
+      "label": "Section CXXVI — Emperor Nin-toku (Part VIII.—Death of King Hayabusa-wake and Queen Medori) §4",
+      "chapterRef": "126"
+    },
+    {
+      "reference": "126.5",
+      "label": "Section CXXVI — Emperor Nin-toku (Part VIII.—Death of King Hayabusa-wake and Queen Medori) §5",
+      "chapterRef": "126"
+    },
+    {
+      "reference": "126.6",
+      "label": "Section CXXVI — Emperor Nin-toku (Part VIII.—Death of King Hayabusa-wake and Queen Medori) §6",
+      "chapterRef": "126"
+    },
+    {
+      "reference": "126.7",
+      "label": "Section CXXVI — Emperor Nin-toku (Part VIII.—Death of King Hayabusa-wake and Queen Medori) §7",
+      "chapterRef": "126"
+    },
+    {
+      "reference": "126.8",
+      "label": "Section CXXVI — Emperor Nin-toku (Part VIII.—Death of King Hayabusa-wake and Queen Medori) §8",
+      "chapterRef": "126"
+    },
+    {
+      "reference": "126.9",
+      "label": "Section CXXVI — Emperor Nin-toku (Part VIII.—Death of King Hayabusa-wake and Queen Medori) §9",
+      "chapterRef": "126"
+    },
+    {
+      "reference": "126.10",
+      "label": "Section CXXVI — Emperor Nin-toku (Part VIII.—Death of King Hayabusa-wake and Queen Medori) §10",
+      "chapterRef": "126"
+    },
+    {
+      "reference": "126.11",
+      "label": "Section CXXVI — Emperor Nin-toku (Part VIII.—Death of King Hayabusa-wake and Queen Medori) §11",
+      "chapterRef": "126"
+    },
+    {
+      "reference": "127.1",
+      "label": "Section CXXVII — Emperor Nin-toku (Part VIII.—Queen Medori’s Armlet) §1",
+      "chapterRef": "127"
+    },
+    {
+      "reference": "128.1",
+      "label": "Section CXXVIII — Emperor Nin-toku (Part IX.—A Wild-goose Lays an Egg) §1",
+      "chapterRef": "128"
+    },
+    {
+      "reference": "128.2",
+      "label": "Section CXXVIII — Emperor Nin-toku (Part IX.—A Wild-goose Lays an Egg) §2",
+      "chapterRef": "128"
+    },
+    {
+      "reference": "128.3",
+      "label": "Section CXXVIII — Emperor Nin-toku (Part IX.—A Wild-goose Lays an Egg) §3",
+      "chapterRef": "128"
+    },
+    {
+      "reference": "128.4",
+      "label": "Section CXXVIII — Emperor Nin-toku (Part IX.—A Wild-goose Lays an Egg) §4",
+      "chapterRef": "128"
+    },
+    {
+      "reference": "128.5",
+      "label": "Section CXXVIII — Emperor Nin-toku (Part IX.—A Wild-goose Lays an Egg) §5",
+      "chapterRef": "128"
+    },
+    {
+      "reference": "128.6",
+      "label": "Section CXXVIII — Emperor Nin-toku (Part IX.—A Wild-goose Lays an Egg) §6",
+      "chapterRef": "128"
+    },
+    {
+      "reference": "128.7",
+      "label": "Section CXXVIII — Emperor Nin-toku (Part IX.—A Wild-goose Lays an Egg) §7",
+      "chapterRef": "128"
+    },
+    {
+      "reference": "129.1",
+      "label": "Section CXXIX — Emperor Nin-toku (Part X.—A Vessel is Made Into a Lute) §1",
+      "chapterRef": "129"
+    },
+    {
+      "reference": "129.2",
+      "label": "Section CXXIX — Emperor Nin-toku (Part X.—A Vessel is Made Into a Lute) §2",
+      "chapterRef": "129"
+    },
+    {
+      "reference": "129.3",
+      "label": "Section CXXIX — Emperor Nin-toku (Part X.—A Vessel is Made Into a Lute) §3",
+      "chapterRef": "129"
+    },
+    {
+      "reference": "130.1",
+      "label": "Section CXXX — Emperor Nin-toku (Part XI.—His Age and Place of Burial) §1",
+      "chapterRef": "130"
+    },
+    {
+      "reference": "131.1",
+      "label": "Section CXXXI — Emperor Ri-chiū (Part I.—Genealogies) §1",
+      "chapterRef": "131"
+    },
+    {
+      "reference": "132.1",
+      "label": "Section CXXXII — Emperor Ri-chiū (Part II.—He is Taken to Iso-no-Kami) §1",
+      "chapterRef": "132"
+    },
+    {
+      "reference": "132.2",
+      "label": "Section CXXXII — Emperor Ri-chiū (Part II.—He is Taken to Iso-no-Kami) §2",
+      "chapterRef": "132"
+    },
+    {
+      "reference": "132.3",
+      "label": "Section CXXXII — Emperor Ri-chiū (Part II.—He is Taken to Iso-no-Kami) §3",
+      "chapterRef": "132"
+    },
+    {
+      "reference": "132.4",
+      "label": "Section CXXXII — Emperor Ri-chiū (Part II.—He is Taken to Iso-no-Kami) §4",
+      "chapterRef": "132"
+    },
+    {
+      "reference": "132.5",
+      "label": "Section CXXXII — Emperor Ri-chiū (Part II.—He is Taken to Iso-no-Kami) §5",
+      "chapterRef": "132"
+    },
+    {
+      "reference": "132.6",
+      "label": "Section CXXXII — Emperor Ri-chiū (Part II.—He is Taken to Iso-no-Kami) §6",
+      "chapterRef": "132"
+    },
+    {
+      "reference": "133.1",
+      "label": "Section CXXXIII — Emperor Ri-chiū (Part III.—His Rebellious Brother and the Latter’s Retainer Sobakari are Slain) §1",
+      "chapterRef": "133"
+    },
+    {
+      "reference": "134.1",
+      "label": "Section CXXXIV — Emperor Ri-chiū (Part IV.—Various Deeds) §1",
+      "chapterRef": "134"
+    },
+    {
+      "reference": "135.1",
+      "label": "Section CXXXV — Emperor Ri-chiū (Part V.—His Age and Place of Burial) §1",
+      "chapterRef": "135"
+    },
+    {
+      "reference": "136.1",
+      "label": "Section CXXXVI — Emperor Han-zei §1",
+      "chapterRef": "136"
+    },
+    {
+      "reference": "137.1",
+      "label": "Section CXXXVII — Emperor In-giyō[1] (Part I.—Genealogies) §1",
+      "chapterRef": "137"
+    },
+    {
+      "reference": "138.1",
+      "label": "Section CXXXVIII — Emperor In-giyō (Part II.—His Sickness is Cured by a Korean Physician) §1",
+      "chapterRef": "138"
+    },
+    {
+      "reference": "139.1",
+      "label": "Section CXXXIX — Emperor In-giyō (Part III.—He Rectifies the People’s Names) §1",
+      "chapterRef": "139"
+    },
+    {
+      "reference": "140.1",
+      "label": "Section CXL — Emperor In-giyō (Part IV.—His Age and Place of Burial) §1",
+      "chapterRef": "140"
+    },
+    {
+      "reference": "141.1",
+      "label": "Section CXLI — Emperor In-giyō (Part V.—Prince Karu Loves His Sister Princess So-tohoshi) §1",
+      "chapterRef": "141"
+    },
+    {
+      "reference": "141.2",
+      "label": "Section CXLI — Emperor In-giyō (Part V.—Prince Karu Loves His Sister Princess So-tohoshi) §2",
+      "chapterRef": "141"
+    },
+    {
+      "reference": "141.3",
+      "label": "Section CXLI — Emperor In-giyō (Part V.—Prince Karu Loves His Sister Princess So-tohoshi) §3",
+      "chapterRef": "141"
+    },
+    {
+      "reference": "141.4",
+      "label": "Section CXLI — Emperor In-giyō (Part V.—Prince Karu Loves His Sister Princess So-tohoshi) §4",
+      "chapterRef": "141"
+    },
+    {
+      "reference": "142.1",
+      "label": "Section CXLII — Emperor In-giyō (Part VI.—War Between Prince Karu and Prince Anaho) §1",
+      "chapterRef": "142"
+    },
+    {
+      "reference": "142.2",
+      "label": "Section CXLII — Emperor In-giyō (Part VI.—War Between Prince Karu and Prince Anaho) §2",
+      "chapterRef": "142"
+    },
+    {
+      "reference": "142.3",
+      "label": "Section CXLII — Emperor In-giyō (Part VI.—War Between Prince Karu and Prince Anaho) §3",
+      "chapterRef": "142"
+    },
+    {
+      "reference": "142.4",
+      "label": "Section CXLII — Emperor In-giyō (Part VI.—War Between Prince Karu and Prince Anaho) §4",
+      "chapterRef": "142"
+    },
+    {
+      "reference": "142.5",
+      "label": "Section CXLII — Emperor In-giyō (Part VI.—War Between Prince Karu and Prince Anaho) §5",
+      "chapterRef": "142"
+    },
+    {
+      "reference": "142.6",
+      "label": "Section CXLII — Emperor In-giyō (Part VI.—War Between Prince Karu and Prince Anaho) §6",
+      "chapterRef": "142"
+    },
+    {
+      "reference": "142.7",
+      "label": "Section CXLII — Emperor In-giyō (Part VI.—War Between Prince Karu and Prince Anaho) §7",
+      "chapterRef": "142"
+    },
+    {
+      "reference": "142.8",
+      "label": "Section CXLII — Emperor In-giyō (Part VI.—War Between Prince Karu and Prince Anaho) §8",
+      "chapterRef": "142"
+    },
+    {
+      "reference": "142.9",
+      "label": "Section CXLII — Emperor In-giyō (Part VI.—War Between Prince Karu and Prince Anaho) §9",
+      "chapterRef": "142"
+    },
+    {
+      "reference": "142.10",
+      "label": "Section CXLII — Emperor In-giyō (Part VI.—War Between Prince Karu and Prince Anaho) §10",
+      "chapterRef": "142"
+    },
+    {
+      "reference": "143.1",
+      "label": "Section CXLIII — Emperor In-giyō (Part VII.—Death of Prince Karu and Princess So-tohoshi) §1",
+      "chapterRef": "143"
+    },
+    {
+      "reference": "143.2",
+      "label": "Section CXLIII — Emperor In-giyō (Part VII.—Death of Prince Karu and Princess So-tohoshi) §2",
+      "chapterRef": "143"
+    },
+    {
+      "reference": "143.3",
+      "label": "Section CXLIII — Emperor In-giyō (Part VII.—Death of Prince Karu and Princess So-tohoshi) §3",
+      "chapterRef": "143"
+    },
+    {
+      "reference": "143.4",
+      "label": "Section CXLIII — Emperor In-giyō (Part VII.—Death of Prince Karu and Princess So-tohoshi) §4",
+      "chapterRef": "143"
+    },
+    {
+      "reference": "143.5",
+      "label": "Section CXLIII — Emperor In-giyō (Part VII.—Death of Prince Karu and Princess So-tohoshi) §5",
+      "chapterRef": "143"
+    },
+    {
+      "reference": "143.6",
+      "label": "Section CXLIII — Emperor In-giyō (Part VII.—Death of Prince Karu and Princess So-tohoshi) §6",
+      "chapterRef": "143"
+    },
+    {
+      "reference": "143.7",
+      "label": "Section CXLIII — Emperor In-giyō (Part VII.—Death of Prince Karu and Princess So-tohoshi) §7",
+      "chapterRef": "143"
+    },
+    {
+      "reference": "143.8",
+      "label": "Section CXLIII — Emperor In-giyō (Part VII.—Death of Prince Karu and Princess So-tohoshi) §8",
+      "chapterRef": "143"
+    },
+    {
+      "reference": "143.9",
+      "label": "Section CXLIII — Emperor In-giyō (Part VII.—Death of Prince Karu and Princess So-tohoshi) §9",
+      "chapterRef": "143"
+    },
+    {
+      "reference": "143.10",
+      "label": "Section CXLIII — Emperor In-giyō (Part VII.—Death of Prince Karu and Princess So-tohoshi) §10",
+      "chapterRef": "143"
+    },
+    {
+      "reference": "143.11",
+      "label": "Section CXLIII — Emperor In-giyō (Part VII.—Death of Prince Karu and Princess So-tohoshi) §11",
+      "chapterRef": "143"
+    },
+    {
+      "reference": "143.12",
+      "label": "Section CXLIII — Emperor In-giyō (Part VII.—Death of Prince Karu and Princess So-tohoshi) §12",
+      "chapterRef": "143"
+    },
+    {
+      "reference": "144.1",
+      "label": "Section CXLIV — Emperor An-kō (Part I.—He Slays King Oho-kusaka) §1",
+      "chapterRef": "144"
+    },
+    {
+      "reference": "145.1",
+      "label": "Section CXLV — Emperor An-kō (Part II.—He is Slain by King Ma-yowa) §1",
+      "chapterRef": "145"
+    },
+    {
+      "reference": "146.1",
+      "label": "Section CXLVI — Emperor An-kō (Part III.—Prince Oho-hatsuse Slays Princes Kuro-biko and Shiro-biko) §1",
+      "chapterRef": "146"
+    },
+    {
+      "reference": "147.1",
+      "label": "Section CXLVII — Emperor An-kō (Part IV.—Death of Prince Ma-yowa and of the Grandee Tsubura) §1",
+      "chapterRef": "147"
+    },
+    {
+      "reference": "148.1",
+      "label": "Section CXLVIII — Emperor An-kō (Part V.—Prince Oho-hatsuse Slays Prince Oshiha) §1",
+      "chapterRef": "148"
+    },
+    {
+      "reference": "149.1",
+      "label": "Section CXLIX — Emperor An-kō (Part VI.—Flight of Princes Ohoke and Woke) ] §1",
+      "chapterRef": "149"
+    },
+    {
+      "reference": "150.1",
+      "label": "Section CL — Emperor Yū-riyaku (Part I.—Genealogies) §1",
+      "chapterRef": "150"
+    },
+    {
+      "reference": "151.1",
+      "label": "Section CLI — Emperor Yū-riyaku (Part II.—Various Deeds) §1",
+      "chapterRef": "151"
+    },
+    {
+      "reference": "152.1",
+      "label": "Section CLII — Emperor Yū-riyaku (Part III.—The Roof of the House of the Great Departmental Lord of Shiki) §1",
+      "chapterRef": "152"
+    },
+    {
+      "reference": "153.1",
+      "label": "Section CLIII — Emperor Yū-riyaku (Part IV.—He Wooes Princess Waka-kusaka-be) §1",
+      "chapterRef": "153"
+    },
+    {
+      "reference": "153.2",
+      "label": "Section CLIII — Emperor Yū-riyaku (Part IV.—He Wooes Princess Waka-kusaka-be) §2",
+      "chapterRef": "153"
+    },
+    {
+      "reference": "154.1",
+      "label": "Section CLIV — Emperor Yū-riyaku (Part V.—Story of the Woman Akawi-ko) §1",
+      "chapterRef": "154"
+    },
+    {
+      "reference": "154.2",
+      "label": "Section CLIV — Emperor Yū-riyaku (Part V.—Story of the Woman Akawi-ko) §2",
+      "chapterRef": "154"
+    },
+    {
+      "reference": "154.3",
+      "label": "Section CLIV — Emperor Yū-riyaku (Part V.—Story of the Woman Akawi-ko) §3",
+      "chapterRef": "154"
+    },
+    {
+      "reference": "154.4",
+      "label": "Section CLIV — Emperor Yū-riyaku (Part V.—Story of the Woman Akawi-ko) §4",
+      "chapterRef": "154"
+    },
+    {
+      "reference": "154.5",
+      "label": "Section CLIV — Emperor Yū-riyaku (Part V.—Story of the Woman Akawi-ko) §5",
+      "chapterRef": "154"
+    },
+    {
+      "reference": "154.6",
+      "label": "Section CLIV — Emperor Yū-riyaku (Part V.—Story of the Woman Akawi-ko) §6",
+      "chapterRef": "154"
+    },
+    {
+      "reference": "154.7",
+      "label": "Section CLIV — Emperor Yū-riyaku (Part V.—Story of the Woman Akawi-ko) §7",
+      "chapterRef": "154"
+    },
+    {
+      "reference": "154.8",
+      "label": "Section CLIV — Emperor Yū-riyaku (Part V.—Story of the Woman Akawi-ko) §8",
+      "chapterRef": "154"
+    },
+    {
+      "reference": "154.9",
+      "label": "Section CLIV — Emperor Yū-riyaku (Part V.—Story of the Woman Akawi-ko) §9",
+      "chapterRef": "154"
+    },
+    {
+      "reference": "155.1",
+      "label": "Section CLV — Emperor Yū-riyaku (Part VI.—He Makes a Progress to Yeshinu) §1",
+      "chapterRef": "155"
+    },
+    {
+      "reference": "155.2",
+      "label": "Section CLV — Emperor Yū-riyaku (Part VI.—He Makes a Progress to Yeshinu) §2",
+      "chapterRef": "155"
+    },
+    {
+      "reference": "156.1",
+      "label": "Section CLVI — Emperor Yū-riyaku (Part VII.—The Horse-fly and the Dragon-fly) §1",
+      "chapterRef": "156"
+    },
+    {
+      "reference": "156.2",
+      "label": "Section CLVI — Emperor Yū-riyaku (Part VII.—The Horse-fly and the Dragon-fly) §2",
+      "chapterRef": "156"
+    },
+    {
+      "reference": "156.3",
+      "label": "Section CLVI — Emperor Yū-riyaku (Part VII.—The Horse-fly and the Dragon-fly) §3",
+      "chapterRef": "156"
+    },
+    {
+      "reference": "157.1",
+      "label": "Section CLVII — Emperor Yū-riyaku (Part VIII.—Adventure with a Wild Boar) §1",
+      "chapterRef": "157"
+    },
+    {
+      "reference": "157.2",
+      "label": "Section CLVII — Emperor Yū-riyaku (Part VIII.—Adventure with a Wild Boar) §2",
+      "chapterRef": "157"
+    },
+    {
+      "reference": "158.1",
+      "label": "Section CLVIII — Emperor Yū-riyaku (Part IX.—Revelation of the Great Deity of Kadzuraki, Lord of One Word) §1",
+      "chapterRef": "158"
+    },
+    {
+      "reference": "159.1",
+      "label": "Section CLIX — Emperor Yū-riyaku (Part X.—The Mound of the Metal Spade) §1",
+      "chapterRef": "159"
+    },
+    {
+      "reference": "159.2",
+      "label": "Section CLIX — Emperor Yū-riyaku (Part X.—The Mound of the Metal Spade) §2",
+      "chapterRef": "159"
+    },
+    {
+      "reference": "159.3",
+      "label": "Section CLIX — Emperor Yū-riyaku (Part X.—The Mound of the Metal Spade) §3",
+      "chapterRef": "159"
+    },
+    {
+      "reference": "160.1",
+      "label": "Section CLX — Emperor Yū-riyaku (Part XI.—The Leaf in the Cup) §1",
+      "chapterRef": "160"
+    },
+    {
+      "reference": "160.2",
+      "label": "Section CLX — Emperor Yū-riyaku (Part XI.—The Leaf in the Cup) §2",
+      "chapterRef": "160"
+    },
+    {
+      "reference": "160.3",
+      "label": "Section CLX — Emperor Yū-riyaku (Part XI.—The Leaf in the Cup) §3",
+      "chapterRef": "160"
+    },
+    {
+      "reference": "160.4",
+      "label": "Section CLX — Emperor Yū-riyaku (Part XI.—The Leaf in the Cup) §4",
+      "chapterRef": "160"
+    },
+    {
+      "reference": "160.5",
+      "label": "Section CLX — Emperor Yū-riyaku (Part XI.—The Leaf in the Cup) §5",
+      "chapterRef": "160"
+    },
+    {
+      "reference": "160.6",
+      "label": "Section CLX — Emperor Yū-riyaku (Part XI.—The Leaf in the Cup) §6",
+      "chapterRef": "160"
+    },
+    {
+      "reference": "160.7",
+      "label": "Section CLX — Emperor Yū-riyaku (Part XI.—The Leaf in the Cup) §7",
+      "chapterRef": "160"
+    },
+    {
+      "reference": "160.8",
+      "label": "Section CLX — Emperor Yū-riyaku (Part XI.—The Leaf in the Cup) §8",
+      "chapterRef": "160"
+    },
+    {
+      "reference": "160.9",
+      "label": "Section CLX — Emperor Yū-riyaku (Part XI.—The Leaf in the Cup) §9",
+      "chapterRef": "160"
+    },
+    {
+      "reference": "161.1",
+      "label": "Section CLXI — Emperor Yū-riyaku (Part XII.—Songs by the Emperor and Princess Wodo) §1",
+      "chapterRef": "161"
+    },
+    {
+      "reference": "161.2",
+      "label": "Section CLXI — Emperor Yū-riyaku (Part XII.—Songs by the Emperor and Princess Wodo) §2",
+      "chapterRef": "161"
+    },
+    {
+      "reference": "161.3",
+      "label": "Section CLXI — Emperor Yū-riyaku (Part XII.—Songs by the Emperor and Princess Wodo) §3",
+      "chapterRef": "161"
+    },
+    {
+      "reference": "161.4",
+      "label": "Section CLXI — Emperor Yū-riyaku (Part XII.—Songs by the Emperor and Princess Wodo) §4",
+      "chapterRef": "161"
+    },
+    {
+      "reference": "161.5",
+      "label": "Section CLXI — Emperor Yū-riyaku (Part XII.—Songs by the Emperor and Princess Wodo) §5",
+      "chapterRef": "161"
+    },
+    {
+      "reference": "162.1",
+      "label": "Section CLXII — Emperor Yū-riyaku (Part XIII.—His Age and Place of Burial) §1",
+      "chapterRef": "162"
+    },
+    {
+      "reference": "163.1",
+      "label": "Section CLXIII — Emperor Sei-nei (Part I.—Search for a Successor to Him) §1",
+      "chapterRef": "163"
+    },
+    {
+      "reference": "164.1",
+      "label": "Section CLXIV — Emperor Sei-nei (Part II.—Princes Ohoke and Woke Are Discovered) §1",
+      "chapterRef": "164"
+    },
+    {
+      "reference": "164.2",
+      "label": "Section CLXIV — Emperor Sei-nei (Part II.—Princes Ohoke and Woke Are Discovered) §2",
+      "chapterRef": "164"
+    },
+    {
+      "reference": "164.3",
+      "label": "Section CLXIV — Emperor Sei-nei (Part II.—Princes Ohoke and Woke Are Discovered) §3",
+      "chapterRef": "164"
+    },
+    {
+      "reference": "165.1",
+      "label": "Section CLXV — Emperor Sei-nei (Part III.—The Grandee Shibi).[1] §1",
+      "chapterRef": "165"
+    },
+    {
+      "reference": "165.2",
+      "label": "Section CLXV — Emperor Sei-nei (Part III.—The Grandee Shibi).[1] §2",
+      "chapterRef": "165"
+    },
+    {
+      "reference": "165.3",
+      "label": "Section CLXV — Emperor Sei-nei (Part III.—The Grandee Shibi).[1] §3",
+      "chapterRef": "165"
+    },
+    {
+      "reference": "165.4",
+      "label": "Section CLXV — Emperor Sei-nei (Part III.—The Grandee Shibi).[1] §4",
+      "chapterRef": "165"
+    },
+    {
+      "reference": "165.5",
+      "label": "Section CLXV — Emperor Sei-nei (Part III.—The Grandee Shibi).[1] §5",
+      "chapterRef": "165"
+    },
+    {
+      "reference": "165.6",
+      "label": "Section CLXV — Emperor Sei-nei (Part III.—The Grandee Shibi).[1] §6",
+      "chapterRef": "165"
+    },
+    {
+      "reference": "165.7",
+      "label": "Section CLXV — Emperor Sei-nei (Part III.—The Grandee Shibi).[1] §7",
+      "chapterRef": "165"
+    },
+    {
+      "reference": "165.8",
+      "label": "Section CLXV — Emperor Sei-nei (Part III.—The Grandee Shibi).[1] §8",
+      "chapterRef": "165"
+    },
+    {
+      "reference": "165.9",
+      "label": "Section CLXV — Emperor Sei-nei (Part III.—The Grandee Shibi).[1] §9",
+      "chapterRef": "165"
+    },
+    {
+      "reference": "165.10",
+      "label": "Section CLXV — Emperor Sei-nei (Part III.—The Grandee Shibi).[1] §10",
+      "chapterRef": "165"
+    },
+    {
+      "reference": "165.11",
+      "label": "Section CLXV — Emperor Sei-nei (Part III.—The Grandee Shibi).[1] §11",
+      "chapterRef": "165"
+    },
+    {
+      "reference": "165.12",
+      "label": "Section CLXV — Emperor Sei-nei (Part III.—The Grandee Shibi).[1] §12",
+      "chapterRef": "165"
+    },
+    {
+      "reference": "166.1",
+      "label": "Section CLXVI — Emperor Sei-nei (Part IV.—Prince Ohoke Cedes the Empire to Prince Woke) §1",
+      "chapterRef": "166"
+    },
+    {
+      "reference": "167.1",
+      "label": "Section CLXVII — Emperor Ken-zō (Part I.—The Old Woman Oki-me) §1",
+      "chapterRef": "167"
+    },
+    {
+      "reference": "167.2",
+      "label": "Section CLXVII — Emperor Ken-zō (Part I.—The Old Woman Oki-me) §2",
+      "chapterRef": "167"
+    },
+    {
+      "reference": "167.3",
+      "label": "Section CLXVII — Emperor Ken-zō (Part I.—The Old Woman Oki-me) §3",
+      "chapterRef": "167"
+    },
+    {
+      "reference": "167.4",
+      "label": "Section CLXVII — Emperor Ken-zō (Part I.—The Old Woman Oki-me) §4",
+      "chapterRef": "167"
+    },
+    {
+      "reference": "168.1",
+      "label": "Section CLXVIII — Emperor Ken-zō (Part II.—He Slays the Boar-herd) §1",
+      "chapterRef": "168"
+    },
+    {
+      "reference": "169.1",
+      "label": "Section CLXIX — Emperor Ken-zō (Part III.—The Emperor Yū-riyaku’s Mausoleum is Disfigured) §1",
+      "chapterRef": "169"
+    },
+    {
+      "reference": "170.1",
+      "label": "Section CLXX — Emperor Ken-zō (Part IV.—His Age and Place of Burial) §1",
+      "chapterRef": "170"
+    },
+    {
+      "reference": "171.1",
+      "label": "Section CLXXI — Emperor Nin-ken.][1 §1",
+      "chapterRef": "171"
+    },
+    {
+      "reference": "172.1",
+      "label": "Section CLXXII — Emperor Mu-retsu §1",
+      "chapterRef": "172"
+    },
+    {
+      "reference": "173.1",
+      "label": "Section CLXXIII — Emperor Kei-tai §1",
+      "chapterRef": "173"
+    },
+    {
+      "reference": "174.1",
+      "label": "Section CLXXIV — Emperor An-kan §1",
+      "chapterRef": "174"
+    },
+    {
+      "reference": "175.1",
+      "label": "Section CLXXV — Emperor Sen-kuwa §1",
+      "chapterRef": "175"
+    },
+    {
+      "reference": "176.1",
+      "label": "Section CLXXVI — Emperor Kim-mei §1",
+      "chapterRef": "176"
+    },
+    {
+      "reference": "177.1",
+      "label": "Section CLXXVII — Emperor Bi-datsu §1",
+      "chapterRef": "177"
+    },
+    {
+      "reference": "178.1",
+      "label": "Section CLXXVIII — Emperor Yō-mei §1",
+      "chapterRef": "178"
+    },
+    {
+      "reference": "179.1",
+      "label": "Section CLXXIX — Emperor Su-jun §1",
+      "chapterRef": "179"
+    },
+    {
+      "reference": "180.1",
+      "label": "Section CLXXX — Empress Sui-ko §1",
+      "chapterRef": "180"
+    },
+    {
+      "reference": "180.2",
+      "label": "Section CLXXX — Empress Sui-ko §2",
+      "chapterRef": "180"
+    }
+  ],
+  "editions": [
+    {
+      "slug": "kojiki-en-chamberlain",
+      "language": "en",
+      "editionType": "translation",
+      "title": "Kojiki: Records of Ancient Matters",
+      "translator": "Basil Hall Chamberlain",
+      "publisher": "Asiatic Society of Japan; Wikisource",
+      "publicationYear": 1882,
+      "source": "wikisource",
+      "license": "public-domain",
+      "rightsStatus": "Public domain in the United States",
+      "attributionText": "Kojiki: Records of Ancient Matters, translated by Basil Hall Chamberlain (1882). Public domain in the United States. Page text from Wikisource, whose editorial contributions are CC BY-SA.",
+      "structureScheme": "one Wikisource page per printed division",
+      "isSample": false,
+      "notes": "Chamberlain's 1882 translation, the first complete English rendering, keeps his romanisation and his archaic register. His brackets mark words supplied for English syntax, and the translator's footnotes stand on the page as printed."
+    }
+  ]
+}

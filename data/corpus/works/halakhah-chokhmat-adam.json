@@ -1,0 +1,114 @@
+{
+  "slug": "halakhah-chokhmat-adam",
+  "title": "Chokhmat Adam",
+  "originalTitle": "חכמת אדם",
+  "transliteration": "",
+  "altTitles": [],
+  "tradition": "judaism",
+  "school": "rabbinic-judaism",
+  "genre": "Halakhah",
+  "textType": "Legal code and legal commentary",
+  "category": "Halakhah",
+  "subcategory": "Halakhah",
+  "originalLanguage": "he",
+  "dateStart": 200,
+  "dateEnd": 1600,
+  "dateDisplay": "Rabbinic legal literature, c. 200–1600 CE",
+  "authorshipStatus": "established",
+  "author": "",
+  "attributionNote": "Authorship follows the Sefaria catalogue record for this work. Where a text is traditionally attributed or collectively compiled, the library does not assert a single author beyond the source's own metadata.",
+  "description": "Sequel to Chayei Adam covering dietary regulations and other assorted laws, published in 1812. Complete Halakhah text imported from Sefaria; the exact edition and licence are shown with each version.",
+  "historicalContext": "Halakhah is the body of Jewish law and its literature: the codes that arrange it and the works that argue it. Codes compress centuries of debate, so they are presented as their own genre rather than as scripture.",
+  "availabilityNote": "Imported from Sefaria. Version, source and licence are recorded per edition.",
+  "featured": false,
+  "featuredNote": "",
+  "refScheme": "chapter.paragraph",
+  "isSample": false,
+  "textStorage": "streamed",
+  "chapters": [
+    {
+      "ref": "66",
+      "label": "Klal 66"
+    },
+    {
+      "ref": "75",
+      "label": "Klal 75"
+    }
+  ],
+  "passages": [
+    {
+      "reference": "66.1",
+      "label": "66:1",
+      "chapterRef": "66"
+    },
+    {
+      "reference": "66.2",
+      "label": "66:2",
+      "chapterRef": "66"
+    },
+    {
+      "reference": "66.3",
+      "label": "66:3",
+      "chapterRef": "66"
+    },
+    {
+      "reference": "66.4",
+      "label": "66:4",
+      "chapterRef": "66"
+    },
+    {
+      "reference": "66.5",
+      "label": "66:5",
+      "chapterRef": "66"
+    },
+    {
+      "reference": "66.6",
+      "label": "66:6",
+      "chapterRef": "66"
+    },
+    {
+      "reference": "66.7",
+      "label": "66:7",
+      "chapterRef": "66"
+    },
+    {
+      "reference": "75.1",
+      "label": "75:1",
+      "chapterRef": "75"
+    }
+  ],
+  "editions": [
+    {
+      "slug": "halakhah-chokhmat-adam-hebrew-sefaria",
+      "language": "he",
+      "editionType": "original",
+      "title": "Vilna, 1815",
+      "translator": "",
+      "publisher": "https://www.nli.org.il/he/books/NNL_ALEPH990018733440205171/NLI",
+      "publicationYear": null,
+      "source": "sefaria",
+      "license": "public-domain",
+      "rightsStatus": "Public Domain",
+      "attributionText": "Vilna, 1815; licence: Public Domain; source: https://www.nli.org.il/he/books/NNL_ALEPH990018733440205171/NLI. Retrieved via Sefaria on 2026-10-20.",
+      "structureScheme": "chapter and paragraph",
+      "isSample": false,
+      "notes": "Complete work imported from Sefaria. Text is displayed as supplied by the named edition; HTML markup has been removed."
+    },
+    {
+      "slug": "halakhah-chokhmat-adam-english-sefaria-1",
+      "language": "en",
+      "editionType": "translation",
+      "title": "Sefaria Community Translation",
+      "translator": "",
+      "publisher": "https://www.sefaria.org",
+      "publicationYear": null,
+      "source": "sefaria",
+      "license": "cc0-1.0",
+      "rightsStatus": "CC0",
+      "attributionText": "Sefaria Community Translation; licence: CC0; source: https://www.sefaria.org. Retrieved via Sefaria on 2026-10-20.",
+      "structureScheme": "chapter and paragraph",
+      "isSample": false,
+      "notes": "Complete work imported from Sefaria. Text is displayed as supplied by the named edition; HTML markup has been removed."
+    }
+  ]
+}

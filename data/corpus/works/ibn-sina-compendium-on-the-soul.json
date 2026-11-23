@@ -1,0 +1,958 @@
+{
+  "slug": "ibn-sina-compendium-on-the-soul",
+  "title": "A Compendium on the Soul",
+  "originalTitle": "مقالة في النفس",
+  "transliteration": "Maqāla fī al-Nafs",
+  "altTitles": [],
+  "tradition": "islam",
+  "school": "falsafa",
+  "genre": "Philosophy",
+  "textType": "Philosophical treatise",
+  "category": "Philosophy (Falsafa)",
+  "subcategory": "",
+  "originalLanguage": "ar",
+  "dateStart": 1020,
+  "dateEnd": 1027,
+  "dateDisplay": "early 11th century CE",
+  "authorshipStatus": "established",
+  "author": "ibn-sina",
+  "attributionNote": "The attribution is not disputed in the scholarship this catalogue follows.",
+  "description": "Ibn Sina's short treatise on the soul, in ten sections: the existence of the spiritual faculties, their division, the vegetative and animal powers, the five senses, the inward senses, and the argument that the soul is an immaterial substance. It is a compact route into the psychology that Avicenna's Latin readers inherited.",
+  "historicalContext": "Translated for the first time into English in 1906 from an Arabic manuscript, as part of the early twentieth-century recovery of Arabic philosophy in Europe.",
+  "availabilityNote": "Streamed from Project Gutenberg at read time: the whole plain-text edition is fetched and split at the chapter headings it prints. The 1906 translation by Edward Abbott van Dyck is public domain in the United States.",
+  "featured": false,
+  "featuredNote": "",
+  "refScheme": "chapter.paragraph",
+  "isSample": false,
+  "textStorage": "streamed",
+  "chapters": [
+    {
+      "ref": "1",
+      "label": "Preface"
+    },
+    {
+      "ref": "2",
+      "label": "Introduction"
+    },
+    {
+      "ref": "3",
+      "label": "Section First: The Existence of the Spiritual Faculties"
+    },
+    {
+      "ref": "4",
+      "label": "Section Second: The Division of the Spiritual Faculties"
+    },
+    {
+      "ref": "5",
+      "label": "Section Third: The Faculties Have No Common Origin"
+    },
+    {
+      "ref": "6",
+      "label": "Section Fourth: The Vegetable Powers"
+    },
+    {
+      "ref": "7",
+      "label": "Section Fifth: The Animal Powers"
+    },
+    {
+      "ref": "8",
+      "label": "Section Sixth: The Five Senses"
+    },
+    {
+      "ref": "9",
+      "label": "Section Seventh: The Inward Senses"
+    },
+    {
+      "ref": "10",
+      "label": "Section Eighth: A Sketch of the Human Soul"
+    },
+    {
+      "ref": "11",
+      "label": "Section Ninth: The Essentiality of the Soul"
+    },
+    {
+      "ref": "12",
+      "label": "Section Tenth: A Mental Essence Distinct from the Body"
+    }
+  ],
+  "passages": [
+    {
+      "reference": "1.1",
+      "label": "Preface §1",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.2",
+      "label": "Preface §2",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.3",
+      "label": "Preface §3",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.4",
+      "label": "Preface §4",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.5",
+      "label": "Preface §5",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.6",
+      "label": "Preface §6",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.7",
+      "label": "Preface §7",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.8",
+      "label": "Preface §8",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.9",
+      "label": "Preface §9",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.10",
+      "label": "Preface §10",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.11",
+      "label": "Preface §11",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.12",
+      "label": "Preface §12",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.13",
+      "label": "Preface §13",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.14",
+      "label": "Preface §14",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.15",
+      "label": "Preface §15",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.16",
+      "label": "Preface §16",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.17",
+      "label": "Preface §17",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.18",
+      "label": "Preface §18",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.19",
+      "label": "Preface §19",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.20",
+      "label": "Preface §20",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "2.1",
+      "label": "Introduction §1",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.2",
+      "label": "Introduction §2",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.3",
+      "label": "Introduction §3",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.4",
+      "label": "Introduction §4",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.5",
+      "label": "Introduction §5",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.6",
+      "label": "Introduction §6",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.7",
+      "label": "Introduction §7",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.8",
+      "label": "Introduction §8",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.9",
+      "label": "Introduction §9",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.10",
+      "label": "Introduction §10",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.11",
+      "label": "Introduction §11",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.12",
+      "label": "Introduction §12",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.13",
+      "label": "Introduction §13",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.14",
+      "label": "Introduction §14",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.15",
+      "label": "Introduction §15",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.16",
+      "label": "Introduction §16",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.17",
+      "label": "Introduction §17",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "3.1",
+      "label": "Section First: The Existence of the Spiritual Faculties §1",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.2",
+      "label": "Section First: The Existence of the Spiritual Faculties §2",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.3",
+      "label": "Section First: The Existence of the Spiritual Faculties §3",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.4",
+      "label": "Section First: The Existence of the Spiritual Faculties §4",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.5",
+      "label": "Section First: The Existence of the Spiritual Faculties §5",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.6",
+      "label": "Section First: The Existence of the Spiritual Faculties §6",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "4.1",
+      "label": "Section Second: The Division of the Spiritual Faculties §1",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.2",
+      "label": "Section Second: The Division of the Spiritual Faculties §2",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.3",
+      "label": "Section Second: The Division of the Spiritual Faculties §3",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.4",
+      "label": "Section Second: The Division of the Spiritual Faculties §4",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.5",
+      "label": "Section Second: The Division of the Spiritual Faculties §5",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.6",
+      "label": "Section Second: The Division of the Spiritual Faculties §6",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.7",
+      "label": "Section Second: The Division of the Spiritual Faculties §7",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.8",
+      "label": "Section Second: The Division of the Spiritual Faculties §8",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.9",
+      "label": "Section Second: The Division of the Spiritual Faculties §9",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.10",
+      "label": "Section Second: The Division of the Spiritual Faculties §10",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.11",
+      "label": "Section Second: The Division of the Spiritual Faculties §11",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.12",
+      "label": "Section Second: The Division of the Spiritual Faculties §12",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "5.1",
+      "label": "Section Third: The Faculties Have No Common Origin §1",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.2",
+      "label": "Section Third: The Faculties Have No Common Origin §2",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.3",
+      "label": "Section Third: The Faculties Have No Common Origin §3",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.4",
+      "label": "Section Third: The Faculties Have No Common Origin §4",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.5",
+      "label": "Section Third: The Faculties Have No Common Origin §5",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "6.1",
+      "label": "Section Fourth: The Vegetable Powers §1",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.2",
+      "label": "Section Fourth: The Vegetable Powers §2",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.3",
+      "label": "Section Fourth: The Vegetable Powers §3",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.4",
+      "label": "Section Fourth: The Vegetable Powers §4",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.5",
+      "label": "Section Fourth: The Vegetable Powers §5",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "7.1",
+      "label": "Section Fifth: The Animal Powers §1",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.2",
+      "label": "Section Fifth: The Animal Powers §2",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.3",
+      "label": "Section Fifth: The Animal Powers §3",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.4",
+      "label": "Section Fifth: The Animal Powers §4",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.5",
+      "label": "Section Fifth: The Animal Powers §5",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.6",
+      "label": "Section Fifth: The Animal Powers §6",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.7",
+      "label": "Section Fifth: The Animal Powers §7",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.8",
+      "label": "Section Fifth: The Animal Powers §8",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.9",
+      "label": "Section Fifth: The Animal Powers §9",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.10",
+      "label": "Section Fifth: The Animal Powers §10",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.11",
+      "label": "Section Fifth: The Animal Powers §11",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "8.1",
+      "label": "Section Sixth: The Five Senses §1",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.2",
+      "label": "Section Sixth: The Five Senses §2",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.3",
+      "label": "Section Sixth: The Five Senses §3",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.4",
+      "label": "Section Sixth: The Five Senses §4",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.5",
+      "label": "Section Sixth: The Five Senses §5",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.6",
+      "label": "Section Sixth: The Five Senses §6",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.7",
+      "label": "Section Sixth: The Five Senses §7",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.8",
+      "label": "Section Sixth: The Five Senses §8",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.9",
+      "label": "Section Sixth: The Five Senses §9",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.10",
+      "label": "Section Sixth: The Five Senses §10",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.11",
+      "label": "Section Sixth: The Five Senses §11",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.12",
+      "label": "Section Sixth: The Five Senses §12",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.13",
+      "label": "Section Sixth: The Five Senses §13",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.14",
+      "label": "Section Sixth: The Five Senses §14",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.15",
+      "label": "Section Sixth: The Five Senses §15",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.16",
+      "label": "Section Sixth: The Five Senses §16",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.17",
+      "label": "Section Sixth: The Five Senses §17",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.18",
+      "label": "Section Sixth: The Five Senses §18",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.19",
+      "label": "Section Sixth: The Five Senses §19",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "9.1",
+      "label": "Section Seventh: The Inward Senses §1",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.2",
+      "label": "Section Seventh: The Inward Senses §2",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.3",
+      "label": "Section Seventh: The Inward Senses §3",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.4",
+      "label": "Section Seventh: The Inward Senses §4",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.5",
+      "label": "Section Seventh: The Inward Senses §5",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.6",
+      "label": "Section Seventh: The Inward Senses §6",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.7",
+      "label": "Section Seventh: The Inward Senses §7",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.8",
+      "label": "Section Seventh: The Inward Senses §8",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.9",
+      "label": "Section Seventh: The Inward Senses §9",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.10",
+      "label": "Section Seventh: The Inward Senses §10",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.11",
+      "label": "Section Seventh: The Inward Senses §11",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.12",
+      "label": "Section Seventh: The Inward Senses §12",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.13",
+      "label": "Section Seventh: The Inward Senses §13",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.14",
+      "label": "Section Seventh: The Inward Senses §14",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.15",
+      "label": "Section Seventh: The Inward Senses §15",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.16",
+      "label": "Section Seventh: The Inward Senses §16",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.17",
+      "label": "Section Seventh: The Inward Senses §17",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.18",
+      "label": "Section Seventh: The Inward Senses §18",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.19",
+      "label": "Section Seventh: The Inward Senses §19",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.20",
+      "label": "Section Seventh: The Inward Senses §20",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.21",
+      "label": "Section Seventh: The Inward Senses §21",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.22",
+      "label": "Section Seventh: The Inward Senses §22",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.23",
+      "label": "Section Seventh: The Inward Senses §23",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.24",
+      "label": "Section Seventh: The Inward Senses §24",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.25",
+      "label": "Section Seventh: The Inward Senses §25",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.26",
+      "label": "Section Seventh: The Inward Senses §26",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.27",
+      "label": "Section Seventh: The Inward Senses §27",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.28",
+      "label": "Section Seventh: The Inward Senses §28",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.29",
+      "label": "Section Seventh: The Inward Senses §29",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.30",
+      "label": "Section Seventh: The Inward Senses §30",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "10.1",
+      "label": "Section Eighth: A Sketch of the Human Soul §1",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.2",
+      "label": "Section Eighth: A Sketch of the Human Soul §2",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.3",
+      "label": "Section Eighth: A Sketch of the Human Soul §3",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.4",
+      "label": "Section Eighth: A Sketch of the Human Soul §4",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.5",
+      "label": "Section Eighth: A Sketch of the Human Soul §5",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.6",
+      "label": "Section Eighth: A Sketch of the Human Soul §6",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.7",
+      "label": "Section Eighth: A Sketch of the Human Soul §7",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "11.1",
+      "label": "Section Ninth: The Essentiality of the Soul §1",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.2",
+      "label": "Section Ninth: The Essentiality of the Soul §2",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.3",
+      "label": "Section Ninth: The Essentiality of the Soul §3",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.4",
+      "label": "Section Ninth: The Essentiality of the Soul §4",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.5",
+      "label": "Section Ninth: The Essentiality of the Soul §5",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.6",
+      "label": "Section Ninth: The Essentiality of the Soul §6",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.7",
+      "label": "Section Ninth: The Essentiality of the Soul §7",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.8",
+      "label": "Section Ninth: The Essentiality of the Soul §8",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.9",
+      "label": "Section Ninth: The Essentiality of the Soul §9",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.10",
+      "label": "Section Ninth: The Essentiality of the Soul §10",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.11",
+      "label": "Section Ninth: The Essentiality of the Soul §11",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.12",
+      "label": "Section Ninth: The Essentiality of the Soul §12",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.13",
+      "label": "Section Ninth: The Essentiality of the Soul §13",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.14",
+      "label": "Section Ninth: The Essentiality of the Soul §14",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.15",
+      "label": "Section Ninth: The Essentiality of the Soul §15",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.16",
+      "label": "Section Ninth: The Essentiality of the Soul §16",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.17",
+      "label": "Section Ninth: The Essentiality of the Soul §17",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.18",
+      "label": "Section Ninth: The Essentiality of the Soul §18",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.19",
+      "label": "Section Ninth: The Essentiality of the Soul §19",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.20",
+      "label": "Section Ninth: The Essentiality of the Soul §20",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "12.1",
+      "label": "Section Tenth: A Mental Essence Distinct from the Body §1",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.2",
+      "label": "Section Tenth: A Mental Essence Distinct from the Body §2",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.3",
+      "label": "Section Tenth: A Mental Essence Distinct from the Body §3",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.4",
+      "label": "Section Tenth: A Mental Essence Distinct from the Body §4",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.5",
+      "label": "Section Tenth: A Mental Essence Distinct from the Body §5",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.6",
+      "label": "Section Tenth: A Mental Essence Distinct from the Body §6",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.7",
+      "label": "Section Tenth: A Mental Essence Distinct from the Body §7",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.8",
+      "label": "Section Tenth: A Mental Essence Distinct from the Body §8",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.9",
+      "label": "Section Tenth: A Mental Essence Distinct from the Body §9",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.10",
+      "label": "Section Tenth: A Mental Essence Distinct from the Body §10",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.11",
+      "label": "Section Tenth: A Mental Essence Distinct from the Body §11",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.12",
+      "label": "Section Tenth: A Mental Essence Distinct from the Body §12",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.13",
+      "label": "Section Tenth: A Mental Essence Distinct from the Body §13",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.14",
+      "label": "Section Tenth: A Mental Essence Distinct from the Body §14",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.15",
+      "label": "Section Tenth: A Mental Essence Distinct from the Body §15",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.16",
+      "label": "Section Tenth: A Mental Essence Distinct from the Body §16",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.17",
+      "label": "Section Tenth: A Mental Essence Distinct from the Body §17",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.18",
+      "label": "Section Tenth: A Mental Essence Distinct from the Body §18",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.19",
+      "label": "Section Tenth: A Mental Essence Distinct from the Body §19",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.20",
+      "label": "Section Tenth: A Mental Essence Distinct from the Body §20",
+      "chapterRef": "12"
+    }
+  ],
+  "editions": [
+    {
+      "slug": "ibn-sina-compendium-on-the-soul-en",
+      "language": "en",
+      "editionType": "translation",
+      "title": "A Compendium on the Soul",
+      "translator": "Edward Abbott van Dyck",
+      "publisher": "Project Gutenberg",
+      "publicationYear": 1906,
+      "source": "project-gutenberg",
+      "license": "public-domain",
+      "rightsStatus": "Public domain in the United States",
+      "attributionText": "A Compendium on the Soul, translated by Edward Abbott van Dyck (1906). Public domain in the United States. Digital text from Project Gutenberg.",
+      "structureScheme": "single plain-text edition, split at printed chapter headings",
+      "isSample": false,
+      "notes": "The chapter split is performed on the edition as served; the reader is told when the served text no longer matches the indexed paragraphs."
+    }
+  ]
+}

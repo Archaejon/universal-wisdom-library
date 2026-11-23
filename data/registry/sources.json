@@ -1,0 +1,3062 @@
+{
+  "version": "1.6.0",
+  "note": "Source registry for the Universal Wisdom Library. ingestion_status records what this project has actually done with a source, not what the source permits. A source marked restricted or unavailable is linked for reference and is not copied into the corpus.",
+  "sources": [
+    {
+      "source_id": "local-corpus",
+      "source_name": "Universal Wisdom Library curated corpus",
+      "base_url": "",
+      "organisation": "Universal Wisdom Library",
+      "traditions_covered": [
+        "judaism",
+        "christianity",
+        "islam",
+        "hinduism",
+        "buddhism",
+        "taoism",
+        "confucianism",
+        "shinto",
+        "jainism",
+        "greek-roman",
+        "quakerism"
+      ],
+      "schools_covered": [
+        "rabbinic-judaism",
+        "early-christianity",
+        "theravada",
+        "svetambara",
+        "stoicism",
+        "platonism"
+      ],
+      "languages": [
+        "en",
+        "he",
+        "ar",
+        "grc",
+        "sa",
+        "pi",
+        "zh",
+        "ja",
+        "pra"
+      ],
+      "source_type": "version-controlled dataset",
+      "content_types": [
+        "primary_text",
+        "translation",
+        "commentary",
+        "metadata"
+      ],
+      "api_documentation_url": "",
+      "download_url": "",
+      "access_method": "local files",
+      "licence_url": "",
+      "licence_status": "mixed_verified_per_edition",
+      "commercial_use_allowed": null,
+      "redistribution_allowed": true,
+      "attribution_requirements": "Each edition records its own attribution and licence. Editorial notes are CC BY 4.0.",
+      "authentication_required": false,
+      "rate_limits": "none",
+      "ingestion_status": "active",
+      "last_verified_at": "2026-10-19",
+      "source_reliability_notes": "Version-controlled texts with checksums and an import log. The Tanakh is complete; other traditions remain curated excerpts or catalogue records.",
+      "editorial_notes": "The local adapter validates references, duplicate text, hierarchy and provenance before publication.",
+      "priority": 1,
+      "approval_status": "approved"
+    },
+    {
+      "source_id": "sefaria",
+      "source_name": "Sefaria",
+      "base_url": "https://www.sefaria.org/",
+      "organisation": "Sefaria",
+      "traditions_covered": [
+        "judaism"
+      ],
+      "schools_covered": [
+        "rabbinic-judaism"
+      ],
+      "languages": [
+        "he",
+        "en",
+        "arc"
+      ],
+      "source_type": "digital library and API",
+      "content_types": [
+        "primary_text",
+        "translation",
+        "commentary",
+        "liturgy"
+      ],
+      "api_documentation_url": "https://developers.sefaria.org/",
+      "download_url": "https://www.sefaria.org/developers",
+      "access_method": "read-only API and version downloads",
+      "licence_url": "https://help.sefaria.org/hc/en-us/articles/18490043237148-How-to-Find-and-Understand-Licensing-or-Copyright-Information",
+      "licence_status": "mixed_per_version",
+      "commercial_use_allowed": null,
+      "redistribution_allowed": null,
+      "attribution_requirements": "Attribute the original edition, translator and licence as recorded on the version, not Sefaria alone. Sefaria's name and logo are trademarked.",
+      "authentication_required": false,
+      "rate_limits": "Documented API; keep requests modest and cache imported snapshots.",
+      "ingestion_status": "import_tested",
+      "last_verified_at": "2026-10-19",
+      "source_reliability_notes": "Authoritative digital transmission of Jewish texts, but rights differ per version. The complete Tanakh is imported in MAM (CC BY-SA) and JPS 1917 (public domain); the complete Mishnah, Talmud, Midrash and Tosefta are imported with per-work checksums and version-level rights.",
+      "editorial_notes": "This is a reading interface over imported copies, not a re-publication of Sefaria's database. Every edition keeps its exact version title, version source and licence, and the reader shows that provenance with the text. UWL does not relicense the editions.",
+      "priority": 1,
+      "approval_status": "approved"
+    },
+    {
+      "source_id": "suttacentral",
+      "source_name": "SuttaCentral",
+      "base_url": "https://suttacentral.net/",
+      "organisation": "SuttaCentral",
+      "traditions_covered": [
+        "buddhism"
+      ],
+      "schools_covered": [
+        "theravada"
+      ],
+      "languages": [
+        "pi",
+        "en",
+        "zh",
+        "sa"
+      ],
+      "source_type": "segmented canonical corpus and API",
+      "content_types": [
+        "primary_text",
+        "translation",
+        "commentary"
+      ],
+      "api_documentation_url": "https://suttacentral.net/api",
+      "download_url": "https://github.com/suttacentral/bilara-data",
+      "access_method": "Bilara API and GitHub data",
+      "licence_url": "https://suttacentral.net/licensing",
+      "licence_status": "cc0_translation_public_domain_root",
+      "commercial_use_allowed": true,
+      "redistribution_allowed": true,
+      "attribution_requirements": "CC0 does not require attribution; UWL retains translator and edition credit as a scholarly courtesy.",
+      "authentication_required": false,
+      "rate_limits": "Public API; avoid bulk hammering during import.",
+      "ingestion_status": "import_tested",
+      "last_verified_at": "2026-10-19",
+      "source_reliability_notes": "Segmented Pali root text with translator-supplied English. The Dhammapada sample uses Bhikkhu Sujato's CC0 translation.",
+      "editorial_notes": "Root text and translation are stored as separate editions. Segment keys are retained in source metadata but displayed as verse references.",
+      "priority": 1,
+      "approval_status": "approved"
+    },
+    {
+      "source_id": "alquran-cloud",
+      "source_name": "AlQuran Cloud (Tanzil text)",
+      "base_url": "https://alquran.cloud/",
+      "organisation": "AlQuran Cloud / Tanzil Project",
+      "traditions_covered": [
+        "islam"
+      ],
+      "schools_covered": [],
+      "languages": [
+        "ar",
+        "en"
+      ],
+      "source_type": "Quran text API",
+      "content_types": [
+        "primary_text",
+        "translation",
+        "recitation_metadata"
+      ],
+      "api_documentation_url": "https://alquran.cloud/api",
+      "download_url": "",
+      "access_method": "public read-only API",
+      "licence_url": "https://tanzil.net/docs/text_license",
+      "licence_status": "tanzil_terms_verbatim",
+      "commercial_use_allowed": true,
+      "redistribution_allowed": true,
+      "attribution_requirements": "Attribute the Tanzil Project. The Arabic text must be reproduced verbatim and unmodified.",
+      "authentication_required": false,
+      "rate_limits": "Public API; import selected ayahs rather than mirroring the service.",
+      "ingestion_status": "import_tested",
+      "last_verified_at": "2026-10-19",
+      "source_reliability_notes": "The Uthmani Arabic text comes from Tanzil's verified text. The translation used in the corpus is Rodwell's public-domain 1861 translation from Project Gutenberg, not an AlQuran Cloud translation.",
+      "editorial_notes": "Arabic text is never normalised for display. Tanzil's no-modification term is respected; search normalisation exists only in a derivative column.",
+      "priority": 1,
+      "approval_status": "approved"
+    },
+    {
+      "source_id": "project-gutenberg",
+      "source_name": "Project Gutenberg",
+      "base_url": "https://www.gutenberg.org/",
+      "organisation": "Project Gutenberg Literary Archive Foundation",
+      "traditions_covered": [
+        "christianity",
+        "islam",
+        "hinduism",
+        "buddhism",
+        "taoism",
+        "confucianism",
+        "greek-roman",
+        "quakerism",
+        "unitarianism",
+        "universalism",
+        "theosophy",
+        "sikhism"
+      ],
+      "schools_covered": [
+        "early-christianity",
+        "stoicism",
+        "platonism"
+      ],
+      "languages": [
+        "en",
+        "de",
+        "fr"
+      ],
+      "source_type": "public-domain ebook archive",
+      "content_types": [
+        "primary_text",
+        "translation",
+        "philosophy",
+        "sermon",
+        "historical_document"
+      ],
+      "api_documentation_url": "",
+      "download_url": "https://www.gutenberg.org/ebooks/",
+      "access_method": "plain text and EPUB downloads",
+      "licence_url": "https://www.gutenberg.org/policy/license.html",
+      "licence_status": "public_domain_us",
+      "commercial_use_allowed": true,
+      "redistribution_allowed": true,
+      "attribution_requirements": "The underlying U.S. public-domain text has no attribution requirement. If the Project Gutenberg trademark or licence is retained, follow its terms; UWL records the eBook number and edition.",
+      "authentication_required": false,
+      "rate_limits": "No formal API. Download individual files; do not mirror the catalogue.",
+      "ingestion_status": "import_tested",
+      "last_verified_at": "2026-10-19",
+      "source_reliability_notes": "Plain-text editions are proofread but not critical editions. Edition and transcription details must be checked per file. Public-domain status is stated for the United States; local law may differ.",
+      "editorial_notes": "Used for KJV, Rodwell, Legge, Arnold, Long, Jowett, Müller, and the tested George Fox Journal import. Excerpts retain source spelling and punctuation. The Sikh shelf's one Gutenberg title is Malcolm's Sketch of the Sikhs (1812, eBook 53510), recorded in the acquisition register as a located lead.",
+      "priority": 1,
+      "approval_status": "approved"
+    },
+    {
+      "source_id": "wikisource",
+      "source_name": "Wikisource",
+      "base_url": "https://en.wikisource.org/",
+      "organisation": "Wikimedia Foundation and contributors",
+      "traditions_covered": [
+        "judaism",
+        "christianity",
+        "confucianism",
+        "shinto",
+        "jainism",
+        "taoism",
+        "hinduism"
+      ],
+      "schools_covered": [
+        "early-christianity",
+        "svetambara"
+      ],
+      "languages": [
+        "en",
+        "he",
+        "grc",
+        "zh",
+        "ja",
+        "sa"
+      ],
+      "source_type": "proofread public-domain transcription wiki",
+      "content_types": [
+        "primary_text",
+        "translation",
+        "historical_document"
+      ],
+      "api_documentation_url": "https://www.mediawiki.org/wiki/API:Main_page",
+      "download_url": "https://en.wikisource.org/wiki/Special:Export",
+      "access_method": "MediaWiki API and page export",
+      "licence_url": "https://wikisource.org/wiki/Wikisource:Copyright_policy",
+      "licence_status": "public_domain_work_cc_by_sa_page",
+      "commercial_use_allowed": true,
+      "redistribution_allowed": true,
+      "attribution_requirements": "The underlying public-domain work is free to reuse. Wikisource's editorial contributions and page text are CC BY-SA unless otherwise noted; attribute the transcription and retain the licence for those contributions.",
+      "authentication_required": false,
+      "rate_limits": "MediaWiki API etiquette; use a descriptive user agent.",
+      "ingestion_status": "import_tested",
+      "last_verified_at": "2026-10-19",
+      "source_reliability_notes": "Proofreading quality varies by page. The source edition and transcription history must be recorded; a Wikisource page is not itself a critical edition.",
+      "editorial_notes": "JPS 1917, Legge's Analects, Jacobi's Acaranga, and the Greek John text were transcribed from public-domain editions via Wikisource. The complete Kojiki in Chamberlain's 1882 translation (180 sections) and the thirty books of the Nihongi in Aston's 1896 translation are streamed one page per printed division.",
+      "priority": 1,
+      "approval_status": "approved"
+    },
+    {
+      "source_id": "uwl-editorial",
+      "source_name": "Universal Wisdom Library editorial team",
+      "base_url": "",
+      "organisation": "Universal Wisdom Library",
+      "traditions_covered": [],
+      "schools_covered": [],
+      "languages": [
+        "en"
+      ],
+      "source_type": "original editorial content",
+      "content_types": [
+        "editorial_note",
+        "theme_explanation",
+        "curated_comparison",
+        "provenance_summary"
+      ],
+      "api_documentation_url": "",
+      "download_url": "",
+      "access_method": "local files",
+      "licence_url": "https://creativecommons.org/licenses/by/4.0/",
+      "licence_status": "cc_by_4_0",
+      "commercial_use_allowed": true,
+      "redistribution_allowed": true,
+      "attribution_requirements": "Attribution to Universal Wisdom Library editors and indication of changes.",
+      "authentication_required": false,
+      "rate_limits": "none",
+      "ingestion_status": "active",
+      "last_verified_at": "2026-10-19",
+      "source_reliability_notes": "Original editorial text, not historical commentary. It is labelled as editorial throughout the interface.",
+      "editorial_notes": "Never presented as scripture or as a quotation from a historical commentator.",
+      "priority": 1,
+      "approval_status": "approved"
+    },
+    {
+      "source_id": "bahai-reference-library",
+      "source_name": "Bahá’í Reference Library",
+      "base_url": "https://www.bahai.org/library/",
+      "organisation": "Bahá’í International Community",
+      "traditions_covered": [
+        "bahai"
+      ],
+      "schools_covered": [],
+      "languages": [
+        "en",
+        "ar",
+        "fa"
+      ],
+      "source_type": "official authoritative-text library",
+      "content_types": [
+        "primary_text",
+        "authoritative_interpretation",
+        "institutional_guidance",
+        "prayer"
+      ],
+      "api_documentation_url": "",
+      "download_url": "https://www.bahai.org/library/authoritative-texts/downloads",
+      "access_method": "HTML reading and per-publication PDF/DOCX/HTML downloads",
+      "licence_url": "https://www.bahai.org/legal",
+      "licence_status": "site_copyright_conditions_with_owner_authorisation",
+      "commercial_use_allowed": false,
+      "redistribution_allowed": null,
+      "attribution_requirements": "Every imported work carries “Copyright © Bahá’í International Community”, the name of the work as the library titles it, the translator or compiler where the library names one (Shoghi Effendi for the authorised translations) and a link to the work's page in the Reference Library. The text is displayed as received and is not altered, abridged or set beside any alteration of its meaning.",
+      "authentication_required": false,
+      "rate_limits": "One work at a time: a work is fetched once when a reader opens one of its chapters, once more when its passage index is built, with a descriptive user agent and a delay between requests. No bulk crawl of the library.",
+      "ingestion_status": "active",
+      "last_verified_at": "2026-10-26",
+      "source_reliability_notes": "Official and authoritative: the Reference Library is the Bahá’í International Community's own publication of the Bahá’í writings, and the English texts it serves are the authorised translations. Paragraph numbering is the library's own and is kept as the passage reference, because it is the numbering Bahá’í reference works cite.",
+      "editorial_notes": "Used for the writings of Bahá’u’lláh and ‘Abdu’l-Bahá held as streamed works: the Hidden Words, the Kitáb-i-Aqdas, the Kitáb-i-Íqán, The Seven Valleys and the Four Valleys, Gleanings from the Writings of Bahá’u’lláh, Some Answered Questions, the Epistle to the Son of the Wolf, the Tablets of Bahá’u’lláh and Prayers and Meditations. Access was authorised by the project owner on 2026-10-26. The texts remain the Community's copyright: the library streams them from bahai.org, keeps the copyright notice with every chapter it shows, and does not relicense them. Nothing is copied into the local corpus, and the import cache holds only the paragraph index that the search and reader need.",
+      "priority": 1,
+      "approval_status": "approved",
+      "review_note": "Approved for streamed display on 2026-10-26. Only the authorised English texts published by the Reference Library are used; the Community's copyright notice and the work's title are shown with every chapter, and no Bahá’í text is copied into the local corpus."
+    },
+    {
+      "source_id": "quaker-faith-practice",
+      "source_name": "Quaker Faith & Practice (5th edition)",
+      "base_url": "https://qfp.quaker.org.uk/",
+      "organisation": "Yearly Meeting of the Religious Society of Friends in Britain",
+      "traditions_covered": [
+        "quakerism"
+      ],
+      "schools_covered": [
+        "britain-yearly-meeting"
+      ],
+      "languages": [
+        "en"
+      ],
+      "source_type": "book of discipline",
+      "content_types": [
+        "denominational_guidance",
+        "extracts",
+        "advices_and_queries",
+        "community_statement"
+      ],
+      "api_documentation_url": "",
+      "download_url": "",
+      "access_method": "free HTML reading; print and ebook sold",
+      "licence_url": "https://qfp.quaker.org.uk/",
+      "licence_status": "copyright_no_open_licence",
+      "commercial_use_allowed": false,
+      "redistribution_allowed": false,
+      "attribution_requirements": "No reuse licence was found. Citation alone does not grant permission. The QFP copyright contact is publications@quaker.org.uk.",
+      "authentication_required": false,
+      "rate_limits": "No bulk download or API. robots.txt is not a reuse licence.",
+      "ingestion_status": "restricted",
+      "last_verified_at": "2026-10-19",
+      "source_reliability_notes": "The current book of discipline for Britain Yearly Meeting, largely composed of extracts from named Friends. It is not a universal Quaker scripture; other yearly meetings have their own books.",
+      "editorial_notes": "Catalogue record and link only. Do not import QFP text without permission covering both the compilation and the individual extracts.",
+      "priority": 1,
+      "approval_status": "rejected"
+    },
+    {
+      "source_id": "quakers-britain",
+      "source_name": "Quakers in Britain — resources",
+      "base_url": "https://www.quaker.org.uk/",
+      "organisation": "Britain Yearly Meeting",
+      "traditions_covered": [
+        "quakerism"
+      ],
+      "schools_covered": [
+        "britain-yearly-meeting"
+      ],
+      "languages": [
+        "en"
+      ],
+      "source_type": "denominational website and resource hub",
+      "content_types": [
+        "community_statement",
+        "peace_testimony",
+        "historical_document",
+        "denominational_guidance"
+      ],
+      "api_documentation_url": "",
+      "download_url": "https://www.quaker.org.uk/resources",
+      "access_method": "web pages and some free PDFs",
+      "licence_url": "",
+      "licence_status": "not_verified",
+      "commercial_use_allowed": null,
+      "redistribution_allowed": null,
+      "attribution_requirements": "Not established. “Free to download” does not mean free to republish.",
+      "authentication_required": false,
+      "rate_limits": "No API found.",
+      "ingestion_status": "under_review",
+      "last_verified_at": "2026-10-19",
+      "source_reliability_notes": "Authoritative for Britain Yearly Meeting statements, but not representative of all Quaker bodies.",
+      "editorial_notes": "Use for discovery and links. Obtain item-level permission before importing.",
+      "priority": 2,
+      "approval_status": "pending"
+    },
+    {
+      "source_id": "fwcc",
+      "source_name": "Friends World Committee for Consultation",
+      "base_url": "https://fwcc.world/",
+      "organisation": "Friends World Committee for Consultation",
+      "traditions_covered": [
+        "quakerism"
+      ],
+      "schools_covered": [],
+      "languages": [
+        "en"
+      ],
+      "source_type": "international denominational body",
+      "content_types": [
+        "community_statement",
+        "historical_document",
+        "denominational_guidance"
+      ],
+      "api_documentation_url": "",
+      "download_url": "",
+      "access_method": "web pages",
+      "licence_url": "",
+      "licence_status": "not_verified",
+      "commercial_use_allowed": null,
+      "redistribution_allowed": null,
+      "attribution_requirements": "Not established.",
+      "authentication_required": false,
+      "rate_limits": "No API found.",
+      "ingestion_status": "under_review",
+      "last_verified_at": "2026-10-19",
+      "source_reliability_notes": "Useful for the diversity of yearly meetings, but it is a consultative body and does not speak for every Friend.",
+      "editorial_notes": "Do not treat FWCC statements as a Quaker canon.",
+      "priority": 2,
+      "approval_status": "pending"
+    },
+    {
+      "source_id": "quaker-heritage-press",
+      "source_name": "Quaker Heritage Press",
+      "base_url": "https://qhp.org/",
+      "organisation": "Quaker Heritage Press",
+      "traditions_covered": [
+        "quakerism"
+      ],
+      "schools_covered": [],
+      "languages": [
+        "en"
+      ],
+      "source_type": "scholarly reprint archive",
+      "content_types": [
+        "historical_document",
+        "journal",
+        "theology",
+        "scholarship"
+      ],
+      "api_documentation_url": "",
+      "download_url": "",
+      "access_method": "web transcriptions",
+      "licence_url": "",
+      "licence_status": "not_verified",
+      "commercial_use_allowed": null,
+      "redistribution_allowed": null,
+      "attribution_requirements": "Not established; editions may carry separate editorial copyright.",
+      "authentication_required": false,
+      "rate_limits": "No API found.",
+      "ingestion_status": "under_review",
+      "last_verified_at": "2026-10-19",
+      "source_reliability_notes": "Specialist Quaker historical transcriptions with scholarly introductions. Check each edition.",
+      "editorial_notes": "Prefer Project Gutenberg's public-domain Fox Journal for the first tested Quaker import.",
+      "priority": 2,
+      "approval_status": "pending"
+    },
+    {
+      "source_id": "uua-worshipweb",
+      "source_name": "UUA WorshipWeb",
+      "base_url": "https://worshipweb.uua.org/",
+      "organisation": "Unitarian Universalist Association",
+      "traditions_covered": [
+        "unitarian-universalism"
+      ],
+      "schools_covered": [
+        "uua"
+      ],
+      "languages": [
+        "en"
+      ],
+      "source_type": "worship resource library",
+      "content_types": [
+        "prayer",
+        "sermon",
+        "liturgy",
+        "reflection",
+        "music"
+      ],
+      "api_documentation_url": "",
+      "download_url": "",
+      "access_method": "public web search; no public bulk API",
+      "licence_url": "https://www.uua.org/communications/web/copyright",
+      "licence_status": "limited_congregational_permission",
+      "commercial_use_allowed": false,
+      "redistribution_allowed": false,
+      "attribution_requirements": "Individual authors and artists must be credited. Permission covers use by UUA member congregations in worship; it is not a general redistribution licence.",
+      "authentication_required": false,
+      "rate_limits": "robots.txt disallows API paths; no corpus ingestion permission found.",
+      "ingestion_status": "restricted",
+      "last_verified_at": "2026-10-19",
+      "source_reliability_notes": "Rich living-tradition material with item-level authorship. UUA site terms prohibit distribution or derivative works without written permission.",
+      "editorial_notes": "Link and metadata only. Do not import WorshipWeb texts into the public corpus without explicit permission.",
+      "priority": 1,
+      "approval_status": "rejected"
+    },
+    {
+      "source_id": "uua-principles-sources",
+      "source_name": "UUA Principles, Purposes and Sources",
+      "base_url": "https://www.uua.org/beliefs/what-we-believe/sources",
+      "organisation": "Unitarian Universalist Association",
+      "traditions_covered": [
+        "unitarian-universalism"
+      ],
+      "schools_covered": [
+        "uua"
+      ],
+      "languages": [
+        "en"
+      ],
+      "source_type": "denominational statement",
+      "content_types": [
+        "community_statement",
+        "denominational_guidance"
+      ],
+      "api_documentation_url": "",
+      "download_url": "",
+      "access_method": "web page",
+      "licence_url": "https://www.uua.org/communications/web/copyright",
+      "licence_status": "site_copyright",
+      "commercial_use_allowed": false,
+      "redistribution_allowed": false,
+      "attribution_requirements": "UUA site terms require written permission for distribution or derivative works.",
+      "authentication_required": false,
+      "rate_limits": "No API.",
+      "ingestion_status": "restricted",
+      "last_verified_at": "2026-10-19",
+      "source_reliability_notes": "The 1985–2024 Six Sources statement is historical; in 2024 UUs adopted Shared Values language. The page itself notes the change.",
+      "editorial_notes": "Catalogue the version and date, link to the official page, and do not reproduce the statement without permission.",
+      "priority": 1,
+      "approval_status": "rejected"
+    },
+    {
+      "source_id": "uuhhs",
+      "source_name": "Unitarian Universalist History and Heritage Society",
+      "base_url": "https://uudb.org/",
+      "organisation": "Unitarian Universalist History and Heritage Society",
+      "traditions_covered": [
+        "unitarian-universalism",
+        "unitarianism",
+        "universalism"
+      ],
+      "schools_covered": [],
+      "languages": [
+        "en"
+      ],
+      "source_type": "historical society and biographical dictionary",
+      "content_types": [
+        "historical_document",
+        "biography",
+        "scholarship",
+        "sermon"
+      ],
+      "api_documentation_url": "",
+      "download_url": "",
+      "access_method": "web pages",
+      "licence_url": "",
+      "licence_status": "not_verified",
+      "commercial_use_allowed": null,
+      "redistribution_allowed": null,
+      "attribution_requirements": "Not established; entries have named authors.",
+      "authentication_required": false,
+      "rate_limits": "No API found.",
+      "ingestion_status": "under_review",
+      "last_verified_at": "2026-10-19",
+      "source_reliability_notes": "Useful scholarly-biographical resource for locating historical figures and editions, not a primary-text repository.",
+      "editorial_notes": "Use for discovery; prefer public-domain editions for any imported text.",
+      "priority": 2,
+      "approval_status": "pending"
+    },
+    {
+      "source_id": "american-ethical-union",
+      "source_name": "American Ethical Union",
+      "base_url": "https://aeu.org/",
+      "organisation": "American Ethical Union",
+      "traditions_covered": [
+        "ethical-culture"
+      ],
+      "schools_covered": [],
+      "languages": [
+        "en"
+      ],
+      "source_type": "humanist/ethical movement body",
+      "content_types": [
+        "community_statement",
+        "ethical_manifesto",
+        "ceremony",
+        "denominational_guidance"
+      ],
+      "api_documentation_url": "",
+      "download_url": "",
+      "access_method": "web pages",
+      "licence_url": "",
+      "licence_status": "not_verified",
+      "commercial_use_allowed": null,
+      "redistribution_allowed": null,
+      "attribution_requirements": "Not established.",
+      "authentication_required": false,
+      "rate_limits": "No API found.",
+      "ingestion_status": "under_review",
+      "last_verified_at": "2026-10-19",
+      "source_reliability_notes": "Institutional source for Ethical Culture, a small movement with multiple societies. It does not represent all ethical humanists.",
+      "editorial_notes": "Catalogue statements and link to originals; do not infer a canon.",
+      "priority": 3,
+      "approval_status": "pending"
+    },
+    {
+      "source_id": "humanists-international",
+      "source_name": "Humanists International",
+      "base_url": "https://humanists.international/",
+      "organisation": "Humanists International",
+      "traditions_covered": [
+        "ethical-culture",
+        "humanism"
+      ],
+      "schools_covered": [],
+      "languages": [
+        "en"
+      ],
+      "source_type": "international humanist federation",
+      "content_types": [
+        "ethical_manifesto",
+        "community_statement",
+        "report"
+      ],
+      "api_documentation_url": "",
+      "download_url": "",
+      "access_method": "web pages and PDFs",
+      "licence_url": "",
+      "licence_status": "not_verified",
+      "commercial_use_allowed": null,
+      "redistribution_allowed": null,
+      "attribution_requirements": "Not established.",
+      "authentication_required": false,
+      "rate_limits": "No API found.",
+      "ingestion_status": "under_review",
+      "last_verified_at": "2026-10-19",
+      "source_reliability_notes": "Federation of humanist organisations; statements are institutional, not scripture. Not all secular philosophy is humanist religion.",
+      "editorial_notes": "Classify as ethical/humanist manifesto, not as religious scripture.",
+      "priority": 3,
+      "approval_status": "pending"
+    },
+    {
+      "source_id": "american-humanist-association",
+      "source_name": "American Humanist Association",
+      "base_url": "https://americanhumanist.org/",
+      "organisation": "American Humanist Association",
+      "traditions_covered": [
+        "ethical-culture",
+        "humanism"
+      ],
+      "schools_covered": [],
+      "languages": [
+        "en"
+      ],
+      "source_type": "humanist advocacy organisation",
+      "content_types": [
+        "ethical_manifesto",
+        "community_statement",
+        "essay"
+      ],
+      "api_documentation_url": "",
+      "download_url": "",
+      "access_method": "web pages",
+      "licence_url": "",
+      "licence_status": "not_verified",
+      "commercial_use_allowed": null,
+      "redistribution_allowed": null,
+      "attribution_requirements": "Not established; manifestos have named signatories and separate publication history.",
+      "authentication_required": false,
+      "rate_limits": "No API found.",
+      "ingestion_status": "under_review",
+      "last_verified_at": "2026-10-19",
+      "source_reliability_notes": "Useful for Humanist Manifestos, but confirm the rights of each manifesto edition.",
+      "editorial_notes": "Do not classify all non-religious philosophy as scripture.",
+      "priority": 3,
+      "approval_status": "pending"
+    },
+    {
+      "source_id": "pagan-federation",
+      "source_name": "The Pagan Federation",
+      "base_url": "https://www.paganfed.org/",
+      "organisation": "The Pagan Federation",
+      "traditions_covered": [
+        "paganism",
+        "wicca",
+        "druidry"
+      ],
+      "schools_covered": [],
+      "languages": [
+        "en"
+      ],
+      "source_type": "membership organisation",
+      "content_types": [
+        "community_statement",
+        "ritual",
+        "guidance"
+      ],
+      "api_documentation_url": "",
+      "download_url": "",
+      "access_method": "web pages",
+      "licence_url": "",
+      "licence_status": "not_verified",
+      "commercial_use_allowed": null,
+      "redistribution_allowed": null,
+      "attribution_requirements": "Not established.",
+      "authentication_required": false,
+      "rate_limits": "No API found.",
+      "ingestion_status": "under_review",
+      "last_verified_at": "2026-10-19",
+      "source_reliability_notes": "Umbrella body, not a governing authority for all Pagans. Modern ritual texts may be authored and rights-sensitive.",
+      "editorial_notes": "Do not present modern compositions as ancient texts.",
+      "priority": 3,
+      "approval_status": "pending"
+    },
+    {
+      "source_id": "obod",
+      "source_name": "Order of Bards, Ovates & Druids",
+      "base_url": "https://druidry.org/",
+      "organisation": "Order of Bards, Ovates & Druids",
+      "traditions_covered": [
+        "paganism",
+        "druidry"
+      ],
+      "schools_covered": [
+        "obod"
+      ],
+      "languages": [
+        "en"
+      ],
+      "source_type": "druid order and training organisation",
+      "content_types": [
+        "community_statement",
+        "ritual",
+        "course_material",
+        "essay"
+      ],
+      "api_documentation_url": "",
+      "download_url": "",
+      "access_method": "public pages; course material often members-only",
+      "licence_url": "",
+      "licence_status": "not_verified",
+      "commercial_use_allowed": null,
+      "redistribution_allowed": null,
+      "attribution_requirements": "Not established; authors and course material carry rights.",
+      "authentication_required": false,
+      "rate_limits": "No API found.",
+      "ingestion_status": "under_review",
+      "last_verified_at": "2026-10-19",
+      "source_reliability_notes": "Modern Druidry is a living, historically situated tradition. Public pages do not necessarily represent closed order material.",
+      "editorial_notes": "Respect members-only and ritual restrictions. No text import without permission.",
+      "priority": 3,
+      "approval_status": "pending"
+    },
+    {
+      "source_id": "adf",
+      "source_name": "Ár nDraíocht Féin",
+      "base_url": "https://www.adf.org/",
+      "organisation": "Ár nDraíocht Féin: A Druid Fellowship",
+      "traditions_covered": [
+        "paganism",
+        "druidry"
+      ],
+      "schools_covered": [
+        "adf"
+      ],
+      "languages": [
+        "en"
+      ],
+      "source_type": "druid fellowship",
+      "content_types": [
+        "community_statement",
+        "ritual",
+        "liturgy",
+        "essay"
+      ],
+      "api_documentation_url": "",
+      "download_url": "",
+      "access_method": "public pages",
+      "licence_url": "",
+      "licence_status": "not_verified",
+      "commercial_use_allowed": null,
+      "redistribution_allowed": null,
+      "attribution_requirements": "Not established.",
+      "authentication_required": false,
+      "rate_limits": "No API found.",
+      "ingestion_status": "under_review",
+      "last_verified_at": "2026-10-19",
+      "source_reliability_notes": "Neopagan druid fellowship with original liturgy. It is not a continuity of ancient druidism.",
+      "editorial_notes": "Label modern composition explicitly. No import without permission.",
+      "priority": 3,
+      "approval_status": "pending"
+    },
+    {
+      "source_id": "rastafari-speaks",
+      "source_name": "RastafariSpeaks archive",
+      "base_url": "http://www.rastafarispeaks.com/",
+      "organisation": "RastafariSpeaks / Africa Speaks",
+      "traditions_covered": [
+        "rastafari"
+      ],
+      "schools_covered": [],
+      "languages": [
+        "en"
+      ],
+      "source_type": "community archive and forum",
+      "content_types": [
+        "essay",
+        "speech",
+        "historical_document",
+        "community_statement"
+      ],
+      "api_documentation_url": "",
+      "download_url": "",
+      "access_method": "web pages and forum archive",
+      "licence_url": "",
+      "licence_status": "site_copyright_mixed",
+      "commercial_use_allowed": false,
+      "redistribution_allowed": false,
+      "attribution_requirements": "Material has named authors and a site copyright notice; fair-use notices do not grant redistribution. Seek permission from the rights holder.",
+      "authentication_required": false,
+      "rate_limits": "No API.",
+      "ingestion_status": "under_review",
+      "last_verified_at": "2026-10-19",
+      "source_reliability_notes": "Mixed archive, not an authoritative canon. Check each item against a named author and original publication.",
+      "editorial_notes": "Rastafari is diverse; no single organisation or text represents all communities. Link and metadata only pending permission.",
+      "priority": 3,
+      "approval_status": "pending"
+    },
+    {
+      "source_id": "lds-scriptures",
+      "source_name": "The Church of Jesus Christ of Latter-day Saints — Scriptures",
+      "base_url": "https://www.churchofjesuschrist.org/study/scriptures",
+      "organisation": "The Church of Jesus Christ of Latter-day Saints",
+      "traditions_covered": [
+        "latter-day-saints"
+      ],
+      "schools_covered": [
+        "lds"
+      ],
+      "languages": [
+        "en"
+      ],
+      "source_type": "official denominational scripture site",
+      "content_types": [
+        "canonical_scripture",
+        "study_helps",
+        "institutional_guidance"
+      ],
+      "api_documentation_url": "",
+      "download_url": "",
+      "access_method": "web and Gospel Library app; personal download/print",
+      "licence_url": "https://www.churchofjesuschrist.org/learn/legal/terms-of-use/go",
+      "licence_status": "personal_noncommercial_only",
+      "commercial_use_allowed": false,
+      "redistribution_allowed": false,
+      "attribution_requirements": "Terms permit personal, noncommercial viewing, downloading and printing. Posting material to another website or network requires prior written permission.",
+      "authentication_required": false,
+      "rate_limits": "Terms prohibit automated devices or processes to monitor or copy material.",
+      "ingestion_status": "restricted",
+      "last_verified_at": "2026-10-19",
+      "source_reliability_notes": "Official current editions. Rights may vary item by item; the site terms do not grant corpus reuse.",
+      "editorial_notes": "Catalogue and link only. Do not confuse LDS, Community of Christ and other Restorationist editions.",
+      "priority": 2,
+      "approval_status": "rejected"
+    },
+    {
+      "source_id": "tenrikyo",
+      "source_name": "Tenrikyo official teachings",
+      "base_url": "https://www.tenrikyo.or.jp/eng/word/",
+      "organisation": "Tenrikyo Church Headquarters",
+      "traditions_covered": [
+        "tenrikyo"
+      ],
+      "schools_covered": [],
+      "languages": [
+        "ja",
+        "en"
+      ],
+      "source_type": "official religious organisation",
+      "content_types": [
+        "canonical_scripture",
+        "doctrinal_exposition",
+        "prayer",
+        "devotional"
+      ],
+      "api_documentation_url": "",
+      "download_url": "",
+      "access_method": "web excerpts and published translations",
+      "licence_url": "",
+      "licence_status": "not_verified",
+      "commercial_use_allowed": null,
+      "redistribution_allowed": null,
+      "attribution_requirements": "No open licence found. Translation rights are separately held.",
+      "authentication_required": false,
+      "rate_limits": "No API or full-text download found.",
+      "ingestion_status": "restricted",
+      "last_verified_at": "2026-10-19",
+      "source_reliability_notes": "Official introductory material and excerpts. The Ofudesaki is a 1,711-verse scripture; the English translation is a separately published edition.",
+      "editorial_notes": "Catalogue only. Seek permission from the relevant Tenrikyo publishing office before importing the translation.",
+      "priority": 3,
+      "approval_status": "rejected"
+    },
+    {
+      "source_id": "caodai-sacerdotal-council",
+      "source_name": "Sacerdotal Council of Caodaism",
+      "base_url": "https://caodai.com.vn/en",
+      "organisation": "Sacerdotal Council of Caodaism, Tay Ninh Holy See",
+      "traditions_covered": [
+        "caodai"
+      ],
+      "schools_covered": [
+        "tay-ninh"
+      ],
+      "languages": [
+        "vi",
+        "en"
+      ],
+      "source_type": "institutional religious website",
+      "content_types": [
+        "religious_constitution",
+        "doctrinal_text",
+        "institutional_guidance"
+      ],
+      "api_documentation_url": "",
+      "download_url": "",
+      "access_method": "web pages",
+      "licence_url": "",
+      "licence_status": "not_verified",
+      "commercial_use_allowed": null,
+      "redistribution_allowed": null,
+      "attribution_requirements": "Not established. The site's English Phap Chanh Truyen notes that it is not an official translation.",
+      "authentication_required": false,
+      "rate_limits": "No API.",
+      "ingestion_status": "restricted",
+      "last_verified_at": "2026-10-19",
+      "source_reliability_notes": "Institutional source for the Tay Ninh Holy See, not all Cao Dai branches. The English constitution carries a translator disclaimer.",
+      "editorial_notes": "Catalogue and link only; preserve the translation disclaimer if metadata is displayed. Do not treat one branch as all Cao Dai.",
+      "priority": 3,
+      "approval_status": "rejected"
+    },
+    {
+      "source_id": "quran-com",
+      "source_name": "Quran.com",
+      "base_url": "https://quran.com/",
+      "organisation": "Quran.com",
+      "traditions_covered": [
+        "islam"
+      ],
+      "schools_covered": [],
+      "languages": [
+        "ar",
+        "en"
+      ],
+      "source_type": "Quran reading platform and API",
+      "content_types": [
+        "primary_text",
+        "translation",
+        "recitation",
+        "word_by_word"
+      ],
+      "api_documentation_url": "https://api-docs.quran.com/",
+      "download_url": "",
+      "access_method": "public API",
+      "licence_url": "",
+      "licence_status": "mixed_per_translation",
+      "commercial_use_allowed": null,
+      "redistribution_allowed": null,
+      "attribution_requirements": "Per translation; not reviewed item by item in this build.",
+      "authentication_required": false,
+      "rate_limits": "Public API; check current terms.",
+      "ingestion_status": "under_review",
+      "last_verified_at": null,
+      "source_reliability_notes": "Widely used, but translation and tafsir rights vary. The Arabic text source and edition must be identified.",
+      "editorial_notes": "Planned for translations and word-by-word study. Not connected. Use AlQuran Cloud/Tanzil for the current Arabic excerpts.",
+      "priority": 1,
+      "approval_status": "pending"
+    },
+    {
+      "source_id": "internet-archive",
+      "source_name": "Internet Archive",
+      "base_url": "https://archive.org/",
+      "organisation": "Internet Archive",
+      "traditions_covered": [
+        "judaism",
+        "christianity",
+        "islam",
+        "hinduism",
+        "buddhism",
+        "paganism",
+        "unitarianism",
+        "universalism",
+        "spiritualism",
+        "sikhism"
+      ],
+      "schools_covered": [],
+      "languages": [
+        "en",
+        "he",
+        "ar",
+        "sa",
+        "pi",
+        "ja",
+        "zh"
+      ],
+      "source_type": "digital archive",
+      "content_types": [
+        "historical_document",
+        "primary_text",
+        "periodical",
+        "manuscript_scan"
+      ],
+      "api_documentation_url": "https://archive.org/developers/",
+      "download_url": "https://archive.org/details/",
+      "access_method": "item-level downloads and metadata API",
+      "licence_url": "https://archive.org/about/terms.php",
+      "licence_status": "mixed_per_item",
+      "commercial_use_allowed": null,
+      "redistribution_allowed": null,
+      "attribution_requirements": "Per item. Many scans are of public-domain works, but the scan, transcription and compilation may carry separate rights.",
+      "authentication_required": false,
+      "rate_limits": "Item-level access; respect lending and access restrictions.",
+      "ingestion_status": "under_review",
+      "last_verified_at": "2026-10-19",
+      "source_reliability_notes": "Huge and uneven. Bibliographic metadata can be incomplete or wrong; collate against a catalogue record.",
+      "editorial_notes": "A public scan is not automatically a public-domain text in every jurisdiction. Verify the edition and item licence. The Singh Sabha-era books identified for the Sikh expansion — MacAuliffe's volumes 2–6, Trumpp's Adi-Granth, Malcolm, Cunningham and M'Gregor — are recorded in the acquisition register as located leads, not yet imported.",
+      "priority": 2,
+      "approval_status": "pending"
+    },
+    {
+      "source_id": "hathitrust",
+      "source_name": "HathiTrust Digital Library",
+      "base_url": "https://www.hathitrust.org/",
+      "organisation": "HathiTrust",
+      "traditions_covered": [
+        "unitarianism",
+        "universalism",
+        "christianity",
+        "judaism",
+        "islam"
+      ],
+      "schools_covered": [],
+      "languages": [
+        "en",
+        "he",
+        "ar"
+      ],
+      "source_type": "academic digital library",
+      "content_types": [
+        "historical_document",
+        "periodical",
+        "theology",
+        "sermon"
+      ],
+      "api_documentation_url": "https://www.hathitrust.org/data",
+      "download_url": "https://babel.hathitrust.org/",
+      "access_method": "search, page access, limited download depending on rights",
+      "licence_url": "https://www.hathitrust.org/access_use",
+      "licence_status": "mixed_per_item",
+      "commercial_use_allowed": null,
+      "redistribution_allowed": null,
+      "attribution_requirements": "Per item and rights determination.",
+      "authentication_required": true,
+      "rate_limits": "Research access; bulk download requires approval.",
+      "ingestion_status": "under_review",
+      "last_verified_at": "2026-10-19",
+      "source_reliability_notes": "Strong bibliographic records and page images. In-copyright works are search-only; full view depends on rights.",
+      "editorial_notes": "Use for verification and discovery; only import full text when the item is clearly public domain or licensed.",
+      "priority": 2,
+      "approval_status": "pending"
+    },
+    {
+      "source_id": "hebrewbooks",
+      "source_name": "HebrewBooks",
+      "base_url": "https://hebrewbooks.org/",
+      "organisation": "HebrewBooks",
+      "traditions_covered": [
+        "judaism"
+      ],
+      "schools_covered": [],
+      "languages": [
+        "he",
+        "yi",
+        "arc"
+      ],
+      "source_type": "scan archive",
+      "content_types": [
+        "historical_document",
+        "rabbinic_literature",
+        "responsa",
+        "liturgy"
+      ],
+      "api_documentation_url": "",
+      "download_url": "",
+      "access_method": "PDF scans",
+      "licence_url": "",
+      "licence_status": "not_verified",
+      "commercial_use_allowed": null,
+      "redistribution_allowed": null,
+      "attribution_requirements": "Not established.",
+      "authentication_required": false,
+      "rate_limits": "No API.",
+      "ingestion_status": "under_review",
+      "last_verified_at": null,
+      "source_reliability_notes": "Large scan collection; metadata quality varies and OCR is limited. Not a critical edition.",
+      "editorial_notes": "Would require OCR correction and edition verification. No import in this build.",
+      "priority": 2,
+      "approval_status": "pending"
+    },
+    {
+      "source_id": "nli",
+      "source_name": "National Library of Israel",
+      "base_url": "https://www.nli.org.il/",
+      "organisation": "National Library of Israel",
+      "traditions_covered": [
+        "judaism",
+        "islam",
+        "christianity"
+      ],
+      "schools_covered": [],
+      "languages": [
+        "he",
+        "ar",
+        "en",
+        "yi"
+      ],
+      "source_type": "national library and manuscript collection",
+      "content_types": [
+        "manuscript_scan",
+        "historical_document",
+        "periodical",
+        "archive"
+      ],
+      "api_documentation_url": "",
+      "download_url": "",
+      "access_method": "catalogue and digital collections",
+      "licence_url": "",
+      "licence_status": "mixed_per_item",
+      "commercial_use_allowed": null,
+      "redistribution_allowed": null,
+      "attribution_requirements": "Per item; some collections are rights-managed.",
+      "authentication_required": false,
+      "rate_limits": "No general text API verified.",
+      "ingestion_status": "under_review",
+      "last_verified_at": null,
+      "source_reliability_notes": "High-quality bibliographic and manuscript holdings; item rights vary.",
+      "editorial_notes": "Discovery and verification only in this build.",
+      "priority": 2,
+      "approval_status": "pending"
+    },
+    {
+      "source_id": "bible-gateway",
+      "source_name": "Bible Gateway",
+      "base_url": "https://www.biblegateway.com/",
+      "organisation": "Bible Gateway (Zondervan)",
+      "traditions_covered": [
+        "christianity"
+      ],
+      "schools_covered": [],
+      "languages": [
+        "en"
+      ],
+      "source_type": "Bible reading platform",
+      "content_types": [
+        "primary_text",
+        "translation",
+        "devotional"
+      ],
+      "api_documentation_url": "",
+      "download_url": "",
+      "access_method": "web reading",
+      "licence_url": "https://www.biblegateway.com/legal/",
+      "licence_status": "per_translation_copyright",
+      "commercial_use_allowed": false,
+      "redistribution_allowed": false,
+      "attribution_requirements": "Each translation carries its own copyright and permission notice.",
+      "authentication_required": false,
+      "rate_limits": "No public bulk API for corpus use.",
+      "ingestion_status": "restricted",
+      "last_verified_at": "2026-10-19",
+      "source_reliability_notes": "Convenient reading interface, not a rights-cleared dataset.",
+      "editorial_notes": "Link only. Use public-domain KJV or licensed API.Bible editions with permission.",
+      "priority": 2,
+      "approval_status": "rejected"
+    },
+    {
+      "source_id": "api-bible",
+      "source_name": "API.Bible",
+      "base_url": "https://scripture.api.bible/",
+      "organisation": "American Bible Society",
+      "traditions_covered": [
+        "christianity"
+      ],
+      "schools_covered": [],
+      "languages": [
+        "en",
+        "grc",
+        "he"
+      ],
+      "source_type": "licensed Bible API",
+      "content_types": [
+        "primary_text",
+        "translation",
+        "metadata"
+      ],
+      "api_documentation_url": "https://docs.api.bible/",
+      "download_url": "",
+      "access_method": "authenticated API",
+      "licence_url": "",
+      "licence_status": "per_translation_permission",
+      "commercial_use_allowed": null,
+      "redistribution_allowed": null,
+      "attribution_requirements": "Depends on the translation licence and rights-holder terms.",
+      "authentication_required": true,
+      "rate_limits": "API key and plan limits.",
+      "ingestion_status": "under_review",
+      "last_verified_at": null,
+      "source_reliability_notes": "Potentially valuable for licensed modern translations, but requires an API key and per-translation permission.",
+      "editorial_notes": "No key is configured. Not connected.",
+      "priority": 2,
+      "approval_status": "pending"
+    },
+    {
+      "source_id": "bible-hub",
+      "source_name": "Bible Hub",
+      "base_url": "https://biblehub.com/",
+      "organisation": "Bible Hub",
+      "traditions_covered": [
+        "christianity"
+      ],
+      "schools_covered": [],
+      "languages": [
+        "en",
+        "grc",
+        "he"
+      ],
+      "source_type": "Bible study website",
+      "content_types": [
+        "primary_text",
+        "translation",
+        "commentary",
+        "lexicon"
+      ],
+      "api_documentation_url": "",
+      "download_url": "",
+      "access_method": "web pages",
+      "licence_url": "",
+      "licence_status": "not_verified",
+      "commercial_use_allowed": null,
+      "redistribution_allowed": null,
+      "attribution_requirements": "Not established.",
+      "authentication_required": false,
+      "rate_limits": "No API.",
+      "ingestion_status": "under_review",
+      "last_verified_at": null,
+      "source_reliability_notes": "Aggregates multiple translations and commentaries; rights and editorial provenance vary per item.",
+      "editorial_notes": "Do not treat aggregated commentaries as a single scholarly source.",
+      "priority": 3,
+      "approval_status": "pending"
+    },
+    {
+      "source_id": "ccel",
+      "source_name": "Christian Classics Ethereal Library",
+      "base_url": "https://ccel.org/",
+      "organisation": "Christian Classics Ethereal Library",
+      "traditions_covered": [
+        "christianity"
+      ],
+      "schools_covered": [],
+      "languages": [
+        "en",
+        "grc",
+        "la"
+      ],
+      "source_type": "digital library",
+      "content_types": [
+        "patristics",
+        "theology",
+        "commentary",
+        "hymn",
+        "primary_text"
+      ],
+      "api_documentation_url": "",
+      "download_url": "https://ccel.org/",
+      "access_method": "web pages (streamed at read time for the section-page works) and a plain-text file per work, imported once",
+      "licence_url": "",
+      "licence_status": "mixed_per_item",
+      "commercial_use_allowed": null,
+      "redistribution_allowed": null,
+      "attribution_requirements": "Per item. The plain-text files the site publishes state their rights on their own catalogue card: a work whose card names a position other than public domain is not imported, and a card that states none is read as public domain on the site's copyright page, with that silence recorded on the edition. Every imported work credits the Christian Classics Ethereal Library.",
+      "authentication_required": false,
+      "rate_limits": "robots.txt asks every agent for a ten-second gap (Crawl-delay: 10); the importer takes one plain-text file per work, one request every ten seconds or slower.",
+      "ingestion_status": "active",
+      "last_verified_at": "2026-10-27",
+      "source_reliability_notes": "Large Protestant-oriented collection; editions vary in quality and provenance. The Ante-Nicene and Nicene and Post-Nicene Fathers are the Edinburgh and Oxford series the library already streams; their English translations are public domain, while some introductions and the SBL Greek New Testament that the library now lists are in copyright and are not imported.",
+      "editorial_notes": "The 38-volume Ante-Nicene and Nicene and Post-Nicene Fathers are imported as streamed works, one section page at a time: the Apostolic Fathers, the apologists, Clement of Alexandria, Origen, Tertullian, Hippolytus, Cyprian, Lactantius, Methodius, Arnobius, Eusebius, Athanasius, Basil, Gregory of Nyssa and Nazianzen, Chrysostom, Jerome, Ambrose, Augustine, Leo and Gregory the Great, John of Damascus, Cassian, Vincent of Lerins, the seven ecumenical councils, the New Testament apocrypha and the Latin Vulgate. Text that the site itself marks as in copyright — the SBL Greek New Testament above all — is catalogued but not imported. The whole of the site's title index — 1,322 works — is now catalogued locally (data/imports/ccel-catalogue.json), and the importer takes each work's plain-text file (one request per work) and stores it, so the text is read without asking ccel.org again. What it does not take is recorded as a lead: works the site offers only as an ebook, works whose card names a publisher's copyright, catalogue entries whose plain-text file is the collected volume they sit in, and works the library already holds.",
+      "priority": 2,
+      "approval_status": "approved"
+    },
+    {
+      "source_id": "new-advent",
+      "source_name": "New Advent",
+      "base_url": "https://www.newadvent.org/",
+      "organisation": "New Advent",
+      "traditions_covered": [
+        "christianity"
+      ],
+      "schools_covered": [
+        "catholicism"
+      ],
+      "languages": [
+        "en",
+        "la"
+      ],
+      "source_type": "Catholic reference website",
+      "content_types": [
+        "patristics",
+        "summa",
+        "encyclopedia",
+        "commentary"
+      ],
+      "api_documentation_url": "",
+      "download_url": "",
+      "access_method": "web pages",
+      "licence_url": "https://www.newadvent.org/",
+      "licence_status": "site_copyright",
+      "commercial_use_allowed": false,
+      "redistribution_allowed": false,
+      "attribution_requirements": "Site compilation and some translations are copyrighted; underlying public-domain works may be reused from their own editions.",
+      "authentication_required": false,
+      "rate_limits": "No API.",
+      "ingestion_status": "restricted",
+      "last_verified_at": "2026-10-19",
+      "source_reliability_notes": "Useful Catholic reference, but not a uniform primary-text dataset.",
+      "editorial_notes": "Link only; do not scrape the site.",
+      "priority": 3,
+      "approval_status": "rejected"
+    },
+    {
+      "source_id": "early-christian-writings",
+      "source_name": "Early Christian Writings",
+      "base_url": "https://www.earlychristianwritings.com/",
+      "organisation": "Early Christian Writings",
+      "traditions_covered": [
+        "christianity"
+      ],
+      "schools_covered": [
+        "early-christianity"
+      ],
+      "languages": [
+        "en",
+        "grc"
+      ],
+      "source_type": "scholarly reference site",
+      "content_types": [
+        "primary_text",
+        "translation",
+        "introduction",
+        "bibliography"
+      ],
+      "api_documentation_url": "",
+      "download_url": "",
+      "access_method": "web pages",
+      "licence_url": "",
+      "licence_status": "not_verified",
+      "commercial_use_allowed": null,
+      "redistribution_allowed": null,
+      "attribution_requirements": "Not established; translations have separate translators and rights.",
+      "authentication_required": false,
+      "rate_limits": "No API.",
+      "ingestion_status": "under_review",
+      "last_verified_at": null,
+      "source_reliability_notes": "Good for discovery and dating debates, but translations vary and some are copyrighted.",
+      "editorial_notes": "Use to locate editions; verify rights before import.",
+      "priority": 2,
+      "approval_status": "pending"
+    },
+    {
+      "source_id": "al-islam",
+      "source_name": "Al-Islam.org",
+      "base_url": "https://www.al-islam.org/",
+      "organisation": "Ahlul Bayt Digital Islamic Library Project",
+      "traditions_covered": [
+        "islam"
+      ],
+      "schools_covered": [
+        "shia"
+      ],
+      "languages": [
+        "en",
+        "ar",
+        "fa"
+      ],
+      "source_type": "Shi'a digital library",
+      "content_types": [
+        "primary_text",
+        "tafsir",
+        "hadith",
+        "theology",
+        "history"
+      ],
+      "api_documentation_url": "",
+      "download_url": "",
+      "access_method": "web pages",
+      "licence_url": "",
+      "licence_status": "hosting_permission_noncommercial",
+      "commercial_use_allowed": false,
+      "redistribution_allowed": false,
+      "attribution_requirements": "Content is hosted with permission of copyright holders for non-commercial purposes; other uses require express approval.",
+      "authentication_required": false,
+      "rate_limits": "No official API or bulk permission verified.",
+      "ingestion_status": "restricted",
+      "last_verified_at": "2026-10-19",
+      "source_reliability_notes": "Substantial Shi'a library with named authors and translations; rights are item-specific.",
+      "editorial_notes": "Link and metadata only. Preserve Shi'a provenance; do not collapse into a generic Islam category.",
+      "priority": 2,
+      "approval_status": "rejected"
+    },
+    {
+      "source_id": "sunnah-com",
+      "source_name": "Sunnah.com",
+      "base_url": "https://sunnah.com/",
+      "organisation": "Sunnah.com",
+      "traditions_covered": [
+        "islam"
+      ],
+      "schools_covered": [
+        "sunni"
+      ],
+      "languages": [
+        "en",
+        "ar"
+      ],
+      "source_type": "hadith library and API",
+      "content_types": [
+        "hadith",
+        "translation",
+        "grading_metadata"
+      ],
+      "api_documentation_url": "https://sunnah.com/developers",
+      "download_url": "https://github.com/sunnah-com/api",
+      "access_method": "API key; limited data; offline dump not yet available",
+      "licence_url": "https://sunnah.com/about",
+      "licence_status": "limited_permission_no_mass_reproduction",
+      "commercial_use_allowed": false,
+      "redistribution_allowed": false,
+      "attribution_requirements": "Sunnah.com permits individual hadith or selections for teaching/presentation, but not scraping or mass reproduction of entire books. Cite collection, number and translator.",
+      "authentication_required": true,
+      "rate_limits": "API key; partial data; no bulk dump yet.",
+      "ingestion_status": "restricted",
+      "last_verified_at": "2026-10-19",
+      "source_reliability_notes": "Widely used hadith reference. Arabic sources and English translators vary by collection; grading metadata must not be flattened.",
+      "editorial_notes": "No import. A future integration needs per-collection permission and preserved school/grading provenance.",
+      "priority": 2,
+      "approval_status": "rejected"
+    },
+    {
+      "source_id": "gita-supersite",
+      "source_name": "Gita Supersite / Heritage IIT Kanpur",
+      "base_url": "https://www.gitasupersite.iitk.ac.in/",
+      "organisation": "Indian Institute of Technology Kanpur",
+      "traditions_covered": [
+        "hinduism"
+      ],
+      "schools_covered": [
+        "vedanta",
+        "vaishnavism"
+      ],
+      "languages": [
+        "sa",
+        "en",
+        "hi"
+      ],
+      "source_type": "scholarly text repository and API",
+      "content_types": [
+        "primary_text",
+        "translation",
+        "commentary",
+        "lexicon"
+      ],
+      "api_documentation_url": "https://heritage.iitk.ac.in/api/docs/",
+      "download_url": "https://heritage.iitk.ac.in/SBG",
+      "access_method": "a keyed read-only JSON API at /api/v1/ — /{text}/{ref}/moolam/, /translations/{lang}/{slug}/, /commentaries/sa/{slug}/ and /transliterations/{source_type}/{script}/, one verse a time, with an OpenAPI schema at /api/schema/; the corpus, each text's chapters and the address of every verse are published without a key at /api/texts/ and /api/texts/<CODE>/",
+      "licence_url": "https://heritage.iitk.ac.in/license",
+      "licence_status": "hcal_1_1",
+      "commercial_use_allowed": false,
+      "redistribution_allowed": null,
+      "attribution_requirements": "HCAL 1.1 separates three tiers. The moolam (the Sanskrit verses) is Tier A: no modern copyright attaches to it, and HCAL allows any use with courtesy attribution. The platform's Sanskrit commentaries are Tier B: they may be displayed in a non-commercial application with full attribution to the commentator, the edition and the platform. The authoritative modern translations, the modern-language commentaries and the commentary translations are Tier C: the licence gives the platform reading permission only and expressly withholds redistribution, bulk download and reproduction in third-party databases, so they are not imported into the corpus.",
+      "authentication_required": true,
+      "rate_limits": "The content routes require an API key, issued on an access request at /api/v1/request-access/. The server meters by the verse: moolam 1 unit, transliterations 2, AI and community translations 2, Sanskrit bhashya 3, against a daily allowance of 50 units on the Free tier, 500 on Research, 2,000 on Developer and 10,000 on a partner key, with a burst of 30 requests a minute. Every response carries a _meta block with the remaining quota, the licence identifier and a watermark. The library holds only the outline — chapters and verse addresses, which are open — and reads the text one verse at a time as a chapter is opened, at a walking pace; a corpus of 165,091 verses is far outside any daily allowance, which is the licence's intent as well as the server's limit.",
+      "ingestion_status": "active",
+      "last_verified_at": "2026-10-26",
+      "source_reliability_notes": "The Sanskrit moolam is the received text of the Bhagavad Gita, verse by verse, in the script the reader asks for; the commentaries are the published Sanskrit bhashyas transcribed by the platform. The Gita Supersite's older hostname now redirects to Heritage IITK's verse route, so the same editions are reachable at either address.",
+      "editorial_notes": "Used for the Sanskrit text of the Bhagavad Gita with its chapter and verse numbering, and for the Sanskrit commentaries the platform publishes — Shankara's bhashya above all, the commentary the whole Vedanta shelf of this library reads the Gita through. Access was authorised by the project owner on 2026-10-26. Only Tier A and Tier B content is imported; the modern English and Hindi translations and commentaries that the licence withholds from third-party databases are not, and the reader shows each commentary under the commentator's name and the platform's terms rather than presenting it as this library's own. The Gita Supersite is continued at Heritage IITKanpur, which serves this corpus from the Scripture Server's API under HCAL-1.1; the importer reads the corpus, the chapters and the verse addresses from the open catalogue and holds those, and streams the verses from the content routes, which answer a key Heritage issues on request. Where a text's verse addresses are published as a sitemap they are read from it; where only per-chapter verse counts are published the addresses are built from those counts and the record says so.",
+      "priority": 1,
+      "approval_status": "approved",
+      "review_note": "Approved for streamed display on 2026-10-26 against HCAL 1.1: Tier A (the Sanskrit moolam) and Tier B (the platform's Sanskrit commentaries) only. Tier C content is excluded because the licence does not extend redistribution to third-party databases."
+    },
+    {
+      "source_id": "muktabodha",
+      "source_name": "Muktabodha Digital Library",
+      "base_url": "https://muktabodha-digital-library.org/",
+      "organisation": "Muktabodha",
+      "traditions_covered": [
+        "hinduism"
+      ],
+      "schools_covered": [
+        "shaiva",
+        "shakta",
+        "vedanta"
+      ],
+      "languages": [
+        "sa"
+      ],
+      "source_type": "specialist manuscript and text library",
+      "content_types": [
+        "manuscript_scan",
+        "primary_text",
+        "transliteration",
+        "ritual"
+      ],
+      "api_documentation_url": "",
+      "download_url": "",
+      "access_method": "account-based digital library",
+      "licence_url": "",
+      "licence_status": "not_verified",
+      "commercial_use_allowed": null,
+      "redistribution_allowed": null,
+      "attribution_requirements": "Not established; access may be subject to registration conditions.",
+      "authentication_required": true,
+      "rate_limits": "No open API verified.",
+      "ingestion_status": "under_review",
+      "last_verified_at": null,
+      "source_reliability_notes": "Important for Kashmir Shaiva and related traditions. Access-controlled; do not treat login access as redistribution permission.",
+      "editorial_notes": "Discovery and metadata only until terms are reviewed and permission obtained.",
+      "priority": 2,
+      "approval_status": "pending"
+    },
+    {
+      "source_id": "bdrc",
+      "source_name": "Buddhist Digital Resource Center",
+      "base_url": "https://library.bdrc.io/",
+      "organisation": "BDRC",
+      "traditions_covered": [
+        "buddhism"
+      ],
+      "schools_covered": [
+        "tibetan-buddhism"
+      ],
+      "languages": [
+        "bo",
+        "sa",
+        "zh",
+        "en"
+      ],
+      "source_type": "digital manuscript library",
+      "content_types": [
+        "canonical_text",
+        "commentary",
+        "manuscript_scan",
+        "metadata"
+      ],
+      "api_documentation_url": "https://buda.bdrc.io/",
+      "download_url": "",
+      "access_method": "web library and linked data; downloads vary",
+      "licence_url": "",
+      "licence_status": "mixed_per_collection",
+      "commercial_use_allowed": null,
+      "redistribution_allowed": null,
+      "attribution_requirements": "Per collection and item; not uniform.",
+      "authentication_required": false,
+      "rate_limits": "Linked-data endpoints; respect service terms.",
+      "ingestion_status": "under_review",
+      "last_verified_at": null,
+      "source_reliability_notes": "Major Tibetan Buddhist resource with strong cataloguing, but rights and access differ by collection.",
+      "editorial_notes": "No import in this build. A future adapter must preserve Tibetan script, pecha structure and collection rights.",
+      "priority": 2,
+      "approval_status": "pending"
+    },
+    {
+      "source_id": "84000",
+      "source_name": "84000: Translating the Words of the Buddha",
+      "base_url": "https://84000.co/",
+      "organisation": "84000",
+      "traditions_covered": [
+        "buddhism"
+      ],
+      "schools_covered": [
+        "tibetan-buddhism"
+      ],
+      "languages": [
+        "bo",
+        "en"
+      ],
+      "source_type": "translation project",
+      "content_types": [
+        "canonical_text",
+        "translation",
+        "glossary"
+      ],
+      "api_documentation_url": "",
+      "download_url": "",
+      "access_method": "web reading",
+      "licence_url": "",
+      "licence_status": "not_verified",
+      "commercial_use_allowed": null,
+      "redistribution_allowed": null,
+      "attribution_requirements": "Not established; translations are recent scholarly works.",
+      "authentication_required": false,
+      "rate_limits": "No public bulk API verified.",
+      "ingestion_status": "under_review",
+      "last_verified_at": null,
+      "source_reliability_notes": "High-quality modern translations of Tibetan canonical texts; rights likely attach to translations.",
+      "editorial_notes": "Link and metadata only until translation licences are confirmed.",
+      "priority": 2,
+      "approval_status": "pending"
+    },
+    {
+      "source_id": "accesstoinsight",
+      "source_name": "Access to Insight",
+      "base_url": "https://www.accesstoinsight.org/",
+      "organisation": "Access to Insight",
+      "traditions_covered": [
+        "buddhism"
+      ],
+      "schools_covered": [
+        "theravada"
+      ],
+      "languages": [
+        "en",
+        "pi"
+      ],
+      "source_type": "Theravada reading library",
+      "content_types": [
+        "sutta",
+        "translation",
+        "essay",
+        "commentary"
+      ],
+      "api_documentation_url": "",
+      "download_url": "",
+      "access_method": "web pages",
+      "licence_url": "https://www.accesstoinsight.org/faq.html#copyright",
+      "licence_status": "mixed_per_text",
+      "commercial_use_allowed": null,
+      "redistribution_allowed": null,
+      "attribution_requirements": "Per translator and text; many translations are freely distributed but not all are openly licensed.",
+      "authentication_required": false,
+      "rate_limits": "No API.",
+      "ingestion_status": "under_review",
+      "last_verified_at": null,
+      "source_reliability_notes": "Long-standing Theravada library; translations by different hands and dates.",
+      "editorial_notes": "Use SuttaCentral for the tested Pali/English import. Check per-translation terms before importing Access to Insight texts.",
+      "priority": 2,
+      "approval_status": "pending"
+    },
+    {
+      "source_id": "sikhitothemax",
+      "source_name": "SikhiToTheMax",
+      "base_url": "https://www.sikhitothemax.org/",
+      "organisation": "SikhiToTheMax",
+      "traditions_covered": [
+        "sikhism"
+      ],
+      "schools_covered": [],
+      "languages": [
+        "pa",
+        "en"
+      ],
+      "source_type": "Gurbani reading platform",
+      "content_types": [
+        "primary_text",
+        "translation",
+        "transliteration",
+        "search"
+      ],
+      "api_documentation_url": "",
+      "download_url": "",
+      "access_method": "web and app",
+      "licence_url": "",
+      "licence_status": "not_verified",
+      "commercial_use_allowed": null,
+      "redistribution_allowed": null,
+      "attribution_requirements": "Not established; Gurmukhi text and translations may have separate provenance.",
+      "authentication_required": false,
+      "rate_limits": "No public bulk API verified.",
+      "ingestion_status": "under_review",
+      "last_verified_at": null,
+      "source_reliability_notes": "Widely used Gurbani reader. Must preserve raga, ang and translation provenance; not a neutral critical edition.",
+      "editorial_notes": "Catalogue only. The Guru Granth Sahib requires community and editorial review, not casual scraping. Its Vaaran and Dasam Granth texts are the best reading interface found for those works, but the translator and licence remain unstated.",
+      "priority": 2,
+      "approval_status": "pending"
+    },
+    {
+      "source_id": "jain-elibrary",
+      "source_name": "Jain eLibrary",
+      "base_url": "https://jainelibrary.org/",
+      "organisation": "Jain eLibrary",
+      "traditions_covered": [
+        "jainism"
+      ],
+      "schools_covered": [
+        "svetambara",
+        "digambara"
+      ],
+      "languages": [
+        "en",
+        "hi",
+        "pra",
+        "sa"
+      ],
+      "source_type": "community digital library",
+      "content_types": [
+        "canonical_text",
+        "commentary",
+        "book_scan",
+        "translation"
+      ],
+      "api_documentation_url": "",
+      "download_url": "",
+      "access_method": "web library and PDFs",
+      "licence_url": "",
+      "licence_status": "not_verified",
+      "commercial_use_allowed": null,
+      "redistribution_allowed": null,
+      "attribution_requirements": "Not established; editions and translations carry separate rights.",
+      "authentication_required": false,
+      "rate_limits": "No API verified.",
+      "ingestion_status": "under_review",
+      "last_verified_at": null,
+      "source_reliability_notes": "Broad Jain collection across sectarian traditions. Metadata and edition quality vary.",
+      "editorial_notes": "Preserve Digambara/Shvetambara provenance. Current Acaranga text comes from public-domain Jacobi via Wikisource.",
+      "priority": 2,
+      "approval_status": "pending"
+    },
+    {
+      "source_id": "ctext",
+      "source_name": "Chinese Text Project",
+      "base_url": "https://ctext.org/",
+      "organisation": "Chinese Text Project",
+      "traditions_covered": [
+        "taoism",
+        "confucianism",
+        "buddhism"
+      ],
+      "schools_covered": [
+        "daoist",
+        "confucian"
+      ],
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "source_type": "premodern Chinese text database",
+      "content_types": [
+        "primary_text",
+        "translation",
+        "commentary",
+        "lexicon"
+      ],
+      "api_documentation_url": "https://ctext.org/tools/api",
+      "download_url": "",
+      "access_method": "web reading, one page per chapter in HTML; the plain-text and JSON access described in the site's own tools pages",
+      "licence_url": "https://ctext.org/faq",
+      "licence_status": "owner_authorisation_with_site_terms",
+      "commercial_use_allowed": null,
+      "redistribution_allowed": null,
+      "attribution_requirements": "Name the Chinese Text Project and the edition it transcribes, and link the work's page on ctext.org, for every chapter shown. The pre-modern Chinese text is itself out of copyright; the site's transcriptions, punctuation, apparatus and its own English translations are the project's work and are not relicensed here.",
+      "authentication_required": false,
+      "rate_limits": "One page per chapter at read time, held in the stream cache; imports fetch with a delay between requests and keep a descriptive user agent. The site asks readers not to use automated download software, and its runtime rules ask for a two-second crawl delay; both are respected, and no work is crawled twice.",
+      "ingestion_status": "active",
+      "last_verified_at": "2026-10-26",
+      "source_reliability_notes": "A scholarly corpus of pre-modern Chinese texts with a critical apparatus: the transcribed base texts are sound, but the site's own segmentation, punctuation and any English translation are its editorial work and are credited as such. Some texts are OCR transcriptions of library scans and the site labels those as unproofed.",
+      "editorial_notes": "Used for the Chinese originals of the Confucian and Daoist works this library already held in nineteenth-century English translation, and for texts that were on the acquisition register with ctext as the lead — above all the Wenzi, whose complete Chinese text closes a wanted record. Access was authorised by the project owner on 2026-10-26. The Chinese text is streamed from ctext.org one chapter at a time and shown beside the translation the library already holds, each pane naming its own source.",
+      "priority": 1,
+      "approval_status": "approved",
+      "review_note": "Approved for streamed display on 2026-10-26. The transcriptions are the Chinese Text Project's own editorial work and are credited on every page; requests are one chapter at a time, spaced, and never repeated for a work already imported."
+    },
+    {
+      "source_id": "avesta-org",
+      "source_name": "Avesta.org",
+      "base_url": "https://www.avesta.org/",
+      "organisation": "Avesta.org",
+      "traditions_covered": [
+        "zoroastrianism"
+      ],
+      "schools_covered": [],
+      "languages": [
+        "ae",
+        "pal",
+        "en"
+      ],
+      "source_type": "specialist text archive",
+      "content_types": [
+        "primary_text",
+        "translation",
+        "pahlavi_text",
+        "liturgy"
+      ],
+      "api_documentation_url": "",
+      "download_url": "",
+      "access_method": "web pages and files",
+      "licence_url": "",
+      "licence_status": "not_verified",
+      "commercial_use_allowed": null,
+      "redistribution_allowed": null,
+      "attribution_requirements": "Per translation and file; not established.",
+      "authentication_required": false,
+      "rate_limits": "No API.",
+      "ingestion_status": "under_review",
+      "last_verified_at": null,
+      "source_reliability_notes": "Long-standing collection of Avestan and Pahlavi texts in multiple translations. Translations differ substantially and must be identified by translator.",
+      "editorial_notes": "No Gathas text is displayed until a reliable Avestan edition and a permitted translation are verified.",
+      "priority": 2,
+      "approval_status": "pending"
+    },
+    {
+      "source_id": "kokugakuin",
+      "source_name": "Kokugakuin University — Japanese religious studies resources",
+      "base_url": "https://www.kokugakuin.ac.jp/",
+      "organisation": "Kokugakuin University",
+      "traditions_covered": [
+        "shinto"
+      ],
+      "schools_covered": [],
+      "languages": [
+        "ja",
+        "en"
+      ],
+      "source_type": "university research and education resource",
+      "content_types": [
+        "scholarship",
+        "ritual_text",
+        "historical_document",
+        "encyclopedia"
+      ],
+      "api_documentation_url": "",
+      "download_url": "",
+      "access_method": "web resources",
+      "licence_url": "",
+      "licence_status": "not_verified",
+      "commercial_use_allowed": null,
+      "redistribution_allowed": null,
+      "attribution_requirements": "Not established.",
+      "authentication_required": false,
+      "rate_limits": "No API verified.",
+      "ingestion_status": "under_review",
+      "last_verified_at": null,
+      "source_reliability_notes": "Scholarly Shinto resources, including the Shinto Encyclopedia and university publications. Not a single canonical text repository.",
+      "editorial_notes": "Use for discovery and context; current Kojiki text comes from Chamberlain via Wikisource.",
+      "priority": 2,
+      "approval_status": "pending"
+    },
+    {
+      "source_id": "sacred-texts",
+      "source_name": "Internet Sacred Text Archive",
+      "base_url": "https://archive.sacred-texts.com/",
+      "organisation": "Internet Sacred Text Archive (sacred-texts.com)",
+      "traditions_covered": [
+        "hinduism",
+        "buddhism",
+        "christianity",
+        "paganism",
+        "zoroastrianism",
+        "jainism",
+        "shinto",
+        "sikhism",
+        "taoism",
+        "confucianism"
+      ],
+      "schools_covered": [
+        "patristics",
+        "scholasticism",
+        "confucian"
+      ],
+      "languages": [
+        "en"
+      ],
+      "source_type": "public-domain text archive",
+      "content_types": [
+        "primary_text",
+        "translation",
+        "scholarship"
+      ],
+      "api_documentation_url": "",
+      "download_url": "https://archive.sacred-texts.com/",
+      "access_method": "static HTML pages and JSON reading views, one page per chapter; read chapter by chapter and cached",
+      "licence_url": "https://www.sacred-texts.com/copyrights",
+      "licence_status": "public_domain_us",
+      "commercial_use_allowed": true,
+      "redistribution_allowed": false,
+      "attribution_requirements": "The underlying translations are public domain in the United States. Credit the printed edition, its translator and the Internet Sacred Text Archive as the digital source. The archive's page transcription is not copied into this library.",
+      "authentication_required": false,
+      "rate_limits": "One request per chapter when a reader opens it, held in the stream cache; imports fetch with a small concurrency cap and keep the validated segments so the host is not crawled a second time.",
+      "ingestion_status": "active",
+      "last_verified_at": "2026-11-02",
+      "source_reliability_notes": "Transcriptions of printed public-domain editions served as static HTML, without page images. Accuracy varies with the printed edition and the transcription; these are reading texts, not critical editions. The old pages are served from archive.sacred-texts.com; the site's current interface blocks scripted clients.",
+      "editorial_notes": "Used for Keith's Taittiriya Samhita, Part II of Thibaut's Vedanta-Sutras (SBE 38), and fifty-six complete works, including MacAuliffe's Sikh Religion, Volume 1 (1909) and Dorothy Field's Religion of the Sikhs (1914) from the archive's Sikh shelf: Darmesteter's Vendidad (SBE 4), Mills's Yasna (SBE 31), Darmesteter's Sirozahs, Yashts and Nyayis (SBE 23), West's five Pahlavi Texts volumes (SBE 5, 18, 24, 37, 47), Eggeling's Satapatha Brahmana (SBE 12, 26, 41, 43, 44), Bühler's Laws of Manu (SBE 25), Ballantyne's Sankhya Aphorisms, Pancham Sinh's Hatha Yoga Pradipika, Fausböll's Sutta-Nipata (SBE 10), Rhys Davids's Buddhist Suttas (SBE 11) and Questions of King Milinda (SBE 35–36), Cowell, Müller and Takakusu's Buddhist Mahayana Texts (SBE 49), Kern's Lotus Sutra (SBE 21), Rhys Davids and Oldenberg's Vinaya Texts (SBE 13, 17, 20), Cowell's Jataka (six volumes), and, from the archive's Christianity and Buddhism sections, the Apostolic Fathers (Ante-Nicene Fathers I), Parker's Dionysius the Areopagite, Deane's Anselm, Underhill's Cloud of Unknowing, Benham's Imitation of Christ, Strong's Udana, Rhys Davids's Psalms of the Sisters, Beal's Fo-Sho-Hing-Tsan-King (SBE 19) and Barnett's Path of Light. From the archive's Taoism shelf it carries Legge's Zhuangzi (SBE 39–40), Giles's Liezi and Yang Chu, Legge's Tai Shang Tractate, Classic of Purity, Yin Fu King and the appendixes on the Pivot of Jade and the Directory for a Day, Suzuki and Carus's Yin Chih Wen and Canon of Reason and Virtue, and Balfour's Taoist Texts and Giles's Sayings of Lao Tzŭ. From the archive's Confucianism shelf it carries the Confucian canon — the Analects with the Chinese text of the bilingual canon page, the Great Learning, the Doctrine of the Mean, Mencius, the Shû King, the religious portions of the Shih King, the Hsiâo King, both volumes of the Li Kî and the Yî King — together with Legge's 1876 Book of Poetry, Ivan Chen's Book of Filial Duty, Cranmer-Byng's Feast of Lanterns, Dawson's Ethics of Confucius, Giles's Confucianism and Its Rivals and a translation of the Shundai Zatsuwa. Access was authorised by the project owner on 2026-10-22; requests stay chapter-sized, cached, and identified by a descriptive user agent. The site's 2026 terms ask readers not to scrape or overload the service, so imports fetch once and the reader never bulk-crawls. From the archive’s Jain shelf it now carries all four works of Jacobi’s Jaina Sutras (SBE 22 and 45, 1884 and 1895) — the complete Acaranga, Kalpa Sutra, Uttaradhyayana and Sutrakritanga — read from the site’s current JSON reading views, whose printed page numbers are taken out of the text before it is shown.",
+      "priority": 1,
+      "approval_status": "approved"
+    },
+    {
+      "source_id": "gretil",
+      "source_name": "GRETIL — Göttingen Register of Electronic Texts in Indian Languages",
+      "base_url": "https://gretil.sub.uni-goettingen.de/",
+      "organisation": "Niedersächsische Staats- und Universitätsbibliothek Göttingen",
+      "traditions_covered": [
+        "hinduism",
+        "buddhism",
+        "jainism"
+      ],
+      "schools_covered": [],
+      "languages": [
+        "sa",
+        "pi",
+        "pra"
+      ],
+      "source_type": "academic e-text register",
+      "content_types": [
+        "primary_text",
+        "scholarly_edition"
+      ],
+      "api_documentation_url": "",
+      "download_url": "https://gretil.sub.uni-goettingen.de/gretil/corpustei/",
+      "access_method": "static files, one per work: TEI-conformant XML, an analytic HTML transformation and a plain-text transformation; the master index at gretil.html lists every entry under its language and genre",
+      "licence_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "licence_status": "cc_by_nc_sa_4_0_with_per_file_variation",
+      "commercial_use_allowed": false,
+      "redistribution_allowed": true,
+      "attribution_requirements": "Every GRETIL e-text carries a header naming the scholar who input it, the edition it follows and its licence. Credit the edition GRETIL names, the inputter and GRETIL itself. Most files in the Sanskrit corpus are distributed under CC BY-NC-SA 4.0, which forbids commercial use; individual files state their own terms and must be read before reuse.",
+      "authentication_required": false,
+      "rate_limits": "No API. Files are static objects; this library fetches each work once when a reader opens it, once when its passage index is built, and sends a descriptive user agent.",
+      "ingestion_status": "active",
+      "last_verified_at": "2026-10-26",
+      "source_reliability_notes": "A curated register of Sanskrit, Pali and Prakrit e-texts, each transcribed by a named scholar from a stated printed edition. The corpus is deliberately heterogeneous: text is ASCII-transliterated, reference schemes differ from work to work, catalogues, verse-numbering and prose numbering vary, and some files interleave a commentary with the root text. Coverage is a scholarly selection, not a complete Sanskrit library, and the register is not a critical edition.",
+      "editorial_notes": "Used for the Sanskrit originals of the Hindu works on the Purana, Darshana, Tantra, poetics, grammar and astronomy shelves that the acquisition register had recorded as wanted with GRETIL as the lead. Works are streamed from GRETIL at read time; the library holds the catalogue record, chapter outline and passage index, and the import cache keeps the segments that were validated so the host is crawled once. Access was authorised by the project owner on 2026-10-26.",
+      "priority": 1,
+      "approval_status": "approved"
+    },
+    {
+      "source_id": "theosophy-archive",
+      "source_name": "Theosophy World / Blavatsky archives",
+      "base_url": "https://www.theosophy.world/",
+      "organisation": "Theosophical Society and independent archives",
+      "traditions_covered": [
+        "theosophy"
+      ],
+      "schools_covered": [],
+      "languages": [
+        "en"
+      ],
+      "source_type": "movement archives",
+      "content_types": [
+        "theology",
+        "essay",
+        "historical_document",
+        "correspondence"
+      ],
+      "api_documentation_url": "",
+      "download_url": "",
+      "access_method": "web pages",
+      "licence_url": "",
+      "licence_status": "not_verified",
+      "commercial_use_allowed": null,
+      "redistribution_allowed": null,
+      "attribution_requirements": "Not established; Blavatsky's original works may be public domain while later editions and compilations are not.",
+      "authentication_required": false,
+      "rate_limits": "No API.",
+      "ingestion_status": "discovered",
+      "last_verified_at": null,
+      "source_reliability_notes": "Theosophy has multiple organisations and no single authority. Distinguish primary texts from later compilations.",
+      "editorial_notes": "Discovery only; verify a specific public-domain edition before import.",
+      "priority": 3,
+      "approval_status": "pending"
+    },
+    {
+      "source_id": "rudolf-steiner-archive",
+      "source_name": "Rudolf Steiner Archive",
+      "base_url": "https://rsarchive.org/",
+      "organisation": "Rudolf Steiner Archive",
+      "traditions_covered": [
+        "anthroposophy"
+      ],
+      "schools_covered": [],
+      "languages": [
+        "en",
+        "de"
+      ],
+      "source_type": "author archive",
+      "content_types": [
+        "philosophy",
+        "lecture",
+        "essay",
+        "historical_document"
+      ],
+      "api_documentation_url": "",
+      "download_url": "",
+      "access_method": "web pages",
+      "licence_url": "",
+      "licence_status": "not_verified",
+      "commercial_use_allowed": null,
+      "redistribution_allowed": null,
+      "attribution_requirements": "Not established; translations and lecture transcripts have separate rights.",
+      "authentication_required": false,
+      "rate_limits": "No API.",
+      "ingestion_status": "discovered",
+      "last_verified_at": null,
+      "source_reliability_notes": "Large archive of Steiner's works and lectures; edition and translation provenance matter.",
+      "editorial_notes": "Do not treat Anthroposophy as a canon religion. Catalogue only pending rights review.",
+      "priority": 3,
+      "approval_status": "pending"
+    },
+    {
+      "source_id": "indigenous-collections",
+      "source_name": "Community-controlled Indigenous collections",
+      "base_url": "",
+      "organisation": "Various Indigenous nations, archives and cultural centres",
+      "traditions_covered": [
+        "indigenous"
+      ],
+      "schools_covered": [],
+      "languages": [],
+      "source_type": "community-governed archive",
+      "content_types": [
+        "oral_history",
+        "language_material",
+        "ceremony",
+        "story"
+      ],
+      "api_documentation_url": "",
+      "download_url": "",
+      "access_method": "varies; often permission- and protocol-based",
+      "licence_url": "",
+      "licence_status": "community_protocols_required",
+      "commercial_use_allowed": null,
+      "redistribution_allowed": false,
+      "attribution_requirements": "Defined by the holding community, not by this library. Free, prior and informed consent is required.",
+      "authentication_required": true,
+      "rate_limits": "Not applicable.",
+      "ingestion_status": "restricted",
+      "last_verified_at": "2026-10-19",
+      "source_reliability_notes": "There is no single Indigenous canon or archive. Some knowledge is restricted, ceremonial or not intended for public circulation.",
+      "editorial_notes": "No text imported. Any future contribution needs a community agreement, access levels, attribution and takedown process.",
+      "priority": 1,
+      "approval_status": "rejected"
+    },
+    {
+      "source_id": "tanzil",
+      "source_name": "Tanzil Quran Text",
+      "base_url": "https://tanzil.net/",
+      "organisation": "Tanzil Project",
+      "traditions_covered": [
+        "islam"
+      ],
+      "schools_covered": [],
+      "languages": [
+        "ar"
+      ],
+      "source_type": "primary text source",
+      "content_types": [
+        "primary_text",
+        "metadata"
+      ],
+      "api_documentation_url": "",
+      "download_url": "",
+      "access_method": "download and API",
+      "licence_url": "https://tanzil.net/docs/",
+      "licence_status": "Tanzil text terms: verbatim copying permitted, modification not allowed",
+      "commercial_use_allowed": false,
+      "redistribution_allowed": true,
+      "attribution_requirements": "Tanzil Quran Text must be reproduced verbatim and credited to the Tanzil Project. Translations carry their own terms.",
+      "authentication_required": false,
+      "rate_limits": "Bulk downloads supplied as files; no fixed request limit",
+      "ingestion_status": "licence_verified",
+      "last_verified_at": "2026-10-20",
+      "source_reliability_notes": "The Uthmani text used by AlQuran Cloud and Quran.com. Every copied ayah is reproduced without modification and cites the Tanzil terms.",
+      "editorial_notes": "Upstream text for the Arabic Quran edition. Translations are imported separately and never mixed into the Arabic.",
+      "priority": 1,
+      "approval_status": "approved"
+    },
+    {
+      "source_id": "zemirot-database",
+      "source_name": "Zemirot Database",
+      "base_url": "https://zemirotdatabase.org/",
+      "organisation": "Zemirot Database",
+      "traditions_covered": [
+        "judaism"
+      ],
+      "schools_covered": [],
+      "languages": [
+        "he",
+        "en"
+      ],
+      "source_type": "community liturgical song collection",
+      "content_types": [
+        "primary_text",
+        "liturgical_music",
+        "translation"
+      ],
+      "api_documentation_url": "",
+      "download_url": "",
+      "access_method": "website",
+      "licence_url": "",
+      "licence_status": "Unstated; individual melodies and settings carry their own rights",
+      "commercial_use_allowed": null,
+      "redistribution_allowed": false,
+      "attribution_requirements": "Melody attributions and transcriptions belong to the contributors named on each entry.",
+      "authentication_required": false,
+      "rate_limits": "Not published",
+      "ingestion_status": "under_review",
+      "last_verified_at": "2026-10-20",
+      "source_reliability_notes": "A volunteer collection of Shabbat and festival zemirot with melodies. Useful for a liturgical-music shelf; not a critical edition.",
+      "editorial_notes": "A liturgical music section would catalogue song texts and melodies with links rather than copying audio or notation without permission.",
+      "priority": 2,
+      "approval_status": "pending"
+    },
+    {
+      "source_id": "quaker-faith-practice-online",
+      "source_name": "Quaker Faith & Practice online",
+      "base_url": "https://qfp.quaker.org.uk/",
+      "organisation": "Britain Yearly Meeting",
+      "traditions_covered": [
+        "quakerism"
+      ],
+      "schools_covered": [],
+      "languages": [
+        "en"
+      ],
+      "source_type": "denominational book",
+      "content_types": [
+        "primary_text",
+        "community_statement"
+      ],
+      "api_documentation_url": "",
+      "download_url": "",
+      "access_method": "website",
+      "licence_url": "",
+      "licence_status": "Copyright Britain Yearly Meeting; online reading permitted, bulk copying not licensed",
+      "commercial_use_allowed": null,
+      "redistribution_allowed": false,
+      "attribution_requirements": "Quaker Faith & Practice, Britain Yearly Meeting.",
+      "authentication_required": false,
+      "rate_limits": "Not published",
+      "ingestion_status": "restricted",
+      "last_verified_at": "2026-10-20",
+      "source_reliability_notes": "The authoritative current edition for Britain Yearly Meeting, searchable online.",
+      "editorial_notes": "Recorded as a link-out source. The library does not copy the book; extracts require permission.",
+      "priority": 2,
+      "approval_status": "rejected"
+    },
+    {
+      "source_id": "uudb",
+      "source_name": "Unitarian Universalist Biography Dictionary",
+      "base_url": "https://uudb.org/",
+      "organisation": "Unitarian Universalist History & Heritage Society",
+      "traditions_covered": [
+        "unitarian-universalism",
+        "unitarianism",
+        "universalism"
+      ],
+      "schools_covered": [],
+      "languages": [
+        "en"
+      ],
+      "source_type": "biographical reference",
+      "content_types": [
+        "metadata",
+        "historical_document"
+      ],
+      "api_documentation_url": "",
+      "download_url": "",
+      "access_method": "website",
+      "licence_url": "",
+      "licence_status": "Contributor-held; site publication only",
+      "commercial_use_allowed": null,
+      "redistribution_allowed": false,
+      "attribution_requirements": "Cite the Dictionary entry and its author.",
+      "authentication_required": false,
+      "rate_limits": "Not published",
+      "ingestion_status": "under_review",
+      "last_verified_at": "2026-10-20",
+      "source_reliability_notes": "Scholarly biographical entries on Unitarian and Universalist figures, maintained by the UU history society.",
+      "editorial_notes": "Useful for author records rather than for primary texts.",
+      "priority": 2,
+      "approval_status": "pending"
+    },
+    {
+      "source_id": "sikhi-io",
+      "source_name": "Sikhi.io",
+      "base_url": "https://www.sikhi.io/",
+      "organisation": "Sikhi.io",
+      "traditions_covered": [
+        "sikhism"
+      ],
+      "schools_covered": [],
+      "languages": [
+        "pa",
+        "en"
+      ],
+      "source_type": "scripture reading platform",
+      "content_types": [
+        "primary_text",
+        "translation"
+      ],
+      "api_documentation_url": "",
+      "download_url": "",
+      "access_method": "website",
+      "licence_url": "",
+      "licence_status": "Unstated; Gurbani text is public, translations and interface are not",
+      "commercial_use_allowed": null,
+      "redistribution_allowed": false,
+      "attribution_requirements": "Gurbani is reproduced with its raag and ang references; translators are credited where named.",
+      "authentication_required": false,
+      "rate_limits": "Not published",
+      "ingestion_status": "under_review",
+      "last_verified_at": "2026-10-20",
+      "source_reliability_notes": "A reading interface for Sri Guru Granth Sahib with ang references and translations.",
+      "editorial_notes": "Prefer a source that states translation licences before importing any English text.",
+      "priority": 2,
+      "approval_status": "pending"
+    },
+    {
+      "source_id": "sikh-archive",
+      "source_name": "Sikh Archive",
+      "base_url": "https://sikharchive.co.uk/",
+      "organisation": "Sikh Archive",
+      "traditions_covered": [
+        "sikhism"
+      ],
+      "schools_covered": [],
+      "languages": [
+        "pa",
+        "en"
+      ],
+      "source_type": "document archive",
+      "content_types": [
+        "historical_document",
+        "metadata"
+      ],
+      "api_documentation_url": "",
+      "download_url": "",
+      "access_method": "website",
+      "licence_url": "",
+      "licence_status": "Mixed; per-document rights",
+      "commercial_use_allowed": null,
+      "redistribution_allowed": false,
+      "attribution_requirements": "Per document.",
+      "authentication_required": false,
+      "rate_limits": "Not published",
+      "ingestion_status": "under_review",
+      "last_verified_at": "2026-10-20",
+      "source_reliability_notes": "Scanned historical documents and pamphlets relating to Sikh history.",
+      "editorial_notes": "Historical documents rather than scripture; needs per-item rights review.",
+      "priority": 3,
+      "approval_status": "pending"
+    },
+    {
+      "source_id": "sgpc",
+      "source_name": "Shiromani Gurdwara Parbandhak Committee",
+      "base_url": "https://sgpc.net/",
+      "organisation": "Shiromani Gurdwara Parbandhak Committee, Amritsar",
+      "traditions_covered": [
+        "sikhism"
+      ],
+      "schools_covered": [],
+      "languages": [
+        "pa",
+        "en"
+      ],
+      "source_type": "religious authority",
+      "content_types": [
+        "religious_law_practice",
+        "primary_text",
+        "translation"
+      ],
+      "api_documentation_url": "",
+      "download_url": "",
+      "access_method": "web pages and PDF",
+      "licence_url": "",
+      "licence_status": "copyrighted; no open licence stated",
+      "commercial_use_allowed": null,
+      "redistribution_allowed": false,
+      "attribution_requirements": "The Rehat Maryada is issued by the SGPC; the English rendering is attributed to Dr Surjit Singh Gandhi where the PDF names him.",
+      "authentication_required": false,
+      "rate_limits": "No API; read individual pages.",
+      "ingestion_status": "under_review",
+      "last_verified_at": "2026-10-23",
+      "source_reliability_notes": "The official publisher of the Sikh Rehat Maryada. The Gurmukhi text is authoritative; English presentations are translations of it.",
+      "editorial_notes": "The governing code of the panth, but the English text carries no open licence. Catalogue and link only until permission is established.",
+      "priority": 2,
+      "approval_status": "pending"
+    },
+    {
+      "source_id": "panjab-digital-library",
+      "source_name": "Panjab Digital Library",
+      "base_url": "https://www.panjabdigilib.org/",
+      "organisation": "Panjab Digital Library",
+      "traditions_covered": [
+        "sikhism"
+      ],
+      "schools_covered": [],
+      "languages": [
+        "pa",
+        "fa",
+        "en"
+      ],
+      "source_type": "digitised manuscript and print archive",
+      "content_types": [
+        "manuscript_scan",
+        "primary_text",
+        "historical_document"
+      ],
+      "api_documentation_url": "",
+      "download_url": "",
+      "access_method": "browse and page images",
+      "licence_url": "",
+      "licence_status": "mixed per item",
+      "commercial_use_allowed": null,
+      "redistribution_allowed": false,
+      "attribution_requirements": "Per item; cite the holding institution and the Panjab Digital Library.",
+      "authentication_required": false,
+      "rate_limits": "No bulk API verified; respect the archive's terms.",
+      "ingestion_status": "under_review",
+      "last_verified_at": "2026-10-23",
+      "source_reliability_notes": "Scans of Sikh manuscripts, janamsakhis, hukamnamas and nineteenth-century printed books. Most items have page images rather than searchable text, and OCR of Gurmukhi and Persian is unreliable.",
+      "editorial_notes": "The best route to the original-language witnesses, but the images need transcription and editorial review before any text enters the corpus. Record the manuscript or printed edition, not just the item title.",
+      "priority": 2,
+      "approval_status": "pending"
+    },
+    {
+      "source_id": "sikh-missionary-society",
+      "source_name": "Sikh Missionary Society (U.K.)",
+      "base_url": "https://www.sikhmissionarysociety.org/",
+      "organisation": "Sikh Missionary Society, U.K.",
+      "traditions_covered": [
+        "sikhism"
+      ],
+      "schools_covered": [],
+      "languages": [
+        "en",
+        "pa"
+      ],
+      "source_type": "publisher and online library",
+      "content_types": [
+        "translation",
+        "primary_text",
+        "religious_law_practice"
+      ],
+      "api_documentation_url": "",
+      "download_url": "",
+      "access_method": "online library and downloadable PDFs",
+      "licence_url": "",
+      "licence_status": "copyrighted; no open licence stated",
+      "commercial_use_allowed": null,
+      "redistribution_allowed": false,
+      "attribution_requirements": "Name the translator and the Society for each title.",
+      "authentication_required": false,
+      "rate_limits": "No API; download individual titles.",
+      "ingestion_status": "under_review",
+      "last_verified_at": "2026-10-23",
+      "source_reliability_notes": "English translations by named Sikh scholars, including Teja Singh, Kulwant Singh and Pritpal Singh Bindra. These are popular editions, not critical texts.",
+      "editorial_notes": "A useful lead for Bhai Gurdas's Vaaran and Kabitt Savaiyye, Sainapati's Sri Gur Sobha and the Rehat Maryada. Permission must be sought before any text is imported.",
+      "priority": 3,
+      "approval_status": "pending"
+    },
+    {
+      "source_id": "srigranth",
+      "source_name": "Sri Granth",
+      "base_url": "https://www.srigranth.org/",
+      "organisation": "SriGranth.org",
+      "traditions_covered": [
+        "sikhism"
+      ],
+      "schools_covered": [],
+      "languages": [
+        "pa",
+        "en",
+        "hi"
+      ],
+      "source_type": "scripture reading platform and database",
+      "content_types": [
+        "primary_text",
+        "translation",
+        "transliteration",
+        "commentary"
+      ],
+      "api_documentation_url": "",
+      "download_url": "https://www.gurbanifiles.net/",
+      "access_method": "web pages by ang or search; the underlying Gurbani-CD files are offered separately for download",
+      "licence_url": "https://www.gurbanifiles.net/",
+      "licence_status": "used with written permission (permission on file)",
+      "commercial_use_allowed": null,
+      "redistribution_allowed": false,
+      "attribution_requirements": "SriGranth.org and the Gurbani-CD of Kulbir S. Thind must be credited. Use of the files for internet or commercial projects requires written permission in advance; files with the English translation also require permission from Sant Singh Khalsa.",
+      "authentication_required": false,
+      "rate_limits": "No API. Page-by-page reading only; the site is not a crawl target.",
+      "ingestion_status": "active",
+      "last_verified_at": "2026-10-23",
+      "source_reliability_notes": "The Gurmukhi text descends from the Gurbani-CD and is presented by ang with two English translations (Sant Singh Khalsa and Bhai Manmohan Singh), modern Punjabi, Hindi, Roman transliteration and Professor Sahib Singh's teeka. Widely used, but not a critical edition.",
+      "editorial_notes": "The Gurmukhi text and the Khalsa English translation were acquired under written permission from the rights holders (permission letter held by the project owner, not in the repository). The text is held locally with the permission recorded on both editions; Punjabi, Hindi, Roman and the teeka are not imported. Do not redistribute without permission.",
+      "priority": 2,
+      "approval_status": "approved"
+    },
+    {
+      "source_id": "japanese-text-initiative",
+      "source_name": "Japanese Text Initiative",
+      "base_url": "https://jti.lib.virginia.edu/",
+      "organisation": "University of Virginia Library",
+      "traditions_covered": [
+        "shinto",
+        "buddhism",
+        "confucianism"
+      ],
+      "schools_covered": [],
+      "languages": [
+        "ja",
+        "en"
+      ],
+      "source_type": "digital text collection",
+      "content_types": [
+        "primary_text",
+        "translation"
+      ],
+      "api_documentation_url": "",
+      "download_url": "",
+      "access_method": "website",
+      "licence_url": "",
+      "licence_status": "Public-domain editions with some rights reserved by the host",
+      "commercial_use_allowed": false,
+      "redistribution_allowed": true,
+      "attribution_requirements": "Cite the Japanese Text Initiative and the printed edition used.",
+      "authentication_required": false,
+      "rate_limits": "Not published",
+      "ingestion_status": "under_review",
+      "last_verified_at": "2026-10-20",
+      "source_reliability_notes": "Collaborative collection of Japanese literary and religious texts, including Kojiki and Nihon Shoki translations.",
+      "editorial_notes": "Candidate for the Shinto shelf; check each text's stated rights before copying.",
+      "priority": 2,
+      "approval_status": "pending"
+    },
+    {
+      "source_id": "theosophical-society",
+      "source_name": "Theosophical Society in America",
+      "base_url": "https://www.theosophical.org/",
+      "organisation": "Theosophical Society in America",
+      "traditions_covered": [
+        "theosophy"
+      ],
+      "schools_covered": [],
+      "languages": [
+        "en"
+      ],
+      "source_type": "organisation and library",
+      "content_types": [
+        "primary_text",
+        "metadata"
+      ],
+      "api_documentation_url": "",
+      "download_url": "",
+      "access_method": "website",
+      "licence_url": "",
+      "licence_status": "Mixed; Blavatsky and Judge texts are public domain, later material is not",
+      "commercial_use_allowed": null,
+      "redistribution_allowed": false,
+      "attribution_requirements": "Per work and author.",
+      "authentication_required": false,
+      "rate_limits": "Not published",
+      "ingestion_status": "under_review",
+      "last_verified_at": "2026-10-20",
+      "source_reliability_notes": "Organisational site with articles and some digitised early theosophical texts.",
+      "editorial_notes": "Public-domain Blavatsky editions are better sourced from archive.org; the society site supplies context.",
+      "priority": 3,
+      "approval_status": "pending"
+    },
+    {
+      "source_id": "anthroposophy-society",
+      "source_name": "Anthroposophical Society",
+      "base_url": "https://anthroposophy.org/",
+      "organisation": "Anthroposophical Society in America",
+      "traditions_covered": [
+        "anthroposophy"
+      ],
+      "schools_covered": [],
+      "languages": [
+        "en"
+      ],
+      "source_type": "organisation",
+      "content_types": [
+        "metadata",
+        "commentary"
+      ],
+      "api_documentation_url": "",
+      "download_url": "",
+      "access_method": "website",
+      "licence_url": "",
+      "licence_status": "Organisational material; Steiner texts have separate rights",
+      "commercial_use_allowed": null,
+      "redistribution_allowed": false,
+      "attribution_requirements": "Per page.",
+      "authentication_required": false,
+      "rate_limits": "Not published",
+      "ingestion_status": "under_review",
+      "last_verified_at": "2026-10-20",
+      "source_reliability_notes": "Introductory and organisational material rather than primary texts.",
+      "editorial_notes": "Steiner's own works are sourced from the Rudolf Steiner Archive, not from this site.",
+      "priority": 3,
+      "approval_status": "pending"
+    },
+    {
+      "source_id": "spiritualists-national-union",
+      "source_name": "Spiritualists National Union",
+      "base_url": "https://www.snu.org.uk/",
+      "organisation": "Spiritualists National Union",
+      "traditions_covered": [
+        "spiritualism"
+      ],
+      "schools_covered": [],
+      "languages": [
+        "en"
+      ],
+      "source_type": "denominational body",
+      "content_types": [
+        "community_statement",
+        "metadata"
+      ],
+      "api_documentation_url": "",
+      "download_url": "",
+      "access_method": "website",
+      "licence_url": "",
+      "licence_status": "Copyright SNU",
+      "commercial_use_allowed": null,
+      "redistribution_allowed": false,
+      "attribution_requirements": "Spiritualists National Union.",
+      "authentication_required": false,
+      "rate_limits": "Not published",
+      "ingestion_status": "under_review",
+      "last_verified_at": "2026-10-20",
+      "source_reliability_notes": "Primary denominational body for UK Spiritualism; publishes principles and service texts.",
+      "editorial_notes": "Catalogue statements and links; service readings remain under the union's copyright.",
+      "priority": 3,
+      "approval_status": "pending"
+    },
+    {
+      "source_id": "oomoto",
+      "source_name": "Oomoto",
+      "base_url": "https://www.oomoto.or.jp/English/",
+      "organisation": "Oomoto",
+      "traditions_covered": [
+        "oomoto",
+        "world-messianism"
+      ],
+      "schools_covered": [],
+      "languages": [
+        "ja",
+        "en"
+      ],
+      "source_type": "religious movement publisher",
+      "content_types": [
+        "primary_text",
+        "metadata"
+      ],
+      "api_documentation_url": "",
+      "download_url": "",
+      "access_method": "website",
+      "licence_url": "",
+      "licence_status": "Copyright Oomoto; English summaries offered for reading",
+      "commercial_use_allowed": null,
+      "redistribution_allowed": false,
+      "attribution_requirements": "Oomoto, official English pages.",
+      "authentication_required": false,
+      "rate_limits": "Not published",
+      "ingestion_status": "under_review",
+      "last_verified_at": "2026-10-20",
+      "source_reliability_notes": "Official English pages describing the movement and its revelations.",
+      "editorial_notes": "Link-out only unless the movement grants permission to copy its scriptures.",
+      "priority": 3,
+      "approval_status": "pending"
+    },
+    {
+      "source_id": "seicho-no-ie",
+      "source_name": "Seicho-no-Ie",
+      "base_url": "https://www.seicho-no-ie.org/english/",
+      "organisation": "Seicho-no-Ie",
+      "traditions_covered": [
+        "seicho-no-ie"
+      ],
+      "schools_covered": [],
+      "languages": [
+        "ja",
+        "en"
+      ],
+      "source_type": "religious movement publisher",
+      "content_types": [
+        "primary_text",
+        "metadata"
+      ],
+      "api_documentation_url": "",
+      "download_url": "",
+      "access_method": "website",
+      "licence_url": "",
+      "licence_status": "Copyright Seicho-no-Ie",
+      "commercial_use_allowed": null,
+      "redistribution_allowed": false,
+      "attribution_requirements": "Seicho-no-Ie, official English pages.",
+      "authentication_required": false,
+      "rate_limits": "Not published",
+      "ingestion_status": "under_review",
+      "last_verified_at": "2026-10-20",
+      "source_reliability_notes": "Official teachings and introductory texts in English and Japanese.",
+      "editorial_notes": "Catalogue the movement and its texts; copying requires permission.",
+      "priority": 3,
+      "approval_status": "pending"
+    },
+    {
+      "source_id": "holy-writings",
+      "source_name": "Holy-Writings.com",
+      "base_url": "https://www.holy-writings.com/",
+      "organisation": "Holy-Writings.com",
+      "traditions_covered": [
+        "christianity",
+        "islam",
+        "judaism",
+        "hinduism",
+        "buddhism",
+        "zoroastrianism",
+        "sikhism",
+        "taoism",
+        "confucianism",
+        "shinto",
+        "jainism",
+        "bahai"
+      ],
+      "schools_covered": [],
+      "languages": [
+        "en",
+        "de"
+      ],
+      "source_type": "cross-tradition text portal",
+      "content_types": [
+        "primary_text",
+        "translation"
+      ],
+      "api_documentation_url": "",
+      "download_url": "",
+      "access_method": "website",
+      "licence_url": "",
+      "licence_status": "Mixed; each text's own rights apply",
+      "commercial_use_allowed": null,
+      "redistribution_allowed": false,
+      "attribution_requirements": "Per text.",
+      "authentication_required": false,
+      "rate_limits": "Not published",
+      "ingestion_status": "under_review",
+      "last_verified_at": "2026-10-20",
+      "source_reliability_notes": "A portal reproducing public-domain and freely distributed scriptures in European languages.",
+      "editorial_notes": "Use as a discovery index; import from the holding edition instead of the portal.",
+      "priority": 3,
+      "approval_status": "pending"
+    },
+    {
+      "source_id": "google-books",
+      "source_name": "Google Books",
+      "base_url": "https://books.google.com/",
+      "organisation": "Google",
+      "traditions_covered": [
+        "judaism",
+        "christianity",
+        "islam",
+        "hinduism",
+        "buddhism",
+        "greek-roman",
+        "unitarianism",
+        "universalism"
+      ],
+      "schools_covered": [],
+      "languages": [
+        "en",
+        "he",
+        "ar",
+        "grc",
+        "sa",
+        "pi",
+        "zh",
+        "ja"
+      ],
+      "source_type": "digitised book index",
+      "content_types": [
+        "metadata",
+        "primary_text"
+      ],
+      "api_documentation_url": "",
+      "download_url": "",
+      "access_method": "website and API",
+      "licence_url": "https://support.google.com/books/answer/43726",
+      "licence_status": "Per volume: public domain, snippet view or in-copyright",
+      "commercial_use_allowed": null,
+      "redistribution_allowed": false,
+      "attribution_requirements": "Cite the scanned edition and its library holding.",
+      "authentication_required": false,
+      "rate_limits": "Not published",
+      "ingestion_status": "restricted",
+      "last_verified_at": "2026-10-20",
+      "source_reliability_notes": "Huge scan corpus with unreliable OCR and variable view restrictions.",
+      "editorial_notes": "Only full-view public-domain scans could be copied; the library prefers archive.org and HathiTrust for the same books.",
+      "priority": 3,
+      "approval_status": "rejected"
+    },
+    {
+      "source_id": "bolls",
+      "source_name": "Bolls Bible API",
+      "base_url": "https://bolls.life/",
+      "organisation": "Bolls",
+      "traditions_covered": [
+        "christianity"
+      ],
+      "schools_covered": [
+        "early-christianity"
+      ],
+      "languages": [
+        "he",
+        "grc",
+        "en"
+      ],
+      "source_type": "Bible text API",
+      "content_types": [
+        "primary_text",
+        "translation"
+      ],
+      "api_documentation_url": "https://bolls.life/api/",
+      "download_url": "",
+      "access_method": "HTTP JSON API, one chapter per request",
+      "licence_url": "",
+      "licence_status": "public_domain_editions",
+      "commercial_use_allowed": null,
+      "redistribution_allowed": true,
+      "attribution_requirements": "The King James Version, the Westminster Leningrad Codex and the Textus Receptus are public domain. UWL names the edition and the API on every chapter.",
+      "authentication_required": false,
+      "rate_limits": "Public API with no published quota; chapters are fetched on demand and cached briefly in process.",
+      "ingestion_status": "active",
+      "last_verified_at": "2026-10-20",
+      "source_reliability_notes": "The KJV text includes Strong's numbers in markup, which are stripped for display. The Hebrew and Greek editions are served as the API holds them and have not been collated against critical editions.",
+      "editorial_notes": "Only the chapter and verse index is stored. Verse numbering follows the KJV; where the Hebrew counts a superscription as verse 1, the panes differ by one verse.",
+      "priority": 1,
+      "approval_status": "approved"
+    },
+    {
+      "source_id": "newadvent",
+      "source_name": "New Advent",
+      "base_url": "https://www.newadvent.org/",
+      "organisation": "New Advent LLC",
+      "traditions_covered": [
+        "christianity"
+      ],
+      "schools_covered": [
+        "scholasticism"
+      ],
+      "languages": [
+        "en"
+      ],
+      "source_type": "Online edition of public-domain theological texts",
+      "content_types": [
+        "primary_text",
+        "translation"
+      ],
+      "api_documentation_url": "",
+      "download_url": "",
+      "access_method": "HTML question pages, fetched on demand",
+      "licence_url": "https://www.newadvent.org/cathen/",
+      "licence_status": "public_domain_translation_online_edition_credited",
+      "commercial_use_allowed": null,
+      "redistribution_allowed": true,
+      "attribution_requirements": "The 1920 Dominican Province translation is public domain. The online edition is credited to New Advent, and UWL links back rather than copying it.",
+      "authentication_required": false,
+      "rate_limits": "No published limit; one question page is fetched per chapter and cached briefly in process.",
+      "ingestion_status": "active",
+      "last_verified_at": "2026-10-20",
+      "source_reliability_notes": "The text is the second and revised edition of the Dominican Province translation (1920). New Advent states its own copyright in the online edition; UWL therefore streams rather than stores it.",
+      "editorial_notes": "Each question is a chapter and each article a passage. The Supplement is not Aquinas's own work and is recorded as such.",
+      "priority": 1,
+      "approval_status": "approved"
+    },
+    {
+      "source_id": "quran-com-tafsir",
+      "source_name": "Quran.com tafsir resources",
+      "base_url": "https://api.quran.com/api/v4/tafsirs/",
+      "organisation": "Quran.com",
+      "traditions_covered": [
+        "islam"
+      ],
+      "schools_covered": [
+        "sunni-tradition"
+      ],
+      "languages": [
+        "ar"
+      ],
+      "source_type": "hosted reading platform",
+      "content_types": [
+        "primary_text",
+        "commentary"
+      ],
+      "api_documentation_url": "https://api-docs.quran.com/",
+      "download_url": "https://api.quran.com/api/v4/resources/tafsirs",
+      "access_method": "JSON over HTTP; no key for read requests",
+      "licence_url": "https://quran.com/",
+      "licence_status": "public_domain_works_hosted_text",
+      "commercial_use_allowed": null,
+      "redistribution_allowed": false,
+      "attribution_requirements": "The Arabic commentary is a public-domain work. The host is credited on every edition and the digital text is not relicensed by this library.",
+      "authentication_required": false,
+      "rate_limits": "No published limit for read requests; responses are cached in the reader for ten minutes",
+      "ingestion_status": "active",
+      "last_verified_at": "2026-10-21",
+      "source_reliability_notes": "The tafsir resources return one commentary entry per ayah with the canonical verse key, which allows the library to align the text with its own Qur'an index. Coverage is not always complete: al-Tabari's resource omits commentary on a small number of ayahs, and the reader reports a count mismatch instead of hiding it.",
+      "editorial_notes": "Only the catalogue record, surah outline and ayah index are stored. Arabic commentary is streamed one surah at a time. No English translation is offered because no public-domain English translation of these tafsirs was verified.",
+      "priority": 2,
+      "approval_status": "approved"
+    },
+    {
+      "source_id": "hadith-api",
+      "source_name": "Hadith API (fawazahmed0)",
+      "base_url": "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/",
+      "organisation": "fawazahmed0 (open-source project)",
+      "traditions_covered": [
+        "islam"
+      ],
+      "schools_covered": [
+        "sunni-tradition",
+        "maliki"
+      ],
+      "languages": [
+        "ar",
+        "en"
+      ],
+      "source_type": "community-maintained dataset",
+      "content_types": [
+        "primary_text",
+        "translation",
+        "metadata"
+      ],
+      "api_documentation_url": "https://github.com/fawazahmed0/hadith-api",
+      "download_url": "https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions.json",
+      "access_method": "JSON over HTTP; no key",
+      "licence_url": "https://github.com/fawazahmed0/hadith-api/blob/1/LICENSE",
+      "licence_status": "mixed_unverified_per_edition",
+      "commercial_use_allowed": null,
+      "redistribution_allowed": false,
+      "attribution_requirements": "The host and the named translator are credited on every edition. The repository licence covers the code and data packaging; it does not establish rights in the translations.",
+      "authentication_required": false,
+      "rate_limits": "CDN-served; no published limit",
+      "ingestion_status": "active",
+      "last_verified_at": "2026-10-20",
+      "source_reliability_notes": "Section documents and hadith numbering are consistent between the Arabic and English editions of the same collection. Translator attributions are incomplete for several collections, and are recorded as unknown rather than guessed.",
+      "editorial_notes": "Only the catalogue record, section outline and hadith index are stored. Text is streamed section by section, so this library never holds a copy of the translations.",
+      "priority": 2,
+      "approval_status": "approved"
+    },
+    {
+      "source_id": "internet-archive-pd",
+      "source_name": "Internet Archive — verified public-domain items",
+      "base_url": "https://archive.org/details/",
+      "organisation": "Internet Archive",
+      "traditions_covered": [
+        "islam",
+        "hinduism"
+      ],
+      "schools_covered": [],
+      "languages": [
+        "en",
+        "fa",
+        "ar",
+        "sa"
+      ],
+      "source_type": "digital archive (item-level approval)",
+      "content_types": [
+        "primary_text",
+        "translation"
+      ],
+      "api_documentation_url": "https://archive.org/developers/",
+      "download_url": "https://archive.org/details/",
+      "access_method": "item metadata API and the item's plain-text derivative",
+      "licence_url": "https://archive.org/about/terms.php",
+      "licence_status": "public_domain_verified_per_item",
+      "commercial_use_allowed": false,
+      "redistribution_allowed": true,
+      "attribution_requirements": "Name the printed edition, its translator and the Internet Archive item, and keep the transcription credit (sacred-texts.com) that the text carries. The transcription asks for attribution and non-commercial reuse; the underlying 1889 text is public domain in the United States.",
+      "authentication_required": false,
+      "rate_limits": "Item-level access; respect the archive's terms and any lending restriction.",
+      "ingestion_status": "active",
+      "last_verified_at": "2026-10-20",
+      "source_reliability_notes": "Only items whose printed edition is public domain and whose plain-text derivative has been read and checked are used. The first approved item is FitzGerald's Bird Parliament (1889), transcription proofed by sacred-texts.com.",
+      "editorial_notes": "Approval is item-level, not collection-wide. A public scan is not by itself evidence that the edition is public domain; each item must record its edition and rights check before it is imported.",
+      "priority": 2,
+      "approval_status": "approved"
+    },
+    {
+      "source_id": "openiti",
+      "source_name": "OpenITI corpus",
+      "base_url": "https://raw.githubusercontent.com/OpenITI/",
+      "organisation": "Open Islamicate Texts Initiative",
+      "traditions_covered": [
+        "islam"
+      ],
+      "schools_covered": [
+        "sunni-tradition",
+        "shia-twelver"
+      ],
+      "languages": [
+        "ar"
+      ],
+      "source_type": "academic corpus",
+      "content_types": [
+        "primary_text"
+      ],
+      "api_documentation_url": "https://openiti.org/documentation/",
+      "download_url": "https://github.com/OpenITI",
+      "access_method": "Raw mARkdown files over HTTPS; no key for read requests",
+      "licence_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "licence_status": "cc_by_nc_sa",
+      "commercial_use_allowed": false,
+      "redistribution_allowed": false,
+      "attribution_requirements": "The classical work is public domain. Each digital transcription is credited to OpenITI and to the repository file it came from; the transcription is not relicensed by this library.",
+      "authentication_required": false,
+      "rate_limits": "GitHub raw content; no published limit for ordinary reading use",
+      "ingestion_status": "active",
+      "last_verified_at": "2026-10-21",
+      "source_reliability_notes": "The corpus supplies machine-readable Arabic transcriptions with headings and paragraph markers. Transcription quality varies by edition: some files carry OCR or conversion artefacts, so each work here was checked for chapter structure, paragraph count and Arabic text before it was catalogued.",
+      "editorial_notes": "Only the catalogue record, chapter outline and passage index are stored. Text is streamed from GitHub when a chapter is opened and cached for a reading session. Arabic only: no English translation is included where no public-domain translation was verified.",
+      "priority": 2,
+      "approval_status": "approved"
+    },
+    {
+      "source_id": "terebess",
+      "source_name": "Terebess Asia Online (TAO)",
+      "base_url": "https://terebess.hu/",
+      "organisation": "Terebess Asia Online, Budapest",
+      "traditions_covered": [
+        "taoism",
+        "confucianism",
+        "buddhism",
+        "hinduism",
+        "shinto"
+      ],
+      "schools_covered": [
+        "daoist",
+        "zen"
+      ],
+      "languages": [
+        "en",
+        "zh"
+      ],
+      "source_type": "cross-tradition text portal",
+      "content_types": [
+        "primary_text",
+        "translation",
+        "scholarship"
+      ],
+      "api_documentation_url": "",
+      "download_url": "https://terebess.hu/english/tao.html",
+      "access_method": "static HTML and PDF pages organised by tradition; transcriptions and scans of printed editions, read one page at a time",
+      "licence_url": "https://terebess.hu/english/",
+      "licence_status": "mixed_per_text",
+      "commercial_use_allowed": false,
+      "redistribution_allowed": false,
+      "attribution_requirements": "Each page names its printed source. Public-domain translations (Legge, Giles, Suzuki and Carus) may be quoted with the edition credited; the modern translations hosted there (Cleary, Watson, Mair, Wong, Graham) remain in copyright and must not be copied.",
+      "authentication_required": false,
+      "rate_limits": "No stated limit. Read one page at a time and cache what is used, as with any static host.",
+      "ingestion_status": "restricted",
+      "last_verified_at": "2026-10-23",
+      "source_reliability_notes": "A long-running personal library of Asian texts, with scans and transcriptions of public-domain and in-copyright books side by side. Its Taoism index was read item by item on 23 October 2026. The public-domain material it hosts in full — Legge's Texts of Taoism, Giles's Lieh Tzŭ, the Suzuki–Carus Kan Ying P'ien and Yin Chih Wen — is the same material already streamed from the Internet Sacred Text Archive, and its Tao Te Ching page is a bibliography of 112 translations rather than a text. Everything else on the shelf that the library lacks is a modern translation or study under copyright.",
+      "editorial_notes": "Reviewed twice for the Taoist shelf and not used for text. It mirrors the Legge and Giles volumes already imported from the Internet Sacred Text Archive, and its unique holdings (Watson, Mair, Graham, Cleary, Wong, Robinet, the Columbia Lieh-tzu, the 2010 Huainanzi) are in copyright. It remains a finding aid and a fallback host: the public-domain Taishang and Yin Chih Wen pages are an independent transcription of the same editions, and the Tao Te Ching index is the fullest list of English translations available, which is how the public-domain set (Legge, Balfour, Carus and Suzuki, Goddard, Medhurst, Mears, Gorn-Old, Giles) was checked for gaps. Nothing on the site was fetched into the corpus.",
+      "priority": 3,
+      "approval_status": "rejected",
+      "review_note": "Restricted for ingestion, not for citation. The presence of a PDF on the site is not evidence of a reusable licence; the item-by-item review found no public-domain text that is not already available from an approved host."
+    },
+    {
+      "source_id": "open-greek-and-latin",
+      "source_name": "Open Greek and Latin / Perseus Digital Library",
+      "base_url": "https://github.com/OpenGreekAndLatin",
+      "organisation": "Open Greek and Latin Project (Leipzig) and Perseus Digital Library (Tufts)",
+      "traditions_covered": [
+        "christianity",
+        "greek-roman"
+      ],
+      "schools_covered": [
+        "early-christianity",
+        "patristics",
+        "apocryphal-traditions"
+      ],
+      "languages": [
+        "grc",
+        "la"
+      ],
+      "source_type": "academic corpus",
+      "content_types": [
+        "primary_text"
+      ],
+      "api_documentation_url": "https://github.com/OpenGreekAndLatin/First1KGreek/wiki",
+      "download_url": "https://github.com/OpenGreekAndLatin/First1KGreek",
+      "access_method": "TEI XML files over HTTPS from the GitHub repositories First1KGreek, csel-dev, canonical-greekLit and canonical-latinLit; no key",
+      "licence_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "licence_status": "cc_by_sa_4_0",
+      "commercial_use_allowed": true,
+      "redistribution_allowed": true,
+      "attribution_requirements": "Credit the project, the repository file and the print edition it transcribes; derivatives are shared under CC BY-SA 4.0.",
+      "authentication_required": false,
+      "rate_limits": "GitHub raw content; no published limit for ordinary use",
+      "ingestion_status": "import_tested",
+      "last_verified_at": "2026-11-19",
+      "source_reliability_notes": "Each file names its print edition and editor in the TEI header. First1KGreek and Perseus files are corrected transcriptions; the csel-dev and 'opp' files are OCR transcriptions of nineteenth-century editions with the apparatus separated out, and keep occasional uncorrected OCR slips. Only files whose print edition is from before 1930 are imported, so the critical text is public domain; Loeb-based files from 1930 on are recorded in the acquisition register instead.",
+      "editorial_notes": "Imported 2026-11-19 by scripts/dev/import-ogl.ts: footnotes and apparatus are dropped, the top citation level becomes the chapter and the lowest becomes the passage, long passages are split at sentence ends. Text is held locally.",
+      "priority": 1,
+      "approval_status": "approved"
+    }
+  ]
+}

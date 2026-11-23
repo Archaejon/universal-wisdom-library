@@ -1,0 +1,62 @@
+{
+  "slug": "hoskier-codexb2",
+  "title": "Codex B and Its Allies: Part II",
+  "originalTitle": "",
+  "transliteration": "",
+  "altTitles": [],
+  "tradition": "christianity",
+  "school": "",
+  "genre": "Commentaries",
+  "textType": "Christian text in English translation",
+  "category": "Commentaries",
+  "subcategory": "Commentaries",
+  "originalLanguage": "en",
+  "dateStart": null,
+  "dateEnd": null,
+  "dateDisplay": "",
+  "authorshipStatus": "traditional",
+  "author": "hoskier",
+  "attributionNote": "Recorded in the Christian Classics Ethereal Library under Herman Charles Hoskier (1864-1938). The site catalogues the work at https://ccel.org/ccel/hoskier/codexb2, whose own card names the print edition transcribed here; where the site carries a title by a publisher's permission rather than in public domain, this library does not take it.",
+  "description": "Codex B and Its Allies: Part II — the English text the Christian Classics Ethereal Library publishes for this work, on the site's Commentaries shelf. The record was created by the CCEL import from the site's own catalogue and plain text; an editor's note for the work itself is still to be written.",
+  "historicalContext": "Read in the Christian Classics Ethereal Library's catalogue, whose shelves follow the site's own division of Christian literature.",
+  "availabilityNote": "Complete in the Christian Classics Ethereal Library's plain-text edition: 1 chapter(s), 1 paragraph(s), 17 words. The divisions are the headings of the site's own text, which the library stores rather than asking the site for again when the work is read. The text is public domain and is displayed with the library's credit.",
+  "featured": false,
+  "featuredNote": "",
+  "refScheme": "chapter.paragraph",
+  "isSample": false,
+  "textStorage": "local",
+  "chapters": [
+    {
+      "ref": "1",
+      "label": "Codex B and Its Allies: Part II"
+    }
+  ],
+  "passages": [
+    {
+      "reference": "1.1",
+      "label": "Codex B and Its Allies: Part II §1",
+      "chapterRef": "1"
+    }
+  ],
+  "editions": [
+    {
+      "slug": "hoskier-codexb2-en",
+      "language": "en",
+      "editionType": "translation",
+      "title": "Codex B and Its Allies: Part II",
+      "translator": "",
+      "publisher": "Christian Classics Ethereal Library",
+      "publicationYear": null,
+      "source": "ccel",
+      "license": "public-domain",
+      "rightsStatus": "Public Domain, as the Christian Classics Ethereal Library states for this work on its own card",
+      "attributionText": "Text from the Christian Classics Ethereal Library (ccel.org), which transcribed and published this edition. The translation is public domain; the transcription is credited to the library.",
+      "structureScheme": "chapter and paragraph, the chapters being the divisions of the site's plain text",
+      "isSample": false,
+      "notes": "Imported from the plain-text file the CCEL publishes for this work; its headings divide the work, its blank lines separate the paragraphs, and nothing is fetched from ccel.org when the work is read.",
+      "texts": {
+        "1.1": "CODEX B AND ITS ALLIES PART II __________________________________________________________________ Part II. Matthew. __________________________________________________________________ __________________________________________________________________ __________________________________________________________________ __________________________________________________________________ __________________________________________________________________ __________________________________________________________________"
+      }
+    }
+  ]
+}

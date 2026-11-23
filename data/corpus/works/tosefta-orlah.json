@@ -1,0 +1,110 @@
+{
+  "slug": "tosefta-orlah",
+  "title": "Tosefta Orlah",
+  "originalTitle": "תוספתא ערלה",
+  "transliteration": "",
+  "altTitles": [],
+  "tradition": "judaism",
+  "school": "rabbinic-judaism",
+  "genre": "Tosefta",
+  "textType": "Tosefta",
+  "category": "Tosefta",
+  "subcategory": "Seder Zeraim",
+  "originalLanguage": "he",
+  "dateStart": 200,
+  "dateEnd": 300,
+  "dateDisplay": "Compiled c. 250 CE",
+  "authorshipStatus": "composite",
+  "author": "",
+  "attributionNote": "The Sefaria catalogue records this as a composite or traditionally transmitted work. Authorship is not asserted here beyond the source's own metadata.",
+  "description": "Fruit growing on a tree in its first three years, when benefitting from the fruit is prohibited. Complete Tosefta text imported from Sefaria; the exact edition and licence are shown with each version.",
+  "historicalContext": "The Tosefta is a collection of rabbinic traditions parallel to and supplementing the Mishnah. Its relationship to the Mishnah is debated; it is presented here as a distinct legal corpus.",
+  "availabilityNote": "Imported from Sefaria. Version, source and licence are recorded per edition.",
+  "featured": false,
+  "featuredNote": "",
+  "refScheme": "chapter.paragraph",
+  "isSample": false,
+  "textStorage": "streamed",
+  "chapters": [
+    {
+      "ref": "1",
+      "label": "Chapter 1"
+    }
+  ],
+  "passages": [
+    {
+      "reference": "1.1",
+      "label": "1:1",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.2",
+      "label": "1:2",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.3",
+      "label": "1:3",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.4",
+      "label": "1:4",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.5",
+      "label": "1:5",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.6",
+      "label": "1:6",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.7",
+      "label": "1:7",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.8",
+      "label": "1:8",
+      "chapterRef": "1"
+    }
+  ],
+  "editions": [
+    {
+      "slug": "tosefta-orlah-hebrew-sefaria",
+      "language": "he",
+      "editionType": "original",
+      "title": "Tosefta Orlah",
+      "translator": "",
+      "publisher": "http://www.mechon-mamre.org/b/f/f1a.htm",
+      "publicationYear": null,
+      "source": "sefaria",
+      "license": "public-domain",
+      "rightsStatus": "Public Domain",
+      "attributionText": "Tosefta Orlah; licence: Public Domain; source: http://www.mechon-mamre.org/b/f/f1a.htm. Retrieved via Sefaria on 2026-10-20.",
+      "structureScheme": "chapter and paragraph",
+      "isSample": false,
+      "notes": "Complete work imported from Sefaria. Text is displayed as supplied by the named edition; HTML markup has been removed."
+    },
+    {
+      "slug": "tosefta-orlah-english-sefaria-1",
+      "language": "en",
+      "editionType": "translation",
+      "title": "Sefaria Community Translation",
+      "translator": "",
+      "publisher": "https://www.sefaria.org",
+      "publicationYear": null,
+      "source": "sefaria",
+      "license": "cc0-1.0",
+      "rightsStatus": "CC0",
+      "attributionText": "Sefaria Community Translation; licence: CC0; source: https://www.sefaria.org. Retrieved via Sefaria on 2026-10-20.",
+      "structureScheme": "chapter and paragraph",
+      "isSample": false,
+      "notes": "Complete work imported from Sefaria. Text is displayed as supplied by the named edition; HTML markup has been removed."
+    }
+  ]
+}

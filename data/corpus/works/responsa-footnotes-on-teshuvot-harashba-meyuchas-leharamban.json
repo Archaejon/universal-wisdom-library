@@ -1,0 +1,176 @@
+{
+  "slug": "responsa-footnotes-on-teshuvot-harashba-meyuchas-leharamban",
+  "title": "Footnotes on Teshuvot haRashba Meyuchas LehaRamban",
+  "originalTitle": "הערות שוליים על תשובות הרשב\"א מיוחס להרמב\"ן",
+  "transliteration": "",
+  "altTitles": [],
+  "tradition": "judaism",
+  "school": "rabbinic-judaism",
+  "genre": "Responsa",
+  "textType": "Responsa collection",
+  "category": "Responsa",
+  "subcategory": "Rishonim",
+  "originalLanguage": "he",
+  "dateStart": 700,
+  "dateEnd": 1950,
+  "dateDisplay": "Responsa literature, c. 700–1950 CE",
+  "authorshipStatus": "established",
+  "author": "",
+  "attributionNote": "Authorship follows the Sefaria catalogue record for this work. Where a text is traditionally attributed or collectively compiled, the library does not assert a single author beyond the source's own metadata.",
+  "description": "Complete Responsa text imported from Sefaria; the exact edition and licence are shown with each version.",
+  "historicalContext": "Responsa are written answers to specific legal questions, addressed by a scholar to a community or an individual. A responsum is a dated, situated ruling and is presented with its collection rather than as a universal statute.",
+  "availabilityNote": "Imported from Sefaria. Version, source and licence are recorded per edition.",
+  "featured": false,
+  "featuredNote": "",
+  "refScheme": "chapter.paragraph",
+  "isSample": false,
+  "textStorage": "streamed",
+  "chapters": [
+    {
+      "ref": "7",
+      "label": "Teshuva 7"
+    },
+    {
+      "ref": "35",
+      "label": "Teshuva 35"
+    },
+    {
+      "ref": "124",
+      "label": "Teshuva 124"
+    },
+    {
+      "ref": "133",
+      "label": "Teshuva 133"
+    },
+    {
+      "ref": "241",
+      "label": "Teshuva 241"
+    },
+    {
+      "ref": "244",
+      "label": "Teshuva 244"
+    },
+    {
+      "ref": "255",
+      "label": "Teshuva 255"
+    },
+    {
+      "ref": "257",
+      "label": "Teshuva 257"
+    },
+    {
+      "ref": "261",
+      "label": "Teshuva 261"
+    },
+    {
+      "ref": "263",
+      "label": "Teshuva 263"
+    },
+    {
+      "ref": "264",
+      "label": "Teshuva 264"
+    },
+    {
+      "ref": "277",
+      "label": "Teshuva 277"
+    },
+    {
+      "ref": "280",
+      "label": "Teshuva 280"
+    },
+    {
+      "ref": "288",
+      "label": "Teshuva 288"
+    }
+  ],
+  "passages": [
+    {
+      "reference": "7.1",
+      "label": "7:1",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "35.1",
+      "label": "35:1",
+      "chapterRef": "35"
+    },
+    {
+      "reference": "124.1",
+      "label": "124:1",
+      "chapterRef": "124"
+    },
+    {
+      "reference": "133.1",
+      "label": "133:1",
+      "chapterRef": "133"
+    },
+    {
+      "reference": "241.1",
+      "label": "241:1",
+      "chapterRef": "241"
+    },
+    {
+      "reference": "244.1",
+      "label": "244:1",
+      "chapterRef": "244"
+    },
+    {
+      "reference": "255.1",
+      "label": "255:1",
+      "chapterRef": "255"
+    },
+    {
+      "reference": "257.1",
+      "label": "257:1",
+      "chapterRef": "257"
+    },
+    {
+      "reference": "261.1",
+      "label": "261:1",
+      "chapterRef": "261"
+    },
+    {
+      "reference": "263.1",
+      "label": "263:1",
+      "chapterRef": "263"
+    },
+    {
+      "reference": "264.1",
+      "label": "264:1",
+      "chapterRef": "264"
+    },
+    {
+      "reference": "277.1",
+      "label": "277:1",
+      "chapterRef": "277"
+    },
+    {
+      "reference": "280.1",
+      "label": "280:1",
+      "chapterRef": "280"
+    },
+    {
+      "reference": "288.1",
+      "label": "288:1",
+      "chapterRef": "288"
+    }
+  ],
+  "editions": [
+    {
+      "slug": "responsa-footnotes-on-teshuvot-harashba-meyuchas-leharamban-hebrew-sefaria",
+      "language": "he",
+      "editionType": "original",
+      "title": "Warsaw 1883",
+      "translator": "",
+      "publisher": "https://www.nli.org.il/he/books/NNL_ALEPH002563852",
+      "publicationYear": null,
+      "source": "sefaria",
+      "license": "public-domain",
+      "rightsStatus": "Public Domain",
+      "attributionText": "Warsaw 1883; licence: Public Domain; source: https://www.nli.org.il/he/books/NNL_ALEPH002563852. Retrieved via Sefaria on 2026-10-20.",
+      "structureScheme": "chapter and paragraph",
+      "isSample": false,
+      "notes": "Complete work imported from Sefaria. Text is displayed as supplied by the named edition; HTML markup has been removed."
+    }
+  ]
+}

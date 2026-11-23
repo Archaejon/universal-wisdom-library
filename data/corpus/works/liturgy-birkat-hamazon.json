@@ -1,0 +1,358 @@
+{
+  "slug": "liturgy-birkat-hamazon",
+  "title": "Birkat Hamazon",
+  "originalTitle": "ברכת המזון",
+  "transliteration": "",
+  "altTitles": [],
+  "tradition": "judaism",
+  "school": "rabbinic-judaism",
+  "genre": "Liturgy",
+  "textType": "Liturgical text",
+  "category": "Liturgy",
+  "subcategory": "Other Liturgy Works",
+  "originalLanguage": "he",
+  "dateStart": 800,
+  "dateEnd": 1950,
+  "dateDisplay": "Liturgy in use, c. 800–1950 CE",
+  "authorshipStatus": "traditional",
+  "author": "",
+  "attributionNote": "Authorship follows the Sefaria catalogue record for this work. Where a text is traditionally attributed or collectively compiled, the library does not assert a single author beyond the source's own metadata.",
+  "description": "Set of blessings recited after a meal including bread, also known as Grace after Meals. Complete Liturgy text imported from Sefaria; the exact edition and licence are shown with each version.",
+  "historicalContext": "Liturgy is the recited text of prayer and ritual. Its wording varies by rite and community, so each imported text names its rite and edition instead of being harmonised into a single service.",
+  "availabilityNote": "Imported from Sefaria. Version, source and licence are recorded per edition.",
+  "featured": false,
+  "featuredNote": "",
+  "refScheme": "chapter.paragraph",
+  "isSample": false,
+  "textStorage": "streamed",
+  "chapters": [
+    {
+      "ref": "1",
+      "label": "Preliminary Psalms"
+    },
+    {
+      "ref": "2",
+      "label": "Zimmun"
+    },
+    {
+      "ref": "3",
+      "label": "Blessing on the Food"
+    },
+    {
+      "ref": "4",
+      "label": "Blessing on the Land"
+    },
+    {
+      "ref": "5",
+      "label": "Blessing on Jerusalem"
+    },
+    {
+      "ref": "6",
+      "label": "Hatov Vehametiv"
+    },
+    {
+      "ref": "8",
+      "label": "HaRachaman of Brit Milah"
+    },
+    {
+      "ref": "9",
+      "label": "Sheva Brachot"
+    }
+  ],
+  "passages": [
+    {
+      "reference": "1.1",
+      "label": "1:1",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.2",
+      "label": "1:2",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.3",
+      "label": "1:3",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "2.1",
+      "label": "2:1",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.2",
+      "label": "2:2",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.3",
+      "label": "2:3",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.4",
+      "label": "2:4",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.5",
+      "label": "2:5",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "3.1",
+      "label": "3:1",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "4.1",
+      "label": "4:1",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.2",
+      "label": "4:2",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.3",
+      "label": "4:3",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.4",
+      "label": "4:4",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.5",
+      "label": "4:5",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "5.1",
+      "label": "5:1",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.2",
+      "label": "5:2",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.3",
+      "label": "5:3",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.4",
+      "label": "5:4",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.5",
+      "label": "5:5",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.6",
+      "label": "5:6",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.7",
+      "label": "5:7",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.8",
+      "label": "5:8",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.9",
+      "label": "5:9",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.10",
+      "label": "5:10",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.11",
+      "label": "5:11",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "6.1",
+      "label": "6:1",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.2",
+      "label": "6:2",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.3",
+      "label": "6:3",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.4",
+      "label": "6:4",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.5",
+      "label": "6:5",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.6",
+      "label": "6:6",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.7",
+      "label": "6:7",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.8",
+      "label": "6:8",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.9",
+      "label": "6:9",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.10",
+      "label": "6:10",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.11",
+      "label": "6:11",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.12",
+      "label": "6:12",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.13",
+      "label": "6:13",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "8.1",
+      "label": "8:1",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.2",
+      "label": "8:2",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.3",
+      "label": "8:3",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.4",
+      "label": "8:4",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.5",
+      "label": "8:5",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.6",
+      "label": "8:6",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.7",
+      "label": "8:7",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "9.1",
+      "label": "9:1",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.2",
+      "label": "9:2",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.3",
+      "label": "9:3",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.4",
+      "label": "9:4",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.5",
+      "label": "9:5",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.6",
+      "label": "9:6",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.7",
+      "label": "9:7",
+      "chapterRef": "9"
+    }
+  ],
+  "editions": [
+    {
+      "slug": "liturgy-birkat-hamazon-hebrew-sefaria",
+      "language": "he",
+      "editionType": "original",
+      "title": "Birkat Hamazon -- Ashkenaz",
+      "translator": "",
+      "publisher": "http://www.birkathamazon.org/%D7%91%D7%A8%D7%9B%D7%AA-%D7%94%D7%9E%D7%96%D7%95%D7%9F-%D7%A0%D7%95%D7%A1%D7%97-%D7%90%D7%A9%D7%9B%D7%A0%D7%96/",
+      "publicationYear": null,
+      "source": "sefaria",
+      "license": "unknown",
+      "rightsStatus": "unknown",
+      "attributionText": "Birkat Hamazon -- Ashkenaz; licence: unknown; source: http://www.birkathamazon.org/%D7%91%D7%A8%D7%9B%D7%AA-%D7%94%D7%9E%D7%96%D7%95%D7%9F-%D7%A0%D7%95%D7%A1%D7%97-%D7%90%D7%A9%D7%9B%D7%A0%D7%96/. Retrieved via Sefaria on 2026-10-20.",
+      "structureScheme": "chapter and paragraph",
+      "isSample": false,
+      "notes": "Complete work imported from Sefaria. Text is displayed as supplied by the named edition; HTML markup has been removed."
+    },
+    {
+      "slug": "liturgy-birkat-hamazon-english-sefaria-1",
+      "language": "en",
+      "editionType": "translation",
+      "title": "The Holy Scriptures, published by JPS -- Chapter 137",
+      "translator": "",
+      "publisher": "https://jps.org/books/tanakh-the-holy-scriptures-blue/",
+      "publicationYear": null,
+      "source": "sefaria",
+      "license": "unknown",
+      "rightsStatus": "unknown",
+      "attributionText": "The Holy Scriptures, published by JPS -- Chapter 137; licence: unknown; source: https://jps.org/books/tanakh-the-holy-scriptures-blue/. Retrieved via Sefaria on 2026-10-20.",
+      "structureScheme": "chapter and paragraph",
+      "isSample": false,
+      "notes": "Complete work imported from Sefaria. Text is displayed as supplied by the named edition; HTML markup has been removed."
+    }
+  ]
+}

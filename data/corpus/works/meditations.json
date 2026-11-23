@@ -1,0 +1,71 @@
+{
+  "slug": "meditations",
+  "title": "Meditations",
+  "originalTitle": "Τὰ εἰς ἑαυτόν",
+  "transliteration": "Ta eis heauton",
+  "altTitles": [
+    "To Himself",
+    "The Meditations of Marcus Aurelius"
+  ],
+  "tradition": "greek-roman",
+  "school": "stoicism",
+  "genre": "Philosophy",
+  "textType": "Private notebook",
+  "category": "Philosophy",
+  "subcategory": "Private notebook",
+  "originalLanguage": "grc",
+  "dateStart": 161,
+  "dateEnd": 180,
+  "dateDisplay": "c. 161–180 CE",
+  "authorshipStatus": "established",
+  "author": "marcus-aurelius",
+  "attributionNote": "Written by the Roman emperor Marcus Aurelius in Greek. The work is a private notebook, not a treatise prepared for publication.",
+  "description": "The Meditations are notes on Stoic practice: mortality, duty, the discipline of judgement and the small span of a human life. This sample includes two reflections from Book II.",
+  "historicalContext": "Written during military campaigns on the Danube frontier, the Meditations draw on Epictetus and Stoic physics. They are among the most widely read works of ancient philosophy.",
+  "availabilityNote": "",
+  "featured": false,
+  "featuredNote": "",
+  "refScheme": "book.section",
+  "isSample": true,
+  "textStorage": "local",
+  "chapters": [
+    {
+      "ref": "2",
+      "label": "Book II"
+    }
+  ],
+  "passages": [
+    {
+      "reference": "2.1",
+      "label": "Book II, §1",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.15",
+      "label": "Book II, §15",
+      "chapterRef": "2"
+    }
+  ],
+  "editions": [
+    {
+      "slug": "meditations-en-long",
+      "language": "en",
+      "editionType": "translation",
+      "title": "The Thoughts of the Emperor Marcus Aurelius Antoninus",
+      "translator": "George Long",
+      "publisher": "Project Gutenberg edition",
+      "publicationYear": 1862,
+      "source": "project-gutenberg",
+      "license": "public-domain",
+      "rightsStatus": "Public domain",
+      "attributionText": "The Thoughts of the Emperor Marcus Aurelius Antoninus, translated by George Long (1862). Public domain. Text from Project Gutenberg eBook #2680.",
+      "structureScheme": "book and section",
+      "isSample": true,
+      "notes": "Long's Victorian translation. Demonstration edition contains English only; a Greek source text is not yet imported. Book and section numbers follow Long's edition.",
+      "texts": {
+        "2.1": "I. Remember how long thou hast already put off these things, and how often a certain day and hour as it were, having been set unto thee by the gods, thou hast neglected it. It is high time for thee to understand the true nature both of the world, whereof thou art a part; and of that Lord and Governor of the world, from whom, as a channel from the spring, thou thyself didst flow: and that there is but a certain limit of time appointed unto thee, which if thou shalt not make use of to calm and allay the many distempers of thy soul, it will pass away and thou with it, and never after return.",
+        "2.15": "The time of a man's life is as a point; the substance of it ever flowing, the sense obscure; and the whole composition of the body tending to corruption. His soul is restless, fortune uncertain, and fame doubtful; to be brief, as a stream so are all things belonging to the body; as a dream, or as a smoke, so are all that belong unto the soul. Our life is a warfare, and a mere pilgrimage. Fame after life is no better than oblivion. What is it then that will adhere and follow? Only one thing, philosophy. And philosophy doth consist in this, for a man to preserve that spirit which is within him, from all manner of contumelies and injuries, and above all pains or pleasures; never to do anything either rashly, or feignedly, or hypocritically: wholly to depend from himself and his own proper actions: all things that happen unto him to embrace contentedly, as coming from Him from whom he himself also came; and above all things, with all meekness and a calm cheerfulness, to expect death, as being nothing else but the resolution of those elements, of which every creature is composed. And if the elements themselves suffer nothing by this their perpetual conversion of one into another, that dissolution, and alteration, which is so common unto all, why should it be feared by any? Is not this according to nature? But nothing that is according to nature can be evil."
+      }
+    }
+  ]
+}

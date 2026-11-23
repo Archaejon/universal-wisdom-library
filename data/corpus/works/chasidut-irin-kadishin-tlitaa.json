@@ -1,0 +1,327 @@
+{
+  "slug": "chasidut-irin-kadishin-tlitaa",
+  "title": "Irin Kadishin Tlita'a",
+  "originalTitle": "עירין קדישין תליתאה",
+  "transliteration": "",
+  "altTitles": [],
+  "tradition": "judaism",
+  "school": "rabbinic-judaism",
+  "genre": "Chasidut",
+  "textType": "Hasidic homily and teaching",
+  "category": "Chasidut",
+  "subcategory": "Other Chasidut Works",
+  "originalLanguage": "he",
+  "dateStart": 1750,
+  "dateEnd": 1950,
+  "dateDisplay": "Hasidic literature, c. 1750–1950 CE",
+  "authorshipStatus": "established",
+  "author": "",
+  "attributionNote": "Authorship follows the Sefaria catalogue record for this work. Where a text is traditionally attributed or collectively compiled, the library does not assert a single author beyond the source's own metadata.",
+  "description": "Complete Chasidut text imported from Sefaria; the exact edition and licence are shown with each version.",
+  "historicalContext": "Hasidic literature gathers sermons, letters and teachings from the movement's dynasties and schools. Individual works are attributed to specific rebbes and schools rather than to Chasidut as a whole.",
+  "availabilityNote": "Imported from Sefaria. Version, source and licence are recorded per edition.",
+  "featured": false,
+  "featuredNote": "",
+  "refScheme": "chapter.paragraph",
+  "isSample": false,
+  "textStorage": "streamed",
+  "chapters": [
+    {
+      "ref": "1",
+      "label": "Publisher's Introduction"
+    },
+    {
+      "ref": "2",
+      "label": "Bereshit"
+    },
+    {
+      "ref": "3",
+      "label": "Noach"
+    },
+    {
+      "ref": "4",
+      "label": "Chayei Sara"
+    },
+    {
+      "ref": "5",
+      "label": "Toldot"
+    },
+    {
+      "ref": "6",
+      "label": "Vayetzei"
+    },
+    {
+      "ref": "7",
+      "label": "Vayeshev"
+    },
+    {
+      "ref": "8",
+      "label": "Chanukkah"
+    },
+    {
+      "ref": "9",
+      "label": "Shemot"
+    },
+    {
+      "ref": "10",
+      "label": "Vaera"
+    },
+    {
+      "ref": "11",
+      "label": "Beshalach"
+    },
+    {
+      "ref": "12",
+      "label": "Pesach"
+    },
+    {
+      "ref": "13",
+      "label": "Achrei Mot"
+    },
+    {
+      "ref": "14",
+      "label": "Behar"
+    },
+    {
+      "ref": "15",
+      "label": "Shavuot"
+    },
+    {
+      "ref": "16",
+      "label": "Nitzavim"
+    },
+    {
+      "ref": "17",
+      "label": "Rosh Hashanah"
+    },
+    {
+      "ref": "19",
+      "label": "Tales"
+    }
+  ],
+  "passages": [
+    {
+      "reference": "1.1",
+      "label": "1:1",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.2",
+      "label": "1:2",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.3",
+      "label": "1:3",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.4",
+      "label": "1:4",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "2.1",
+      "label": "2:1",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.2",
+      "label": "2:2",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "3.1",
+      "label": "3:1",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "4.1",
+      "label": "4:1",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.2",
+      "label": "4:2",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.3",
+      "label": "4:3",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "5.1",
+      "label": "5:1",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "6.1",
+      "label": "6:1",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.2",
+      "label": "6:2",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "7.1",
+      "label": "7:1",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "8.1",
+      "label": "8:1",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.2",
+      "label": "8:2",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.3",
+      "label": "8:3",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.4",
+      "label": "8:4",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.5",
+      "label": "8:5",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "9.1",
+      "label": "9:1",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.2",
+      "label": "9:2",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "10.1",
+      "label": "10:1",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "11.1",
+      "label": "11:1",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "12.1",
+      "label": "12:1",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "13.1",
+      "label": "13:1",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "14.1",
+      "label": "14:1",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.2",
+      "label": "14:2",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "15.1",
+      "label": "15:1",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "16.1",
+      "label": "16:1",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "17.1",
+      "label": "17:1",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.2",
+      "label": "17:2",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.3",
+      "label": "17:3",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.4",
+      "label": "17:4",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.5",
+      "label": "17:5",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "19.1",
+      "label": "19:1",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.2",
+      "label": "19:2",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.3",
+      "label": "19:3",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.4",
+      "label": "19:4",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.5",
+      "label": "19:5",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.6",
+      "label": "19:6",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.7",
+      "label": "19:7",
+      "chapterRef": "19"
+    }
+  ],
+  "editions": [
+    {
+      "slug": "chasidut-irin-kadishin-tlitaa-hebrew-sefaria",
+      "language": "he",
+      "editionType": "original",
+      "title": "Mielec, 1914",
+      "translator": "",
+      "publisher": "https://www.nli.org.il/he/books/NNL_ALEPH990020463840205171/NLI",
+      "publicationYear": null,
+      "source": "sefaria",
+      "license": "unknown",
+      "rightsStatus": "unknown",
+      "attributionText": "Mielec, 1914; licence: unknown; source: https://www.nli.org.il/he/books/NNL_ALEPH990020463840205171/NLI. Retrieved via Sefaria on 2026-10-20.",
+      "structureScheme": "chapter and paragraph",
+      "isSample": false,
+      "notes": "Complete work imported from Sefaria. Text is displayed as supplied by the named edition; HTML markup has been removed."
+    }
+  ]
+}

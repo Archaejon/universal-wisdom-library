@@ -1,0 +1,6598 @@
+{
+  "slug": "atharvaveda",
+  "title": "The Hymns of the Atharvaveda",
+  "originalTitle": "अथर्ववेद",
+  "transliteration": "Atharvaveda",
+  "altTitles": [
+    "Atharva Veda",
+    "Atharvaveda Samhita"
+  ],
+  "tradition": "hinduism",
+  "school": "",
+  "genre": "Scripture",
+  "textType": "Hymns and charms",
+  "category": "Veda",
+  "subcategory": "Atharvaveda",
+  "originalLanguage": "sa",
+  "dateStart": -1200,
+  "dateEnd": -800,
+  "dateDisplay": "c. 1200–800 BCE (with later material in Books XIX–XX)",
+  "authorshipStatus": "anonymous",
+  "author": "",
+  "attributionNote": "The Atharvaveda is anonymous and composite. Its hymns are the work of the Atharvan and Angirasa priestly families, and Books XIX and XX contain later additions drawn partly from the Rigveda.",
+  "description": "The Atharvaveda is the fourth Veda and the least liturgical of them: a collection of charms, exorcisms, prayers for health, prosperity and victory, speculative hymns on brahman, time and the primordial giant, and the great funeral and marriage rites. It preserves a side of Vedic religion that the Rigveda barely shows — the everyday fears and hopes of householders, and the specialist knowledge of the healing and sorcery priest.",
+  "historicalContext": "The collection survives in the Saunaka and Paippalada recensions; Griffith translates the Saunaka text in twenty books. His two-volume translation of 1895–96 was the first complete English rendering and remains the standard public-domain one; the archive serves the twenty books as twenty pages.",
+  "availabilityNote": "Complete. All twenty books of Griffith's translation are streamed from the Internet Sacred Text Archive at read time, one book per chapter. The volume's preface and errata are not part of the work.",
+  "featured": false,
+  "featuredNote": "",
+  "refScheme": "chapter.paragraph",
+  "isSample": false,
+  "textStorage": "streamed",
+  "chapters": [
+    {
+      "ref": "1",
+      "label": "Hymn 1: A prayer to Vāchaspati for divine illumination and help."
+    },
+    {
+      "ref": "2",
+      "label": "Hymn 2: A charm against dysentery"
+    },
+    {
+      "ref": "3",
+      "label": "Hymn 3: A charm against constipation and suppression of urine"
+    },
+    {
+      "ref": "4",
+      "label": "Hymn 4: To the waters, for the prosperity of cattle"
+    },
+    {
+      "ref": "5",
+      "label": "Hymn 5: To the waters, for strength and power"
+    },
+    {
+      "ref": "6",
+      "label": "Hymn 6: To the waters, for health and wealth"
+    },
+    {
+      "ref": "7",
+      "label": "Hymn 7: To Indra and Agni, for the detection and destruction of evil spirits"
+    },
+    {
+      "ref": "8",
+      "label": "Hymn 8: To Indra, Brihaspati, Soma and Agni, for the destruction of sorcerers"
+    },
+    {
+      "ref": "9",
+      "label": "Hymn 9: Benediction on a King at his inauguration"
+    },
+    {
+      "ref": "10",
+      "label": "Hymn 10: Absolution of a sinner after intercession with Varuna"
+    },
+    {
+      "ref": "11",
+      "label": "Hymn 11: A charm to be used at child-birth"
+    },
+    {
+      "ref": "12",
+      "label": "Hymn 12: A prayer to Lightning, against fever, headache, and cough"
+    },
+    {
+      "ref": "13",
+      "label": "Hymn 13: A prayer to Lightning, for happiness"
+    },
+    {
+      "ref": "14",
+      "label": "Hymn 14: A woman's incantation against a rival"
+    },
+    {
+      "ref": "15",
+      "label": "Hymn 15: A prayer for the prosperity of an institutor of sacrifice"
+    },
+    {
+      "ref": "16",
+      "label": "Hymn 16: A prayer and charm against demons"
+    },
+    {
+      "ref": "17",
+      "label": "Hymn 17: A charm to be used at venesection"
+    },
+    {
+      "ref": "18",
+      "label": "Hymn 18: A charm to avert evil spirits of misfortune and to secure prosperity"
+    },
+    {
+      "ref": "19",
+      "label": "Hymn 19: A prayer for protection from arrows and for the punishment of enemies"
+    },
+    {
+      "ref": "20",
+      "label": "Hymn 20: A prayer to Soma, the Maruts, Mitra, and Varuna, for protection"
+    },
+    {
+      "ref": "21",
+      "label": "Hymn 21: A prayer to Indra for protection"
+    },
+    {
+      "ref": "22",
+      "label": "Hymn 22: A charm against jaundice"
+    },
+    {
+      "ref": "23",
+      "label": "Hymn 23: A charm against leprosy"
+    },
+    {
+      "ref": "24",
+      "label": "Hymn 24: A charm against leprosy"
+    },
+    {
+      "ref": "25",
+      "label": "Hymn 25: A prayer to fever, as a charm against his attacks"
+    },
+    {
+      "ref": "26",
+      "label": "Hymn 26: A charm to obtain invisibility"
+    },
+    {
+      "ref": "27",
+      "label": "Hymn 27: A prayer for protection, guidance, and prosperity"
+    },
+    {
+      "ref": "28",
+      "label": "Hymn 28: A prayer to Agni for the destruction of evil spirits"
+    },
+    {
+      "ref": "29",
+      "label": "Hymn 29: A charm to secure the supremacy of a dethroned King"
+    },
+    {
+      "ref": "30",
+      "label": "Hymn 30: A benediction on a King at his consecration"
+    },
+    {
+      "ref": "31",
+      "label": "Hymn 31: A prayer for protection and general prosperity"
+    },
+    {
+      "ref": "32",
+      "label": "Hymn 32: In praise of Heaven and Earth"
+    },
+    {
+      "ref": "33",
+      "label": "Hymn 33: To the Waters, for health and happiness"
+    },
+    {
+      "ref": "34",
+      "label": "Hymn 34: A young man's love-charm"
+    },
+    {
+      "ref": "35",
+      "label": "Hymn 35: A charm to ensure long life and glory to the wearer of an amulet"
+    },
+    {
+      "ref": "36",
+      "label": "Hymn 1: Glorification of the prime cause of all things"
+    },
+    {
+      "ref": "37",
+      "label": "Hymn 2: A charm to ensure success in gambling"
+    },
+    {
+      "ref": "38",
+      "label": "Hymn 3: A water-cure charm"
+    },
+    {
+      "ref": "39",
+      "label": "Hymn 4: A charm to ensure health and prosperity by wearing an amulet"
+    },
+    {
+      "ref": "40",
+      "label": "Hymn 5: Invitation to, and praise of Indra"
+    },
+    {
+      "ref": "41",
+      "label": "Hymn 6: A prayer to Agni for protection"
+    },
+    {
+      "ref": "42",
+      "label": "Hymn 7: A counter-charm against imprecation and malignity"
+    },
+    {
+      "ref": "43",
+      "label": "Hymn 8: A charm against hereditary disease (kshetriya)"
+    },
+    {
+      "ref": "44",
+      "label": "Hymn 9: A charm to cure dangerous disease"
+    },
+    {
+      "ref": "45",
+      "label": "Hymn 10: Absolution and benediction"
+    },
+    {
+      "ref": "46",
+      "label": "Hymn 11: Counter-charm, with an amulet, against an enemy's spell"
+    },
+    {
+      "ref": "47",
+      "label": "Hymn 12: A prayer for vengeance on a malicious rival worshipper"
+    },
+    {
+      "ref": "48",
+      "label": "Hymn 13: A youth's Investiture ceremony (godānam)"
+    },
+    {
+      "ref": "49",
+      "label": "Hymn 14: A charm to banish vermin and noxious creatures"
+    },
+    {
+      "ref": "50",
+      "label": "Hymn 15: A prayer for general protection"
+    },
+    {
+      "ref": "51",
+      "label": "Hymn 16: A charm against fear"
+    },
+    {
+      "ref": "52",
+      "label": "Hymn 17: A prayer to an amulet for health and strength"
+    },
+    {
+      "ref": "53",
+      "label": "Hymn 18: A charm against enemies, goblins, and other evil creatures"
+    },
+    {
+      "ref": "54",
+      "label": "Hymn 19: A prayer to Agni for aid against an enemy"
+    },
+    {
+      "ref": "55",
+      "label": "Hymn 24: A charm against the magic arts of fiends"
+    },
+    {
+      "ref": "56",
+      "label": "Hymn 25: A charm against fiends who cause abortion"
+    },
+    {
+      "ref": "57",
+      "label": "Hymn 26: A benediction on homeward coming cattle"
+    },
+    {
+      "ref": "58",
+      "label": "Hymn 27: A charm against an opponent in debate"
+    },
+    {
+      "ref": "59",
+      "label": "Hymn 28: A prayer for a boy's long and happy life"
+    },
+    {
+      "ref": "60",
+      "label": "Hymn 29: A benediction on a sick man"
+    },
+    {
+      "ref": "61",
+      "label": "Hymn 30: A man's love-charm"
+    },
+    {
+      "ref": "62",
+      "label": "Hymn 31: A charm against all sorts of worms"
+    },
+    {
+      "ref": "63",
+      "label": "Hymn 32: A charm against worms or bots in cows"
+    },
+    {
+      "ref": "64",
+      "label": "Hymn 33"
+    },
+    {
+      "ref": "65",
+      "label": "Hymn 34: A prayer accompanying an animal sacrifice"
+    },
+    {
+      "ref": "66",
+      "label": "Hymn 35: Expiation for an imperfectly performed sacrifice"
+    },
+    {
+      "ref": "67",
+      "label": "Hymn 36: A charm to secure a husband for a marriageable girl"
+    },
+    {
+      "ref": "68",
+      "label": "Hymn 1: A prayer or charm for the defeat and destruction of enemies in battle"
+    },
+    {
+      "ref": "69",
+      "label": "Hymn 2: A rifaccimento or recension of I"
+    },
+    {
+      "ref": "70",
+      "label": "Hymn 3: A charm for the restoration of an expelled king"
+    },
+    {
+      "ref": "71",
+      "label": "Hymn 4: A benediction at the election of a king"
+    },
+    {
+      "ref": "72",
+      "label": "Hymn 5: A King's address to an amulet which is to strengthen his authority"
+    },
+    {
+      "ref": "73",
+      "label": "Hymn 6: Address to an amulet which is to secure the defeat of the wearer's enemies"
+    },
+    {
+      "ref": "74",
+      "label": "Hymn 7: A charm with an amulet of buck horn to drive away hereditary disease"
+    },
+    {
+      "ref": "75",
+      "label": "Hymn 8: A charm to secure the submission, love, and fidelity of kinsmen"
+    },
+    {
+      "ref": "76",
+      "label": "Hymn 9: A charm against rheumatism (vishkondha)"
+    },
+    {
+      "ref": "77",
+      "label": "Hymn 10: A new year prayer"
+    },
+    {
+      "ref": "78",
+      "label": "Hymn 11: A charm for the recovery of a dangerously sick man"
+    },
+    {
+      "ref": "79",
+      "label": "Hymn 12: A benediction on a newly built house"
+    },
+    {
+      "ref": "80",
+      "label": "Hymn 13: A benediction on a newly cut water channel"
+    },
+    {
+      "ref": "81",
+      "label": "Hymn 14: A benediction on a cattle pen"
+    },
+    {
+      "ref": "82",
+      "label": "Hymn 15: A merchant's prayer for success in his business"
+    },
+    {
+      "ref": "83",
+      "label": "Hymn 16: A Rishi's morning prayer"
+    },
+    {
+      "ref": "84",
+      "label": "Hymn 17: A farmer's song and prayer to speed the plough"
+    },
+    {
+      "ref": "85",
+      "label": "Hymn 18: A jealous wife's incantation against a rival"
+    },
+    {
+      "ref": "86",
+      "label": "Hymn 19: A glorification of the office of a king's household priest"
+    },
+    {
+      "ref": "87",
+      "label": "Hymn 20: A prayer for riches and general prosperity"
+    },
+    {
+      "ref": "88",
+      "label": "Hymn 21: In honour of fire in all shapes, to appease Agni of the funeral pile and to quench the flames of cremation"
+    },
+    {
+      "ref": "89",
+      "label": "Hymn 22: The taming and training of an elephant for a king to ride on"
+    },
+    {
+      "ref": "90",
+      "label": "Hymn 23: A charm to remove a woman's sterility, and to assure the birth of boys"
+    },
+    {
+      "ref": "91",
+      "label": "Hymn 24: A song of harvest"
+    },
+    {
+      "ref": "92",
+      "label": "Hymn 25: A man's love-charm"
+    },
+    {
+      "ref": "93",
+      "label": "Hymn 26: A charm to win the favour of all serpents"
+    },
+    {
+      "ref": "94",
+      "label": "Hymn 27: A charm consigning an enemy to the serpents for punishment"
+    },
+    {
+      "ref": "95",
+      "label": "Hymn 28: A charm to change the ill-omened birth of twin calves into a blessing"
+    },
+    {
+      "ref": "96",
+      "label": "Hymn 29: On the means to obtain immunity from taxation in the next world"
+    },
+    {
+      "ref": "97",
+      "label": "Hymn 30: A prayer or charm to secure love and concord in a family"
+    },
+    {
+      "ref": "98",
+      "label": "Hymn 31: A charm for the recovery of one dangerously ill"
+    },
+    {
+      "ref": "99",
+      "label": "Hymn 1: Cosmogonical and mystico-theological doctrine"
+    },
+    {
+      "ref": "100",
+      "label": "Hymn 2: To the unknown God"
+    },
+    {
+      "ref": "101",
+      "label": "Hymn 4: A charm to restore virile power"
+    },
+    {
+      "ref": "102",
+      "label": "Hymn 5: A lover's sleep-charm"
+    },
+    {
+      "ref": "103",
+      "label": "Hymn 6: A charm to make a poisoned arrow harmless"
+    },
+    {
+      "ref": "104",
+      "label": "Hymn 7: A charm to make a poisonous plant innocuous"
+    },
+    {
+      "ref": "105",
+      "label": "Hymn 8: A benediction at the consecration of a King"
+    },
+    {
+      "ref": "106",
+      "label": "Hymn 9: A charm addressed to a precious ointment for safety and wealth"
+    },
+    {
+      "ref": "107",
+      "label": "Hymn 10: A charm accompanying investiture with an amulet of shell"
+    },
+    {
+      "ref": "108",
+      "label": "Hymn 11: A glorification of the sacrificial gharma or milk caldron"
+    },
+    {
+      "ref": "109",
+      "label": "Hymn 12: A charm to mend a broken bone"
+    },
+    {
+      "ref": "110",
+      "label": "Hymn 13: A charm to restore a sick man to health"
+    },
+    {
+      "ref": "111",
+      "label": "Hymn 14: Accompanying the sacrifice of a he-goat"
+    },
+    {
+      "ref": "112",
+      "label": "Hymn 15: A charm to hasten the coming of the rains"
+    },
+    {
+      "ref": "113",
+      "label": "Hymn 16: On the omnipresence and omniscience of Varuna"
+    },
+    {
+      "ref": "114",
+      "label": "Hymn 17: A charm to secure freedom from various evils"
+    },
+    {
+      "ref": "115",
+      "label": "Hymn 18: A counter-charm against the incantations of enemies"
+    },
+    {
+      "ref": "116",
+      "label": "Hymn 19: A counter-charm and charm to secure general protection."
+    },
+    {
+      "ref": "117",
+      "label": "Hymn 20: A charm for the acquisition of superhuman powers of sight"
+    },
+    {
+      "ref": "118",
+      "label": "Hymn 21: Glorification and benediction of cows"
+    },
+    {
+      "ref": "119",
+      "label": "Hymn 22: A benediction on a newly consecrated king"
+    },
+    {
+      "ref": "120",
+      "label": "Hymn 23: Magnification of Agni and prayer for his protection"
+    },
+    {
+      "ref": "121",
+      "label": "Hymn 24: A hymn of prayer and praise to Indra"
+    },
+    {
+      "ref": "122",
+      "label": "Hymn 25: A hymn of prayer and praise to Vāyu and Savitar"
+    },
+    {
+      "ref": "123",
+      "label": "Hymn 26: A hymn to Heaven and Earth"
+    },
+    {
+      "ref": "124",
+      "label": "Hymn 27: A hymn to the Maruts"
+    },
+    {
+      "ref": "125",
+      "label": "Hymn 28: A hymn to Bhava and Sarva"
+    },
+    {
+      "ref": "126",
+      "label": "Hymn 29: A hymn to Mitra-Varuna"
+    },
+    {
+      "ref": "127",
+      "label": "Hymn 30: A glorification of vāk or speech"
+    },
+    {
+      "ref": "128",
+      "label": "Hymn 31: A hymn to Manyu or Wrath"
+    },
+    {
+      "ref": "129",
+      "label": "Hymn 32: A hymn to Manyu"
+    },
+    {
+      "ref": "130",
+      "label": "Hymn 33: A prayer to Agni for protection and prosperity"
+    },
+    {
+      "ref": "131",
+      "label": "Hymn 34: Glorification of the Vishtāri sacrifice"
+    },
+    {
+      "ref": "132",
+      "label": "Hymn 35: Magnification of the Odana or oblation of milk and rice"
+    },
+    {
+      "ref": "133",
+      "label": "Hymn 36: A charm against fiends, human enemies, and other pests"
+    },
+    {
+      "ref": "134",
+      "label": "Hymn 37: A charm against Gandharvas and Apsarases"
+    },
+    {
+      "ref": "135",
+      "label": "Hymn 38: A charm for success in gambling"
+    },
+    {
+      "ref": "136",
+      "label": "Hymn 39: A prayer to various deities for health, wealth, and prosperity"
+    },
+    {
+      "ref": "137",
+      "label": "Hymn 40: A charm against rival worshippers"
+    },
+    {
+      "ref": "138",
+      "label": "Hymn 1: A glorification of Trita and Varuna"
+    },
+    {
+      "ref": "139",
+      "label": "Hymn 2: A glorification of Indra"
+    },
+    {
+      "ref": "140",
+      "label": "Hymn 3: A prayer to Agni, Indra, and other deities for victory and prosperity"
+    },
+    {
+      "ref": "141",
+      "label": "Hymn 4: A charm against fever and other ailments"
+    },
+    {
+      "ref": "142",
+      "label": "Hymn 5: A charm to mend a broken bone"
+    },
+    {
+      "ref": "143",
+      "label": "Hymn 6: A prayer for protection and prosperity"
+    },
+    {
+      "ref": "144",
+      "label": "Hymn 7: A charm to deprecate Arāti or Malignity"
+    },
+    {
+      "ref": "145",
+      "label": "Hymn 8: A charm for the discomfiture and destruction of hostile priests"
+    },
+    {
+      "ref": "146",
+      "label": "Hymn 9: A prayer to Heaven and Earth for protection and assistance"
+    },
+    {
+      "ref": "147",
+      "label": "Hymn 10: A prayer to the presiding deities of the four quarters for protection"
+    },
+    {
+      "ref": "148",
+      "label": "Hymn 11: A dialogue between Atharvan and Varuna"
+    },
+    {
+      "ref": "149",
+      "label": "Hymn 12: An Apri or propitiatory hymn"
+    },
+    {
+      "ref": "150",
+      "label": "Hymn 13: A charm against snakes"
+    },
+    {
+      "ref": "151",
+      "label": "Hymn 14: A charm against witchcraft"
+    },
+    {
+      "ref": "152",
+      "label": "Hymn 15: A charm for general prosperity"
+    },
+    {
+      "ref": "153",
+      "label": "Hymn 16: A charm for the increase of cattle"
+    },
+    {
+      "ref": "154",
+      "label": "Hymn 17: The abduction and restoration of a Brāhman's wife"
+    },
+    {
+      "ref": "155",
+      "label": "Hymn 18: The wickedness of oppressing and robbing Brāhmans"
+    },
+    {
+      "ref": "156",
+      "label": "Hymn 19: The wickedness of robbing or insulting Brāhmans"
+    },
+    {
+      "ref": "157",
+      "label": "Hymn 20: A hymn to the War-drum to secure victory"
+    },
+    {
+      "ref": "158",
+      "label": "Hymn 21: A hymn to the War-drum and various deities for victory"
+    },
+    {
+      "ref": "159",
+      "label": "Hymn 22: A charm against fever"
+    },
+    {
+      "ref": "160",
+      "label": "Hymn 23: A charm against parasitic worms"
+    },
+    {
+      "ref": "161",
+      "label": "Hymn 24: A priest's prayer for protection and assistance"
+    },
+    {
+      "ref": "162",
+      "label": "Hymn 25: A charm to facilitate conception"
+    },
+    {
+      "ref": "163",
+      "label": "Hymn 26: A hymn of invitation to the gods"
+    },
+    {
+      "ref": "164",
+      "label": "Hymn 27: An Apri or Propitiatory hymn"
+    },
+    {
+      "ref": "165",
+      "label": "Hymn 28: A charm to ensure general protection and prosperity"
+    },
+    {
+      "ref": "166",
+      "label": "Hymn 29: A charm for the destruction of malignant goblins"
+    },
+    {
+      "ref": "167",
+      "label": "Hymn 30: A charm to restore life and health"
+    },
+    {
+      "ref": "168",
+      "label": "Hymn 31: A counter-charm against the incantations of an enemy"
+    },
+    {
+      "ref": "169",
+      "label": "Hymn 1: In praise of Savitar"
+    },
+    {
+      "ref": "170",
+      "label": "Hymn 2: In praise of Indra"
+    },
+    {
+      "ref": "171",
+      "label": "Hymn 3: A prayer to various deities for protection and prosperity"
+    },
+    {
+      "ref": "172",
+      "label": "Hymn 4: A hymn to various deities for protection"
+    },
+    {
+      "ref": "173",
+      "label": "Hymn 5: A prayer to Agni and Indra for the well being of a princely patron"
+    },
+    {
+      "ref": "174",
+      "label": "Hymn 6: A prayer to Brāhmanaspati for protection from wicked men"
+    },
+    {
+      "ref": "175",
+      "label": "Hymn 7: A prayer to Soma and other gods for help and protection"
+    },
+    {
+      "ref": "176",
+      "label": "Hymn 8: A man's love-charm"
+    },
+    {
+      "ref": "177",
+      "label": "Hymn 9: A man's love-charm"
+    },
+    {
+      "ref": "178",
+      "label": "Hymn 10: A thanksgiving for life, hearing, and sight"
+    },
+    {
+      "ref": "179",
+      "label": "Hymn 11: An epithalamian charm to ensure the birth of a boy"
+    },
+    {
+      "ref": "180",
+      "label": "Hymn 12: A charm against venomous serpents"
+    },
+    {
+      "ref": "181",
+      "label": "Hymn 13: Homage to death"
+    },
+    {
+      "ref": "182",
+      "label": "Hymn 14: A charm against consumption"
+    },
+    {
+      "ref": "183",
+      "label": "Hymn 15: A charm for power and preeminence"
+    },
+    {
+      "ref": "184",
+      "label": "Hymn 16: A medical charm"
+    },
+    {
+      "ref": "185",
+      "label": "Hymn 17: A charm to ensure conception"
+    },
+    {
+      "ref": "186",
+      "label": "Hymn 18: A charm to banish jealousy"
+    },
+    {
+      "ref": "187",
+      "label": "Hymn 19: A prayer for purification"
+    },
+    {
+      "ref": "188",
+      "label": "Hymn 20: A charm against fever"
+    },
+    {
+      "ref": "189",
+      "label": "Hymn 21: A charm to strengthen hair and promote its growth"
+    },
+    {
+      "ref": "190",
+      "label": "Hymn 22: To the Maruts or Storm-Gods"
+    },
+    {
+      "ref": "191",
+      "label": "Hymn 23: To the Waters"
+    },
+    {
+      "ref": "192",
+      "label": "Hymn 24: To the Rivers"
+    },
+    {
+      "ref": "193",
+      "label": "Hymn 25: A charm to remove pustules or scrofulous swellings (apachitas)"
+    },
+    {
+      "ref": "194",
+      "label": "Hymn 26: To Affliction"
+    },
+    {
+      "ref": "195",
+      "label": "Hymn 27: A charm to avert misfortune foreshown by the coming of a dove"
+    },
+    {
+      "ref": "196",
+      "label": "Hymn 28: A charm to avert misfortune foreshown by the coming of a dove"
+    },
+    {
+      "ref": "197",
+      "label": "Hymn 29: A charm to avert misfortune foreshown by the coming of a dove and an owl"
+    },
+    {
+      "ref": "198",
+      "label": "Hymn 30: A charm to promote the growth of hair"
+    },
+    {
+      "ref": "199",
+      "label": "Hymn 31: To Sūrya the Sun-God"
+    },
+    {
+      "ref": "200",
+      "label": "Hymn 32: A charm against fiends and goblins"
+    },
+    {
+      "ref": "201",
+      "label": "Hymn 33: A prayer to Indra for riches"
+    },
+    {
+      "ref": "202",
+      "label": "Hymn 34: To Agni for protection from enemies"
+    },
+    {
+      "ref": "203",
+      "label": "Hymn 35: To Agni Vaisvānara"
+    },
+    {
+      "ref": "204",
+      "label": "Hymn 36: In praise of Agni Vaisvānara"
+    },
+    {
+      "ref": "205",
+      "label": "Hymn 37: A charm to divert Imprecation personified"
+    },
+    {
+      "ref": "206",
+      "label": "Hymn 38: A prayer for surpassing strength and energy"
+    },
+    {
+      "ref": "207",
+      "label": "Hymn 39: A priest's prayer for power and glory"
+    },
+    {
+      "ref": "208",
+      "label": "Hymn 40: A prayer for peace and security"
+    },
+    {
+      "ref": "209",
+      "label": "Hymn 41: A prayer for protection, long life, and various blessings"
+    },
+    {
+      "ref": "210",
+      "label": "Hymn 42: A charm to reconcile estranged friends"
+    },
+    {
+      "ref": "211",
+      "label": "Hymn 43: The same"
+    },
+    {
+      "ref": "212",
+      "label": "Hymn 44: A charm to remove disease"
+    },
+    {
+      "ref": "213",
+      "label": "Hymn 45: A prayer for preservation from mental sin and evil promptings"
+    },
+    {
+      "ref": "214",
+      "label": "Hymn 46: A charm against evil dreams"
+    },
+    {
+      "ref": "215",
+      "label": "Hymn 47: To accompany the three daily libations"
+    },
+    {
+      "ref": "216",
+      "label": "Hymn 48: Formulas to be used at the three daily libations"
+    },
+    {
+      "ref": "217",
+      "label": "Hymn 49: In praise of Agni"
+    },
+    {
+      "ref": "218",
+      "label": "Hymn 50: A charm for the destruction of vermin"
+    },
+    {
+      "ref": "219",
+      "label": "Hymn 51: A prayer for purification and forgiveness of sins"
+    },
+    {
+      "ref": "220",
+      "label": "Hymn 52: A charm against noxious reptiles and insects"
+    },
+    {
+      "ref": "221",
+      "label": "Hymn 53: A prayer for recovery and preservation of health and security"
+    },
+    {
+      "ref": "222",
+      "label": "Hymn 54: A benediction on a newly elected King"
+    },
+    {
+      "ref": "223",
+      "label": "Hymn 55: A prayer for general protection and prosperity"
+    },
+    {
+      "ref": "224",
+      "label": "Hymn 56: A charm against snakes"
+    },
+    {
+      "ref": "225",
+      "label": "Hymn 57: A charm for a wound or bruise"
+    },
+    {
+      "ref": "226",
+      "label": "Hymn 58: A priest's prayer for power and glory"
+    },
+    {
+      "ref": "227",
+      "label": "Hymn 59: A charm to protect cattle and men"
+    },
+    {
+      "ref": "228",
+      "label": "Hymn 60: The wooing of a bride"
+    },
+    {
+      "ref": "229",
+      "label": "Hymn 61: A prayer for prosperity and greatness"
+    },
+    {
+      "ref": "230",
+      "label": "Hymn 62: A prayer for purification and riches"
+    },
+    {
+      "ref": "231",
+      "label": "Hymn 63: The symbolical liberation of a sacrificial victim"
+    },
+    {
+      "ref": "232",
+      "label": "Hymn 64: To promote unanimity in an assembly"
+    },
+    {
+      "ref": "233",
+      "label": "Hymn 65: A sacrificial charm against enemies"
+    },
+    {
+      "ref": "234",
+      "label": "Hymn 66: A charm for the destruction and plunder of enemies"
+    },
+    {
+      "ref": "235",
+      "label": "Hymn 67: A charm for the destruction and plunder of enemies"
+    },
+    {
+      "ref": "236",
+      "label": "Hymn 68: A charm to accompany the shaving of the beard"
+    },
+    {
+      "ref": "237",
+      "label": "Hymn 69: A priest's prayer for power and glory"
+    },
+    {
+      "ref": "238",
+      "label": "Hymn 70: A benediction on cow and calf"
+    },
+    {
+      "ref": "239",
+      "label": "Hymn 71: A priest's benediction after meat"
+    },
+    {
+      "ref": "240",
+      "label": "Hymn 72: A charm to restore or increase virile power"
+    },
+    {
+      "ref": "241",
+      "label": "Hymn 73: A King's charm to conciliate his discontented kinsmen"
+    },
+    {
+      "ref": "242",
+      "label": "Hymn 74: A King's charm to secure the fidelity of his people"
+    },
+    {
+      "ref": "243",
+      "label": "Hymn 75: A charm to effect the removal of an enemy"
+    },
+    {
+      "ref": "244",
+      "label": "Hymn 76: A benediction on a new-born Kshatriya child"
+    },
+    {
+      "ref": "245",
+      "label": "Hymn 77: A charm to bring the cattle home"
+    },
+    {
+      "ref": "246",
+      "label": "Hymn 78: A nuptial benediction"
+    },
+    {
+      "ref": "247",
+      "label": "Hymn 79: A prayer for seasonable rain and prosperity"
+    },
+    {
+      "ref": "248",
+      "label": "Hymn 80: A prayer for help and protection"
+    },
+    {
+      "ref": "249",
+      "label": "Hymn 81: A charm to facilitate child-birth"
+    },
+    {
+      "ref": "250",
+      "label": "Hymn 82: A charm to win a bride"
+    },
+    {
+      "ref": "251",
+      "label": "Hymn 83: A charm against sores and pustules (apachitas)"
+    },
+    {
+      "ref": "252",
+      "label": "Hymn 84: A charm to accompany the symbolical loosing of sacrificial victims"
+    },
+    {
+      "ref": "253",
+      "label": "Hymn 85: A charm against Consumption"
+    },
+    {
+      "ref": "254",
+      "label": "Hymn 86: A glorification of a newly consecrated King"
+    },
+    {
+      "ref": "255",
+      "label": "Hymn 87: A benediction addressed to a newly elected King"
+    },
+    {
+      "ref": "256",
+      "label": "Hymn 88: A benediction addressed to a newly elected King"
+    },
+    {
+      "ref": "257",
+      "label": "Hymn 89: A man's love charm"
+    },
+    {
+      "ref": "258",
+      "label": "Hymn 90: A charm to cure a poisoned man"
+    },
+    {
+      "ref": "259",
+      "label": "Hymn 91: A charm against disease"
+    },
+    {
+      "ref": "260",
+      "label": "Hymn 92: A charm to strengthen and inspirit a war-horse"
+    },
+    {
+      "ref": "261",
+      "label": "Hymn 93: A prayer for protection from poison"
+    },
+    {
+      "ref": "262",
+      "label": "Hymn 94: A charm to reconcile a King's discontented people"
+    },
+    {
+      "ref": "263",
+      "label": "Hymn 95: A charm to remove disease"
+    },
+    {
+      "ref": "264",
+      "label": "Hymn 96: A prayer for deliverance from sin and sorrow"
+    },
+    {
+      "ref": "265",
+      "label": "Hymn 97: A prayer for the success and prosperity of a King"
+    },
+    {
+      "ref": "266",
+      "label": "Hymn 98: Praise of Indra"
+    },
+    {
+      "ref": "267",
+      "label": "Hymn 99: A prayer for protection in battle"
+    },
+    {
+      "ref": "268",
+      "label": "Hymn 100: A charm against poison"
+    },
+    {
+      "ref": "269",
+      "label": "Hymn 101: A charm to promote virile vigour"
+    },
+    {
+      "ref": "270",
+      "label": "Hymn 102: A man's love charm"
+    },
+    {
+      "ref": "271",
+      "label": "Hymn 103: A charm to check the approach of a hostile army"
+    },
+    {
+      "ref": "272",
+      "label": "Hymn 104: The same"
+    },
+    {
+      "ref": "273",
+      "label": "Hymn 105: A charm to cure cough"
+    },
+    {
+      "ref": "274",
+      "label": "Hymn 106: A charm to protect a house from fire"
+    },
+    {
+      "ref": "275",
+      "label": "Hymn 107: A charm to protect men and cattle"
+    },
+    {
+      "ref": "276",
+      "label": "Hymn 108: A prayer for wisdom"
+    },
+    {
+      "ref": "277",
+      "label": "Hymn 109: A charm to heal punctured wounds"
+    },
+    {
+      "ref": "278",
+      "label": "Hymn 110: A benediction on a new-born child"
+    },
+    {
+      "ref": "279",
+      "label": "Hymn 111: A charm for insanity"
+    },
+    {
+      "ref": "280",
+      "label": "Hymn 112: A health-charm for man, woman, and son"
+    },
+    {
+      "ref": "281",
+      "label": "Hymn 113: A charm to banish the fiend Grāhi"
+    },
+    {
+      "ref": "282",
+      "label": "Hymn 114: A prayer for pardon of faults and errors in sacrificing"
+    },
+    {
+      "ref": "283",
+      "label": "Hymn 115: A prayer for forgiveness of sins"
+    },
+    {
+      "ref": "284",
+      "label": "Hymn 116: A prayer for pardon of sin against mother, father, son, or brother"
+    },
+    {
+      "ref": "285",
+      "label": "Hymn 117: A prayer for freedom from debt"
+    },
+    {
+      "ref": "286",
+      "label": "Hymn 118: A prayer for pardon of cheating at play"
+    },
+    {
+      "ref": "287",
+      "label": "Hymn 119: A prayer for release from debts incurred without intention of payment"
+    },
+    {
+      "ref": "288",
+      "label": "Hymn 120: A prayer for pardon of sins and felicity hereafter"
+    },
+    {
+      "ref": "289",
+      "label": "Hymn 121: A prayer for happiness in heaven"
+    },
+    {
+      "ref": "290",
+      "label": "Hymn 122: A prayer for happiness in heaven"
+    },
+    {
+      "ref": "291",
+      "label": "Hymn 123: A prayer for happiness in heaven"
+    },
+    {
+      "ref": "292",
+      "label": "Hymn 124: An Omen from the sky"
+    },
+    {
+      "ref": "293",
+      "label": "Hymn 125: Glorification of a war-chariot"
+    },
+    {
+      "ref": "294",
+      "label": "Hymn 126: Glorification of the war drum"
+    },
+    {
+      "ref": "295",
+      "label": "Hymn 127: A charm to banish various diseases"
+    },
+    {
+      "ref": "296",
+      "label": "Hymn 128: A charm for fair weather"
+    },
+    {
+      "ref": "297",
+      "label": "Hymn 129: A charm for success and happiness"
+    },
+    {
+      "ref": "298",
+      "label": "Hymn 130: A woman's love-charm"
+    },
+    {
+      "ref": "299",
+      "label": "Hymn 131: A woman's love-charm"
+    },
+    {
+      "ref": "300",
+      "label": "Hymn 132: The same"
+    },
+    {
+      "ref": "301",
+      "label": "Hymn 133: A glorification of the sacred girdle"
+    },
+    {
+      "ref": "302",
+      "label": "Hymn 134: A priest's prayer for power to punish wrong-doers"
+    },
+    {
+      "ref": "303",
+      "label": "Hymn 135: A priest's fulmination against an enemy"
+    },
+    {
+      "ref": "304",
+      "label": "Hymn 136: A charm to promote the growth of hair"
+    },
+    {
+      "ref": "305",
+      "label": "Hymn 137: A charm to promote the growth of hair"
+    },
+    {
+      "ref": "306",
+      "label": "Hymn 138: A woman's imprecation on her unfaithful lover"
+    },
+    {
+      "ref": "307",
+      "label": "Hymn 139: A woman's love-charm"
+    },
+    {
+      "ref": "308",
+      "label": "Hymn 140: A blessing on a child's first two teeth"
+    },
+    {
+      "ref": "309",
+      "label": "Hymn 141: A blessing on cattle"
+    },
+    {
+      "ref": "310",
+      "label": "Hymn 142: A blessing on cattle"
+    },
+    {
+      "ref": "311",
+      "label": "Hymn 1: Glorification of the power of prayer and to Agni"
+    },
+    {
+      "ref": "312",
+      "label": "Hymn 2: Praise of Atharvan"
+    },
+    {
+      "ref": "313",
+      "label": "Hymn 3: Praise of Agni as the Sun"
+    },
+    {
+      "ref": "314",
+      "label": "Hymn 5: A glorification of sacrifice"
+    },
+    {
+      "ref": "315",
+      "label": "Hymn 6: A prayer to Aditi for help and protection"
+    },
+    {
+      "ref": "316",
+      "label": "Hymn 7: Praise of the Ādityas"
+    },
+    {
+      "ref": "317",
+      "label": "Hymn 8: Godspeed to a departing traveller"
+    },
+    {
+      "ref": "318",
+      "label": "Hymn 9: A prayer to Pūshan for protection and the recovery of lost property"
+    },
+    {
+      "ref": "319",
+      "label": "Hymn 10: A prayer for the favour of Sarasvati"
+    },
+    {
+      "ref": "320",
+      "label": "Hymn 11: A prayer to protect corn from lightning and drought"
+    },
+    {
+      "ref": "321",
+      "label": "Hymn 12: A prayer for influence at deliberative and religious meetings"
+    },
+    {
+      "ref": "322",
+      "label": "Hymn 13: A charm to win superiority over foes and rivals"
+    },
+    {
+      "ref": "323",
+      "label": "Hymn 14: A prayer to Savitar for prosperity"
+    },
+    {
+      "ref": "324",
+      "label": "Hymn 15: A charm to win divine favour and felicity"
+    },
+    {
+      "ref": "325",
+      "label": "Hymn 16: A prayer for prosperity"
+    },
+    {
+      "ref": "326",
+      "label": "Hymn 17: A prayer for wealth and children"
+    },
+    {
+      "ref": "327",
+      "label": "Hymn 18: A prayer for rain"
+    },
+    {
+      "ref": "328",
+      "label": "Hymn 19: A prayer for prosperity"
+    },
+    {
+      "ref": "329",
+      "label": "Hymn 20: A prayer for prosperity and happiness"
+    },
+    {
+      "ref": "330",
+      "label": "Hymn 21: A funeral stanza"
+    },
+    {
+      "ref": "331",
+      "label": "Hymn 22: To Savitar, or Yama invested with Savitar's attributes"
+    },
+    {
+      "ref": "332",
+      "label": "Hymn 23: A charm to banish fiends and troubles"
+    },
+    {
+      "ref": "333",
+      "label": "Hymn 24: A prayer for riches"
+    },
+    {
+      "ref": "334",
+      "label": "Hymn 25: Praise of Vishnu and Varuna"
+    },
+    {
+      "ref": "335",
+      "label": "Hymn 26: Praise of Vishnu"
+    },
+    {
+      "ref": "336",
+      "label": "Hymn 27: A prayer to Ida, Goddess of devotion"
+    },
+    {
+      "ref": "337",
+      "label": "Hymn 28: Praise of the sacrificial utensils"
+    },
+    {
+      "ref": "338",
+      "label": "Hymn 29: To Agni and Vishnu"
+    },
+    {
+      "ref": "339",
+      "label": "Hymn 30: A charm to be used when the eyes are anointed"
+    },
+    {
+      "ref": "340",
+      "label": "Hymn 31: A prayer for the overthrow of enemies"
+    },
+    {
+      "ref": "341",
+      "label": "Hymn 32: A prayer to Agni for long life"
+    },
+    {
+      "ref": "342",
+      "label": "Hymn 33: A prayer for long life, children, and riches"
+    },
+    {
+      "ref": "343",
+      "label": "Hymn 34: A prayer for freedom from sin and the overthrow of enemies"
+    },
+    {
+      "ref": "344",
+      "label": "Hymn 35: A prayer for the prosperity of a King and his kingdom"
+    },
+    {
+      "ref": "345",
+      "label": "Hymn 36: A charm to be pronounced by bride and bridegroom"
+    },
+    {
+      "ref": "346",
+      "label": "Hymn 37: A nuptial charm to be spoken by the bride"
+    },
+    {
+      "ref": "347",
+      "label": "Hymn 38: A maiden's love-charm"
+    },
+    {
+      "ref": "348",
+      "label": "Hymn 39: A sacrificial charm for rain and prosperity"
+    },
+    {
+      "ref": "349",
+      "label": "Hymn 40: A prayer for prosperity"
+    },
+    {
+      "ref": "350",
+      "label": "Hymn 41: A prayer for prosperity"
+    },
+    {
+      "ref": "351",
+      "label": "Hymn 42: A prayer for delivery from sin and sickness"
+    },
+    {
+      "ref": "352",
+      "label": "Hymn 43: A charm against lightning"
+    },
+    {
+      "ref": "353",
+      "label": "Hymn 44: In praise of Indra and Vishnu"
+    },
+    {
+      "ref": "354",
+      "label": "Hymn 45: A charm against jealousy"
+    },
+    {
+      "ref": "355",
+      "label": "Hymn 46: A charm for offspring and prosperity"
+    },
+    {
+      "ref": "356",
+      "label": "Hymn 47: A prayer for wealth and birth of a son"
+    },
+    {
+      "ref": "357",
+      "label": "Hymn 48: A prayer for prosperity and the birth of a son"
+    },
+    {
+      "ref": "358",
+      "label": "Hymn 49: A prayer for children and booty"
+    },
+    {
+      "ref": "359",
+      "label": "Hymn 50: A gambler's prayer for success in gaming"
+    },
+    {
+      "ref": "360",
+      "label": "Hymn 51: A prayer for Brihaspati's and Indra's protection"
+    },
+    {
+      "ref": "361",
+      "label": "Hymn 52: A prayer for peace and concord"
+    },
+    {
+      "ref": "362",
+      "label": "Hymn 53: A charm to recover a sick man at the point of death"
+    },
+    {
+      "ref": "363",
+      "label": "Hymn 54: A charm to obtain knowledge of the Veda"
+    },
+    {
+      "ref": "364",
+      "label": "Hymn 55: A charm to ensure a prosperous journey"
+    },
+    {
+      "ref": "365",
+      "label": "Hymn 56: A charm against poisonous bites and stings"
+    },
+    {
+      "ref": "366",
+      "label": "Hymn 57: A charm for some physical disorder"
+    },
+    {
+      "ref": "367",
+      "label": "Hymn 58: An invitation to Indra and Varuna"
+    },
+    {
+      "ref": "368",
+      "label": "Hymn 59: An imprecation"
+    },
+    {
+      "ref": "369",
+      "label": "Hymn 60: A parting traveller's address to the houses of his village"
+    },
+    {
+      "ref": "370",
+      "label": "Hymn 61: A prayer for sacred knowledge and its fruits"
+    },
+    {
+      "ref": "371",
+      "label": "Hymn 62: A prayer for the overthrow of enemies"
+    },
+    {
+      "ref": "372",
+      "label": "Hymn 63: A prayer for deliverance from affliction"
+    },
+    {
+      "ref": "373",
+      "label": "Hymn 64: A charm to avert an evil omen"
+    },
+    {
+      "ref": "374",
+      "label": "Hymn 65: A charm against imprecation and threatened evils"
+    },
+    {
+      "ref": "375",
+      "label": "Hymn 66: A prayer to Vāk"
+    },
+    {
+      "ref": "376",
+      "label": "Hymn 67: A priest's prayer to the Agnayo Dhishnyāh"
+    },
+    {
+      "ref": "377",
+      "label": "Hymn 68: A prayer for children and prosperity"
+    },
+    {
+      "ref": "378",
+      "label": "Hymn 69: A prayer for prosperity"
+    },
+    {
+      "ref": "379",
+      "label": "Hymn 70: A charm to frustrate an enemy's sacrifice"
+    },
+    {
+      "ref": "380",
+      "label": "Hymn 71: In praise of Agni"
+    },
+    {
+      "ref": "381",
+      "label": "Hymn 72: An invitation to Indra"
+    },
+    {
+      "ref": "382",
+      "label": "Hymn 73: An invitation to the Asvins"
+    },
+    {
+      "ref": "383",
+      "label": "Hymn 74: A charm to cure pustules, sores, or scrofulous swellings (apachitas)"
+    },
+    {
+      "ref": "384",
+      "label": "Hymn 75: A blessing on cows"
+    },
+    {
+      "ref": "385",
+      "label": "Hymn 76: A charm to cure scrofulous pustules and scrofula"
+    },
+    {
+      "ref": "386",
+      "label": "Hymn 77: An incantation against an enemy"
+    },
+    {
+      "ref": "387",
+      "label": "Hymn 78: A charm for a prince's prosperity"
+    },
+    {
+      "ref": "388",
+      "label": "Hymn 79: A hymn to the New Moon"
+    },
+    {
+      "ref": "389",
+      "label": "Hymn 80: A hymn to the Full Moon"
+    },
+    {
+      "ref": "390",
+      "label": "Hymn 81: A hymn to the New Moon"
+    },
+    {
+      "ref": "391",
+      "label": "Hymn 82: In praise of Agni"
+    },
+    {
+      "ref": "392",
+      "label": "Hymn 83: A prayer for deliverance from sin and other evils"
+    },
+    {
+      "ref": "393",
+      "label": "Hymn 84: A prayer for protection"
+    },
+    {
+      "ref": "394",
+      "label": "Hymn 85: A charm to ensure victory in battle"
+    },
+    {
+      "ref": "395",
+      "label": "Hymn 86: The same"
+    },
+    {
+      "ref": "396",
+      "label": "Hymn 87: A prayer to Rudra as Agni"
+    },
+    {
+      "ref": "397",
+      "label": "Hymn 88: A charm to cure a snake-bite"
+    },
+    {
+      "ref": "398",
+      "label": "Hymn 89: A prayer for purification and prosperity"
+    },
+    {
+      "ref": "399",
+      "label": "Hymn 90: A charm against a rival in love"
+    },
+    {
+      "ref": "400",
+      "label": "Hymn 91: A Prayer for protection"
+    },
+    {
+      "ref": "401",
+      "label": "Hymn 92: A Prayer for protection"
+    },
+    {
+      "ref": "402",
+      "label": "Hymn 93: A prayer for success in battle"
+    },
+    {
+      "ref": "403",
+      "label": "Hymn 94: A charm to ensure the obedience of subjects"
+    },
+    {
+      "ref": "404",
+      "label": "Hymn 95: An incantation against an undetected thief"
+    },
+    {
+      "ref": "405",
+      "label": "Hymn 96: An incantation against an undetected thief"
+    },
+    {
+      "ref": "406",
+      "label": "Hymn 97: Sacrificial formulas"
+    },
+    {
+      "ref": "407",
+      "label": "Hymn 98: Anointing the sacred grass"
+    },
+    {
+      "ref": "408",
+      "label": "Hymn 99: The preparation of the altar"
+    },
+    {
+      "ref": "409",
+      "label": "Hymn 100: A charm against nightmare"
+    },
+    {
+      "ref": "410",
+      "label": "Hymn 101: The same"
+    },
+    {
+      "ref": "411",
+      "label": "Hymn 102: A charm to obtain pardon for an indecent act"
+    },
+    {
+      "ref": "412",
+      "label": "Hymn 103: The cry of an unemployed priest"
+    },
+    {
+      "ref": "413",
+      "label": "Hymn 104: A prayer for prosperity"
+    },
+    {
+      "ref": "414",
+      "label": "Hymn 105: An initiation formula"
+    },
+    {
+      "ref": "415",
+      "label": "Hymn 106: A prayer for pardon of sin"
+    },
+    {
+      "ref": "416",
+      "label": "Hymn 107: A charm against Cough"
+    },
+    {
+      "ref": "417",
+      "label": "Hymn 108: A prayer for protection"
+    },
+    {
+      "ref": "418",
+      "label": "Hymn 109: A prayer for success in gambling"
+    },
+    {
+      "ref": "419",
+      "label": "Hymn 110: A prayer for success in battle"
+    },
+    {
+      "ref": "420",
+      "label": "Hymn 111: A prayer for offspring"
+    },
+    {
+      "ref": "421",
+      "label": "Hymn 112: A prayer for protection and freedom from sin"
+    },
+    {
+      "ref": "422",
+      "label": "Hymn 113: A woman's incantation against a rival"
+    },
+    {
+      "ref": "423",
+      "label": "Hymn 114: A woman's incantation against a rival"
+    },
+    {
+      "ref": "424",
+      "label": "Hymn 115: A charm against Misfortune"
+    },
+    {
+      "ref": "425",
+      "label": "Hymn 116: A charm against Fever"
+    },
+    {
+      "ref": "426",
+      "label": "Hymn 117: A charm to ensure prosperity"
+    },
+    {
+      "ref": "427",
+      "label": "Hymn 118: A benediction on a warrior"
+    },
+    {
+      "ref": "428",
+      "label": "Hymn 1: A charm to recover a dying man"
+    },
+    {
+      "ref": "429",
+      "label": "Hymn 2: The same"
+    },
+    {
+      "ref": "430",
+      "label": "Hymn 3: A prayer for the destruction of demons"
+    },
+    {
+      "ref": "431",
+      "label": "Hymn 4: Imprecations on demons"
+    },
+    {
+      "ref": "432",
+      "label": "Hymn 5: A charm accompanying investiture with an amulet"
+    },
+    {
+      "ref": "433",
+      "label": "Hymn 6: A charm to exercise evil spirits who beset women"
+    },
+    {
+      "ref": "434",
+      "label": "Hymn 7: A charm to restore a sick man to health"
+    },
+    {
+      "ref": "435",
+      "label": "Hymn 8: Imprecations directed against a hostile army"
+    },
+    {
+      "ref": "436",
+      "label": "Hymn 9: An enunciation of cosmogonical, ritual, and metrical doctrine"
+    },
+    {
+      "ref": "437",
+      "label": "Hymn 10: A glorification of the mystical abstraction Virāj"
+    },
+    {
+      "ref": "438",
+      "label": "Hymn 1: A glorification of the Asvins' whip and a prayer for blessings"
+    },
+    {
+      "ref": "439",
+      "label": "Hymn 2: A glorification of Kāma as God of desire of all that is good"
+    },
+    {
+      "ref": "440",
+      "label": "Hymn 3: On the consecration of a newly built house"
+    },
+    {
+      "ref": "441",
+      "label": "Hymn 4: A glorification of the typical sacrificial bull"
+    },
+    {
+      "ref": "442",
+      "label": "Hymn 5: A glorification of a sacrificial goat"
+    },
+    {
+      "ref": "443",
+      "label": "Hymn 6: A glorification of hospitable reception of guests"
+    },
+    {
+      "ref": "444",
+      "label": "Hymn 7: A glorification of the typically bull and cow"
+    },
+    {
+      "ref": "445",
+      "label": "Hymn 8: A charm for the cure of various diseases connected with Consumption"
+    },
+    {
+      "ref": "446",
+      "label": "Hymn 9: Enunciation of mystico-theological and cosmological doctrine"
+    },
+    {
+      "ref": "447",
+      "label": "Hymn 10: Continuation of Hymn 9"
+    },
+    {
+      "ref": "448",
+      "label": "Hymn 1: A charm against witchcraft"
+    },
+    {
+      "ref": "449",
+      "label": "Hymn 2: Purusha, Primeval Man or humanity personified"
+    },
+    {
+      "ref": "450",
+      "label": "Hymn 3: A charm to secure long life, health, prosperity and fame"
+    },
+    {
+      "ref": "451",
+      "label": "Hymn 4: A charm to destroy venomous serpents"
+    },
+    {
+      "ref": "452",
+      "label": "Hymn 4: A charm to overthrow a rival and gain strength, dignity, long life, children, and general prosperity"
+    },
+    {
+      "ref": "453",
+      "label": "Hymn 6: The glorification of an all-powerful amulet"
+    },
+    {
+      "ref": "454",
+      "label": "Hymn 7: Skambha, the Pillar or Fulcrum of all existence"
+    },
+    {
+      "ref": "455",
+      "label": "Hymn 8: Speculations on the Supreme Being and Cosmogonical and theological subjects"
+    },
+    {
+      "ref": "456",
+      "label": "Hymn 9: The Sataudanā or Hundredfold Oblation"
+    },
+    {
+      "ref": "457",
+      "label": "Hymn 10: A glorification of the sacred Cow as representing the radiant heavens"
+    },
+    {
+      "ref": "458",
+      "label": "Hymn 1: An accompaniment to the preparation and presentation of a Brahmaudana"
+    },
+    {
+      "ref": "459",
+      "label": "Hymn 2: Prayer and praise to Bhava, Sarva and Rudra"
+    },
+    {
+      "ref": "460",
+      "label": "Hymn 3: A glorification of the Odana or oblation of boiled rice"
+    },
+    {
+      "ref": "461",
+      "label": "Hymn 4: A glorification of Prāna, Breath or Vital Spirit"
+    },
+    {
+      "ref": "462",
+      "label": "Hymn 5: A glorification of the Brahmachgri or religious student"
+    },
+    {
+      "ref": "463",
+      "label": "Hymn 6: A prayer to all Divinities and Sanctities for deliverance from distress"
+    },
+    {
+      "ref": "464",
+      "label": "Hymn 7: A glorification of the Uchchhishta or Residue of Sacrifice"
+    },
+    {
+      "ref": "465",
+      "label": "Hymn 8: On the origin of some Gods and the creation of man"
+    },
+    {
+      "ref": "466",
+      "label": "Hymn 9: An incantation for the destruction of a hostile army"
+    },
+    {
+      "ref": "467",
+      "label": "Hymn 10: An incantation for the destruction of a hostile army"
+    },
+    {
+      "ref": "468",
+      "label": "Hymn 1: A hymn of prayer and praise to Prithivī or deified Earth"
+    },
+    {
+      "ref": "469",
+      "label": "Hymn 2: A funeral hymn, and deprecation of Agni the Consumer of corpses"
+    },
+    {
+      "ref": "470",
+      "label": "Hymn 3: An accompaniment to the preparation and presentation of sacrificial offerings by a householder and his wife, with prayer for prosperity and happiness on earth and in heaven"
+    },
+    {
+      "ref": "471",
+      "label": "Hymn 4: On the duty of giving cows to Brāhmans, and the sin and danger of withholding the gift"
+    },
+    {
+      "ref": "472",
+      "label": "Hymn 5: On the duty of giving cows to Brāhmans, and the sin and danger of withholding the gift"
+    },
+    {
+      "ref": "473",
+      "label": "Hymn 1: The glorification of Rohita, a form of Fire and of the Sun"
+    },
+    {
+      "ref": "474",
+      "label": "Hymn 2: The glorification of the Sun as Āditya, Sūrya and Rohita"
+    },
+    {
+      "ref": "475",
+      "label": "Hymn 3: A glorification of Rohita. with a malediction on the man who wrongs a Brāhman"
+    },
+    {
+      "ref": "476",
+      "label": "Hymn 4: A glorification of the Sun as the only Deity"
+    },
+    {
+      "ref": "477",
+      "label": "Hymn 1: On the Bridal of Sūryā, marriage ceremonies in general"
+    },
+    {
+      "ref": "478",
+      "label": "Hymn 2: On the Bridal of Sūryā, marriage ceremonies in general, continued"
+    },
+    {
+      "ref": "479",
+      "label": "Hymn 1: The hyperbolical glorification of the Vrātya or Aryan Non-conformist"
+    },
+    {
+      "ref": "480",
+      "label": "Hymn 2: The same, continued"
+    },
+    {
+      "ref": "481",
+      "label": "Hymn 3"
+    },
+    {
+      "ref": "482",
+      "label": "Hymn 4"
+    },
+    {
+      "ref": "483",
+      "label": "Hymn 5"
+    },
+    {
+      "ref": "484",
+      "label": "Hymn 6"
+    },
+    {
+      "ref": "485",
+      "label": "Hymn 7"
+    },
+    {
+      "ref": "486",
+      "label": "Hymn 8"
+    },
+    {
+      "ref": "487",
+      "label": "Hymn 9"
+    },
+    {
+      "ref": "488",
+      "label": "Hymn 10"
+    },
+    {
+      "ref": "489",
+      "label": "Hymn 11"
+    },
+    {
+      "ref": "490",
+      "label": "Hymn 12"
+    },
+    {
+      "ref": "491",
+      "label": "Hymn 13"
+    },
+    {
+      "ref": "492",
+      "label": "Hymn 14"
+    },
+    {
+      "ref": "493",
+      "label": "Hymn 15"
+    },
+    {
+      "ref": "494",
+      "label": "Hymn 16"
+    },
+    {
+      "ref": "495",
+      "label": "Hymn 17"
+    },
+    {
+      "ref": "496",
+      "label": "Hymn 18"
+    },
+    {
+      "ref": "497",
+      "label": "Hymn 1: On the preparation and use of holy water, with, a prayer for purification and freedom from sin"
+    },
+    {
+      "ref": "498",
+      "label": "Hymn 2: A charm to secure various blessings"
+    },
+    {
+      "ref": "499",
+      "label": "Hymn 3: A charm to secure power and long life"
+    },
+    {
+      "ref": "500",
+      "label": "Hymn 4: A charm to secure long life and success"
+    },
+    {
+      "ref": "501",
+      "label": "Hymn 5: A charm against evil dreams"
+    },
+    {
+      "ref": "502",
+      "label": "Hymn 6: A charm to avert evil dreams, and to transfer them to an enemy"
+    },
+    {
+      "ref": "503",
+      "label": "Hymn 7: An imprecation on an enemy"
+    },
+    {
+      "ref": "504",
+      "label": "Hymn 8: An imprecation on an enemy"
+    },
+    {
+      "ref": "505",
+      "label": "Hymn 9: A charm to secure wealth and felicity"
+    },
+    {
+      "ref": "506",
+      "label": "Hymn 1: A prayer to Indra, Identified with Vishnu and the Sun, for the love of Gods, men, and beasts, general protection and prosperity, and all earthly and heavenly blessings"
+    },
+    {
+      "ref": "507",
+      "label": "Hymn 1: An accompaniment to funeral ceremonies and sacrificial offerings to ancestral spirits"
+    },
+    {
+      "ref": "508",
+      "label": "Hymn 2: A funeral hymn, taken mainly from the Rigveda"
+    },
+    {
+      "ref": "509",
+      "label": "Hymn 3: A funeral hymn, taken partly from the Rigveda"
+    },
+    {
+      "ref": "510",
+      "label": "Hymn 4: A funeral hymn, composed partly of verses from the Rigveda"
+    },
+    {
+      "ref": "511",
+      "label": "Hymn 1: An accompaniment to the offering of a Mixt Oblation"
+    },
+    {
+      "ref": "512",
+      "label": "Hymn 2: A hymn to all waters"
+    },
+    {
+      "ref": "513",
+      "label": "Hymn 3: A hymn to Agni for protection and prosperity"
+    },
+    {
+      "ref": "514",
+      "label": "Hymn 4: A prayer, accompanying sacrifice, for the attainment of a wish"
+    },
+    {
+      "ref": "515",
+      "label": "Hymn 5: A prayer for riches"
+    },
+    {
+      "ref": "516",
+      "label": "Hymn 6: The purusha-Sūkta, on the mystical Sacrifice of Purusha"
+    },
+    {
+      "ref": "517",
+      "label": "Hymn 7: A Prayer to the Lunar Mansions and other Powers for protection and prosperity"
+    },
+    {
+      "ref": "518",
+      "label": "Hymn 8: A hymn to the Sun and various heavenly bodies for protection and prosperity"
+    },
+    {
+      "ref": "519",
+      "label": "Hymn 9: A prayer for general protection and prosperity"
+    },
+    {
+      "ref": "520",
+      "label": "Hymn 10: A prayer for the same"
+    },
+    {
+      "ref": "521",
+      "label": "Hymn 11: A continuation of Hymn 10"
+    },
+    {
+      "ref": "522",
+      "label": "Hymn 12: A prayer to Ushas or Dawn for wealth and long life"
+    },
+    {
+      "ref": "523",
+      "label": "Hymn 13: A prayer for aid and victory in battle"
+    },
+    {
+      "ref": "524",
+      "label": "Hymn 14: A hymn after victory"
+    },
+    {
+      "ref": "525",
+      "label": "Hymn 15: A prayer for peace and security"
+    },
+    {
+      "ref": "526",
+      "label": "Hymn 16: A prayer for security from danger"
+    },
+    {
+      "ref": "527",
+      "label": "Hymn 17: A prayer for protection from dangers in all directions"
+    },
+    {
+      "ref": "528",
+      "label": "Hymn 18: A prayer for security and peace on all sides"
+    },
+    {
+      "ref": "529",
+      "label": "Hymn 19: A hymn recommending the protection of various Gods"
+    },
+    {
+      "ref": "530",
+      "label": "Hymn 20: A prayer for protection from death and misfortune"
+    },
+    {
+      "ref": "531",
+      "label": "Hymn 21: A single line giving the names of the chief Vedic metres"
+    },
+    {
+      "ref": "532",
+      "label": "Hymn 22: A prose hymn of homage to various portions of the Atharva-veda, to the Rishis, and to Brahma"
+    },
+    {
+      "ref": "533",
+      "label": "Hymn 23: A prose hymn of homage to various portions of the Atharva-vada classed according to the number of verses which their hymns contain"
+    },
+    {
+      "ref": "534",
+      "label": "Hymn 24: A benediction on a newly elected King"
+    },
+    {
+      "ref": "535",
+      "label": "Hymn 25: A charm to be used when a young ox is first yoked"
+    },
+    {
+      "ref": "536",
+      "label": "Hymn 26: A hymn accompanying investiture with an amulet of gold"
+    },
+    {
+      "ref": "537",
+      "label": "Hymn 27: A benedictory hymn"
+    },
+    {
+      "ref": "538",
+      "label": "Hymn 28: A charm for the destruction of enemies"
+    },
+    {
+      "ref": "539",
+      "label": "Hymn 29: A charm for the destruction of enemies, continued from 28"
+    },
+    {
+      "ref": "540",
+      "label": "Hymn 30: A protective charm accompanying investiture with an amulet of Darbha grass"
+    },
+    {
+      "ref": "541",
+      "label": "Hymn 31: A charm to ensure general prosperity, accompanying self-investiture with an amulet of Udumbara"
+    },
+    {
+      "ref": "542",
+      "label": "Hymn 32: A charm, with an amulet of Darbha grass, to subdue enemies and win the affection of others"
+    },
+    {
+      "ref": "543",
+      "label": "Hymn 33: A protective and benedictive charm"
+    },
+    {
+      "ref": "544",
+      "label": "Hymn 34: A protective charm addressed to the panacea called A Jangida"
+    },
+    {
+      "ref": "545",
+      "label": "Hymn 35: A similar charm addressed to the same"
+    },
+    {
+      "ref": "546",
+      "label": "Hymn 36: A charm against disease and evil spirits"
+    },
+    {
+      "ref": "547",
+      "label": "Hymn 37: A charm to secure long life and dominion to a prince"
+    },
+    {
+      "ref": "548",
+      "label": "Hymn 38: A protective charm"
+    },
+    {
+      "ref": "549",
+      "label": "Hymn 39: A protective charm"
+    },
+    {
+      "ref": "550",
+      "label": "Hymn 40: A prayer for pardon of error in sacrifice, and for wisdom, strength, and life"
+    },
+    {
+      "ref": "551",
+      "label": "Hymn 41: A benediction on a newly elected king"
+    },
+    {
+      "ref": "552",
+      "label": "Hymn 42: In praise of Brahma, Prayer, or Devotion"
+    },
+    {
+      "ref": "553",
+      "label": "Hymn 43: In praise of Brahma, Prayer, or Devotion"
+    },
+    {
+      "ref": "554",
+      "label": "Hymn 44: A curative and protective charm"
+    },
+    {
+      "ref": "555",
+      "label": "Hymn 45: A curative and protective charm"
+    },
+    {
+      "ref": "556",
+      "label": "Hymn 46: A charm accompanying investiture with an amulet that ensures safety and victory"
+    },
+    {
+      "ref": "557",
+      "label": "Hymn 47: A hymn to Night for protection from fiends, robbers, snakes and wolves"
+    },
+    {
+      "ref": "558",
+      "label": "Hymn 48: A hymn to Night for protection"
+    },
+    {
+      "ref": "559",
+      "label": "Hymn 49: A hymn of Praise and prayer to Night"
+    },
+    {
+      "ref": "560",
+      "label": "Hymn 50: A hymn to Night for protection and prosperity"
+    },
+    {
+      "ref": "561",
+      "label": "Hymn 51: A sacrificial formula"
+    },
+    {
+      "ref": "562",
+      "label": "Hymn 52: A hymn to Kāma or Desire"
+    },
+    {
+      "ref": "563",
+      "label": "Hymn 53: A hymn to Kāma or Time"
+    },
+    {
+      "ref": "564",
+      "label": "Hymn 54: A hymn to Kāla; a continuation of the preceding hymn"
+    },
+    {
+      "ref": "565",
+      "label": "Hymn 55: A hymn to Agni for protection and prosperity"
+    },
+    {
+      "ref": "566",
+      "label": "Hymn 56: A hymn to Sleep"
+    },
+    {
+      "ref": "567",
+      "label": "Hymn 57: A charm against evil dreams"
+    },
+    {
+      "ref": "568",
+      "label": "Hymn 58: A prayer for prosperity, accompanying a sacrifice"
+    },
+    {
+      "ref": "569",
+      "label": "Hymn 59: An expiatory hymn accompanying sacrifice"
+    },
+    {
+      "ref": "570",
+      "label": "Hymn 60: A prayer for perfect bodily and mental health and vigour"
+    },
+    {
+      "ref": "571",
+      "label": "Hymn 61: A prayer for long life prosperity and final happiness in heaven"
+    },
+    {
+      "ref": "572",
+      "label": "Hymn 62: A prayer for the love of Gods and men"
+    },
+    {
+      "ref": "573",
+      "label": "Hymn 63: A prayer, with sacrifice, for long life and prosperity"
+    },
+    {
+      "ref": "574",
+      "label": "Hymn 64: A prayer to Agni for children, long life, and various blessings"
+    },
+    {
+      "ref": "575",
+      "label": "Hymn 65: A hymn to Agni identified with the Sun"
+    },
+    {
+      "ref": "576",
+      "label": "Hymn 66: A hymn to Agni as the Sun"
+    },
+    {
+      "ref": "577",
+      "label": "Hymn 67: A prayer for long life"
+    },
+    {
+      "ref": "578",
+      "label": "Hymn 68: A preliminary sacrificial formula"
+    },
+    {
+      "ref": "579",
+      "label": "Hymn 69: A prayer or charm for long life"
+    },
+    {
+      "ref": "580",
+      "label": "Hymn 70: A charm for long life"
+    },
+    {
+      "ref": "581",
+      "label": "Hymn 71: A hymn, accompanying libations, for wealth and prosperity"
+    },
+    {
+      "ref": "582",
+      "label": "Hymn 72: A sacrificial formula"
+    },
+    {
+      "ref": "583",
+      "label": "Hymn 1"
+    },
+    {
+      "ref": "584",
+      "label": "Hymn 2"
+    },
+    {
+      "ref": "585",
+      "label": "Hymn 3 (2)"
+    },
+    {
+      "ref": "586",
+      "label": "Hymn 4 (2)"
+    },
+    {
+      "ref": "587",
+      "label": "Hymn 5 (2)"
+    },
+    {
+      "ref": "588",
+      "label": "Hymn 6 (2)"
+    },
+    {
+      "ref": "589",
+      "label": "Hymn 7 (2)"
+    },
+    {
+      "ref": "590",
+      "label": "Hymn 8 (2)"
+    },
+    {
+      "ref": "591",
+      "label": "Hymn 9 (2)"
+    },
+    {
+      "ref": "592",
+      "label": "Hymn 10 (2)"
+    },
+    {
+      "ref": "593",
+      "label": "Hymn 11 (2)"
+    },
+    {
+      "ref": "594",
+      "label": "Hymn 12 (2)"
+    },
+    {
+      "ref": "595",
+      "label": "Hymn 13 (2)"
+    },
+    {
+      "ref": "596",
+      "label": "Hymn 14 (2)"
+    },
+    {
+      "ref": "597",
+      "label": "Hymn 15 (2)"
+    },
+    {
+      "ref": "598",
+      "label": "Hymn 16 (2)"
+    },
+    {
+      "ref": "599",
+      "label": "Hymn 17 (2)"
+    },
+    {
+      "ref": "600",
+      "label": "Hymn 18 (2)"
+    },
+    {
+      "ref": "601",
+      "label": "Hymn 19"
+    },
+    {
+      "ref": "602",
+      "label": "Hymn 20"
+    },
+    {
+      "ref": "603",
+      "label": "Hymn 21"
+    },
+    {
+      "ref": "604",
+      "label": "Hymn 22"
+    },
+    {
+      "ref": "605",
+      "label": "Hymn 23"
+    },
+    {
+      "ref": "606",
+      "label": "Hymn 24"
+    },
+    {
+      "ref": "607",
+      "label": "Hymn 25"
+    },
+    {
+      "ref": "608",
+      "label": "Hymn 26"
+    },
+    {
+      "ref": "609",
+      "label": "Hymn 27"
+    },
+    {
+      "ref": "610",
+      "label": "Hymn 28"
+    },
+    {
+      "ref": "611",
+      "label": "Hymn 29"
+    },
+    {
+      "ref": "612",
+      "label": "Hymn 30"
+    },
+    {
+      "ref": "613",
+      "label": "Hymn 31"
+    },
+    {
+      "ref": "614",
+      "label": "Hymn 32"
+    },
+    {
+      "ref": "615",
+      "label": "Hymn 33 (2)"
+    },
+    {
+      "ref": "616",
+      "label": "Hymn 34"
+    },
+    {
+      "ref": "617",
+      "label": "Hymn 35"
+    },
+    {
+      "ref": "618",
+      "label": "Hymn 36"
+    },
+    {
+      "ref": "619",
+      "label": "Hymn 37"
+    },
+    {
+      "ref": "620",
+      "label": "Hymn 38"
+    },
+    {
+      "ref": "621",
+      "label": "Hymn 39"
+    },
+    {
+      "ref": "622",
+      "label": "Hymn 40"
+    },
+    {
+      "ref": "623",
+      "label": "Hymn 41"
+    },
+    {
+      "ref": "624",
+      "label": "Hymn 42"
+    },
+    {
+      "ref": "625",
+      "label": "Hymn 43"
+    },
+    {
+      "ref": "626",
+      "label": "Hymn 44"
+    },
+    {
+      "ref": "627",
+      "label": "Hymn 45"
+    },
+    {
+      "ref": "628",
+      "label": "Hymn 46"
+    },
+    {
+      "ref": "629",
+      "label": "Hymn 47"
+    },
+    {
+      "ref": "630",
+      "label": "Hymn 48"
+    },
+    {
+      "ref": "631",
+      "label": "Hymn 49"
+    },
+    {
+      "ref": "632",
+      "label": "Hymn 50"
+    },
+    {
+      "ref": "633",
+      "label": "Hymn 51"
+    },
+    {
+      "ref": "634",
+      "label": "Hymn 52"
+    },
+    {
+      "ref": "635",
+      "label": "Hymn 53"
+    },
+    {
+      "ref": "636",
+      "label": "Hymn 54"
+    },
+    {
+      "ref": "637",
+      "label": "Hymn 55"
+    },
+    {
+      "ref": "638",
+      "label": "Hymn 56"
+    },
+    {
+      "ref": "639",
+      "label": "Hymn 57"
+    },
+    {
+      "ref": "640",
+      "label": "Hymn 58"
+    },
+    {
+      "ref": "641",
+      "label": "Hymn 59"
+    },
+    {
+      "ref": "642",
+      "label": "Hymn 60"
+    },
+    {
+      "ref": "643",
+      "label": "Hymn 61"
+    },
+    {
+      "ref": "644",
+      "label": "Hymn 62"
+    },
+    {
+      "ref": "645",
+      "label": "Hymn 63"
+    },
+    {
+      "ref": "646",
+      "label": "Hymn 64"
+    },
+    {
+      "ref": "647",
+      "label": "Hymn 65"
+    },
+    {
+      "ref": "648",
+      "label": "Hymn 66"
+    },
+    {
+      "ref": "649",
+      "label": "Hymn 67"
+    },
+    {
+      "ref": "650",
+      "label": "Hymn 68"
+    },
+    {
+      "ref": "651",
+      "label": "Hymn 69"
+    },
+    {
+      "ref": "652",
+      "label": "Hymn 70"
+    },
+    {
+      "ref": "653",
+      "label": "Hymn 71"
+    },
+    {
+      "ref": "654",
+      "label": "Hymn 72"
+    },
+    {
+      "ref": "655",
+      "label": "Hymn 73"
+    },
+    {
+      "ref": "656",
+      "label": "Hymn 74"
+    },
+    {
+      "ref": "657",
+      "label": "Hymn 75"
+    },
+    {
+      "ref": "658",
+      "label": "Hymn 76"
+    },
+    {
+      "ref": "659",
+      "label": "Hymn 77"
+    },
+    {
+      "ref": "660",
+      "label": "Hymn 78"
+    },
+    {
+      "ref": "661",
+      "label": "Hymn 79"
+    },
+    {
+      "ref": "662",
+      "label": "Hymn 80"
+    },
+    {
+      "ref": "663",
+      "label": "Hymn 81"
+    },
+    {
+      "ref": "664",
+      "label": "Hymn 82"
+    },
+    {
+      "ref": "665",
+      "label": "Hymn 83"
+    },
+    {
+      "ref": "666",
+      "label": "Hymn 84"
+    },
+    {
+      "ref": "667",
+      "label": "Hymn 85"
+    },
+    {
+      "ref": "668",
+      "label": "Hymn 86"
+    },
+    {
+      "ref": "669",
+      "label": "Hymn 87"
+    },
+    {
+      "ref": "670",
+      "label": "Hymn 88"
+    },
+    {
+      "ref": "671",
+      "label": "Hymn 89"
+    },
+    {
+      "ref": "672",
+      "label": "Hymn 90"
+    },
+    {
+      "ref": "673",
+      "label": "Hymn 91"
+    },
+    {
+      "ref": "674",
+      "label": "Hymn 92"
+    },
+    {
+      "ref": "675",
+      "label": "Hymn 93"
+    },
+    {
+      "ref": "676",
+      "label": "Hymn 94"
+    },
+    {
+      "ref": "677",
+      "label": "Hymn 95"
+    },
+    {
+      "ref": "678",
+      "label": "Hymn 96"
+    },
+    {
+      "ref": "679",
+      "label": "Hymn 97"
+    },
+    {
+      "ref": "680",
+      "label": "Hymn 98"
+    },
+    {
+      "ref": "681",
+      "label": "Hymn 99"
+    },
+    {
+      "ref": "682",
+      "label": "Hymn 100"
+    },
+    {
+      "ref": "683",
+      "label": "Hymn 101"
+    },
+    {
+      "ref": "684",
+      "label": "Hymn 102"
+    },
+    {
+      "ref": "685",
+      "label": "Hymn 103"
+    },
+    {
+      "ref": "686",
+      "label": "Hymn 104"
+    },
+    {
+      "ref": "687",
+      "label": "Hymn 105"
+    },
+    {
+      "ref": "688",
+      "label": "Hymn 106"
+    },
+    {
+      "ref": "689",
+      "label": "Hymn 107"
+    },
+    {
+      "ref": "690",
+      "label": "Hymn 108"
+    },
+    {
+      "ref": "691",
+      "label": "Hymn 109"
+    },
+    {
+      "ref": "692",
+      "label": "Hymn 110"
+    },
+    {
+      "ref": "693",
+      "label": "Hymn 111"
+    },
+    {
+      "ref": "694",
+      "label": "Hymn 112"
+    },
+    {
+      "ref": "695",
+      "label": "Hymn 113"
+    },
+    {
+      "ref": "696",
+      "label": "Hymn 114"
+    },
+    {
+      "ref": "697",
+      "label": "Hymn 115"
+    },
+    {
+      "ref": "698",
+      "label": "Hymn 116"
+    },
+    {
+      "ref": "699",
+      "label": "Hymn 117"
+    },
+    {
+      "ref": "700",
+      "label": "Hymn 118"
+    },
+    {
+      "ref": "701",
+      "label": "Hymn 119"
+    },
+    {
+      "ref": "702",
+      "label": "Hymn 120"
+    },
+    {
+      "ref": "703",
+      "label": "Hymn 121"
+    },
+    {
+      "ref": "704",
+      "label": "Hymn 122"
+    },
+    {
+      "ref": "705",
+      "label": "Hymn 123"
+    },
+    {
+      "ref": "706",
+      "label": "Hymn 124"
+    },
+    {
+      "ref": "707",
+      "label": "Hymn 125"
+    },
+    {
+      "ref": "708",
+      "label": "Hymn 126"
+    },
+    {
+      "ref": "709",
+      "label": "Hymn 127: A hymn in praise of the good Government of King Kaurama"
+    },
+    {
+      "ref": "710",
+      "label": "Hymn 128: Sacrificial formulas"
+    },
+    {
+      "ref": "711",
+      "label": "Hymn 129"
+    },
+    {
+      "ref": "712",
+      "label": "Hymn 130"
+    },
+    {
+      "ref": "713",
+      "label": "Hymn 131"
+    },
+    {
+      "ref": "714",
+      "label": "Hymn 132"
+    },
+    {
+      "ref": "715",
+      "label": "Hymn 133: The Enigmatical Verses"
+    },
+    {
+      "ref": "716",
+      "label": "Hymn 134: The Ajijnasenya Verses"
+    },
+    {
+      "ref": "717",
+      "label": "Hymn 135: Verses called Frustration, Abuse, the Gods' Offering, and Dazzling Power"
+    },
+    {
+      "ref": "718",
+      "label": "Hymn 136: Erotica"
+    },
+    {
+      "ref": "719",
+      "label": "Hymn 137: A composite hymn in praise of Indra"
+    },
+    {
+      "ref": "720",
+      "label": "Hymn 138: In praise of Indra"
+    },
+    {
+      "ref": "721",
+      "label": "Hymn 139: A hymn to the Asvins"
+    },
+    {
+      "ref": "722",
+      "label": "Hymn 140: Continuation of the preceding hymn to the Asvins"
+    },
+    {
+      "ref": "723",
+      "label": "Hymn 141: Hymn to the Asvins"
+    },
+    {
+      "ref": "724",
+      "label": "Hymn 142: Hymn to Dawn and the Asvins"
+    },
+    {
+      "ref": "725",
+      "label": "Hymn 143: Hymn to the Asvins"
+    }
+  ],
+  "passages": [
+    {
+      "reference": "1.1",
+      "label": "Hymn 1: A prayer to Vāchaspati for divine illumination and help. §1",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "2.1",
+      "label": "Hymn 2: A charm against dysentery §1",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "3.1",
+      "label": "Hymn 3: A charm against constipation and suppression of urine §1",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "4.1",
+      "label": "Hymn 4: To the waters, for the prosperity of cattle §1",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "5.1",
+      "label": "Hymn 5: To the waters, for strength and power §1",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "6.1",
+      "label": "Hymn 6: To the waters, for health and wealth §1",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "7.1",
+      "label": "Hymn 7: To Indra and Agni, for the detection and destruction of evil spirits §1",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "8.1",
+      "label": "Hymn 8: To Indra, Brihaspati, Soma and Agni, for the destruction of sorcerers §1",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "9.1",
+      "label": "Hymn 9: Benediction on a King at his inauguration §1",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "10.1",
+      "label": "Hymn 10: Absolution of a sinner after intercession with Varuna §1",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "11.1",
+      "label": "Hymn 11: A charm to be used at child-birth §1",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "12.1",
+      "label": "Hymn 12: A prayer to Lightning, against fever, headache, and cough §1",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "13.1",
+      "label": "Hymn 13: A prayer to Lightning, for happiness §1",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "14.1",
+      "label": "Hymn 14: A woman's incantation against a rival §1",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "15.1",
+      "label": "Hymn 15: A prayer for the prosperity of an institutor of sacrifice §1",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "16.1",
+      "label": "Hymn 16: A prayer and charm against demons §1",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "17.1",
+      "label": "Hymn 17: A charm to be used at venesection §1",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "18.1",
+      "label": "Hymn 18: A charm to avert evil spirits of misfortune and to secure prosperity §1",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "19.1",
+      "label": "Hymn 19: A prayer for protection from arrows and for the punishment of enemies §1",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "20.1",
+      "label": "Hymn 20: A prayer to Soma, the Maruts, Mitra, and Varuna, for protection §1",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "21.1",
+      "label": "Hymn 21: A prayer to Indra for protection §1",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "22.1",
+      "label": "Hymn 22: A charm against jaundice §1",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "23.1",
+      "label": "Hymn 23: A charm against leprosy §1",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "24.1",
+      "label": "Hymn 24: A charm against leprosy §1",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "25.1",
+      "label": "Hymn 25: A prayer to fever, as a charm against his attacks §1",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "26.1",
+      "label": "Hymn 26: A charm to obtain invisibility §1",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "27.1",
+      "label": "Hymn 27: A prayer for protection, guidance, and prosperity §1",
+      "chapterRef": "27"
+    },
+    {
+      "reference": "28.1",
+      "label": "Hymn 28: A prayer to Agni for the destruction of evil spirits §1",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "29.1",
+      "label": "Hymn 29: A charm to secure the supremacy of a dethroned King §1",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "30.1",
+      "label": "Hymn 30: A benediction on a King at his consecration §1",
+      "chapterRef": "30"
+    },
+    {
+      "reference": "31.1",
+      "label": "Hymn 31: A prayer for protection and general prosperity §1",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "32.1",
+      "label": "Hymn 32: In praise of Heaven and Earth §1",
+      "chapterRef": "32"
+    },
+    {
+      "reference": "33.1",
+      "label": "Hymn 33: To the Waters, for health and happiness §1",
+      "chapterRef": "33"
+    },
+    {
+      "reference": "34.1",
+      "label": "Hymn 34: A young man's love-charm §1",
+      "chapterRef": "34"
+    },
+    {
+      "reference": "35.1",
+      "label": "Hymn 35: A charm to ensure long life and glory to the wearer of an amulet §1",
+      "chapterRef": "35"
+    },
+    {
+      "reference": "36.1",
+      "label": "Hymn 1: Glorification of the prime cause of all things §1",
+      "chapterRef": "36"
+    },
+    {
+      "reference": "37.1",
+      "label": "Hymn 2: A charm to ensure success in gambling §1",
+      "chapterRef": "37"
+    },
+    {
+      "reference": "38.1",
+      "label": "Hymn 3: A water-cure charm §1",
+      "chapterRef": "38"
+    },
+    {
+      "reference": "39.1",
+      "label": "Hymn 4: A charm to ensure health and prosperity by wearing an amulet §1",
+      "chapterRef": "39"
+    },
+    {
+      "reference": "40.1",
+      "label": "Hymn 5: Invitation to, and praise of Indra §1",
+      "chapterRef": "40"
+    },
+    {
+      "reference": "41.1",
+      "label": "Hymn 6: A prayer to Agni for protection §1",
+      "chapterRef": "41"
+    },
+    {
+      "reference": "42.1",
+      "label": "Hymn 7: A counter-charm against imprecation and malignity §1",
+      "chapterRef": "42"
+    },
+    {
+      "reference": "43.1",
+      "label": "Hymn 8: A charm against hereditary disease (kshetriya) §1",
+      "chapterRef": "43"
+    },
+    {
+      "reference": "44.1",
+      "label": "Hymn 9: A charm to cure dangerous disease §1",
+      "chapterRef": "44"
+    },
+    {
+      "reference": "45.1",
+      "label": "Hymn 10: Absolution and benediction §1",
+      "chapterRef": "45"
+    },
+    {
+      "reference": "46.1",
+      "label": "Hymn 11: Counter-charm, with an amulet, against an enemy's spell §1",
+      "chapterRef": "46"
+    },
+    {
+      "reference": "47.1",
+      "label": "Hymn 12: A prayer for vengeance on a malicious rival worshipper §1",
+      "chapterRef": "47"
+    },
+    {
+      "reference": "48.1",
+      "label": "Hymn 13: A youth's Investiture ceremony (godānam) §1",
+      "chapterRef": "48"
+    },
+    {
+      "reference": "49.1",
+      "label": "Hymn 14: A charm to banish vermin and noxious creatures §1",
+      "chapterRef": "49"
+    },
+    {
+      "reference": "50.1",
+      "label": "Hymn 15: A prayer for general protection §1",
+      "chapterRef": "50"
+    },
+    {
+      "reference": "51.1",
+      "label": "Hymn 16: A charm against fear §1",
+      "chapterRef": "51"
+    },
+    {
+      "reference": "52.1",
+      "label": "Hymn 17: A prayer to an amulet for health and strength §1",
+      "chapterRef": "52"
+    },
+    {
+      "reference": "53.1",
+      "label": "Hymn 18: A charm against enemies, goblins, and other evil creatures §1",
+      "chapterRef": "53"
+    },
+    {
+      "reference": "54.1",
+      "label": "Hymn 19: A prayer to Agni for aid against an enemy §1",
+      "chapterRef": "54"
+    },
+    {
+      "reference": "54.2",
+      "label": "Hymn 19: A prayer to Agni for aid against an enemy §2",
+      "chapterRef": "54"
+    },
+    {
+      "reference": "55.1",
+      "label": "Hymn 24: A charm against the magic arts of fiends §1",
+      "chapterRef": "55"
+    },
+    {
+      "reference": "56.1",
+      "label": "Hymn 25: A charm against fiends who cause abortion §1",
+      "chapterRef": "56"
+    },
+    {
+      "reference": "56.2",
+      "label": "Hymn 25: A charm against fiends who cause abortion §2",
+      "chapterRef": "56"
+    },
+    {
+      "reference": "57.1",
+      "label": "Hymn 26: A benediction on homeward coming cattle §1",
+      "chapterRef": "57"
+    },
+    {
+      "reference": "58.1",
+      "label": "Hymn 27: A charm against an opponent in debate §1",
+      "chapterRef": "58"
+    },
+    {
+      "reference": "59.1",
+      "label": "Hymn 28: A prayer for a boy's long and happy life §1",
+      "chapterRef": "59"
+    },
+    {
+      "reference": "60.1",
+      "label": "Hymn 29: A benediction on a sick man §1",
+      "chapterRef": "60"
+    },
+    {
+      "reference": "61.1",
+      "label": "Hymn 30: A man's love-charm §1",
+      "chapterRef": "61"
+    },
+    {
+      "reference": "62.1",
+      "label": "Hymn 31: A charm against all sorts of worms §1",
+      "chapterRef": "62"
+    },
+    {
+      "reference": "63.1",
+      "label": "Hymn 32: A charm against worms or bots in cows §1",
+      "chapterRef": "63"
+    },
+    {
+      "reference": "64.1",
+      "label": "Hymn 33 §1",
+      "chapterRef": "64"
+    },
+    {
+      "reference": "65.1",
+      "label": "Hymn 34: A prayer accompanying an animal sacrifice §1",
+      "chapterRef": "65"
+    },
+    {
+      "reference": "66.1",
+      "label": "Hymn 35: Expiation for an imperfectly performed sacrifice §1",
+      "chapterRef": "66"
+    },
+    {
+      "reference": "67.1",
+      "label": "Hymn 36: A charm to secure a husband for a marriageable girl §1",
+      "chapterRef": "67"
+    },
+    {
+      "reference": "68.1",
+      "label": "Hymn 1: A prayer or charm for the defeat and destruction of enemies in battle §1",
+      "chapterRef": "68"
+    },
+    {
+      "reference": "69.1",
+      "label": "Hymn 2: A rifaccimento or recension of I §1",
+      "chapterRef": "69"
+    },
+    {
+      "reference": "70.1",
+      "label": "Hymn 3: A charm for the restoration of an expelled king §1",
+      "chapterRef": "70"
+    },
+    {
+      "reference": "71.1",
+      "label": "Hymn 4: A benediction at the election of a king §1",
+      "chapterRef": "71"
+    },
+    {
+      "reference": "72.1",
+      "label": "Hymn 5: A King's address to an amulet which is to strengthen his authority §1",
+      "chapterRef": "72"
+    },
+    {
+      "reference": "73.1",
+      "label": "Hymn 6: Address to an amulet which is to secure the defeat of the wearer's enemies §1",
+      "chapterRef": "73"
+    },
+    {
+      "reference": "74.1",
+      "label": "Hymn 7: A charm with an amulet of buck horn to drive away hereditary disease §1",
+      "chapterRef": "74"
+    },
+    {
+      "reference": "75.1",
+      "label": "Hymn 8: A charm to secure the submission, love, and fidelity of kinsmen §1",
+      "chapterRef": "75"
+    },
+    {
+      "reference": "76.1",
+      "label": "Hymn 9: A charm against rheumatism (vishkondha) §1",
+      "chapterRef": "76"
+    },
+    {
+      "reference": "77.1",
+      "label": "Hymn 10: A new year prayer §1",
+      "chapterRef": "77"
+    },
+    {
+      "reference": "78.1",
+      "label": "Hymn 11: A charm for the recovery of a dangerously sick man §1",
+      "chapterRef": "78"
+    },
+    {
+      "reference": "79.1",
+      "label": "Hymn 12: A benediction on a newly built house §1",
+      "chapterRef": "79"
+    },
+    {
+      "reference": "80.1",
+      "label": "Hymn 13: A benediction on a newly cut water channel §1",
+      "chapterRef": "80"
+    },
+    {
+      "reference": "81.1",
+      "label": "Hymn 14: A benediction on a cattle pen §1",
+      "chapterRef": "81"
+    },
+    {
+      "reference": "82.1",
+      "label": "Hymn 15: A merchant's prayer for success in his business §1",
+      "chapterRef": "82"
+    },
+    {
+      "reference": "83.1",
+      "label": "Hymn 16: A Rishi's morning prayer §1",
+      "chapterRef": "83"
+    },
+    {
+      "reference": "84.1",
+      "label": "Hymn 17: A farmer's song and prayer to speed the plough §1",
+      "chapterRef": "84"
+    },
+    {
+      "reference": "85.1",
+      "label": "Hymn 18: A jealous wife's incantation against a rival §1",
+      "chapterRef": "85"
+    },
+    {
+      "reference": "86.1",
+      "label": "Hymn 19: A glorification of the office of a king's household priest §1",
+      "chapterRef": "86"
+    },
+    {
+      "reference": "87.1",
+      "label": "Hymn 20: A prayer for riches and general prosperity §1",
+      "chapterRef": "87"
+    },
+    {
+      "reference": "88.1",
+      "label": "Hymn 21: In honour of fire in all shapes, to appease Agni of the funeral pile and to quench the flames of cremation §1",
+      "chapterRef": "88"
+    },
+    {
+      "reference": "89.1",
+      "label": "Hymn 22: The taming and training of an elephant for a king to ride on §1",
+      "chapterRef": "89"
+    },
+    {
+      "reference": "90.1",
+      "label": "Hymn 23: A charm to remove a woman's sterility, and to assure the birth of boys §1",
+      "chapterRef": "90"
+    },
+    {
+      "reference": "91.1",
+      "label": "Hymn 24: A song of harvest §1",
+      "chapterRef": "91"
+    },
+    {
+      "reference": "92.1",
+      "label": "Hymn 25: A man's love-charm §1",
+      "chapterRef": "92"
+    },
+    {
+      "reference": "93.1",
+      "label": "Hymn 26: A charm to win the favour of all serpents §1",
+      "chapterRef": "93"
+    },
+    {
+      "reference": "94.1",
+      "label": "Hymn 27: A charm consigning an enemy to the serpents for punishment §1",
+      "chapterRef": "94"
+    },
+    {
+      "reference": "95.1",
+      "label": "Hymn 28: A charm to change the ill-omened birth of twin calves into a blessing §1",
+      "chapterRef": "95"
+    },
+    {
+      "reference": "96.1",
+      "label": "Hymn 29: On the means to obtain immunity from taxation in the next world §1",
+      "chapterRef": "96"
+    },
+    {
+      "reference": "97.1",
+      "label": "Hymn 30: A prayer or charm to secure love and concord in a family §1",
+      "chapterRef": "97"
+    },
+    {
+      "reference": "98.1",
+      "label": "Hymn 31: A charm for the recovery of one dangerously ill §1",
+      "chapterRef": "98"
+    },
+    {
+      "reference": "99.1",
+      "label": "Hymn 1: Cosmogonical and mystico-theological doctrine §1",
+      "chapterRef": "99"
+    },
+    {
+      "reference": "100.1",
+      "label": "Hymn 2: To the unknown God §1",
+      "chapterRef": "100"
+    },
+    {
+      "reference": "101.1",
+      "label": "Hymn 4: A charm to restore virile power §1",
+      "chapterRef": "101"
+    },
+    {
+      "reference": "102.1",
+      "label": "Hymn 5: A lover's sleep-charm §1",
+      "chapterRef": "102"
+    },
+    {
+      "reference": "103.1",
+      "label": "Hymn 6: A charm to make a poisoned arrow harmless §1",
+      "chapterRef": "103"
+    },
+    {
+      "reference": "104.1",
+      "label": "Hymn 7: A charm to make a poisonous plant innocuous §1",
+      "chapterRef": "104"
+    },
+    {
+      "reference": "105.1",
+      "label": "Hymn 8: A benediction at the consecration of a King §1",
+      "chapterRef": "105"
+    },
+    {
+      "reference": "106.1",
+      "label": "Hymn 9: A charm addressed to a precious ointment for safety and wealth §1",
+      "chapterRef": "106"
+    },
+    {
+      "reference": "107.1",
+      "label": "Hymn 10: A charm accompanying investiture with an amulet of shell §1",
+      "chapterRef": "107"
+    },
+    {
+      "reference": "108.1",
+      "label": "Hymn 11: A glorification of the sacrificial gharma or milk caldron §1",
+      "chapterRef": "108"
+    },
+    {
+      "reference": "109.1",
+      "label": "Hymn 12: A charm to mend a broken bone §1",
+      "chapterRef": "109"
+    },
+    {
+      "reference": "110.1",
+      "label": "Hymn 13: A charm to restore a sick man to health §1",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "111.1",
+      "label": "Hymn 14: Accompanying the sacrifice of a he-goat §1",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "112.1",
+      "label": "Hymn 15: A charm to hasten the coming of the rains §1",
+      "chapterRef": "112"
+    },
+    {
+      "reference": "113.1",
+      "label": "Hymn 16: On the omnipresence and omniscience of Varuna §1",
+      "chapterRef": "113"
+    },
+    {
+      "reference": "114.1",
+      "label": "Hymn 17: A charm to secure freedom from various evils §1",
+      "chapterRef": "114"
+    },
+    {
+      "reference": "115.1",
+      "label": "Hymn 18: A counter-charm against the incantations of enemies §1",
+      "chapterRef": "115"
+    },
+    {
+      "reference": "116.1",
+      "label": "Hymn 19: A counter-charm and charm to secure general protection. §1",
+      "chapterRef": "116"
+    },
+    {
+      "reference": "117.1",
+      "label": "Hymn 20: A charm for the acquisition of superhuman powers of sight §1",
+      "chapterRef": "117"
+    },
+    {
+      "reference": "118.1",
+      "label": "Hymn 21: Glorification and benediction of cows §1",
+      "chapterRef": "118"
+    },
+    {
+      "reference": "119.1",
+      "label": "Hymn 22: A benediction on a newly consecrated king §1",
+      "chapterRef": "119"
+    },
+    {
+      "reference": "120.1",
+      "label": "Hymn 23: Magnification of Agni and prayer for his protection §1",
+      "chapterRef": "120"
+    },
+    {
+      "reference": "121.1",
+      "label": "Hymn 24: A hymn of prayer and praise to Indra §1",
+      "chapterRef": "121"
+    },
+    {
+      "reference": "122.1",
+      "label": "Hymn 25: A hymn of prayer and praise to Vāyu and Savitar §1",
+      "chapterRef": "122"
+    },
+    {
+      "reference": "123.1",
+      "label": "Hymn 26: A hymn to Heaven and Earth §1",
+      "chapterRef": "123"
+    },
+    {
+      "reference": "124.1",
+      "label": "Hymn 27: A hymn to the Maruts §1",
+      "chapterRef": "124"
+    },
+    {
+      "reference": "125.1",
+      "label": "Hymn 28: A hymn to Bhava and Sarva §1",
+      "chapterRef": "125"
+    },
+    {
+      "reference": "126.1",
+      "label": "Hymn 29: A hymn to Mitra-Varuna §1",
+      "chapterRef": "126"
+    },
+    {
+      "reference": "127.1",
+      "label": "Hymn 30: A glorification of vāk or speech §1",
+      "chapterRef": "127"
+    },
+    {
+      "reference": "128.1",
+      "label": "Hymn 31: A hymn to Manyu or Wrath §1",
+      "chapterRef": "128"
+    },
+    {
+      "reference": "129.1",
+      "label": "Hymn 32: A hymn to Manyu §1",
+      "chapterRef": "129"
+    },
+    {
+      "reference": "130.1",
+      "label": "Hymn 33: A prayer to Agni for protection and prosperity §1",
+      "chapterRef": "130"
+    },
+    {
+      "reference": "131.1",
+      "label": "Hymn 34: Glorification of the Vishtāri sacrifice §1",
+      "chapterRef": "131"
+    },
+    {
+      "reference": "132.1",
+      "label": "Hymn 35: Magnification of the Odana or oblation of milk and rice §1",
+      "chapterRef": "132"
+    },
+    {
+      "reference": "133.1",
+      "label": "Hymn 36: A charm against fiends, human enemies, and other pests §1",
+      "chapterRef": "133"
+    },
+    {
+      "reference": "134.1",
+      "label": "Hymn 37: A charm against Gandharvas and Apsarases §1",
+      "chapterRef": "134"
+    },
+    {
+      "reference": "135.1",
+      "label": "Hymn 38: A charm for success in gambling §1",
+      "chapterRef": "135"
+    },
+    {
+      "reference": "136.1",
+      "label": "Hymn 39: A prayer to various deities for health, wealth, and prosperity §1",
+      "chapterRef": "136"
+    },
+    {
+      "reference": "137.1",
+      "label": "Hymn 40: A charm against rival worshippers §1",
+      "chapterRef": "137"
+    },
+    {
+      "reference": "138.1",
+      "label": "Hymn 1: A glorification of Trita and Varuna §1",
+      "chapterRef": "138"
+    },
+    {
+      "reference": "139.1",
+      "label": "Hymn 2: A glorification of Indra §1",
+      "chapterRef": "139"
+    },
+    {
+      "reference": "140.1",
+      "label": "Hymn 3: A prayer to Agni, Indra, and other deities for victory and prosperity §1",
+      "chapterRef": "140"
+    },
+    {
+      "reference": "141.1",
+      "label": "Hymn 4: A charm against fever and other ailments §1",
+      "chapterRef": "141"
+    },
+    {
+      "reference": "142.1",
+      "label": "Hymn 5: A charm to mend a broken bone §1",
+      "chapterRef": "142"
+    },
+    {
+      "reference": "143.1",
+      "label": "Hymn 6: A prayer for protection and prosperity §1",
+      "chapterRef": "143"
+    },
+    {
+      "reference": "144.1",
+      "label": "Hymn 7: A charm to deprecate Arāti or Malignity §1",
+      "chapterRef": "144"
+    },
+    {
+      "reference": "145.1",
+      "label": "Hymn 8: A charm for the discomfiture and destruction of hostile priests §1",
+      "chapterRef": "145"
+    },
+    {
+      "reference": "146.1",
+      "label": "Hymn 9: A prayer to Heaven and Earth for protection and assistance §1",
+      "chapterRef": "146"
+    },
+    {
+      "reference": "147.1",
+      "label": "Hymn 10: A prayer to the presiding deities of the four quarters for protection §1",
+      "chapterRef": "147"
+    },
+    {
+      "reference": "148.1",
+      "label": "Hymn 11: A dialogue between Atharvan and Varuna §1",
+      "chapterRef": "148"
+    },
+    {
+      "reference": "149.1",
+      "label": "Hymn 12: An Apri or propitiatory hymn §1",
+      "chapterRef": "149"
+    },
+    {
+      "reference": "150.1",
+      "label": "Hymn 13: A charm against snakes §1",
+      "chapterRef": "150"
+    },
+    {
+      "reference": "151.1",
+      "label": "Hymn 14: A charm against witchcraft §1",
+      "chapterRef": "151"
+    },
+    {
+      "reference": "152.1",
+      "label": "Hymn 15: A charm for general prosperity §1",
+      "chapterRef": "152"
+    },
+    {
+      "reference": "153.1",
+      "label": "Hymn 16: A charm for the increase of cattle §1",
+      "chapterRef": "153"
+    },
+    {
+      "reference": "154.1",
+      "label": "Hymn 17: The abduction and restoration of a Brāhman's wife §1",
+      "chapterRef": "154"
+    },
+    {
+      "reference": "155.1",
+      "label": "Hymn 18: The wickedness of oppressing and robbing Brāhmans §1",
+      "chapterRef": "155"
+    },
+    {
+      "reference": "156.1",
+      "label": "Hymn 19: The wickedness of robbing or insulting Brāhmans §1",
+      "chapterRef": "156"
+    },
+    {
+      "reference": "157.1",
+      "label": "Hymn 20: A hymn to the War-drum to secure victory §1",
+      "chapterRef": "157"
+    },
+    {
+      "reference": "158.1",
+      "label": "Hymn 21: A hymn to the War-drum and various deities for victory §1",
+      "chapterRef": "158"
+    },
+    {
+      "reference": "159.1",
+      "label": "Hymn 22: A charm against fever §1",
+      "chapterRef": "159"
+    },
+    {
+      "reference": "160.1",
+      "label": "Hymn 23: A charm against parasitic worms §1",
+      "chapterRef": "160"
+    },
+    {
+      "reference": "161.1",
+      "label": "Hymn 24: A priest's prayer for protection and assistance §1",
+      "chapterRef": "161"
+    },
+    {
+      "reference": "162.1",
+      "label": "Hymn 25: A charm to facilitate conception §1",
+      "chapterRef": "162"
+    },
+    {
+      "reference": "163.1",
+      "label": "Hymn 26: A hymn of invitation to the gods §1",
+      "chapterRef": "163"
+    },
+    {
+      "reference": "164.1",
+      "label": "Hymn 27: An Apri or Propitiatory hymn §1",
+      "chapterRef": "164"
+    },
+    {
+      "reference": "165.1",
+      "label": "Hymn 28: A charm to ensure general protection and prosperity §1",
+      "chapterRef": "165"
+    },
+    {
+      "reference": "166.1",
+      "label": "Hymn 29: A charm for the destruction of malignant goblins §1",
+      "chapterRef": "166"
+    },
+    {
+      "reference": "167.1",
+      "label": "Hymn 30: A charm to restore life and health §1",
+      "chapterRef": "167"
+    },
+    {
+      "reference": "168.1",
+      "label": "Hymn 31: A counter-charm against the incantations of an enemy §1",
+      "chapterRef": "168"
+    },
+    {
+      "reference": "169.1",
+      "label": "Hymn 1: In praise of Savitar §1",
+      "chapterRef": "169"
+    },
+    {
+      "reference": "170.1",
+      "label": "Hymn 2: In praise of Indra §1",
+      "chapterRef": "170"
+    },
+    {
+      "reference": "171.1",
+      "label": "Hymn 3: A prayer to various deities for protection and prosperity §1",
+      "chapterRef": "171"
+    },
+    {
+      "reference": "172.1",
+      "label": "Hymn 4: A hymn to various deities for protection §1",
+      "chapterRef": "172"
+    },
+    {
+      "reference": "173.1",
+      "label": "Hymn 5: A prayer to Agni and Indra for the well being of a princely patron §1",
+      "chapterRef": "173"
+    },
+    {
+      "reference": "174.1",
+      "label": "Hymn 6: A prayer to Brāhmanaspati for protection from wicked men §1",
+      "chapterRef": "174"
+    },
+    {
+      "reference": "175.1",
+      "label": "Hymn 7: A prayer to Soma and other gods for help and protection §1",
+      "chapterRef": "175"
+    },
+    {
+      "reference": "176.1",
+      "label": "Hymn 8: A man's love-charm §1",
+      "chapterRef": "176"
+    },
+    {
+      "reference": "177.1",
+      "label": "Hymn 9: A man's love-charm §1",
+      "chapterRef": "177"
+    },
+    {
+      "reference": "178.1",
+      "label": "Hymn 10: A thanksgiving for life, hearing, and sight §1",
+      "chapterRef": "178"
+    },
+    {
+      "reference": "179.1",
+      "label": "Hymn 11: An epithalamian charm to ensure the birth of a boy §1",
+      "chapterRef": "179"
+    },
+    {
+      "reference": "180.1",
+      "label": "Hymn 12: A charm against venomous serpents §1",
+      "chapterRef": "180"
+    },
+    {
+      "reference": "181.1",
+      "label": "Hymn 13: Homage to death §1",
+      "chapterRef": "181"
+    },
+    {
+      "reference": "182.1",
+      "label": "Hymn 14: A charm against consumption §1",
+      "chapterRef": "182"
+    },
+    {
+      "reference": "183.1",
+      "label": "Hymn 15: A charm for power and preeminence §1",
+      "chapterRef": "183"
+    },
+    {
+      "reference": "184.1",
+      "label": "Hymn 16: A medical charm §1",
+      "chapterRef": "184"
+    },
+    {
+      "reference": "185.1",
+      "label": "Hymn 17: A charm to ensure conception §1",
+      "chapterRef": "185"
+    },
+    {
+      "reference": "186.1",
+      "label": "Hymn 18: A charm to banish jealousy §1",
+      "chapterRef": "186"
+    },
+    {
+      "reference": "187.1",
+      "label": "Hymn 19: A prayer for purification §1",
+      "chapterRef": "187"
+    },
+    {
+      "reference": "188.1",
+      "label": "Hymn 20: A charm against fever §1",
+      "chapterRef": "188"
+    },
+    {
+      "reference": "189.1",
+      "label": "Hymn 21: A charm to strengthen hair and promote its growth §1",
+      "chapterRef": "189"
+    },
+    {
+      "reference": "190.1",
+      "label": "Hymn 22: To the Maruts or Storm-Gods §1",
+      "chapterRef": "190"
+    },
+    {
+      "reference": "191.1",
+      "label": "Hymn 23: To the Waters §1",
+      "chapterRef": "191"
+    },
+    {
+      "reference": "192.1",
+      "label": "Hymn 24: To the Rivers §1",
+      "chapterRef": "192"
+    },
+    {
+      "reference": "193.1",
+      "label": "Hymn 25: A charm to remove pustules or scrofulous swellings (apachitas) §1",
+      "chapterRef": "193"
+    },
+    {
+      "reference": "194.1",
+      "label": "Hymn 26: To Affliction §1",
+      "chapterRef": "194"
+    },
+    {
+      "reference": "195.1",
+      "label": "Hymn 27: A charm to avert misfortune foreshown by the coming of a dove §1",
+      "chapterRef": "195"
+    },
+    {
+      "reference": "196.1",
+      "label": "Hymn 28: A charm to avert misfortune foreshown by the coming of a dove §1",
+      "chapterRef": "196"
+    },
+    {
+      "reference": "197.1",
+      "label": "Hymn 29: A charm to avert misfortune foreshown by the coming of a dove and an owl §1",
+      "chapterRef": "197"
+    },
+    {
+      "reference": "198.1",
+      "label": "Hymn 30: A charm to promote the growth of hair §1",
+      "chapterRef": "198"
+    },
+    {
+      "reference": "199.1",
+      "label": "Hymn 31: To Sūrya the Sun-God §1",
+      "chapterRef": "199"
+    },
+    {
+      "reference": "200.1",
+      "label": "Hymn 32: A charm against fiends and goblins §1",
+      "chapterRef": "200"
+    },
+    {
+      "reference": "201.1",
+      "label": "Hymn 33: A prayer to Indra for riches §1",
+      "chapterRef": "201"
+    },
+    {
+      "reference": "202.1",
+      "label": "Hymn 34: To Agni for protection from enemies §1",
+      "chapterRef": "202"
+    },
+    {
+      "reference": "203.1",
+      "label": "Hymn 35: To Agni Vaisvānara §1",
+      "chapterRef": "203"
+    },
+    {
+      "reference": "204.1",
+      "label": "Hymn 36: In praise of Agni Vaisvānara §1",
+      "chapterRef": "204"
+    },
+    {
+      "reference": "205.1",
+      "label": "Hymn 37: A charm to divert Imprecation personified §1",
+      "chapterRef": "205"
+    },
+    {
+      "reference": "206.1",
+      "label": "Hymn 38: A prayer for surpassing strength and energy §1",
+      "chapterRef": "206"
+    },
+    {
+      "reference": "207.1",
+      "label": "Hymn 39: A priest's prayer for power and glory §1",
+      "chapterRef": "207"
+    },
+    {
+      "reference": "208.1",
+      "label": "Hymn 40: A prayer for peace and security §1",
+      "chapterRef": "208"
+    },
+    {
+      "reference": "209.1",
+      "label": "Hymn 41: A prayer for protection, long life, and various blessings §1",
+      "chapterRef": "209"
+    },
+    {
+      "reference": "210.1",
+      "label": "Hymn 42: A charm to reconcile estranged friends §1",
+      "chapterRef": "210"
+    },
+    {
+      "reference": "211.1",
+      "label": "Hymn 43: The same §1",
+      "chapterRef": "211"
+    },
+    {
+      "reference": "212.1",
+      "label": "Hymn 44: A charm to remove disease §1",
+      "chapterRef": "212"
+    },
+    {
+      "reference": "213.1",
+      "label": "Hymn 45: A prayer for preservation from mental sin and evil promptings §1",
+      "chapterRef": "213"
+    },
+    {
+      "reference": "214.1",
+      "label": "Hymn 46: A charm against evil dreams §1",
+      "chapterRef": "214"
+    },
+    {
+      "reference": "215.1",
+      "label": "Hymn 47: To accompany the three daily libations §1",
+      "chapterRef": "215"
+    },
+    {
+      "reference": "216.1",
+      "label": "Hymn 48: Formulas to be used at the three daily libations §1",
+      "chapterRef": "216"
+    },
+    {
+      "reference": "217.1",
+      "label": "Hymn 49: In praise of Agni §1",
+      "chapterRef": "217"
+    },
+    {
+      "reference": "218.1",
+      "label": "Hymn 50: A charm for the destruction of vermin §1",
+      "chapterRef": "218"
+    },
+    {
+      "reference": "219.1",
+      "label": "Hymn 51: A prayer for purification and forgiveness of sins §1",
+      "chapterRef": "219"
+    },
+    {
+      "reference": "220.1",
+      "label": "Hymn 52: A charm against noxious reptiles and insects §1",
+      "chapterRef": "220"
+    },
+    {
+      "reference": "221.1",
+      "label": "Hymn 53: A prayer for recovery and preservation of health and security §1",
+      "chapterRef": "221"
+    },
+    {
+      "reference": "222.1",
+      "label": "Hymn 54: A benediction on a newly elected King §1",
+      "chapterRef": "222"
+    },
+    {
+      "reference": "223.1",
+      "label": "Hymn 55: A prayer for general protection and prosperity §1",
+      "chapterRef": "223"
+    },
+    {
+      "reference": "224.1",
+      "label": "Hymn 56: A charm against snakes §1",
+      "chapterRef": "224"
+    },
+    {
+      "reference": "225.1",
+      "label": "Hymn 57: A charm for a wound or bruise §1",
+      "chapterRef": "225"
+    },
+    {
+      "reference": "226.1",
+      "label": "Hymn 58: A priest's prayer for power and glory §1",
+      "chapterRef": "226"
+    },
+    {
+      "reference": "227.1",
+      "label": "Hymn 59: A charm to protect cattle and men §1",
+      "chapterRef": "227"
+    },
+    {
+      "reference": "228.1",
+      "label": "Hymn 60: The wooing of a bride §1",
+      "chapterRef": "228"
+    },
+    {
+      "reference": "229.1",
+      "label": "Hymn 61: A prayer for prosperity and greatness §1",
+      "chapterRef": "229"
+    },
+    {
+      "reference": "230.1",
+      "label": "Hymn 62: A prayer for purification and riches §1",
+      "chapterRef": "230"
+    },
+    {
+      "reference": "231.1",
+      "label": "Hymn 63: The symbolical liberation of a sacrificial victim §1",
+      "chapterRef": "231"
+    },
+    {
+      "reference": "232.1",
+      "label": "Hymn 64: To promote unanimity in an assembly §1",
+      "chapterRef": "232"
+    },
+    {
+      "reference": "233.1",
+      "label": "Hymn 65: A sacrificial charm against enemies §1",
+      "chapterRef": "233"
+    },
+    {
+      "reference": "234.1",
+      "label": "Hymn 66: A charm for the destruction and plunder of enemies §1",
+      "chapterRef": "234"
+    },
+    {
+      "reference": "235.1",
+      "label": "Hymn 67: A charm for the destruction and plunder of enemies §1",
+      "chapterRef": "235"
+    },
+    {
+      "reference": "236.1",
+      "label": "Hymn 68: A charm to accompany the shaving of the beard §1",
+      "chapterRef": "236"
+    },
+    {
+      "reference": "237.1",
+      "label": "Hymn 69: A priest's prayer for power and glory §1",
+      "chapterRef": "237"
+    },
+    {
+      "reference": "238.1",
+      "label": "Hymn 70: A benediction on cow and calf §1",
+      "chapterRef": "238"
+    },
+    {
+      "reference": "239.1",
+      "label": "Hymn 71: A priest's benediction after meat §1",
+      "chapterRef": "239"
+    },
+    {
+      "reference": "240.1",
+      "label": "Hymn 72: A charm to restore or increase virile power §1",
+      "chapterRef": "240"
+    },
+    {
+      "reference": "241.1",
+      "label": "Hymn 73: A King's charm to conciliate his discontented kinsmen §1",
+      "chapterRef": "241"
+    },
+    {
+      "reference": "242.1",
+      "label": "Hymn 74: A King's charm to secure the fidelity of his people §1",
+      "chapterRef": "242"
+    },
+    {
+      "reference": "243.1",
+      "label": "Hymn 75: A charm to effect the removal of an enemy §1",
+      "chapterRef": "243"
+    },
+    {
+      "reference": "244.1",
+      "label": "Hymn 76: A benediction on a new-born Kshatriya child §1",
+      "chapterRef": "244"
+    },
+    {
+      "reference": "245.1",
+      "label": "Hymn 77: A charm to bring the cattle home §1",
+      "chapterRef": "245"
+    },
+    {
+      "reference": "246.1",
+      "label": "Hymn 78: A nuptial benediction §1",
+      "chapterRef": "246"
+    },
+    {
+      "reference": "247.1",
+      "label": "Hymn 79: A prayer for seasonable rain and prosperity §1",
+      "chapterRef": "247"
+    },
+    {
+      "reference": "248.1",
+      "label": "Hymn 80: A prayer for help and protection §1",
+      "chapterRef": "248"
+    },
+    {
+      "reference": "249.1",
+      "label": "Hymn 81: A charm to facilitate child-birth §1",
+      "chapterRef": "249"
+    },
+    {
+      "reference": "250.1",
+      "label": "Hymn 82: A charm to win a bride §1",
+      "chapterRef": "250"
+    },
+    {
+      "reference": "251.1",
+      "label": "Hymn 83: A charm against sores and pustules (apachitas) §1",
+      "chapterRef": "251"
+    },
+    {
+      "reference": "252.1",
+      "label": "Hymn 84: A charm to accompany the symbolical loosing of sacrificial victims §1",
+      "chapterRef": "252"
+    },
+    {
+      "reference": "253.1",
+      "label": "Hymn 85: A charm against Consumption §1",
+      "chapterRef": "253"
+    },
+    {
+      "reference": "254.1",
+      "label": "Hymn 86: A glorification of a newly consecrated King §1",
+      "chapterRef": "254"
+    },
+    {
+      "reference": "255.1",
+      "label": "Hymn 87: A benediction addressed to a newly elected King §1",
+      "chapterRef": "255"
+    },
+    {
+      "reference": "256.1",
+      "label": "Hymn 88: A benediction addressed to a newly elected King §1",
+      "chapterRef": "256"
+    },
+    {
+      "reference": "257.1",
+      "label": "Hymn 89: A man's love charm §1",
+      "chapterRef": "257"
+    },
+    {
+      "reference": "258.1",
+      "label": "Hymn 90: A charm to cure a poisoned man §1",
+      "chapterRef": "258"
+    },
+    {
+      "reference": "259.1",
+      "label": "Hymn 91: A charm against disease §1",
+      "chapterRef": "259"
+    },
+    {
+      "reference": "260.1",
+      "label": "Hymn 92: A charm to strengthen and inspirit a war-horse §1",
+      "chapterRef": "260"
+    },
+    {
+      "reference": "261.1",
+      "label": "Hymn 93: A prayer for protection from poison §1",
+      "chapterRef": "261"
+    },
+    {
+      "reference": "262.1",
+      "label": "Hymn 94: A charm to reconcile a King's discontented people §1",
+      "chapterRef": "262"
+    },
+    {
+      "reference": "263.1",
+      "label": "Hymn 95: A charm to remove disease §1",
+      "chapterRef": "263"
+    },
+    {
+      "reference": "264.1",
+      "label": "Hymn 96: A prayer for deliverance from sin and sorrow §1",
+      "chapterRef": "264"
+    },
+    {
+      "reference": "265.1",
+      "label": "Hymn 97: A prayer for the success and prosperity of a King §1",
+      "chapterRef": "265"
+    },
+    {
+      "reference": "266.1",
+      "label": "Hymn 98: Praise of Indra §1",
+      "chapterRef": "266"
+    },
+    {
+      "reference": "267.1",
+      "label": "Hymn 99: A prayer for protection in battle §1",
+      "chapterRef": "267"
+    },
+    {
+      "reference": "268.1",
+      "label": "Hymn 100: A charm against poison §1",
+      "chapterRef": "268"
+    },
+    {
+      "reference": "269.1",
+      "label": "Hymn 101: A charm to promote virile vigour §1",
+      "chapterRef": "269"
+    },
+    {
+      "reference": "270.1",
+      "label": "Hymn 102: A man's love charm §1",
+      "chapterRef": "270"
+    },
+    {
+      "reference": "271.1",
+      "label": "Hymn 103: A charm to check the approach of a hostile army §1",
+      "chapterRef": "271"
+    },
+    {
+      "reference": "272.1",
+      "label": "Hymn 104: The same §1",
+      "chapterRef": "272"
+    },
+    {
+      "reference": "273.1",
+      "label": "Hymn 105: A charm to cure cough §1",
+      "chapterRef": "273"
+    },
+    {
+      "reference": "274.1",
+      "label": "Hymn 106: A charm to protect a house from fire §1",
+      "chapterRef": "274"
+    },
+    {
+      "reference": "275.1",
+      "label": "Hymn 107: A charm to protect men and cattle §1",
+      "chapterRef": "275"
+    },
+    {
+      "reference": "276.1",
+      "label": "Hymn 108: A prayer for wisdom §1",
+      "chapterRef": "276"
+    },
+    {
+      "reference": "277.1",
+      "label": "Hymn 109: A charm to heal punctured wounds §1",
+      "chapterRef": "277"
+    },
+    {
+      "reference": "278.1",
+      "label": "Hymn 110: A benediction on a new-born child §1",
+      "chapterRef": "278"
+    },
+    {
+      "reference": "279.1",
+      "label": "Hymn 111: A charm for insanity §1",
+      "chapterRef": "279"
+    },
+    {
+      "reference": "280.1",
+      "label": "Hymn 112: A health-charm for man, woman, and son §1",
+      "chapterRef": "280"
+    },
+    {
+      "reference": "281.1",
+      "label": "Hymn 113: A charm to banish the fiend Grāhi §1",
+      "chapterRef": "281"
+    },
+    {
+      "reference": "282.1",
+      "label": "Hymn 114: A prayer for pardon of faults and errors in sacrificing §1",
+      "chapterRef": "282"
+    },
+    {
+      "reference": "283.1",
+      "label": "Hymn 115: A prayer for forgiveness of sins §1",
+      "chapterRef": "283"
+    },
+    {
+      "reference": "284.1",
+      "label": "Hymn 116: A prayer for pardon of sin against mother, father, son, or brother §1",
+      "chapterRef": "284"
+    },
+    {
+      "reference": "285.1",
+      "label": "Hymn 117: A prayer for freedom from debt §1",
+      "chapterRef": "285"
+    },
+    {
+      "reference": "286.1",
+      "label": "Hymn 118: A prayer for pardon of cheating at play §1",
+      "chapterRef": "286"
+    },
+    {
+      "reference": "287.1",
+      "label": "Hymn 119: A prayer for release from debts incurred without intention of payment §1",
+      "chapterRef": "287"
+    },
+    {
+      "reference": "288.1",
+      "label": "Hymn 120: A prayer for pardon of sins and felicity hereafter §1",
+      "chapterRef": "288"
+    },
+    {
+      "reference": "289.1",
+      "label": "Hymn 121: A prayer for happiness in heaven §1",
+      "chapterRef": "289"
+    },
+    {
+      "reference": "290.1",
+      "label": "Hymn 122: A prayer for happiness in heaven §1",
+      "chapterRef": "290"
+    },
+    {
+      "reference": "291.1",
+      "label": "Hymn 123: A prayer for happiness in heaven §1",
+      "chapterRef": "291"
+    },
+    {
+      "reference": "292.1",
+      "label": "Hymn 124: An Omen from the sky §1",
+      "chapterRef": "292"
+    },
+    {
+      "reference": "293.1",
+      "label": "Hymn 125: Glorification of a war-chariot §1",
+      "chapterRef": "293"
+    },
+    {
+      "reference": "294.1",
+      "label": "Hymn 126: Glorification of the war drum §1",
+      "chapterRef": "294"
+    },
+    {
+      "reference": "295.1",
+      "label": "Hymn 127: A charm to banish various diseases §1",
+      "chapterRef": "295"
+    },
+    {
+      "reference": "296.1",
+      "label": "Hymn 128: A charm for fair weather §1",
+      "chapterRef": "296"
+    },
+    {
+      "reference": "297.1",
+      "label": "Hymn 129: A charm for success and happiness §1",
+      "chapterRef": "297"
+    },
+    {
+      "reference": "298.1",
+      "label": "Hymn 130: A woman's love-charm §1",
+      "chapterRef": "298"
+    },
+    {
+      "reference": "299.1",
+      "label": "Hymn 131: A woman's love-charm §1",
+      "chapterRef": "299"
+    },
+    {
+      "reference": "300.1",
+      "label": "Hymn 132: The same §1",
+      "chapterRef": "300"
+    },
+    {
+      "reference": "301.1",
+      "label": "Hymn 133: A glorification of the sacred girdle §1",
+      "chapterRef": "301"
+    },
+    {
+      "reference": "302.1",
+      "label": "Hymn 134: A priest's prayer for power to punish wrong-doers §1",
+      "chapterRef": "302"
+    },
+    {
+      "reference": "303.1",
+      "label": "Hymn 135: A priest's fulmination against an enemy §1",
+      "chapterRef": "303"
+    },
+    {
+      "reference": "304.1",
+      "label": "Hymn 136: A charm to promote the growth of hair §1",
+      "chapterRef": "304"
+    },
+    {
+      "reference": "305.1",
+      "label": "Hymn 137: A charm to promote the growth of hair §1",
+      "chapterRef": "305"
+    },
+    {
+      "reference": "306.1",
+      "label": "Hymn 138: A woman's imprecation on her unfaithful lover §1",
+      "chapterRef": "306"
+    },
+    {
+      "reference": "307.1",
+      "label": "Hymn 139: A woman's love-charm §1",
+      "chapterRef": "307"
+    },
+    {
+      "reference": "308.1",
+      "label": "Hymn 140: A blessing on a child's first two teeth §1",
+      "chapterRef": "308"
+    },
+    {
+      "reference": "309.1",
+      "label": "Hymn 141: A blessing on cattle §1",
+      "chapterRef": "309"
+    },
+    {
+      "reference": "310.1",
+      "label": "Hymn 142: A blessing on cattle §1",
+      "chapterRef": "310"
+    },
+    {
+      "reference": "311.1",
+      "label": "Hymn 1: Glorification of the power of prayer and to Agni §1",
+      "chapterRef": "311"
+    },
+    {
+      "reference": "312.1",
+      "label": "Hymn 2: Praise of Atharvan §1",
+      "chapterRef": "312"
+    },
+    {
+      "reference": "313.1",
+      "label": "Hymn 3: Praise of Agni as the Sun §1",
+      "chapterRef": "313"
+    },
+    {
+      "reference": "314.1",
+      "label": "Hymn 5: A glorification of sacrifice §1",
+      "chapterRef": "314"
+    },
+    {
+      "reference": "315.1",
+      "label": "Hymn 6: A prayer to Aditi for help and protection §1",
+      "chapterRef": "315"
+    },
+    {
+      "reference": "316.1",
+      "label": "Hymn 7: Praise of the Ādityas §1",
+      "chapterRef": "316"
+    },
+    {
+      "reference": "317.1",
+      "label": "Hymn 8: Godspeed to a departing traveller §1",
+      "chapterRef": "317"
+    },
+    {
+      "reference": "318.1",
+      "label": "Hymn 9: A prayer to Pūshan for protection and the recovery of lost property §1",
+      "chapterRef": "318"
+    },
+    {
+      "reference": "319.1",
+      "label": "Hymn 10: A prayer for the favour of Sarasvati §1",
+      "chapterRef": "319"
+    },
+    {
+      "reference": "320.1",
+      "label": "Hymn 11: A prayer to protect corn from lightning and drought §1",
+      "chapterRef": "320"
+    },
+    {
+      "reference": "321.1",
+      "label": "Hymn 12: A prayer for influence at deliberative and religious meetings §1",
+      "chapterRef": "321"
+    },
+    {
+      "reference": "322.1",
+      "label": "Hymn 13: A charm to win superiority over foes and rivals §1",
+      "chapterRef": "322"
+    },
+    {
+      "reference": "323.1",
+      "label": "Hymn 14: A prayer to Savitar for prosperity §1",
+      "chapterRef": "323"
+    },
+    {
+      "reference": "324.1",
+      "label": "Hymn 15: A charm to win divine favour and felicity §1",
+      "chapterRef": "324"
+    },
+    {
+      "reference": "325.1",
+      "label": "Hymn 16: A prayer for prosperity §1",
+      "chapterRef": "325"
+    },
+    {
+      "reference": "326.1",
+      "label": "Hymn 17: A prayer for wealth and children §1",
+      "chapterRef": "326"
+    },
+    {
+      "reference": "327.1",
+      "label": "Hymn 18: A prayer for rain §1",
+      "chapterRef": "327"
+    },
+    {
+      "reference": "328.1",
+      "label": "Hymn 19: A prayer for prosperity §1",
+      "chapterRef": "328"
+    },
+    {
+      "reference": "329.1",
+      "label": "Hymn 20: A prayer for prosperity and happiness §1",
+      "chapterRef": "329"
+    },
+    {
+      "reference": "330.1",
+      "label": "Hymn 21: A funeral stanza §1",
+      "chapterRef": "330"
+    },
+    {
+      "reference": "331.1",
+      "label": "Hymn 22: To Savitar, or Yama invested with Savitar's attributes §1",
+      "chapterRef": "331"
+    },
+    {
+      "reference": "332.1",
+      "label": "Hymn 23: A charm to banish fiends and troubles §1",
+      "chapterRef": "332"
+    },
+    {
+      "reference": "333.1",
+      "label": "Hymn 24: A prayer for riches §1",
+      "chapterRef": "333"
+    },
+    {
+      "reference": "334.1",
+      "label": "Hymn 25: Praise of Vishnu and Varuna §1",
+      "chapterRef": "334"
+    },
+    {
+      "reference": "335.1",
+      "label": "Hymn 26: Praise of Vishnu §1",
+      "chapterRef": "335"
+    },
+    {
+      "reference": "336.1",
+      "label": "Hymn 27: A prayer to Ida, Goddess of devotion §1",
+      "chapterRef": "336"
+    },
+    {
+      "reference": "337.1",
+      "label": "Hymn 28: Praise of the sacrificial utensils §1",
+      "chapterRef": "337"
+    },
+    {
+      "reference": "338.1",
+      "label": "Hymn 29: To Agni and Vishnu §1",
+      "chapterRef": "338"
+    },
+    {
+      "reference": "339.1",
+      "label": "Hymn 30: A charm to be used when the eyes are anointed §1",
+      "chapterRef": "339"
+    },
+    {
+      "reference": "340.1",
+      "label": "Hymn 31: A prayer for the overthrow of enemies §1",
+      "chapterRef": "340"
+    },
+    {
+      "reference": "341.1",
+      "label": "Hymn 32: A prayer to Agni for long life §1",
+      "chapterRef": "341"
+    },
+    {
+      "reference": "342.1",
+      "label": "Hymn 33: A prayer for long life, children, and riches §1",
+      "chapterRef": "342"
+    },
+    {
+      "reference": "343.1",
+      "label": "Hymn 34: A prayer for freedom from sin and the overthrow of enemies §1",
+      "chapterRef": "343"
+    },
+    {
+      "reference": "344.1",
+      "label": "Hymn 35: A prayer for the prosperity of a King and his kingdom §1",
+      "chapterRef": "344"
+    },
+    {
+      "reference": "345.1",
+      "label": "Hymn 36: A charm to be pronounced by bride and bridegroom §1",
+      "chapterRef": "345"
+    },
+    {
+      "reference": "346.1",
+      "label": "Hymn 37: A nuptial charm to be spoken by the bride §1",
+      "chapterRef": "346"
+    },
+    {
+      "reference": "347.1",
+      "label": "Hymn 38: A maiden's love-charm §1",
+      "chapterRef": "347"
+    },
+    {
+      "reference": "348.1",
+      "label": "Hymn 39: A sacrificial charm for rain and prosperity §1",
+      "chapterRef": "348"
+    },
+    {
+      "reference": "349.1",
+      "label": "Hymn 40: A prayer for prosperity §1",
+      "chapterRef": "349"
+    },
+    {
+      "reference": "350.1",
+      "label": "Hymn 41: A prayer for prosperity §1",
+      "chapterRef": "350"
+    },
+    {
+      "reference": "351.1",
+      "label": "Hymn 42: A prayer for delivery from sin and sickness §1",
+      "chapterRef": "351"
+    },
+    {
+      "reference": "352.1",
+      "label": "Hymn 43: A charm against lightning §1",
+      "chapterRef": "352"
+    },
+    {
+      "reference": "353.1",
+      "label": "Hymn 44: In praise of Indra and Vishnu §1",
+      "chapterRef": "353"
+    },
+    {
+      "reference": "354.1",
+      "label": "Hymn 45: A charm against jealousy §1",
+      "chapterRef": "354"
+    },
+    {
+      "reference": "355.1",
+      "label": "Hymn 46: A charm for offspring and prosperity §1",
+      "chapterRef": "355"
+    },
+    {
+      "reference": "356.1",
+      "label": "Hymn 47: A prayer for wealth and birth of a son §1",
+      "chapterRef": "356"
+    },
+    {
+      "reference": "357.1",
+      "label": "Hymn 48: A prayer for prosperity and the birth of a son §1",
+      "chapterRef": "357"
+    },
+    {
+      "reference": "358.1",
+      "label": "Hymn 49: A prayer for children and booty §1",
+      "chapterRef": "358"
+    },
+    {
+      "reference": "359.1",
+      "label": "Hymn 50: A gambler's prayer for success in gaming §1",
+      "chapterRef": "359"
+    },
+    {
+      "reference": "360.1",
+      "label": "Hymn 51: A prayer for Brihaspati's and Indra's protection §1",
+      "chapterRef": "360"
+    },
+    {
+      "reference": "361.1",
+      "label": "Hymn 52: A prayer for peace and concord §1",
+      "chapterRef": "361"
+    },
+    {
+      "reference": "362.1",
+      "label": "Hymn 53: A charm to recover a sick man at the point of death §1",
+      "chapterRef": "362"
+    },
+    {
+      "reference": "363.1",
+      "label": "Hymn 54: A charm to obtain knowledge of the Veda §1",
+      "chapterRef": "363"
+    },
+    {
+      "reference": "364.1",
+      "label": "Hymn 55: A charm to ensure a prosperous journey §1",
+      "chapterRef": "364"
+    },
+    {
+      "reference": "365.1",
+      "label": "Hymn 56: A charm against poisonous bites and stings §1",
+      "chapterRef": "365"
+    },
+    {
+      "reference": "366.1",
+      "label": "Hymn 57: A charm for some physical disorder §1",
+      "chapterRef": "366"
+    },
+    {
+      "reference": "367.1",
+      "label": "Hymn 58: An invitation to Indra and Varuna §1",
+      "chapterRef": "367"
+    },
+    {
+      "reference": "368.1",
+      "label": "Hymn 59: An imprecation §1",
+      "chapterRef": "368"
+    },
+    {
+      "reference": "369.1",
+      "label": "Hymn 60: A parting traveller's address to the houses of his village §1",
+      "chapterRef": "369"
+    },
+    {
+      "reference": "370.1",
+      "label": "Hymn 61: A prayer for sacred knowledge and its fruits §1",
+      "chapterRef": "370"
+    },
+    {
+      "reference": "371.1",
+      "label": "Hymn 62: A prayer for the overthrow of enemies §1",
+      "chapterRef": "371"
+    },
+    {
+      "reference": "372.1",
+      "label": "Hymn 63: A prayer for deliverance from affliction §1",
+      "chapterRef": "372"
+    },
+    {
+      "reference": "373.1",
+      "label": "Hymn 64: A charm to avert an evil omen §1",
+      "chapterRef": "373"
+    },
+    {
+      "reference": "374.1",
+      "label": "Hymn 65: A charm against imprecation and threatened evils §1",
+      "chapterRef": "374"
+    },
+    {
+      "reference": "375.1",
+      "label": "Hymn 66: A prayer to Vāk §1",
+      "chapterRef": "375"
+    },
+    {
+      "reference": "376.1",
+      "label": "Hymn 67: A priest's prayer to the Agnayo Dhishnyāh §1",
+      "chapterRef": "376"
+    },
+    {
+      "reference": "377.1",
+      "label": "Hymn 68: A prayer for children and prosperity §1",
+      "chapterRef": "377"
+    },
+    {
+      "reference": "378.1",
+      "label": "Hymn 69: A prayer for prosperity §1",
+      "chapterRef": "378"
+    },
+    {
+      "reference": "379.1",
+      "label": "Hymn 70: A charm to frustrate an enemy's sacrifice §1",
+      "chapterRef": "379"
+    },
+    {
+      "reference": "380.1",
+      "label": "Hymn 71: In praise of Agni §1",
+      "chapterRef": "380"
+    },
+    {
+      "reference": "381.1",
+      "label": "Hymn 72: An invitation to Indra §1",
+      "chapterRef": "381"
+    },
+    {
+      "reference": "382.1",
+      "label": "Hymn 73: An invitation to the Asvins §1",
+      "chapterRef": "382"
+    },
+    {
+      "reference": "383.1",
+      "label": "Hymn 74: A charm to cure pustules, sores, or scrofulous swellings (apachitas) §1",
+      "chapterRef": "383"
+    },
+    {
+      "reference": "384.1",
+      "label": "Hymn 75: A blessing on cows §1",
+      "chapterRef": "384"
+    },
+    {
+      "reference": "385.1",
+      "label": "Hymn 76: A charm to cure scrofulous pustules and scrofula §1",
+      "chapterRef": "385"
+    },
+    {
+      "reference": "386.1",
+      "label": "Hymn 77: An incantation against an enemy §1",
+      "chapterRef": "386"
+    },
+    {
+      "reference": "387.1",
+      "label": "Hymn 78: A charm for a prince's prosperity §1",
+      "chapterRef": "387"
+    },
+    {
+      "reference": "388.1",
+      "label": "Hymn 79: A hymn to the New Moon §1",
+      "chapterRef": "388"
+    },
+    {
+      "reference": "389.1",
+      "label": "Hymn 80: A hymn to the Full Moon §1",
+      "chapterRef": "389"
+    },
+    {
+      "reference": "390.1",
+      "label": "Hymn 81: A hymn to the New Moon §1",
+      "chapterRef": "390"
+    },
+    {
+      "reference": "391.1",
+      "label": "Hymn 82: In praise of Agni §1",
+      "chapterRef": "391"
+    },
+    {
+      "reference": "392.1",
+      "label": "Hymn 83: A prayer for deliverance from sin and other evils §1",
+      "chapterRef": "392"
+    },
+    {
+      "reference": "393.1",
+      "label": "Hymn 84: A prayer for protection §1",
+      "chapterRef": "393"
+    },
+    {
+      "reference": "394.1",
+      "label": "Hymn 85: A charm to ensure victory in battle §1",
+      "chapterRef": "394"
+    },
+    {
+      "reference": "395.1",
+      "label": "Hymn 86: The same §1",
+      "chapterRef": "395"
+    },
+    {
+      "reference": "396.1",
+      "label": "Hymn 87: A prayer to Rudra as Agni §1",
+      "chapterRef": "396"
+    },
+    {
+      "reference": "397.1",
+      "label": "Hymn 88: A charm to cure a snake-bite §1",
+      "chapterRef": "397"
+    },
+    {
+      "reference": "398.1",
+      "label": "Hymn 89: A prayer for purification and prosperity §1",
+      "chapterRef": "398"
+    },
+    {
+      "reference": "399.1",
+      "label": "Hymn 90: A charm against a rival in love §1",
+      "chapterRef": "399"
+    },
+    {
+      "reference": "400.1",
+      "label": "Hymn 91: A Prayer for protection §1",
+      "chapterRef": "400"
+    },
+    {
+      "reference": "401.1",
+      "label": "Hymn 92: A Prayer for protection §1",
+      "chapterRef": "401"
+    },
+    {
+      "reference": "402.1",
+      "label": "Hymn 93: A prayer for success in battle §1",
+      "chapterRef": "402"
+    },
+    {
+      "reference": "403.1",
+      "label": "Hymn 94: A charm to ensure the obedience of subjects §1",
+      "chapterRef": "403"
+    },
+    {
+      "reference": "404.1",
+      "label": "Hymn 95: An incantation against an undetected thief §1",
+      "chapterRef": "404"
+    },
+    {
+      "reference": "405.1",
+      "label": "Hymn 96: An incantation against an undetected thief §1",
+      "chapterRef": "405"
+    },
+    {
+      "reference": "406.1",
+      "label": "Hymn 97: Sacrificial formulas §1",
+      "chapterRef": "406"
+    },
+    {
+      "reference": "407.1",
+      "label": "Hymn 98: Anointing the sacred grass §1",
+      "chapterRef": "407"
+    },
+    {
+      "reference": "408.1",
+      "label": "Hymn 99: The preparation of the altar §1",
+      "chapterRef": "408"
+    },
+    {
+      "reference": "409.1",
+      "label": "Hymn 100: A charm against nightmare §1",
+      "chapterRef": "409"
+    },
+    {
+      "reference": "410.1",
+      "label": "Hymn 101: The same §1",
+      "chapterRef": "410"
+    },
+    {
+      "reference": "411.1",
+      "label": "Hymn 102: A charm to obtain pardon for an indecent act §1",
+      "chapterRef": "411"
+    },
+    {
+      "reference": "412.1",
+      "label": "Hymn 103: The cry of an unemployed priest §1",
+      "chapterRef": "412"
+    },
+    {
+      "reference": "413.1",
+      "label": "Hymn 104: A prayer for prosperity §1",
+      "chapterRef": "413"
+    },
+    {
+      "reference": "414.1",
+      "label": "Hymn 105: An initiation formula §1",
+      "chapterRef": "414"
+    },
+    {
+      "reference": "415.1",
+      "label": "Hymn 106: A prayer for pardon of sin §1",
+      "chapterRef": "415"
+    },
+    {
+      "reference": "416.1",
+      "label": "Hymn 107: A charm against Cough §1",
+      "chapterRef": "416"
+    },
+    {
+      "reference": "417.1",
+      "label": "Hymn 108: A prayer for protection §1",
+      "chapterRef": "417"
+    },
+    {
+      "reference": "418.1",
+      "label": "Hymn 109: A prayer for success in gambling §1",
+      "chapterRef": "418"
+    },
+    {
+      "reference": "419.1",
+      "label": "Hymn 110: A prayer for success in battle §1",
+      "chapterRef": "419"
+    },
+    {
+      "reference": "420.1",
+      "label": "Hymn 111: A prayer for offspring §1",
+      "chapterRef": "420"
+    },
+    {
+      "reference": "421.1",
+      "label": "Hymn 112: A prayer for protection and freedom from sin §1",
+      "chapterRef": "421"
+    },
+    {
+      "reference": "422.1",
+      "label": "Hymn 113: A woman's incantation against a rival §1",
+      "chapterRef": "422"
+    },
+    {
+      "reference": "423.1",
+      "label": "Hymn 114: A woman's incantation against a rival §1",
+      "chapterRef": "423"
+    },
+    {
+      "reference": "424.1",
+      "label": "Hymn 115: A charm against Misfortune §1",
+      "chapterRef": "424"
+    },
+    {
+      "reference": "425.1",
+      "label": "Hymn 116: A charm against Fever §1",
+      "chapterRef": "425"
+    },
+    {
+      "reference": "426.1",
+      "label": "Hymn 117: A charm to ensure prosperity §1",
+      "chapterRef": "426"
+    },
+    {
+      "reference": "427.1",
+      "label": "Hymn 118: A benediction on a warrior §1",
+      "chapterRef": "427"
+    },
+    {
+      "reference": "428.1",
+      "label": "Hymn 1: A charm to recover a dying man §1",
+      "chapterRef": "428"
+    },
+    {
+      "reference": "429.1",
+      "label": "Hymn 2: The same §1",
+      "chapterRef": "429"
+    },
+    {
+      "reference": "430.1",
+      "label": "Hymn 3: A prayer for the destruction of demons §1",
+      "chapterRef": "430"
+    },
+    {
+      "reference": "431.1",
+      "label": "Hymn 4: Imprecations on demons §1",
+      "chapterRef": "431"
+    },
+    {
+      "reference": "432.1",
+      "label": "Hymn 5: A charm accompanying investiture with an amulet §1",
+      "chapterRef": "432"
+    },
+    {
+      "reference": "433.1",
+      "label": "Hymn 6: A charm to exercise evil spirits who beset women §1",
+      "chapterRef": "433"
+    },
+    {
+      "reference": "434.1",
+      "label": "Hymn 7: A charm to restore a sick man to health §1",
+      "chapterRef": "434"
+    },
+    {
+      "reference": "435.1",
+      "label": "Hymn 8: Imprecations directed against a hostile army §1",
+      "chapterRef": "435"
+    },
+    {
+      "reference": "436.1",
+      "label": "Hymn 9: An enunciation of cosmogonical, ritual, and metrical doctrine §1",
+      "chapterRef": "436"
+    },
+    {
+      "reference": "437.1",
+      "label": "Hymn 10: A glorification of the mystical abstraction Virāj §1",
+      "chapterRef": "437"
+    },
+    {
+      "reference": "438.1",
+      "label": "Hymn 1: A glorification of the Asvins' whip and a prayer for blessings §1",
+      "chapterRef": "438"
+    },
+    {
+      "reference": "439.1",
+      "label": "Hymn 2: A glorification of Kāma as God of desire of all that is good §1",
+      "chapterRef": "439"
+    },
+    {
+      "reference": "440.1",
+      "label": "Hymn 3: On the consecration of a newly built house §1",
+      "chapterRef": "440"
+    },
+    {
+      "reference": "441.1",
+      "label": "Hymn 4: A glorification of the typical sacrificial bull §1",
+      "chapterRef": "441"
+    },
+    {
+      "reference": "442.1",
+      "label": "Hymn 5: A glorification of a sacrificial goat §1",
+      "chapterRef": "442"
+    },
+    {
+      "reference": "443.1",
+      "label": "Hymn 6: A glorification of hospitable reception of guests §1",
+      "chapterRef": "443"
+    },
+    {
+      "reference": "444.1",
+      "label": "Hymn 7: A glorification of the typically bull and cow §1",
+      "chapterRef": "444"
+    },
+    {
+      "reference": "445.1",
+      "label": "Hymn 8: A charm for the cure of various diseases connected with Consumption §1",
+      "chapterRef": "445"
+    },
+    {
+      "reference": "446.1",
+      "label": "Hymn 9: Enunciation of mystico-theological and cosmological doctrine §1",
+      "chapterRef": "446"
+    },
+    {
+      "reference": "447.1",
+      "label": "Hymn 10: Continuation of Hymn 9 §1",
+      "chapterRef": "447"
+    },
+    {
+      "reference": "448.1",
+      "label": "Hymn 1: A charm against witchcraft §1",
+      "chapterRef": "448"
+    },
+    {
+      "reference": "449.1",
+      "label": "Hymn 2: Purusha, Primeval Man or humanity personified §1",
+      "chapterRef": "449"
+    },
+    {
+      "reference": "450.1",
+      "label": "Hymn 3: A charm to secure long life, health, prosperity and fame §1",
+      "chapterRef": "450"
+    },
+    {
+      "reference": "451.1",
+      "label": "Hymn 4: A charm to destroy venomous serpents §1",
+      "chapterRef": "451"
+    },
+    {
+      "reference": "452.1",
+      "label": "Hymn 4: A charm to overthrow a rival and gain strength, dignity, long life, children, and general prosperity §1",
+      "chapterRef": "452"
+    },
+    {
+      "reference": "453.1",
+      "label": "Hymn 6: The glorification of an all-powerful amulet §1",
+      "chapterRef": "453"
+    },
+    {
+      "reference": "454.1",
+      "label": "Hymn 7: Skambha, the Pillar or Fulcrum of all existence §1",
+      "chapterRef": "454"
+    },
+    {
+      "reference": "455.1",
+      "label": "Hymn 8: Speculations on the Supreme Being and Cosmogonical and theological subjects §1",
+      "chapterRef": "455"
+    },
+    {
+      "reference": "456.1",
+      "label": "Hymn 9: The Sataudanā or Hundredfold Oblation §1",
+      "chapterRef": "456"
+    },
+    {
+      "reference": "457.1",
+      "label": "Hymn 10: A glorification of the sacred Cow as representing the radiant heavens §1",
+      "chapterRef": "457"
+    },
+    {
+      "reference": "458.1",
+      "label": "Hymn 1: An accompaniment to the preparation and presentation of a Brahmaudana §1",
+      "chapterRef": "458"
+    },
+    {
+      "reference": "459.1",
+      "label": "Hymn 2: Prayer and praise to Bhava, Sarva and Rudra §1",
+      "chapterRef": "459"
+    },
+    {
+      "reference": "460.1",
+      "label": "Hymn 3: A glorification of the Odana or oblation of boiled rice §1",
+      "chapterRef": "460"
+    },
+    {
+      "reference": "460.2",
+      "label": "Hymn 3: A glorification of the Odana or oblation of boiled rice §2",
+      "chapterRef": "460"
+    },
+    {
+      "reference": "461.1",
+      "label": "Hymn 4: A glorification of Prāna, Breath or Vital Spirit §1",
+      "chapterRef": "461"
+    },
+    {
+      "reference": "462.1",
+      "label": "Hymn 5: A glorification of the Brahmachgri or religious student §1",
+      "chapterRef": "462"
+    },
+    {
+      "reference": "463.1",
+      "label": "Hymn 6: A prayer to all Divinities and Sanctities for deliverance from distress §1",
+      "chapterRef": "463"
+    },
+    {
+      "reference": "464.1",
+      "label": "Hymn 7: A glorification of the Uchchhishta or Residue of Sacrifice §1",
+      "chapterRef": "464"
+    },
+    {
+      "reference": "465.1",
+      "label": "Hymn 8: On the origin of some Gods and the creation of man §1",
+      "chapterRef": "465"
+    },
+    {
+      "reference": "466.1",
+      "label": "Hymn 9: An incantation for the destruction of a hostile army §1",
+      "chapterRef": "466"
+    },
+    {
+      "reference": "467.1",
+      "label": "Hymn 10: An incantation for the destruction of a hostile army §1",
+      "chapterRef": "467"
+    },
+    {
+      "reference": "468.1",
+      "label": "Hymn 1: A hymn of prayer and praise to Prithivī or deified Earth §1",
+      "chapterRef": "468"
+    },
+    {
+      "reference": "469.1",
+      "label": "Hymn 2: A funeral hymn, and deprecation of Agni the Consumer of corpses §1",
+      "chapterRef": "469"
+    },
+    {
+      "reference": "470.1",
+      "label": "Hymn 3: An accompaniment to the preparation and presentation of sacrificial offerings by a householder and his wife, with prayer for prosperity and happiness on earth and in heaven §1",
+      "chapterRef": "470"
+    },
+    {
+      "reference": "471.1",
+      "label": "Hymn 4: On the duty of giving cows to Brāhmans, and the sin and danger of withholding the gift §1",
+      "chapterRef": "471"
+    },
+    {
+      "reference": "472.1",
+      "label": "Hymn 5: On the duty of giving cows to Brāhmans, and the sin and danger of withholding the gift §1",
+      "chapterRef": "472"
+    },
+    {
+      "reference": "473.1",
+      "label": "Hymn 1: The glorification of Rohita, a form of Fire and of the Sun §1",
+      "chapterRef": "473"
+    },
+    {
+      "reference": "474.1",
+      "label": "Hymn 2: The glorification of the Sun as Āditya, Sūrya and Rohita §1",
+      "chapterRef": "474"
+    },
+    {
+      "reference": "475.1",
+      "label": "Hymn 3: A glorification of Rohita. with a malediction on the man who wrongs a Brāhman §1",
+      "chapterRef": "475"
+    },
+    {
+      "reference": "476.1",
+      "label": "Hymn 4: A glorification of the Sun as the only Deity §1",
+      "chapterRef": "476"
+    },
+    {
+      "reference": "477.1",
+      "label": "Hymn 1: On the Bridal of Sūryā, marriage ceremonies in general §1",
+      "chapterRef": "477"
+    },
+    {
+      "reference": "478.1",
+      "label": "Hymn 2: On the Bridal of Sūryā, marriage ceremonies in general, continued §1",
+      "chapterRef": "478"
+    },
+    {
+      "reference": "479.1",
+      "label": "Hymn 1: The hyperbolical glorification of the Vrātya or Aryan Non-conformist §1",
+      "chapterRef": "479"
+    },
+    {
+      "reference": "480.1",
+      "label": "Hymn 2: The same, continued §1",
+      "chapterRef": "480"
+    },
+    {
+      "reference": "481.1",
+      "label": "Hymn 3 §1",
+      "chapterRef": "481"
+    },
+    {
+      "reference": "482.1",
+      "label": "Hymn 4 §1",
+      "chapterRef": "482"
+    },
+    {
+      "reference": "483.1",
+      "label": "Hymn 5 §1",
+      "chapterRef": "483"
+    },
+    {
+      "reference": "484.1",
+      "label": "Hymn 6 §1",
+      "chapterRef": "484"
+    },
+    {
+      "reference": "485.1",
+      "label": "Hymn 7 §1",
+      "chapterRef": "485"
+    },
+    {
+      "reference": "486.1",
+      "label": "Hymn 8 §1",
+      "chapterRef": "486"
+    },
+    {
+      "reference": "487.1",
+      "label": "Hymn 9 §1",
+      "chapterRef": "487"
+    },
+    {
+      "reference": "488.1",
+      "label": "Hymn 10 §1",
+      "chapterRef": "488"
+    },
+    {
+      "reference": "489.1",
+      "label": "Hymn 11 §1",
+      "chapterRef": "489"
+    },
+    {
+      "reference": "490.1",
+      "label": "Hymn 12 §1",
+      "chapterRef": "490"
+    },
+    {
+      "reference": "491.1",
+      "label": "Hymn 13 §1",
+      "chapterRef": "491"
+    },
+    {
+      "reference": "492.1",
+      "label": "Hymn 14 §1",
+      "chapterRef": "492"
+    },
+    {
+      "reference": "493.1",
+      "label": "Hymn 15 §1",
+      "chapterRef": "493"
+    },
+    {
+      "reference": "494.1",
+      "label": "Hymn 16 §1",
+      "chapterRef": "494"
+    },
+    {
+      "reference": "495.1",
+      "label": "Hymn 17 §1",
+      "chapterRef": "495"
+    },
+    {
+      "reference": "496.1",
+      "label": "Hymn 18 §1",
+      "chapterRef": "496"
+    },
+    {
+      "reference": "497.1",
+      "label": "Hymn 1: On the preparation and use of holy water, with, a prayer for purification and freedom from sin §1",
+      "chapterRef": "497"
+    },
+    {
+      "reference": "498.1",
+      "label": "Hymn 2: A charm to secure various blessings §1",
+      "chapterRef": "498"
+    },
+    {
+      "reference": "499.1",
+      "label": "Hymn 3: A charm to secure power and long life §1",
+      "chapterRef": "499"
+    },
+    {
+      "reference": "500.1",
+      "label": "Hymn 4: A charm to secure long life and success §1",
+      "chapterRef": "500"
+    },
+    {
+      "reference": "501.1",
+      "label": "Hymn 5: A charm against evil dreams §1",
+      "chapterRef": "501"
+    },
+    {
+      "reference": "502.1",
+      "label": "Hymn 6: A charm to avert evil dreams, and to transfer them to an enemy §1",
+      "chapterRef": "502"
+    },
+    {
+      "reference": "503.1",
+      "label": "Hymn 7: An imprecation on an enemy §1",
+      "chapterRef": "503"
+    },
+    {
+      "reference": "504.1",
+      "label": "Hymn 8: An imprecation on an enemy §1",
+      "chapterRef": "504"
+    },
+    {
+      "reference": "505.1",
+      "label": "Hymn 9: A charm to secure wealth and felicity §1",
+      "chapterRef": "505"
+    },
+    {
+      "reference": "506.1",
+      "label": "Hymn 1: A prayer to Indra, Identified with Vishnu and the Sun, for the love of Gods, men, and beasts, general protection and prosperity, and all earthly and heavenly blessings §1",
+      "chapterRef": "506"
+    },
+    {
+      "reference": "507.1",
+      "label": "Hymn 1: An accompaniment to funeral ceremonies and sacrificial offerings to ancestral spirits §1",
+      "chapterRef": "507"
+    },
+    {
+      "reference": "508.1",
+      "label": "Hymn 2: A funeral hymn, taken mainly from the Rigveda §1",
+      "chapterRef": "508"
+    },
+    {
+      "reference": "509.1",
+      "label": "Hymn 3: A funeral hymn, taken partly from the Rigveda §1",
+      "chapterRef": "509"
+    },
+    {
+      "reference": "510.1",
+      "label": "Hymn 4: A funeral hymn, composed partly of verses from the Rigveda §1",
+      "chapterRef": "510"
+    },
+    {
+      "reference": "511.1",
+      "label": "Hymn 1: An accompaniment to the offering of a Mixt Oblation §1",
+      "chapterRef": "511"
+    },
+    {
+      "reference": "512.1",
+      "label": "Hymn 2: A hymn to all waters §1",
+      "chapterRef": "512"
+    },
+    {
+      "reference": "513.1",
+      "label": "Hymn 3: A hymn to Agni for protection and prosperity §1",
+      "chapterRef": "513"
+    },
+    {
+      "reference": "514.1",
+      "label": "Hymn 4: A prayer, accompanying sacrifice, for the attainment of a wish §1",
+      "chapterRef": "514"
+    },
+    {
+      "reference": "515.1",
+      "label": "Hymn 5: A prayer for riches §1",
+      "chapterRef": "515"
+    },
+    {
+      "reference": "516.1",
+      "label": "Hymn 6: The purusha-Sūkta, on the mystical Sacrifice of Purusha §1",
+      "chapterRef": "516"
+    },
+    {
+      "reference": "517.1",
+      "label": "Hymn 7: A Prayer to the Lunar Mansions and other Powers for protection and prosperity §1",
+      "chapterRef": "517"
+    },
+    {
+      "reference": "518.1",
+      "label": "Hymn 8: A hymn to the Sun and various heavenly bodies for protection and prosperity §1",
+      "chapterRef": "518"
+    },
+    {
+      "reference": "519.1",
+      "label": "Hymn 9: A prayer for general protection and prosperity §1",
+      "chapterRef": "519"
+    },
+    {
+      "reference": "520.1",
+      "label": "Hymn 10: A prayer for the same §1",
+      "chapterRef": "520"
+    },
+    {
+      "reference": "521.1",
+      "label": "Hymn 11: A continuation of Hymn 10 §1",
+      "chapterRef": "521"
+    },
+    {
+      "reference": "522.1",
+      "label": "Hymn 12: A prayer to Ushas or Dawn for wealth and long life §1",
+      "chapterRef": "522"
+    },
+    {
+      "reference": "523.1",
+      "label": "Hymn 13: A prayer for aid and victory in battle §1",
+      "chapterRef": "523"
+    },
+    {
+      "reference": "524.1",
+      "label": "Hymn 14: A hymn after victory §1",
+      "chapterRef": "524"
+    },
+    {
+      "reference": "525.1",
+      "label": "Hymn 15: A prayer for peace and security §1",
+      "chapterRef": "525"
+    },
+    {
+      "reference": "526.1",
+      "label": "Hymn 16: A prayer for security from danger §1",
+      "chapterRef": "526"
+    },
+    {
+      "reference": "527.1",
+      "label": "Hymn 17: A prayer for protection from dangers in all directions §1",
+      "chapterRef": "527"
+    },
+    {
+      "reference": "528.1",
+      "label": "Hymn 18: A prayer for security and peace on all sides §1",
+      "chapterRef": "528"
+    },
+    {
+      "reference": "529.1",
+      "label": "Hymn 19: A hymn recommending the protection of various Gods §1",
+      "chapterRef": "529"
+    },
+    {
+      "reference": "530.1",
+      "label": "Hymn 20: A prayer for protection from death and misfortune §1",
+      "chapterRef": "530"
+    },
+    {
+      "reference": "531.1",
+      "label": "Hymn 21: A single line giving the names of the chief Vedic metres §1",
+      "chapterRef": "531"
+    },
+    {
+      "reference": "532.1",
+      "label": "Hymn 22: A prose hymn of homage to various portions of the Atharva-veda, to the Rishis, and to Brahma §1",
+      "chapterRef": "532"
+    },
+    {
+      "reference": "533.1",
+      "label": "Hymn 23: A prose hymn of homage to various portions of the Atharva-vada classed according to the number of verses which their hymns contain §1",
+      "chapterRef": "533"
+    },
+    {
+      "reference": "534.1",
+      "label": "Hymn 24: A benediction on a newly elected King §1",
+      "chapterRef": "534"
+    },
+    {
+      "reference": "535.1",
+      "label": "Hymn 25: A charm to be used when a young ox is first yoked §1",
+      "chapterRef": "535"
+    },
+    {
+      "reference": "536.1",
+      "label": "Hymn 26: A hymn accompanying investiture with an amulet of gold §1",
+      "chapterRef": "536"
+    },
+    {
+      "reference": "537.1",
+      "label": "Hymn 27: A benedictory hymn §1",
+      "chapterRef": "537"
+    },
+    {
+      "reference": "538.1",
+      "label": "Hymn 28: A charm for the destruction of enemies §1",
+      "chapterRef": "538"
+    },
+    {
+      "reference": "539.1",
+      "label": "Hymn 29: A charm for the destruction of enemies, continued from 28 §1",
+      "chapterRef": "539"
+    },
+    {
+      "reference": "540.1",
+      "label": "Hymn 30: A protective charm accompanying investiture with an amulet of Darbha grass §1",
+      "chapterRef": "540"
+    },
+    {
+      "reference": "541.1",
+      "label": "Hymn 31: A charm to ensure general prosperity, accompanying self-investiture with an amulet of Udumbara §1",
+      "chapterRef": "541"
+    },
+    {
+      "reference": "542.1",
+      "label": "Hymn 32: A charm, with an amulet of Darbha grass, to subdue enemies and win the affection of others §1",
+      "chapterRef": "542"
+    },
+    {
+      "reference": "543.1",
+      "label": "Hymn 33: A protective and benedictive charm §1",
+      "chapterRef": "543"
+    },
+    {
+      "reference": "544.1",
+      "label": "Hymn 34: A protective charm addressed to the panacea called A Jangida §1",
+      "chapterRef": "544"
+    },
+    {
+      "reference": "545.1",
+      "label": "Hymn 35: A similar charm addressed to the same §1",
+      "chapterRef": "545"
+    },
+    {
+      "reference": "546.1",
+      "label": "Hymn 36: A charm against disease and evil spirits §1",
+      "chapterRef": "546"
+    },
+    {
+      "reference": "547.1",
+      "label": "Hymn 37: A charm to secure long life and dominion to a prince §1",
+      "chapterRef": "547"
+    },
+    {
+      "reference": "548.1",
+      "label": "Hymn 38: A protective charm §1",
+      "chapterRef": "548"
+    },
+    {
+      "reference": "549.1",
+      "label": "Hymn 39: A protective charm §1",
+      "chapterRef": "549"
+    },
+    {
+      "reference": "550.1",
+      "label": "Hymn 40: A prayer for pardon of error in sacrifice, and for wisdom, strength, and life §1",
+      "chapterRef": "550"
+    },
+    {
+      "reference": "551.1",
+      "label": "Hymn 41: A benediction on a newly elected king §1",
+      "chapterRef": "551"
+    },
+    {
+      "reference": "552.1",
+      "label": "Hymn 42: In praise of Brahma, Prayer, or Devotion §1",
+      "chapterRef": "552"
+    },
+    {
+      "reference": "553.1",
+      "label": "Hymn 43: In praise of Brahma, Prayer, or Devotion §1",
+      "chapterRef": "553"
+    },
+    {
+      "reference": "554.1",
+      "label": "Hymn 44: A curative and protective charm §1",
+      "chapterRef": "554"
+    },
+    {
+      "reference": "555.1",
+      "label": "Hymn 45: A curative and protective charm §1",
+      "chapterRef": "555"
+    },
+    {
+      "reference": "556.1",
+      "label": "Hymn 46: A charm accompanying investiture with an amulet that ensures safety and victory §1",
+      "chapterRef": "556"
+    },
+    {
+      "reference": "557.1",
+      "label": "Hymn 47: A hymn to Night for protection from fiends, robbers, snakes and wolves §1",
+      "chapterRef": "557"
+    },
+    {
+      "reference": "558.1",
+      "label": "Hymn 48: A hymn to Night for protection §1",
+      "chapterRef": "558"
+    },
+    {
+      "reference": "559.1",
+      "label": "Hymn 49: A hymn of Praise and prayer to Night §1",
+      "chapterRef": "559"
+    },
+    {
+      "reference": "560.1",
+      "label": "Hymn 50: A hymn to Night for protection and prosperity §1",
+      "chapterRef": "560"
+    },
+    {
+      "reference": "561.1",
+      "label": "Hymn 51: A sacrificial formula §1",
+      "chapterRef": "561"
+    },
+    {
+      "reference": "562.1",
+      "label": "Hymn 52: A hymn to Kāma or Desire §1",
+      "chapterRef": "562"
+    },
+    {
+      "reference": "563.1",
+      "label": "Hymn 53: A hymn to Kāma or Time §1",
+      "chapterRef": "563"
+    },
+    {
+      "reference": "564.1",
+      "label": "Hymn 54: A hymn to Kāla; a continuation of the preceding hymn §1",
+      "chapterRef": "564"
+    },
+    {
+      "reference": "565.1",
+      "label": "Hymn 55: A hymn to Agni for protection and prosperity §1",
+      "chapterRef": "565"
+    },
+    {
+      "reference": "566.1",
+      "label": "Hymn 56: A hymn to Sleep §1",
+      "chapterRef": "566"
+    },
+    {
+      "reference": "567.1",
+      "label": "Hymn 57: A charm against evil dreams §1",
+      "chapterRef": "567"
+    },
+    {
+      "reference": "568.1",
+      "label": "Hymn 58: A prayer for prosperity, accompanying a sacrifice §1",
+      "chapterRef": "568"
+    },
+    {
+      "reference": "569.1",
+      "label": "Hymn 59: An expiatory hymn accompanying sacrifice §1",
+      "chapterRef": "569"
+    },
+    {
+      "reference": "570.1",
+      "label": "Hymn 60: A prayer for perfect bodily and mental health and vigour §1",
+      "chapterRef": "570"
+    },
+    {
+      "reference": "571.1",
+      "label": "Hymn 61: A prayer for long life prosperity and final happiness in heaven §1",
+      "chapterRef": "571"
+    },
+    {
+      "reference": "572.1",
+      "label": "Hymn 62: A prayer for the love of Gods and men §1",
+      "chapterRef": "572"
+    },
+    {
+      "reference": "573.1",
+      "label": "Hymn 63: A prayer, with sacrifice, for long life and prosperity §1",
+      "chapterRef": "573"
+    },
+    {
+      "reference": "574.1",
+      "label": "Hymn 64: A prayer to Agni for children, long life, and various blessings §1",
+      "chapterRef": "574"
+    },
+    {
+      "reference": "575.1",
+      "label": "Hymn 65: A hymn to Agni identified with the Sun §1",
+      "chapterRef": "575"
+    },
+    {
+      "reference": "576.1",
+      "label": "Hymn 66: A hymn to Agni as the Sun §1",
+      "chapterRef": "576"
+    },
+    {
+      "reference": "577.1",
+      "label": "Hymn 67: A prayer for long life §1",
+      "chapterRef": "577"
+    },
+    {
+      "reference": "578.1",
+      "label": "Hymn 68: A preliminary sacrificial formula §1",
+      "chapterRef": "578"
+    },
+    {
+      "reference": "579.1",
+      "label": "Hymn 69: A prayer or charm for long life §1",
+      "chapterRef": "579"
+    },
+    {
+      "reference": "580.1",
+      "label": "Hymn 70: A charm for long life §1",
+      "chapterRef": "580"
+    },
+    {
+      "reference": "581.1",
+      "label": "Hymn 71: A hymn, accompanying libations, for wealth and prosperity §1",
+      "chapterRef": "581"
+    },
+    {
+      "reference": "582.1",
+      "label": "Hymn 72: A sacrificial formula §1",
+      "chapterRef": "582"
+    },
+    {
+      "reference": "583.1",
+      "label": "Hymn 1 §1",
+      "chapterRef": "583"
+    },
+    {
+      "reference": "584.1",
+      "label": "Hymn 2 §1",
+      "chapterRef": "584"
+    },
+    {
+      "reference": "585.1",
+      "label": "Hymn 3 (2) §1",
+      "chapterRef": "585"
+    },
+    {
+      "reference": "586.1",
+      "label": "Hymn 4 (2) §1",
+      "chapterRef": "586"
+    },
+    {
+      "reference": "587.1",
+      "label": "Hymn 5 (2) §1",
+      "chapterRef": "587"
+    },
+    {
+      "reference": "588.1",
+      "label": "Hymn 6 (2) §1",
+      "chapterRef": "588"
+    },
+    {
+      "reference": "589.1",
+      "label": "Hymn 7 (2) §1",
+      "chapterRef": "589"
+    },
+    {
+      "reference": "590.1",
+      "label": "Hymn 8 (2) §1",
+      "chapterRef": "590"
+    },
+    {
+      "reference": "591.1",
+      "label": "Hymn 9 (2) §1",
+      "chapterRef": "591"
+    },
+    {
+      "reference": "592.1",
+      "label": "Hymn 10 (2) §1",
+      "chapterRef": "592"
+    },
+    {
+      "reference": "593.1",
+      "label": "Hymn 11 (2) §1",
+      "chapterRef": "593"
+    },
+    {
+      "reference": "594.1",
+      "label": "Hymn 12 (2) §1",
+      "chapterRef": "594"
+    },
+    {
+      "reference": "595.1",
+      "label": "Hymn 13 (2) §1",
+      "chapterRef": "595"
+    },
+    {
+      "reference": "596.1",
+      "label": "Hymn 14 (2) §1",
+      "chapterRef": "596"
+    },
+    {
+      "reference": "597.1",
+      "label": "Hymn 15 (2) §1",
+      "chapterRef": "597"
+    },
+    {
+      "reference": "598.1",
+      "label": "Hymn 16 (2) §1",
+      "chapterRef": "598"
+    },
+    {
+      "reference": "599.1",
+      "label": "Hymn 17 (2) §1",
+      "chapterRef": "599"
+    },
+    {
+      "reference": "600.1",
+      "label": "Hymn 18 (2) §1",
+      "chapterRef": "600"
+    },
+    {
+      "reference": "601.1",
+      "label": "Hymn 19 §1",
+      "chapterRef": "601"
+    },
+    {
+      "reference": "602.1",
+      "label": "Hymn 20 §1",
+      "chapterRef": "602"
+    },
+    {
+      "reference": "603.1",
+      "label": "Hymn 21 §1",
+      "chapterRef": "603"
+    },
+    {
+      "reference": "604.1",
+      "label": "Hymn 22 §1",
+      "chapterRef": "604"
+    },
+    {
+      "reference": "605.1",
+      "label": "Hymn 23 §1",
+      "chapterRef": "605"
+    },
+    {
+      "reference": "606.1",
+      "label": "Hymn 24 §1",
+      "chapterRef": "606"
+    },
+    {
+      "reference": "607.1",
+      "label": "Hymn 25 §1",
+      "chapterRef": "607"
+    },
+    {
+      "reference": "608.1",
+      "label": "Hymn 26 §1",
+      "chapterRef": "608"
+    },
+    {
+      "reference": "609.1",
+      "label": "Hymn 27 §1",
+      "chapterRef": "609"
+    },
+    {
+      "reference": "610.1",
+      "label": "Hymn 28 §1",
+      "chapterRef": "610"
+    },
+    {
+      "reference": "611.1",
+      "label": "Hymn 29 §1",
+      "chapterRef": "611"
+    },
+    {
+      "reference": "612.1",
+      "label": "Hymn 30 §1",
+      "chapterRef": "612"
+    },
+    {
+      "reference": "613.1",
+      "label": "Hymn 31 §1",
+      "chapterRef": "613"
+    },
+    {
+      "reference": "614.1",
+      "label": "Hymn 32 §1",
+      "chapterRef": "614"
+    },
+    {
+      "reference": "615.1",
+      "label": "Hymn 33 (2) §1",
+      "chapterRef": "615"
+    },
+    {
+      "reference": "616.1",
+      "label": "Hymn 34 §1",
+      "chapterRef": "616"
+    },
+    {
+      "reference": "617.1",
+      "label": "Hymn 35 §1",
+      "chapterRef": "617"
+    },
+    {
+      "reference": "618.1",
+      "label": "Hymn 36 §1",
+      "chapterRef": "618"
+    },
+    {
+      "reference": "619.1",
+      "label": "Hymn 37 §1",
+      "chapterRef": "619"
+    },
+    {
+      "reference": "620.1",
+      "label": "Hymn 38 §1",
+      "chapterRef": "620"
+    },
+    {
+      "reference": "620.2",
+      "label": "Hymn 38 §2",
+      "chapterRef": "620"
+    },
+    {
+      "reference": "621.1",
+      "label": "Hymn 39 §1",
+      "chapterRef": "621"
+    },
+    {
+      "reference": "622.1",
+      "label": "Hymn 40 §1",
+      "chapterRef": "622"
+    },
+    {
+      "reference": "623.1",
+      "label": "Hymn 41 §1",
+      "chapterRef": "623"
+    },
+    {
+      "reference": "624.1",
+      "label": "Hymn 42 §1",
+      "chapterRef": "624"
+    },
+    {
+      "reference": "625.1",
+      "label": "Hymn 43 §1",
+      "chapterRef": "625"
+    },
+    {
+      "reference": "626.1",
+      "label": "Hymn 44 §1",
+      "chapterRef": "626"
+    },
+    {
+      "reference": "627.1",
+      "label": "Hymn 45 §1",
+      "chapterRef": "627"
+    },
+    {
+      "reference": "628.1",
+      "label": "Hymn 46 §1",
+      "chapterRef": "628"
+    },
+    {
+      "reference": "629.1",
+      "label": "Hymn 47 §1",
+      "chapterRef": "629"
+    },
+    {
+      "reference": "630.1",
+      "label": "Hymn 48 §1",
+      "chapterRef": "630"
+    },
+    {
+      "reference": "631.1",
+      "label": "Hymn 49 §1",
+      "chapterRef": "631"
+    },
+    {
+      "reference": "632.1",
+      "label": "Hymn 50 §1",
+      "chapterRef": "632"
+    },
+    {
+      "reference": "633.1",
+      "label": "Hymn 51 §1",
+      "chapterRef": "633"
+    },
+    {
+      "reference": "634.1",
+      "label": "Hymn 52 §1",
+      "chapterRef": "634"
+    },
+    {
+      "reference": "635.1",
+      "label": "Hymn 53 §1",
+      "chapterRef": "635"
+    },
+    {
+      "reference": "636.1",
+      "label": "Hymn 54 §1",
+      "chapterRef": "636"
+    },
+    {
+      "reference": "637.1",
+      "label": "Hymn 55 §1",
+      "chapterRef": "637"
+    },
+    {
+      "reference": "638.1",
+      "label": "Hymn 56 §1",
+      "chapterRef": "638"
+    },
+    {
+      "reference": "639.1",
+      "label": "Hymn 57 §1",
+      "chapterRef": "639"
+    },
+    {
+      "reference": "640.1",
+      "label": "Hymn 58 §1",
+      "chapterRef": "640"
+    },
+    {
+      "reference": "641.1",
+      "label": "Hymn 59 §1",
+      "chapterRef": "641"
+    },
+    {
+      "reference": "642.1",
+      "label": "Hymn 60 §1",
+      "chapterRef": "642"
+    },
+    {
+      "reference": "643.1",
+      "label": "Hymn 61 §1",
+      "chapterRef": "643"
+    },
+    {
+      "reference": "644.1",
+      "label": "Hymn 62 §1",
+      "chapterRef": "644"
+    },
+    {
+      "reference": "645.1",
+      "label": "Hymn 63 §1",
+      "chapterRef": "645"
+    },
+    {
+      "reference": "646.1",
+      "label": "Hymn 64 §1",
+      "chapterRef": "646"
+    },
+    {
+      "reference": "647.1",
+      "label": "Hymn 65 §1",
+      "chapterRef": "647"
+    },
+    {
+      "reference": "648.1",
+      "label": "Hymn 66 §1",
+      "chapterRef": "648"
+    },
+    {
+      "reference": "649.1",
+      "label": "Hymn 67 §1",
+      "chapterRef": "649"
+    },
+    {
+      "reference": "650.1",
+      "label": "Hymn 68 §1",
+      "chapterRef": "650"
+    },
+    {
+      "reference": "651.1",
+      "label": "Hymn 69 §1",
+      "chapterRef": "651"
+    },
+    {
+      "reference": "652.1",
+      "label": "Hymn 70 §1",
+      "chapterRef": "652"
+    },
+    {
+      "reference": "653.1",
+      "label": "Hymn 71 §1",
+      "chapterRef": "653"
+    },
+    {
+      "reference": "654.1",
+      "label": "Hymn 72 §1",
+      "chapterRef": "654"
+    },
+    {
+      "reference": "655.1",
+      "label": "Hymn 73 §1",
+      "chapterRef": "655"
+    },
+    {
+      "reference": "656.1",
+      "label": "Hymn 74 §1",
+      "chapterRef": "656"
+    },
+    {
+      "reference": "657.1",
+      "label": "Hymn 75 §1",
+      "chapterRef": "657"
+    },
+    {
+      "reference": "658.1",
+      "label": "Hymn 76 §1",
+      "chapterRef": "658"
+    },
+    {
+      "reference": "659.1",
+      "label": "Hymn 77 §1",
+      "chapterRef": "659"
+    },
+    {
+      "reference": "660.1",
+      "label": "Hymn 78 §1",
+      "chapterRef": "660"
+    },
+    {
+      "reference": "661.1",
+      "label": "Hymn 79 §1",
+      "chapterRef": "661"
+    },
+    {
+      "reference": "662.1",
+      "label": "Hymn 80 §1",
+      "chapterRef": "662"
+    },
+    {
+      "reference": "663.1",
+      "label": "Hymn 81 §1",
+      "chapterRef": "663"
+    },
+    {
+      "reference": "664.1",
+      "label": "Hymn 82 §1",
+      "chapterRef": "664"
+    },
+    {
+      "reference": "665.1",
+      "label": "Hymn 83 §1",
+      "chapterRef": "665"
+    },
+    {
+      "reference": "666.1",
+      "label": "Hymn 84 §1",
+      "chapterRef": "666"
+    },
+    {
+      "reference": "667.1",
+      "label": "Hymn 85 §1",
+      "chapterRef": "667"
+    },
+    {
+      "reference": "668.1",
+      "label": "Hymn 86 §1",
+      "chapterRef": "668"
+    },
+    {
+      "reference": "669.1",
+      "label": "Hymn 87 §1",
+      "chapterRef": "669"
+    },
+    {
+      "reference": "670.1",
+      "label": "Hymn 88 §1",
+      "chapterRef": "670"
+    },
+    {
+      "reference": "671.1",
+      "label": "Hymn 89 §1",
+      "chapterRef": "671"
+    },
+    {
+      "reference": "672.1",
+      "label": "Hymn 90 §1",
+      "chapterRef": "672"
+    },
+    {
+      "reference": "673.1",
+      "label": "Hymn 91 §1",
+      "chapterRef": "673"
+    },
+    {
+      "reference": "674.1",
+      "label": "Hymn 92 §1",
+      "chapterRef": "674"
+    },
+    {
+      "reference": "675.1",
+      "label": "Hymn 93 §1",
+      "chapterRef": "675"
+    },
+    {
+      "reference": "676.1",
+      "label": "Hymn 94 §1",
+      "chapterRef": "676"
+    },
+    {
+      "reference": "677.1",
+      "label": "Hymn 95 §1",
+      "chapterRef": "677"
+    },
+    {
+      "reference": "678.1",
+      "label": "Hymn 96 §1",
+      "chapterRef": "678"
+    },
+    {
+      "reference": "679.1",
+      "label": "Hymn 97 §1",
+      "chapterRef": "679"
+    },
+    {
+      "reference": "680.1",
+      "label": "Hymn 98 §1",
+      "chapterRef": "680"
+    },
+    {
+      "reference": "681.1",
+      "label": "Hymn 99 §1",
+      "chapterRef": "681"
+    },
+    {
+      "reference": "682.1",
+      "label": "Hymn 100 §1",
+      "chapterRef": "682"
+    },
+    {
+      "reference": "683.1",
+      "label": "Hymn 101 §1",
+      "chapterRef": "683"
+    },
+    {
+      "reference": "684.1",
+      "label": "Hymn 102 §1",
+      "chapterRef": "684"
+    },
+    {
+      "reference": "685.1",
+      "label": "Hymn 103 §1",
+      "chapterRef": "685"
+    },
+    {
+      "reference": "686.1",
+      "label": "Hymn 104 §1",
+      "chapterRef": "686"
+    },
+    {
+      "reference": "687.1",
+      "label": "Hymn 105 §1",
+      "chapterRef": "687"
+    },
+    {
+      "reference": "688.1",
+      "label": "Hymn 106 §1",
+      "chapterRef": "688"
+    },
+    {
+      "reference": "689.1",
+      "label": "Hymn 107 §1",
+      "chapterRef": "689"
+    },
+    {
+      "reference": "690.1",
+      "label": "Hymn 108 §1",
+      "chapterRef": "690"
+    },
+    {
+      "reference": "691.1",
+      "label": "Hymn 109 §1",
+      "chapterRef": "691"
+    },
+    {
+      "reference": "692.1",
+      "label": "Hymn 110 §1",
+      "chapterRef": "692"
+    },
+    {
+      "reference": "693.1",
+      "label": "Hymn 111 §1",
+      "chapterRef": "693"
+    },
+    {
+      "reference": "694.1",
+      "label": "Hymn 112 §1",
+      "chapterRef": "694"
+    },
+    {
+      "reference": "695.1",
+      "label": "Hymn 113 §1",
+      "chapterRef": "695"
+    },
+    {
+      "reference": "696.1",
+      "label": "Hymn 114 §1",
+      "chapterRef": "696"
+    },
+    {
+      "reference": "697.1",
+      "label": "Hymn 115 §1",
+      "chapterRef": "697"
+    },
+    {
+      "reference": "698.1",
+      "label": "Hymn 116 §1",
+      "chapterRef": "698"
+    },
+    {
+      "reference": "699.1",
+      "label": "Hymn 117 §1",
+      "chapterRef": "699"
+    },
+    {
+      "reference": "700.1",
+      "label": "Hymn 118 §1",
+      "chapterRef": "700"
+    },
+    {
+      "reference": "701.1",
+      "label": "Hymn 119 §1",
+      "chapterRef": "701"
+    },
+    {
+      "reference": "702.1",
+      "label": "Hymn 120 §1",
+      "chapterRef": "702"
+    },
+    {
+      "reference": "703.1",
+      "label": "Hymn 121 §1",
+      "chapterRef": "703"
+    },
+    {
+      "reference": "704.1",
+      "label": "Hymn 122 §1",
+      "chapterRef": "704"
+    },
+    {
+      "reference": "705.1",
+      "label": "Hymn 123 §1",
+      "chapterRef": "705"
+    },
+    {
+      "reference": "706.1",
+      "label": "Hymn 124 §1",
+      "chapterRef": "706"
+    },
+    {
+      "reference": "707.1",
+      "label": "Hymn 125 §1",
+      "chapterRef": "707"
+    },
+    {
+      "reference": "708.1",
+      "label": "Hymn 126 §1",
+      "chapterRef": "708"
+    },
+    {
+      "reference": "709.1",
+      "label": "Hymn 127: A hymn in praise of the good Government of King Kaurama §1",
+      "chapterRef": "709"
+    },
+    {
+      "reference": "710.1",
+      "label": "Hymn 128: Sacrificial formulas §1",
+      "chapterRef": "710"
+    },
+    {
+      "reference": "711.1",
+      "label": "Hymn 129 §1",
+      "chapterRef": "711"
+    },
+    {
+      "reference": "712.1",
+      "label": "Hymn 130 §1",
+      "chapterRef": "712"
+    },
+    {
+      "reference": "713.1",
+      "label": "Hymn 131 §1",
+      "chapterRef": "713"
+    },
+    {
+      "reference": "714.1",
+      "label": "Hymn 132 §1",
+      "chapterRef": "714"
+    },
+    {
+      "reference": "715.1",
+      "label": "Hymn 133: The Enigmatical Verses §1",
+      "chapterRef": "715"
+    },
+    {
+      "reference": "716.1",
+      "label": "Hymn 134: The Ajijnasenya Verses §1",
+      "chapterRef": "716"
+    },
+    {
+      "reference": "717.1",
+      "label": "Hymn 135: Verses called Frustration, Abuse, the Gods' Offering, and Dazzling Power §1",
+      "chapterRef": "717"
+    },
+    {
+      "reference": "718.1",
+      "label": "Hymn 136: Erotica §1",
+      "chapterRef": "718"
+    },
+    {
+      "reference": "719.1",
+      "label": "Hymn 137: A composite hymn in praise of Indra §1",
+      "chapterRef": "719"
+    },
+    {
+      "reference": "720.1",
+      "label": "Hymn 138: In praise of Indra §1",
+      "chapterRef": "720"
+    },
+    {
+      "reference": "721.1",
+      "label": "Hymn 139: A hymn to the Asvins §1",
+      "chapterRef": "721"
+    },
+    {
+      "reference": "722.1",
+      "label": "Hymn 140: Continuation of the preceding hymn to the Asvins §1",
+      "chapterRef": "722"
+    },
+    {
+      "reference": "723.1",
+      "label": "Hymn 141: Hymn to the Asvins §1",
+      "chapterRef": "723"
+    },
+    {
+      "reference": "724.1",
+      "label": "Hymn 142: Hymn to Dawn and the Asvins §1",
+      "chapterRef": "724"
+    },
+    {
+      "reference": "725.1",
+      "label": "Hymn 143: Hymn to the Asvins §1",
+      "chapterRef": "725"
+    }
+  ],
+  "editions": [
+    {
+      "slug": "atharvaveda-en",
+      "language": "en",
+      "editionType": "translation",
+      "title": "The Hymns of the Atharvaveda",
+      "translator": "Ralph T. H. Griffith",
+      "publisher": "Internet Sacred Text Archive",
+      "publicationYear": 1895,
+      "source": "sacred-texts",
+      "license": "public-domain",
+      "rightsStatus": "Public domain in the United States",
+      "attributionText": "The Hymns of the Atharvaveda, translated by Ralph T. H. Griffith (1895). The Hymns of the Atharvaveda, 2 vols.. Public domain in the United States. Digital text from the Internet Sacred Text Archive.",
+      "structureScheme": "book and paragraph index; each chapter is one printed book",
+      "isSample": false,
+      "notes": "The import cache stores the exact segments that were validated. The reader re-fetches the chapter from the host and reports when the served count no longer matches the index."
+    }
+  ]
+}

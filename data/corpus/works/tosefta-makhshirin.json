@@ -1,0 +1,188 @@
+{
+  "slug": "tosefta-makhshirin",
+  "title": "Tosefta Makhshirin",
+  "originalTitle": "תוספתא מכשירין",
+  "transliteration": "",
+  "altTitles": [],
+  "tradition": "judaism",
+  "school": "rabbinic-judaism",
+  "genre": "Tosefta",
+  "textType": "Tosefta",
+  "category": "Tosefta",
+  "subcategory": "Seder Tahorot",
+  "originalLanguage": "he",
+  "dateStart": 200,
+  "dateEnd": 300,
+  "dateDisplay": "Compiled c. 250 CE",
+  "authorshipStatus": "composite",
+  "author": "",
+  "attributionNote": "The Sefaria catalogue records this as a composite or traditionally transmitted work. Authorship is not asserted here beyond the source's own metadata.",
+  "description": "Water, oil, milk, wine, honey, dew, or blood touching food and rendering it susceptible to impurity. Complete Tosefta text imported from Sefaria; the exact edition and licence are shown with each version.",
+  "historicalContext": "The Tosefta is a collection of rabbinic traditions parallel to and supplementing the Mishnah. Its relationship to the Mishnah is debated; it is presented here as a distinct legal corpus.",
+  "availabilityNote": "Imported from Sefaria. Version, source and licence are recorded per edition.",
+  "featured": false,
+  "featuredNote": "",
+  "refScheme": "chapter.paragraph",
+  "isSample": false,
+  "textStorage": "streamed",
+  "chapters": [
+    {
+      "ref": "1",
+      "label": "Chapter 1"
+    },
+    {
+      "ref": "2",
+      "label": "Chapter 2"
+    },
+    {
+      "ref": "3",
+      "label": "Chapter 3"
+    }
+  ],
+  "passages": [
+    {
+      "reference": "1.1",
+      "label": "1:1",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.2",
+      "label": "1:2",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.3",
+      "label": "1:3",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.4",
+      "label": "1:4",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.5",
+      "label": "1:5",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.6",
+      "label": "1:6",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.7",
+      "label": "1:7",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "2.1",
+      "label": "2:1",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.2",
+      "label": "2:2",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.3",
+      "label": "2:3",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.4",
+      "label": "2:4",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.5",
+      "label": "2:5",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.6",
+      "label": "2:6",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "3.1",
+      "label": "3:1",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.2",
+      "label": "3:2",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.3",
+      "label": "3:3",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.4",
+      "label": "3:4",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.5",
+      "label": "3:5",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.6",
+      "label": "3:6",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.7",
+      "label": "3:7",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.8",
+      "label": "3:8",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.9",
+      "label": "3:9",
+      "chapterRef": "3"
+    }
+  ],
+  "editions": [
+    {
+      "slug": "tosefta-makhshirin-hebrew-sefaria",
+      "language": "he",
+      "editionType": "original",
+      "title": "Tosefta Makhshirin - Machon Mamre",
+      "translator": "",
+      "publisher": "http://www.mechon-mamre.org/b/f/f68.htm",
+      "publicationYear": null,
+      "source": "sefaria",
+      "license": "public-domain",
+      "rightsStatus": "Public Domain",
+      "attributionText": "Tosefta Makhshirin - Machon Mamre; licence: Public Domain; source: http://www.mechon-mamre.org/b/f/f68.htm. Retrieved via Sefaria on 2026-10-20.",
+      "structureScheme": "chapter and paragraph",
+      "isSample": false,
+      "notes": "Complete work imported from Sefaria. Text is displayed as supplied by the named edition; HTML markup has been removed."
+    },
+    {
+      "slug": "tosefta-makhshirin-english-sefaria-1",
+      "language": "en",
+      "editionType": "translation",
+      "title": "Sefaria Community Translation",
+      "translator": "",
+      "publisher": "https://www.sefaria.org",
+      "publicationYear": null,
+      "source": "sefaria",
+      "license": "unknown",
+      "rightsStatus": "unknown",
+      "attributionText": "Sefaria Community Translation; licence: unknown; source: https://www.sefaria.org. Retrieved via Sefaria on 2026-10-20.",
+      "structureScheme": "chapter and paragraph",
+      "isSample": false,
+      "notes": "Complete work imported from Sefaria. Text is displayed as supplied by the named edition; HTML markup has been removed."
+    }
+  ]
+}

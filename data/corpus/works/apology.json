@@ -1,0 +1,65 @@
+{
+  "slug": "apology",
+  "title": "Apology of Socrates",
+  "originalTitle": "Ἀπολογία Σωκράτους",
+  "transliteration": "Apologia Sōkratous",
+  "altTitles": [
+    "Plato's Apology",
+    "The Apology"
+  ],
+  "tradition": "greek-roman",
+  "school": "platonism",
+  "genre": "Philosophy",
+  "textType": "Defence speech / dialogue",
+  "category": "Philosophy",
+  "subcategory": "Defence speech / dialogue",
+  "originalLanguage": "grc",
+  "dateStart": -399,
+  "dateEnd": -390,
+  "dateDisplay": "c. 399–390 BCE",
+  "authorshipStatus": "established",
+  "author": "plato",
+  "attributionNote": "Written by Plato as a literary account of Socrates' defence before the Athenian court. It is not a verbatim transcript, and its relationship to the historical Socrates is debated.",
+  "description": "Plato's Apology dramatises Socrates' defence against charges of impiety and corrupting the young. Near the end, Socrates explains why he would not abandon his examined life even to avoid death.",
+  "historicalContext": "The trial took place in 399 BCE amid Athens' post-war instability. The Apology became a foundational text for the philosophical life and for later debates about civil disobedience and free inquiry.",
+  "availabilityNote": "",
+  "featured": false,
+  "featuredNote": "",
+  "refScheme": "Stephanus page",
+  "isSample": true,
+  "textStorage": "local",
+  "chapters": [
+    {
+      "ref": "38",
+      "label": "Stephanus 38"
+    }
+  ],
+  "passages": [
+    {
+      "reference": "38a",
+      "label": "38a",
+      "chapterRef": "38"
+    }
+  ],
+  "editions": [
+    {
+      "slug": "apology-en-jowett",
+      "language": "en",
+      "editionType": "translation",
+      "title": "Apology, translated by Benjamin Jowett",
+      "translator": "Benjamin Jowett",
+      "publisher": "Project Gutenberg edition",
+      "publicationYear": 1871,
+      "source": "project-gutenberg",
+      "license": "public-domain",
+      "rightsStatus": "Public domain",
+      "attributionText": "Apology, translated by Benjamin Jowett (1871). Public domain. Text from Project Gutenberg eBook #1656.",
+      "structureScheme": "Stephanus page",
+      "isSample": true,
+      "notes": "Jowett's Victorian translation. Demonstration edition contains English only; a Greek source text is not yet imported. The reference '38a' follows the standard Stephanus pagination.",
+      "texts": {
+        "38a": "For if I tell you that to do as you say would be a disobedience to the God, and therefore that I cannot hold my tongue, you will not believe that I am serious; and if I say again that daily to discourse about virtue, and of those other things about which you hear me examining myself and others, is the greatest good of man, and that the unexamined life is not worth living, you are still less likely to believe me."
+      }
+    }
+  ]
+}

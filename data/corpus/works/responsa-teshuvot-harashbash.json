@@ -1,0 +1,104 @@
+{
+  "slug": "responsa-teshuvot-harashbash",
+  "title": "Teshuvot HaRashbash",
+  "originalTitle": "תשובות הרשב\"ש",
+  "transliteration": "",
+  "altTitles": [],
+  "tradition": "judaism",
+  "school": "rabbinic-judaism",
+  "genre": "Responsa",
+  "textType": "Responsa collection",
+  "category": "Responsa",
+  "subcategory": "Rishonim",
+  "originalLanguage": "he",
+  "dateStart": 700,
+  "dateEnd": 1950,
+  "dateDisplay": "Responsa literature, c. 700–1950 CE",
+  "authorshipStatus": "established",
+  "author": "",
+  "attributionNote": "Authorship follows the Sefaria catalogue record for this work. Where a text is traditionally attributed or collectively compiled, the library does not assert a single author beyond the source's own metadata.",
+  "description": "15th-century responsa of Rav Shlomo Duran, son of the Tashbetz. Complete Responsa text imported from Sefaria; the exact edition and licence are shown with each version.",
+  "historicalContext": "Responsa are written answers to specific legal questions, addressed by a scholar to a community or an individual. A responsum is a dated, situated ruling and is presented with its collection rather than as a universal statute.",
+  "availabilityNote": "Imported from Sefaria. Version, source and licence are recorded per edition.",
+  "featured": false,
+  "featuredNote": "",
+  "refScheme": "chapter.paragraph",
+  "isSample": false,
+  "textStorage": "streamed",
+  "chapters": [
+    {
+      "ref": "16",
+      "label": "Teshuva 16"
+    },
+    {
+      "ref": "1008",
+      "label": "Teshuva 1008"
+    }
+  ],
+  "passages": [
+    {
+      "reference": "16.1",
+      "label": "16:1",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.2",
+      "label": "16:2",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.3",
+      "label": "16:3",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.4",
+      "label": "16:4",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.5",
+      "label": "16:5",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "1008.1",
+      "label": "1008:1",
+      "chapterRef": "1008"
+    }
+  ],
+  "editions": [
+    {
+      "slug": "responsa-teshuvot-harashbash-hebrew-sefaria",
+      "language": "he",
+      "editionType": "original",
+      "title": "Teshuvot HaRashbash, Livorno, 1742",
+      "translator": "",
+      "publisher": "https://www.nli.org.il/he/books/NNL_ALEPH001872750 ",
+      "publicationYear": null,
+      "source": "sefaria",
+      "license": "unknown",
+      "rightsStatus": "unknown",
+      "attributionText": "Teshuvot HaRashbash, Livorno, 1742; licence: unknown; source: https://www.nli.org.il/he/books/NNL_ALEPH001872750 . Retrieved via Sefaria on 2026-10-20.",
+      "structureScheme": "chapter and paragraph",
+      "isSample": false,
+      "notes": "Complete work imported from Sefaria. Text is displayed as supplied by the named edition; HTML markup has been removed."
+    },
+    {
+      "slug": "responsa-teshuvot-harashbash-english-sefaria-1",
+      "language": "en",
+      "editionType": "translation",
+      "title": "Sefaria Responsa Anthology",
+      "translator": "",
+      "publisher": "https://www.sefaria.org",
+      "publicationYear": null,
+      "source": "sefaria",
+      "license": "cc-by",
+      "rightsStatus": "CC-BY",
+      "attributionText": "Sefaria Responsa Anthology; licence: CC-BY; source: https://www.sefaria.org. Retrieved via Sefaria on 2026-10-20.",
+      "structureScheme": "chapter and paragraph",
+      "isSample": false,
+      "notes": "Complete work imported from Sefaria. Text is displayed as supplied by the named edition; HTML markup has been removed."
+    }
+  ]
+}

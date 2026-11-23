@@ -1,0 +1,2353 @@
+{
+  "slug": "liehzi",
+  "title": "Liezi",
+  "originalTitle": "列子",
+  "transliteration": "Lièzǐ",
+  "altTitles": [
+    "Lieh Tzu",
+    "The Book of Lieh-Tzü",
+    "Taoist Teachings from the Book of Lieh-Tzü",
+    "Chongxu zhenjing"
+  ],
+  "tradition": "taoism",
+  "school": "daoist",
+  "genre": "Philosophy",
+  "textType": "Parables and speculative anecdotes",
+  "category": "Philosophy",
+  "subcategory": "Daoist classics",
+  "originalLanguage": "zh",
+  "dateStart": -400,
+  "dateEnd": -300,
+  "dateDisplay": "c. 4th century BCE, with later layers",
+  "authorshipStatus": "composite",
+  "author": "liezi",
+  "attributionNote": "The book is named for Lie Yukou, a shadowy figure of the fourth century BCE whom the Zhuangzi presents as a master of the Dao. The received text is a later compilation, probably assembled in the third or fourth century CE from older material; its eight books were edited and annotated by Zhang Zhan.",
+  "description": "The Liezi is the third of the classical Daoist books: a collection of stories and arguments on cosmogony, the Yellow Emperor's dream journeys, the relativity of waking and dreaming, Confucius as a teacher of the Dao, the questions of Pang, effort and destiny, and causality. Its fables are among the most famous in Chinese literature, and its calm, sceptical voice extends the Zhuangzi's themes into a distinct metaphysics of change.",
+  "historicalContext": "Zhang Zhan's fourth-century edition and commentary established the text, whose antiquity and authenticity have been debated since the Song. Lionel Giles translated this selection for the Wisdom of the East series in 1912. His seven books follow the eight-book recension but omit the seventh, the Yang Chu chapter, which he published separately as Yang Chu's Garden of Pleasure.",
+  "availabilityNote": "Selected translation. The seven books Giles translated are streamed from the Internet Sacred Text Archive at read time, one book per chapter. The omitted Yang Chu book is a separate work in this library in the same translator's version; the eighth book, 'Explaining Conjunctions', is not in this edition. Giles's editorial note and introduction are not part of the work.",
+  "featured": false,
+  "featuredNote": "",
+  "refScheme": "book.paragraph",
+  "isSample": false,
+  "textStorage": "streamed",
+  "chapters": [
+    {
+      "ref": "1",
+      "label": "Book I: Cosmogony"
+    },
+    {
+      "ref": "2",
+      "label": "Book II: The Yellow Emperor"
+    },
+    {
+      "ref": "3",
+      "label": "Book III: Dreams"
+    },
+    {
+      "ref": "4",
+      "label": "Book IV: Confucius"
+    },
+    {
+      "ref": "5",
+      "label": "Book V: The Questions of Pang"
+    },
+    {
+      "ref": "6",
+      "label": "Book VI: Effort and Destiny"
+    },
+    {
+      "ref": "7",
+      "label": "Book VII: Causality"
+    }
+  ],
+  "passages": [
+    {
+      "reference": "1.1",
+      "label": "Book I: Cosmogony §1",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.2",
+      "label": "Book I: Cosmogony §2",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.3",
+      "label": "Book I: Cosmogony §3",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.4",
+      "label": "Book I: Cosmogony §4",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.5",
+      "label": "Book I: Cosmogony §5",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.6",
+      "label": "Book I: Cosmogony §6",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.7",
+      "label": "Book I: Cosmogony §7",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.8",
+      "label": "Book I: Cosmogony §8",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.9",
+      "label": "Book I: Cosmogony §9",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.10",
+      "label": "Book I: Cosmogony §10",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.11",
+      "label": "Book I: Cosmogony §11",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.12",
+      "label": "Book I: Cosmogony §12",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.13",
+      "label": "Book I: Cosmogony §13",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.14",
+      "label": "Book I: Cosmogony §14",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.15",
+      "label": "Book I: Cosmogony §15",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.16",
+      "label": "Book I: Cosmogony §16",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.17",
+      "label": "Book I: Cosmogony §17",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.18",
+      "label": "Book I: Cosmogony §18",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.19",
+      "label": "Book I: Cosmogony §19",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.20",
+      "label": "Book I: Cosmogony §20",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.21",
+      "label": "Book I: Cosmogony §21",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.22",
+      "label": "Book I: Cosmogony §22",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.23",
+      "label": "Book I: Cosmogony §23",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.24",
+      "label": "Book I: Cosmogony §24",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.25",
+      "label": "Book I: Cosmogony §25",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.26",
+      "label": "Book I: Cosmogony §26",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.27",
+      "label": "Book I: Cosmogony §27",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.28",
+      "label": "Book I: Cosmogony §28",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.29",
+      "label": "Book I: Cosmogony §29",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.30",
+      "label": "Book I: Cosmogony §30",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.31",
+      "label": "Book I: Cosmogony §31",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.32",
+      "label": "Book I: Cosmogony §32",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.33",
+      "label": "Book I: Cosmogony §33",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.34",
+      "label": "Book I: Cosmogony §34",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.35",
+      "label": "Book I: Cosmogony §35",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.36",
+      "label": "Book I: Cosmogony §36",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.37",
+      "label": "Book I: Cosmogony §37",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.38",
+      "label": "Book I: Cosmogony §38",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.39",
+      "label": "Book I: Cosmogony §39",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.40",
+      "label": "Book I: Cosmogony §40",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.41",
+      "label": "Book I: Cosmogony §41",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.42",
+      "label": "Book I: Cosmogony §42",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.43",
+      "label": "Book I: Cosmogony §43",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.44",
+      "label": "Book I: Cosmogony §44",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.45",
+      "label": "Book I: Cosmogony §45",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.46",
+      "label": "Book I: Cosmogony §46",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.47",
+      "label": "Book I: Cosmogony §47",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.48",
+      "label": "Book I: Cosmogony §48",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.49",
+      "label": "Book I: Cosmogony §49",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.50",
+      "label": "Book I: Cosmogony §50",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.51",
+      "label": "Book I: Cosmogony §51",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.52",
+      "label": "Book I: Cosmogony §52",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.53",
+      "label": "Book I: Cosmogony §53",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.54",
+      "label": "Book I: Cosmogony §54",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.55",
+      "label": "Book I: Cosmogony §55",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.56",
+      "label": "Book I: Cosmogony §56",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.57",
+      "label": "Book I: Cosmogony §57",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.58",
+      "label": "Book I: Cosmogony §58",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.59",
+      "label": "Book I: Cosmogony §59",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.60",
+      "label": "Book I: Cosmogony §60",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.61",
+      "label": "Book I: Cosmogony §61",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.62",
+      "label": "Book I: Cosmogony §62",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.63",
+      "label": "Book I: Cosmogony §63",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.64",
+      "label": "Book I: Cosmogony §64",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.65",
+      "label": "Book I: Cosmogony §65",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.66",
+      "label": "Book I: Cosmogony §66",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.67",
+      "label": "Book I: Cosmogony §67",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.68",
+      "label": "Book I: Cosmogony §68",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.69",
+      "label": "Book I: Cosmogony §69",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.70",
+      "label": "Book I: Cosmogony §70",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.71",
+      "label": "Book I: Cosmogony §71",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.72",
+      "label": "Book I: Cosmogony §72",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.73",
+      "label": "Book I: Cosmogony §73",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.74",
+      "label": "Book I: Cosmogony §74",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.75",
+      "label": "Book I: Cosmogony §75",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.76",
+      "label": "Book I: Cosmogony §76",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.77",
+      "label": "Book I: Cosmogony §77",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.78",
+      "label": "Book I: Cosmogony §78",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.79",
+      "label": "Book I: Cosmogony §79",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.80",
+      "label": "Book I: Cosmogony §80",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.81",
+      "label": "Book I: Cosmogony §81",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.82",
+      "label": "Book I: Cosmogony §82",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.83",
+      "label": "Book I: Cosmogony §83",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.84",
+      "label": "Book I: Cosmogony §84",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.85",
+      "label": "Book I: Cosmogony §85",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.86",
+      "label": "Book I: Cosmogony §86",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.87",
+      "label": "Book I: Cosmogony §87",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "2.1",
+      "label": "Book II: The Yellow Emperor §1",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.2",
+      "label": "Book II: The Yellow Emperor §2",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.3",
+      "label": "Book II: The Yellow Emperor §3",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.4",
+      "label": "Book II: The Yellow Emperor §4",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.5",
+      "label": "Book II: The Yellow Emperor §5",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.6",
+      "label": "Book II: The Yellow Emperor §6",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.7",
+      "label": "Book II: The Yellow Emperor §7",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.8",
+      "label": "Book II: The Yellow Emperor §8",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.9",
+      "label": "Book II: The Yellow Emperor §9",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.10",
+      "label": "Book II: The Yellow Emperor §10",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.11",
+      "label": "Book II: The Yellow Emperor §11",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.12",
+      "label": "Book II: The Yellow Emperor §12",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.13",
+      "label": "Book II: The Yellow Emperor §13",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.14",
+      "label": "Book II: The Yellow Emperor §14",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.15",
+      "label": "Book II: The Yellow Emperor §15",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.16",
+      "label": "Book II: The Yellow Emperor §16",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.17",
+      "label": "Book II: The Yellow Emperor §17",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.18",
+      "label": "Book II: The Yellow Emperor §18",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.19",
+      "label": "Book II: The Yellow Emperor §19",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.20",
+      "label": "Book II: The Yellow Emperor §20",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.21",
+      "label": "Book II: The Yellow Emperor §21",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.22",
+      "label": "Book II: The Yellow Emperor §22",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.23",
+      "label": "Book II: The Yellow Emperor §23",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.24",
+      "label": "Book II: The Yellow Emperor §24",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.25",
+      "label": "Book II: The Yellow Emperor §25",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.26",
+      "label": "Book II: The Yellow Emperor §26",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.27",
+      "label": "Book II: The Yellow Emperor §27",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.28",
+      "label": "Book II: The Yellow Emperor §28",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.29",
+      "label": "Book II: The Yellow Emperor §29",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.30",
+      "label": "Book II: The Yellow Emperor §30",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.31",
+      "label": "Book II: The Yellow Emperor §31",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.32",
+      "label": "Book II: The Yellow Emperor §32",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.33",
+      "label": "Book II: The Yellow Emperor §33",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.34",
+      "label": "Book II: The Yellow Emperor §34",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.35",
+      "label": "Book II: The Yellow Emperor §35",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.36",
+      "label": "Book II: The Yellow Emperor §36",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.37",
+      "label": "Book II: The Yellow Emperor §37",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.38",
+      "label": "Book II: The Yellow Emperor §38",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.39",
+      "label": "Book II: The Yellow Emperor §39",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.40",
+      "label": "Book II: The Yellow Emperor §40",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.41",
+      "label": "Book II: The Yellow Emperor §41",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.42",
+      "label": "Book II: The Yellow Emperor §42",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.43",
+      "label": "Book II: The Yellow Emperor §43",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.44",
+      "label": "Book II: The Yellow Emperor §44",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.45",
+      "label": "Book II: The Yellow Emperor §45",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.46",
+      "label": "Book II: The Yellow Emperor §46",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.47",
+      "label": "Book II: The Yellow Emperor §47",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.48",
+      "label": "Book II: The Yellow Emperor §48",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.49",
+      "label": "Book II: The Yellow Emperor §49",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.50",
+      "label": "Book II: The Yellow Emperor §50",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.51",
+      "label": "Book II: The Yellow Emperor §51",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.52",
+      "label": "Book II: The Yellow Emperor §52",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.53",
+      "label": "Book II: The Yellow Emperor §53",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.54",
+      "label": "Book II: The Yellow Emperor §54",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.55",
+      "label": "Book II: The Yellow Emperor §55",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.56",
+      "label": "Book II: The Yellow Emperor §56",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.57",
+      "label": "Book II: The Yellow Emperor §57",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.58",
+      "label": "Book II: The Yellow Emperor §58",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.59",
+      "label": "Book II: The Yellow Emperor §59",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.60",
+      "label": "Book II: The Yellow Emperor §60",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.61",
+      "label": "Book II: The Yellow Emperor §61",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.62",
+      "label": "Book II: The Yellow Emperor §62",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.63",
+      "label": "Book II: The Yellow Emperor §63",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.64",
+      "label": "Book II: The Yellow Emperor §64",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.65",
+      "label": "Book II: The Yellow Emperor §65",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.66",
+      "label": "Book II: The Yellow Emperor §66",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.67",
+      "label": "Book II: The Yellow Emperor §67",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.68",
+      "label": "Book II: The Yellow Emperor §68",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.69",
+      "label": "Book II: The Yellow Emperor §69",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.70",
+      "label": "Book II: The Yellow Emperor §70",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.71",
+      "label": "Book II: The Yellow Emperor §71",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.72",
+      "label": "Book II: The Yellow Emperor §72",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.73",
+      "label": "Book II: The Yellow Emperor §73",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.74",
+      "label": "Book II: The Yellow Emperor §74",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.75",
+      "label": "Book II: The Yellow Emperor §75",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.76",
+      "label": "Book II: The Yellow Emperor §76",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.77",
+      "label": "Book II: The Yellow Emperor §77",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.78",
+      "label": "Book II: The Yellow Emperor §78",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.79",
+      "label": "Book II: The Yellow Emperor §79",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.80",
+      "label": "Book II: The Yellow Emperor §80",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.81",
+      "label": "Book II: The Yellow Emperor §81",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.82",
+      "label": "Book II: The Yellow Emperor §82",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "3.1",
+      "label": "Book III: Dreams §1",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.2",
+      "label": "Book III: Dreams §2",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.3",
+      "label": "Book III: Dreams §3",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.4",
+      "label": "Book III: Dreams §4",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.5",
+      "label": "Book III: Dreams §5",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.6",
+      "label": "Book III: Dreams §6",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.7",
+      "label": "Book III: Dreams §7",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.8",
+      "label": "Book III: Dreams §8",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.9",
+      "label": "Book III: Dreams §9",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.10",
+      "label": "Book III: Dreams §10",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.11",
+      "label": "Book III: Dreams §11",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.12",
+      "label": "Book III: Dreams §12",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.13",
+      "label": "Book III: Dreams §13",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.14",
+      "label": "Book III: Dreams §14",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.15",
+      "label": "Book III: Dreams §15",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.16",
+      "label": "Book III: Dreams §16",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.17",
+      "label": "Book III: Dreams §17",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.18",
+      "label": "Book III: Dreams §18",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.19",
+      "label": "Book III: Dreams §19",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.20",
+      "label": "Book III: Dreams §20",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.21",
+      "label": "Book III: Dreams §21",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.22",
+      "label": "Book III: Dreams §22",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.23",
+      "label": "Book III: Dreams §23",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.24",
+      "label": "Book III: Dreams §24",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.25",
+      "label": "Book III: Dreams §25",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.26",
+      "label": "Book III: Dreams §26",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.27",
+      "label": "Book III: Dreams §27",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.28",
+      "label": "Book III: Dreams §28",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.29",
+      "label": "Book III: Dreams §29",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.30",
+      "label": "Book III: Dreams §30",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.31",
+      "label": "Book III: Dreams §31",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.32",
+      "label": "Book III: Dreams §32",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.33",
+      "label": "Book III: Dreams §33",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.34",
+      "label": "Book III: Dreams §34",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.35",
+      "label": "Book III: Dreams §35",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.36",
+      "label": "Book III: Dreams §36",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.37",
+      "label": "Book III: Dreams §37",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.38",
+      "label": "Book III: Dreams §38",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.39",
+      "label": "Book III: Dreams §39",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.40",
+      "label": "Book III: Dreams §40",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.41",
+      "label": "Book III: Dreams §41",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.42",
+      "label": "Book III: Dreams §42",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.43",
+      "label": "Book III: Dreams §43",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.44",
+      "label": "Book III: Dreams §44",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.45",
+      "label": "Book III: Dreams §45",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.46",
+      "label": "Book III: Dreams §46",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.47",
+      "label": "Book III: Dreams §47",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.48",
+      "label": "Book III: Dreams §48",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.49",
+      "label": "Book III: Dreams §49",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.50",
+      "label": "Book III: Dreams §50",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.51",
+      "label": "Book III: Dreams §51",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "4.1",
+      "label": "Book IV: Confucius §1",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.2",
+      "label": "Book IV: Confucius §2",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.3",
+      "label": "Book IV: Confucius §3",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.4",
+      "label": "Book IV: Confucius §4",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.5",
+      "label": "Book IV: Confucius §5",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.6",
+      "label": "Book IV: Confucius §6",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.7",
+      "label": "Book IV: Confucius §7",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.8",
+      "label": "Book IV: Confucius §8",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.9",
+      "label": "Book IV: Confucius §9",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.10",
+      "label": "Book IV: Confucius §10",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.11",
+      "label": "Book IV: Confucius §11",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.12",
+      "label": "Book IV: Confucius §12",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.13",
+      "label": "Book IV: Confucius §13",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.14",
+      "label": "Book IV: Confucius §14",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.15",
+      "label": "Book IV: Confucius §15",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.16",
+      "label": "Book IV: Confucius §16",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.17",
+      "label": "Book IV: Confucius §17",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.18",
+      "label": "Book IV: Confucius §18",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.19",
+      "label": "Book IV: Confucius §19",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.20",
+      "label": "Book IV: Confucius §20",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.21",
+      "label": "Book IV: Confucius §21",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.22",
+      "label": "Book IV: Confucius §22",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.23",
+      "label": "Book IV: Confucius §23",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.24",
+      "label": "Book IV: Confucius §24",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.25",
+      "label": "Book IV: Confucius §25",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.26",
+      "label": "Book IV: Confucius §26",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.27",
+      "label": "Book IV: Confucius §27",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.28",
+      "label": "Book IV: Confucius §28",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.29",
+      "label": "Book IV: Confucius §29",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.30",
+      "label": "Book IV: Confucius §30",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.31",
+      "label": "Book IV: Confucius §31",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.32",
+      "label": "Book IV: Confucius §32",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.33",
+      "label": "Book IV: Confucius §33",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.34",
+      "label": "Book IV: Confucius §34",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.35",
+      "label": "Book IV: Confucius §35",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.36",
+      "label": "Book IV: Confucius §36",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.37",
+      "label": "Book IV: Confucius §37",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.38",
+      "label": "Book IV: Confucius §38",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.39",
+      "label": "Book IV: Confucius §39",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.40",
+      "label": "Book IV: Confucius §40",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.41",
+      "label": "Book IV: Confucius §41",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.42",
+      "label": "Book IV: Confucius §42",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.43",
+      "label": "Book IV: Confucius §43",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.44",
+      "label": "Book IV: Confucius §44",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "5.1",
+      "label": "Book V: The Questions of Pang §1",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.2",
+      "label": "Book V: The Questions of Pang §2",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.3",
+      "label": "Book V: The Questions of Pang §3",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.4",
+      "label": "Book V: The Questions of Pang §4",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.5",
+      "label": "Book V: The Questions of Pang §5",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.6",
+      "label": "Book V: The Questions of Pang §6",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.7",
+      "label": "Book V: The Questions of Pang §7",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.8",
+      "label": "Book V: The Questions of Pang §8",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.9",
+      "label": "Book V: The Questions of Pang §9",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.10",
+      "label": "Book V: The Questions of Pang §10",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.11",
+      "label": "Book V: The Questions of Pang §11",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.12",
+      "label": "Book V: The Questions of Pang §12",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.13",
+      "label": "Book V: The Questions of Pang §13",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.14",
+      "label": "Book V: The Questions of Pang §14",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.15",
+      "label": "Book V: The Questions of Pang §15",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.16",
+      "label": "Book V: The Questions of Pang §16",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.17",
+      "label": "Book V: The Questions of Pang §17",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.18",
+      "label": "Book V: The Questions of Pang §18",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.19",
+      "label": "Book V: The Questions of Pang §19",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.20",
+      "label": "Book V: The Questions of Pang §20",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.21",
+      "label": "Book V: The Questions of Pang §21",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.22",
+      "label": "Book V: The Questions of Pang §22",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.23",
+      "label": "Book V: The Questions of Pang §23",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.24",
+      "label": "Book V: The Questions of Pang §24",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.25",
+      "label": "Book V: The Questions of Pang §25",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.26",
+      "label": "Book V: The Questions of Pang §26",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.27",
+      "label": "Book V: The Questions of Pang §27",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.28",
+      "label": "Book V: The Questions of Pang §28",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.29",
+      "label": "Book V: The Questions of Pang §29",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.30",
+      "label": "Book V: The Questions of Pang §30",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.31",
+      "label": "Book V: The Questions of Pang §31",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.32",
+      "label": "Book V: The Questions of Pang §32",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.33",
+      "label": "Book V: The Questions of Pang §33",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.34",
+      "label": "Book V: The Questions of Pang §34",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.35",
+      "label": "Book V: The Questions of Pang §35",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.36",
+      "label": "Book V: The Questions of Pang §36",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.37",
+      "label": "Book V: The Questions of Pang §37",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.38",
+      "label": "Book V: The Questions of Pang §38",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.39",
+      "label": "Book V: The Questions of Pang §39",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.40",
+      "label": "Book V: The Questions of Pang §40",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.41",
+      "label": "Book V: The Questions of Pang §41",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.42",
+      "label": "Book V: The Questions of Pang §42",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.43",
+      "label": "Book V: The Questions of Pang §43",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.44",
+      "label": "Book V: The Questions of Pang §44",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.45",
+      "label": "Book V: The Questions of Pang §45",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.46",
+      "label": "Book V: The Questions of Pang §46",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.47",
+      "label": "Book V: The Questions of Pang §47",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.48",
+      "label": "Book V: The Questions of Pang §48",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.49",
+      "label": "Book V: The Questions of Pang §49",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.50",
+      "label": "Book V: The Questions of Pang §50",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.51",
+      "label": "Book V: The Questions of Pang §51",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.52",
+      "label": "Book V: The Questions of Pang §52",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.53",
+      "label": "Book V: The Questions of Pang §53",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.54",
+      "label": "Book V: The Questions of Pang §54",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.55",
+      "label": "Book V: The Questions of Pang §55",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.56",
+      "label": "Book V: The Questions of Pang §56",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.57",
+      "label": "Book V: The Questions of Pang §57",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.58",
+      "label": "Book V: The Questions of Pang §58",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.59",
+      "label": "Book V: The Questions of Pang §59",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.60",
+      "label": "Book V: The Questions of Pang §60",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.61",
+      "label": "Book V: The Questions of Pang §61",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.62",
+      "label": "Book V: The Questions of Pang §62",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.63",
+      "label": "Book V: The Questions of Pang §63",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.64",
+      "label": "Book V: The Questions of Pang §64",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.65",
+      "label": "Book V: The Questions of Pang §65",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.66",
+      "label": "Book V: The Questions of Pang §66",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.67",
+      "label": "Book V: The Questions of Pang §67",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.68",
+      "label": "Book V: The Questions of Pang §68",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.69",
+      "label": "Book V: The Questions of Pang §69",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.70",
+      "label": "Book V: The Questions of Pang §70",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.71",
+      "label": "Book V: The Questions of Pang §71",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.72",
+      "label": "Book V: The Questions of Pang §72",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.73",
+      "label": "Book V: The Questions of Pang §73",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.74",
+      "label": "Book V: The Questions of Pang §74",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "6.1",
+      "label": "Book VI: Effort and Destiny §1",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.2",
+      "label": "Book VI: Effort and Destiny §2",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.3",
+      "label": "Book VI: Effort and Destiny §3",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.4",
+      "label": "Book VI: Effort and Destiny §4",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.5",
+      "label": "Book VI: Effort and Destiny §5",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.6",
+      "label": "Book VI: Effort and Destiny §6",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.7",
+      "label": "Book VI: Effort and Destiny §7",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.8",
+      "label": "Book VI: Effort and Destiny §8",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.9",
+      "label": "Book VI: Effort and Destiny §9",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.10",
+      "label": "Book VI: Effort and Destiny §10",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.11",
+      "label": "Book VI: Effort and Destiny §11",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.12",
+      "label": "Book VI: Effort and Destiny §12",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.13",
+      "label": "Book VI: Effort and Destiny §13",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.14",
+      "label": "Book VI: Effort and Destiny §14",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.15",
+      "label": "Book VI: Effort and Destiny §15",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.16",
+      "label": "Book VI: Effort and Destiny §16",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.17",
+      "label": "Book VI: Effort and Destiny §17",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.18",
+      "label": "Book VI: Effort and Destiny §18",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.19",
+      "label": "Book VI: Effort and Destiny §19",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.20",
+      "label": "Book VI: Effort and Destiny §20",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.21",
+      "label": "Book VI: Effort and Destiny §21",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.22",
+      "label": "Book VI: Effort and Destiny §22",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.23",
+      "label": "Book VI: Effort and Destiny §23",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.24",
+      "label": "Book VI: Effort and Destiny §24",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.25",
+      "label": "Book VI: Effort and Destiny §25",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.26",
+      "label": "Book VI: Effort and Destiny §26",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.27",
+      "label": "Book VI: Effort and Destiny §27",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.28",
+      "label": "Book VI: Effort and Destiny §28",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.29",
+      "label": "Book VI: Effort and Destiny §29",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.30",
+      "label": "Book VI: Effort and Destiny §30",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "7.1",
+      "label": "Book VII: Causality §1",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.2",
+      "label": "Book VII: Causality §2",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.3",
+      "label": "Book VII: Causality §3",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.4",
+      "label": "Book VII: Causality §4",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.5",
+      "label": "Book VII: Causality §5",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.6",
+      "label": "Book VII: Causality §6",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.7",
+      "label": "Book VII: Causality §7",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.8",
+      "label": "Book VII: Causality §8",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.9",
+      "label": "Book VII: Causality §9",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.10",
+      "label": "Book VII: Causality §10",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.11",
+      "label": "Book VII: Causality §11",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.12",
+      "label": "Book VII: Causality §12",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.13",
+      "label": "Book VII: Causality §13",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.14",
+      "label": "Book VII: Causality §14",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.15",
+      "label": "Book VII: Causality §15",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.16",
+      "label": "Book VII: Causality §16",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.17",
+      "label": "Book VII: Causality §17",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.18",
+      "label": "Book VII: Causality §18",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.19",
+      "label": "Book VII: Causality §19",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.20",
+      "label": "Book VII: Causality §20",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.21",
+      "label": "Book VII: Causality §21",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.22",
+      "label": "Book VII: Causality §22",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.23",
+      "label": "Book VII: Causality §23",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.24",
+      "label": "Book VII: Causality §24",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.25",
+      "label": "Book VII: Causality §25",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.26",
+      "label": "Book VII: Causality §26",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.27",
+      "label": "Book VII: Causality §27",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.28",
+      "label": "Book VII: Causality §28",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.29",
+      "label": "Book VII: Causality §29",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.30",
+      "label": "Book VII: Causality §30",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.31",
+      "label": "Book VII: Causality §31",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.32",
+      "label": "Book VII: Causality §32",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.33",
+      "label": "Book VII: Causality §33",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.34",
+      "label": "Book VII: Causality §34",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.35",
+      "label": "Book VII: Causality §35",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.36",
+      "label": "Book VII: Causality §36",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.37",
+      "label": "Book VII: Causality §37",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.38",
+      "label": "Book VII: Causality §38",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.39",
+      "label": "Book VII: Causality §39",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.40",
+      "label": "Book VII: Causality §40",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.41",
+      "label": "Book VII: Causality §41",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.42",
+      "label": "Book VII: Causality §42",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.43",
+      "label": "Book VII: Causality §43",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.44",
+      "label": "Book VII: Causality §44",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.45",
+      "label": "Book VII: Causality §45",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.46",
+      "label": "Book VII: Causality §46",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.47",
+      "label": "Book VII: Causality §47",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.48",
+      "label": "Book VII: Causality §48",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.49",
+      "label": "Book VII: Causality §49",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.50",
+      "label": "Book VII: Causality §50",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.51",
+      "label": "Book VII: Causality §51",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.52",
+      "label": "Book VII: Causality §52",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.53",
+      "label": "Book VII: Causality §53",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.54",
+      "label": "Book VII: Causality §54",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.55",
+      "label": "Book VII: Causality §55",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.56",
+      "label": "Book VII: Causality §56",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.57",
+      "label": "Book VII: Causality §57",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.58",
+      "label": "Book VII: Causality §58",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.59",
+      "label": "Book VII: Causality §59",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.60",
+      "label": "Book VII: Causality §60",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.61",
+      "label": "Book VII: Causality §61",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.62",
+      "label": "Book VII: Causality §62",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.63",
+      "label": "Book VII: Causality §63",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.64",
+      "label": "Book VII: Causality §64",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.65",
+      "label": "Book VII: Causality §65",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.66",
+      "label": "Book VII: Causality §66",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.67",
+      "label": "Book VII: Causality §67",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.68",
+      "label": "Book VII: Causality §68",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.69",
+      "label": "Book VII: Causality §69",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.70",
+      "label": "Book VII: Causality §70",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.71",
+      "label": "Book VII: Causality §71",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.72",
+      "label": "Book VII: Causality §72",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.73",
+      "label": "Book VII: Causality §73",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.74",
+      "label": "Book VII: Causality §74",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.75",
+      "label": "Book VII: Causality §75",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.76",
+      "label": "Book VII: Causality §76",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.77",
+      "label": "Book VII: Causality §77",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.78",
+      "label": "Book VII: Causality §78",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.79",
+      "label": "Book VII: Causality §79",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.80",
+      "label": "Book VII: Causality §80",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.81",
+      "label": "Book VII: Causality §81",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.82",
+      "label": "Book VII: Causality §82",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.83",
+      "label": "Book VII: Causality §83",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.84",
+      "label": "Book VII: Causality §84",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.85",
+      "label": "Book VII: Causality §85",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.86",
+      "label": "Book VII: Causality §86",
+      "chapterRef": "7"
+    }
+  ],
+  "editions": [
+    {
+      "slug": "liehzi-en",
+      "language": "en",
+      "editionType": "translation",
+      "title": "Taoist Teachings from the Book of Lieh-Tzü",
+      "translator": "Lionel Giles",
+      "publisher": "Internet Sacred Text Archive",
+      "publicationYear": 1912,
+      "source": "sacred-texts",
+      "license": "public-domain",
+      "rightsStatus": "Public domain in the United States",
+      "attributionText": "Taoist Teachings from the Book of Lieh-Tzü, translated by Lionel Giles (1912). The Wisdom of the East Series, London. Public domain in the United States. Digital text from the Internet Sacred Text Archive.",
+      "structureScheme": "book and paragraph index; each chapter is one printed book",
+      "isSample": false,
+      "notes": "The import cache stores the exact segments that were validated. The reader re-fetches the chapter from the host and reports when the served count no longer matches the index."
+    }
+  ]
+}

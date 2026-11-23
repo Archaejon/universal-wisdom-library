@@ -1,0 +1,1081 @@
+{
+  "slug": "book-of-filial-duty",
+  "title": "The Book of Filial Duty",
+  "originalTitle": "孝經",
+  "transliteration": "Xiàojīng",
+  "altTitles": [
+    "The Hsiao Ching",
+    "Ivan Chen's Hsiâo Ching"
+  ],
+  "tradition": "confucianism",
+  "school": "confucian",
+  "genre": "Classics",
+  "textType": "Ethical treatise with tales",
+  "category": "Classics",
+  "subcategory": "Confucian classics",
+  "originalLanguage": "zh",
+  "dateStart": -300,
+  "dateEnd": -100,
+  "dateDisplay": "c. 3rd–2nd centuries BCE, with later tales",
+  "authorshipStatus": "composite",
+  "author": "",
+  "attributionNote": "The classic of filial piety is a composite treatise of the Warring States or early Han, traditionally ascribed to Zengzi; the twenty-four tales that follow it are later moral exempla, edited with the text in this edition.",
+  "description": "Ivan Chen's translation of the Classic of Filial Piety, with the twenty-four examples of filial children that Chinese primers attached to it: the emperor who tasted his mother's medicine, the son who carried rice for his parents over a hundred li, the children who warmed the bed or exposed themselves to mosquitoes for their elders. The tales carry the treatise's ethics into the household and show how it was taught.",
+  "historicalContext": "The Hsiao Ching's eighteen chapters circulated with a commentary by the Tang emperor Xuanzong and were used to teach the duty of children to parents and subjects to rulers. The twenty-four examples form a separate popular tradition that was bound with the classic in village schools; Chen's English version, with the Chinese text, was printed in London in 1908.",
+  "availabilityNote": "Complete: the classic's eighteen chapters and the twenty-four examples, streamed from the Internet Sacred Text Archive at read time, one chapter or tale per page. The editorial note and the translator's introduction are volume apparatus and are not part of the work.",
+  "featured": false,
+  "featuredNote": "",
+  "refScheme": "chapter.paragraph",
+  "isSample": false,
+  "textStorage": "streamed",
+  "chapters": [
+    {
+      "ref": "1",
+      "label": "The Doctrine of Filial Duty: Chapter I: The Meaning of Filial Duty"
+    },
+    {
+      "ref": "2",
+      "label": "Chapter II: The Filial Duty of an Emperor"
+    },
+    {
+      "ref": "3",
+      "label": "Chapter III: The Filial Duty of Feudal Princes"
+    },
+    {
+      "ref": "4",
+      "label": "Chapter IV: The Filial Duty of High Officers"
+    },
+    {
+      "ref": "5",
+      "label": "Chapter V: The Filial Duty of the Literary Class"
+    },
+    {
+      "ref": "6",
+      "label": "Chapter VI: The Filial Duty of Common People"
+    },
+    {
+      "ref": "7",
+      "label": "Chapter VII: The Three Powers"
+    },
+    {
+      "ref": "8",
+      "label": "Chapter VIII: Filial Duty in Government"
+    },
+    {
+      "ref": "9",
+      "label": "Chapter IX: Government by the Sage"
+    },
+    {
+      "ref": "10",
+      "label": "Chapter X: The Filial Duty of a Son"
+    },
+    {
+      "ref": "11",
+      "label": "Chapter XI: The Five Punishments"
+    },
+    {
+      "ref": "12",
+      "label": "Chapter XII: Amplification of the Important Doctrine"
+    },
+    {
+      "ref": "13",
+      "label": "Chapter XIII: Amplification of the Highest Virtue"
+    },
+    {
+      "ref": "14",
+      "label": "Chapter XIV: Amplification of Raising the Reputation"
+    },
+    {
+      "ref": "15",
+      "label": "Chapter XV: The Question of Remonstrance in Connection With Filial Duty"
+    },
+    {
+      "ref": "16",
+      "label": "Chapter XVI: The Influence and Fruit of Filial Piety"
+    },
+    {
+      "ref": "17",
+      "label": "Chapter XVII: Serving the Sovereign"
+    },
+    {
+      "ref": "18",
+      "label": "Chapter XVIII: Mourning for One's Parents"
+    },
+    {
+      "ref": "19",
+      "label": "The Twenty-Four Examples: No. I: The Filial Piety that influenced Heaven"
+    },
+    {
+      "ref": "20",
+      "label": "No. II: Affection shown in tasting Soups and Medicines"
+    },
+    {
+      "ref": "21",
+      "label": "No. III: Gnawing her Finger pained his Heart"
+    },
+    {
+      "ref": "22",
+      "label": "No. IV: Clad in a Single Garment, he was obedient to his Mother"
+    },
+    {
+      "ref": "23",
+      "label": "No. V: He carried Rice for his Parents"
+    },
+    {
+      "ref": "24",
+      "label": "No. VI: With Sports and Embroidered Robes he amused his Parents"
+    },
+    {
+      "ref": "25",
+      "label": "No. VII: With Deer's Milk he supplied his Parents"
+    },
+    {
+      "ref": "26",
+      "label": "No. VIII: He sold himself to bury his Father"
+    },
+    {
+      "ref": "27",
+      "label": "No. IX: He hired himself out as a Labourer to support his Mother"
+    },
+    {
+      "ref": "28",
+      "label": "No. X: He fanned the Pillow and warmed the Bedclothes"
+    },
+    {
+      "ref": "29",
+      "label": "No. XI: The Gushing Fountain and the Frisking Carp"
+    },
+    {
+      "ref": "30",
+      "label": "No. XII: He carved Wood and served his Parents"
+    },
+    {
+      "ref": "31",
+      "label": "No. XIII: For his Mother's Sake he would bury his Child"
+    },
+    {
+      "ref": "32",
+      "label": "No. XIV: He seized the Tiger and saved his Father"
+    },
+    {
+      "ref": "33",
+      "label": "No. XV: He collected Mulberries to support his Mother"
+    },
+    {
+      "ref": "34",
+      "label": "No. XVI: He laid up the Oranges for his Mother"
+    },
+    {
+      "ref": "35",
+      "label": "No. XVII: On hearing the Thunder he wept at the Tomb"
+    },
+    {
+      "ref": "36",
+      "label": "No. XVIII: He wept to the Bamboos, and Shoots sprang up"
+    },
+    {
+      "ref": "37",
+      "label": "No. XIX: He slept on Ice to procure Carp"
+    },
+    {
+      "ref": "38",
+      "label": "No. XX: Wu Meng fed the Mosquitoes"
+    },
+    {
+      "ref": "39",
+      "label": "No. XXI"
+    },
+    {
+      "ref": "40",
+      "label": "No. XXII"
+    },
+    {
+      "ref": "41",
+      "label": "No. XXIII: He resigned Office to seek his Mother"
+    },
+    {
+      "ref": "42",
+      "label": "No. XXIV: He watched by his Mother's Bedside"
+    }
+  ],
+  "passages": [
+    {
+      "reference": "1.1",
+      "label": "The Doctrine of Filial Duty: Chapter I: The Meaning of Filial Duty §1",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.2",
+      "label": "The Doctrine of Filial Duty: Chapter I: The Meaning of Filial Duty §2",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.3",
+      "label": "The Doctrine of Filial Duty: Chapter I: The Meaning of Filial Duty §3",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.4",
+      "label": "The Doctrine of Filial Duty: Chapter I: The Meaning of Filial Duty §4",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.5",
+      "label": "The Doctrine of Filial Duty: Chapter I: The Meaning of Filial Duty §5",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "2.1",
+      "label": "Chapter II: The Filial Duty of an Emperor §1",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.2",
+      "label": "Chapter II: The Filial Duty of an Emperor §2",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.3",
+      "label": "Chapter II: The Filial Duty of an Emperor §3",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.4",
+      "label": "Chapter II: The Filial Duty of an Emperor §4",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.5",
+      "label": "Chapter II: The Filial Duty of an Emperor §5",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "3.1",
+      "label": "Chapter III: The Filial Duty of Feudal Princes §1",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.2",
+      "label": "Chapter III: The Filial Duty of Feudal Princes §2",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.3",
+      "label": "Chapter III: The Filial Duty of Feudal Princes §3",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.4",
+      "label": "Chapter III: The Filial Duty of Feudal Princes §4",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "4.1",
+      "label": "Chapter IV: The Filial Duty of High Officers §1",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.2",
+      "label": "Chapter IV: The Filial Duty of High Officers §2",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.3",
+      "label": "Chapter IV: The Filial Duty of High Officers §3",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.4",
+      "label": "Chapter IV: The Filial Duty of High Officers §4",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "5.1",
+      "label": "Chapter V: The Filial Duty of the Literary Class §1",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.2",
+      "label": "Chapter V: The Filial Duty of the Literary Class §2",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.3",
+      "label": "Chapter V: The Filial Duty of the Literary Class §3",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "6.1",
+      "label": "Chapter VI: The Filial Duty of Common People §1",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.2",
+      "label": "Chapter VI: The Filial Duty of Common People §2",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.3",
+      "label": "Chapter VI: The Filial Duty of Common People §3",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "7.1",
+      "label": "Chapter VII: The Three Powers §1",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.2",
+      "label": "Chapter VII: The Three Powers §2",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.3",
+      "label": "Chapter VII: The Three Powers §3",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.4",
+      "label": "Chapter VII: The Three Powers §4",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.5",
+      "label": "Chapter VII: The Three Powers §5",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "8.1",
+      "label": "Chapter VIII: Filial Duty in Government §1",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.2",
+      "label": "Chapter VIII: Filial Duty in Government §2",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.3",
+      "label": "Chapter VIII: Filial Duty in Government §3",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.4",
+      "label": "Chapter VIII: Filial Duty in Government §4",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.5",
+      "label": "Chapter VIII: Filial Duty in Government §5",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.6",
+      "label": "Chapter VIII: Filial Duty in Government §6",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "9.1",
+      "label": "Chapter IX: Government by the Sage §1",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.2",
+      "label": "Chapter IX: Government by the Sage §2",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.3",
+      "label": "Chapter IX: Government by the Sage §3",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.4",
+      "label": "Chapter IX: Government by the Sage §4",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "10.1",
+      "label": "Chapter X: The Filial Duty of a Son §1",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.2",
+      "label": "Chapter X: The Filial Duty of a Son §2",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.3",
+      "label": "Chapter X: The Filial Duty of a Son §3",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.4",
+      "label": "Chapter X: The Filial Duty of a Son §4",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "11.1",
+      "label": "Chapter XI: The Five Punishments §1",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.2",
+      "label": "Chapter XI: The Five Punishments §2",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.3",
+      "label": "Chapter XI: The Five Punishments §3",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "12.1",
+      "label": "Chapter XII: Amplification of the Important Doctrine §1",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.2",
+      "label": "Chapter XII: Amplification of the Important Doctrine §2",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.3",
+      "label": "Chapter XII: Amplification of the Important Doctrine §3",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.4",
+      "label": "Chapter XII: Amplification of the Important Doctrine §4",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "13.1",
+      "label": "Chapter XIII: Amplification of the Highest Virtue §1",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.2",
+      "label": "Chapter XIII: Amplification of the Highest Virtue §2",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.3",
+      "label": "Chapter XIII: Amplification of the Highest Virtue §3",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.4",
+      "label": "Chapter XIII: Amplification of the Highest Virtue §4",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "14.1",
+      "label": "Chapter XIV: Amplification of Raising the Reputation §1",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.2",
+      "label": "Chapter XIV: Amplification of Raising the Reputation §2",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.3",
+      "label": "Chapter XIV: Amplification of Raising the Reputation §3",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "15.1",
+      "label": "Chapter XV: The Question of Remonstrance in Connection With Filial Duty §1",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.2",
+      "label": "Chapter XV: The Question of Remonstrance in Connection With Filial Duty §2",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.3",
+      "label": "Chapter XV: The Question of Remonstrance in Connection With Filial Duty §3",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.4",
+      "label": "Chapter XV: The Question of Remonstrance in Connection With Filial Duty §4",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.5",
+      "label": "Chapter XV: The Question of Remonstrance in Connection With Filial Duty §5",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.6",
+      "label": "Chapter XV: The Question of Remonstrance in Connection With Filial Duty §6",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.7",
+      "label": "Chapter XV: The Question of Remonstrance in Connection With Filial Duty §7",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "16.1",
+      "label": "Chapter XVI: The Influence and Fruit of Filial Piety §1",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.2",
+      "label": "Chapter XVI: The Influence and Fruit of Filial Piety §2",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.3",
+      "label": "Chapter XVI: The Influence and Fruit of Filial Piety §3",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.4",
+      "label": "Chapter XVI: The Influence and Fruit of Filial Piety §4",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "17.1",
+      "label": "Chapter XVII: Serving the Sovereign §1",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.2",
+      "label": "Chapter XVII: Serving the Sovereign §2",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.3",
+      "label": "Chapter XVII: Serving the Sovereign §3",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "18.1",
+      "label": "Chapter XVIII: Mourning for One's Parents §1",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.2",
+      "label": "Chapter XVIII: Mourning for One's Parents §2",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.3",
+      "label": "Chapter XVIII: Mourning for One's Parents §3",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.4",
+      "label": "Chapter XVIII: Mourning for One's Parents §4",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.5",
+      "label": "Chapter XVIII: Mourning for One's Parents §5",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "19.1",
+      "label": "The Twenty-Four Examples: No. I: The Filial Piety that influenced Heaven §1",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.2",
+      "label": "The Twenty-Four Examples: No. I: The Filial Piety that influenced Heaven §2",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.3",
+      "label": "The Twenty-Four Examples: No. I: The Filial Piety that influenced Heaven §3",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.4",
+      "label": "The Twenty-Four Examples: No. I: The Filial Piety that influenced Heaven §4",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.5",
+      "label": "The Twenty-Four Examples: No. I: The Filial Piety that influenced Heaven §5",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "20.1",
+      "label": "No. II: Affection shown in tasting Soups and Medicines §1",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.2",
+      "label": "No. II: Affection shown in tasting Soups and Medicines §2",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.3",
+      "label": "No. II: Affection shown in tasting Soups and Medicines §3",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.4",
+      "label": "No. II: Affection shown in tasting Soups and Medicines §4",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "21.1",
+      "label": "No. III: Gnawing her Finger pained his Heart §1",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.2",
+      "label": "No. III: Gnawing her Finger pained his Heart §2",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.3",
+      "label": "No. III: Gnawing her Finger pained his Heart §3",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.4",
+      "label": "No. III: Gnawing her Finger pained his Heart §4",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.5",
+      "label": "No. III: Gnawing her Finger pained his Heart §5",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "22.1",
+      "label": "No. IV: Clad in a Single Garment, he was obedient to his Mother §1",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.2",
+      "label": "No. IV: Clad in a Single Garment, he was obedient to his Mother §2",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.3",
+      "label": "No. IV: Clad in a Single Garment, he was obedient to his Mother §3",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.4",
+      "label": "No. IV: Clad in a Single Garment, he was obedient to his Mother §4",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.5",
+      "label": "No. IV: Clad in a Single Garment, he was obedient to his Mother §5",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "23.1",
+      "label": "No. V: He carried Rice for his Parents §1",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.2",
+      "label": "No. V: He carried Rice for his Parents §2",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.3",
+      "label": "No. V: He carried Rice for his Parents §3",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.4",
+      "label": "No. V: He carried Rice for his Parents §4",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "24.1",
+      "label": "No. VI: With Sports and Embroidered Robes he amused his Parents §1",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.2",
+      "label": "No. VI: With Sports and Embroidered Robes he amused his Parents §2",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.3",
+      "label": "No. VI: With Sports and Embroidered Robes he amused his Parents §3",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.4",
+      "label": "No. VI: With Sports and Embroidered Robes he amused his Parents §4",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "25.1",
+      "label": "No. VII: With Deer's Milk he supplied his Parents §1",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.2",
+      "label": "No. VII: With Deer's Milk he supplied his Parents §2",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.3",
+      "label": "No. VII: With Deer's Milk he supplied his Parents §3",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.4",
+      "label": "No. VII: With Deer's Milk he supplied his Parents §4",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "26.1",
+      "label": "No. VIII: He sold himself to bury his Father §1",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.2",
+      "label": "No. VIII: He sold himself to bury his Father §2",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.3",
+      "label": "No. VIII: He sold himself to bury his Father §3",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.4",
+      "label": "No. VIII: He sold himself to bury his Father §4",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "27.1",
+      "label": "No. IX: He hired himself out as a Labourer to support his Mother §1",
+      "chapterRef": "27"
+    },
+    {
+      "reference": "27.2",
+      "label": "No. IX: He hired himself out as a Labourer to support his Mother §2",
+      "chapterRef": "27"
+    },
+    {
+      "reference": "27.3",
+      "label": "No. IX: He hired himself out as a Labourer to support his Mother §3",
+      "chapterRef": "27"
+    },
+    {
+      "reference": "27.4",
+      "label": "No. IX: He hired himself out as a Labourer to support his Mother §4",
+      "chapterRef": "27"
+    },
+    {
+      "reference": "28.1",
+      "label": "No. X: He fanned the Pillow and warmed the Bedclothes §1",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "28.2",
+      "label": "No. X: He fanned the Pillow and warmed the Bedclothes §2",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "28.3",
+      "label": "No. X: He fanned the Pillow and warmed the Bedclothes §3",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "28.4",
+      "label": "No. X: He fanned the Pillow and warmed the Bedclothes §4",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "29.1",
+      "label": "No. XI: The Gushing Fountain and the Frisking Carp §1",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.2",
+      "label": "No. XI: The Gushing Fountain and the Frisking Carp §2",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.3",
+      "label": "No. XI: The Gushing Fountain and the Frisking Carp §3",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.4",
+      "label": "No. XI: The Gushing Fountain and the Frisking Carp §4",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.5",
+      "label": "No. XI: The Gushing Fountain and the Frisking Carp §5",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "30.1",
+      "label": "No. XII: He carved Wood and served his Parents §1",
+      "chapterRef": "30"
+    },
+    {
+      "reference": "30.2",
+      "label": "No. XII: He carved Wood and served his Parents §2",
+      "chapterRef": "30"
+    },
+    {
+      "reference": "30.3",
+      "label": "No. XII: He carved Wood and served his Parents §3",
+      "chapterRef": "30"
+    },
+    {
+      "reference": "30.4",
+      "label": "No. XII: He carved Wood and served his Parents §4",
+      "chapterRef": "30"
+    },
+    {
+      "reference": "31.1",
+      "label": "No. XIII: For his Mother's Sake he would bury his Child §1",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.2",
+      "label": "No. XIII: For his Mother's Sake he would bury his Child §2",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.3",
+      "label": "No. XIII: For his Mother's Sake he would bury his Child §3",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.4",
+      "label": "No. XIII: For his Mother's Sake he would bury his Child §4",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "32.1",
+      "label": "No. XIV: He seized the Tiger and saved his Father §1",
+      "chapterRef": "32"
+    },
+    {
+      "reference": "32.2",
+      "label": "No. XIV: He seized the Tiger and saved his Father §2",
+      "chapterRef": "32"
+    },
+    {
+      "reference": "32.3",
+      "label": "No. XIV: He seized the Tiger and saved his Father §3",
+      "chapterRef": "32"
+    },
+    {
+      "reference": "32.4",
+      "label": "No. XIV: He seized the Tiger and saved his Father §4",
+      "chapterRef": "32"
+    },
+    {
+      "reference": "33.1",
+      "label": "No. XV: He collected Mulberries to support his Mother §1",
+      "chapterRef": "33"
+    },
+    {
+      "reference": "33.2",
+      "label": "No. XV: He collected Mulberries to support his Mother §2",
+      "chapterRef": "33"
+    },
+    {
+      "reference": "33.3",
+      "label": "No. XV: He collected Mulberries to support his Mother §3",
+      "chapterRef": "33"
+    },
+    {
+      "reference": "33.4",
+      "label": "No. XV: He collected Mulberries to support his Mother §4",
+      "chapterRef": "33"
+    },
+    {
+      "reference": "33.5",
+      "label": "No. XV: He collected Mulberries to support his Mother §5",
+      "chapterRef": "33"
+    },
+    {
+      "reference": "34.1",
+      "label": "No. XVI: He laid up the Oranges for his Mother §1",
+      "chapterRef": "34"
+    },
+    {
+      "reference": "34.2",
+      "label": "No. XVI: He laid up the Oranges for his Mother §2",
+      "chapterRef": "34"
+    },
+    {
+      "reference": "34.3",
+      "label": "No. XVI: He laid up the Oranges for his Mother §3",
+      "chapterRef": "34"
+    },
+    {
+      "reference": "34.4",
+      "label": "No. XVI: He laid up the Oranges for his Mother §4",
+      "chapterRef": "34"
+    },
+    {
+      "reference": "35.1",
+      "label": "No. XVII: On hearing the Thunder he wept at the Tomb §1",
+      "chapterRef": "35"
+    },
+    {
+      "reference": "35.2",
+      "label": "No. XVII: On hearing the Thunder he wept at the Tomb §2",
+      "chapterRef": "35"
+    },
+    {
+      "reference": "35.3",
+      "label": "No. XVII: On hearing the Thunder he wept at the Tomb §3",
+      "chapterRef": "35"
+    },
+    {
+      "reference": "35.4",
+      "label": "No. XVII: On hearing the Thunder he wept at the Tomb §4",
+      "chapterRef": "35"
+    },
+    {
+      "reference": "36.1",
+      "label": "No. XVIII: He wept to the Bamboos, and Shoots sprang up §1",
+      "chapterRef": "36"
+    },
+    {
+      "reference": "36.2",
+      "label": "No. XVIII: He wept to the Bamboos, and Shoots sprang up §2",
+      "chapterRef": "36"
+    },
+    {
+      "reference": "36.3",
+      "label": "No. XVIII: He wept to the Bamboos, and Shoots sprang up §3",
+      "chapterRef": "36"
+    },
+    {
+      "reference": "36.4",
+      "label": "No. XVIII: He wept to the Bamboos, and Shoots sprang up §4",
+      "chapterRef": "36"
+    },
+    {
+      "reference": "37.1",
+      "label": "No. XIX: He slept on Ice to procure Carp §1",
+      "chapterRef": "37"
+    },
+    {
+      "reference": "37.2",
+      "label": "No. XIX: He slept on Ice to procure Carp §2",
+      "chapterRef": "37"
+    },
+    {
+      "reference": "37.3",
+      "label": "No. XIX: He slept on Ice to procure Carp §3",
+      "chapterRef": "37"
+    },
+    {
+      "reference": "37.4",
+      "label": "No. XIX: He slept on Ice to procure Carp §4",
+      "chapterRef": "37"
+    },
+    {
+      "reference": "38.1",
+      "label": "No. XX: Wu Meng fed the Mosquitoes §1",
+      "chapterRef": "38"
+    },
+    {
+      "reference": "38.2",
+      "label": "No. XX: Wu Meng fed the Mosquitoes §2",
+      "chapterRef": "38"
+    },
+    {
+      "reference": "38.3",
+      "label": "No. XX: Wu Meng fed the Mosquitoes §3",
+      "chapterRef": "38"
+    },
+    {
+      "reference": "38.4",
+      "label": "No. XX: Wu Meng fed the Mosquitoes §4",
+      "chapterRef": "38"
+    },
+    {
+      "reference": "39.1",
+      "label": "No. XXI §1",
+      "chapterRef": "39"
+    },
+    {
+      "reference": "40.1",
+      "label": "No. XXII §1",
+      "chapterRef": "40"
+    },
+    {
+      "reference": "41.1",
+      "label": "No. XXIII: He resigned Office to seek his Mother §1",
+      "chapterRef": "41"
+    },
+    {
+      "reference": "41.2",
+      "label": "No. XXIII: He resigned Office to seek his Mother §2",
+      "chapterRef": "41"
+    },
+    {
+      "reference": "41.3",
+      "label": "No. XXIII: He resigned Office to seek his Mother §3",
+      "chapterRef": "41"
+    },
+    {
+      "reference": "41.4",
+      "label": "No. XXIII: He resigned Office to seek his Mother §4",
+      "chapterRef": "41"
+    },
+    {
+      "reference": "42.1",
+      "label": "No. XXIV: He watched by his Mother's Bedside §1",
+      "chapterRef": "42"
+    },
+    {
+      "reference": "42.2",
+      "label": "No. XXIV: He watched by his Mother's Bedside §2",
+      "chapterRef": "42"
+    },
+    {
+      "reference": "42.3",
+      "label": "No. XXIV: He watched by his Mother's Bedside §3",
+      "chapterRef": "42"
+    },
+    {
+      "reference": "42.4",
+      "label": "No. XXIV: He watched by his Mother's Bedside §4",
+      "chapterRef": "42"
+    },
+    {
+      "reference": "42.5",
+      "label": "No. XXIV: He watched by his Mother's Bedside §5",
+      "chapterRef": "42"
+    }
+  ],
+  "editions": [
+    {
+      "slug": "book-of-filial-duty-en",
+      "language": "en",
+      "editionType": "translation",
+      "title": "The Book of Filial Duty",
+      "translator": "Ivan Chen",
+      "publisher": "Internet Sacred Text Archive",
+      "publicationYear": 1908,
+      "source": "sacred-texts",
+      "license": "public-domain",
+      "rightsStatus": "Public domain in the United States",
+      "attributionText": "The Book of Filial Duty, translated by Ivan Chen (1908). John Murray, London. Public domain in the United States. Digital text from the Internet Sacred Text Archive.",
+      "structureScheme": "chapter and paragraph index; each chapter is one printed chapter of the classic or one of the tales",
+      "isSample": false,
+      "notes": "The import cache stores the exact segments that were validated. The reader re-fetches the chapter from the host and reports when the served count no longer matches the index."
+    }
+  ]
+}

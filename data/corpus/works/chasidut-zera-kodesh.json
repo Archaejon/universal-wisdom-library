@@ -1,0 +1,84 @@
+{
+  "slug": "chasidut-zera-kodesh",
+  "title": "Zera Kodesh",
+  "originalTitle": "זרע קודש",
+  "transliteration": "",
+  "altTitles": [],
+  "tradition": "judaism",
+  "school": "rabbinic-judaism",
+  "genre": "Chasidut",
+  "textType": "Hasidic homily and teaching",
+  "category": "Chasidut",
+  "subcategory": "Other Chasidut Works",
+  "originalLanguage": "he",
+  "dateStart": 1750,
+  "dateEnd": 1950,
+  "dateDisplay": "Hasidic literature, c. 1750–1950 CE",
+  "authorshipStatus": "established",
+  "author": "",
+  "attributionNote": "Authorship follows the Sefaria catalogue record for this work. Where a text is traditionally attributed or collectively compiled, the library does not assert a single author beyond the source's own metadata.",
+  "description": "19th-century work on the weekly Torah portions and holidays by the first rebbe of Ropshitz, Rabbi Naftali Tzvi Horowitz. Complete Chasidut text imported from Sefaria; the exact edition and licence are shown with each version.",
+  "historicalContext": "Hasidic literature gathers sermons, letters and teachings from the movement's dynasties and schools. Individual works are attributed to specific rebbes and schools rather than to Chasidut as a whole.",
+  "availabilityNote": "Imported from Sefaria. Version, source and licence are recorded per edition.",
+  "featured": false,
+  "featuredNote": "",
+  "refScheme": "chapter.paragraph",
+  "isSample": false,
+  "textStorage": "streamed",
+  "chapters": [
+    {
+      "ref": "1",
+      "label": "Approbations"
+    }
+  ],
+  "passages": [
+    {
+      "reference": "1.1",
+      "label": "1:1",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.2",
+      "label": "1:2",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.3",
+      "label": "1:3",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.4",
+      "label": "1:4",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.5",
+      "label": "1:5",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.6",
+      "label": "1:6",
+      "chapterRef": "1"
+    }
+  ],
+  "editions": [
+    {
+      "slug": "chasidut-zera-kodesh-hebrew-sefaria",
+      "language": "he",
+      "editionType": "original",
+      "title": "Lʹviv, 1868",
+      "translator": "",
+      "publisher": "https://www.nli.org.il/he/books/NNL_ALEPH001741731",
+      "publicationYear": null,
+      "source": "sefaria",
+      "license": "public-domain",
+      "rightsStatus": "Public Domain",
+      "attributionText": "Lʹviv, 1868; licence: Public Domain; source: https://www.nli.org.il/he/books/NNL_ALEPH001741731. Retrieved via Sefaria on 2026-10-20.",
+      "structureScheme": "chapter and paragraph",
+      "isSample": false,
+      "notes": "Complete work imported from Sefaria. Text is displayed as supplied by the named edition; HTML markup has been removed."
+    }
+  ]
+}

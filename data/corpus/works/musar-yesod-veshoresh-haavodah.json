@@ -1,0 +1,4413 @@
+{
+  "slug": "musar-yesod-veshoresh-haavodah",
+  "title": "Yesod VeShoresh HaAvodah",
+  "originalTitle": "יסוד ושורש העבודה",
+  "transliteration": "",
+  "altTitles": [],
+  "tradition": "judaism",
+  "school": "rabbinic-judaism",
+  "genre": "Musar",
+  "textType": "Ethical literature",
+  "category": "Musar",
+  "subcategory": "Acharonim",
+  "originalLanguage": "he",
+  "dateStart": 1000,
+  "dateEnd": 1950,
+  "dateDisplay": "Medieval to modern ethical literature",
+  "authorshipStatus": "established",
+  "author": "",
+  "attributionNote": "Authorship follows the Sefaria catalogue record for this work. Where a text is traditionally attributed or collectively compiled, the library does not assert a single author beyond the source's own metadata.",
+  "description": "18th-century guide to prayer and ethics, based heavily on the Zohar and the teachings of the Arizal. Complete Musar text imported from Sefaria; the exact edition and licence are shown with each version.",
+  "historicalContext": "Musar is Jewish ethical and devotional literature concerned with character, discipline and the conduct of ordinary life. Its genre ranges from short letters to systematic treatises.",
+  "availabilityNote": "Imported from Sefaria. Version, source and licence are recorded per edition.",
+  "featured": false,
+  "featuredNote": "",
+  "refScheme": "chapter.paragraph",
+  "isSample": false,
+  "textStorage": "streamed",
+  "chapters": [
+    {
+      "ref": "1",
+      "label": "Title Page"
+    },
+    {
+      "ref": "2",
+      "label": "Author's Introduction"
+    },
+    {
+      "ref": "3",
+      "label": "The First Gate"
+    },
+    {
+      "ref": "4",
+      "label": "The Second Gate"
+    },
+    {
+      "ref": "5",
+      "label": "The Third Gate"
+    },
+    {
+      "ref": "6",
+      "label": "The Fourth Gate"
+    },
+    {
+      "ref": "7",
+      "label": "The Fifth Gate"
+    },
+    {
+      "ref": "8",
+      "label": "The Sixth Gate"
+    },
+    {
+      "ref": "9",
+      "label": "The Seventh Gate"
+    },
+    {
+      "ref": "10",
+      "label": "The Eighth Gate"
+    },
+    {
+      "ref": "11",
+      "label": "The Ninth Gate"
+    },
+    {
+      "ref": "12",
+      "label": "The Tenth Gate"
+    },
+    {
+      "ref": "13",
+      "label": "The Eleventh Gate"
+    },
+    {
+      "ref": "14",
+      "label": "The Twelfth Gate"
+    },
+    {
+      "ref": "15",
+      "label": "Shaar HaKollel"
+    },
+    {
+      "ref": "16",
+      "label": "Exegesis I; Boundaries in the Book of Joshua"
+    },
+    {
+      "ref": "17",
+      "label": "Exegesis II; The Third Temple"
+    }
+  ],
+  "passages": [
+    {
+      "reference": "1.1",
+      "label": "1:1",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.2",
+      "label": "1:2",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.3",
+      "label": "1:3",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.4",
+      "label": "1:4",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "2.1",
+      "label": "2:1",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.2",
+      "label": "2:2",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.3",
+      "label": "2:3",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.4",
+      "label": "2:4",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.5",
+      "label": "2:5",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.6",
+      "label": "2:6",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.7",
+      "label": "2:7",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.8",
+      "label": "2:8",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.9",
+      "label": "2:9",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.10",
+      "label": "2:10",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.11",
+      "label": "2:11",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.12",
+      "label": "2:12",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.13",
+      "label": "2:13",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.14",
+      "label": "2:14",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "3.1",
+      "label": "3:1",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.2",
+      "label": "3:2",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.3",
+      "label": "3:3",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.4",
+      "label": "3:4",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.5",
+      "label": "3:5",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.6",
+      "label": "3:6",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.7",
+      "label": "3:7",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.8",
+      "label": "3:8",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.9",
+      "label": "3:9",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.10",
+      "label": "3:10",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.11",
+      "label": "3:11",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.12",
+      "label": "3:12",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.13",
+      "label": "3:13",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.14",
+      "label": "3:14",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.15",
+      "label": "3:15",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.16",
+      "label": "3:16",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.17",
+      "label": "3:17",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.18",
+      "label": "3:18",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.19",
+      "label": "3:19",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.20",
+      "label": "3:20",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.21",
+      "label": "3:21",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.22",
+      "label": "3:22",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.23",
+      "label": "3:23",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.24",
+      "label": "3:24",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.25",
+      "label": "3:25",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.26",
+      "label": "3:26",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.27",
+      "label": "3:27",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.28",
+      "label": "3:28",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.29",
+      "label": "3:29",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.30",
+      "label": "3:30",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.31",
+      "label": "3:31",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.32",
+      "label": "3:32",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.33",
+      "label": "3:33",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.34",
+      "label": "3:34",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.35",
+      "label": "3:35",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.36",
+      "label": "3:36",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.37",
+      "label": "3:37",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.38",
+      "label": "3:38",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "4.1",
+      "label": "4:1",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.2",
+      "label": "4:2",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.3",
+      "label": "4:3",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.4",
+      "label": "4:4",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.5",
+      "label": "4:5",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.6",
+      "label": "4:6",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.7",
+      "label": "4:7",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.8",
+      "label": "4:8",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.9",
+      "label": "4:9",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.10",
+      "label": "4:10",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.11",
+      "label": "4:11",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.12",
+      "label": "4:12",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.13",
+      "label": "4:13",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.14",
+      "label": "4:14",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.15",
+      "label": "4:15",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.16",
+      "label": "4:16",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.17",
+      "label": "4:17",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.18",
+      "label": "4:18",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.19",
+      "label": "4:19",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.20",
+      "label": "4:20",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.21",
+      "label": "4:21",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.22",
+      "label": "4:22",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.23",
+      "label": "4:23",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.24",
+      "label": "4:24",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.25",
+      "label": "4:25",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.26",
+      "label": "4:26",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.27",
+      "label": "4:27",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.28",
+      "label": "4:28",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.29",
+      "label": "4:29",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.30",
+      "label": "4:30",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.31",
+      "label": "4:31",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.32",
+      "label": "4:32",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.33",
+      "label": "4:33",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.34",
+      "label": "4:34",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.35",
+      "label": "4:35",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.36",
+      "label": "4:36",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.37",
+      "label": "4:37",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.38",
+      "label": "4:38",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.39",
+      "label": "4:39",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.40",
+      "label": "4:40",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.41",
+      "label": "4:41",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.42",
+      "label": "4:42",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.43",
+      "label": "4:43",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.44",
+      "label": "4:44",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.45",
+      "label": "4:45",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.46",
+      "label": "4:46",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.47",
+      "label": "4:47",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.48",
+      "label": "4:48",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.49",
+      "label": "4:49",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.50",
+      "label": "4:50",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.51",
+      "label": "4:51",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.52",
+      "label": "4:52",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.53",
+      "label": "4:53",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.54",
+      "label": "4:54",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.55",
+      "label": "4:55",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.56",
+      "label": "4:56",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.57",
+      "label": "4:57",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.58",
+      "label": "4:58",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.59",
+      "label": "4:59",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.60",
+      "label": "4:60",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.61",
+      "label": "4:61",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.62",
+      "label": "4:62",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.63",
+      "label": "4:63",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.64",
+      "label": "4:64",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.65",
+      "label": "4:65",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.66",
+      "label": "4:66",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.67",
+      "label": "4:67",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.68",
+      "label": "4:68",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.69",
+      "label": "4:69",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.70",
+      "label": "4:70",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.71",
+      "label": "4:71",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.72",
+      "label": "4:72",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.73",
+      "label": "4:73",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "5.1",
+      "label": "5:1",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.2",
+      "label": "5:2",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.3",
+      "label": "5:3",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.4",
+      "label": "5:4",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.5",
+      "label": "5:5",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.6",
+      "label": "5:6",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.7",
+      "label": "5:7",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.8",
+      "label": "5:8",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.9",
+      "label": "5:9",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.10",
+      "label": "5:10",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.11",
+      "label": "5:11",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.12",
+      "label": "5:12",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.13",
+      "label": "5:13",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.14",
+      "label": "5:14",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.15",
+      "label": "5:15",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.16",
+      "label": "5:16",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.17",
+      "label": "5:17",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.18",
+      "label": "5:18",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.19",
+      "label": "5:19",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.20",
+      "label": "5:20",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.21",
+      "label": "5:21",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.22",
+      "label": "5:22",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.23",
+      "label": "5:23",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.24",
+      "label": "5:24",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.25",
+      "label": "5:25",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.26",
+      "label": "5:26",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.27",
+      "label": "5:27",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.28",
+      "label": "5:28",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.29",
+      "label": "5:29",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.30",
+      "label": "5:30",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.31",
+      "label": "5:31",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.32",
+      "label": "5:32",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.33",
+      "label": "5:33",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.34",
+      "label": "5:34",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.35",
+      "label": "5:35",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.36",
+      "label": "5:36",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.37",
+      "label": "5:37",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.38",
+      "label": "5:38",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.39",
+      "label": "5:39",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.40",
+      "label": "5:40",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.41",
+      "label": "5:41",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.42",
+      "label": "5:42",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.43",
+      "label": "5:43",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.44",
+      "label": "5:44",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.45",
+      "label": "5:45",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.46",
+      "label": "5:46",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.47",
+      "label": "5:47",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.48",
+      "label": "5:48",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.49",
+      "label": "5:49",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.50",
+      "label": "5:50",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.51",
+      "label": "5:51",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.52",
+      "label": "5:52",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.53",
+      "label": "5:53",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.54",
+      "label": "5:54",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.55",
+      "label": "5:55",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.56",
+      "label": "5:56",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.57",
+      "label": "5:57",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.58",
+      "label": "5:58",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.59",
+      "label": "5:59",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.60",
+      "label": "5:60",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.61",
+      "label": "5:61",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.62",
+      "label": "5:62",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.63",
+      "label": "5:63",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "6.1",
+      "label": "6:1",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.2",
+      "label": "6:2",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.3",
+      "label": "6:3",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.4",
+      "label": "6:4",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.5",
+      "label": "6:5",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.6",
+      "label": "6:6",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.7",
+      "label": "6:7",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.8",
+      "label": "6:8",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.9",
+      "label": "6:9",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.10",
+      "label": "6:10",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.11",
+      "label": "6:11",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.12",
+      "label": "6:12",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.13",
+      "label": "6:13",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.14",
+      "label": "6:14",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.15",
+      "label": "6:15",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.16",
+      "label": "6:16",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.17",
+      "label": "6:17",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.18",
+      "label": "6:18",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.19",
+      "label": "6:19",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.20",
+      "label": "6:20",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.21",
+      "label": "6:21",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.22",
+      "label": "6:22",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.23",
+      "label": "6:23",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.24",
+      "label": "6:24",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.25",
+      "label": "6:25",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.26",
+      "label": "6:26",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.27",
+      "label": "6:27",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.28",
+      "label": "6:28",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.29",
+      "label": "6:29",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.30",
+      "label": "6:30",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.31",
+      "label": "6:31",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.32",
+      "label": "6:32",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.33",
+      "label": "6:33",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.34",
+      "label": "6:34",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.35",
+      "label": "6:35",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.36",
+      "label": "6:36",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.37",
+      "label": "6:37",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.38",
+      "label": "6:38",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.39",
+      "label": "6:39",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.40",
+      "label": "6:40",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.41",
+      "label": "6:41",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.42",
+      "label": "6:42",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.43",
+      "label": "6:43",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.44",
+      "label": "6:44",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.45",
+      "label": "6:45",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.46",
+      "label": "6:46",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.47",
+      "label": "6:47",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.48",
+      "label": "6:48",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.49",
+      "label": "6:49",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.50",
+      "label": "6:50",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.51",
+      "label": "6:51",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.52",
+      "label": "6:52",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.53",
+      "label": "6:53",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.54",
+      "label": "6:54",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.55",
+      "label": "6:55",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.56",
+      "label": "6:56",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.57",
+      "label": "6:57",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.58",
+      "label": "6:58",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.59",
+      "label": "6:59",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.60",
+      "label": "6:60",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.61",
+      "label": "6:61",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.62",
+      "label": "6:62",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.63",
+      "label": "6:63",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.64",
+      "label": "6:64",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.65",
+      "label": "6:65",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.66",
+      "label": "6:66",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.67",
+      "label": "6:67",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.68",
+      "label": "6:68",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.69",
+      "label": "6:69",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.70",
+      "label": "6:70",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.71",
+      "label": "6:71",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.72",
+      "label": "6:72",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.73",
+      "label": "6:73",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.74",
+      "label": "6:74",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.75",
+      "label": "6:75",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.76",
+      "label": "6:76",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.77",
+      "label": "6:77",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.78",
+      "label": "6:78",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.79",
+      "label": "6:79",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.80",
+      "label": "6:80",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.81",
+      "label": "6:81",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.82",
+      "label": "6:82",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.83",
+      "label": "6:83",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.84",
+      "label": "6:84",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.85",
+      "label": "6:85",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.86",
+      "label": "6:86",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.87",
+      "label": "6:87",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.88",
+      "label": "6:88",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.89",
+      "label": "6:89",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.90",
+      "label": "6:90",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.91",
+      "label": "6:91",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.92",
+      "label": "6:92",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.93",
+      "label": "6:93",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.94",
+      "label": "6:94",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.95",
+      "label": "6:95",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.96",
+      "label": "6:96",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.97",
+      "label": "6:97",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.98",
+      "label": "6:98",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.99",
+      "label": "6:99",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.100",
+      "label": "6:100",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.101",
+      "label": "6:101",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.102",
+      "label": "6:102",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.103",
+      "label": "6:103",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.104",
+      "label": "6:104",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.105",
+      "label": "6:105",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.106",
+      "label": "6:106",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.107",
+      "label": "6:107",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.108",
+      "label": "6:108",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.109",
+      "label": "6:109",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.110",
+      "label": "6:110",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.111",
+      "label": "6:111",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.112",
+      "label": "6:112",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.113",
+      "label": "6:113",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.114",
+      "label": "6:114",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.115",
+      "label": "6:115",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "7.1",
+      "label": "7:1",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.2",
+      "label": "7:2",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.3",
+      "label": "7:3",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.4",
+      "label": "7:4",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.5",
+      "label": "7:5",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.6",
+      "label": "7:6",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.7",
+      "label": "7:7",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.8",
+      "label": "7:8",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.9",
+      "label": "7:9",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.10",
+      "label": "7:10",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.11",
+      "label": "7:11",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.12",
+      "label": "7:12",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.13",
+      "label": "7:13",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.14",
+      "label": "7:14",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.15",
+      "label": "7:15",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.16",
+      "label": "7:16",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.17",
+      "label": "7:17",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.18",
+      "label": "7:18",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.19",
+      "label": "7:19",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.20",
+      "label": "7:20",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.21",
+      "label": "7:21",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.22",
+      "label": "7:22",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.23",
+      "label": "7:23",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.24",
+      "label": "7:24",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.25",
+      "label": "7:25",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.26",
+      "label": "7:26",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.27",
+      "label": "7:27",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.28",
+      "label": "7:28",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.29",
+      "label": "7:29",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.30",
+      "label": "7:30",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.31",
+      "label": "7:31",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.32",
+      "label": "7:32",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.33",
+      "label": "7:33",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.34",
+      "label": "7:34",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.35",
+      "label": "7:35",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.36",
+      "label": "7:36",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.37",
+      "label": "7:37",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.38",
+      "label": "7:38",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.39",
+      "label": "7:39",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "8.1",
+      "label": "8:1",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.2",
+      "label": "8:2",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.3",
+      "label": "8:3",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.4",
+      "label": "8:4",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.5",
+      "label": "8:5",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.6",
+      "label": "8:6",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.7",
+      "label": "8:7",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.8",
+      "label": "8:8",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.9",
+      "label": "8:9",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.10",
+      "label": "8:10",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.11",
+      "label": "8:11",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.12",
+      "label": "8:12",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.13",
+      "label": "8:13",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.14",
+      "label": "8:14",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.15",
+      "label": "8:15",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.16",
+      "label": "8:16",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.17",
+      "label": "8:17",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.18",
+      "label": "8:18",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.19",
+      "label": "8:19",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.20",
+      "label": "8:20",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.21",
+      "label": "8:21",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "9.1",
+      "label": "9:1",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.2",
+      "label": "9:2",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.3",
+      "label": "9:3",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.4",
+      "label": "9:4",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.5",
+      "label": "9:5",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.6",
+      "label": "9:6",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.7",
+      "label": "9:7",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.8",
+      "label": "9:8",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.9",
+      "label": "9:9",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.10",
+      "label": "9:10",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.11",
+      "label": "9:11",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.12",
+      "label": "9:12",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.13",
+      "label": "9:13",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.14",
+      "label": "9:14",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.15",
+      "label": "9:15",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.16",
+      "label": "9:16",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.17",
+      "label": "9:17",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.18",
+      "label": "9:18",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.19",
+      "label": "9:19",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.20",
+      "label": "9:20",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.21",
+      "label": "9:21",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.22",
+      "label": "9:22",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.23",
+      "label": "9:23",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.24",
+      "label": "9:24",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.25",
+      "label": "9:25",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.26",
+      "label": "9:26",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.27",
+      "label": "9:27",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.28",
+      "label": "9:28",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.29",
+      "label": "9:29",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.30",
+      "label": "9:30",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.31",
+      "label": "9:31",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.32",
+      "label": "9:32",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.33",
+      "label": "9:33",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.34",
+      "label": "9:34",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.35",
+      "label": "9:35",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.36",
+      "label": "9:36",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.37",
+      "label": "9:37",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.38",
+      "label": "9:38",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.39",
+      "label": "9:39",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.40",
+      "label": "9:40",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.41",
+      "label": "9:41",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "10.1",
+      "label": "10:1",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.2",
+      "label": "10:2",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.3",
+      "label": "10:3",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.4",
+      "label": "10:4",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.5",
+      "label": "10:5",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.6",
+      "label": "10:6",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.7",
+      "label": "10:7",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.8",
+      "label": "10:8",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.9",
+      "label": "10:9",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.10",
+      "label": "10:10",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.11",
+      "label": "10:11",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.12",
+      "label": "10:12",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.13",
+      "label": "10:13",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.14",
+      "label": "10:14",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.15",
+      "label": "10:15",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.16",
+      "label": "10:16",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.17",
+      "label": "10:17",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.18",
+      "label": "10:18",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.19",
+      "label": "10:19",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.20",
+      "label": "10:20",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.21",
+      "label": "10:21",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.22",
+      "label": "10:22",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.23",
+      "label": "10:23",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.24",
+      "label": "10:24",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.25",
+      "label": "10:25",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.26",
+      "label": "10:26",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.27",
+      "label": "10:27",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.28",
+      "label": "10:28",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.29",
+      "label": "10:29",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.30",
+      "label": "10:30",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.31",
+      "label": "10:31",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.32",
+      "label": "10:32",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.33",
+      "label": "10:33",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.34",
+      "label": "10:34",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.35",
+      "label": "10:35",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.36",
+      "label": "10:36",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.37",
+      "label": "10:37",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.38",
+      "label": "10:38",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.39",
+      "label": "10:39",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.40",
+      "label": "10:40",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.41",
+      "label": "10:41",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.42",
+      "label": "10:42",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.43",
+      "label": "10:43",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.44",
+      "label": "10:44",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.45",
+      "label": "10:45",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.46",
+      "label": "10:46",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.47",
+      "label": "10:47",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.48",
+      "label": "10:48",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.49",
+      "label": "10:49",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.50",
+      "label": "10:50",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.51",
+      "label": "10:51",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.52",
+      "label": "10:52",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.53",
+      "label": "10:53",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.54",
+      "label": "10:54",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.55",
+      "label": "10:55",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.56",
+      "label": "10:56",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "11.1",
+      "label": "11:1",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.2",
+      "label": "11:2",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.3",
+      "label": "11:3",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.4",
+      "label": "11:4",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.5",
+      "label": "11:5",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.6",
+      "label": "11:6",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.7",
+      "label": "11:7",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.8",
+      "label": "11:8",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.9",
+      "label": "11:9",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.10",
+      "label": "11:10",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.11",
+      "label": "11:11",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.12",
+      "label": "11:12",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.13",
+      "label": "11:13",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.14",
+      "label": "11:14",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.15",
+      "label": "11:15",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.16",
+      "label": "11:16",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.17",
+      "label": "11:17",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.18",
+      "label": "11:18",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.19",
+      "label": "11:19",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.20",
+      "label": "11:20",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.21",
+      "label": "11:21",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.22",
+      "label": "11:22",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.23",
+      "label": "11:23",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.24",
+      "label": "11:24",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.25",
+      "label": "11:25",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.26",
+      "label": "11:26",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.27",
+      "label": "11:27",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.28",
+      "label": "11:28",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.29",
+      "label": "11:29",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.30",
+      "label": "11:30",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.31",
+      "label": "11:31",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.32",
+      "label": "11:32",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.33",
+      "label": "11:33",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.34",
+      "label": "11:34",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.35",
+      "label": "11:35",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.36",
+      "label": "11:36",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.37",
+      "label": "11:37",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.38",
+      "label": "11:38",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.39",
+      "label": "11:39",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.40",
+      "label": "11:40",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.41",
+      "label": "11:41",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.42",
+      "label": "11:42",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.43",
+      "label": "11:43",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.44",
+      "label": "11:44",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.45",
+      "label": "11:45",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.46",
+      "label": "11:46",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.47",
+      "label": "11:47",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.48",
+      "label": "11:48",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.49",
+      "label": "11:49",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.50",
+      "label": "11:50",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.51",
+      "label": "11:51",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.52",
+      "label": "11:52",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "12.1",
+      "label": "12:1",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.2",
+      "label": "12:2",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.3",
+      "label": "12:3",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.4",
+      "label": "12:4",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.5",
+      "label": "12:5",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.6",
+      "label": "12:6",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.7",
+      "label": "12:7",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.8",
+      "label": "12:8",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.9",
+      "label": "12:9",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.10",
+      "label": "12:10",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.11",
+      "label": "12:11",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "13.1",
+      "label": "13:1",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.2",
+      "label": "13:2",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.3",
+      "label": "13:3",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.4",
+      "label": "13:4",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.5",
+      "label": "13:5",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.6",
+      "label": "13:6",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.7",
+      "label": "13:7",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.8",
+      "label": "13:8",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.9",
+      "label": "13:9",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.10",
+      "label": "13:10",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.11",
+      "label": "13:11",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.12",
+      "label": "13:12",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.13",
+      "label": "13:13",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.14",
+      "label": "13:14",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.15",
+      "label": "13:15",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.16",
+      "label": "13:16",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.17",
+      "label": "13:17",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.18",
+      "label": "13:18",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.19",
+      "label": "13:19",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.20",
+      "label": "13:20",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.21",
+      "label": "13:21",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.22",
+      "label": "13:22",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.23",
+      "label": "13:23",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.24",
+      "label": "13:24",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.25",
+      "label": "13:25",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.26",
+      "label": "13:26",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.27",
+      "label": "13:27",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.28",
+      "label": "13:28",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.29",
+      "label": "13:29",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.30",
+      "label": "13:30",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.31",
+      "label": "13:31",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.32",
+      "label": "13:32",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.33",
+      "label": "13:33",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.34",
+      "label": "13:34",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.35",
+      "label": "13:35",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.36",
+      "label": "13:36",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.37",
+      "label": "13:37",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.38",
+      "label": "13:38",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.39",
+      "label": "13:39",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.40",
+      "label": "13:40",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.41",
+      "label": "13:41",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.42",
+      "label": "13:42",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.43",
+      "label": "13:43",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.44",
+      "label": "13:44",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.45",
+      "label": "13:45",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.46",
+      "label": "13:46",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.47",
+      "label": "13:47",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.48",
+      "label": "13:48",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.49",
+      "label": "13:49",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.50",
+      "label": "13:50",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.51",
+      "label": "13:51",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.52",
+      "label": "13:52",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "14.1",
+      "label": "14:1",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.2",
+      "label": "14:2",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.3",
+      "label": "14:3",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.4",
+      "label": "14:4",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.5",
+      "label": "14:5",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.6",
+      "label": "14:6",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.7",
+      "label": "14:7",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.8",
+      "label": "14:8",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.9",
+      "label": "14:9",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.10",
+      "label": "14:10",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.11",
+      "label": "14:11",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.12",
+      "label": "14:12",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.13",
+      "label": "14:13",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.14",
+      "label": "14:14",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.15",
+      "label": "14:15",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.16",
+      "label": "14:16",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.17",
+      "label": "14:17",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.18",
+      "label": "14:18",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.19",
+      "label": "14:19",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.20",
+      "label": "14:20",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.21",
+      "label": "14:21",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.22",
+      "label": "14:22",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.23",
+      "label": "14:23",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.24",
+      "label": "14:24",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.25",
+      "label": "14:25",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.26",
+      "label": "14:26",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.27",
+      "label": "14:27",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.28",
+      "label": "14:28",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.29",
+      "label": "14:29",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.30",
+      "label": "14:30",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "15.1",
+      "label": "15:1",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.2",
+      "label": "15:2",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.3",
+      "label": "15:3",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.4",
+      "label": "15:4",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.5",
+      "label": "15:5",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.6",
+      "label": "15:6",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.7",
+      "label": "15:7",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.8",
+      "label": "15:8",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.9",
+      "label": "15:9",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.10",
+      "label": "15:10",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.11",
+      "label": "15:11",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.12",
+      "label": "15:12",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.13",
+      "label": "15:13",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.14",
+      "label": "15:14",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.15",
+      "label": "15:15",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.16",
+      "label": "15:16",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.17",
+      "label": "15:17",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.18",
+      "label": "15:18",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.19",
+      "label": "15:19",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.20",
+      "label": "15:20",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.21",
+      "label": "15:21",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.22",
+      "label": "15:22",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.23",
+      "label": "15:23",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.24",
+      "label": "15:24",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.25",
+      "label": "15:25",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.26",
+      "label": "15:26",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.27",
+      "label": "15:27",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.28",
+      "label": "15:28",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.29",
+      "label": "15:29",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.30",
+      "label": "15:30",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.31",
+      "label": "15:31",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.32",
+      "label": "15:32",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.33",
+      "label": "15:33",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.34",
+      "label": "15:34",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.35",
+      "label": "15:35",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.36",
+      "label": "15:36",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.37",
+      "label": "15:37",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.38",
+      "label": "15:38",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.39",
+      "label": "15:39",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.40",
+      "label": "15:40",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.41",
+      "label": "15:41",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.42",
+      "label": "15:42",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.43",
+      "label": "15:43",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.44",
+      "label": "15:44",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.45",
+      "label": "15:45",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.46",
+      "label": "15:46",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.47",
+      "label": "15:47",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.48",
+      "label": "15:48",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.49",
+      "label": "15:49",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.50",
+      "label": "15:50",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.51",
+      "label": "15:51",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.52",
+      "label": "15:52",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.53",
+      "label": "15:53",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.54",
+      "label": "15:54",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.55",
+      "label": "15:55",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.56",
+      "label": "15:56",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.57",
+      "label": "15:57",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.58",
+      "label": "15:58",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.59",
+      "label": "15:59",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.60",
+      "label": "15:60",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.61",
+      "label": "15:61",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.62",
+      "label": "15:62",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.63",
+      "label": "15:63",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.64",
+      "label": "15:64",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.65",
+      "label": "15:65",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.66",
+      "label": "15:66",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.67",
+      "label": "15:67",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.68",
+      "label": "15:68",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.69",
+      "label": "15:69",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.70",
+      "label": "15:70",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.71",
+      "label": "15:71",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.72",
+      "label": "15:72",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.73",
+      "label": "15:73",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.74",
+      "label": "15:74",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.75",
+      "label": "15:75",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.76",
+      "label": "15:76",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.77",
+      "label": "15:77",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.78",
+      "label": "15:78",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.79",
+      "label": "15:79",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.80",
+      "label": "15:80",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.81",
+      "label": "15:81",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.82",
+      "label": "15:82",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.83",
+      "label": "15:83",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.84",
+      "label": "15:84",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.85",
+      "label": "15:85",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.86",
+      "label": "15:86",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.87",
+      "label": "15:87",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.88",
+      "label": "15:88",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.89",
+      "label": "15:89",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.90",
+      "label": "15:90",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.91",
+      "label": "15:91",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.92",
+      "label": "15:92",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.93",
+      "label": "15:93",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.94",
+      "label": "15:94",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.95",
+      "label": "15:95",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.96",
+      "label": "15:96",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.97",
+      "label": "15:97",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.98",
+      "label": "15:98",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.99",
+      "label": "15:99",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.100",
+      "label": "15:100",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.101",
+      "label": "15:101",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.102",
+      "label": "15:102",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.103",
+      "label": "15:103",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.104",
+      "label": "15:104",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.105",
+      "label": "15:105",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.106",
+      "label": "15:106",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.107",
+      "label": "15:107",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.108",
+      "label": "15:108",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.109",
+      "label": "15:109",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.110",
+      "label": "15:110",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.111",
+      "label": "15:111",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.112",
+      "label": "15:112",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.113",
+      "label": "15:113",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.114",
+      "label": "15:114",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.115",
+      "label": "15:115",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.116",
+      "label": "15:116",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.117",
+      "label": "15:117",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.118",
+      "label": "15:118",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.119",
+      "label": "15:119",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.120",
+      "label": "15:120",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.121",
+      "label": "15:121",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.122",
+      "label": "15:122",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.123",
+      "label": "15:123",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.124",
+      "label": "15:124",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.125",
+      "label": "15:125",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.126",
+      "label": "15:126",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.127",
+      "label": "15:127",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.128",
+      "label": "15:128",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.129",
+      "label": "15:129",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.130",
+      "label": "15:130",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.131",
+      "label": "15:131",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.132",
+      "label": "15:132",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.133",
+      "label": "15:133",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.134",
+      "label": "15:134",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.135",
+      "label": "15:135",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.136",
+      "label": "15:136",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.137",
+      "label": "15:137",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.138",
+      "label": "15:138",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.139",
+      "label": "15:139",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.140",
+      "label": "15:140",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.141",
+      "label": "15:141",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.142",
+      "label": "15:142",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.143",
+      "label": "15:143",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.144",
+      "label": "15:144",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.145",
+      "label": "15:145",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.146",
+      "label": "15:146",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.147",
+      "label": "15:147",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.148",
+      "label": "15:148",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.149",
+      "label": "15:149",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.150",
+      "label": "15:150",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.151",
+      "label": "15:151",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.152",
+      "label": "15:152",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.153",
+      "label": "15:153",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.154",
+      "label": "15:154",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.155",
+      "label": "15:155",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.156",
+      "label": "15:156",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.157",
+      "label": "15:157",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.158",
+      "label": "15:158",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.159",
+      "label": "15:159",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.160",
+      "label": "15:160",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.161",
+      "label": "15:161",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.162",
+      "label": "15:162",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.163",
+      "label": "15:163",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.164",
+      "label": "15:164",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.165",
+      "label": "15:165",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.166",
+      "label": "15:166",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.167",
+      "label": "15:167",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.168",
+      "label": "15:168",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "16.1",
+      "label": "16:1",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.2",
+      "label": "16:2",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.3",
+      "label": "16:3",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.4",
+      "label": "16:4",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.5",
+      "label": "16:5",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.6",
+      "label": "16:6",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.7",
+      "label": "16:7",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.8",
+      "label": "16:8",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.9",
+      "label": "16:9",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.10",
+      "label": "16:10",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.11",
+      "label": "16:11",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.12",
+      "label": "16:12",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.13",
+      "label": "16:13",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.14",
+      "label": "16:14",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.15",
+      "label": "16:15",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.16",
+      "label": "16:16",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.17",
+      "label": "16:17",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.18",
+      "label": "16:18",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.19",
+      "label": "16:19",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.20",
+      "label": "16:20",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.21",
+      "label": "16:21",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.22",
+      "label": "16:22",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.23",
+      "label": "16:23",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.24",
+      "label": "16:24",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.25",
+      "label": "16:25",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.26",
+      "label": "16:26",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.27",
+      "label": "16:27",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.28",
+      "label": "16:28",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.29",
+      "label": "16:29",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.30",
+      "label": "16:30",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.31",
+      "label": "16:31",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.32",
+      "label": "16:32",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.33",
+      "label": "16:33",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.34",
+      "label": "16:34",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.35",
+      "label": "16:35",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.36",
+      "label": "16:36",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.37",
+      "label": "16:37",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "17.1",
+      "label": "17:1",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.2",
+      "label": "17:2",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.3",
+      "label": "17:3",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.4",
+      "label": "17:4",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.5",
+      "label": "17:5",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.6",
+      "label": "17:6",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.7",
+      "label": "17:7",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.8",
+      "label": "17:8",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.9",
+      "label": "17:9",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.10",
+      "label": "17:10",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.11",
+      "label": "17:11",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.12",
+      "label": "17:12",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.13",
+      "label": "17:13",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.14",
+      "label": "17:14",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.15",
+      "label": "17:15",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.16",
+      "label": "17:16",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.17",
+      "label": "17:17",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.18",
+      "label": "17:18",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.19",
+      "label": "17:19",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.20",
+      "label": "17:20",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.21",
+      "label": "17:21",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.22",
+      "label": "17:22",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.23",
+      "label": "17:23",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.24",
+      "label": "17:24",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.25",
+      "label": "17:25",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.26",
+      "label": "17:26",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.27",
+      "label": "17:27",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.28",
+      "label": "17:28",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.29",
+      "label": "17:29",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.30",
+      "label": "17:30",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.31",
+      "label": "17:31",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.32",
+      "label": "17:32",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.33",
+      "label": "17:33",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.34",
+      "label": "17:34",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.35",
+      "label": "17:35",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.36",
+      "label": "17:36",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.37",
+      "label": "17:37",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.38",
+      "label": "17:38",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.39",
+      "label": "17:39",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.40",
+      "label": "17:40",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.41",
+      "label": "17:41",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.42",
+      "label": "17:42",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.43",
+      "label": "17:43",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.44",
+      "label": "17:44",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.45",
+      "label": "17:45",
+      "chapterRef": "17"
+    }
+  ],
+  "editions": [
+    {
+      "slug": "musar-yesod-veshoresh-haavodah-hebrew-sefaria",
+      "language": "he",
+      "editionType": "original",
+      "title": "Warsaw, 1875",
+      "translator": "",
+      "publisher": "https://www.nli.org.il/he/books/NNL_ALEPH990011988730205171/NLI",
+      "publicationYear": null,
+      "source": "sefaria",
+      "license": "public-domain",
+      "rightsStatus": "Public Domain",
+      "attributionText": "Warsaw, 1875; licence: Public Domain; source: https://www.nli.org.il/he/books/NNL_ALEPH990011988730205171/NLI. Retrieved via Sefaria on 2026-10-20.",
+      "structureScheme": "chapter and paragraph",
+      "isSample": false,
+      "notes": "Complete work imported from Sefaria. Text is displayed as supplied by the named edition; HTML markup has been removed."
+    }
+  ]
+}

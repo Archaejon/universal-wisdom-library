@@ -1,0 +1,164 @@
+{
+  "slug": "bartleman-dew",
+  "title": "Distilled Dew",
+  "originalTitle": "",
+  "transliteration": "",
+  "altTitles": [],
+  "tradition": "christianity",
+  "school": "",
+  "genre": "Christian texts",
+  "textType": "Christian text in English translation",
+  "category": "Christian texts",
+  "subcategory": "",
+  "originalLanguage": "en",
+  "dateStart": null,
+  "dateEnd": null,
+  "dateDisplay": "",
+  "authorshipStatus": "traditional",
+  "author": "bartleman",
+  "attributionNote": "Recorded in the Christian Classics Ethereal Library under Frank (1871-1935) Bartleman (7 classics). The site catalogues the work at https://ccel.org/ccel/bartleman/dew, whose own card names the print edition transcribed here; where the site carries a title by a publisher's permission rather than in public domain, this library does not take it.",
+  "description": "Distilled Dew — the English text the Christian Classics Ethereal Library publishes for this work. The record was created by the CCEL import from the site's own catalogue and plain text; an editor's note for the work itself is still to be written.",
+  "historicalContext": "Read in the Christian Classics Ethereal Library's catalogue, whose shelves follow the site's own division of Christian literature, and whose transcription follows the print edition Los Angeles: F. Bartleman, [1920].",
+  "availabilityNote": "Complete in the Christian Classics Ethereal Library's plain-text edition: 1 chapter(s), 18 paragraph(s), 72 words. The divisions are the headings of the site's own text, which the library stores rather than asking the site for again when the work is read. The text is public domain and is displayed with the library's credit.",
+  "featured": false,
+  "featuredNote": "",
+  "refScheme": "chapter.paragraph",
+  "isSample": false,
+  "textStorage": "local",
+  "chapters": [
+    {
+      "ref": "1",
+      "label": "Distilled Dew"
+    }
+  ],
+  "passages": [
+    {
+      "reference": "1.1",
+      "label": "Distilled Dew §1",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.2",
+      "label": "Distilled Dew §2",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.3",
+      "label": "Distilled Dew §3",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.4",
+      "label": "Distilled Dew §4",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.5",
+      "label": "Distilled Dew §5",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.6",
+      "label": "Distilled Dew §6",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.7",
+      "label": "Distilled Dew §7",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.8",
+      "label": "Distilled Dew §8",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.9",
+      "label": "Distilled Dew §9",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.10",
+      "label": "Distilled Dew §10",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.11",
+      "label": "Distilled Dew §11",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.12",
+      "label": "Distilled Dew §12",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.13",
+      "label": "Distilled Dew §13",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.14",
+      "label": "Distilled Dew §14",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.15",
+      "label": "Distilled Dew §15",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.16",
+      "label": "Distilled Dew §16",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.17",
+      "label": "Distilled Dew §17",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.18",
+      "label": "Distilled Dew §18",
+      "chapterRef": "1"
+    }
+  ],
+  "editions": [
+    {
+      "slug": "bartleman-dew-en",
+      "language": "en",
+      "editionType": "translation",
+      "title": "Distilled Dew",
+      "translator": "",
+      "publisher": "Christian Classics Ethereal Library",
+      "publicationYear": null,
+      "source": "ccel",
+      "license": "public-domain",
+      "rightsStatus": "Public Domain, as the Christian Classics Ethereal Library states for this work on its own card",
+      "attributionText": "Text from the Christian Classics Ethereal Library (ccel.org), which transcribed and published this edition from Los Angeles: F. Bartleman, [1920]. The translation is public domain; the transcription is credited to the library.",
+      "structureScheme": "chapter and paragraph, the chapters being the divisions of the site's plain text",
+      "isSample": false,
+      "notes": "Imported from the plain-text file the CCEL publishes for this work; its headings divide the work, its blank lines separate the paragraphs, and nothing is fetched from ccel.org when the work is read.",
+      "texts": {
+        "1.1": "Image of page i",
+        "1.2": "Image of page 1",
+        "1.3": "Image of page 2",
+        "1.4": "Image of page 3",
+        "1.5": "Image of page 4",
+        "1.6": "Image of page 5",
+        "1.7": "Image of page 6",
+        "1.8": "Image of page 7",
+        "1.9": "Image of page 8",
+        "1.10": "Image of page 9",
+        "1.11": "Image of page 10",
+        "1.12": "Image of page 11",
+        "1.13": "Image of page 12",
+        "1.14": "Image of page 13",
+        "1.15": "Image of page 14",
+        "1.16": "Image of page 15",
+        "1.17": "Image of page 16",
+        "1.18": "Image of page 17"
+      }
+    }
+  ]
+}

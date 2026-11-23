@@ -1,0 +1,2828 @@
+{
+  "slug": "taoist-texts",
+  "title": "Taoist Texts: Ethical, Political, and Speculative",
+  "originalTitle": "",
+  "transliteration": "Taoist Texts",
+  "altTitles": [
+    "Taoist Texts",
+    "Balfour's Taoist Texts"
+  ],
+  "tradition": "taoism",
+  "school": "daoist",
+  "genre": "Anthology",
+  "textType": "Collected scriptures in translation",
+  "category": "Scripture",
+  "subcategory": "Collected Daoist texts",
+  "originalLanguage": "zh",
+  "dateStart": 1884,
+  "dateEnd": 1884,
+  "dateDisplay": "Texts of various dates, collected and translated in 1884",
+  "authorshipStatus": "composite",
+  "author": "",
+  "attributionNote": "Balfour's volume gathers ten Chinese texts in translation. The Tao Te Ching, the Yin Fu Ching and the Kan Ying Pien are canonical or widely circulated; the T'ai Hsi, Hsin Yin, Ta T'ung, Ch'ih Wen T'ung and Su Shu are short scriptures and tracts of the Daoist canon, and the extract from the Hung Lieh Chuan is a Han-dynasty anecdote about Huai-nan Tsze. The individual texts are anonymous or traditionally attributed; the volume is Balfour's.",
+  "description": "Frederic Henry Balfour's collection was the first English anthology to treat Daoist scripture as a literature rather than a curiosity. It opens with his own translation of the Tao Te Ching and then prints the short classics that the temples actually used: the Yin Fu Ching on the harmony of the seen and the unseen, the T'ai Hsi and Hsin Yin Ching on the nourishing of life and the seal of the heart, the Ta T'ung Ching on the great harmony, the Ch'ih Wen T'ung and the Ch'ing Ching Ching on purity and the settling of the mind, the Su Shu, or 'Book of Rewards', and the Kan Ying Pien on retribution. Together they show the devotional and moral side of Daoism that the philosophical classics do not.",
+  "historicalContext": "Balfour edited the North-China Herald in Shanghai and wrote on Chinese religion and literature for English readers. Trübner published the volume in London and Kelly and Walsh in Shanghai in 1884, when the Daozang was still almost unknown in Europe and the morality books were being printed by the million for household use. His translations are plain and sometimes stiff, but they made a body of scripture available a generation before Legge's appendixes.",
+  "availabilityNote": "Complete for this volume. All ten texts are streamed from the Internet Sacred Text Archive at read time, one text per chapter. Balfour's introduction and the notes he prints with each text stand with it, as in the printed volume; the volume's front matter is not part of the work.",
+  "featured": false,
+  "featuredNote": "",
+  "refScheme": "chapter.paragraph",
+  "isSample": false,
+  "textStorage": "streamed",
+  "chapters": [
+    {
+      "ref": "1",
+      "label": "The Tao Te Ching"
+    },
+    {
+      "ref": "2",
+      "label": "The Yin Fu Ching"
+    },
+    {
+      "ref": "3",
+      "label": "The T'ai Hsi Ching"
+    },
+    {
+      "ref": "4",
+      "label": "The Hsin Yin Ching"
+    },
+    {
+      "ref": "5",
+      "label": "The Ta T'ung Ching"
+    },
+    {
+      "ref": "6",
+      "label": "The Ch'ih Wen T'ung"
+    },
+    {
+      "ref": "7",
+      "label": "The Ch'ing Ching Ching"
+    },
+    {
+      "ref": "8",
+      "label": "A Chapter from the Hung Lieh Chuan, by Huai-nan Tsze, Prince of Kuang Ling"
+    },
+    {
+      "ref": "9",
+      "label": "The Su Shu"
+    },
+    {
+      "ref": "10",
+      "label": "The Kan Ying Pien"
+    }
+  ],
+  "passages": [
+    {
+      "reference": "1.1",
+      "label": "The Tao Te Ching §1",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.2",
+      "label": "The Tao Te Ching §2",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.3",
+      "label": "The Tao Te Ching §3",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.4",
+      "label": "The Tao Te Ching §4",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.5",
+      "label": "The Tao Te Ching §5",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.6",
+      "label": "The Tao Te Ching §6",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.7",
+      "label": "The Tao Te Ching §7",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.8",
+      "label": "The Tao Te Ching §8",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.9",
+      "label": "The Tao Te Ching §9",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.10",
+      "label": "The Tao Te Ching §10",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.11",
+      "label": "The Tao Te Ching §11",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.12",
+      "label": "The Tao Te Ching §12",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.13",
+      "label": "The Tao Te Ching §13",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.14",
+      "label": "The Tao Te Ching §14",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.15",
+      "label": "The Tao Te Ching §15",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.16",
+      "label": "The Tao Te Ching §16",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.17",
+      "label": "The Tao Te Ching §17",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.18",
+      "label": "The Tao Te Ching §18",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.19",
+      "label": "The Tao Te Ching §19",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.20",
+      "label": "The Tao Te Ching §20",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.21",
+      "label": "The Tao Te Ching §21",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.22",
+      "label": "The Tao Te Ching §22",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.23",
+      "label": "The Tao Te Ching §23",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.24",
+      "label": "The Tao Te Ching §24",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.25",
+      "label": "The Tao Te Ching §25",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.26",
+      "label": "The Tao Te Ching §26",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.27",
+      "label": "The Tao Te Ching §27",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.28",
+      "label": "The Tao Te Ching §28",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.29",
+      "label": "The Tao Te Ching §29",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.30",
+      "label": "The Tao Te Ching §30",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.31",
+      "label": "The Tao Te Ching §31",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.32",
+      "label": "The Tao Te Ching §32",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.33",
+      "label": "The Tao Te Ching §33",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.34",
+      "label": "The Tao Te Ching §34",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.35",
+      "label": "The Tao Te Ching §35",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.36",
+      "label": "The Tao Te Ching §36",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.37",
+      "label": "The Tao Te Ching §37",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.38",
+      "label": "The Tao Te Ching §38",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.39",
+      "label": "The Tao Te Ching §39",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.40",
+      "label": "The Tao Te Ching §40",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.41",
+      "label": "The Tao Te Ching §41",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.42",
+      "label": "The Tao Te Ching §42",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.43",
+      "label": "The Tao Te Ching §43",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.44",
+      "label": "The Tao Te Ching §44",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.45",
+      "label": "The Tao Te Ching §45",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.46",
+      "label": "The Tao Te Ching §46",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.47",
+      "label": "The Tao Te Ching §47",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.48",
+      "label": "The Tao Te Ching §48",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.49",
+      "label": "The Tao Te Ching §49",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.50",
+      "label": "The Tao Te Ching §50",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.51",
+      "label": "The Tao Te Ching §51",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.52",
+      "label": "The Tao Te Ching §52",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.53",
+      "label": "The Tao Te Ching §53",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.54",
+      "label": "The Tao Te Ching §54",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.55",
+      "label": "The Tao Te Ching §55",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.56",
+      "label": "The Tao Te Ching §56",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.57",
+      "label": "The Tao Te Ching §57",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.58",
+      "label": "The Tao Te Ching §58",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.59",
+      "label": "The Tao Te Ching §59",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.60",
+      "label": "The Tao Te Ching §60",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.61",
+      "label": "The Tao Te Ching §61",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.62",
+      "label": "The Tao Te Ching §62",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.63",
+      "label": "The Tao Te Ching §63",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.64",
+      "label": "The Tao Te Ching §64",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.65",
+      "label": "The Tao Te Ching §65",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.66",
+      "label": "The Tao Te Ching §66",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.67",
+      "label": "The Tao Te Ching §67",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.68",
+      "label": "The Tao Te Ching §68",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.69",
+      "label": "The Tao Te Ching §69",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.70",
+      "label": "The Tao Te Ching §70",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.71",
+      "label": "The Tao Te Ching §71",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.72",
+      "label": "The Tao Te Ching §72",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.73",
+      "label": "The Tao Te Ching §73",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.74",
+      "label": "The Tao Te Ching §74",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.75",
+      "label": "The Tao Te Ching §75",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.76",
+      "label": "The Tao Te Ching §76",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.77",
+      "label": "The Tao Te Ching §77",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.78",
+      "label": "The Tao Te Ching §78",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.79",
+      "label": "The Tao Te Ching §79",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.80",
+      "label": "The Tao Te Ching §80",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.81",
+      "label": "The Tao Te Ching §81",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.82",
+      "label": "The Tao Te Ching §82",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.83",
+      "label": "The Tao Te Ching §83",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.84",
+      "label": "The Tao Te Ching §84",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.85",
+      "label": "The Tao Te Ching §85",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.86",
+      "label": "The Tao Te Ching §86",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.87",
+      "label": "The Tao Te Ching §87",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.88",
+      "label": "The Tao Te Ching §88",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.89",
+      "label": "The Tao Te Ching §89",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.90",
+      "label": "The Tao Te Ching §90",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.91",
+      "label": "The Tao Te Ching §91",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.92",
+      "label": "The Tao Te Ching §92",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.93",
+      "label": "The Tao Te Ching §93",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.94",
+      "label": "The Tao Te Ching §94",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.95",
+      "label": "The Tao Te Ching §95",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.96",
+      "label": "The Tao Te Ching §96",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.97",
+      "label": "The Tao Te Ching §97",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.98",
+      "label": "The Tao Te Ching §98",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.99",
+      "label": "The Tao Te Ching §99",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.100",
+      "label": "The Tao Te Ching §100",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.101",
+      "label": "The Tao Te Ching §101",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.102",
+      "label": "The Tao Te Ching §102",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.103",
+      "label": "The Tao Te Ching §103",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.104",
+      "label": "The Tao Te Ching §104",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.105",
+      "label": "The Tao Te Ching §105",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.106",
+      "label": "The Tao Te Ching §106",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.107",
+      "label": "The Tao Te Ching §107",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.108",
+      "label": "The Tao Te Ching §108",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.109",
+      "label": "The Tao Te Ching §109",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.110",
+      "label": "The Tao Te Ching §110",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.111",
+      "label": "The Tao Te Ching §111",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.112",
+      "label": "The Tao Te Ching §112",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.113",
+      "label": "The Tao Te Ching §113",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.114",
+      "label": "The Tao Te Ching §114",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.115",
+      "label": "The Tao Te Ching §115",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.116",
+      "label": "The Tao Te Ching §116",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.117",
+      "label": "The Tao Te Ching §117",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.118",
+      "label": "The Tao Te Ching §118",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.119",
+      "label": "The Tao Te Ching §119",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.120",
+      "label": "The Tao Te Ching §120",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.121",
+      "label": "The Tao Te Ching §121",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.122",
+      "label": "The Tao Te Ching §122",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.123",
+      "label": "The Tao Te Ching §123",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.124",
+      "label": "The Tao Te Ching §124",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.125",
+      "label": "The Tao Te Ching §125",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.126",
+      "label": "The Tao Te Ching §126",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.127",
+      "label": "The Tao Te Ching §127",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.128",
+      "label": "The Tao Te Ching §128",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.129",
+      "label": "The Tao Te Ching §129",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.130",
+      "label": "The Tao Te Ching §130",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.131",
+      "label": "The Tao Te Ching §131",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.132",
+      "label": "The Tao Te Ching §132",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.133",
+      "label": "The Tao Te Ching §133",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.134",
+      "label": "The Tao Te Ching §134",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.135",
+      "label": "The Tao Te Ching §135",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.136",
+      "label": "The Tao Te Ching §136",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.137",
+      "label": "The Tao Te Ching §137",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.138",
+      "label": "The Tao Te Ching §138",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.139",
+      "label": "The Tao Te Ching §139",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.140",
+      "label": "The Tao Te Ching §140",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.141",
+      "label": "The Tao Te Ching §141",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.142",
+      "label": "The Tao Te Ching §142",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.143",
+      "label": "The Tao Te Ching §143",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.144",
+      "label": "The Tao Te Ching §144",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.145",
+      "label": "The Tao Te Ching §145",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.146",
+      "label": "The Tao Te Ching §146",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.147",
+      "label": "The Tao Te Ching §147",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.148",
+      "label": "The Tao Te Ching §148",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.149",
+      "label": "The Tao Te Ching §149",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.150",
+      "label": "The Tao Te Ching §150",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.151",
+      "label": "The Tao Te Ching §151",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.152",
+      "label": "The Tao Te Ching §152",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.153",
+      "label": "The Tao Te Ching §153",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.154",
+      "label": "The Tao Te Ching §154",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.155",
+      "label": "The Tao Te Ching §155",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.156",
+      "label": "The Tao Te Ching §156",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.157",
+      "label": "The Tao Te Ching §157",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.158",
+      "label": "The Tao Te Ching §158",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.159",
+      "label": "The Tao Te Ching §159",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.160",
+      "label": "The Tao Te Ching §160",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.161",
+      "label": "The Tao Te Ching §161",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.162",
+      "label": "The Tao Te Ching §162",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.163",
+      "label": "The Tao Te Ching §163",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.164",
+      "label": "The Tao Te Ching §164",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.165",
+      "label": "The Tao Te Ching §165",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.166",
+      "label": "The Tao Te Ching §166",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.167",
+      "label": "The Tao Te Ching §167",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.168",
+      "label": "The Tao Te Ching §168",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.169",
+      "label": "The Tao Te Ching §169",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.170",
+      "label": "The Tao Te Ching §170",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.171",
+      "label": "The Tao Te Ching §171",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.172",
+      "label": "The Tao Te Ching §172",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.173",
+      "label": "The Tao Te Ching §173",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.174",
+      "label": "The Tao Te Ching §174",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.175",
+      "label": "The Tao Te Ching §175",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.176",
+      "label": "The Tao Te Ching §176",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.177",
+      "label": "The Tao Te Ching §177",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.178",
+      "label": "The Tao Te Ching §178",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.179",
+      "label": "The Tao Te Ching §179",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.180",
+      "label": "The Tao Te Ching §180",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.181",
+      "label": "The Tao Te Ching §181",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.182",
+      "label": "The Tao Te Ching §182",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.183",
+      "label": "The Tao Te Ching §183",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.184",
+      "label": "The Tao Te Ching §184",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.185",
+      "label": "The Tao Te Ching §185",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.186",
+      "label": "The Tao Te Ching §186",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.187",
+      "label": "The Tao Te Ching §187",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.188",
+      "label": "The Tao Te Ching §188",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.189",
+      "label": "The Tao Te Ching §189",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.190",
+      "label": "The Tao Te Ching §190",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.191",
+      "label": "The Tao Te Ching §191",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.192",
+      "label": "The Tao Te Ching §192",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.193",
+      "label": "The Tao Te Ching §193",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.194",
+      "label": "The Tao Te Ching §194",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.195",
+      "label": "The Tao Te Ching §195",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.196",
+      "label": "The Tao Te Ching §196",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.197",
+      "label": "The Tao Te Ching §197",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.198",
+      "label": "The Tao Te Ching §198",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.199",
+      "label": "The Tao Te Ching §199",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.200",
+      "label": "The Tao Te Ching §200",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.201",
+      "label": "The Tao Te Ching §201",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.202",
+      "label": "The Tao Te Ching §202",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.203",
+      "label": "The Tao Te Ching §203",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.204",
+      "label": "The Tao Te Ching §204",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.205",
+      "label": "The Tao Te Ching §205",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.206",
+      "label": "The Tao Te Ching §206",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.207",
+      "label": "The Tao Te Ching §207",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.208",
+      "label": "The Tao Te Ching §208",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.209",
+      "label": "The Tao Te Ching §209",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.210",
+      "label": "The Tao Te Ching §210",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.211",
+      "label": "The Tao Te Ching §211",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.212",
+      "label": "The Tao Te Ching §212",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.213",
+      "label": "The Tao Te Ching §213",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.214",
+      "label": "The Tao Te Ching §214",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.215",
+      "label": "The Tao Te Ching §215",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.216",
+      "label": "The Tao Te Ching §216",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.217",
+      "label": "The Tao Te Ching §217",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.218",
+      "label": "The Tao Te Ching §218",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.219",
+      "label": "The Tao Te Ching §219",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.220",
+      "label": "The Tao Te Ching §220",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.221",
+      "label": "The Tao Te Ching §221",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.222",
+      "label": "The Tao Te Ching §222",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.223",
+      "label": "The Tao Te Ching §223",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.224",
+      "label": "The Tao Te Ching §224",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.225",
+      "label": "The Tao Te Ching §225",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.226",
+      "label": "The Tao Te Ching §226",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.227",
+      "label": "The Tao Te Ching §227",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.228",
+      "label": "The Tao Te Ching §228",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.229",
+      "label": "The Tao Te Ching §229",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.230",
+      "label": "The Tao Te Ching §230",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.231",
+      "label": "The Tao Te Ching §231",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.232",
+      "label": "The Tao Te Ching §232",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.233",
+      "label": "The Tao Te Ching §233",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.234",
+      "label": "The Tao Te Ching §234",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.235",
+      "label": "The Tao Te Ching §235",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.236",
+      "label": "The Tao Te Ching §236",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.237",
+      "label": "The Tao Te Ching §237",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.238",
+      "label": "The Tao Te Ching §238",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.239",
+      "label": "The Tao Te Ching §239",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.240",
+      "label": "The Tao Te Ching §240",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.241",
+      "label": "The Tao Te Ching §241",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.242",
+      "label": "The Tao Te Ching §242",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.243",
+      "label": "The Tao Te Ching §243",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.244",
+      "label": "The Tao Te Ching §244",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.245",
+      "label": "The Tao Te Ching §245",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.246",
+      "label": "The Tao Te Ching §246",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.247",
+      "label": "The Tao Te Ching §247",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.248",
+      "label": "The Tao Te Ching §248",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.249",
+      "label": "The Tao Te Ching §249",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.250",
+      "label": "The Tao Te Ching §250",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.251",
+      "label": "The Tao Te Ching §251",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.252",
+      "label": "The Tao Te Ching §252",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.253",
+      "label": "The Tao Te Ching §253",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.254",
+      "label": "The Tao Te Ching §254",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.255",
+      "label": "The Tao Te Ching §255",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.256",
+      "label": "The Tao Te Ching §256",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.257",
+      "label": "The Tao Te Ching §257",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.258",
+      "label": "The Tao Te Ching §258",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.259",
+      "label": "The Tao Te Ching §259",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.260",
+      "label": "The Tao Te Ching §260",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.261",
+      "label": "The Tao Te Ching §261",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.262",
+      "label": "The Tao Te Ching §262",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.263",
+      "label": "The Tao Te Ching §263",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.264",
+      "label": "The Tao Te Ching §264",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.265",
+      "label": "The Tao Te Ching §265",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.266",
+      "label": "The Tao Te Ching §266",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.267",
+      "label": "The Tao Te Ching §267",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.268",
+      "label": "The Tao Te Ching §268",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.269",
+      "label": "The Tao Te Ching §269",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.270",
+      "label": "The Tao Te Ching §270",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.271",
+      "label": "The Tao Te Ching §271",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.272",
+      "label": "The Tao Te Ching §272",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.273",
+      "label": "The Tao Te Ching §273",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.274",
+      "label": "The Tao Te Ching §274",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.275",
+      "label": "The Tao Te Ching §275",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.276",
+      "label": "The Tao Te Ching §276",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.277",
+      "label": "The Tao Te Ching §277",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.278",
+      "label": "The Tao Te Ching §278",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.279",
+      "label": "The Tao Te Ching §279",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.280",
+      "label": "The Tao Te Ching §280",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.281",
+      "label": "The Tao Te Ching §281",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.282",
+      "label": "The Tao Te Ching §282",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.283",
+      "label": "The Tao Te Ching §283",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.284",
+      "label": "The Tao Te Ching §284",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.285",
+      "label": "The Tao Te Ching §285",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.286",
+      "label": "The Tao Te Ching §286",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.287",
+      "label": "The Tao Te Ching §287",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.288",
+      "label": "The Tao Te Ching §288",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.289",
+      "label": "The Tao Te Ching §289",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.290",
+      "label": "The Tao Te Ching §290",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.291",
+      "label": "The Tao Te Ching §291",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.292",
+      "label": "The Tao Te Ching §292",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.293",
+      "label": "The Tao Te Ching §293",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.294",
+      "label": "The Tao Te Ching §294",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.295",
+      "label": "The Tao Te Ching §295",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.296",
+      "label": "The Tao Te Ching §296",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.297",
+      "label": "The Tao Te Ching §297",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.298",
+      "label": "The Tao Te Ching §298",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.299",
+      "label": "The Tao Te Ching §299",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.300",
+      "label": "The Tao Te Ching §300",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.301",
+      "label": "The Tao Te Ching §301",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.302",
+      "label": "The Tao Te Ching §302",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.303",
+      "label": "The Tao Te Ching §303",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.304",
+      "label": "The Tao Te Ching §304",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.305",
+      "label": "The Tao Te Ching §305",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.306",
+      "label": "The Tao Te Ching §306",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.307",
+      "label": "The Tao Te Ching §307",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.308",
+      "label": "The Tao Te Ching §308",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.309",
+      "label": "The Tao Te Ching §309",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.310",
+      "label": "The Tao Te Ching §310",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.311",
+      "label": "The Tao Te Ching §311",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.312",
+      "label": "The Tao Te Ching §312",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.313",
+      "label": "The Tao Te Ching §313",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "2.1",
+      "label": "The Yin Fu Ching §1",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.2",
+      "label": "The Yin Fu Ching §2",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.3",
+      "label": "The Yin Fu Ching §3",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.4",
+      "label": "The Yin Fu Ching §4",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.5",
+      "label": "The Yin Fu Ching §5",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.6",
+      "label": "The Yin Fu Ching §6",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.7",
+      "label": "The Yin Fu Ching §7",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.8",
+      "label": "The Yin Fu Ching §8",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.9",
+      "label": "The Yin Fu Ching §9",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.10",
+      "label": "The Yin Fu Ching §10",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.11",
+      "label": "The Yin Fu Ching §11",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.12",
+      "label": "The Yin Fu Ching §12",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.13",
+      "label": "The Yin Fu Ching §13",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.14",
+      "label": "The Yin Fu Ching §14",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.15",
+      "label": "The Yin Fu Ching §15",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.16",
+      "label": "The Yin Fu Ching §16",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.17",
+      "label": "The Yin Fu Ching §17",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.18",
+      "label": "The Yin Fu Ching §18",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.19",
+      "label": "The Yin Fu Ching §19",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.20",
+      "label": "The Yin Fu Ching §20",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.21",
+      "label": "The Yin Fu Ching §21",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.22",
+      "label": "The Yin Fu Ching §22",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.23",
+      "label": "The Yin Fu Ching §23",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.24",
+      "label": "The Yin Fu Ching §24",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.25",
+      "label": "The Yin Fu Ching §25",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.26",
+      "label": "The Yin Fu Ching §26",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.27",
+      "label": "The Yin Fu Ching §27",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.28",
+      "label": "The Yin Fu Ching §28",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.29",
+      "label": "The Yin Fu Ching §29",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.30",
+      "label": "The Yin Fu Ching §30",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.31",
+      "label": "The Yin Fu Ching §31",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.32",
+      "label": "The Yin Fu Ching §32",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.33",
+      "label": "The Yin Fu Ching §33",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.34",
+      "label": "The Yin Fu Ching §34",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.35",
+      "label": "The Yin Fu Ching §35",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.36",
+      "label": "The Yin Fu Ching §36",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.37",
+      "label": "The Yin Fu Ching §37",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.38",
+      "label": "The Yin Fu Ching §38",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.39",
+      "label": "The Yin Fu Ching §39",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.40",
+      "label": "The Yin Fu Ching §40",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.41",
+      "label": "The Yin Fu Ching §41",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.42",
+      "label": "The Yin Fu Ching §42",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.43",
+      "label": "The Yin Fu Ching §43",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.44",
+      "label": "The Yin Fu Ching §44",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.45",
+      "label": "The Yin Fu Ching §45",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.46",
+      "label": "The Yin Fu Ching §46",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.47",
+      "label": "The Yin Fu Ching §47",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.48",
+      "label": "The Yin Fu Ching §48",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.49",
+      "label": "The Yin Fu Ching §49",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.50",
+      "label": "The Yin Fu Ching §50",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.51",
+      "label": "The Yin Fu Ching §51",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.52",
+      "label": "The Yin Fu Ching §52",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.53",
+      "label": "The Yin Fu Ching §53",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.54",
+      "label": "The Yin Fu Ching §54",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.55",
+      "label": "The Yin Fu Ching §55",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.56",
+      "label": "The Yin Fu Ching §56",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.57",
+      "label": "The Yin Fu Ching §57",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.58",
+      "label": "The Yin Fu Ching §58",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.59",
+      "label": "The Yin Fu Ching §59",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.60",
+      "label": "The Yin Fu Ching §60",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.61",
+      "label": "The Yin Fu Ching §61",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.62",
+      "label": "The Yin Fu Ching §62",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.63",
+      "label": "The Yin Fu Ching §63",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.64",
+      "label": "The Yin Fu Ching §64",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.65",
+      "label": "The Yin Fu Ching §65",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.66",
+      "label": "The Yin Fu Ching §66",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.67",
+      "label": "The Yin Fu Ching §67",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.68",
+      "label": "The Yin Fu Ching §68",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.69",
+      "label": "The Yin Fu Ching §69",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.70",
+      "label": "The Yin Fu Ching §70",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.71",
+      "label": "The Yin Fu Ching §71",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.72",
+      "label": "The Yin Fu Ching §72",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.73",
+      "label": "The Yin Fu Ching §73",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.74",
+      "label": "The Yin Fu Ching §74",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.75",
+      "label": "The Yin Fu Ching §75",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.76",
+      "label": "The Yin Fu Ching §76",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.77",
+      "label": "The Yin Fu Ching §77",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.78",
+      "label": "The Yin Fu Ching §78",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.79",
+      "label": "The Yin Fu Ching §79",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "3.1",
+      "label": "The T'ai Hsi Ching §1",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.2",
+      "label": "The T'ai Hsi Ching §2",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.3",
+      "label": "The T'ai Hsi Ching §3",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.4",
+      "label": "The T'ai Hsi Ching §4",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.5",
+      "label": "The T'ai Hsi Ching §5",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.6",
+      "label": "The T'ai Hsi Ching §6",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.7",
+      "label": "The T'ai Hsi Ching §7",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.8",
+      "label": "The T'ai Hsi Ching §8",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.9",
+      "label": "The T'ai Hsi Ching §9",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.10",
+      "label": "The T'ai Hsi Ching §10",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.11",
+      "label": "The T'ai Hsi Ching §11",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.12",
+      "label": "The T'ai Hsi Ching §12",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.13",
+      "label": "The T'ai Hsi Ching §13",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.14",
+      "label": "The T'ai Hsi Ching §14",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.15",
+      "label": "The T'ai Hsi Ching §15",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.16",
+      "label": "The T'ai Hsi Ching §16",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.17",
+      "label": "The T'ai Hsi Ching §17",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.18",
+      "label": "The T'ai Hsi Ching §18",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.19",
+      "label": "The T'ai Hsi Ching §19",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.20",
+      "label": "The T'ai Hsi Ching §20",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.21",
+      "label": "The T'ai Hsi Ching §21",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "4.1",
+      "label": "The Hsin Yin Ching §1",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.2",
+      "label": "The Hsin Yin Ching §2",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.3",
+      "label": "The Hsin Yin Ching §3",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.4",
+      "label": "The Hsin Yin Ching §4",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.5",
+      "label": "The Hsin Yin Ching §5",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.6",
+      "label": "The Hsin Yin Ching §6",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.7",
+      "label": "The Hsin Yin Ching §7",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.8",
+      "label": "The Hsin Yin Ching §8",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.9",
+      "label": "The Hsin Yin Ching §9",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.10",
+      "label": "The Hsin Yin Ching §10",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.11",
+      "label": "The Hsin Yin Ching §11",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.12",
+      "label": "The Hsin Yin Ching §12",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "5.1",
+      "label": "The Ta T'ung Ching §1",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.2",
+      "label": "The Ta T'ung Ching §2",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.3",
+      "label": "The Ta T'ung Ching §3",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.4",
+      "label": "The Ta T'ung Ching §4",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.5",
+      "label": "The Ta T'ung Ching §5",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.6",
+      "label": "The Ta T'ung Ching §6",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.7",
+      "label": "The Ta T'ung Ching §7",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "6.1",
+      "label": "The Ch'ih Wen T'ung §1",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.2",
+      "label": "The Ch'ih Wen T'ung §2",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.3",
+      "label": "The Ch'ih Wen T'ung §3",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "7.1",
+      "label": "The Ch'ing Ching Ching §1",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.2",
+      "label": "The Ch'ing Ching Ching §2",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.3",
+      "label": "The Ch'ing Ching Ching §3",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.4",
+      "label": "The Ch'ing Ching Ching §4",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.5",
+      "label": "The Ch'ing Ching Ching §5",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.6",
+      "label": "The Ch'ing Ching Ching §6",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.7",
+      "label": "The Ch'ing Ching Ching §7",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.8",
+      "label": "The Ch'ing Ching Ching §8",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.9",
+      "label": "The Ch'ing Ching Ching §9",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "8.1",
+      "label": "A Chapter from the Hung Lieh Chuan, by Huai-nan Tsze, Prince of Kuang Ling §1",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.2",
+      "label": "A Chapter from the Hung Lieh Chuan, by Huai-nan Tsze, Prince of Kuang Ling §2",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.3",
+      "label": "A Chapter from the Hung Lieh Chuan, by Huai-nan Tsze, Prince of Kuang Ling §3",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.4",
+      "label": "A Chapter from the Hung Lieh Chuan, by Huai-nan Tsze, Prince of Kuang Ling §4",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.5",
+      "label": "A Chapter from the Hung Lieh Chuan, by Huai-nan Tsze, Prince of Kuang Ling §5",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.6",
+      "label": "A Chapter from the Hung Lieh Chuan, by Huai-nan Tsze, Prince of Kuang Ling §6",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.7",
+      "label": "A Chapter from the Hung Lieh Chuan, by Huai-nan Tsze, Prince of Kuang Ling §7",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.8",
+      "label": "A Chapter from the Hung Lieh Chuan, by Huai-nan Tsze, Prince of Kuang Ling §8",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.9",
+      "label": "A Chapter from the Hung Lieh Chuan, by Huai-nan Tsze, Prince of Kuang Ling §9",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.10",
+      "label": "A Chapter from the Hung Lieh Chuan, by Huai-nan Tsze, Prince of Kuang Ling §10",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.11",
+      "label": "A Chapter from the Hung Lieh Chuan, by Huai-nan Tsze, Prince of Kuang Ling §11",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.12",
+      "label": "A Chapter from the Hung Lieh Chuan, by Huai-nan Tsze, Prince of Kuang Ling §12",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.13",
+      "label": "A Chapter from the Hung Lieh Chuan, by Huai-nan Tsze, Prince of Kuang Ling §13",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.14",
+      "label": "A Chapter from the Hung Lieh Chuan, by Huai-nan Tsze, Prince of Kuang Ling §14",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.15",
+      "label": "A Chapter from the Hung Lieh Chuan, by Huai-nan Tsze, Prince of Kuang Ling §15",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.16",
+      "label": "A Chapter from the Hung Lieh Chuan, by Huai-nan Tsze, Prince of Kuang Ling §16",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.17",
+      "label": "A Chapter from the Hung Lieh Chuan, by Huai-nan Tsze, Prince of Kuang Ling §17",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.18",
+      "label": "A Chapter from the Hung Lieh Chuan, by Huai-nan Tsze, Prince of Kuang Ling §18",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.19",
+      "label": "A Chapter from the Hung Lieh Chuan, by Huai-nan Tsze, Prince of Kuang Ling §19",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.20",
+      "label": "A Chapter from the Hung Lieh Chuan, by Huai-nan Tsze, Prince of Kuang Ling §20",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.21",
+      "label": "A Chapter from the Hung Lieh Chuan, by Huai-nan Tsze, Prince of Kuang Ling §21",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.22",
+      "label": "A Chapter from the Hung Lieh Chuan, by Huai-nan Tsze, Prince of Kuang Ling §22",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.23",
+      "label": "A Chapter from the Hung Lieh Chuan, by Huai-nan Tsze, Prince of Kuang Ling §23",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.24",
+      "label": "A Chapter from the Hung Lieh Chuan, by Huai-nan Tsze, Prince of Kuang Ling §24",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.25",
+      "label": "A Chapter from the Hung Lieh Chuan, by Huai-nan Tsze, Prince of Kuang Ling §25",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.26",
+      "label": "A Chapter from the Hung Lieh Chuan, by Huai-nan Tsze, Prince of Kuang Ling §26",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.27",
+      "label": "A Chapter from the Hung Lieh Chuan, by Huai-nan Tsze, Prince of Kuang Ling §27",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.28",
+      "label": "A Chapter from the Hung Lieh Chuan, by Huai-nan Tsze, Prince of Kuang Ling §28",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.29",
+      "label": "A Chapter from the Hung Lieh Chuan, by Huai-nan Tsze, Prince of Kuang Ling §29",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.30",
+      "label": "A Chapter from the Hung Lieh Chuan, by Huai-nan Tsze, Prince of Kuang Ling §30",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.31",
+      "label": "A Chapter from the Hung Lieh Chuan, by Huai-nan Tsze, Prince of Kuang Ling §31",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.32",
+      "label": "A Chapter from the Hung Lieh Chuan, by Huai-nan Tsze, Prince of Kuang Ling §32",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.33",
+      "label": "A Chapter from the Hung Lieh Chuan, by Huai-nan Tsze, Prince of Kuang Ling §33",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.34",
+      "label": "A Chapter from the Hung Lieh Chuan, by Huai-nan Tsze, Prince of Kuang Ling §34",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.35",
+      "label": "A Chapter from the Hung Lieh Chuan, by Huai-nan Tsze, Prince of Kuang Ling §35",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.36",
+      "label": "A Chapter from the Hung Lieh Chuan, by Huai-nan Tsze, Prince of Kuang Ling §36",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.37",
+      "label": "A Chapter from the Hung Lieh Chuan, by Huai-nan Tsze, Prince of Kuang Ling §37",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.38",
+      "label": "A Chapter from the Hung Lieh Chuan, by Huai-nan Tsze, Prince of Kuang Ling §38",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.39",
+      "label": "A Chapter from the Hung Lieh Chuan, by Huai-nan Tsze, Prince of Kuang Ling §39",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.40",
+      "label": "A Chapter from the Hung Lieh Chuan, by Huai-nan Tsze, Prince of Kuang Ling §40",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.41",
+      "label": "A Chapter from the Hung Lieh Chuan, by Huai-nan Tsze, Prince of Kuang Ling §41",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.42",
+      "label": "A Chapter from the Hung Lieh Chuan, by Huai-nan Tsze, Prince of Kuang Ling §42",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.43",
+      "label": "A Chapter from the Hung Lieh Chuan, by Huai-nan Tsze, Prince of Kuang Ling §43",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.44",
+      "label": "A Chapter from the Hung Lieh Chuan, by Huai-nan Tsze, Prince of Kuang Ling §44",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.45",
+      "label": "A Chapter from the Hung Lieh Chuan, by Huai-nan Tsze, Prince of Kuang Ling §45",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.46",
+      "label": "A Chapter from the Hung Lieh Chuan, by Huai-nan Tsze, Prince of Kuang Ling §46",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.47",
+      "label": "A Chapter from the Hung Lieh Chuan, by Huai-nan Tsze, Prince of Kuang Ling §47",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.48",
+      "label": "A Chapter from the Hung Lieh Chuan, by Huai-nan Tsze, Prince of Kuang Ling §48",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.49",
+      "label": "A Chapter from the Hung Lieh Chuan, by Huai-nan Tsze, Prince of Kuang Ling §49",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.50",
+      "label": "A Chapter from the Hung Lieh Chuan, by Huai-nan Tsze, Prince of Kuang Ling §50",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.51",
+      "label": "A Chapter from the Hung Lieh Chuan, by Huai-nan Tsze, Prince of Kuang Ling §51",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.52",
+      "label": "A Chapter from the Hung Lieh Chuan, by Huai-nan Tsze, Prince of Kuang Ling §52",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.53",
+      "label": "A Chapter from the Hung Lieh Chuan, by Huai-nan Tsze, Prince of Kuang Ling §53",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.54",
+      "label": "A Chapter from the Hung Lieh Chuan, by Huai-nan Tsze, Prince of Kuang Ling §54",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "9.1",
+      "label": "The Su Shu §1",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.2",
+      "label": "The Su Shu §2",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.3",
+      "label": "The Su Shu §3",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.4",
+      "label": "The Su Shu §4",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.5",
+      "label": "The Su Shu §5",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.6",
+      "label": "The Su Shu §6",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.7",
+      "label": "The Su Shu §7",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.8",
+      "label": "The Su Shu §8",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.9",
+      "label": "The Su Shu §9",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.10",
+      "label": "The Su Shu §10",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.11",
+      "label": "The Su Shu §11",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.12",
+      "label": "The Su Shu §12",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.13",
+      "label": "The Su Shu §13",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.14",
+      "label": "The Su Shu §14",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "10.1",
+      "label": "The Kan Ying Pien §1",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.2",
+      "label": "The Kan Ying Pien §2",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.3",
+      "label": "The Kan Ying Pien §3",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.4",
+      "label": "The Kan Ying Pien §4",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.5",
+      "label": "The Kan Ying Pien §5",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.6",
+      "label": "The Kan Ying Pien §6",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.7",
+      "label": "The Kan Ying Pien §7",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.8",
+      "label": "The Kan Ying Pien §8",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.9",
+      "label": "The Kan Ying Pien §9",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.10",
+      "label": "The Kan Ying Pien §10",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.11",
+      "label": "The Kan Ying Pien §11",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.12",
+      "label": "The Kan Ying Pien §12",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.13",
+      "label": "The Kan Ying Pien §13",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.14",
+      "label": "The Kan Ying Pien §14",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.15",
+      "label": "The Kan Ying Pien §15",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.16",
+      "label": "The Kan Ying Pien §16",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.17",
+      "label": "The Kan Ying Pien §17",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.18",
+      "label": "The Kan Ying Pien §18",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.19",
+      "label": "The Kan Ying Pien §19",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.20",
+      "label": "The Kan Ying Pien §20",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.21",
+      "label": "The Kan Ying Pien §21",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.22",
+      "label": "The Kan Ying Pien §22",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.23",
+      "label": "The Kan Ying Pien §23",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.24",
+      "label": "The Kan Ying Pien §24",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.25",
+      "label": "The Kan Ying Pien §25",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.26",
+      "label": "The Kan Ying Pien §26",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.27",
+      "label": "The Kan Ying Pien §27",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.28",
+      "label": "The Kan Ying Pien §28",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.29",
+      "label": "The Kan Ying Pien §29",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.30",
+      "label": "The Kan Ying Pien §30",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.31",
+      "label": "The Kan Ying Pien §31",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.32",
+      "label": "The Kan Ying Pien §32",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.33",
+      "label": "The Kan Ying Pien §33",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.34",
+      "label": "The Kan Ying Pien §34",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.35",
+      "label": "The Kan Ying Pien §35",
+      "chapterRef": "10"
+    }
+  ],
+  "editions": [
+    {
+      "slug": "taoist-texts-en",
+      "language": "en",
+      "editionType": "translation",
+      "title": "Taoist Texts: Ethical, Political, and Speculative",
+      "translator": "Frederic Henry Balfour",
+      "publisher": "Internet Sacred Text Archive",
+      "publicationYear": 1884,
+      "source": "sacred-texts",
+      "license": "public-domain",
+      "rightsStatus": "Public domain in the United States",
+      "attributionText": "Taoist Texts: Ethical, Political, and Speculative, translated by Frederic Henry Balfour (1884). Trübner and Co., London, and Kelly and Walsh, Shanghai. Public domain in the United States. Digital text from the Internet Sacred Text Archive.",
+      "structureScheme": "chapter and paragraph index; each chapter is one text of the ten",
+      "isSample": false,
+      "notes": "The import cache stores the exact segments that were validated. The reader re-fetches the chapter from the host and reports when the served count no longer matches the index."
+    }
+  ]
+}

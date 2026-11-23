@@ -1,0 +1,8978 @@
+{
+  "slug": "sutta-nipata",
+  "title": "The Sutta-Nipâta",
+  "originalTitle": "सुत्तनिपात",
+  "transliteration": "Sutta Nipāta",
+  "altTitles": [
+    "Suttanipata",
+    "The Group of Discourses"
+  ],
+  "tradition": "buddhism",
+  "school": "theravada",
+  "genre": "Scripture",
+  "textType": "Discourses in verse",
+  "category": "Sutta",
+  "subcategory": "Khuddaka Nikāya",
+  "originalLanguage": "pi",
+  "dateStart": -400,
+  "dateEnd": -100,
+  "dateDisplay": "Composed c. 4th–2nd centuries BCE",
+  "authorshipStatus": "anonymous",
+  "author": "",
+  "attributionNote": "The Sutta-Nipâta is an anthology of early Buddhist discourses, transmitted anonymously within the Khuddaka Nikâya. Individual suttas are presented as the Buddha's teaching but the collection as a whole is the work of the early community.",
+  "description": "The Sutta-Nipâta gathers some of the oldest Buddhist poetry in five vaggas: the Uragavagga on the snake, the chariot and the farmer; the Kūlavagga of the charcoal-burner and the outcaste; the Mahāvagga with the discourse on friendliness and the going forth; the Aṭṭhakavagga on the abandonment of views; and the Pārāyanavagga of the questions of the brahmin youths. It is a primary witness to early Buddhist ethics and meditation.",
+  "historicalContext": "The Sutta-Nipâta was translated by Viggo Fausböll for the Sacred Books of the East, volume 10 (1881), together with Müller's Dhammapada. Its archaic language and its treatment of brahmanical sacrifice make it central to the study of early Buddhism.",
+  "availabilityNote": "Complete. All five vaggas of Fausböll's translation are streamed from the Internet Sacred Text Archive at read time, one vagga per chapter. Each page is long because the printed edition prints a whole vagga at a time; the passage index follows its paragraphs. The volume's glossary and introduction are not part of the work.",
+  "featured": false,
+  "featuredNote": "",
+  "refScheme": "chapter.paragraph",
+  "isSample": false,
+  "textStorage": "streamed",
+  "chapters": [
+    {
+      "ref": "1",
+      "label": "I. Uragavagga."
+    },
+    {
+      "ref": "2",
+      "label": "II. Kûlavagga."
+    },
+    {
+      "ref": "3",
+      "label": "III. Mahâvagga."
+    },
+    {
+      "ref": "4",
+      "label": "IV. Atthakavagga."
+    },
+    {
+      "ref": "5",
+      "label": "V. Pârâyanavagga."
+    }
+  ],
+  "passages": [
+    {
+      "reference": "1.1",
+      "label": "I. Uragavagga. §1",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.2",
+      "label": "I. Uragavagga. §2",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.3",
+      "label": "I. Uragavagga. §3",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.4",
+      "label": "I. Uragavagga. §4",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.5",
+      "label": "I. Uragavagga. §5",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.6",
+      "label": "I. Uragavagga. §6",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.7",
+      "label": "I. Uragavagga. §7",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.8",
+      "label": "I. Uragavagga. §8",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.9",
+      "label": "I. Uragavagga. §9",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.10",
+      "label": "I. Uragavagga. §10",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.11",
+      "label": "I. Uragavagga. §11",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.12",
+      "label": "I. Uragavagga. §12",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.13",
+      "label": "I. Uragavagga. §13",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.14",
+      "label": "I. Uragavagga. §14",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.15",
+      "label": "I. Uragavagga. §15",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.16",
+      "label": "I. Uragavagga. §16",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.17",
+      "label": "I. Uragavagga. §17",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.18",
+      "label": "I. Uragavagga. §18",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.19",
+      "label": "I. Uragavagga. §19",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.20",
+      "label": "I. Uragavagga. §20",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.21",
+      "label": "I. Uragavagga. §21",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.22",
+      "label": "I. Uragavagga. §22",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.23",
+      "label": "I. Uragavagga. §23",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.24",
+      "label": "I. Uragavagga. §24",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.25",
+      "label": "I. Uragavagga. §25",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.26",
+      "label": "I. Uragavagga. §26",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.27",
+      "label": "I. Uragavagga. §27",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.28",
+      "label": "I. Uragavagga. §28",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.29",
+      "label": "I. Uragavagga. §29",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.30",
+      "label": "I. Uragavagga. §30",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.31",
+      "label": "I. Uragavagga. §31",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.32",
+      "label": "I. Uragavagga. §32",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.33",
+      "label": "I. Uragavagga. §33",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.34",
+      "label": "I. Uragavagga. §34",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.35",
+      "label": "I. Uragavagga. §35",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.36",
+      "label": "I. Uragavagga. §36",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.37",
+      "label": "I. Uragavagga. §37",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.38",
+      "label": "I. Uragavagga. §38",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.39",
+      "label": "I. Uragavagga. §39",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.40",
+      "label": "I. Uragavagga. §40",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.41",
+      "label": "I. Uragavagga. §41",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.42",
+      "label": "I. Uragavagga. §42",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.43",
+      "label": "I. Uragavagga. §43",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.44",
+      "label": "I. Uragavagga. §44",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.45",
+      "label": "I. Uragavagga. §45",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.46",
+      "label": "I. Uragavagga. §46",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.47",
+      "label": "I. Uragavagga. §47",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.48",
+      "label": "I. Uragavagga. §48",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.49",
+      "label": "I. Uragavagga. §49",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.50",
+      "label": "I. Uragavagga. §50",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.51",
+      "label": "I. Uragavagga. §51",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.52",
+      "label": "I. Uragavagga. §52",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.53",
+      "label": "I. Uragavagga. §53",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.54",
+      "label": "I. Uragavagga. §54",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.55",
+      "label": "I. Uragavagga. §55",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.56",
+      "label": "I. Uragavagga. §56",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.57",
+      "label": "I. Uragavagga. §57",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.58",
+      "label": "I. Uragavagga. §58",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.59",
+      "label": "I. Uragavagga. §59",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.60",
+      "label": "I. Uragavagga. §60",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.61",
+      "label": "I. Uragavagga. §61",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.62",
+      "label": "I. Uragavagga. §62",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.63",
+      "label": "I. Uragavagga. §63",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.64",
+      "label": "I. Uragavagga. §64",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.65",
+      "label": "I. Uragavagga. §65",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.66",
+      "label": "I. Uragavagga. §66",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.67",
+      "label": "I. Uragavagga. §67",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.68",
+      "label": "I. Uragavagga. §68",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.69",
+      "label": "I. Uragavagga. §69",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.70",
+      "label": "I. Uragavagga. §70",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.71",
+      "label": "I. Uragavagga. §71",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.72",
+      "label": "I. Uragavagga. §72",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.73",
+      "label": "I. Uragavagga. §73",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.74",
+      "label": "I. Uragavagga. §74",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.75",
+      "label": "I. Uragavagga. §75",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.76",
+      "label": "I. Uragavagga. §76",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.77",
+      "label": "I. Uragavagga. §77",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.78",
+      "label": "I. Uragavagga. §78",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.79",
+      "label": "I. Uragavagga. §79",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.80",
+      "label": "I. Uragavagga. §80",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.81",
+      "label": "I. Uragavagga. §81",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.82",
+      "label": "I. Uragavagga. §82",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.83",
+      "label": "I. Uragavagga. §83",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.84",
+      "label": "I. Uragavagga. §84",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.85",
+      "label": "I. Uragavagga. §85",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.86",
+      "label": "I. Uragavagga. §86",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.87",
+      "label": "I. Uragavagga. §87",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.88",
+      "label": "I. Uragavagga. §88",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.89",
+      "label": "I. Uragavagga. §89",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.90",
+      "label": "I. Uragavagga. §90",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.91",
+      "label": "I. Uragavagga. §91",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.92",
+      "label": "I. Uragavagga. §92",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.93",
+      "label": "I. Uragavagga. §93",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.94",
+      "label": "I. Uragavagga. §94",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.95",
+      "label": "I. Uragavagga. §95",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.96",
+      "label": "I. Uragavagga. §96",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.97",
+      "label": "I. Uragavagga. §97",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.98",
+      "label": "I. Uragavagga. §98",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.99",
+      "label": "I. Uragavagga. §99",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.100",
+      "label": "I. Uragavagga. §100",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.101",
+      "label": "I. Uragavagga. §101",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.102",
+      "label": "I. Uragavagga. §102",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.103",
+      "label": "I. Uragavagga. §103",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.104",
+      "label": "I. Uragavagga. §104",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.105",
+      "label": "I. Uragavagga. §105",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.106",
+      "label": "I. Uragavagga. §106",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.107",
+      "label": "I. Uragavagga. §107",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.108",
+      "label": "I. Uragavagga. §108",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.109",
+      "label": "I. Uragavagga. §109",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.110",
+      "label": "I. Uragavagga. §110",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.111",
+      "label": "I. Uragavagga. §111",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.112",
+      "label": "I. Uragavagga. §112",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.113",
+      "label": "I. Uragavagga. §113",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.114",
+      "label": "I. Uragavagga. §114",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.115",
+      "label": "I. Uragavagga. §115",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.116",
+      "label": "I. Uragavagga. §116",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.117",
+      "label": "I. Uragavagga. §117",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.118",
+      "label": "I. Uragavagga. §118",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.119",
+      "label": "I. Uragavagga. §119",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.120",
+      "label": "I. Uragavagga. §120",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.121",
+      "label": "I. Uragavagga. §121",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.122",
+      "label": "I. Uragavagga. §122",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.123",
+      "label": "I. Uragavagga. §123",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.124",
+      "label": "I. Uragavagga. §124",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.125",
+      "label": "I. Uragavagga. §125",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.126",
+      "label": "I. Uragavagga. §126",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.127",
+      "label": "I. Uragavagga. §127",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.128",
+      "label": "I. Uragavagga. §128",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.129",
+      "label": "I. Uragavagga. §129",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.130",
+      "label": "I. Uragavagga. §130",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.131",
+      "label": "I. Uragavagga. §131",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.132",
+      "label": "I. Uragavagga. §132",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.133",
+      "label": "I. Uragavagga. §133",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.134",
+      "label": "I. Uragavagga. §134",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.135",
+      "label": "I. Uragavagga. §135",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.136",
+      "label": "I. Uragavagga. §136",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.137",
+      "label": "I. Uragavagga. §137",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.138",
+      "label": "I. Uragavagga. §138",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.139",
+      "label": "I. Uragavagga. §139",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.140",
+      "label": "I. Uragavagga. §140",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.141",
+      "label": "I. Uragavagga. §141",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.142",
+      "label": "I. Uragavagga. §142",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.143",
+      "label": "I. Uragavagga. §143",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.144",
+      "label": "I. Uragavagga. §144",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.145",
+      "label": "I. Uragavagga. §145",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.146",
+      "label": "I. Uragavagga. §146",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.147",
+      "label": "I. Uragavagga. §147",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.148",
+      "label": "I. Uragavagga. §148",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.149",
+      "label": "I. Uragavagga. §149",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.150",
+      "label": "I. Uragavagga. §150",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.151",
+      "label": "I. Uragavagga. §151",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.152",
+      "label": "I. Uragavagga. §152",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.153",
+      "label": "I. Uragavagga. §153",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.154",
+      "label": "I. Uragavagga. §154",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.155",
+      "label": "I. Uragavagga. §155",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.156",
+      "label": "I. Uragavagga. §156",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.157",
+      "label": "I. Uragavagga. §157",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.158",
+      "label": "I. Uragavagga. §158",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.159",
+      "label": "I. Uragavagga. §159",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.160",
+      "label": "I. Uragavagga. §160",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.161",
+      "label": "I. Uragavagga. §161",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.162",
+      "label": "I. Uragavagga. §162",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.163",
+      "label": "I. Uragavagga. §163",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.164",
+      "label": "I. Uragavagga. §164",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.165",
+      "label": "I. Uragavagga. §165",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.166",
+      "label": "I. Uragavagga. §166",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.167",
+      "label": "I. Uragavagga. §167",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.168",
+      "label": "I. Uragavagga. §168",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.169",
+      "label": "I. Uragavagga. §169",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.170",
+      "label": "I. Uragavagga. §170",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.171",
+      "label": "I. Uragavagga. §171",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.172",
+      "label": "I. Uragavagga. §172",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.173",
+      "label": "I. Uragavagga. §173",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.174",
+      "label": "I. Uragavagga. §174",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.175",
+      "label": "I. Uragavagga. §175",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.176",
+      "label": "I. Uragavagga. §176",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.177",
+      "label": "I. Uragavagga. §177",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.178",
+      "label": "I. Uragavagga. §178",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.179",
+      "label": "I. Uragavagga. §179",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.180",
+      "label": "I. Uragavagga. §180",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.181",
+      "label": "I. Uragavagga. §181",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.182",
+      "label": "I. Uragavagga. §182",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.183",
+      "label": "I. Uragavagga. §183",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.184",
+      "label": "I. Uragavagga. §184",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.185",
+      "label": "I. Uragavagga. §185",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.186",
+      "label": "I. Uragavagga. §186",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.187",
+      "label": "I. Uragavagga. §187",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.188",
+      "label": "I. Uragavagga. §188",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.189",
+      "label": "I. Uragavagga. §189",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.190",
+      "label": "I. Uragavagga. §190",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.191",
+      "label": "I. Uragavagga. §191",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.192",
+      "label": "I. Uragavagga. §192",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.193",
+      "label": "I. Uragavagga. §193",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.194",
+      "label": "I. Uragavagga. §194",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.195",
+      "label": "I. Uragavagga. §195",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.196",
+      "label": "I. Uragavagga. §196",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.197",
+      "label": "I. Uragavagga. §197",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.198",
+      "label": "I. Uragavagga. §198",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.199",
+      "label": "I. Uragavagga. §199",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.200",
+      "label": "I. Uragavagga. §200",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.201",
+      "label": "I. Uragavagga. §201",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.202",
+      "label": "I. Uragavagga. §202",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.203",
+      "label": "I. Uragavagga. §203",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.204",
+      "label": "I. Uragavagga. §204",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.205",
+      "label": "I. Uragavagga. §205",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.206",
+      "label": "I. Uragavagga. §206",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.207",
+      "label": "I. Uragavagga. §207",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.208",
+      "label": "I. Uragavagga. §208",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.209",
+      "label": "I. Uragavagga. §209",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.210",
+      "label": "I. Uragavagga. §210",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.211",
+      "label": "I. Uragavagga. §211",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.212",
+      "label": "I. Uragavagga. §212",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.213",
+      "label": "I. Uragavagga. §213",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.214",
+      "label": "I. Uragavagga. §214",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.215",
+      "label": "I. Uragavagga. §215",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.216",
+      "label": "I. Uragavagga. §216",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.217",
+      "label": "I. Uragavagga. §217",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.218",
+      "label": "I. Uragavagga. §218",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.219",
+      "label": "I. Uragavagga. §219",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.220",
+      "label": "I. Uragavagga. §220",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.221",
+      "label": "I. Uragavagga. §221",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.222",
+      "label": "I. Uragavagga. §222",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.223",
+      "label": "I. Uragavagga. §223",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.224",
+      "label": "I. Uragavagga. §224",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.225",
+      "label": "I. Uragavagga. §225",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.226",
+      "label": "I. Uragavagga. §226",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.227",
+      "label": "I. Uragavagga. §227",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.228",
+      "label": "I. Uragavagga. §228",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.229",
+      "label": "I. Uragavagga. §229",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.230",
+      "label": "I. Uragavagga. §230",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.231",
+      "label": "I. Uragavagga. §231",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.232",
+      "label": "I. Uragavagga. §232",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.233",
+      "label": "I. Uragavagga. §233",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.234",
+      "label": "I. Uragavagga. §234",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.235",
+      "label": "I. Uragavagga. §235",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.236",
+      "label": "I. Uragavagga. §236",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.237",
+      "label": "I. Uragavagga. §237",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.238",
+      "label": "I. Uragavagga. §238",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.239",
+      "label": "I. Uragavagga. §239",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.240",
+      "label": "I. Uragavagga. §240",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.241",
+      "label": "I. Uragavagga. §241",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.242",
+      "label": "I. Uragavagga. §242",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.243",
+      "label": "I. Uragavagga. §243",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.244",
+      "label": "I. Uragavagga. §244",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.245",
+      "label": "I. Uragavagga. §245",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.246",
+      "label": "I. Uragavagga. §246",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.247",
+      "label": "I. Uragavagga. §247",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.248",
+      "label": "I. Uragavagga. §248",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.249",
+      "label": "I. Uragavagga. §249",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.250",
+      "label": "I. Uragavagga. §250",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.251",
+      "label": "I. Uragavagga. §251",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.252",
+      "label": "I. Uragavagga. §252",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.253",
+      "label": "I. Uragavagga. §253",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.254",
+      "label": "I. Uragavagga. §254",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.255",
+      "label": "I. Uragavagga. §255",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.256",
+      "label": "I. Uragavagga. §256",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.257",
+      "label": "I. Uragavagga. §257",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.258",
+      "label": "I. Uragavagga. §258",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.259",
+      "label": "I. Uragavagga. §259",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.260",
+      "label": "I. Uragavagga. §260",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.261",
+      "label": "I. Uragavagga. §261",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.262",
+      "label": "I. Uragavagga. §262",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.263",
+      "label": "I. Uragavagga. §263",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.264",
+      "label": "I. Uragavagga. §264",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.265",
+      "label": "I. Uragavagga. §265",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.266",
+      "label": "I. Uragavagga. §266",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.267",
+      "label": "I. Uragavagga. §267",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.268",
+      "label": "I. Uragavagga. §268",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.269",
+      "label": "I. Uragavagga. §269",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.270",
+      "label": "I. Uragavagga. §270",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.271",
+      "label": "I. Uragavagga. §271",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.272",
+      "label": "I. Uragavagga. §272",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.273",
+      "label": "I. Uragavagga. §273",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.274",
+      "label": "I. Uragavagga. §274",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.275",
+      "label": "I. Uragavagga. §275",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.276",
+      "label": "I. Uragavagga. §276",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.277",
+      "label": "I. Uragavagga. §277",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.278",
+      "label": "I. Uragavagga. §278",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.279",
+      "label": "I. Uragavagga. §279",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.280",
+      "label": "I. Uragavagga. §280",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.281",
+      "label": "I. Uragavagga. §281",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.282",
+      "label": "I. Uragavagga. §282",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.283",
+      "label": "I. Uragavagga. §283",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.284",
+      "label": "I. Uragavagga. §284",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.285",
+      "label": "I. Uragavagga. §285",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.286",
+      "label": "I. Uragavagga. §286",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.287",
+      "label": "I. Uragavagga. §287",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.288",
+      "label": "I. Uragavagga. §288",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.289",
+      "label": "I. Uragavagga. §289",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.290",
+      "label": "I. Uragavagga. §290",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.291",
+      "label": "I. Uragavagga. §291",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.292",
+      "label": "I. Uragavagga. §292",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.293",
+      "label": "I. Uragavagga. §293",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.294",
+      "label": "I. Uragavagga. §294",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.295",
+      "label": "I. Uragavagga. §295",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.296",
+      "label": "I. Uragavagga. §296",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.297",
+      "label": "I. Uragavagga. §297",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.298",
+      "label": "I. Uragavagga. §298",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.299",
+      "label": "I. Uragavagga. §299",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.300",
+      "label": "I. Uragavagga. §300",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.301",
+      "label": "I. Uragavagga. §301",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.302",
+      "label": "I. Uragavagga. §302",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.303",
+      "label": "I. Uragavagga. §303",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.304",
+      "label": "I. Uragavagga. §304",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.305",
+      "label": "I. Uragavagga. §305",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.306",
+      "label": "I. Uragavagga. §306",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.307",
+      "label": "I. Uragavagga. §307",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.308",
+      "label": "I. Uragavagga. §308",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.309",
+      "label": "I. Uragavagga. §309",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.310",
+      "label": "I. Uragavagga. §310",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.311",
+      "label": "I. Uragavagga. §311",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.312",
+      "label": "I. Uragavagga. §312",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.313",
+      "label": "I. Uragavagga. §313",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.314",
+      "label": "I. Uragavagga. §314",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.315",
+      "label": "I. Uragavagga. §315",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.316",
+      "label": "I. Uragavagga. §316",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "2.1",
+      "label": "II. Kûlavagga. §1",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.2",
+      "label": "II. Kûlavagga. §2",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.3",
+      "label": "II. Kûlavagga. §3",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.4",
+      "label": "II. Kûlavagga. §4",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.5",
+      "label": "II. Kûlavagga. §5",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.6",
+      "label": "II. Kûlavagga. §6",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.7",
+      "label": "II. Kûlavagga. §7",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.8",
+      "label": "II. Kûlavagga. §8",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.9",
+      "label": "II. Kûlavagga. §9",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.10",
+      "label": "II. Kûlavagga. §10",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.11",
+      "label": "II. Kûlavagga. §11",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.12",
+      "label": "II. Kûlavagga. §12",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.13",
+      "label": "II. Kûlavagga. §13",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.14",
+      "label": "II. Kûlavagga. §14",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.15",
+      "label": "II. Kûlavagga. §15",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.16",
+      "label": "II. Kûlavagga. §16",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.17",
+      "label": "II. Kûlavagga. §17",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.18",
+      "label": "II. Kûlavagga. §18",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.19",
+      "label": "II. Kûlavagga. §19",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.20",
+      "label": "II. Kûlavagga. §20",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.21",
+      "label": "II. Kûlavagga. §21",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.22",
+      "label": "II. Kûlavagga. §22",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.23",
+      "label": "II. Kûlavagga. §23",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.24",
+      "label": "II. Kûlavagga. §24",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.25",
+      "label": "II. Kûlavagga. §25",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.26",
+      "label": "II. Kûlavagga. §26",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.27",
+      "label": "II. Kûlavagga. §27",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.28",
+      "label": "II. Kûlavagga. §28",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.29",
+      "label": "II. Kûlavagga. §29",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.30",
+      "label": "II. Kûlavagga. §30",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.31",
+      "label": "II. Kûlavagga. §31",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.32",
+      "label": "II. Kûlavagga. §32",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.33",
+      "label": "II. Kûlavagga. §33",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.34",
+      "label": "II. Kûlavagga. §34",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.35",
+      "label": "II. Kûlavagga. §35",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.36",
+      "label": "II. Kûlavagga. §36",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.37",
+      "label": "II. Kûlavagga. §37",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.38",
+      "label": "II. Kûlavagga. §38",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.39",
+      "label": "II. Kûlavagga. §39",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.40",
+      "label": "II. Kûlavagga. §40",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.41",
+      "label": "II. Kûlavagga. §41",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.42",
+      "label": "II. Kûlavagga. §42",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.43",
+      "label": "II. Kûlavagga. §43",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.44",
+      "label": "II. Kûlavagga. §44",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.45",
+      "label": "II. Kûlavagga. §45",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.46",
+      "label": "II. Kûlavagga. §46",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.47",
+      "label": "II. Kûlavagga. §47",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.48",
+      "label": "II. Kûlavagga. §48",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.49",
+      "label": "II. Kûlavagga. §49",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.50",
+      "label": "II. Kûlavagga. §50",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.51",
+      "label": "II. Kûlavagga. §51",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.52",
+      "label": "II. Kûlavagga. §52",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.53",
+      "label": "II. Kûlavagga. §53",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.54",
+      "label": "II. Kûlavagga. §54",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.55",
+      "label": "II. Kûlavagga. §55",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.56",
+      "label": "II. Kûlavagga. §56",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.57",
+      "label": "II. Kûlavagga. §57",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.58",
+      "label": "II. Kûlavagga. §58",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.59",
+      "label": "II. Kûlavagga. §59",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.60",
+      "label": "II. Kûlavagga. §60",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.61",
+      "label": "II. Kûlavagga. §61",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.62",
+      "label": "II. Kûlavagga. §62",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.63",
+      "label": "II. Kûlavagga. §63",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.64",
+      "label": "II. Kûlavagga. §64",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.65",
+      "label": "II. Kûlavagga. §65",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.66",
+      "label": "II. Kûlavagga. §66",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.67",
+      "label": "II. Kûlavagga. §67",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.68",
+      "label": "II. Kûlavagga. §68",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.69",
+      "label": "II. Kûlavagga. §69",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.70",
+      "label": "II. Kûlavagga. §70",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.71",
+      "label": "II. Kûlavagga. §71",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.72",
+      "label": "II. Kûlavagga. §72",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.73",
+      "label": "II. Kûlavagga. §73",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.74",
+      "label": "II. Kûlavagga. §74",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.75",
+      "label": "II. Kûlavagga. §75",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.76",
+      "label": "II. Kûlavagga. §76",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.77",
+      "label": "II. Kûlavagga. §77",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.78",
+      "label": "II. Kûlavagga. §78",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.79",
+      "label": "II. Kûlavagga. §79",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.80",
+      "label": "II. Kûlavagga. §80",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.81",
+      "label": "II. Kûlavagga. §81",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.82",
+      "label": "II. Kûlavagga. §82",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.83",
+      "label": "II. Kûlavagga. §83",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.84",
+      "label": "II. Kûlavagga. §84",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.85",
+      "label": "II. Kûlavagga. §85",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.86",
+      "label": "II. Kûlavagga. §86",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.87",
+      "label": "II. Kûlavagga. §87",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.88",
+      "label": "II. Kûlavagga. §88",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.89",
+      "label": "II. Kûlavagga. §89",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.90",
+      "label": "II. Kûlavagga. §90",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.91",
+      "label": "II. Kûlavagga. §91",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.92",
+      "label": "II. Kûlavagga. §92",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.93",
+      "label": "II. Kûlavagga. §93",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.94",
+      "label": "II. Kûlavagga. §94",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.95",
+      "label": "II. Kûlavagga. §95",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.96",
+      "label": "II. Kûlavagga. §96",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.97",
+      "label": "II. Kûlavagga. §97",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.98",
+      "label": "II. Kûlavagga. §98",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.99",
+      "label": "II. Kûlavagga. §99",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.100",
+      "label": "II. Kûlavagga. §100",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.101",
+      "label": "II. Kûlavagga. §101",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.102",
+      "label": "II. Kûlavagga. §102",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.103",
+      "label": "II. Kûlavagga. §103",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.104",
+      "label": "II. Kûlavagga. §104",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.105",
+      "label": "II. Kûlavagga. §105",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.106",
+      "label": "II. Kûlavagga. §106",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.107",
+      "label": "II. Kûlavagga. §107",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.108",
+      "label": "II. Kûlavagga. §108",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.109",
+      "label": "II. Kûlavagga. §109",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.110",
+      "label": "II. Kûlavagga. §110",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.111",
+      "label": "II. Kûlavagga. §111",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.112",
+      "label": "II. Kûlavagga. §112",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.113",
+      "label": "II. Kûlavagga. §113",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.114",
+      "label": "II. Kûlavagga. §114",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.115",
+      "label": "II. Kûlavagga. §115",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.116",
+      "label": "II. Kûlavagga. §116",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.117",
+      "label": "II. Kûlavagga. §117",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.118",
+      "label": "II. Kûlavagga. §118",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.119",
+      "label": "II. Kûlavagga. §119",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.120",
+      "label": "II. Kûlavagga. §120",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.121",
+      "label": "II. Kûlavagga. §121",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.122",
+      "label": "II. Kûlavagga. §122",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.123",
+      "label": "II. Kûlavagga. §123",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.124",
+      "label": "II. Kûlavagga. §124",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.125",
+      "label": "II. Kûlavagga. §125",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.126",
+      "label": "II. Kûlavagga. §126",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.127",
+      "label": "II. Kûlavagga. §127",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.128",
+      "label": "II. Kûlavagga. §128",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.129",
+      "label": "II. Kûlavagga. §129",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.130",
+      "label": "II. Kûlavagga. §130",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.131",
+      "label": "II. Kûlavagga. §131",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.132",
+      "label": "II. Kûlavagga. §132",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.133",
+      "label": "II. Kûlavagga. §133",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.134",
+      "label": "II. Kûlavagga. §134",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.135",
+      "label": "II. Kûlavagga. §135",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.136",
+      "label": "II. Kûlavagga. §136",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.137",
+      "label": "II. Kûlavagga. §137",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.138",
+      "label": "II. Kûlavagga. §138",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.139",
+      "label": "II. Kûlavagga. §139",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.140",
+      "label": "II. Kûlavagga. §140",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.141",
+      "label": "II. Kûlavagga. §141",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.142",
+      "label": "II. Kûlavagga. §142",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.143",
+      "label": "II. Kûlavagga. §143",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.144",
+      "label": "II. Kûlavagga. §144",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.145",
+      "label": "II. Kûlavagga. §145",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.146",
+      "label": "II. Kûlavagga. §146",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.147",
+      "label": "II. Kûlavagga. §147",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.148",
+      "label": "II. Kûlavagga. §148",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.149",
+      "label": "II. Kûlavagga. §149",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.150",
+      "label": "II. Kûlavagga. §150",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.151",
+      "label": "II. Kûlavagga. §151",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.152",
+      "label": "II. Kûlavagga. §152",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.153",
+      "label": "II. Kûlavagga. §153",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.154",
+      "label": "II. Kûlavagga. §154",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.155",
+      "label": "II. Kûlavagga. §155",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.156",
+      "label": "II. Kûlavagga. §156",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.157",
+      "label": "II. Kûlavagga. §157",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.158",
+      "label": "II. Kûlavagga. §158",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.159",
+      "label": "II. Kûlavagga. §159",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.160",
+      "label": "II. Kûlavagga. §160",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.161",
+      "label": "II. Kûlavagga. §161",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.162",
+      "label": "II. Kûlavagga. §162",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.163",
+      "label": "II. Kûlavagga. §163",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.164",
+      "label": "II. Kûlavagga. §164",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.165",
+      "label": "II. Kûlavagga. §165",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.166",
+      "label": "II. Kûlavagga. §166",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.167",
+      "label": "II. Kûlavagga. §167",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.168",
+      "label": "II. Kûlavagga. §168",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.169",
+      "label": "II. Kûlavagga. §169",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.170",
+      "label": "II. Kûlavagga. §170",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.171",
+      "label": "II. Kûlavagga. §171",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.172",
+      "label": "II. Kûlavagga. §172",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.173",
+      "label": "II. Kûlavagga. §173",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.174",
+      "label": "II. Kûlavagga. §174",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.175",
+      "label": "II. Kûlavagga. §175",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.176",
+      "label": "II. Kûlavagga. §176",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.177",
+      "label": "II. Kûlavagga. §177",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.178",
+      "label": "II. Kûlavagga. §178",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.179",
+      "label": "II. Kûlavagga. §179",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.180",
+      "label": "II. Kûlavagga. §180",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.181",
+      "label": "II. Kûlavagga. §181",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.182",
+      "label": "II. Kûlavagga. §182",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.183",
+      "label": "II. Kûlavagga. §183",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.184",
+      "label": "II. Kûlavagga. §184",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.185",
+      "label": "II. Kûlavagga. §185",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.186",
+      "label": "II. Kûlavagga. §186",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.187",
+      "label": "II. Kûlavagga. §187",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.188",
+      "label": "II. Kûlavagga. §188",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.189",
+      "label": "II. Kûlavagga. §189",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.190",
+      "label": "II. Kûlavagga. §190",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.191",
+      "label": "II. Kûlavagga. §191",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.192",
+      "label": "II. Kûlavagga. §192",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.193",
+      "label": "II. Kûlavagga. §193",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.194",
+      "label": "II. Kûlavagga. §194",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.195",
+      "label": "II. Kûlavagga. §195",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.196",
+      "label": "II. Kûlavagga. §196",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.197",
+      "label": "II. Kûlavagga. §197",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.198",
+      "label": "II. Kûlavagga. §198",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.199",
+      "label": "II. Kûlavagga. §199",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.200",
+      "label": "II. Kûlavagga. §200",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.201",
+      "label": "II. Kûlavagga. §201",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.202",
+      "label": "II. Kûlavagga. §202",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.203",
+      "label": "II. Kûlavagga. §203",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.204",
+      "label": "II. Kûlavagga. §204",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.205",
+      "label": "II. Kûlavagga. §205",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.206",
+      "label": "II. Kûlavagga. §206",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.207",
+      "label": "II. Kûlavagga. §207",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.208",
+      "label": "II. Kûlavagga. §208",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.209",
+      "label": "II. Kûlavagga. §209",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.210",
+      "label": "II. Kûlavagga. §210",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.211",
+      "label": "II. Kûlavagga. §211",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.212",
+      "label": "II. Kûlavagga. §212",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.213",
+      "label": "II. Kûlavagga. §213",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.214",
+      "label": "II. Kûlavagga. §214",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.215",
+      "label": "II. Kûlavagga. §215",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.216",
+      "label": "II. Kûlavagga. §216",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.217",
+      "label": "II. Kûlavagga. §217",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.218",
+      "label": "II. Kûlavagga. §218",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.219",
+      "label": "II. Kûlavagga. §219",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.220",
+      "label": "II. Kûlavagga. §220",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.221",
+      "label": "II. Kûlavagga. §221",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.222",
+      "label": "II. Kûlavagga. §222",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.223",
+      "label": "II. Kûlavagga. §223",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.224",
+      "label": "II. Kûlavagga. §224",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.225",
+      "label": "II. Kûlavagga. §225",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.226",
+      "label": "II. Kûlavagga. §226",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.227",
+      "label": "II. Kûlavagga. §227",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.228",
+      "label": "II. Kûlavagga. §228",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.229",
+      "label": "II. Kûlavagga. §229",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.230",
+      "label": "II. Kûlavagga. §230",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.231",
+      "label": "II. Kûlavagga. §231",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.232",
+      "label": "II. Kûlavagga. §232",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.233",
+      "label": "II. Kûlavagga. §233",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.234",
+      "label": "II. Kûlavagga. §234",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.235",
+      "label": "II. Kûlavagga. §235",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.236",
+      "label": "II. Kûlavagga. §236",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.237",
+      "label": "II. Kûlavagga. §237",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.238",
+      "label": "II. Kûlavagga. §238",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.239",
+      "label": "II. Kûlavagga. §239",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.240",
+      "label": "II. Kûlavagga. §240",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.241",
+      "label": "II. Kûlavagga. §241",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.242",
+      "label": "II. Kûlavagga. §242",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.243",
+      "label": "II. Kûlavagga. §243",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.244",
+      "label": "II. Kûlavagga. §244",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.245",
+      "label": "II. Kûlavagga. §245",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.246",
+      "label": "II. Kûlavagga. §246",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.247",
+      "label": "II. Kûlavagga. §247",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.248",
+      "label": "II. Kûlavagga. §248",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.249",
+      "label": "II. Kûlavagga. §249",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.250",
+      "label": "II. Kûlavagga. §250",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.251",
+      "label": "II. Kûlavagga. §251",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.252",
+      "label": "II. Kûlavagga. §252",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.253",
+      "label": "II. Kûlavagga. §253",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.254",
+      "label": "II. Kûlavagga. §254",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.255",
+      "label": "II. Kûlavagga. §255",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.256",
+      "label": "II. Kûlavagga. §256",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.257",
+      "label": "II. Kûlavagga. §257",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "3.1",
+      "label": "III. Mahâvagga. §1",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.2",
+      "label": "III. Mahâvagga. §2",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.3",
+      "label": "III. Mahâvagga. §3",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.4",
+      "label": "III. Mahâvagga. §4",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.5",
+      "label": "III. Mahâvagga. §5",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.6",
+      "label": "III. Mahâvagga. §6",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.7",
+      "label": "III. Mahâvagga. §7",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.8",
+      "label": "III. Mahâvagga. §8",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.9",
+      "label": "III. Mahâvagga. §9",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.10",
+      "label": "III. Mahâvagga. §10",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.11",
+      "label": "III. Mahâvagga. §11",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.12",
+      "label": "III. Mahâvagga. §12",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.13",
+      "label": "III. Mahâvagga. §13",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.14",
+      "label": "III. Mahâvagga. §14",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.15",
+      "label": "III. Mahâvagga. §15",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.16",
+      "label": "III. Mahâvagga. §16",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.17",
+      "label": "III. Mahâvagga. §17",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.18",
+      "label": "III. Mahâvagga. §18",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.19",
+      "label": "III. Mahâvagga. §19",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.20",
+      "label": "III. Mahâvagga. §20",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.21",
+      "label": "III. Mahâvagga. §21",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.22",
+      "label": "III. Mahâvagga. §22",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.23",
+      "label": "III. Mahâvagga. §23",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.24",
+      "label": "III. Mahâvagga. §24",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.25",
+      "label": "III. Mahâvagga. §25",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.26",
+      "label": "III. Mahâvagga. §26",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.27",
+      "label": "III. Mahâvagga. §27",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.28",
+      "label": "III. Mahâvagga. §28",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.29",
+      "label": "III. Mahâvagga. §29",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.30",
+      "label": "III. Mahâvagga. §30",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.31",
+      "label": "III. Mahâvagga. §31",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.32",
+      "label": "III. Mahâvagga. §32",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.33",
+      "label": "III. Mahâvagga. §33",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.34",
+      "label": "III. Mahâvagga. §34",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.35",
+      "label": "III. Mahâvagga. §35",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.36",
+      "label": "III. Mahâvagga. §36",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.37",
+      "label": "III. Mahâvagga. §37",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.38",
+      "label": "III. Mahâvagga. §38",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.39",
+      "label": "III. Mahâvagga. §39",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.40",
+      "label": "III. Mahâvagga. §40",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.41",
+      "label": "III. Mahâvagga. §41",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.42",
+      "label": "III. Mahâvagga. §42",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.43",
+      "label": "III. Mahâvagga. §43",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.44",
+      "label": "III. Mahâvagga. §44",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.45",
+      "label": "III. Mahâvagga. §45",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.46",
+      "label": "III. Mahâvagga. §46",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.47",
+      "label": "III. Mahâvagga. §47",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.48",
+      "label": "III. Mahâvagga. §48",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.49",
+      "label": "III. Mahâvagga. §49",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.50",
+      "label": "III. Mahâvagga. §50",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.51",
+      "label": "III. Mahâvagga. §51",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.52",
+      "label": "III. Mahâvagga. §52",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.53",
+      "label": "III. Mahâvagga. §53",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.54",
+      "label": "III. Mahâvagga. §54",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.55",
+      "label": "III. Mahâvagga. §55",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.56",
+      "label": "III. Mahâvagga. §56",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.57",
+      "label": "III. Mahâvagga. §57",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.58",
+      "label": "III. Mahâvagga. §58",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.59",
+      "label": "III. Mahâvagga. §59",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.60",
+      "label": "III. Mahâvagga. §60",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.61",
+      "label": "III. Mahâvagga. §61",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.62",
+      "label": "III. Mahâvagga. §62",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.63",
+      "label": "III. Mahâvagga. §63",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.64",
+      "label": "III. Mahâvagga. §64",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.65",
+      "label": "III. Mahâvagga. §65",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.66",
+      "label": "III. Mahâvagga. §66",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.67",
+      "label": "III. Mahâvagga. §67",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.68",
+      "label": "III. Mahâvagga. §68",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.69",
+      "label": "III. Mahâvagga. §69",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.70",
+      "label": "III. Mahâvagga. §70",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.71",
+      "label": "III. Mahâvagga. §71",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.72",
+      "label": "III. Mahâvagga. §72",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.73",
+      "label": "III. Mahâvagga. §73",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.74",
+      "label": "III. Mahâvagga. §74",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.75",
+      "label": "III. Mahâvagga. §75",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.76",
+      "label": "III. Mahâvagga. §76",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.77",
+      "label": "III. Mahâvagga. §77",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.78",
+      "label": "III. Mahâvagga. §78",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.79",
+      "label": "III. Mahâvagga. §79",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.80",
+      "label": "III. Mahâvagga. §80",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.81",
+      "label": "III. Mahâvagga. §81",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.82",
+      "label": "III. Mahâvagga. §82",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.83",
+      "label": "III. Mahâvagga. §83",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.84",
+      "label": "III. Mahâvagga. §84",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.85",
+      "label": "III. Mahâvagga. §85",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.86",
+      "label": "III. Mahâvagga. §86",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.87",
+      "label": "III. Mahâvagga. §87",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.88",
+      "label": "III. Mahâvagga. §88",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.89",
+      "label": "III. Mahâvagga. §89",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.90",
+      "label": "III. Mahâvagga. §90",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.91",
+      "label": "III. Mahâvagga. §91",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.92",
+      "label": "III. Mahâvagga. §92",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.93",
+      "label": "III. Mahâvagga. §93",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.94",
+      "label": "III. Mahâvagga. §94",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.95",
+      "label": "III. Mahâvagga. §95",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.96",
+      "label": "III. Mahâvagga. §96",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.97",
+      "label": "III. Mahâvagga. §97",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.98",
+      "label": "III. Mahâvagga. §98",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.99",
+      "label": "III. Mahâvagga. §99",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.100",
+      "label": "III. Mahâvagga. §100",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.101",
+      "label": "III. Mahâvagga. §101",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.102",
+      "label": "III. Mahâvagga. §102",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.103",
+      "label": "III. Mahâvagga. §103",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.104",
+      "label": "III. Mahâvagga. §104",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.105",
+      "label": "III. Mahâvagga. §105",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.106",
+      "label": "III. Mahâvagga. §106",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.107",
+      "label": "III. Mahâvagga. §107",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.108",
+      "label": "III. Mahâvagga. §108",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.109",
+      "label": "III. Mahâvagga. §109",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.110",
+      "label": "III. Mahâvagga. §110",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.111",
+      "label": "III. Mahâvagga. §111",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.112",
+      "label": "III. Mahâvagga. §112",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.113",
+      "label": "III. Mahâvagga. §113",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.114",
+      "label": "III. Mahâvagga. §114",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.115",
+      "label": "III. Mahâvagga. §115",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.116",
+      "label": "III. Mahâvagga. §116",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.117",
+      "label": "III. Mahâvagga. §117",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.118",
+      "label": "III. Mahâvagga. §118",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.119",
+      "label": "III. Mahâvagga. §119",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.120",
+      "label": "III. Mahâvagga. §120",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.121",
+      "label": "III. Mahâvagga. §121",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.122",
+      "label": "III. Mahâvagga. §122",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.123",
+      "label": "III. Mahâvagga. §123",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.124",
+      "label": "III. Mahâvagga. §124",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.125",
+      "label": "III. Mahâvagga. §125",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.126",
+      "label": "III. Mahâvagga. §126",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.127",
+      "label": "III. Mahâvagga. §127",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.128",
+      "label": "III. Mahâvagga. §128",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.129",
+      "label": "III. Mahâvagga. §129",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.130",
+      "label": "III. Mahâvagga. §130",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.131",
+      "label": "III. Mahâvagga. §131",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.132",
+      "label": "III. Mahâvagga. §132",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.133",
+      "label": "III. Mahâvagga. §133",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.134",
+      "label": "III. Mahâvagga. §134",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.135",
+      "label": "III. Mahâvagga. §135",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.136",
+      "label": "III. Mahâvagga. §136",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.137",
+      "label": "III. Mahâvagga. §137",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.138",
+      "label": "III. Mahâvagga. §138",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.139",
+      "label": "III. Mahâvagga. §139",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.140",
+      "label": "III. Mahâvagga. §140",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.141",
+      "label": "III. Mahâvagga. §141",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.142",
+      "label": "III. Mahâvagga. §142",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.143",
+      "label": "III. Mahâvagga. §143",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.144",
+      "label": "III. Mahâvagga. §144",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.145",
+      "label": "III. Mahâvagga. §145",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.146",
+      "label": "III. Mahâvagga. §146",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.147",
+      "label": "III. Mahâvagga. §147",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.148",
+      "label": "III. Mahâvagga. §148",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.149",
+      "label": "III. Mahâvagga. §149",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.150",
+      "label": "III. Mahâvagga. §150",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.151",
+      "label": "III. Mahâvagga. §151",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.152",
+      "label": "III. Mahâvagga. §152",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.153",
+      "label": "III. Mahâvagga. §153",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.154",
+      "label": "III. Mahâvagga. §154",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.155",
+      "label": "III. Mahâvagga. §155",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.156",
+      "label": "III. Mahâvagga. §156",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.157",
+      "label": "III. Mahâvagga. §157",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.158",
+      "label": "III. Mahâvagga. §158",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.159",
+      "label": "III. Mahâvagga. §159",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.160",
+      "label": "III. Mahâvagga. §160",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.161",
+      "label": "III. Mahâvagga. §161",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.162",
+      "label": "III. Mahâvagga. §162",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.163",
+      "label": "III. Mahâvagga. §163",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.164",
+      "label": "III. Mahâvagga. §164",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.165",
+      "label": "III. Mahâvagga. §165",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.166",
+      "label": "III. Mahâvagga. §166",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.167",
+      "label": "III. Mahâvagga. §167",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.168",
+      "label": "III. Mahâvagga. §168",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.169",
+      "label": "III. Mahâvagga. §169",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.170",
+      "label": "III. Mahâvagga. §170",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.171",
+      "label": "III. Mahâvagga. §171",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.172",
+      "label": "III. Mahâvagga. §172",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.173",
+      "label": "III. Mahâvagga. §173",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.174",
+      "label": "III. Mahâvagga. §174",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.175",
+      "label": "III. Mahâvagga. §175",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.176",
+      "label": "III. Mahâvagga. §176",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.177",
+      "label": "III. Mahâvagga. §177",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.178",
+      "label": "III. Mahâvagga. §178",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.179",
+      "label": "III. Mahâvagga. §179",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.180",
+      "label": "III. Mahâvagga. §180",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.181",
+      "label": "III. Mahâvagga. §181",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.182",
+      "label": "III. Mahâvagga. §182",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.183",
+      "label": "III. Mahâvagga. §183",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.184",
+      "label": "III. Mahâvagga. §184",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.185",
+      "label": "III. Mahâvagga. §185",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.186",
+      "label": "III. Mahâvagga. §186",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.187",
+      "label": "III. Mahâvagga. §187",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.188",
+      "label": "III. Mahâvagga. §188",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.189",
+      "label": "III. Mahâvagga. §189",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.190",
+      "label": "III. Mahâvagga. §190",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.191",
+      "label": "III. Mahâvagga. §191",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.192",
+      "label": "III. Mahâvagga. §192",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.193",
+      "label": "III. Mahâvagga. §193",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.194",
+      "label": "III. Mahâvagga. §194",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.195",
+      "label": "III. Mahâvagga. §195",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.196",
+      "label": "III. Mahâvagga. §196",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.197",
+      "label": "III. Mahâvagga. §197",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.198",
+      "label": "III. Mahâvagga. §198",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.199",
+      "label": "III. Mahâvagga. §199",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.200",
+      "label": "III. Mahâvagga. §200",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.201",
+      "label": "III. Mahâvagga. §201",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.202",
+      "label": "III. Mahâvagga. §202",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.203",
+      "label": "III. Mahâvagga. §203",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.204",
+      "label": "III. Mahâvagga. §204",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.205",
+      "label": "III. Mahâvagga. §205",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.206",
+      "label": "III. Mahâvagga. §206",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.207",
+      "label": "III. Mahâvagga. §207",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.208",
+      "label": "III. Mahâvagga. §208",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.209",
+      "label": "III. Mahâvagga. §209",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.210",
+      "label": "III. Mahâvagga. §210",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.211",
+      "label": "III. Mahâvagga. §211",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.212",
+      "label": "III. Mahâvagga. §212",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.213",
+      "label": "III. Mahâvagga. §213",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.214",
+      "label": "III. Mahâvagga. §214",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.215",
+      "label": "III. Mahâvagga. §215",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.216",
+      "label": "III. Mahâvagga. §216",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.217",
+      "label": "III. Mahâvagga. §217",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.218",
+      "label": "III. Mahâvagga. §218",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.219",
+      "label": "III. Mahâvagga. §219",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.220",
+      "label": "III. Mahâvagga. §220",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.221",
+      "label": "III. Mahâvagga. §221",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.222",
+      "label": "III. Mahâvagga. §222",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.223",
+      "label": "III. Mahâvagga. §223",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.224",
+      "label": "III. Mahâvagga. §224",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.225",
+      "label": "III. Mahâvagga. §225",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.226",
+      "label": "III. Mahâvagga. §226",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.227",
+      "label": "III. Mahâvagga. §227",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.228",
+      "label": "III. Mahâvagga. §228",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.229",
+      "label": "III. Mahâvagga. §229",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.230",
+      "label": "III. Mahâvagga. §230",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.231",
+      "label": "III. Mahâvagga. §231",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.232",
+      "label": "III. Mahâvagga. §232",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.233",
+      "label": "III. Mahâvagga. §233",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.234",
+      "label": "III. Mahâvagga. §234",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.235",
+      "label": "III. Mahâvagga. §235",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.236",
+      "label": "III. Mahâvagga. §236",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.237",
+      "label": "III. Mahâvagga. §237",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.238",
+      "label": "III. Mahâvagga. §238",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.239",
+      "label": "III. Mahâvagga. §239",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.240",
+      "label": "III. Mahâvagga. §240",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.241",
+      "label": "III. Mahâvagga. §241",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.242",
+      "label": "III. Mahâvagga. §242",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.243",
+      "label": "III. Mahâvagga. §243",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.244",
+      "label": "III. Mahâvagga. §244",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.245",
+      "label": "III. Mahâvagga. §245",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.246",
+      "label": "III. Mahâvagga. §246",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.247",
+      "label": "III. Mahâvagga. §247",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.248",
+      "label": "III. Mahâvagga. §248",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.249",
+      "label": "III. Mahâvagga. §249",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.250",
+      "label": "III. Mahâvagga. §250",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.251",
+      "label": "III. Mahâvagga. §251",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.252",
+      "label": "III. Mahâvagga. §252",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.253",
+      "label": "III. Mahâvagga. §253",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.254",
+      "label": "III. Mahâvagga. §254",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.255",
+      "label": "III. Mahâvagga. §255",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.256",
+      "label": "III. Mahâvagga. §256",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.257",
+      "label": "III. Mahâvagga. §257",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.258",
+      "label": "III. Mahâvagga. §258",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.259",
+      "label": "III. Mahâvagga. §259",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.260",
+      "label": "III. Mahâvagga. §260",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.261",
+      "label": "III. Mahâvagga. §261",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.262",
+      "label": "III. Mahâvagga. §262",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.263",
+      "label": "III. Mahâvagga. §263",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.264",
+      "label": "III. Mahâvagga. §264",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.265",
+      "label": "III. Mahâvagga. §265",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.266",
+      "label": "III. Mahâvagga. §266",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.267",
+      "label": "III. Mahâvagga. §267",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.268",
+      "label": "III. Mahâvagga. §268",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.269",
+      "label": "III. Mahâvagga. §269",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.270",
+      "label": "III. Mahâvagga. §270",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.271",
+      "label": "III. Mahâvagga. §271",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.272",
+      "label": "III. Mahâvagga. §272",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.273",
+      "label": "III. Mahâvagga. §273",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.274",
+      "label": "III. Mahâvagga. §274",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.275",
+      "label": "III. Mahâvagga. §275",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.276",
+      "label": "III. Mahâvagga. §276",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.277",
+      "label": "III. Mahâvagga. §277",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.278",
+      "label": "III. Mahâvagga. §278",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.279",
+      "label": "III. Mahâvagga. §279",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.280",
+      "label": "III. Mahâvagga. §280",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.281",
+      "label": "III. Mahâvagga. §281",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.282",
+      "label": "III. Mahâvagga. §282",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.283",
+      "label": "III. Mahâvagga. §283",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.284",
+      "label": "III. Mahâvagga. §284",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.285",
+      "label": "III. Mahâvagga. §285",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.286",
+      "label": "III. Mahâvagga. §286",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.287",
+      "label": "III. Mahâvagga. §287",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.288",
+      "label": "III. Mahâvagga. §288",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.289",
+      "label": "III. Mahâvagga. §289",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.290",
+      "label": "III. Mahâvagga. §290",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.291",
+      "label": "III. Mahâvagga. §291",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.292",
+      "label": "III. Mahâvagga. §292",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.293",
+      "label": "III. Mahâvagga. §293",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.294",
+      "label": "III. Mahâvagga. §294",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.295",
+      "label": "III. Mahâvagga. §295",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.296",
+      "label": "III. Mahâvagga. §296",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.297",
+      "label": "III. Mahâvagga. §297",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.298",
+      "label": "III. Mahâvagga. §298",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.299",
+      "label": "III. Mahâvagga. §299",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.300",
+      "label": "III. Mahâvagga. §300",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.301",
+      "label": "III. Mahâvagga. §301",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.302",
+      "label": "III. Mahâvagga. §302",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.303",
+      "label": "III. Mahâvagga. §303",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.304",
+      "label": "III. Mahâvagga. §304",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.305",
+      "label": "III. Mahâvagga. §305",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.306",
+      "label": "III. Mahâvagga. §306",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.307",
+      "label": "III. Mahâvagga. §307",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.308",
+      "label": "III. Mahâvagga. §308",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.309",
+      "label": "III. Mahâvagga. §309",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.310",
+      "label": "III. Mahâvagga. §310",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.311",
+      "label": "III. Mahâvagga. §311",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.312",
+      "label": "III. Mahâvagga. §312",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.313",
+      "label": "III. Mahâvagga. §313",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.314",
+      "label": "III. Mahâvagga. §314",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.315",
+      "label": "III. Mahâvagga. §315",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.316",
+      "label": "III. Mahâvagga. §316",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.317",
+      "label": "III. Mahâvagga. §317",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.318",
+      "label": "III. Mahâvagga. §318",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.319",
+      "label": "III. Mahâvagga. §319",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.320",
+      "label": "III. Mahâvagga. §320",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.321",
+      "label": "III. Mahâvagga. §321",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.322",
+      "label": "III. Mahâvagga. §322",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.323",
+      "label": "III. Mahâvagga. §323",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.324",
+      "label": "III. Mahâvagga. §324",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.325",
+      "label": "III. Mahâvagga. §325",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.326",
+      "label": "III. Mahâvagga. §326",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.327",
+      "label": "III. Mahâvagga. §327",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.328",
+      "label": "III. Mahâvagga. §328",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.329",
+      "label": "III. Mahâvagga. §329",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.330",
+      "label": "III. Mahâvagga. §330",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.331",
+      "label": "III. Mahâvagga. §331",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.332",
+      "label": "III. Mahâvagga. §332",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.333",
+      "label": "III. Mahâvagga. §333",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.334",
+      "label": "III. Mahâvagga. §334",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.335",
+      "label": "III. Mahâvagga. §335",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.336",
+      "label": "III. Mahâvagga. §336",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.337",
+      "label": "III. Mahâvagga. §337",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.338",
+      "label": "III. Mahâvagga. §338",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.339",
+      "label": "III. Mahâvagga. §339",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.340",
+      "label": "III. Mahâvagga. §340",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.341",
+      "label": "III. Mahâvagga. §341",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.342",
+      "label": "III. Mahâvagga. §342",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.343",
+      "label": "III. Mahâvagga. §343",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.344",
+      "label": "III. Mahâvagga. §344",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.345",
+      "label": "III. Mahâvagga. §345",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.346",
+      "label": "III. Mahâvagga. §346",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.347",
+      "label": "III. Mahâvagga. §347",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.348",
+      "label": "III. Mahâvagga. §348",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.349",
+      "label": "III. Mahâvagga. §349",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.350",
+      "label": "III. Mahâvagga. §350",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.351",
+      "label": "III. Mahâvagga. §351",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.352",
+      "label": "III. Mahâvagga. §352",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.353",
+      "label": "III. Mahâvagga. §353",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.354",
+      "label": "III. Mahâvagga. §354",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.355",
+      "label": "III. Mahâvagga. §355",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.356",
+      "label": "III. Mahâvagga. §356",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.357",
+      "label": "III. Mahâvagga. §357",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.358",
+      "label": "III. Mahâvagga. §358",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.359",
+      "label": "III. Mahâvagga. §359",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.360",
+      "label": "III. Mahâvagga. §360",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.361",
+      "label": "III. Mahâvagga. §361",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.362",
+      "label": "III. Mahâvagga. §362",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.363",
+      "label": "III. Mahâvagga. §363",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.364",
+      "label": "III. Mahâvagga. §364",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.365",
+      "label": "III. Mahâvagga. §365",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.366",
+      "label": "III. Mahâvagga. §366",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.367",
+      "label": "III. Mahâvagga. §367",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.368",
+      "label": "III. Mahâvagga. §368",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.369",
+      "label": "III. Mahâvagga. §369",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.370",
+      "label": "III. Mahâvagga. §370",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.371",
+      "label": "III. Mahâvagga. §371",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.372",
+      "label": "III. Mahâvagga. §372",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.373",
+      "label": "III. Mahâvagga. §373",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.374",
+      "label": "III. Mahâvagga. §374",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.375",
+      "label": "III. Mahâvagga. §375",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.376",
+      "label": "III. Mahâvagga. §376",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.377",
+      "label": "III. Mahâvagga. §377",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.378",
+      "label": "III. Mahâvagga. §378",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.379",
+      "label": "III. Mahâvagga. §379",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.380",
+      "label": "III. Mahâvagga. §380",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.381",
+      "label": "III. Mahâvagga. §381",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.382",
+      "label": "III. Mahâvagga. §382",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.383",
+      "label": "III. Mahâvagga. §383",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.384",
+      "label": "III. Mahâvagga. §384",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.385",
+      "label": "III. Mahâvagga. §385",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.386",
+      "label": "III. Mahâvagga. §386",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.387",
+      "label": "III. Mahâvagga. §387",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.388",
+      "label": "III. Mahâvagga. §388",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.389",
+      "label": "III. Mahâvagga. §389",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.390",
+      "label": "III. Mahâvagga. §390",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.391",
+      "label": "III. Mahâvagga. §391",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.392",
+      "label": "III. Mahâvagga. §392",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.393",
+      "label": "III. Mahâvagga. §393",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.394",
+      "label": "III. Mahâvagga. §394",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.395",
+      "label": "III. Mahâvagga. §395",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.396",
+      "label": "III. Mahâvagga. §396",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.397",
+      "label": "III. Mahâvagga. §397",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.398",
+      "label": "III. Mahâvagga. §398",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.399",
+      "label": "III. Mahâvagga. §399",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.400",
+      "label": "III. Mahâvagga. §400",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.401",
+      "label": "III. Mahâvagga. §401",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.402",
+      "label": "III. Mahâvagga. §402",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.403",
+      "label": "III. Mahâvagga. §403",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.404",
+      "label": "III. Mahâvagga. §404",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.405",
+      "label": "III. Mahâvagga. §405",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.406",
+      "label": "III. Mahâvagga. §406",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.407",
+      "label": "III. Mahâvagga. §407",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.408",
+      "label": "III. Mahâvagga. §408",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.409",
+      "label": "III. Mahâvagga. §409",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.410",
+      "label": "III. Mahâvagga. §410",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.411",
+      "label": "III. Mahâvagga. §411",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.412",
+      "label": "III. Mahâvagga. §412",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.413",
+      "label": "III. Mahâvagga. §413",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.414",
+      "label": "III. Mahâvagga. §414",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.415",
+      "label": "III. Mahâvagga. §415",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.416",
+      "label": "III. Mahâvagga. §416",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.417",
+      "label": "III. Mahâvagga. §417",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.418",
+      "label": "III. Mahâvagga. §418",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.419",
+      "label": "III. Mahâvagga. §419",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.420",
+      "label": "III. Mahâvagga. §420",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.421",
+      "label": "III. Mahâvagga. §421",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.422",
+      "label": "III. Mahâvagga. §422",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.423",
+      "label": "III. Mahâvagga. §423",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.424",
+      "label": "III. Mahâvagga. §424",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.425",
+      "label": "III. Mahâvagga. §425",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.426",
+      "label": "III. Mahâvagga. §426",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.427",
+      "label": "III. Mahâvagga. §427",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.428",
+      "label": "III. Mahâvagga. §428",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.429",
+      "label": "III. Mahâvagga. §429",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.430",
+      "label": "III. Mahâvagga. §430",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.431",
+      "label": "III. Mahâvagga. §431",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.432",
+      "label": "III. Mahâvagga. §432",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.433",
+      "label": "III. Mahâvagga. §433",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.434",
+      "label": "III. Mahâvagga. §434",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.435",
+      "label": "III. Mahâvagga. §435",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.436",
+      "label": "III. Mahâvagga. §436",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.437",
+      "label": "III. Mahâvagga. §437",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.438",
+      "label": "III. Mahâvagga. §438",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.439",
+      "label": "III. Mahâvagga. §439",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.440",
+      "label": "III. Mahâvagga. §440",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.441",
+      "label": "III. Mahâvagga. §441",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.442",
+      "label": "III. Mahâvagga. §442",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.443",
+      "label": "III. Mahâvagga. §443",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.444",
+      "label": "III. Mahâvagga. §444",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.445",
+      "label": "III. Mahâvagga. §445",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.446",
+      "label": "III. Mahâvagga. §446",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.447",
+      "label": "III. Mahâvagga. §447",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.448",
+      "label": "III. Mahâvagga. §448",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.449",
+      "label": "III. Mahâvagga. §449",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.450",
+      "label": "III. Mahâvagga. §450",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.451",
+      "label": "III. Mahâvagga. §451",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.452",
+      "label": "III. Mahâvagga. §452",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.453",
+      "label": "III. Mahâvagga. §453",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.454",
+      "label": "III. Mahâvagga. §454",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.455",
+      "label": "III. Mahâvagga. §455",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.456",
+      "label": "III. Mahâvagga. §456",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.457",
+      "label": "III. Mahâvagga. §457",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.458",
+      "label": "III. Mahâvagga. §458",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.459",
+      "label": "III. Mahâvagga. §459",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.460",
+      "label": "III. Mahâvagga. §460",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.461",
+      "label": "III. Mahâvagga. §461",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.462",
+      "label": "III. Mahâvagga. §462",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.463",
+      "label": "III. Mahâvagga. §463",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.464",
+      "label": "III. Mahâvagga. §464",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.465",
+      "label": "III. Mahâvagga. §465",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.466",
+      "label": "III. Mahâvagga. §466",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.467",
+      "label": "III. Mahâvagga. §467",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.468",
+      "label": "III. Mahâvagga. §468",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.469",
+      "label": "III. Mahâvagga. §469",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.470",
+      "label": "III. Mahâvagga. §470",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.471",
+      "label": "III. Mahâvagga. §471",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.472",
+      "label": "III. Mahâvagga. §472",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.473",
+      "label": "III. Mahâvagga. §473",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.474",
+      "label": "III. Mahâvagga. §474",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.475",
+      "label": "III. Mahâvagga. §475",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.476",
+      "label": "III. Mahâvagga. §476",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.477",
+      "label": "III. Mahâvagga. §477",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.478",
+      "label": "III. Mahâvagga. §478",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.479",
+      "label": "III. Mahâvagga. §479",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.480",
+      "label": "III. Mahâvagga. §480",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.481",
+      "label": "III. Mahâvagga. §481",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.482",
+      "label": "III. Mahâvagga. §482",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.483",
+      "label": "III. Mahâvagga. §483",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.484",
+      "label": "III. Mahâvagga. §484",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.485",
+      "label": "III. Mahâvagga. §485",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.486",
+      "label": "III. Mahâvagga. §486",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.487",
+      "label": "III. Mahâvagga. §487",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.488",
+      "label": "III. Mahâvagga. §488",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.489",
+      "label": "III. Mahâvagga. §489",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.490",
+      "label": "III. Mahâvagga. §490",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.491",
+      "label": "III. Mahâvagga. §491",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.492",
+      "label": "III. Mahâvagga. §492",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.493",
+      "label": "III. Mahâvagga. §493",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.494",
+      "label": "III. Mahâvagga. §494",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.495",
+      "label": "III. Mahâvagga. §495",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.496",
+      "label": "III. Mahâvagga. §496",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.497",
+      "label": "III. Mahâvagga. §497",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.498",
+      "label": "III. Mahâvagga. §498",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.499",
+      "label": "III. Mahâvagga. §499",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.500",
+      "label": "III. Mahâvagga. §500",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.501",
+      "label": "III. Mahâvagga. §501",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.502",
+      "label": "III. Mahâvagga. §502",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.503",
+      "label": "III. Mahâvagga. §503",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.504",
+      "label": "III. Mahâvagga. §504",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.505",
+      "label": "III. Mahâvagga. §505",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.506",
+      "label": "III. Mahâvagga. §506",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.507",
+      "label": "III. Mahâvagga. §507",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.508",
+      "label": "III. Mahâvagga. §508",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.509",
+      "label": "III. Mahâvagga. §509",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.510",
+      "label": "III. Mahâvagga. §510",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.511",
+      "label": "III. Mahâvagga. §511",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.512",
+      "label": "III. Mahâvagga. §512",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.513",
+      "label": "III. Mahâvagga. §513",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.514",
+      "label": "III. Mahâvagga. §514",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.515",
+      "label": "III. Mahâvagga. §515",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.516",
+      "label": "III. Mahâvagga. §516",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.517",
+      "label": "III. Mahâvagga. §517",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.518",
+      "label": "III. Mahâvagga. §518",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.519",
+      "label": "III. Mahâvagga. §519",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.520",
+      "label": "III. Mahâvagga. §520",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.521",
+      "label": "III. Mahâvagga. §521",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.522",
+      "label": "III. Mahâvagga. §522",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.523",
+      "label": "III. Mahâvagga. §523",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.524",
+      "label": "III. Mahâvagga. §524",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.525",
+      "label": "III. Mahâvagga. §525",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.526",
+      "label": "III. Mahâvagga. §526",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.527",
+      "label": "III. Mahâvagga. §527",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.528",
+      "label": "III. Mahâvagga. §528",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.529",
+      "label": "III. Mahâvagga. §529",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.530",
+      "label": "III. Mahâvagga. §530",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.531",
+      "label": "III. Mahâvagga. §531",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.532",
+      "label": "III. Mahâvagga. §532",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.533",
+      "label": "III. Mahâvagga. §533",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.534",
+      "label": "III. Mahâvagga. §534",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.535",
+      "label": "III. Mahâvagga. §535",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.536",
+      "label": "III. Mahâvagga. §536",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.537",
+      "label": "III. Mahâvagga. §537",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.538",
+      "label": "III. Mahâvagga. §538",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.539",
+      "label": "III. Mahâvagga. §539",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.540",
+      "label": "III. Mahâvagga. §540",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.541",
+      "label": "III. Mahâvagga. §541",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.542",
+      "label": "III. Mahâvagga. §542",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.543",
+      "label": "III. Mahâvagga. §543",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.544",
+      "label": "III. Mahâvagga. §544",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.545",
+      "label": "III. Mahâvagga. §545",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.546",
+      "label": "III. Mahâvagga. §546",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.547",
+      "label": "III. Mahâvagga. §547",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.548",
+      "label": "III. Mahâvagga. §548",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.549",
+      "label": "III. Mahâvagga. §549",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.550",
+      "label": "III. Mahâvagga. §550",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.551",
+      "label": "III. Mahâvagga. §551",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.552",
+      "label": "III. Mahâvagga. §552",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.553",
+      "label": "III. Mahâvagga. §553",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.554",
+      "label": "III. Mahâvagga. §554",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.555",
+      "label": "III. Mahâvagga. §555",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.556",
+      "label": "III. Mahâvagga. §556",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.557",
+      "label": "III. Mahâvagga. §557",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.558",
+      "label": "III. Mahâvagga. §558",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.559",
+      "label": "III. Mahâvagga. §559",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.560",
+      "label": "III. Mahâvagga. §560",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.561",
+      "label": "III. Mahâvagga. §561",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.562",
+      "label": "III. Mahâvagga. §562",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.563",
+      "label": "III. Mahâvagga. §563",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.564",
+      "label": "III. Mahâvagga. §564",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.565",
+      "label": "III. Mahâvagga. §565",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.566",
+      "label": "III. Mahâvagga. §566",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.567",
+      "label": "III. Mahâvagga. §567",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.568",
+      "label": "III. Mahâvagga. §568",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.569",
+      "label": "III. Mahâvagga. §569",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.570",
+      "label": "III. Mahâvagga. §570",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.571",
+      "label": "III. Mahâvagga. §571",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.572",
+      "label": "III. Mahâvagga. §572",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.573",
+      "label": "III. Mahâvagga. §573",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.574",
+      "label": "III. Mahâvagga. §574",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.575",
+      "label": "III. Mahâvagga. §575",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.576",
+      "label": "III. Mahâvagga. §576",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.577",
+      "label": "III. Mahâvagga. §577",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.578",
+      "label": "III. Mahâvagga. §578",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.579",
+      "label": "III. Mahâvagga. §579",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.580",
+      "label": "III. Mahâvagga. §580",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.581",
+      "label": "III. Mahâvagga. §581",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.582",
+      "label": "III. Mahâvagga. §582",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.583",
+      "label": "III. Mahâvagga. §583",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.584",
+      "label": "III. Mahâvagga. §584",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.585",
+      "label": "III. Mahâvagga. §585",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.586",
+      "label": "III. Mahâvagga. §586",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.587",
+      "label": "III. Mahâvagga. §587",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.588",
+      "label": "III. Mahâvagga. §588",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.589",
+      "label": "III. Mahâvagga. §589",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.590",
+      "label": "III. Mahâvagga. §590",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.591",
+      "label": "III. Mahâvagga. §591",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.592",
+      "label": "III. Mahâvagga. §592",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.593",
+      "label": "III. Mahâvagga. §593",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.594",
+      "label": "III. Mahâvagga. §594",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.595",
+      "label": "III. Mahâvagga. §595",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.596",
+      "label": "III. Mahâvagga. §596",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.597",
+      "label": "III. Mahâvagga. §597",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.598",
+      "label": "III. Mahâvagga. §598",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.599",
+      "label": "III. Mahâvagga. §599",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.600",
+      "label": "III. Mahâvagga. §600",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.601",
+      "label": "III. Mahâvagga. §601",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.602",
+      "label": "III. Mahâvagga. §602",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.603",
+      "label": "III. Mahâvagga. §603",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.604",
+      "label": "III. Mahâvagga. §604",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "4.1",
+      "label": "IV. Atthakavagga. §1",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.2",
+      "label": "IV. Atthakavagga. §2",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.3",
+      "label": "IV. Atthakavagga. §3",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.4",
+      "label": "IV. Atthakavagga. §4",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.5",
+      "label": "IV. Atthakavagga. §5",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.6",
+      "label": "IV. Atthakavagga. §6",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.7",
+      "label": "IV. Atthakavagga. §7",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.8",
+      "label": "IV. Atthakavagga. §8",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.9",
+      "label": "IV. Atthakavagga. §9",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.10",
+      "label": "IV. Atthakavagga. §10",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.11",
+      "label": "IV. Atthakavagga. §11",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.12",
+      "label": "IV. Atthakavagga. §12",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.13",
+      "label": "IV. Atthakavagga. §13",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.14",
+      "label": "IV. Atthakavagga. §14",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.15",
+      "label": "IV. Atthakavagga. §15",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.16",
+      "label": "IV. Atthakavagga. §16",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.17",
+      "label": "IV. Atthakavagga. §17",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.18",
+      "label": "IV. Atthakavagga. §18",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.19",
+      "label": "IV. Atthakavagga. §19",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.20",
+      "label": "IV. Atthakavagga. §20",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.21",
+      "label": "IV. Atthakavagga. §21",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.22",
+      "label": "IV. Atthakavagga. §22",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.23",
+      "label": "IV. Atthakavagga. §23",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.24",
+      "label": "IV. Atthakavagga. §24",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.25",
+      "label": "IV. Atthakavagga. §25",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.26",
+      "label": "IV. Atthakavagga. §26",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.27",
+      "label": "IV. Atthakavagga. §27",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.28",
+      "label": "IV. Atthakavagga. §28",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.29",
+      "label": "IV. Atthakavagga. §29",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.30",
+      "label": "IV. Atthakavagga. §30",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.31",
+      "label": "IV. Atthakavagga. §31",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.32",
+      "label": "IV. Atthakavagga. §32",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.33",
+      "label": "IV. Atthakavagga. §33",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.34",
+      "label": "IV. Atthakavagga. §34",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.35",
+      "label": "IV. Atthakavagga. §35",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.36",
+      "label": "IV. Atthakavagga. §36",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.37",
+      "label": "IV. Atthakavagga. §37",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.38",
+      "label": "IV. Atthakavagga. §38",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.39",
+      "label": "IV. Atthakavagga. §39",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.40",
+      "label": "IV. Atthakavagga. §40",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.41",
+      "label": "IV. Atthakavagga. §41",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.42",
+      "label": "IV. Atthakavagga. §42",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.43",
+      "label": "IV. Atthakavagga. §43",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.44",
+      "label": "IV. Atthakavagga. §44",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.45",
+      "label": "IV. Atthakavagga. §45",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.46",
+      "label": "IV. Atthakavagga. §46",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.47",
+      "label": "IV. Atthakavagga. §47",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.48",
+      "label": "IV. Atthakavagga. §48",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.49",
+      "label": "IV. Atthakavagga. §49",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.50",
+      "label": "IV. Atthakavagga. §50",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.51",
+      "label": "IV. Atthakavagga. §51",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.52",
+      "label": "IV. Atthakavagga. §52",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.53",
+      "label": "IV. Atthakavagga. §53",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.54",
+      "label": "IV. Atthakavagga. §54",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.55",
+      "label": "IV. Atthakavagga. §55",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.56",
+      "label": "IV. Atthakavagga. §56",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.57",
+      "label": "IV. Atthakavagga. §57",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.58",
+      "label": "IV. Atthakavagga. §58",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.59",
+      "label": "IV. Atthakavagga. §59",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.60",
+      "label": "IV. Atthakavagga. §60",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.61",
+      "label": "IV. Atthakavagga. §61",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.62",
+      "label": "IV. Atthakavagga. §62",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.63",
+      "label": "IV. Atthakavagga. §63",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.64",
+      "label": "IV. Atthakavagga. §64",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.65",
+      "label": "IV. Atthakavagga. §65",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.66",
+      "label": "IV. Atthakavagga. §66",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.67",
+      "label": "IV. Atthakavagga. §67",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.68",
+      "label": "IV. Atthakavagga. §68",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.69",
+      "label": "IV. Atthakavagga. §69",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.70",
+      "label": "IV. Atthakavagga. §70",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.71",
+      "label": "IV. Atthakavagga. §71",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.72",
+      "label": "IV. Atthakavagga. §72",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.73",
+      "label": "IV. Atthakavagga. §73",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.74",
+      "label": "IV. Atthakavagga. §74",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.75",
+      "label": "IV. Atthakavagga. §75",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.76",
+      "label": "IV. Atthakavagga. §76",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.77",
+      "label": "IV. Atthakavagga. §77",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.78",
+      "label": "IV. Atthakavagga. §78",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.79",
+      "label": "IV. Atthakavagga. §79",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.80",
+      "label": "IV. Atthakavagga. §80",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.81",
+      "label": "IV. Atthakavagga. §81",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.82",
+      "label": "IV. Atthakavagga. §82",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.83",
+      "label": "IV. Atthakavagga. §83",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.84",
+      "label": "IV. Atthakavagga. §84",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.85",
+      "label": "IV. Atthakavagga. §85",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.86",
+      "label": "IV. Atthakavagga. §86",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.87",
+      "label": "IV. Atthakavagga. §87",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.88",
+      "label": "IV. Atthakavagga. §88",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.89",
+      "label": "IV. Atthakavagga. §89",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.90",
+      "label": "IV. Atthakavagga. §90",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.91",
+      "label": "IV. Atthakavagga. §91",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.92",
+      "label": "IV. Atthakavagga. §92",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.93",
+      "label": "IV. Atthakavagga. §93",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.94",
+      "label": "IV. Atthakavagga. §94",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.95",
+      "label": "IV. Atthakavagga. §95",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.96",
+      "label": "IV. Atthakavagga. §96",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.97",
+      "label": "IV. Atthakavagga. §97",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.98",
+      "label": "IV. Atthakavagga. §98",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.99",
+      "label": "IV. Atthakavagga. §99",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.100",
+      "label": "IV. Atthakavagga. §100",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.101",
+      "label": "IV. Atthakavagga. §101",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.102",
+      "label": "IV. Atthakavagga. §102",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.103",
+      "label": "IV. Atthakavagga. §103",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.104",
+      "label": "IV. Atthakavagga. §104",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.105",
+      "label": "IV. Atthakavagga. §105",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.106",
+      "label": "IV. Atthakavagga. §106",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.107",
+      "label": "IV. Atthakavagga. §107",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.108",
+      "label": "IV. Atthakavagga. §108",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.109",
+      "label": "IV. Atthakavagga. §109",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.110",
+      "label": "IV. Atthakavagga. §110",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.111",
+      "label": "IV. Atthakavagga. §111",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.112",
+      "label": "IV. Atthakavagga. §112",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.113",
+      "label": "IV. Atthakavagga. §113",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.114",
+      "label": "IV. Atthakavagga. §114",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.115",
+      "label": "IV. Atthakavagga. §115",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.116",
+      "label": "IV. Atthakavagga. §116",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.117",
+      "label": "IV. Atthakavagga. §117",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.118",
+      "label": "IV. Atthakavagga. §118",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.119",
+      "label": "IV. Atthakavagga. §119",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.120",
+      "label": "IV. Atthakavagga. §120",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.121",
+      "label": "IV. Atthakavagga. §121",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.122",
+      "label": "IV. Atthakavagga. §122",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.123",
+      "label": "IV. Atthakavagga. §123",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.124",
+      "label": "IV. Atthakavagga. §124",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.125",
+      "label": "IV. Atthakavagga. §125",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.126",
+      "label": "IV. Atthakavagga. §126",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.127",
+      "label": "IV. Atthakavagga. §127",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.128",
+      "label": "IV. Atthakavagga. §128",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.129",
+      "label": "IV. Atthakavagga. §129",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.130",
+      "label": "IV. Atthakavagga. §130",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.131",
+      "label": "IV. Atthakavagga. §131",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.132",
+      "label": "IV. Atthakavagga. §132",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.133",
+      "label": "IV. Atthakavagga. §133",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.134",
+      "label": "IV. Atthakavagga. §134",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.135",
+      "label": "IV. Atthakavagga. §135",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.136",
+      "label": "IV. Atthakavagga. §136",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.137",
+      "label": "IV. Atthakavagga. §137",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.138",
+      "label": "IV. Atthakavagga. §138",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.139",
+      "label": "IV. Atthakavagga. §139",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.140",
+      "label": "IV. Atthakavagga. §140",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.141",
+      "label": "IV. Atthakavagga. §141",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.142",
+      "label": "IV. Atthakavagga. §142",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.143",
+      "label": "IV. Atthakavagga. §143",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.144",
+      "label": "IV. Atthakavagga. §144",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.145",
+      "label": "IV. Atthakavagga. §145",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.146",
+      "label": "IV. Atthakavagga. §146",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.147",
+      "label": "IV. Atthakavagga. §147",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.148",
+      "label": "IV. Atthakavagga. §148",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.149",
+      "label": "IV. Atthakavagga. §149",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.150",
+      "label": "IV. Atthakavagga. §150",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.151",
+      "label": "IV. Atthakavagga. §151",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.152",
+      "label": "IV. Atthakavagga. §152",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.153",
+      "label": "IV. Atthakavagga. §153",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.154",
+      "label": "IV. Atthakavagga. §154",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.155",
+      "label": "IV. Atthakavagga. §155",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.156",
+      "label": "IV. Atthakavagga. §156",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.157",
+      "label": "IV. Atthakavagga. §157",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.158",
+      "label": "IV. Atthakavagga. §158",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.159",
+      "label": "IV. Atthakavagga. §159",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.160",
+      "label": "IV. Atthakavagga. §160",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.161",
+      "label": "IV. Atthakavagga. §161",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.162",
+      "label": "IV. Atthakavagga. §162",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.163",
+      "label": "IV. Atthakavagga. §163",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.164",
+      "label": "IV. Atthakavagga. §164",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.165",
+      "label": "IV. Atthakavagga. §165",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.166",
+      "label": "IV. Atthakavagga. §166",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.167",
+      "label": "IV. Atthakavagga. §167",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.168",
+      "label": "IV. Atthakavagga. §168",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.169",
+      "label": "IV. Atthakavagga. §169",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.170",
+      "label": "IV. Atthakavagga. §170",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.171",
+      "label": "IV. Atthakavagga. §171",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.172",
+      "label": "IV. Atthakavagga. §172",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.173",
+      "label": "IV. Atthakavagga. §173",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.174",
+      "label": "IV. Atthakavagga. §174",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.175",
+      "label": "IV. Atthakavagga. §175",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.176",
+      "label": "IV. Atthakavagga. §176",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.177",
+      "label": "IV. Atthakavagga. §177",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.178",
+      "label": "IV. Atthakavagga. §178",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.179",
+      "label": "IV. Atthakavagga. §179",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.180",
+      "label": "IV. Atthakavagga. §180",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.181",
+      "label": "IV. Atthakavagga. §181",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.182",
+      "label": "IV. Atthakavagga. §182",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.183",
+      "label": "IV. Atthakavagga. §183",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.184",
+      "label": "IV. Atthakavagga. §184",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.185",
+      "label": "IV. Atthakavagga. §185",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.186",
+      "label": "IV. Atthakavagga. §186",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.187",
+      "label": "IV. Atthakavagga. §187",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.188",
+      "label": "IV. Atthakavagga. §188",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.189",
+      "label": "IV. Atthakavagga. §189",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.190",
+      "label": "IV. Atthakavagga. §190",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.191",
+      "label": "IV. Atthakavagga. §191",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.192",
+      "label": "IV. Atthakavagga. §192",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.193",
+      "label": "IV. Atthakavagga. §193",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.194",
+      "label": "IV. Atthakavagga. §194",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.195",
+      "label": "IV. Atthakavagga. §195",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.196",
+      "label": "IV. Atthakavagga. §196",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.197",
+      "label": "IV. Atthakavagga. §197",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.198",
+      "label": "IV. Atthakavagga. §198",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.199",
+      "label": "IV. Atthakavagga. §199",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.200",
+      "label": "IV. Atthakavagga. §200",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.201",
+      "label": "IV. Atthakavagga. §201",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.202",
+      "label": "IV. Atthakavagga. §202",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.203",
+      "label": "IV. Atthakavagga. §203",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.204",
+      "label": "IV. Atthakavagga. §204",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.205",
+      "label": "IV. Atthakavagga. §205",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.206",
+      "label": "IV. Atthakavagga. §206",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.207",
+      "label": "IV. Atthakavagga. §207",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.208",
+      "label": "IV. Atthakavagga. §208",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.209",
+      "label": "IV. Atthakavagga. §209",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.210",
+      "label": "IV. Atthakavagga. §210",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.211",
+      "label": "IV. Atthakavagga. §211",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.212",
+      "label": "IV. Atthakavagga. §212",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.213",
+      "label": "IV. Atthakavagga. §213",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.214",
+      "label": "IV. Atthakavagga. §214",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.215",
+      "label": "IV. Atthakavagga. §215",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.216",
+      "label": "IV. Atthakavagga. §216",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.217",
+      "label": "IV. Atthakavagga. §217",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.218",
+      "label": "IV. Atthakavagga. §218",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.219",
+      "label": "IV. Atthakavagga. §219",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.220",
+      "label": "IV. Atthakavagga. §220",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.221",
+      "label": "IV. Atthakavagga. §221",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.222",
+      "label": "IV. Atthakavagga. §222",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.223",
+      "label": "IV. Atthakavagga. §223",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.224",
+      "label": "IV. Atthakavagga. §224",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.225",
+      "label": "IV. Atthakavagga. §225",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.226",
+      "label": "IV. Atthakavagga. §226",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.227",
+      "label": "IV. Atthakavagga. §227",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.228",
+      "label": "IV. Atthakavagga. §228",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.229",
+      "label": "IV. Atthakavagga. §229",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.230",
+      "label": "IV. Atthakavagga. §230",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.231",
+      "label": "IV. Atthakavagga. §231",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.232",
+      "label": "IV. Atthakavagga. §232",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.233",
+      "label": "IV. Atthakavagga. §233",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.234",
+      "label": "IV. Atthakavagga. §234",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.235",
+      "label": "IV. Atthakavagga. §235",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.236",
+      "label": "IV. Atthakavagga. §236",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.237",
+      "label": "IV. Atthakavagga. §237",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.238",
+      "label": "IV. Atthakavagga. §238",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.239",
+      "label": "IV. Atthakavagga. §239",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.240",
+      "label": "IV. Atthakavagga. §240",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.241",
+      "label": "IV. Atthakavagga. §241",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.242",
+      "label": "IV. Atthakavagga. §242",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.243",
+      "label": "IV. Atthakavagga. §243",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.244",
+      "label": "IV. Atthakavagga. §244",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.245",
+      "label": "IV. Atthakavagga. §245",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.246",
+      "label": "IV. Atthakavagga. §246",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.247",
+      "label": "IV. Atthakavagga. §247",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.248",
+      "label": "IV. Atthakavagga. §248",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.249",
+      "label": "IV. Atthakavagga. §249",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.250",
+      "label": "IV. Atthakavagga. §250",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.251",
+      "label": "IV. Atthakavagga. §251",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.252",
+      "label": "IV. Atthakavagga. §252",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.253",
+      "label": "IV. Atthakavagga. §253",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.254",
+      "label": "IV. Atthakavagga. §254",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.255",
+      "label": "IV. Atthakavagga. §255",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.256",
+      "label": "IV. Atthakavagga. §256",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.257",
+      "label": "IV. Atthakavagga. §257",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.258",
+      "label": "IV. Atthakavagga. §258",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.259",
+      "label": "IV. Atthakavagga. §259",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.260",
+      "label": "IV. Atthakavagga. §260",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.261",
+      "label": "IV. Atthakavagga. §261",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.262",
+      "label": "IV. Atthakavagga. §262",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.263",
+      "label": "IV. Atthakavagga. §263",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.264",
+      "label": "IV. Atthakavagga. §264",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.265",
+      "label": "IV. Atthakavagga. §265",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.266",
+      "label": "IV. Atthakavagga. §266",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.267",
+      "label": "IV. Atthakavagga. §267",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.268",
+      "label": "IV. Atthakavagga. §268",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.269",
+      "label": "IV. Atthakavagga. §269",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.270",
+      "label": "IV. Atthakavagga. §270",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.271",
+      "label": "IV. Atthakavagga. §271",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.272",
+      "label": "IV. Atthakavagga. §272",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.273",
+      "label": "IV. Atthakavagga. §273",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.274",
+      "label": "IV. Atthakavagga. §274",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.275",
+      "label": "IV. Atthakavagga. §275",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.276",
+      "label": "IV. Atthakavagga. §276",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.277",
+      "label": "IV. Atthakavagga. §277",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.278",
+      "label": "IV. Atthakavagga. §278",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.279",
+      "label": "IV. Atthakavagga. §279",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.280",
+      "label": "IV. Atthakavagga. §280",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.281",
+      "label": "IV. Atthakavagga. §281",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.282",
+      "label": "IV. Atthakavagga. §282",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.283",
+      "label": "IV. Atthakavagga. §283",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.284",
+      "label": "IV. Atthakavagga. §284",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.285",
+      "label": "IV. Atthakavagga. §285",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.286",
+      "label": "IV. Atthakavagga. §286",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.287",
+      "label": "IV. Atthakavagga. §287",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.288",
+      "label": "IV. Atthakavagga. §288",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.289",
+      "label": "IV. Atthakavagga. §289",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.290",
+      "label": "IV. Atthakavagga. §290",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.291",
+      "label": "IV. Atthakavagga. §291",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.292",
+      "label": "IV. Atthakavagga. §292",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.293",
+      "label": "IV. Atthakavagga. §293",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.294",
+      "label": "IV. Atthakavagga. §294",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.295",
+      "label": "IV. Atthakavagga. §295",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.296",
+      "label": "IV. Atthakavagga. §296",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.297",
+      "label": "IV. Atthakavagga. §297",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.298",
+      "label": "IV. Atthakavagga. §298",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.299",
+      "label": "IV. Atthakavagga. §299",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.300",
+      "label": "IV. Atthakavagga. §300",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.301",
+      "label": "IV. Atthakavagga. §301",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.302",
+      "label": "IV. Atthakavagga. §302",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.303",
+      "label": "IV. Atthakavagga. §303",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.304",
+      "label": "IV. Atthakavagga. §304",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.305",
+      "label": "IV. Atthakavagga. §305",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.306",
+      "label": "IV. Atthakavagga. §306",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.307",
+      "label": "IV. Atthakavagga. §307",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.308",
+      "label": "IV. Atthakavagga. §308",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.309",
+      "label": "IV. Atthakavagga. §309",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.310",
+      "label": "IV. Atthakavagga. §310",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.311",
+      "label": "IV. Atthakavagga. §311",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.312",
+      "label": "IV. Atthakavagga. §312",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.313",
+      "label": "IV. Atthakavagga. §313",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.314",
+      "label": "IV. Atthakavagga. §314",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.315",
+      "label": "IV. Atthakavagga. §315",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.316",
+      "label": "IV. Atthakavagga. §316",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.317",
+      "label": "IV. Atthakavagga. §317",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.318",
+      "label": "IV. Atthakavagga. §318",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.319",
+      "label": "IV. Atthakavagga. §319",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.320",
+      "label": "IV. Atthakavagga. §320",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.321",
+      "label": "IV. Atthakavagga. §321",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.322",
+      "label": "IV. Atthakavagga. §322",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.323",
+      "label": "IV. Atthakavagga. §323",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.324",
+      "label": "IV. Atthakavagga. §324",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.325",
+      "label": "IV. Atthakavagga. §325",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.326",
+      "label": "IV. Atthakavagga. §326",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.327",
+      "label": "IV. Atthakavagga. §327",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.328",
+      "label": "IV. Atthakavagga. §328",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.329",
+      "label": "IV. Atthakavagga. §329",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.330",
+      "label": "IV. Atthakavagga. §330",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.331",
+      "label": "IV. Atthakavagga. §331",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.332",
+      "label": "IV. Atthakavagga. §332",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.333",
+      "label": "IV. Atthakavagga. §333",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.334",
+      "label": "IV. Atthakavagga. §334",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.335",
+      "label": "IV. Atthakavagga. §335",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.336",
+      "label": "IV. Atthakavagga. §336",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.337",
+      "label": "IV. Atthakavagga. §337",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.338",
+      "label": "IV. Atthakavagga. §338",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.339",
+      "label": "IV. Atthakavagga. §339",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.340",
+      "label": "IV. Atthakavagga. §340",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.341",
+      "label": "IV. Atthakavagga. §341",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.342",
+      "label": "IV. Atthakavagga. §342",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.343",
+      "label": "IV. Atthakavagga. §343",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.344",
+      "label": "IV. Atthakavagga. §344",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.345",
+      "label": "IV. Atthakavagga. §345",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.346",
+      "label": "IV. Atthakavagga. §346",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.347",
+      "label": "IV. Atthakavagga. §347",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "5.1",
+      "label": "V. Pârâyanavagga. §1",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.2",
+      "label": "V. Pârâyanavagga. §2",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.3",
+      "label": "V. Pârâyanavagga. §3",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.4",
+      "label": "V. Pârâyanavagga. §4",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.5",
+      "label": "V. Pârâyanavagga. §5",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.6",
+      "label": "V. Pârâyanavagga. §6",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.7",
+      "label": "V. Pârâyanavagga. §7",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.8",
+      "label": "V. Pârâyanavagga. §8",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.9",
+      "label": "V. Pârâyanavagga. §9",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.10",
+      "label": "V. Pârâyanavagga. §10",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.11",
+      "label": "V. Pârâyanavagga. §11",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.12",
+      "label": "V. Pârâyanavagga. §12",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.13",
+      "label": "V. Pârâyanavagga. §13",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.14",
+      "label": "V. Pârâyanavagga. §14",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.15",
+      "label": "V. Pârâyanavagga. §15",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.16",
+      "label": "V. Pârâyanavagga. §16",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.17",
+      "label": "V. Pârâyanavagga. §17",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.18",
+      "label": "V. Pârâyanavagga. §18",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.19",
+      "label": "V. Pârâyanavagga. §19",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.20",
+      "label": "V. Pârâyanavagga. §20",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.21",
+      "label": "V. Pârâyanavagga. §21",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.22",
+      "label": "V. Pârâyanavagga. §22",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.23",
+      "label": "V. Pârâyanavagga. §23",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.24",
+      "label": "V. Pârâyanavagga. §24",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.25",
+      "label": "V. Pârâyanavagga. §25",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.26",
+      "label": "V. Pârâyanavagga. §26",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.27",
+      "label": "V. Pârâyanavagga. §27",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.28",
+      "label": "V. Pârâyanavagga. §28",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.29",
+      "label": "V. Pârâyanavagga. §29",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.30",
+      "label": "V. Pârâyanavagga. §30",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.31",
+      "label": "V. Pârâyanavagga. §31",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.32",
+      "label": "V. Pârâyanavagga. §32",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.33",
+      "label": "V. Pârâyanavagga. §33",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.34",
+      "label": "V. Pârâyanavagga. §34",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.35",
+      "label": "V. Pârâyanavagga. §35",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.36",
+      "label": "V. Pârâyanavagga. §36",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.37",
+      "label": "V. Pârâyanavagga. §37",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.38",
+      "label": "V. Pârâyanavagga. §38",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.39",
+      "label": "V. Pârâyanavagga. §39",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.40",
+      "label": "V. Pârâyanavagga. §40",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.41",
+      "label": "V. Pârâyanavagga. §41",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.42",
+      "label": "V. Pârâyanavagga. §42",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.43",
+      "label": "V. Pârâyanavagga. §43",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.44",
+      "label": "V. Pârâyanavagga. §44",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.45",
+      "label": "V. Pârâyanavagga. §45",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.46",
+      "label": "V. Pârâyanavagga. §46",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.47",
+      "label": "V. Pârâyanavagga. §47",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.48",
+      "label": "V. Pârâyanavagga. §48",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.49",
+      "label": "V. Pârâyanavagga. §49",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.50",
+      "label": "V. Pârâyanavagga. §50",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.51",
+      "label": "V. Pârâyanavagga. §51",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.52",
+      "label": "V. Pârâyanavagga. §52",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.53",
+      "label": "V. Pârâyanavagga. §53",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.54",
+      "label": "V. Pârâyanavagga. §54",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.55",
+      "label": "V. Pârâyanavagga. §55",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.56",
+      "label": "V. Pârâyanavagga. §56",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.57",
+      "label": "V. Pârâyanavagga. §57",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.58",
+      "label": "V. Pârâyanavagga. §58",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.59",
+      "label": "V. Pârâyanavagga. §59",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.60",
+      "label": "V. Pârâyanavagga. §60",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.61",
+      "label": "V. Pârâyanavagga. §61",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.62",
+      "label": "V. Pârâyanavagga. §62",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.63",
+      "label": "V. Pârâyanavagga. §63",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.64",
+      "label": "V. Pârâyanavagga. §64",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.65",
+      "label": "V. Pârâyanavagga. §65",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.66",
+      "label": "V. Pârâyanavagga. §66",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.67",
+      "label": "V. Pârâyanavagga. §67",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.68",
+      "label": "V. Pârâyanavagga. §68",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.69",
+      "label": "V. Pârâyanavagga. §69",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.70",
+      "label": "V. Pârâyanavagga. §70",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.71",
+      "label": "V. Pârâyanavagga. §71",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.72",
+      "label": "V. Pârâyanavagga. §72",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.73",
+      "label": "V. Pârâyanavagga. §73",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.74",
+      "label": "V. Pârâyanavagga. §74",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.75",
+      "label": "V. Pârâyanavagga. §75",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.76",
+      "label": "V. Pârâyanavagga. §76",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.77",
+      "label": "V. Pârâyanavagga. §77",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.78",
+      "label": "V. Pârâyanavagga. §78",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.79",
+      "label": "V. Pârâyanavagga. §79",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.80",
+      "label": "V. Pârâyanavagga. §80",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.81",
+      "label": "V. Pârâyanavagga. §81",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.82",
+      "label": "V. Pârâyanavagga. §82",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.83",
+      "label": "V. Pârâyanavagga. §83",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.84",
+      "label": "V. Pârâyanavagga. §84",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.85",
+      "label": "V. Pârâyanavagga. §85",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.86",
+      "label": "V. Pârâyanavagga. §86",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.87",
+      "label": "V. Pârâyanavagga. §87",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.88",
+      "label": "V. Pârâyanavagga. §88",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.89",
+      "label": "V. Pârâyanavagga. §89",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.90",
+      "label": "V. Pârâyanavagga. §90",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.91",
+      "label": "V. Pârâyanavagga. §91",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.92",
+      "label": "V. Pârâyanavagga. §92",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.93",
+      "label": "V. Pârâyanavagga. §93",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.94",
+      "label": "V. Pârâyanavagga. §94",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.95",
+      "label": "V. Pârâyanavagga. §95",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.96",
+      "label": "V. Pârâyanavagga. §96",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.97",
+      "label": "V. Pârâyanavagga. §97",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.98",
+      "label": "V. Pârâyanavagga. §98",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.99",
+      "label": "V. Pârâyanavagga. §99",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.100",
+      "label": "V. Pârâyanavagga. §100",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.101",
+      "label": "V. Pârâyanavagga. §101",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.102",
+      "label": "V. Pârâyanavagga. §102",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.103",
+      "label": "V. Pârâyanavagga. §103",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.104",
+      "label": "V. Pârâyanavagga. §104",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.105",
+      "label": "V. Pârâyanavagga. §105",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.106",
+      "label": "V. Pârâyanavagga. §106",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.107",
+      "label": "V. Pârâyanavagga. §107",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.108",
+      "label": "V. Pârâyanavagga. §108",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.109",
+      "label": "V. Pârâyanavagga. §109",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.110",
+      "label": "V. Pârâyanavagga. §110",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.111",
+      "label": "V. Pârâyanavagga. §111",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.112",
+      "label": "V. Pârâyanavagga. §112",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.113",
+      "label": "V. Pârâyanavagga. §113",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.114",
+      "label": "V. Pârâyanavagga. §114",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.115",
+      "label": "V. Pârâyanavagga. §115",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.116",
+      "label": "V. Pârâyanavagga. §116",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.117",
+      "label": "V. Pârâyanavagga. §117",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.118",
+      "label": "V. Pârâyanavagga. §118",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.119",
+      "label": "V. Pârâyanavagga. §119",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.120",
+      "label": "V. Pârâyanavagga. §120",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.121",
+      "label": "V. Pârâyanavagga. §121",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.122",
+      "label": "V. Pârâyanavagga. §122",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.123",
+      "label": "V. Pârâyanavagga. §123",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.124",
+      "label": "V. Pârâyanavagga. §124",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.125",
+      "label": "V. Pârâyanavagga. §125",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.126",
+      "label": "V. Pârâyanavagga. §126",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.127",
+      "label": "V. Pârâyanavagga. §127",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.128",
+      "label": "V. Pârâyanavagga. §128",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.129",
+      "label": "V. Pârâyanavagga. §129",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.130",
+      "label": "V. Pârâyanavagga. §130",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.131",
+      "label": "V. Pârâyanavagga. §131",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.132",
+      "label": "V. Pârâyanavagga. §132",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.133",
+      "label": "V. Pârâyanavagga. §133",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.134",
+      "label": "V. Pârâyanavagga. §134",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.135",
+      "label": "V. Pârâyanavagga. §135",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.136",
+      "label": "V. Pârâyanavagga. §136",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.137",
+      "label": "V. Pârâyanavagga. §137",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.138",
+      "label": "V. Pârâyanavagga. §138",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.139",
+      "label": "V. Pârâyanavagga. §139",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.140",
+      "label": "V. Pârâyanavagga. §140",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.141",
+      "label": "V. Pârâyanavagga. §141",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.142",
+      "label": "V. Pârâyanavagga. §142",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.143",
+      "label": "V. Pârâyanavagga. §143",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.144",
+      "label": "V. Pârâyanavagga. §144",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.145",
+      "label": "V. Pârâyanavagga. §145",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.146",
+      "label": "V. Pârâyanavagga. §146",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.147",
+      "label": "V. Pârâyanavagga. §147",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.148",
+      "label": "V. Pârâyanavagga. §148",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.149",
+      "label": "V. Pârâyanavagga. §149",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.150",
+      "label": "V. Pârâyanavagga. §150",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.151",
+      "label": "V. Pârâyanavagga. §151",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.152",
+      "label": "V. Pârâyanavagga. §152",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.153",
+      "label": "V. Pârâyanavagga. §153",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.154",
+      "label": "V. Pârâyanavagga. §154",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.155",
+      "label": "V. Pârâyanavagga. §155",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.156",
+      "label": "V. Pârâyanavagga. §156",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.157",
+      "label": "V. Pârâyanavagga. §157",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.158",
+      "label": "V. Pârâyanavagga. §158",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.159",
+      "label": "V. Pârâyanavagga. §159",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.160",
+      "label": "V. Pârâyanavagga. §160",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.161",
+      "label": "V. Pârâyanavagga. §161",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.162",
+      "label": "V. Pârâyanavagga. §162",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.163",
+      "label": "V. Pârâyanavagga. §163",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.164",
+      "label": "V. Pârâyanavagga. §164",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.165",
+      "label": "V. Pârâyanavagga. §165",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.166",
+      "label": "V. Pârâyanavagga. §166",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.167",
+      "label": "V. Pârâyanavagga. §167",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.168",
+      "label": "V. Pârâyanavagga. §168",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.169",
+      "label": "V. Pârâyanavagga. §169",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.170",
+      "label": "V. Pârâyanavagga. §170",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.171",
+      "label": "V. Pârâyanavagga. §171",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.172",
+      "label": "V. Pârâyanavagga. §172",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.173",
+      "label": "V. Pârâyanavagga. §173",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.174",
+      "label": "V. Pârâyanavagga. §174",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.175",
+      "label": "V. Pârâyanavagga. §175",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.176",
+      "label": "V. Pârâyanavagga. §176",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.177",
+      "label": "V. Pârâyanavagga. §177",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.178",
+      "label": "V. Pârâyanavagga. §178",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.179",
+      "label": "V. Pârâyanavagga. §179",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.180",
+      "label": "V. Pârâyanavagga. §180",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.181",
+      "label": "V. Pârâyanavagga. §181",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.182",
+      "label": "V. Pârâyanavagga. §182",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.183",
+      "label": "V. Pârâyanavagga. §183",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.184",
+      "label": "V. Pârâyanavagga. §184",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.185",
+      "label": "V. Pârâyanavagga. §185",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.186",
+      "label": "V. Pârâyanavagga. §186",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.187",
+      "label": "V. Pârâyanavagga. §187",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.188",
+      "label": "V. Pârâyanavagga. §188",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.189",
+      "label": "V. Pârâyanavagga. §189",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.190",
+      "label": "V. Pârâyanavagga. §190",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.191",
+      "label": "V. Pârâyanavagga. §191",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.192",
+      "label": "V. Pârâyanavagga. §192",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.193",
+      "label": "V. Pârâyanavagga. §193",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.194",
+      "label": "V. Pârâyanavagga. §194",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.195",
+      "label": "V. Pârâyanavagga. §195",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.196",
+      "label": "V. Pârâyanavagga. §196",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.197",
+      "label": "V. Pârâyanavagga. §197",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.198",
+      "label": "V. Pârâyanavagga. §198",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.199",
+      "label": "V. Pârâyanavagga. §199",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.200",
+      "label": "V. Pârâyanavagga. §200",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.201",
+      "label": "V. Pârâyanavagga. §201",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.202",
+      "label": "V. Pârâyanavagga. §202",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.203",
+      "label": "V. Pârâyanavagga. §203",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.204",
+      "label": "V. Pârâyanavagga. §204",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.205",
+      "label": "V. Pârâyanavagga. §205",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.206",
+      "label": "V. Pârâyanavagga. §206",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.207",
+      "label": "V. Pârâyanavagga. §207",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.208",
+      "label": "V. Pârâyanavagga. §208",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.209",
+      "label": "V. Pârâyanavagga. §209",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.210",
+      "label": "V. Pârâyanavagga. §210",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.211",
+      "label": "V. Pârâyanavagga. §211",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.212",
+      "label": "V. Pârâyanavagga. §212",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.213",
+      "label": "V. Pârâyanavagga. §213",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.214",
+      "label": "V. Pârâyanavagga. §214",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.215",
+      "label": "V. Pârâyanavagga. §215",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.216",
+      "label": "V. Pârâyanavagga. §216",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.217",
+      "label": "V. Pârâyanavagga. §217",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.218",
+      "label": "V. Pârâyanavagga. §218",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.219",
+      "label": "V. Pârâyanavagga. §219",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.220",
+      "label": "V. Pârâyanavagga. §220",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.221",
+      "label": "V. Pârâyanavagga. §221",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.222",
+      "label": "V. Pârâyanavagga. §222",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.223",
+      "label": "V. Pârâyanavagga. §223",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.224",
+      "label": "V. Pârâyanavagga. §224",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.225",
+      "label": "V. Pârâyanavagga. §225",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.226",
+      "label": "V. Pârâyanavagga. §226",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.227",
+      "label": "V. Pârâyanavagga. §227",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.228",
+      "label": "V. Pârâyanavagga. §228",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.229",
+      "label": "V. Pârâyanavagga. §229",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.230",
+      "label": "V. Pârâyanavagga. §230",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.231",
+      "label": "V. Pârâyanavagga. §231",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.232",
+      "label": "V. Pârâyanavagga. §232",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.233",
+      "label": "V. Pârâyanavagga. §233",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.234",
+      "label": "V. Pârâyanavagga. §234",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.235",
+      "label": "V. Pârâyanavagga. §235",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.236",
+      "label": "V. Pârâyanavagga. §236",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.237",
+      "label": "V. Pârâyanavagga. §237",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.238",
+      "label": "V. Pârâyanavagga. §238",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.239",
+      "label": "V. Pârâyanavagga. §239",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.240",
+      "label": "V. Pârâyanavagga. §240",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.241",
+      "label": "V. Pârâyanavagga. §241",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.242",
+      "label": "V. Pârâyanavagga. §242",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.243",
+      "label": "V. Pârâyanavagga. §243",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.244",
+      "label": "V. Pârâyanavagga. §244",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.245",
+      "label": "V. Pârâyanavagga. §245",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.246",
+      "label": "V. Pârâyanavagga. §246",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.247",
+      "label": "V. Pârâyanavagga. §247",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.248",
+      "label": "V. Pârâyanavagga. §248",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.249",
+      "label": "V. Pârâyanavagga. §249",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.250",
+      "label": "V. Pârâyanavagga. §250",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.251",
+      "label": "V. Pârâyanavagga. §251",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.252",
+      "label": "V. Pârâyanavagga. §252",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.253",
+      "label": "V. Pârâyanavagga. §253",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.254",
+      "label": "V. Pârâyanavagga. §254",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.255",
+      "label": "V. Pârâyanavagga. §255",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.256",
+      "label": "V. Pârâyanavagga. §256",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.257",
+      "label": "V. Pârâyanavagga. §257",
+      "chapterRef": "5"
+    }
+  ],
+  "editions": [
+    {
+      "slug": "sutta-nipata-en",
+      "language": "en",
+      "editionType": "translation",
+      "title": "The Dhammapada and The Sutta-Nipâta (Sacred Books of the East, vol. 10, part II)",
+      "translator": "Viggo Fausböll",
+      "publisher": "Internet Sacred Text Archive",
+      "publicationYear": 1881,
+      "source": "sacred-texts",
+      "license": "public-domain",
+      "rightsStatus": "Public domain in the United States",
+      "attributionText": "The Dhammapada and The Sutta-Nipâta (Sacred Books of the East, vol. 10, part II), translated by Viggo Fausböll (1881). Sacred Books of the East, vol. 10. Public domain in the United States. Digital text from the Internet Sacred Text Archive.",
+      "structureScheme": "chapter and paragraph index; segments are the printed paragraphs",
+      "isSample": false,
+      "notes": "The import cache stores the exact segments that were validated. The reader re-fetches the chapter from the host and reports when the served count no longer matches the index."
+    }
+  ]
+}

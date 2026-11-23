@@ -1,0 +1,5120 @@
+{
+  "slug": "yajnavalkya-smriti",
+  "title": "The Yajnavalkya Smriti",
+  "originalTitle": "याज्ञवल्क्यस्मृति",
+  "transliteration": "Yājñavalkyasmṛti",
+  "altTitles": [
+    "Yajnavalkya Smriti",
+    "Yajnavalkya Dharmasastra"
+  ],
+  "tradition": "hinduism",
+  "school": "",
+  "genre": "Dharmasastra",
+  "textType": "Dharma text in verse",
+  "category": "Dharmasastra",
+  "subcategory": "Smriti",
+  "originalLanguage": "sa",
+  "dateStart": 200,
+  "dateEnd": 500,
+  "dateDisplay": "c. 3rd–5th century CE",
+  "authorshipStatus": "traditional",
+  "author": "yajnavalkya",
+  "attributionNote": "Ascribed to the Vedic sage Yajnavalkya; the text was compiled centuries after him and carries the rules of the schools rather than the speech of the sage.",
+  "description": "The Yajnavalkya Smriti sets out dharma in three books: conduct — study, the sacraments, marriage, gifts and the duties of the stages of life; the rules of a state, of procedure and of evidence, and of the sale of goods, pledges and servants; and expiation. Its second book is the most systematic treatment of law in the older smritis and became the working law of much of India through the commentary upon it.",
+  "historicalContext": "Where the Laws of Manu are the smriti quoted most often, the Yajnavalkya Smriti is the one used most often in court, because it states the rules more clearly and in a better order. In Bengal it was read with the Mitaksara and in northern India with the Balakrida, and the British Indian courts took it — with those commentaries — as the Hindu law they were bound to apply.",
+  "availabilityNote": "Complete: all three kandas, 1,011 verses of the GRETIL e-text, streamed at read time one kanda at a time. This is the Sanskrit text; no English translation is imported here.",
+  "featured": false,
+  "featuredNote": "",
+  "refScheme": "kanda.verse",
+  "isSample": false,
+  "textStorage": "streamed",
+  "chapters": [
+    {
+      "ref": "1",
+      "label": "Kāṇḍa 1"
+    },
+    {
+      "ref": "2",
+      "label": "Kāṇḍa 2"
+    },
+    {
+      "ref": "3",
+      "label": "Kāṇḍa 3"
+    }
+  ],
+  "passages": [
+    {
+      "reference": "1.1",
+      "label": "Kāṇḍa 1 §1",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.2",
+      "label": "Kāṇḍa 1 §2",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.3",
+      "label": "Kāṇḍa 1 §3",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.4",
+      "label": "Kāṇḍa 1 §4",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.5",
+      "label": "Kāṇḍa 1 §5",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.6",
+      "label": "Kāṇḍa 1 §6",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.7",
+      "label": "Kāṇḍa 1 §7",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.8",
+      "label": "Kāṇḍa 1 §8",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.9",
+      "label": "Kāṇḍa 1 §9",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.10",
+      "label": "Kāṇḍa 1 §10",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.11",
+      "label": "Kāṇḍa 1 §11",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.12",
+      "label": "Kāṇḍa 1 §12",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.13",
+      "label": "Kāṇḍa 1 §13",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.14",
+      "label": "Kāṇḍa 1 §14",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.15",
+      "label": "Kāṇḍa 1 §15",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.16",
+      "label": "Kāṇḍa 1 §16",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.17",
+      "label": "Kāṇḍa 1 §17",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.18",
+      "label": "Kāṇḍa 1 §18",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.19",
+      "label": "Kāṇḍa 1 §19",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.20",
+      "label": "Kāṇḍa 1 §20",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.21",
+      "label": "Kāṇḍa 1 §21",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.22",
+      "label": "Kāṇḍa 1 §22",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.23",
+      "label": "Kāṇḍa 1 §23",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.24",
+      "label": "Kāṇḍa 1 §24",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.25",
+      "label": "Kāṇḍa 1 §25",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.26",
+      "label": "Kāṇḍa 1 §26",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.27",
+      "label": "Kāṇḍa 1 §27",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.28",
+      "label": "Kāṇḍa 1 §28",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.29",
+      "label": "Kāṇḍa 1 §29",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.30",
+      "label": "Kāṇḍa 1 §30",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.31",
+      "label": "Kāṇḍa 1 §31",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.32",
+      "label": "Kāṇḍa 1 §32",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.33",
+      "label": "Kāṇḍa 1 §33",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.34",
+      "label": "Kāṇḍa 1 §34",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.35",
+      "label": "Kāṇḍa 1 §35",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.36",
+      "label": "Kāṇḍa 1 §36",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.37",
+      "label": "Kāṇḍa 1 §37",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.38",
+      "label": "Kāṇḍa 1 §38",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.39",
+      "label": "Kāṇḍa 1 §39",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.40",
+      "label": "Kāṇḍa 1 §40",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.41",
+      "label": "Kāṇḍa 1 §41",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.42",
+      "label": "Kāṇḍa 1 §42",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.43",
+      "label": "Kāṇḍa 1 §43",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.44",
+      "label": "Kāṇḍa 1 §44",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.45",
+      "label": "Kāṇḍa 1 §45",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.46",
+      "label": "Kāṇḍa 1 §46",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.47",
+      "label": "Kāṇḍa 1 §47",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.48",
+      "label": "Kāṇḍa 1 §48",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.49",
+      "label": "Kāṇḍa 1 §49",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.50",
+      "label": "Kāṇḍa 1 §50",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.51",
+      "label": "Kāṇḍa 1 §51",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.52",
+      "label": "Kāṇḍa 1 §52",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.53",
+      "label": "Kāṇḍa 1 §53",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.54",
+      "label": "Kāṇḍa 1 §54",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.55",
+      "label": "Kāṇḍa 1 §55",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.56",
+      "label": "Kāṇḍa 1 §56",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.57",
+      "label": "Kāṇḍa 1 §57",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.58",
+      "label": "Kāṇḍa 1 §58",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.59",
+      "label": "Kāṇḍa 1 §59",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.60",
+      "label": "Kāṇḍa 1 §60",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.61",
+      "label": "Kāṇḍa 1 §61",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.62",
+      "label": "Kāṇḍa 1 §62",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.63",
+      "label": "Kāṇḍa 1 §63",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.64",
+      "label": "Kāṇḍa 1 §64",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.65",
+      "label": "Kāṇḍa 1 §65",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.66",
+      "label": "Kāṇḍa 1 §66",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.67",
+      "label": "Kāṇḍa 1 §67",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.68",
+      "label": "Kāṇḍa 1 §68",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.69",
+      "label": "Kāṇḍa 1 §69",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.70",
+      "label": "Kāṇḍa 1 §70",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.71",
+      "label": "Kāṇḍa 1 §71",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.72",
+      "label": "Kāṇḍa 1 §72",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.73",
+      "label": "Kāṇḍa 1 §73",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.74",
+      "label": "Kāṇḍa 1 §74",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.75",
+      "label": "Kāṇḍa 1 §75",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.76",
+      "label": "Kāṇḍa 1 §76",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.77",
+      "label": "Kāṇḍa 1 §77",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.78",
+      "label": "Kāṇḍa 1 §78",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.79",
+      "label": "Kāṇḍa 1 §79",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.80",
+      "label": "Kāṇḍa 1 §80",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.81",
+      "label": "Kāṇḍa 1 §81",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.82",
+      "label": "Kāṇḍa 1 §82",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.83",
+      "label": "Kāṇḍa 1 §83",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.84",
+      "label": "Kāṇḍa 1 §84",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.85",
+      "label": "Kāṇḍa 1 §85",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.86",
+      "label": "Kāṇḍa 1 §86",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.87",
+      "label": "Kāṇḍa 1 §87",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.88",
+      "label": "Kāṇḍa 1 §88",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.89",
+      "label": "Kāṇḍa 1 §89",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.90",
+      "label": "Kāṇḍa 1 §90",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.91",
+      "label": "Kāṇḍa 1 §91",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.92",
+      "label": "Kāṇḍa 1 §92",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.93",
+      "label": "Kāṇḍa 1 §93",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.94",
+      "label": "Kāṇḍa 1 §94",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.95",
+      "label": "Kāṇḍa 1 §95",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.96",
+      "label": "Kāṇḍa 1 §96",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.97",
+      "label": "Kāṇḍa 1 §97",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.98",
+      "label": "Kāṇḍa 1 §98",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.99",
+      "label": "Kāṇḍa 1 §99",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.100",
+      "label": "Kāṇḍa 1 §100",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.101",
+      "label": "Kāṇḍa 1 §101",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.102",
+      "label": "Kāṇḍa 1 §102",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.103",
+      "label": "Kāṇḍa 1 §103",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.104",
+      "label": "Kāṇḍa 1 §104",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.105",
+      "label": "Kāṇḍa 1 §105",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.106",
+      "label": "Kāṇḍa 1 §106",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.107",
+      "label": "Kāṇḍa 1 §107",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.108",
+      "label": "Kāṇḍa 1 §108",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.109",
+      "label": "Kāṇḍa 1 §109",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.110",
+      "label": "Kāṇḍa 1 §110",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.111",
+      "label": "Kāṇḍa 1 §111",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.112",
+      "label": "Kāṇḍa 1 §112",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.113",
+      "label": "Kāṇḍa 1 §113",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.114",
+      "label": "Kāṇḍa 1 §114",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.115",
+      "label": "Kāṇḍa 1 §115",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.116",
+      "label": "Kāṇḍa 1 §116",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.117",
+      "label": "Kāṇḍa 1 §117",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.118",
+      "label": "Kāṇḍa 1 §118",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.119",
+      "label": "Kāṇḍa 1 §119",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.120",
+      "label": "Kāṇḍa 1 §120",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.121",
+      "label": "Kāṇḍa 1 §121",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.122",
+      "label": "Kāṇḍa 1 §122",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.123",
+      "label": "Kāṇḍa 1 §123",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.124",
+      "label": "Kāṇḍa 1 §124",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.125",
+      "label": "Kāṇḍa 1 §125",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.126",
+      "label": "Kāṇḍa 1 §126",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.127",
+      "label": "Kāṇḍa 1 §127",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.128",
+      "label": "Kāṇḍa 1 §128",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.129",
+      "label": "Kāṇḍa 1 §129",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.130",
+      "label": "Kāṇḍa 1 §130",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.131",
+      "label": "Kāṇḍa 1 §131",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.132",
+      "label": "Kāṇḍa 1 §132",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.133",
+      "label": "Kāṇḍa 1 §133",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.134",
+      "label": "Kāṇḍa 1 §134",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.135",
+      "label": "Kāṇḍa 1 §135",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.136",
+      "label": "Kāṇḍa 1 §136",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.137",
+      "label": "Kāṇḍa 1 §137",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.138",
+      "label": "Kāṇḍa 1 §138",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.139",
+      "label": "Kāṇḍa 1 §139",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.140",
+      "label": "Kāṇḍa 1 §140",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.141",
+      "label": "Kāṇḍa 1 §141",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.142",
+      "label": "Kāṇḍa 1 §142",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.143",
+      "label": "Kāṇḍa 1 §143",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.144",
+      "label": "Kāṇḍa 1 §144",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.145",
+      "label": "Kāṇḍa 1 §145",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.146",
+      "label": "Kāṇḍa 1 §146",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.147",
+      "label": "Kāṇḍa 1 §147",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.148",
+      "label": "Kāṇḍa 1 §148",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.149",
+      "label": "Kāṇḍa 1 §149",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.150",
+      "label": "Kāṇḍa 1 §150",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.151",
+      "label": "Kāṇḍa 1 §151",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.152",
+      "label": "Kāṇḍa 1 §152",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.153",
+      "label": "Kāṇḍa 1 §153",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.154",
+      "label": "Kāṇḍa 1 §154",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.155",
+      "label": "Kāṇḍa 1 §155",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.156",
+      "label": "Kāṇḍa 1 §156",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.157",
+      "label": "Kāṇḍa 1 §157",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.158",
+      "label": "Kāṇḍa 1 §158",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.159",
+      "label": "Kāṇḍa 1 §159",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.160",
+      "label": "Kāṇḍa 1 §160",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.161",
+      "label": "Kāṇḍa 1 §161",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.162",
+      "label": "Kāṇḍa 1 §162",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.163",
+      "label": "Kāṇḍa 1 §163",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.164",
+      "label": "Kāṇḍa 1 §164",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.165",
+      "label": "Kāṇḍa 1 §165",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.166",
+      "label": "Kāṇḍa 1 §166",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.167",
+      "label": "Kāṇḍa 1 §167",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.168",
+      "label": "Kāṇḍa 1 §168",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.169",
+      "label": "Kāṇḍa 1 §169",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.170",
+      "label": "Kāṇḍa 1 §170",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.171",
+      "label": "Kāṇḍa 1 §171",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.172",
+      "label": "Kāṇḍa 1 §172",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.173",
+      "label": "Kāṇḍa 1 §173",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.174",
+      "label": "Kāṇḍa 1 §174",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.175",
+      "label": "Kāṇḍa 1 §175",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.176",
+      "label": "Kāṇḍa 1 §176",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.177",
+      "label": "Kāṇḍa 1 §177",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.178",
+      "label": "Kāṇḍa 1 §178",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.179",
+      "label": "Kāṇḍa 1 §179",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.180",
+      "label": "Kāṇḍa 1 §180",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.181",
+      "label": "Kāṇḍa 1 §181",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.182",
+      "label": "Kāṇḍa 1 §182",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.183",
+      "label": "Kāṇḍa 1 §183",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.184",
+      "label": "Kāṇḍa 1 §184",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.185",
+      "label": "Kāṇḍa 1 §185",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.186",
+      "label": "Kāṇḍa 1 §186",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.187",
+      "label": "Kāṇḍa 1 §187",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.188",
+      "label": "Kāṇḍa 1 §188",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.189",
+      "label": "Kāṇḍa 1 §189",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.190",
+      "label": "Kāṇḍa 1 §190",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.191",
+      "label": "Kāṇḍa 1 §191",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.192",
+      "label": "Kāṇḍa 1 §192",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.193",
+      "label": "Kāṇḍa 1 §193",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.194",
+      "label": "Kāṇḍa 1 §194",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.195",
+      "label": "Kāṇḍa 1 §195",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.196",
+      "label": "Kāṇḍa 1 §196",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.197",
+      "label": "Kāṇḍa 1 §197",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.198",
+      "label": "Kāṇḍa 1 §198",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.199",
+      "label": "Kāṇḍa 1 §199",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.200",
+      "label": "Kāṇḍa 1 §200",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.201",
+      "label": "Kāṇḍa 1 §201",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.202",
+      "label": "Kāṇḍa 1 §202",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.203",
+      "label": "Kāṇḍa 1 §203",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.204",
+      "label": "Kāṇḍa 1 §204",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.205",
+      "label": "Kāṇḍa 1 §205",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.206",
+      "label": "Kāṇḍa 1 §206",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.207",
+      "label": "Kāṇḍa 1 §207",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.208",
+      "label": "Kāṇḍa 1 §208",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.209",
+      "label": "Kāṇḍa 1 §209",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.210",
+      "label": "Kāṇḍa 1 §210",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.211",
+      "label": "Kāṇḍa 1 §211",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.212",
+      "label": "Kāṇḍa 1 §212",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.213",
+      "label": "Kāṇḍa 1 §213",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.214",
+      "label": "Kāṇḍa 1 §214",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.215",
+      "label": "Kāṇḍa 1 §215",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.216",
+      "label": "Kāṇḍa 1 §216",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.217",
+      "label": "Kāṇḍa 1 §217",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.218",
+      "label": "Kāṇḍa 1 §218",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.219",
+      "label": "Kāṇḍa 1 §219",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.220",
+      "label": "Kāṇḍa 1 §220",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.221",
+      "label": "Kāṇḍa 1 §221",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.222",
+      "label": "Kāṇḍa 1 §222",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.223",
+      "label": "Kāṇḍa 1 §223",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.224",
+      "label": "Kāṇḍa 1 §224",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.225",
+      "label": "Kāṇḍa 1 §225",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.226",
+      "label": "Kāṇḍa 1 §226",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.227",
+      "label": "Kāṇḍa 1 §227",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.228",
+      "label": "Kāṇḍa 1 §228",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.229",
+      "label": "Kāṇḍa 1 §229",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.230",
+      "label": "Kāṇḍa 1 §230",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.231",
+      "label": "Kāṇḍa 1 §231",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.232",
+      "label": "Kāṇḍa 1 §232",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.233",
+      "label": "Kāṇḍa 1 §233",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.234",
+      "label": "Kāṇḍa 1 §234",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.235",
+      "label": "Kāṇḍa 1 §235",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.236",
+      "label": "Kāṇḍa 1 §236",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.237",
+      "label": "Kāṇḍa 1 §237",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.238",
+      "label": "Kāṇḍa 1 §238",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.239",
+      "label": "Kāṇḍa 1 §239",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.240",
+      "label": "Kāṇḍa 1 §240",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.241",
+      "label": "Kāṇḍa 1 §241",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.242",
+      "label": "Kāṇḍa 1 §242",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.243",
+      "label": "Kāṇḍa 1 §243",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.244",
+      "label": "Kāṇḍa 1 §244",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.245",
+      "label": "Kāṇḍa 1 §245",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.246",
+      "label": "Kāṇḍa 1 §246",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.247",
+      "label": "Kāṇḍa 1 §247",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.248",
+      "label": "Kāṇḍa 1 §248",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.249",
+      "label": "Kāṇḍa 1 §249",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.250",
+      "label": "Kāṇḍa 1 §250",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.251",
+      "label": "Kāṇḍa 1 §251",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.252",
+      "label": "Kāṇḍa 1 §252",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.253",
+      "label": "Kāṇḍa 1 §253",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.254",
+      "label": "Kāṇḍa 1 §254",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.255",
+      "label": "Kāṇḍa 1 §255",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.256",
+      "label": "Kāṇḍa 1 §256",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.257",
+      "label": "Kāṇḍa 1 §257",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.258",
+      "label": "Kāṇḍa 1 §258",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.259",
+      "label": "Kāṇḍa 1 §259",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.260",
+      "label": "Kāṇḍa 1 §260",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.261",
+      "label": "Kāṇḍa 1 §261",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.262",
+      "label": "Kāṇḍa 1 §262",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.263",
+      "label": "Kāṇḍa 1 §263",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.264",
+      "label": "Kāṇḍa 1 §264",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.265",
+      "label": "Kāṇḍa 1 §265",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.266",
+      "label": "Kāṇḍa 1 §266",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.267",
+      "label": "Kāṇḍa 1 §267",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.268",
+      "label": "Kāṇḍa 1 §268",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.269",
+      "label": "Kāṇḍa 1 §269",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.270",
+      "label": "Kāṇḍa 1 §270",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.271",
+      "label": "Kāṇḍa 1 §271",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.272",
+      "label": "Kāṇḍa 1 §272",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.273",
+      "label": "Kāṇḍa 1 §273",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.274",
+      "label": "Kāṇḍa 1 §274",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.275",
+      "label": "Kāṇḍa 1 §275",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.276",
+      "label": "Kāṇḍa 1 §276",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.277",
+      "label": "Kāṇḍa 1 §277",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.278",
+      "label": "Kāṇḍa 1 §278",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.279",
+      "label": "Kāṇḍa 1 §279",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.280",
+      "label": "Kāṇḍa 1 §280",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.281",
+      "label": "Kāṇḍa 1 §281",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.282",
+      "label": "Kāṇḍa 1 §282",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.283",
+      "label": "Kāṇḍa 1 §283",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.284",
+      "label": "Kāṇḍa 1 §284",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.285",
+      "label": "Kāṇḍa 1 §285",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.286",
+      "label": "Kāṇḍa 1 §286",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.287",
+      "label": "Kāṇḍa 1 §287",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.288",
+      "label": "Kāṇḍa 1 §288",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.289",
+      "label": "Kāṇḍa 1 §289",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.290",
+      "label": "Kāṇḍa 1 §290",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.291",
+      "label": "Kāṇḍa 1 §291",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.292",
+      "label": "Kāṇḍa 1 §292",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.293",
+      "label": "Kāṇḍa 1 §293",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.294",
+      "label": "Kāṇḍa 1 §294",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.295",
+      "label": "Kāṇḍa 1 §295",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.296",
+      "label": "Kāṇḍa 1 §296",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.297",
+      "label": "Kāṇḍa 1 §297",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.298",
+      "label": "Kāṇḍa 1 §298",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.299",
+      "label": "Kāṇḍa 1 §299",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.300",
+      "label": "Kāṇḍa 1 §300",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.301",
+      "label": "Kāṇḍa 1 §301",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.302",
+      "label": "Kāṇḍa 1 §302",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.303",
+      "label": "Kāṇḍa 1 §303",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.304",
+      "label": "Kāṇḍa 1 §304",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.305",
+      "label": "Kāṇḍa 1 §305",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.306",
+      "label": "Kāṇḍa 1 §306",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.307",
+      "label": "Kāṇḍa 1 §307",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.308",
+      "label": "Kāṇḍa 1 §308",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.308#2",
+      "label": "Kāṇḍa 1 §308",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.309",
+      "label": "Kāṇḍa 1 §309",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.310",
+      "label": "Kāṇḍa 1 §310",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.311",
+      "label": "Kāṇḍa 1 §311",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.312",
+      "label": "Kāṇḍa 1 §312",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.313",
+      "label": "Kāṇḍa 1 §313",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.314",
+      "label": "Kāṇḍa 1 §314",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.315",
+      "label": "Kāṇḍa 1 §315",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.316",
+      "label": "Kāṇḍa 1 §316",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.317",
+      "label": "Kāṇḍa 1 §317",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.318",
+      "label": "Kāṇḍa 1 §318",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.319",
+      "label": "Kāṇḍa 1 §319",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.320",
+      "label": "Kāṇḍa 1 §320",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.321",
+      "label": "Kāṇḍa 1 §321",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.322",
+      "label": "Kāṇḍa 1 §322",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.323",
+      "label": "Kāṇḍa 1 §323",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.324",
+      "label": "Kāṇḍa 1 §324",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.325",
+      "label": "Kāṇḍa 1 §325",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.326",
+      "label": "Kāṇḍa 1 §326",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.327",
+      "label": "Kāṇḍa 1 §327",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.328",
+      "label": "Kāṇḍa 1 §328",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.329",
+      "label": "Kāṇḍa 1 §329",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.330",
+      "label": "Kāṇḍa 1 §330",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.331",
+      "label": "Kāṇḍa 1 §331",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.332",
+      "label": "Kāṇḍa 1 §332",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.333",
+      "label": "Kāṇḍa 1 §333",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.334",
+      "label": "Kāṇḍa 1 §334",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.335",
+      "label": "Kāṇḍa 1 §335",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.336",
+      "label": "Kāṇḍa 1 §336",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.337",
+      "label": "Kāṇḍa 1 §337",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.338",
+      "label": "Kāṇḍa 1 §338",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.339",
+      "label": "Kāṇḍa 1 §339",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.340",
+      "label": "Kāṇḍa 1 §340",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.341",
+      "label": "Kāṇḍa 1 §341",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.342",
+      "label": "Kāṇḍa 1 §342",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.343",
+      "label": "Kāṇḍa 1 §343",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.344",
+      "label": "Kāṇḍa 1 §344",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.345",
+      "label": "Kāṇḍa 1 §345",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.346",
+      "label": "Kāṇḍa 1 §346",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.347",
+      "label": "Kāṇḍa 1 §347",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.348",
+      "label": "Kāṇḍa 1 §348",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.349",
+      "label": "Kāṇḍa 1 §349",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.350",
+      "label": "Kāṇḍa 1 §350",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.351",
+      "label": "Kāṇḍa 1 §351",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.352",
+      "label": "Kāṇḍa 1 §352",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.353",
+      "label": "Kāṇḍa 1 §353",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.354",
+      "label": "Kāṇḍa 1 §354",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.355",
+      "label": "Kāṇḍa 1 §355",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.356",
+      "label": "Kāṇḍa 1 §356",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.357",
+      "label": "Kāṇḍa 1 §357",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.358",
+      "label": "Kāṇḍa 1 §358",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.359",
+      "label": "Kāṇḍa 1 §359",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.360",
+      "label": "Kāṇḍa 1 §360",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.361",
+      "label": "Kāṇḍa 1 §361",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.362",
+      "label": "Kāṇḍa 1 §362",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.363",
+      "label": "Kāṇḍa 1 §363",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.364",
+      "label": "Kāṇḍa 1 §364",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.365",
+      "label": "Kāṇḍa 1 §365",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.366",
+      "label": "Kāṇḍa 1 §366",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.367",
+      "label": "Kāṇḍa 1 §367",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.368",
+      "label": "Kāṇḍa 1 §368",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "2.1",
+      "label": "Kāṇḍa 2 §1",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.2",
+      "label": "Kāṇḍa 2 §2",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.3",
+      "label": "Kāṇḍa 2 §3",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.4",
+      "label": "Kāṇḍa 2 §4",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.5",
+      "label": "Kāṇḍa 2 §5",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.6",
+      "label": "Kāṇḍa 2 §6",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.7",
+      "label": "Kāṇḍa 2 §7",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.8",
+      "label": "Kāṇḍa 2 §8",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.9",
+      "label": "Kāṇḍa 2 §9",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.10",
+      "label": "Kāṇḍa 2 §10",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.11",
+      "label": "Kāṇḍa 2 §11",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.12",
+      "label": "Kāṇḍa 2 §12",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.13",
+      "label": "Kāṇḍa 2 §13",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.14",
+      "label": "Kāṇḍa 2 §14",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.15",
+      "label": "Kāṇḍa 2 §15",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.16",
+      "label": "Kāṇḍa 2 §16",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.17",
+      "label": "Kāṇḍa 2 §17",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.18",
+      "label": "Kāṇḍa 2 §18",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.19",
+      "label": "Kāṇḍa 2 §19",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.20",
+      "label": "Kāṇḍa 2 §20",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.21",
+      "label": "Kāṇḍa 2 §21",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.22",
+      "label": "Kāṇḍa 2 §22",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.23",
+      "label": "Kāṇḍa 2 §23",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.24",
+      "label": "Kāṇḍa 2 §24",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.25",
+      "label": "Kāṇḍa 2 §25",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.26",
+      "label": "Kāṇḍa 2 §26",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.27",
+      "label": "Kāṇḍa 2 §27",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.28",
+      "label": "Kāṇḍa 2 §28",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.29",
+      "label": "Kāṇḍa 2 §29",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.30",
+      "label": "Kāṇḍa 2 §30",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.31",
+      "label": "Kāṇḍa 2 §31",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.32",
+      "label": "Kāṇḍa 2 §32",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.33",
+      "label": "Kāṇḍa 2 §33",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.34",
+      "label": "Kāṇḍa 2 §34",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.35",
+      "label": "Kāṇḍa 2 §35",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.36",
+      "label": "Kāṇḍa 2 §36",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.37",
+      "label": "Kāṇḍa 2 §37",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.38",
+      "label": "Kāṇḍa 2 §38",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.39",
+      "label": "Kāṇḍa 2 §39",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.40",
+      "label": "Kāṇḍa 2 §40",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.41",
+      "label": "Kāṇḍa 2 §41",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.42",
+      "label": "Kāṇḍa 2 §42",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.43",
+      "label": "Kāṇḍa 2 §43",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.44",
+      "label": "Kāṇḍa 2 §44",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.45",
+      "label": "Kāṇḍa 2 §45",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.46",
+      "label": "Kāṇḍa 2 §46",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.47",
+      "label": "Kāṇḍa 2 §47",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.48",
+      "label": "Kāṇḍa 2 §48",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.49",
+      "label": "Kāṇḍa 2 §49",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.50",
+      "label": "Kāṇḍa 2 §50",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.51",
+      "label": "Kāṇḍa 2 §51",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.52",
+      "label": "Kāṇḍa 2 §52",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.53",
+      "label": "Kāṇḍa 2 §53",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.54",
+      "label": "Kāṇḍa 2 §54",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.55",
+      "label": "Kāṇḍa 2 §55",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.56",
+      "label": "Kāṇḍa 2 §56",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.57",
+      "label": "Kāṇḍa 2 §57",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.58",
+      "label": "Kāṇḍa 2 §58",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.59",
+      "label": "Kāṇḍa 2 §59",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.60",
+      "label": "Kāṇḍa 2 §60",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.61",
+      "label": "Kāṇḍa 2 §61",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.62",
+      "label": "Kāṇḍa 2 §62",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.63",
+      "label": "Kāṇḍa 2 §63",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.64",
+      "label": "Kāṇḍa 2 §64",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.65",
+      "label": "Kāṇḍa 2 §65",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.66",
+      "label": "Kāṇḍa 2 §66",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.67",
+      "label": "Kāṇḍa 2 §67",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.68",
+      "label": "Kāṇḍa 2 §68",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.69",
+      "label": "Kāṇḍa 2 §69",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.70",
+      "label": "Kāṇḍa 2 §70",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.71",
+      "label": "Kāṇḍa 2 §71",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.72",
+      "label": "Kāṇḍa 2 §72",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.73",
+      "label": "Kāṇḍa 2 §73",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.74",
+      "label": "Kāṇḍa 2 §74",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.75",
+      "label": "Kāṇḍa 2 §75",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.76",
+      "label": "Kāṇḍa 2 §76",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.77",
+      "label": "Kāṇḍa 2 §77",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.78",
+      "label": "Kāṇḍa 2 §78",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.79",
+      "label": "Kāṇḍa 2 §79",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.80",
+      "label": "Kāṇḍa 2 §80",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.81",
+      "label": "Kāṇḍa 2 §81",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.82",
+      "label": "Kāṇḍa 2 §82",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.83",
+      "label": "Kāṇḍa 2 §83",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.84",
+      "label": "Kāṇḍa 2 §84",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.85",
+      "label": "Kāṇḍa 2 §85",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.86",
+      "label": "Kāṇḍa 2 §86",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.87",
+      "label": "Kāṇḍa 2 §87",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.88",
+      "label": "Kāṇḍa 2 §88",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.89",
+      "label": "Kāṇḍa 2 §89",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.90",
+      "label": "Kāṇḍa 2 §90",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.91",
+      "label": "Kāṇḍa 2 §91",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.92",
+      "label": "Kāṇḍa 2 §92",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.93",
+      "label": "Kāṇḍa 2 §93",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.94",
+      "label": "Kāṇḍa 2 §94",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.95",
+      "label": "Kāṇḍa 2 §95",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.96",
+      "label": "Kāṇḍa 2 §96",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.97",
+      "label": "Kāṇḍa 2 §97",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.98",
+      "label": "Kāṇḍa 2 §98",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.99",
+      "label": "Kāṇḍa 2 §99",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.100",
+      "label": "Kāṇḍa 2 §100",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.101",
+      "label": "Kāṇḍa 2 §101",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.102",
+      "label": "Kāṇḍa 2 §102",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.103",
+      "label": "Kāṇḍa 2 §103",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.104",
+      "label": "Kāṇḍa 2 §104",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.105",
+      "label": "Kāṇḍa 2 §105",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.106",
+      "label": "Kāṇḍa 2 §106",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.107",
+      "label": "Kāṇḍa 2 §107",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.108",
+      "label": "Kāṇḍa 2 §108",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.109",
+      "label": "Kāṇḍa 2 §109",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.110",
+      "label": "Kāṇḍa 2 §110",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.111",
+      "label": "Kāṇḍa 2 §111",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.112",
+      "label": "Kāṇḍa 2 §112",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.113",
+      "label": "Kāṇḍa 2 §113",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.114",
+      "label": "Kāṇḍa 2 §114",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.115",
+      "label": "Kāṇḍa 2 §115",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.116",
+      "label": "Kāṇḍa 2 §116",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.117",
+      "label": "Kāṇḍa 2 §117",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.118",
+      "label": "Kāṇḍa 2 §118",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.119",
+      "label": "Kāṇḍa 2 §119",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.120",
+      "label": "Kāṇḍa 2 §120",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.121",
+      "label": "Kāṇḍa 2 §121",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.122",
+      "label": "Kāṇḍa 2 §122",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.123",
+      "label": "Kāṇḍa 2 §123",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.124",
+      "label": "Kāṇḍa 2 §124",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.125",
+      "label": "Kāṇḍa 2 §125",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.126",
+      "label": "Kāṇḍa 2 §126",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.127",
+      "label": "Kāṇḍa 2 §127",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.128",
+      "label": "Kāṇḍa 2 §128",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.129",
+      "label": "Kāṇḍa 2 §129",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.130",
+      "label": "Kāṇḍa 2 §130",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.131",
+      "label": "Kāṇḍa 2 §131",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.132",
+      "label": "Kāṇḍa 2 §132",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.133",
+      "label": "Kāṇḍa 2 §133",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.134",
+      "label": "Kāṇḍa 2 §134",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.135",
+      "label": "Kāṇḍa 2 §135",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.136",
+      "label": "Kāṇḍa 2 §136",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.137",
+      "label": "Kāṇḍa 2 §137",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.138",
+      "label": "Kāṇḍa 2 §138",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.139",
+      "label": "Kāṇḍa 2 §139",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.140",
+      "label": "Kāṇḍa 2 §140",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.141",
+      "label": "Kāṇḍa 2 §141",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.142",
+      "label": "Kāṇḍa 2 §142",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.143",
+      "label": "Kāṇḍa 2 §143",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.144",
+      "label": "Kāṇḍa 2 §144",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.145",
+      "label": "Kāṇḍa 2 §145",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.146",
+      "label": "Kāṇḍa 2 §146",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.147",
+      "label": "Kāṇḍa 2 §147",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.148",
+      "label": "Kāṇḍa 2 §148",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.149",
+      "label": "Kāṇḍa 2 §149",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.150",
+      "label": "Kāṇḍa 2 §150",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.151",
+      "label": "Kāṇḍa 2 §151",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.152",
+      "label": "Kāṇḍa 2 §152",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.153",
+      "label": "Kāṇḍa 2 §153",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.154",
+      "label": "Kāṇḍa 2 §154",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.155",
+      "label": "Kāṇḍa 2 §155",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.156",
+      "label": "Kāṇḍa 2 §156",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.157",
+      "label": "Kāṇḍa 2 §157",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.158",
+      "label": "Kāṇḍa 2 §158",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.159",
+      "label": "Kāṇḍa 2 §159",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.160",
+      "label": "Kāṇḍa 2 §160",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.161",
+      "label": "Kāṇḍa 2 §161",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.162",
+      "label": "Kāṇḍa 2 §162",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.163",
+      "label": "Kāṇḍa 2 §163",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.164",
+      "label": "Kāṇḍa 2 §164",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.165",
+      "label": "Kāṇḍa 2 §165",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.166",
+      "label": "Kāṇḍa 2 §166",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.167",
+      "label": "Kāṇḍa 2 §167",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.168",
+      "label": "Kāṇḍa 2 §168",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.169",
+      "label": "Kāṇḍa 2 §169",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.170",
+      "label": "Kāṇḍa 2 §170",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.171",
+      "label": "Kāṇḍa 2 §171",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.172",
+      "label": "Kāṇḍa 2 §172",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.173",
+      "label": "Kāṇḍa 2 §173",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.174",
+      "label": "Kāṇḍa 2 §174",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.175",
+      "label": "Kāṇḍa 2 §175",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.176",
+      "label": "Kāṇḍa 2 §176",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.177",
+      "label": "Kāṇḍa 2 §177",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.178",
+      "label": "Kāṇḍa 2 §178",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.179",
+      "label": "Kāṇḍa 2 §179",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.180",
+      "label": "Kāṇḍa 2 §180",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.181",
+      "label": "Kāṇḍa 2 §181",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.182",
+      "label": "Kāṇḍa 2 §182",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.183",
+      "label": "Kāṇḍa 2 §183",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.184",
+      "label": "Kāṇḍa 2 §184",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.185",
+      "label": "Kāṇḍa 2 §185",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.186",
+      "label": "Kāṇḍa 2 §186",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.187",
+      "label": "Kāṇḍa 2 §187",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.188",
+      "label": "Kāṇḍa 2 §188",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.189",
+      "label": "Kāṇḍa 2 §189",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.190",
+      "label": "Kāṇḍa 2 §190",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.191",
+      "label": "Kāṇḍa 2 §191",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.192",
+      "label": "Kāṇḍa 2 §192",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.193",
+      "label": "Kāṇḍa 2 §193",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.194",
+      "label": "Kāṇḍa 2 §194",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.195",
+      "label": "Kāṇḍa 2 §195",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.196",
+      "label": "Kāṇḍa 2 §196",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.197",
+      "label": "Kāṇḍa 2 §197",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.198",
+      "label": "Kāṇḍa 2 §198",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.199",
+      "label": "Kāṇḍa 2 §199",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.200",
+      "label": "Kāṇḍa 2 §200",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.201",
+      "label": "Kāṇḍa 2 §201",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.202",
+      "label": "Kāṇḍa 2 §202",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.203",
+      "label": "Kāṇḍa 2 §203",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.204",
+      "label": "Kāṇḍa 2 §204",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.205",
+      "label": "Kāṇḍa 2 §205",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.206",
+      "label": "Kāṇḍa 2 §206",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.207",
+      "label": "Kāṇḍa 2 §207",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.208",
+      "label": "Kāṇḍa 2 §208",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.209",
+      "label": "Kāṇḍa 2 §209",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.210",
+      "label": "Kāṇḍa 2 §210",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.211",
+      "label": "Kāṇḍa 2 §211",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.212",
+      "label": "Kāṇḍa 2 §212",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.213",
+      "label": "Kāṇḍa 2 §213",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.214",
+      "label": "Kāṇḍa 2 §214",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.215",
+      "label": "Kāṇḍa 2 §215",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.216",
+      "label": "Kāṇḍa 2 §216",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.217",
+      "label": "Kāṇḍa 2 §217",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.218",
+      "label": "Kāṇḍa 2 §218",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.219",
+      "label": "Kāṇḍa 2 §219",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.220",
+      "label": "Kāṇḍa 2 §220",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.221",
+      "label": "Kāṇḍa 2 §221",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.222",
+      "label": "Kāṇḍa 2 §222",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.223",
+      "label": "Kāṇḍa 2 §223",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.224",
+      "label": "Kāṇḍa 2 §224",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.225",
+      "label": "Kāṇḍa 2 §225",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.226",
+      "label": "Kāṇḍa 2 §226",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.227",
+      "label": "Kāṇḍa 2 §227",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.228",
+      "label": "Kāṇḍa 2 §228",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.229",
+      "label": "Kāṇḍa 2 §229",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.230",
+      "label": "Kāṇḍa 2 §230",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.231",
+      "label": "Kāṇḍa 2 §231",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.232",
+      "label": "Kāṇḍa 2 §232",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.233",
+      "label": "Kāṇḍa 2 §233",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.234",
+      "label": "Kāṇḍa 2 §234",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.235",
+      "label": "Kāṇḍa 2 §235",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.236",
+      "label": "Kāṇḍa 2 §236",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.237",
+      "label": "Kāṇḍa 2 §237",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.238",
+      "label": "Kāṇḍa 2 §238",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.239",
+      "label": "Kāṇḍa 2 §239",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.240",
+      "label": "Kāṇḍa 2 §240",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.241",
+      "label": "Kāṇḍa 2 §241",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.242",
+      "label": "Kāṇḍa 2 §242",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.243",
+      "label": "Kāṇḍa 2 §243",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.244",
+      "label": "Kāṇḍa 2 §244",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.245",
+      "label": "Kāṇḍa 2 §245",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.246",
+      "label": "Kāṇḍa 2 §246",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.247",
+      "label": "Kāṇḍa 2 §247",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.248",
+      "label": "Kāṇḍa 2 §248",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.249",
+      "label": "Kāṇḍa 2 §249",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.250",
+      "label": "Kāṇḍa 2 §250",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.251",
+      "label": "Kāṇḍa 2 §251",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.252",
+      "label": "Kāṇḍa 2 §252",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.253",
+      "label": "Kāṇḍa 2 §253",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.254",
+      "label": "Kāṇḍa 2 §254",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.255",
+      "label": "Kāṇḍa 2 §255",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.256",
+      "label": "Kāṇḍa 2 §256",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.257",
+      "label": "Kāṇḍa 2 §257",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.258",
+      "label": "Kāṇḍa 2 §258",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.259",
+      "label": "Kāṇḍa 2 §259",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.260",
+      "label": "Kāṇḍa 2 §260",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.261",
+      "label": "Kāṇḍa 2 §261",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.262",
+      "label": "Kāṇḍa 2 §262",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.263",
+      "label": "Kāṇḍa 2 §263",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.264",
+      "label": "Kāṇḍa 2 §264",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.265",
+      "label": "Kāṇḍa 2 §265",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.266",
+      "label": "Kāṇḍa 2 §266",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.267",
+      "label": "Kāṇḍa 2 §267",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.268",
+      "label": "Kāṇḍa 2 §268",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.269",
+      "label": "Kāṇḍa 2 §269",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.270",
+      "label": "Kāṇḍa 2 §270",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.271",
+      "label": "Kāṇḍa 2 §271",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.272",
+      "label": "Kāṇḍa 2 §272",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.273",
+      "label": "Kāṇḍa 2 §273",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.274",
+      "label": "Kāṇḍa 2 §274",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.275",
+      "label": "Kāṇḍa 2 §275",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.276",
+      "label": "Kāṇḍa 2 §276",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.277",
+      "label": "Kāṇḍa 2 §277",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.278",
+      "label": "Kāṇḍa 2 §278",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.279",
+      "label": "Kāṇḍa 2 §279",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.280",
+      "label": "Kāṇḍa 2 §280",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.281",
+      "label": "Kāṇḍa 2 §281",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.282",
+      "label": "Kāṇḍa 2 §282",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.283",
+      "label": "Kāṇḍa 2 §283",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.284",
+      "label": "Kāṇḍa 2 §284",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.285",
+      "label": "Kāṇḍa 2 §285",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.286",
+      "label": "Kāṇḍa 2 §286",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.287",
+      "label": "Kāṇḍa 2 §287",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.288",
+      "label": "Kāṇḍa 2 §288",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.289",
+      "label": "Kāṇḍa 2 §289",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.290",
+      "label": "Kāṇḍa 2 §290",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.291",
+      "label": "Kāṇḍa 2 §291",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.292",
+      "label": "Kāṇḍa 2 §292",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.293",
+      "label": "Kāṇḍa 2 §293",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.294",
+      "label": "Kāṇḍa 2 §294",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.295",
+      "label": "Kāṇḍa 2 §295",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.296",
+      "label": "Kāṇḍa 2 §296",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.297",
+      "label": "Kāṇḍa 2 §297",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.298",
+      "label": "Kāṇḍa 2 §298",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.299",
+      "label": "Kāṇḍa 2 §299",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.300",
+      "label": "Kāṇḍa 2 §300",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.301",
+      "label": "Kāṇḍa 2 §301",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.302",
+      "label": "Kāṇḍa 2 §302",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.303",
+      "label": "Kāṇḍa 2 §303",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.304",
+      "label": "Kāṇḍa 2 §304",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.305",
+      "label": "Kāṇḍa 2 §305",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.306",
+      "label": "Kāṇḍa 2 §306",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.307",
+      "label": "Kāṇḍa 2 §307",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "3.1",
+      "label": "Kāṇḍa 3 §1",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.2",
+      "label": "Kāṇḍa 3 §2",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.3",
+      "label": "Kāṇḍa 3 §3",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.4",
+      "label": "Kāṇḍa 3 §4",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.5",
+      "label": "Kāṇḍa 3 §5",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.6",
+      "label": "Kāṇḍa 3 §6",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.7",
+      "label": "Kāṇḍa 3 §7",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.8",
+      "label": "Kāṇḍa 3 §8",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.9",
+      "label": "Kāṇḍa 3 §9",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.10",
+      "label": "Kāṇḍa 3 §10",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.11",
+      "label": "Kāṇḍa 3 §11",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.12",
+      "label": "Kāṇḍa 3 §12",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.13",
+      "label": "Kāṇḍa 3 §13",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.14",
+      "label": "Kāṇḍa 3 §14",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.15",
+      "label": "Kāṇḍa 3 §15",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.16",
+      "label": "Kāṇḍa 3 §16",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.17",
+      "label": "Kāṇḍa 3 §17",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.18",
+      "label": "Kāṇḍa 3 §18",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.19",
+      "label": "Kāṇḍa 3 §19",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.20",
+      "label": "Kāṇḍa 3 §20",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.21",
+      "label": "Kāṇḍa 3 §21",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.22",
+      "label": "Kāṇḍa 3 §22",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.23",
+      "label": "Kāṇḍa 3 §23",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.24",
+      "label": "Kāṇḍa 3 §24",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.25",
+      "label": "Kāṇḍa 3 §25",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.26",
+      "label": "Kāṇḍa 3 §26",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.27",
+      "label": "Kāṇḍa 3 §27",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.28",
+      "label": "Kāṇḍa 3 §28",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.29",
+      "label": "Kāṇḍa 3 §29",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.30",
+      "label": "Kāṇḍa 3 §30",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.31",
+      "label": "Kāṇḍa 3 §31",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.32",
+      "label": "Kāṇḍa 3 §32",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.33",
+      "label": "Kāṇḍa 3 §33",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.34",
+      "label": "Kāṇḍa 3 §34",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.35",
+      "label": "Kāṇḍa 3 §35",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.36",
+      "label": "Kāṇḍa 3 §36",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.37",
+      "label": "Kāṇḍa 3 §37",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.38",
+      "label": "Kāṇḍa 3 §38",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.39",
+      "label": "Kāṇḍa 3 §39",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.40",
+      "label": "Kāṇḍa 3 §40",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.41",
+      "label": "Kāṇḍa 3 §41",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.42",
+      "label": "Kāṇḍa 3 §42",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.43",
+      "label": "Kāṇḍa 3 §43",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.44",
+      "label": "Kāṇḍa 3 §44",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.45",
+      "label": "Kāṇḍa 3 §45",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.46",
+      "label": "Kāṇḍa 3 §46",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.47",
+      "label": "Kāṇḍa 3 §47",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.48",
+      "label": "Kāṇḍa 3 §48",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.49",
+      "label": "Kāṇḍa 3 §49",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.50",
+      "label": "Kāṇḍa 3 §50",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.51",
+      "label": "Kāṇḍa 3 §51",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.52",
+      "label": "Kāṇḍa 3 §52",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.53",
+      "label": "Kāṇḍa 3 §53",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.54",
+      "label": "Kāṇḍa 3 §54",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.55",
+      "label": "Kāṇḍa 3 §55",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.56",
+      "label": "Kāṇḍa 3 §56",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.57",
+      "label": "Kāṇḍa 3 §57",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.58",
+      "label": "Kāṇḍa 3 §58",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.59",
+      "label": "Kāṇḍa 3 §59",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.60",
+      "label": "Kāṇḍa 3 §60",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.61",
+      "label": "Kāṇḍa 3 §61",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.62",
+      "label": "Kāṇḍa 3 §62",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.63",
+      "label": "Kāṇḍa 3 §63",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.64",
+      "label": "Kāṇḍa 3 §64",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.65",
+      "label": "Kāṇḍa 3 §65",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.66",
+      "label": "Kāṇḍa 3 §66",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.67",
+      "label": "Kāṇḍa 3 §67",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.68",
+      "label": "Kāṇḍa 3 §68",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.69",
+      "label": "Kāṇḍa 3 §69",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.70",
+      "label": "Kāṇḍa 3 §70",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.71",
+      "label": "Kāṇḍa 3 §71",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.72",
+      "label": "Kāṇḍa 3 §72",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.73",
+      "label": "Kāṇḍa 3 §73",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.74",
+      "label": "Kāṇḍa 3 §74",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.75",
+      "label": "Kāṇḍa 3 §75",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.76",
+      "label": "Kāṇḍa 3 §76",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.77",
+      "label": "Kāṇḍa 3 §77",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.78",
+      "label": "Kāṇḍa 3 §78",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.79",
+      "label": "Kāṇḍa 3 §79",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.80",
+      "label": "Kāṇḍa 3 §80",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.81",
+      "label": "Kāṇḍa 3 §81",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.82",
+      "label": "Kāṇḍa 3 §82",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.83",
+      "label": "Kāṇḍa 3 §83",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.84",
+      "label": "Kāṇḍa 3 §84",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.85",
+      "label": "Kāṇḍa 3 §85",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.86",
+      "label": "Kāṇḍa 3 §86",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.87",
+      "label": "Kāṇḍa 3 §87",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.88",
+      "label": "Kāṇḍa 3 §88",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.89",
+      "label": "Kāṇḍa 3 §89",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.90",
+      "label": "Kāṇḍa 3 §90",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.91",
+      "label": "Kāṇḍa 3 §91",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.92",
+      "label": "Kāṇḍa 3 §92",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.93",
+      "label": "Kāṇḍa 3 §93",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.94",
+      "label": "Kāṇḍa 3 §94",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.95",
+      "label": "Kāṇḍa 3 §95",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.96",
+      "label": "Kāṇḍa 3 §96",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.97",
+      "label": "Kāṇḍa 3 §97",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.98",
+      "label": "Kāṇḍa 3 §98",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.99",
+      "label": "Kāṇḍa 3 §99",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.100",
+      "label": "Kāṇḍa 3 §100",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.101",
+      "label": "Kāṇḍa 3 §101",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.102",
+      "label": "Kāṇḍa 3 §102",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.103",
+      "label": "Kāṇḍa 3 §103",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.104",
+      "label": "Kāṇḍa 3 §104",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.105",
+      "label": "Kāṇḍa 3 §105",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.106",
+      "label": "Kāṇḍa 3 §106",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.107",
+      "label": "Kāṇḍa 3 §107",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.108",
+      "label": "Kāṇḍa 3 §108",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.109",
+      "label": "Kāṇḍa 3 §109",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.110",
+      "label": "Kāṇḍa 3 §110",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.111",
+      "label": "Kāṇḍa 3 §111",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.112",
+      "label": "Kāṇḍa 3 §112",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.113",
+      "label": "Kāṇḍa 3 §113",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.114",
+      "label": "Kāṇḍa 3 §114",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.115",
+      "label": "Kāṇḍa 3 §115",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.116",
+      "label": "Kāṇḍa 3 §116",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.117",
+      "label": "Kāṇḍa 3 §117",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.118",
+      "label": "Kāṇḍa 3 §118",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.119",
+      "label": "Kāṇḍa 3 §119",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.120",
+      "label": "Kāṇḍa 3 §120",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.121",
+      "label": "Kāṇḍa 3 §121",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.122",
+      "label": "Kāṇḍa 3 §122",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.123",
+      "label": "Kāṇḍa 3 §123",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.124",
+      "label": "Kāṇḍa 3 §124",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.125",
+      "label": "Kāṇḍa 3 §125",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.126",
+      "label": "Kāṇḍa 3 §126",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.127",
+      "label": "Kāṇḍa 3 §127",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.128",
+      "label": "Kāṇḍa 3 §128",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.129",
+      "label": "Kāṇḍa 3 §129",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.130",
+      "label": "Kāṇḍa 3 §130",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.131",
+      "label": "Kāṇḍa 3 §131",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.132",
+      "label": "Kāṇḍa 3 §132",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.133",
+      "label": "Kāṇḍa 3 §133",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.134",
+      "label": "Kāṇḍa 3 §134",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.135",
+      "label": "Kāṇḍa 3 §135",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.136",
+      "label": "Kāṇḍa 3 §136",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.137",
+      "label": "Kāṇḍa 3 §137",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.138",
+      "label": "Kāṇḍa 3 §138",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.139",
+      "label": "Kāṇḍa 3 §139",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.140",
+      "label": "Kāṇḍa 3 §140",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.141",
+      "label": "Kāṇḍa 3 §141",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.142",
+      "label": "Kāṇḍa 3 §142",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.143",
+      "label": "Kāṇḍa 3 §143",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.144",
+      "label": "Kāṇḍa 3 §144",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.145",
+      "label": "Kāṇḍa 3 §145",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.146",
+      "label": "Kāṇḍa 3 §146",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.147",
+      "label": "Kāṇḍa 3 §147",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.148",
+      "label": "Kāṇḍa 3 §148",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.149",
+      "label": "Kāṇḍa 3 §149",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.150",
+      "label": "Kāṇḍa 3 §150",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.151",
+      "label": "Kāṇḍa 3 §151",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.152",
+      "label": "Kāṇḍa 3 §152",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.153",
+      "label": "Kāṇḍa 3 §153",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.154",
+      "label": "Kāṇḍa 3 §154",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.155",
+      "label": "Kāṇḍa 3 §155",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.156",
+      "label": "Kāṇḍa 3 §156",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.157",
+      "label": "Kāṇḍa 3 §157",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.158",
+      "label": "Kāṇḍa 3 §158",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.159",
+      "label": "Kāṇḍa 3 §159",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.160",
+      "label": "Kāṇḍa 3 §160",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.161",
+      "label": "Kāṇḍa 3 §161",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.162",
+      "label": "Kāṇḍa 3 §162",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.163",
+      "label": "Kāṇḍa 3 §163",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.164",
+      "label": "Kāṇḍa 3 §164",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.165",
+      "label": "Kāṇḍa 3 §165",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.166",
+      "label": "Kāṇḍa 3 §166",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.167",
+      "label": "Kāṇḍa 3 §167",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.168",
+      "label": "Kāṇḍa 3 §168",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.169",
+      "label": "Kāṇḍa 3 §169",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.170",
+      "label": "Kāṇḍa 3 §170",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.171",
+      "label": "Kāṇḍa 3 §171",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.172",
+      "label": "Kāṇḍa 3 §172",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.173",
+      "label": "Kāṇḍa 3 §173",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.174",
+      "label": "Kāṇḍa 3 §174",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.175",
+      "label": "Kāṇḍa 3 §175",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.176",
+      "label": "Kāṇḍa 3 §176",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.177",
+      "label": "Kāṇḍa 3 §177",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.178",
+      "label": "Kāṇḍa 3 §178",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.179",
+      "label": "Kāṇḍa 3 §179",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.180",
+      "label": "Kāṇḍa 3 §180",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.181",
+      "label": "Kāṇḍa 3 §181",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.182",
+      "label": "Kāṇḍa 3 §182",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.183",
+      "label": "Kāṇḍa 3 §183",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.184",
+      "label": "Kāṇḍa 3 §184",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.185",
+      "label": "Kāṇḍa 3 §185",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.186",
+      "label": "Kāṇḍa 3 §186",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.187",
+      "label": "Kāṇḍa 3 §187",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.188",
+      "label": "Kāṇḍa 3 §188",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.189",
+      "label": "Kāṇḍa 3 §189",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.190",
+      "label": "Kāṇḍa 3 §190",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.191",
+      "label": "Kāṇḍa 3 §191",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.192",
+      "label": "Kāṇḍa 3 §192",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.193",
+      "label": "Kāṇḍa 3 §193",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.194",
+      "label": "Kāṇḍa 3 §194",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.195",
+      "label": "Kāṇḍa 3 §195",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.196",
+      "label": "Kāṇḍa 3 §196",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.197",
+      "label": "Kāṇḍa 3 §197",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.198",
+      "label": "Kāṇḍa 3 §198",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.199",
+      "label": "Kāṇḍa 3 §199",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.200",
+      "label": "Kāṇḍa 3 §200",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.201",
+      "label": "Kāṇḍa 3 §201",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.202",
+      "label": "Kāṇḍa 3 §202",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.203",
+      "label": "Kāṇḍa 3 §203",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.204",
+      "label": "Kāṇḍa 3 §204",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.205",
+      "label": "Kāṇḍa 3 §205",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.206",
+      "label": "Kāṇḍa 3 §206",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.207",
+      "label": "Kāṇḍa 3 §207",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.208",
+      "label": "Kāṇḍa 3 §208",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.209",
+      "label": "Kāṇḍa 3 §209",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.210",
+      "label": "Kāṇḍa 3 §210",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.211",
+      "label": "Kāṇḍa 3 §211",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.212",
+      "label": "Kāṇḍa 3 §212",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.213",
+      "label": "Kāṇḍa 3 §213",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.214",
+      "label": "Kāṇḍa 3 §214",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.215",
+      "label": "Kāṇḍa 3 §215",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.216",
+      "label": "Kāṇḍa 3 §216",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.217",
+      "label": "Kāṇḍa 3 §217",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.218",
+      "label": "Kāṇḍa 3 §218",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.219",
+      "label": "Kāṇḍa 3 §219",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.220",
+      "label": "Kāṇḍa 3 §220",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.221",
+      "label": "Kāṇḍa 3 §221",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.222",
+      "label": "Kāṇḍa 3 §222",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.223",
+      "label": "Kāṇḍa 3 §223",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.224",
+      "label": "Kāṇḍa 3 §224",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.225",
+      "label": "Kāṇḍa 3 §225",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.226",
+      "label": "Kāṇḍa 3 §226",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.227",
+      "label": "Kāṇḍa 3 §227",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.228",
+      "label": "Kāṇḍa 3 §228",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.229",
+      "label": "Kāṇḍa 3 §229",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.230",
+      "label": "Kāṇḍa 3 §230",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.231",
+      "label": "Kāṇḍa 3 §231",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.232",
+      "label": "Kāṇḍa 3 §232",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.233",
+      "label": "Kāṇḍa 3 §233",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.234",
+      "label": "Kāṇḍa 3 §234",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.235",
+      "label": "Kāṇḍa 3 §235",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.236",
+      "label": "Kāṇḍa 3 §236",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.237",
+      "label": "Kāṇḍa 3 §237",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.238",
+      "label": "Kāṇḍa 3 §238",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.239",
+      "label": "Kāṇḍa 3 §239",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.240",
+      "label": "Kāṇḍa 3 §240",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.241",
+      "label": "Kāṇḍa 3 §241",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.242",
+      "label": "Kāṇḍa 3 §242",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.243",
+      "label": "Kāṇḍa 3 §243",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.244",
+      "label": "Kāṇḍa 3 §244",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.245",
+      "label": "Kāṇḍa 3 §245",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.246",
+      "label": "Kāṇḍa 3 §246",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.247",
+      "label": "Kāṇḍa 3 §247",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.248",
+      "label": "Kāṇḍa 3 §248",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.249",
+      "label": "Kāṇḍa 3 §249",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.250",
+      "label": "Kāṇḍa 3 §250",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.251",
+      "label": "Kāṇḍa 3 §251",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.252",
+      "label": "Kāṇḍa 3 §252",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.253",
+      "label": "Kāṇḍa 3 §253",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.254",
+      "label": "Kāṇḍa 3 §254",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.255",
+      "label": "Kāṇḍa 3 §255",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.256",
+      "label": "Kāṇḍa 3 §256",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.257",
+      "label": "Kāṇḍa 3 §257",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.258",
+      "label": "Kāṇḍa 3 §258",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.259",
+      "label": "Kāṇḍa 3 §259",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.260",
+      "label": "Kāṇḍa 3 §260",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.261",
+      "label": "Kāṇḍa 3 §261",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.262",
+      "label": "Kāṇḍa 3 §262",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.263",
+      "label": "Kāṇḍa 3 §263",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.264",
+      "label": "Kāṇḍa 3 §264",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.265",
+      "label": "Kāṇḍa 3 §265",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.266",
+      "label": "Kāṇḍa 3 §266",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.267",
+      "label": "Kāṇḍa 3 §267",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.268",
+      "label": "Kāṇḍa 3 §268",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.269",
+      "label": "Kāṇḍa 3 §269",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.270",
+      "label": "Kāṇḍa 3 §270",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.271",
+      "label": "Kāṇḍa 3 §271",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.272",
+      "label": "Kāṇḍa 3 §272",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.273",
+      "label": "Kāṇḍa 3 §273",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.274",
+      "label": "Kāṇḍa 3 §274",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.275",
+      "label": "Kāṇḍa 3 §275",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.276",
+      "label": "Kāṇḍa 3 §276",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.277",
+      "label": "Kāṇḍa 3 §277",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.278",
+      "label": "Kāṇḍa 3 §278",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.279",
+      "label": "Kāṇḍa 3 §279",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.280",
+      "label": "Kāṇḍa 3 §280",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.281",
+      "label": "Kāṇḍa 3 §281",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.282",
+      "label": "Kāṇḍa 3 §282",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.283",
+      "label": "Kāṇḍa 3 §283",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.2831",
+      "label": "Kāṇḍa 3 §2831",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.284",
+      "label": "Kāṇḍa 3 §284",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.285",
+      "label": "Kāṇḍa 3 §285",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.286",
+      "label": "Kāṇḍa 3 §286",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.287",
+      "label": "Kāṇḍa 3 §287",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.288",
+      "label": "Kāṇḍa 3 §288",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.289",
+      "label": "Kāṇḍa 3 §289",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.290",
+      "label": "Kāṇḍa 3 §290",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.291",
+      "label": "Kāṇḍa 3 §291",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.292",
+      "label": "Kāṇḍa 3 §292",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.293",
+      "label": "Kāṇḍa 3 §293",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.294",
+      "label": "Kāṇḍa 3 §294",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.295",
+      "label": "Kāṇḍa 3 §295",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.296",
+      "label": "Kāṇḍa 3 §296",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.297",
+      "label": "Kāṇḍa 3 §297",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.298",
+      "label": "Kāṇḍa 3 §298",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.299",
+      "label": "Kāṇḍa 3 §299",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.300",
+      "label": "Kāṇḍa 3 §300",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.301",
+      "label": "Kāṇḍa 3 §301",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.302",
+      "label": "Kāṇḍa 3 §302",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.303",
+      "label": "Kāṇḍa 3 §303",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.304",
+      "label": "Kāṇḍa 3 §304",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.305",
+      "label": "Kāṇḍa 3 §305",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.306",
+      "label": "Kāṇḍa 3 §306",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.307",
+      "label": "Kāṇḍa 3 §307",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.308",
+      "label": "Kāṇḍa 3 §308",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.309",
+      "label": "Kāṇḍa 3 §309",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.310",
+      "label": "Kāṇḍa 3 §310",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.311",
+      "label": "Kāṇḍa 3 §311",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.312",
+      "label": "Kāṇḍa 3 §312",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.313",
+      "label": "Kāṇḍa 3 §313",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.314",
+      "label": "Kāṇḍa 3 §314",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.315",
+      "label": "Kāṇḍa 3 §315",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.316",
+      "label": "Kāṇḍa 3 §316",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.317",
+      "label": "Kāṇḍa 3 §317",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.318",
+      "label": "Kāṇḍa 3 §318",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.319",
+      "label": "Kāṇḍa 3 §319",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.320",
+      "label": "Kāṇḍa 3 §320",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.321",
+      "label": "Kāṇḍa 3 §321",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.322",
+      "label": "Kāṇḍa 3 §322",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.323",
+      "label": "Kāṇḍa 3 §323",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.324",
+      "label": "Kāṇḍa 3 §324",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.325",
+      "label": "Kāṇḍa 3 §325",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.326",
+      "label": "Kāṇḍa 3 §326",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.327",
+      "label": "Kāṇḍa 3 §327",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.328",
+      "label": "Kāṇḍa 3 §328",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.329",
+      "label": "Kāṇḍa 3 §329",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.330",
+      "label": "Kāṇḍa 3 §330",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.331",
+      "label": "Kāṇḍa 3 §331",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.332",
+      "label": "Kāṇḍa 3 §332",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.333",
+      "label": "Kāṇḍa 3 §333",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.334",
+      "label": "Kāṇḍa 3 §334",
+      "chapterRef": "3"
+    }
+  ],
+  "editions": [
+    {
+      "slug": "yajnavalkya-smriti-sa",
+      "language": "sa",
+      "editionType": "original",
+      "title": "Yājñavalkyasmṛti (GRETIL e-text)",
+      "translator": "",
+      "publisher": "GRETIL, Göttingen State and University Library",
+      "publicationYear": 2020,
+      "source": "gretil",
+      "license": "cc-by-nc-sa-4.0",
+      "rightsStatus": "CC BY-NC-SA 4.0 as recorded in the e-text header",
+      "attributionText": "The Yajnavalkya Smriti. GRETIL e-text 2020-01-23, Göttingen Register of Electronic Texts in Indian Languages. Source edition: Narayan Ram Acharya (ed.): Yajnavalkyasmrti of Yogisvara Yajnavalkya. With the commentary Mitaksara of Vijñanesvara, Notes, Variant readings, etc. Bombay 1949. Input by Muneo Tokunaga.",
+      "structureScheme": "reference index; each passage is one verse as GRETIL numbers it",
+      "isSample": false,
+      "notes": "This e-text was provided to GRETIL in good faith that no copyright rights have been infringed. If anyone wishes to assert copyright over this file, please contact the GRETIL management at gretil(at)sub(dot)uni-goettingen(dot)de. The file will be immediately removed pending resolution of the claim. Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. GRETIL describes the reference scheme as: A reference is assembled consisting of a pragmatic abbreviation of the title: Yājñavalkyasmṛti = YajñS, the number of the adhyāya in arabic numerals, the number of the verse in arabic numerals.. The import cache stores the exact segments that were validated. The reader re-fetches the work from GRETIL and reports when the served count no longer matches the index."
+    }
+  ]
+}

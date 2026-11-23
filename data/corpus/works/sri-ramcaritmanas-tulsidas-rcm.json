@@ -1,0 +1,5448 @@
+{
+  "slug": "sri-ramcaritmanas-tulsidas-rcm",
+  "title": "Śrī Rāmcaritmānas (Tulsīdās)",
+  "originalTitle": "श्रीरामचरितमानस",
+  "transliteration": "Śrī Rāmcaritamānasa",
+  "altTitles": [],
+  "tradition": "hinduism",
+  "school": "",
+  "genre": "Scripture",
+  "textType": "awa verse (sloka)",
+  "category": "Devotional Poetry",
+  "subcategory": "",
+  "originalLanguage": "awa",
+  "dateStart": null,
+  "dateEnd": null,
+  "dateDisplay": "",
+  "authorshipStatus": "traditional",
+  "author": "tulsidas",
+  "attributionNote": "Śrī Rāmcaritmānas (Tulsīdās), attributed to Goswāmī Tulsīdās, as Heritage IITKanpur's Scripture Server catalogues it (RCM), on its own shelf.",
+  "description": "The Rāmcaritmānas, \"the lake of the deeds of Rāma\", is Gosvāmī Tulsīdās's retelling of the Rāma story, composed in Awadhi in the sixteenth century in seven kāṇḍas of caupāī and dohā verses meant to be sung. Its subject is Rāma's life and character; its purpose is devotion (bhakti) to Rāma and, through it, a guide to living. It draws on the Vālmīki Rāmāyaṇa but tells the story as an act of love and surrender, moving constantly between narrative and prayer, and belongs to the bhakti poetry of North India that set devotion in the people's own language. It asks of its reader faith and love more than learning, and is recited in homes and in great public recitations. The summary above is the one Heritage IITKanpur's Scripture Server publishes for the text, and the server's own metadata records it as AI-assisted (claude-opus-5-5); an editor's note for the work itself is still to be written.",
+  "historicalContext": "Read in the Heritage Scripture Server corpus, which continues the Gita Supersite built at IIT Kanpur: the text, its classical commentaries and the translations the server may serve are held together there.",
+  "availabilityNote": "The outline is held: 7 chapter(s) and 1074 verse address(es), read from the server's own catalogue. The verses are not stored — the licence forbids bulk harvesting and database reconstruction — and are streamed from the API one verse at a time as the work is read, with the attribution HCAL-1.1 requires and the server's own quota and licence notice.",
+  "featured": false,
+  "featuredNote": "",
+  "refScheme": "chapter.verse",
+  "isSample": false,
+  "textStorage": "streamed",
+  "chapters": [
+    {
+      "ref": "1",
+      "label": "1. Bāla-kāṇḍa"
+    },
+    {
+      "ref": "2",
+      "label": "2. Ayodhyā-kāṇḍa"
+    },
+    {
+      "ref": "3",
+      "label": "3. Araṇya-kāṇḍa"
+    },
+    {
+      "ref": "4",
+      "label": "4. Kiṣkindhā-kāṇḍa"
+    },
+    {
+      "ref": "5",
+      "label": "5. Sundara-kāṇḍa"
+    },
+    {
+      "ref": "6",
+      "label": "6. Laṅkā-kāṇḍa"
+    },
+    {
+      "ref": "7",
+      "label": "7. Uttara-kāṇḍa"
+    }
+  ],
+  "passages": [
+    {
+      "reference": "1.1",
+      "label": "1. Bāla-kāṇḍa · verse 1",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.2",
+      "label": "1. Bāla-kāṇḍa · verse 2",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.3",
+      "label": "1. Bāla-kāṇḍa · verse 3",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.4",
+      "label": "1. Bāla-kāṇḍa · verse 4",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.5",
+      "label": "1. Bāla-kāṇḍa · verse 5",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.6",
+      "label": "1. Bāla-kāṇḍa · verse 6",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.7",
+      "label": "1. Bāla-kāṇḍa · verse 7",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.8",
+      "label": "1. Bāla-kāṇḍa · verse 8",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.9",
+      "label": "1. Bāla-kāṇḍa · verse 9",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.10",
+      "label": "1. Bāla-kāṇḍa · verse 10",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.11",
+      "label": "1. Bāla-kāṇḍa · verse 11",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.12",
+      "label": "1. Bāla-kāṇḍa · verse 12",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.13",
+      "label": "1. Bāla-kāṇḍa · verse 13",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.14",
+      "label": "1. Bāla-kāṇḍa · verse 14",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.15",
+      "label": "1. Bāla-kāṇḍa · verse 15",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.16",
+      "label": "1. Bāla-kāṇḍa · verse 16",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.17",
+      "label": "1. Bāla-kāṇḍa · verse 17",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.18",
+      "label": "1. Bāla-kāṇḍa · verse 18",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.19",
+      "label": "1. Bāla-kāṇḍa · verse 19",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.20",
+      "label": "1. Bāla-kāṇḍa · verse 20",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.21",
+      "label": "1. Bāla-kāṇḍa · verse 21",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.22",
+      "label": "1. Bāla-kāṇḍa · verse 22",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.23",
+      "label": "1. Bāla-kāṇḍa · verse 23",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.24",
+      "label": "1. Bāla-kāṇḍa · verse 24",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.25",
+      "label": "1. Bāla-kāṇḍa · verse 25",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.26",
+      "label": "1. Bāla-kāṇḍa · verse 26",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.27",
+      "label": "1. Bāla-kāṇḍa · verse 27",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.28",
+      "label": "1. Bāla-kāṇḍa · verse 28",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.29",
+      "label": "1. Bāla-kāṇḍa · verse 29",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.30",
+      "label": "1. Bāla-kāṇḍa · verse 30",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.31",
+      "label": "1. Bāla-kāṇḍa · verse 31",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.32",
+      "label": "1. Bāla-kāṇḍa · verse 32",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.33",
+      "label": "1. Bāla-kāṇḍa · verse 33",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.34",
+      "label": "1. Bāla-kāṇḍa · verse 34",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.35",
+      "label": "1. Bāla-kāṇḍa · verse 35",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.36",
+      "label": "1. Bāla-kāṇḍa · verse 36",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.37",
+      "label": "1. Bāla-kāṇḍa · verse 37",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.38",
+      "label": "1. Bāla-kāṇḍa · verse 38",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.39",
+      "label": "1. Bāla-kāṇḍa · verse 39",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.40",
+      "label": "1. Bāla-kāṇḍa · verse 40",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.41",
+      "label": "1. Bāla-kāṇḍa · verse 41",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.42",
+      "label": "1. Bāla-kāṇḍa · verse 42",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.43",
+      "label": "1. Bāla-kāṇḍa · verse 43",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.44",
+      "label": "1. Bāla-kāṇḍa · verse 44",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.45",
+      "label": "1. Bāla-kāṇḍa · verse 45",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.46",
+      "label": "1. Bāla-kāṇḍa · verse 46",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.47",
+      "label": "1. Bāla-kāṇḍa · verse 47",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.48",
+      "label": "1. Bāla-kāṇḍa · verse 48",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.49",
+      "label": "1. Bāla-kāṇḍa · verse 49",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.50",
+      "label": "1. Bāla-kāṇḍa · verse 50",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.51",
+      "label": "1. Bāla-kāṇḍa · verse 51",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.52",
+      "label": "1. Bāla-kāṇḍa · verse 52",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.53",
+      "label": "1. Bāla-kāṇḍa · verse 53",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.54",
+      "label": "1. Bāla-kāṇḍa · verse 54",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.55",
+      "label": "1. Bāla-kāṇḍa · verse 55",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.56",
+      "label": "1. Bāla-kāṇḍa · verse 56",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.57",
+      "label": "1. Bāla-kāṇḍa · verse 57",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.58",
+      "label": "1. Bāla-kāṇḍa · verse 58",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.59",
+      "label": "1. Bāla-kāṇḍa · verse 59",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.60",
+      "label": "1. Bāla-kāṇḍa · verse 60",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.61",
+      "label": "1. Bāla-kāṇḍa · verse 61",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.62",
+      "label": "1. Bāla-kāṇḍa · verse 62",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.63",
+      "label": "1. Bāla-kāṇḍa · verse 63",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.64",
+      "label": "1. Bāla-kāṇḍa · verse 64",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.65",
+      "label": "1. Bāla-kāṇḍa · verse 65",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.66",
+      "label": "1. Bāla-kāṇḍa · verse 66",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.67",
+      "label": "1. Bāla-kāṇḍa · verse 67",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.68",
+      "label": "1. Bāla-kāṇḍa · verse 68",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.69",
+      "label": "1. Bāla-kāṇḍa · verse 69",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.70",
+      "label": "1. Bāla-kāṇḍa · verse 70",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.71",
+      "label": "1. Bāla-kāṇḍa · verse 71",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.72",
+      "label": "1. Bāla-kāṇḍa · verse 72",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.73",
+      "label": "1. Bāla-kāṇḍa · verse 73",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.74",
+      "label": "1. Bāla-kāṇḍa · verse 74",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.75",
+      "label": "1. Bāla-kāṇḍa · verse 75",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.76",
+      "label": "1. Bāla-kāṇḍa · verse 76",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.77",
+      "label": "1. Bāla-kāṇḍa · verse 77",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.78",
+      "label": "1. Bāla-kāṇḍa · verse 78",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.79",
+      "label": "1. Bāla-kāṇḍa · verse 79",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.80",
+      "label": "1. Bāla-kāṇḍa · verse 80",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.81",
+      "label": "1. Bāla-kāṇḍa · verse 81",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.82",
+      "label": "1. Bāla-kāṇḍa · verse 82",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.83",
+      "label": "1. Bāla-kāṇḍa · verse 83",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.84",
+      "label": "1. Bāla-kāṇḍa · verse 84",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.85",
+      "label": "1. Bāla-kāṇḍa · verse 85",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.86",
+      "label": "1. Bāla-kāṇḍa · verse 86",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.87",
+      "label": "1. Bāla-kāṇḍa · verse 87",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.88",
+      "label": "1. Bāla-kāṇḍa · verse 88",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.89",
+      "label": "1. Bāla-kāṇḍa · verse 89",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.90",
+      "label": "1. Bāla-kāṇḍa · verse 90",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.91",
+      "label": "1. Bāla-kāṇḍa · verse 91",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.92",
+      "label": "1. Bāla-kāṇḍa · verse 92",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.93",
+      "label": "1. Bāla-kāṇḍa · verse 93",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.94",
+      "label": "1. Bāla-kāṇḍa · verse 94",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.95",
+      "label": "1. Bāla-kāṇḍa · verse 95",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.96",
+      "label": "1. Bāla-kāṇḍa · verse 96",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.97",
+      "label": "1. Bāla-kāṇḍa · verse 97",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.98",
+      "label": "1. Bāla-kāṇḍa · verse 98",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.99",
+      "label": "1. Bāla-kāṇḍa · verse 99",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.100",
+      "label": "1. Bāla-kāṇḍa · verse 100",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.101",
+      "label": "1. Bāla-kāṇḍa · verse 101",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.102",
+      "label": "1. Bāla-kāṇḍa · verse 102",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.103",
+      "label": "1. Bāla-kāṇḍa · verse 103",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.104",
+      "label": "1. Bāla-kāṇḍa · verse 104",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.105",
+      "label": "1. Bāla-kāṇḍa · verse 105",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.106",
+      "label": "1. Bāla-kāṇḍa · verse 106",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.107",
+      "label": "1. Bāla-kāṇḍa · verse 107",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.108",
+      "label": "1. Bāla-kāṇḍa · verse 108",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.109",
+      "label": "1. Bāla-kāṇḍa · verse 109",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.110",
+      "label": "1. Bāla-kāṇḍa · verse 110",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.111",
+      "label": "1. Bāla-kāṇḍa · verse 111",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.112",
+      "label": "1. Bāla-kāṇḍa · verse 112",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.113",
+      "label": "1. Bāla-kāṇḍa · verse 113",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.114",
+      "label": "1. Bāla-kāṇḍa · verse 114",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.115",
+      "label": "1. Bāla-kāṇḍa · verse 115",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.116",
+      "label": "1. Bāla-kāṇḍa · verse 116",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.117",
+      "label": "1. Bāla-kāṇḍa · verse 117",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.118",
+      "label": "1. Bāla-kāṇḍa · verse 118",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.119",
+      "label": "1. Bāla-kāṇḍa · verse 119",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.120",
+      "label": "1. Bāla-kāṇḍa · verse 120",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.121",
+      "label": "1. Bāla-kāṇḍa · verse 121",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.122",
+      "label": "1. Bāla-kāṇḍa · verse 122",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.123",
+      "label": "1. Bāla-kāṇḍa · verse 123",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.124",
+      "label": "1. Bāla-kāṇḍa · verse 124",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.125",
+      "label": "1. Bāla-kāṇḍa · verse 125",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.126",
+      "label": "1. Bāla-kāṇḍa · verse 126",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.127",
+      "label": "1. Bāla-kāṇḍa · verse 127",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.128",
+      "label": "1. Bāla-kāṇḍa · verse 128",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.129",
+      "label": "1. Bāla-kāṇḍa · verse 129",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.130",
+      "label": "1. Bāla-kāṇḍa · verse 130",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.131",
+      "label": "1. Bāla-kāṇḍa · verse 131",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.132",
+      "label": "1. Bāla-kāṇḍa · verse 132",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.133",
+      "label": "1. Bāla-kāṇḍa · verse 133",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.134",
+      "label": "1. Bāla-kāṇḍa · verse 134",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.135",
+      "label": "1. Bāla-kāṇḍa · verse 135",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.136",
+      "label": "1. Bāla-kāṇḍa · verse 136",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.137",
+      "label": "1. Bāla-kāṇḍa · verse 137",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.138",
+      "label": "1. Bāla-kāṇḍa · verse 138",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.139",
+      "label": "1. Bāla-kāṇḍa · verse 139",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.140",
+      "label": "1. Bāla-kāṇḍa · verse 140",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.141",
+      "label": "1. Bāla-kāṇḍa · verse 141",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.142",
+      "label": "1. Bāla-kāṇḍa · verse 142",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.143",
+      "label": "1. Bāla-kāṇḍa · verse 143",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.144",
+      "label": "1. Bāla-kāṇḍa · verse 144",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.145",
+      "label": "1. Bāla-kāṇḍa · verse 145",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.146",
+      "label": "1. Bāla-kāṇḍa · verse 146",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.147",
+      "label": "1. Bāla-kāṇḍa · verse 147",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.148",
+      "label": "1. Bāla-kāṇḍa · verse 148",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.149",
+      "label": "1. Bāla-kāṇḍa · verse 149",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.150",
+      "label": "1. Bāla-kāṇḍa · verse 150",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.151",
+      "label": "1. Bāla-kāṇḍa · verse 151",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.152",
+      "label": "1. Bāla-kāṇḍa · verse 152",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.153",
+      "label": "1. Bāla-kāṇḍa · verse 153",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.154",
+      "label": "1. Bāla-kāṇḍa · verse 154",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.155",
+      "label": "1. Bāla-kāṇḍa · verse 155",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.156",
+      "label": "1. Bāla-kāṇḍa · verse 156",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.157",
+      "label": "1. Bāla-kāṇḍa · verse 157",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.158",
+      "label": "1. Bāla-kāṇḍa · verse 158",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.159",
+      "label": "1. Bāla-kāṇḍa · verse 159",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.160",
+      "label": "1. Bāla-kāṇḍa · verse 160",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.161",
+      "label": "1. Bāla-kāṇḍa · verse 161",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.162",
+      "label": "1. Bāla-kāṇḍa · verse 162",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.163",
+      "label": "1. Bāla-kāṇḍa · verse 163",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.164",
+      "label": "1. Bāla-kāṇḍa · verse 164",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.165",
+      "label": "1. Bāla-kāṇḍa · verse 165",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.166",
+      "label": "1. Bāla-kāṇḍa · verse 166",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.167",
+      "label": "1. Bāla-kāṇḍa · verse 167",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.168",
+      "label": "1. Bāla-kāṇḍa · verse 168",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.169",
+      "label": "1. Bāla-kāṇḍa · verse 169",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.170",
+      "label": "1. Bāla-kāṇḍa · verse 170",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.171",
+      "label": "1. Bāla-kāṇḍa · verse 171",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.172",
+      "label": "1. Bāla-kāṇḍa · verse 172",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.173",
+      "label": "1. Bāla-kāṇḍa · verse 173",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.174",
+      "label": "1. Bāla-kāṇḍa · verse 174",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.175",
+      "label": "1. Bāla-kāṇḍa · verse 175",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.176",
+      "label": "1. Bāla-kāṇḍa · verse 176",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.177",
+      "label": "1. Bāla-kāṇḍa · verse 177",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.178",
+      "label": "1. Bāla-kāṇḍa · verse 178",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.179",
+      "label": "1. Bāla-kāṇḍa · verse 179",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.180",
+      "label": "1. Bāla-kāṇḍa · verse 180",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.181",
+      "label": "1. Bāla-kāṇḍa · verse 181",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.182",
+      "label": "1. Bāla-kāṇḍa · verse 182",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.183",
+      "label": "1. Bāla-kāṇḍa · verse 183",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.184",
+      "label": "1. Bāla-kāṇḍa · verse 184",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.185",
+      "label": "1. Bāla-kāṇḍa · verse 185",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.186",
+      "label": "1. Bāla-kāṇḍa · verse 186",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.187",
+      "label": "1. Bāla-kāṇḍa · verse 187",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.188",
+      "label": "1. Bāla-kāṇḍa · verse 188",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.189",
+      "label": "1. Bāla-kāṇḍa · verse 189",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.190",
+      "label": "1. Bāla-kāṇḍa · verse 190",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.191",
+      "label": "1. Bāla-kāṇḍa · verse 191",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.192",
+      "label": "1. Bāla-kāṇḍa · verse 192",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.193",
+      "label": "1. Bāla-kāṇḍa · verse 193",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.194",
+      "label": "1. Bāla-kāṇḍa · verse 194",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.195",
+      "label": "1. Bāla-kāṇḍa · verse 195",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.196",
+      "label": "1. Bāla-kāṇḍa · verse 196",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.197",
+      "label": "1. Bāla-kāṇḍa · verse 197",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.198",
+      "label": "1. Bāla-kāṇḍa · verse 198",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.199",
+      "label": "1. Bāla-kāṇḍa · verse 199",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.200",
+      "label": "1. Bāla-kāṇḍa · verse 200",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.201",
+      "label": "1. Bāla-kāṇḍa · verse 201",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.202",
+      "label": "1. Bāla-kāṇḍa · verse 202",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.203",
+      "label": "1. Bāla-kāṇḍa · verse 203",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.204",
+      "label": "1. Bāla-kāṇḍa · verse 204",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.205",
+      "label": "1. Bāla-kāṇḍa · verse 205",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.206",
+      "label": "1. Bāla-kāṇḍa · verse 206",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.207",
+      "label": "1. Bāla-kāṇḍa · verse 207",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.208",
+      "label": "1. Bāla-kāṇḍa · verse 208",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.209",
+      "label": "1. Bāla-kāṇḍa · verse 209",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.210",
+      "label": "1. Bāla-kāṇḍa · verse 210",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.211",
+      "label": "1. Bāla-kāṇḍa · verse 211",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.212",
+      "label": "1. Bāla-kāṇḍa · verse 212",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.213",
+      "label": "1. Bāla-kāṇḍa · verse 213",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.214",
+      "label": "1. Bāla-kāṇḍa · verse 214",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.215",
+      "label": "1. Bāla-kāṇḍa · verse 215",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.216",
+      "label": "1. Bāla-kāṇḍa · verse 216",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.217",
+      "label": "1. Bāla-kāṇḍa · verse 217",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.218",
+      "label": "1. Bāla-kāṇḍa · verse 218",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.219",
+      "label": "1. Bāla-kāṇḍa · verse 219",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.220",
+      "label": "1. Bāla-kāṇḍa · verse 220",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.221",
+      "label": "1. Bāla-kāṇḍa · verse 221",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.222",
+      "label": "1. Bāla-kāṇḍa · verse 222",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.223",
+      "label": "1. Bāla-kāṇḍa · verse 223",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.224",
+      "label": "1. Bāla-kāṇḍa · verse 224",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.225",
+      "label": "1. Bāla-kāṇḍa · verse 225",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.226",
+      "label": "1. Bāla-kāṇḍa · verse 226",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.227",
+      "label": "1. Bāla-kāṇḍa · verse 227",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.228",
+      "label": "1. Bāla-kāṇḍa · verse 228",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.229",
+      "label": "1. Bāla-kāṇḍa · verse 229",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.230",
+      "label": "1. Bāla-kāṇḍa · verse 230",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.231",
+      "label": "1. Bāla-kāṇḍa · verse 231",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.232",
+      "label": "1. Bāla-kāṇḍa · verse 232",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.233",
+      "label": "1. Bāla-kāṇḍa · verse 233",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.234",
+      "label": "1. Bāla-kāṇḍa · verse 234",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.235",
+      "label": "1. Bāla-kāṇḍa · verse 235",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.236",
+      "label": "1. Bāla-kāṇḍa · verse 236",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.237",
+      "label": "1. Bāla-kāṇḍa · verse 237",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.238",
+      "label": "1. Bāla-kāṇḍa · verse 238",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.239",
+      "label": "1. Bāla-kāṇḍa · verse 239",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.240",
+      "label": "1. Bāla-kāṇḍa · verse 240",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.241",
+      "label": "1. Bāla-kāṇḍa · verse 241",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.242",
+      "label": "1. Bāla-kāṇḍa · verse 242",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.243",
+      "label": "1. Bāla-kāṇḍa · verse 243",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.244",
+      "label": "1. Bāla-kāṇḍa · verse 244",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.245",
+      "label": "1. Bāla-kāṇḍa · verse 245",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.246",
+      "label": "1. Bāla-kāṇḍa · verse 246",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.247",
+      "label": "1. Bāla-kāṇḍa · verse 247",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.248",
+      "label": "1. Bāla-kāṇḍa · verse 248",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.249",
+      "label": "1. Bāla-kāṇḍa · verse 249",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.250",
+      "label": "1. Bāla-kāṇḍa · verse 250",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.251",
+      "label": "1. Bāla-kāṇḍa · verse 251",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.252",
+      "label": "1. Bāla-kāṇḍa · verse 252",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.253",
+      "label": "1. Bāla-kāṇḍa · verse 253",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.254",
+      "label": "1. Bāla-kāṇḍa · verse 254",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.255",
+      "label": "1. Bāla-kāṇḍa · verse 255",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.256",
+      "label": "1. Bāla-kāṇḍa · verse 256",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.257",
+      "label": "1. Bāla-kāṇḍa · verse 257",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.258",
+      "label": "1. Bāla-kāṇḍa · verse 258",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.259",
+      "label": "1. Bāla-kāṇḍa · verse 259",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.260",
+      "label": "1. Bāla-kāṇḍa · verse 260",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.261",
+      "label": "1. Bāla-kāṇḍa · verse 261",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.262",
+      "label": "1. Bāla-kāṇḍa · verse 262",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.263",
+      "label": "1. Bāla-kāṇḍa · verse 263",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.264",
+      "label": "1. Bāla-kāṇḍa · verse 264",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.265",
+      "label": "1. Bāla-kāṇḍa · verse 265",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.266",
+      "label": "1. Bāla-kāṇḍa · verse 266",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.267",
+      "label": "1. Bāla-kāṇḍa · verse 267",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.268",
+      "label": "1. Bāla-kāṇḍa · verse 268",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.269",
+      "label": "1. Bāla-kāṇḍa · verse 269",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.270",
+      "label": "1. Bāla-kāṇḍa · verse 270",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.271",
+      "label": "1. Bāla-kāṇḍa · verse 271",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.272",
+      "label": "1. Bāla-kāṇḍa · verse 272",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.273",
+      "label": "1. Bāla-kāṇḍa · verse 273",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.274",
+      "label": "1. Bāla-kāṇḍa · verse 274",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.275",
+      "label": "1. Bāla-kāṇḍa · verse 275",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.276",
+      "label": "1. Bāla-kāṇḍa · verse 276",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.277",
+      "label": "1. Bāla-kāṇḍa · verse 277",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.278",
+      "label": "1. Bāla-kāṇḍa · verse 278",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.279",
+      "label": "1. Bāla-kāṇḍa · verse 279",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.280",
+      "label": "1. Bāla-kāṇḍa · verse 280",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.281",
+      "label": "1. Bāla-kāṇḍa · verse 281",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.282",
+      "label": "1. Bāla-kāṇḍa · verse 282",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.283",
+      "label": "1. Bāla-kāṇḍa · verse 283",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.284",
+      "label": "1. Bāla-kāṇḍa · verse 284",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.285",
+      "label": "1. Bāla-kāṇḍa · verse 285",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.286",
+      "label": "1. Bāla-kāṇḍa · verse 286",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.287",
+      "label": "1. Bāla-kāṇḍa · verse 287",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.288",
+      "label": "1. Bāla-kāṇḍa · verse 288",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.289",
+      "label": "1. Bāla-kāṇḍa · verse 289",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.290",
+      "label": "1. Bāla-kāṇḍa · verse 290",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.291",
+      "label": "1. Bāla-kāṇḍa · verse 291",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.292",
+      "label": "1. Bāla-kāṇḍa · verse 292",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.293",
+      "label": "1. Bāla-kāṇḍa · verse 293",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.294",
+      "label": "1. Bāla-kāṇḍa · verse 294",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.295",
+      "label": "1. Bāla-kāṇḍa · verse 295",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.296",
+      "label": "1. Bāla-kāṇḍa · verse 296",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.297",
+      "label": "1. Bāla-kāṇḍa · verse 297",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.298",
+      "label": "1. Bāla-kāṇḍa · verse 298",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.299",
+      "label": "1. Bāla-kāṇḍa · verse 299",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.300",
+      "label": "1. Bāla-kāṇḍa · verse 300",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.301",
+      "label": "1. Bāla-kāṇḍa · verse 301",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.302",
+      "label": "1. Bāla-kāṇḍa · verse 302",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.303",
+      "label": "1. Bāla-kāṇḍa · verse 303",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.304",
+      "label": "1. Bāla-kāṇḍa · verse 304",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.305",
+      "label": "1. Bāla-kāṇḍa · verse 305",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.306",
+      "label": "1. Bāla-kāṇḍa · verse 306",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.307",
+      "label": "1. Bāla-kāṇḍa · verse 307",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.308",
+      "label": "1. Bāla-kāṇḍa · verse 308",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.309",
+      "label": "1. Bāla-kāṇḍa · verse 309",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.310",
+      "label": "1. Bāla-kāṇḍa · verse 310",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.311",
+      "label": "1. Bāla-kāṇḍa · verse 311",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.312",
+      "label": "1. Bāla-kāṇḍa · verse 312",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.313",
+      "label": "1. Bāla-kāṇḍa · verse 313",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.314",
+      "label": "1. Bāla-kāṇḍa · verse 314",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.315",
+      "label": "1. Bāla-kāṇḍa · verse 315",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.316",
+      "label": "1. Bāla-kāṇḍa · verse 316",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.317",
+      "label": "1. Bāla-kāṇḍa · verse 317",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.318",
+      "label": "1. Bāla-kāṇḍa · verse 318",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.319",
+      "label": "1. Bāla-kāṇḍa · verse 319",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.320",
+      "label": "1. Bāla-kāṇḍa · verse 320",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.321",
+      "label": "1. Bāla-kāṇḍa · verse 321",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.322",
+      "label": "1. Bāla-kāṇḍa · verse 322",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.323",
+      "label": "1. Bāla-kāṇḍa · verse 323",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.324",
+      "label": "1. Bāla-kāṇḍa · verse 324",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.325",
+      "label": "1. Bāla-kāṇḍa · verse 325",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.326",
+      "label": "1. Bāla-kāṇḍa · verse 326",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.327",
+      "label": "1. Bāla-kāṇḍa · verse 327",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.328",
+      "label": "1. Bāla-kāṇḍa · verse 328",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.329",
+      "label": "1. Bāla-kāṇḍa · verse 329",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.330",
+      "label": "1. Bāla-kāṇḍa · verse 330",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.331",
+      "label": "1. Bāla-kāṇḍa · verse 331",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.332",
+      "label": "1. Bāla-kāṇḍa · verse 332",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.333",
+      "label": "1. Bāla-kāṇḍa · verse 333",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.334",
+      "label": "1. Bāla-kāṇḍa · verse 334",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.335",
+      "label": "1. Bāla-kāṇḍa · verse 335",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.336",
+      "label": "1. Bāla-kāṇḍa · verse 336",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.337",
+      "label": "1. Bāla-kāṇḍa · verse 337",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.338",
+      "label": "1. Bāla-kāṇḍa · verse 338",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.339",
+      "label": "1. Bāla-kāṇḍa · verse 339",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.340",
+      "label": "1. Bāla-kāṇḍa · verse 340",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.341",
+      "label": "1. Bāla-kāṇḍa · verse 341",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.342",
+      "label": "1. Bāla-kāṇḍa · verse 342",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.343",
+      "label": "1. Bāla-kāṇḍa · verse 343",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.344",
+      "label": "1. Bāla-kāṇḍa · verse 344",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.345",
+      "label": "1. Bāla-kāṇḍa · verse 345",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.346",
+      "label": "1. Bāla-kāṇḍa · verse 346",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.347",
+      "label": "1. Bāla-kāṇḍa · verse 347",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.348",
+      "label": "1. Bāla-kāṇḍa · verse 348",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.349",
+      "label": "1. Bāla-kāṇḍa · verse 349",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.350",
+      "label": "1. Bāla-kāṇḍa · verse 350",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.351",
+      "label": "1. Bāla-kāṇḍa · verse 351",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.352",
+      "label": "1. Bāla-kāṇḍa · verse 352",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.353",
+      "label": "1. Bāla-kāṇḍa · verse 353",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.354",
+      "label": "1. Bāla-kāṇḍa · verse 354",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.355",
+      "label": "1. Bāla-kāṇḍa · verse 355",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.356",
+      "label": "1. Bāla-kāṇḍa · verse 356",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.357",
+      "label": "1. Bāla-kāṇḍa · verse 357",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.358",
+      "label": "1. Bāla-kāṇḍa · verse 358",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.359",
+      "label": "1. Bāla-kāṇḍa · verse 359",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.360",
+      "label": "1. Bāla-kāṇḍa · verse 360",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.361",
+      "label": "1. Bāla-kāṇḍa · verse 361",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "2.1",
+      "label": "2. Ayodhyā-kāṇḍa · verse 1",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.2",
+      "label": "2. Ayodhyā-kāṇḍa · verse 2",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.3",
+      "label": "2. Ayodhyā-kāṇḍa · verse 3",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.4",
+      "label": "2. Ayodhyā-kāṇḍa · verse 4",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.5",
+      "label": "2. Ayodhyā-kāṇḍa · verse 5",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.6",
+      "label": "2. Ayodhyā-kāṇḍa · verse 6",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.7",
+      "label": "2. Ayodhyā-kāṇḍa · verse 7",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.8",
+      "label": "2. Ayodhyā-kāṇḍa · verse 8",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.9",
+      "label": "2. Ayodhyā-kāṇḍa · verse 9",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.10",
+      "label": "2. Ayodhyā-kāṇḍa · verse 10",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.11",
+      "label": "2. Ayodhyā-kāṇḍa · verse 11",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.12",
+      "label": "2. Ayodhyā-kāṇḍa · verse 12",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.13",
+      "label": "2. Ayodhyā-kāṇḍa · verse 13",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.14",
+      "label": "2. Ayodhyā-kāṇḍa · verse 14",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.15",
+      "label": "2. Ayodhyā-kāṇḍa · verse 15",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.16",
+      "label": "2. Ayodhyā-kāṇḍa · verse 16",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.17",
+      "label": "2. Ayodhyā-kāṇḍa · verse 17",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.18",
+      "label": "2. Ayodhyā-kāṇḍa · verse 18",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.19",
+      "label": "2. Ayodhyā-kāṇḍa · verse 19",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.20",
+      "label": "2. Ayodhyā-kāṇḍa · verse 20",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.21",
+      "label": "2. Ayodhyā-kāṇḍa · verse 21",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.22",
+      "label": "2. Ayodhyā-kāṇḍa · verse 22",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.23",
+      "label": "2. Ayodhyā-kāṇḍa · verse 23",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.24",
+      "label": "2. Ayodhyā-kāṇḍa · verse 24",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.25",
+      "label": "2. Ayodhyā-kāṇḍa · verse 25",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.26",
+      "label": "2. Ayodhyā-kāṇḍa · verse 26",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.27",
+      "label": "2. Ayodhyā-kāṇḍa · verse 27",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.28",
+      "label": "2. Ayodhyā-kāṇḍa · verse 28",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.29",
+      "label": "2. Ayodhyā-kāṇḍa · verse 29",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.30",
+      "label": "2. Ayodhyā-kāṇḍa · verse 30",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.31",
+      "label": "2. Ayodhyā-kāṇḍa · verse 31",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.32",
+      "label": "2. Ayodhyā-kāṇḍa · verse 32",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.33",
+      "label": "2. Ayodhyā-kāṇḍa · verse 33",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.34",
+      "label": "2. Ayodhyā-kāṇḍa · verse 34",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.35",
+      "label": "2. Ayodhyā-kāṇḍa · verse 35",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.36",
+      "label": "2. Ayodhyā-kāṇḍa · verse 36",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.37",
+      "label": "2. Ayodhyā-kāṇḍa · verse 37",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.38",
+      "label": "2. Ayodhyā-kāṇḍa · verse 38",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.39",
+      "label": "2. Ayodhyā-kāṇḍa · verse 39",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.40",
+      "label": "2. Ayodhyā-kāṇḍa · verse 40",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.41",
+      "label": "2. Ayodhyā-kāṇḍa · verse 41",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.42",
+      "label": "2. Ayodhyā-kāṇḍa · verse 42",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.43",
+      "label": "2. Ayodhyā-kāṇḍa · verse 43",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.44",
+      "label": "2. Ayodhyā-kāṇḍa · verse 44",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.45",
+      "label": "2. Ayodhyā-kāṇḍa · verse 45",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.46",
+      "label": "2. Ayodhyā-kāṇḍa · verse 46",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.47",
+      "label": "2. Ayodhyā-kāṇḍa · verse 47",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.48",
+      "label": "2. Ayodhyā-kāṇḍa · verse 48",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.49",
+      "label": "2. Ayodhyā-kāṇḍa · verse 49",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.50",
+      "label": "2. Ayodhyā-kāṇḍa · verse 50",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.51",
+      "label": "2. Ayodhyā-kāṇḍa · verse 51",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.52",
+      "label": "2. Ayodhyā-kāṇḍa · verse 52",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.53",
+      "label": "2. Ayodhyā-kāṇḍa · verse 53",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.54",
+      "label": "2. Ayodhyā-kāṇḍa · verse 54",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.55",
+      "label": "2. Ayodhyā-kāṇḍa · verse 55",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.56",
+      "label": "2. Ayodhyā-kāṇḍa · verse 56",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.57",
+      "label": "2. Ayodhyā-kāṇḍa · verse 57",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.58",
+      "label": "2. Ayodhyā-kāṇḍa · verse 58",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.59",
+      "label": "2. Ayodhyā-kāṇḍa · verse 59",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.60",
+      "label": "2. Ayodhyā-kāṇḍa · verse 60",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.61",
+      "label": "2. Ayodhyā-kāṇḍa · verse 61",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.62",
+      "label": "2. Ayodhyā-kāṇḍa · verse 62",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.63",
+      "label": "2. Ayodhyā-kāṇḍa · verse 63",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.64",
+      "label": "2. Ayodhyā-kāṇḍa · verse 64",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.65",
+      "label": "2. Ayodhyā-kāṇḍa · verse 65",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.66",
+      "label": "2. Ayodhyā-kāṇḍa · verse 66",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.67",
+      "label": "2. Ayodhyā-kāṇḍa · verse 67",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.68",
+      "label": "2. Ayodhyā-kāṇḍa · verse 68",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.69",
+      "label": "2. Ayodhyā-kāṇḍa · verse 69",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.70",
+      "label": "2. Ayodhyā-kāṇḍa · verse 70",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.71",
+      "label": "2. Ayodhyā-kāṇḍa · verse 71",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.72",
+      "label": "2. Ayodhyā-kāṇḍa · verse 72",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.73",
+      "label": "2. Ayodhyā-kāṇḍa · verse 73",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.74",
+      "label": "2. Ayodhyā-kāṇḍa · verse 74",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.75",
+      "label": "2. Ayodhyā-kāṇḍa · verse 75",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.76",
+      "label": "2. Ayodhyā-kāṇḍa · verse 76",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.77",
+      "label": "2. Ayodhyā-kāṇḍa · verse 77",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.78",
+      "label": "2. Ayodhyā-kāṇḍa · verse 78",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.79",
+      "label": "2. Ayodhyā-kāṇḍa · verse 79",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.80",
+      "label": "2. Ayodhyā-kāṇḍa · verse 80",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.81",
+      "label": "2. Ayodhyā-kāṇḍa · verse 81",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.82",
+      "label": "2. Ayodhyā-kāṇḍa · verse 82",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.83",
+      "label": "2. Ayodhyā-kāṇḍa · verse 83",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.84",
+      "label": "2. Ayodhyā-kāṇḍa · verse 84",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.85",
+      "label": "2. Ayodhyā-kāṇḍa · verse 85",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.86",
+      "label": "2. Ayodhyā-kāṇḍa · verse 86",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.87",
+      "label": "2. Ayodhyā-kāṇḍa · verse 87",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.88",
+      "label": "2. Ayodhyā-kāṇḍa · verse 88",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.89",
+      "label": "2. Ayodhyā-kāṇḍa · verse 89",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.90",
+      "label": "2. Ayodhyā-kāṇḍa · verse 90",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.91",
+      "label": "2. Ayodhyā-kāṇḍa · verse 91",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.92",
+      "label": "2. Ayodhyā-kāṇḍa · verse 92",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.93",
+      "label": "2. Ayodhyā-kāṇḍa · verse 93",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.94",
+      "label": "2. Ayodhyā-kāṇḍa · verse 94",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.95",
+      "label": "2. Ayodhyā-kāṇḍa · verse 95",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.96",
+      "label": "2. Ayodhyā-kāṇḍa · verse 96",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.97",
+      "label": "2. Ayodhyā-kāṇḍa · verse 97",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.98",
+      "label": "2. Ayodhyā-kāṇḍa · verse 98",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.99",
+      "label": "2. Ayodhyā-kāṇḍa · verse 99",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.100",
+      "label": "2. Ayodhyā-kāṇḍa · verse 100",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.101",
+      "label": "2. Ayodhyā-kāṇḍa · verse 101",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.102",
+      "label": "2. Ayodhyā-kāṇḍa · verse 102",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.103",
+      "label": "2. Ayodhyā-kāṇḍa · verse 103",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.104",
+      "label": "2. Ayodhyā-kāṇḍa · verse 104",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.105",
+      "label": "2. Ayodhyā-kāṇḍa · verse 105",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.106",
+      "label": "2. Ayodhyā-kāṇḍa · verse 106",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.107",
+      "label": "2. Ayodhyā-kāṇḍa · verse 107",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.108",
+      "label": "2. Ayodhyā-kāṇḍa · verse 108",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.109",
+      "label": "2. Ayodhyā-kāṇḍa · verse 109",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.110",
+      "label": "2. Ayodhyā-kāṇḍa · verse 110",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.111",
+      "label": "2. Ayodhyā-kāṇḍa · verse 111",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.112",
+      "label": "2. Ayodhyā-kāṇḍa · verse 112",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.113",
+      "label": "2. Ayodhyā-kāṇḍa · verse 113",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.114",
+      "label": "2. Ayodhyā-kāṇḍa · verse 114",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.115",
+      "label": "2. Ayodhyā-kāṇḍa · verse 115",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.116",
+      "label": "2. Ayodhyā-kāṇḍa · verse 116",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.117",
+      "label": "2. Ayodhyā-kāṇḍa · verse 117",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.118",
+      "label": "2. Ayodhyā-kāṇḍa · verse 118",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.119",
+      "label": "2. Ayodhyā-kāṇḍa · verse 119",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.120",
+      "label": "2. Ayodhyā-kāṇḍa · verse 120",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.121",
+      "label": "2. Ayodhyā-kāṇḍa · verse 121",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.122",
+      "label": "2. Ayodhyā-kāṇḍa · verse 122",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.123",
+      "label": "2. Ayodhyā-kāṇḍa · verse 123",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.124",
+      "label": "2. Ayodhyā-kāṇḍa · verse 124",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.125",
+      "label": "2. Ayodhyā-kāṇḍa · verse 125",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.126",
+      "label": "2. Ayodhyā-kāṇḍa · verse 126",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.127",
+      "label": "2. Ayodhyā-kāṇḍa · verse 127",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.128",
+      "label": "2. Ayodhyā-kāṇḍa · verse 128",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.129",
+      "label": "2. Ayodhyā-kāṇḍa · verse 129",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.130",
+      "label": "2. Ayodhyā-kāṇḍa · verse 130",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.131",
+      "label": "2. Ayodhyā-kāṇḍa · verse 131",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.132",
+      "label": "2. Ayodhyā-kāṇḍa · verse 132",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.133",
+      "label": "2. Ayodhyā-kāṇḍa · verse 133",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.134",
+      "label": "2. Ayodhyā-kāṇḍa · verse 134",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.135",
+      "label": "2. Ayodhyā-kāṇḍa · verse 135",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.136",
+      "label": "2. Ayodhyā-kāṇḍa · verse 136",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.137",
+      "label": "2. Ayodhyā-kāṇḍa · verse 137",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.138",
+      "label": "2. Ayodhyā-kāṇḍa · verse 138",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.139",
+      "label": "2. Ayodhyā-kāṇḍa · verse 139",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.140",
+      "label": "2. Ayodhyā-kāṇḍa · verse 140",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.141",
+      "label": "2. Ayodhyā-kāṇḍa · verse 141",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.142",
+      "label": "2. Ayodhyā-kāṇḍa · verse 142",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.143",
+      "label": "2. Ayodhyā-kāṇḍa · verse 143",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.144",
+      "label": "2. Ayodhyā-kāṇḍa · verse 144",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.145",
+      "label": "2. Ayodhyā-kāṇḍa · verse 145",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.146",
+      "label": "2. Ayodhyā-kāṇḍa · verse 146",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.147",
+      "label": "2. Ayodhyā-kāṇḍa · verse 147",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.148",
+      "label": "2. Ayodhyā-kāṇḍa · verse 148",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.149",
+      "label": "2. Ayodhyā-kāṇḍa · verse 149",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.150",
+      "label": "2. Ayodhyā-kāṇḍa · verse 150",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.151",
+      "label": "2. Ayodhyā-kāṇḍa · verse 151",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.152",
+      "label": "2. Ayodhyā-kāṇḍa · verse 152",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.153",
+      "label": "2. Ayodhyā-kāṇḍa · verse 153",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.154",
+      "label": "2. Ayodhyā-kāṇḍa · verse 154",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.155",
+      "label": "2. Ayodhyā-kāṇḍa · verse 155",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.156",
+      "label": "2. Ayodhyā-kāṇḍa · verse 156",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.157",
+      "label": "2. Ayodhyā-kāṇḍa · verse 157",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.158",
+      "label": "2. Ayodhyā-kāṇḍa · verse 158",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.159",
+      "label": "2. Ayodhyā-kāṇḍa · verse 159",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.160",
+      "label": "2. Ayodhyā-kāṇḍa · verse 160",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.161",
+      "label": "2. Ayodhyā-kāṇḍa · verse 161",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.162",
+      "label": "2. Ayodhyā-kāṇḍa · verse 162",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.163",
+      "label": "2. Ayodhyā-kāṇḍa · verse 163",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.164",
+      "label": "2. Ayodhyā-kāṇḍa · verse 164",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.165",
+      "label": "2. Ayodhyā-kāṇḍa · verse 165",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.166",
+      "label": "2. Ayodhyā-kāṇḍa · verse 166",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.167",
+      "label": "2. Ayodhyā-kāṇḍa · verse 167",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.168",
+      "label": "2. Ayodhyā-kāṇḍa · verse 168",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.169",
+      "label": "2. Ayodhyā-kāṇḍa · verse 169",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.170",
+      "label": "2. Ayodhyā-kāṇḍa · verse 170",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.171",
+      "label": "2. Ayodhyā-kāṇḍa · verse 171",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.172",
+      "label": "2. Ayodhyā-kāṇḍa · verse 172",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.173",
+      "label": "2. Ayodhyā-kāṇḍa · verse 173",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.174",
+      "label": "2. Ayodhyā-kāṇḍa · verse 174",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.175",
+      "label": "2. Ayodhyā-kāṇḍa · verse 175",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.176",
+      "label": "2. Ayodhyā-kāṇḍa · verse 176",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.177",
+      "label": "2. Ayodhyā-kāṇḍa · verse 177",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.178",
+      "label": "2. Ayodhyā-kāṇḍa · verse 178",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.179",
+      "label": "2. Ayodhyā-kāṇḍa · verse 179",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.180",
+      "label": "2. Ayodhyā-kāṇḍa · verse 180",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.181",
+      "label": "2. Ayodhyā-kāṇḍa · verse 181",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.182",
+      "label": "2. Ayodhyā-kāṇḍa · verse 182",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.183",
+      "label": "2. Ayodhyā-kāṇḍa · verse 183",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.184",
+      "label": "2. Ayodhyā-kāṇḍa · verse 184",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.185",
+      "label": "2. Ayodhyā-kāṇḍa · verse 185",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.186",
+      "label": "2. Ayodhyā-kāṇḍa · verse 186",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.187",
+      "label": "2. Ayodhyā-kāṇḍa · verse 187",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.188",
+      "label": "2. Ayodhyā-kāṇḍa · verse 188",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.189",
+      "label": "2. Ayodhyā-kāṇḍa · verse 189",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.190",
+      "label": "2. Ayodhyā-kāṇḍa · verse 190",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.191",
+      "label": "2. Ayodhyā-kāṇḍa · verse 191",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.192",
+      "label": "2. Ayodhyā-kāṇḍa · verse 192",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.193",
+      "label": "2. Ayodhyā-kāṇḍa · verse 193",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.194",
+      "label": "2. Ayodhyā-kāṇḍa · verse 194",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.195",
+      "label": "2. Ayodhyā-kāṇḍa · verse 195",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.196",
+      "label": "2. Ayodhyā-kāṇḍa · verse 196",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.197",
+      "label": "2. Ayodhyā-kāṇḍa · verse 197",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.198",
+      "label": "2. Ayodhyā-kāṇḍa · verse 198",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.199",
+      "label": "2. Ayodhyā-kāṇḍa · verse 199",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.200",
+      "label": "2. Ayodhyā-kāṇḍa · verse 200",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.201",
+      "label": "2. Ayodhyā-kāṇḍa · verse 201",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.202",
+      "label": "2. Ayodhyā-kāṇḍa · verse 202",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.203",
+      "label": "2. Ayodhyā-kāṇḍa · verse 203",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.204",
+      "label": "2. Ayodhyā-kāṇḍa · verse 204",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.205",
+      "label": "2. Ayodhyā-kāṇḍa · verse 205",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.206",
+      "label": "2. Ayodhyā-kāṇḍa · verse 206",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.207",
+      "label": "2. Ayodhyā-kāṇḍa · verse 207",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.208",
+      "label": "2. Ayodhyā-kāṇḍa · verse 208",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.209",
+      "label": "2. Ayodhyā-kāṇḍa · verse 209",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.210",
+      "label": "2. Ayodhyā-kāṇḍa · verse 210",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.211",
+      "label": "2. Ayodhyā-kāṇḍa · verse 211",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.212",
+      "label": "2. Ayodhyā-kāṇḍa · verse 212",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.213",
+      "label": "2. Ayodhyā-kāṇḍa · verse 213",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.214",
+      "label": "2. Ayodhyā-kāṇḍa · verse 214",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.215",
+      "label": "2. Ayodhyā-kāṇḍa · verse 215",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.216",
+      "label": "2. Ayodhyā-kāṇḍa · verse 216",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.217",
+      "label": "2. Ayodhyā-kāṇḍa · verse 217",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.218",
+      "label": "2. Ayodhyā-kāṇḍa · verse 218",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.219",
+      "label": "2. Ayodhyā-kāṇḍa · verse 219",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.220",
+      "label": "2. Ayodhyā-kāṇḍa · verse 220",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.221",
+      "label": "2. Ayodhyā-kāṇḍa · verse 221",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.222",
+      "label": "2. Ayodhyā-kāṇḍa · verse 222",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.223",
+      "label": "2. Ayodhyā-kāṇḍa · verse 223",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.224",
+      "label": "2. Ayodhyā-kāṇḍa · verse 224",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.225",
+      "label": "2. Ayodhyā-kāṇḍa · verse 225",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.226",
+      "label": "2. Ayodhyā-kāṇḍa · verse 226",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.227",
+      "label": "2. Ayodhyā-kāṇḍa · verse 227",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.228",
+      "label": "2. Ayodhyā-kāṇḍa · verse 228",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.229",
+      "label": "2. Ayodhyā-kāṇḍa · verse 229",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.230",
+      "label": "2. Ayodhyā-kāṇḍa · verse 230",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.231",
+      "label": "2. Ayodhyā-kāṇḍa · verse 231",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.232",
+      "label": "2. Ayodhyā-kāṇḍa · verse 232",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.233",
+      "label": "2. Ayodhyā-kāṇḍa · verse 233",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.234",
+      "label": "2. Ayodhyā-kāṇḍa · verse 234",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.235",
+      "label": "2. Ayodhyā-kāṇḍa · verse 235",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.236",
+      "label": "2. Ayodhyā-kāṇḍa · verse 236",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.237",
+      "label": "2. Ayodhyā-kāṇḍa · verse 237",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.238",
+      "label": "2. Ayodhyā-kāṇḍa · verse 238",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.239",
+      "label": "2. Ayodhyā-kāṇḍa · verse 239",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.240",
+      "label": "2. Ayodhyā-kāṇḍa · verse 240",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.241",
+      "label": "2. Ayodhyā-kāṇḍa · verse 241",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.242",
+      "label": "2. Ayodhyā-kāṇḍa · verse 242",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.243",
+      "label": "2. Ayodhyā-kāṇḍa · verse 243",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.244",
+      "label": "2. Ayodhyā-kāṇḍa · verse 244",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.245",
+      "label": "2. Ayodhyā-kāṇḍa · verse 245",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.246",
+      "label": "2. Ayodhyā-kāṇḍa · verse 246",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.247",
+      "label": "2. Ayodhyā-kāṇḍa · verse 247",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.248",
+      "label": "2. Ayodhyā-kāṇḍa · verse 248",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.249",
+      "label": "2. Ayodhyā-kāṇḍa · verse 249",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.250",
+      "label": "2. Ayodhyā-kāṇḍa · verse 250",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.251",
+      "label": "2. Ayodhyā-kāṇḍa · verse 251",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.252",
+      "label": "2. Ayodhyā-kāṇḍa · verse 252",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.253",
+      "label": "2. Ayodhyā-kāṇḍa · verse 253",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.254",
+      "label": "2. Ayodhyā-kāṇḍa · verse 254",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.255",
+      "label": "2. Ayodhyā-kāṇḍa · verse 255",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.256",
+      "label": "2. Ayodhyā-kāṇḍa · verse 256",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.257",
+      "label": "2. Ayodhyā-kāṇḍa · verse 257",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.258",
+      "label": "2. Ayodhyā-kāṇḍa · verse 258",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.259",
+      "label": "2. Ayodhyā-kāṇḍa · verse 259",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.260",
+      "label": "2. Ayodhyā-kāṇḍa · verse 260",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.261",
+      "label": "2. Ayodhyā-kāṇḍa · verse 261",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.262",
+      "label": "2. Ayodhyā-kāṇḍa · verse 262",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.263",
+      "label": "2. Ayodhyā-kāṇḍa · verse 263",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.264",
+      "label": "2. Ayodhyā-kāṇḍa · verse 264",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.265",
+      "label": "2. Ayodhyā-kāṇḍa · verse 265",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.266",
+      "label": "2. Ayodhyā-kāṇḍa · verse 266",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.267",
+      "label": "2. Ayodhyā-kāṇḍa · verse 267",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.268",
+      "label": "2. Ayodhyā-kāṇḍa · verse 268",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.269",
+      "label": "2. Ayodhyā-kāṇḍa · verse 269",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.270",
+      "label": "2. Ayodhyā-kāṇḍa · verse 270",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.271",
+      "label": "2. Ayodhyā-kāṇḍa · verse 271",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.272",
+      "label": "2. Ayodhyā-kāṇḍa · verse 272",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.273",
+      "label": "2. Ayodhyā-kāṇḍa · verse 273",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.274",
+      "label": "2. Ayodhyā-kāṇḍa · verse 274",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.275",
+      "label": "2. Ayodhyā-kāṇḍa · verse 275",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.276",
+      "label": "2. Ayodhyā-kāṇḍa · verse 276",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.277",
+      "label": "2. Ayodhyā-kāṇḍa · verse 277",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.278",
+      "label": "2. Ayodhyā-kāṇḍa · verse 278",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.279",
+      "label": "2. Ayodhyā-kāṇḍa · verse 279",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.280",
+      "label": "2. Ayodhyā-kāṇḍa · verse 280",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.281",
+      "label": "2. Ayodhyā-kāṇḍa · verse 281",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.282",
+      "label": "2. Ayodhyā-kāṇḍa · verse 282",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.283",
+      "label": "2. Ayodhyā-kāṇḍa · verse 283",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.284",
+      "label": "2. Ayodhyā-kāṇḍa · verse 284",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.285",
+      "label": "2. Ayodhyā-kāṇḍa · verse 285",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.286",
+      "label": "2. Ayodhyā-kāṇḍa · verse 286",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.287",
+      "label": "2. Ayodhyā-kāṇḍa · verse 287",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.288",
+      "label": "2. Ayodhyā-kāṇḍa · verse 288",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.289",
+      "label": "2. Ayodhyā-kāṇḍa · verse 289",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.290",
+      "label": "2. Ayodhyā-kāṇḍa · verse 290",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.291",
+      "label": "2. Ayodhyā-kāṇḍa · verse 291",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.292",
+      "label": "2. Ayodhyā-kāṇḍa · verse 292",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.293",
+      "label": "2. Ayodhyā-kāṇḍa · verse 293",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.294",
+      "label": "2. Ayodhyā-kāṇḍa · verse 294",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.295",
+      "label": "2. Ayodhyā-kāṇḍa · verse 295",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.296",
+      "label": "2. Ayodhyā-kāṇḍa · verse 296",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.297",
+      "label": "2. Ayodhyā-kāṇḍa · verse 297",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.298",
+      "label": "2. Ayodhyā-kāṇḍa · verse 298",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.299",
+      "label": "2. Ayodhyā-kāṇḍa · verse 299",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.300",
+      "label": "2. Ayodhyā-kāṇḍa · verse 300",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.301",
+      "label": "2. Ayodhyā-kāṇḍa · verse 301",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.302",
+      "label": "2. Ayodhyā-kāṇḍa · verse 302",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.303",
+      "label": "2. Ayodhyā-kāṇḍa · verse 303",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.304",
+      "label": "2. Ayodhyā-kāṇḍa · verse 304",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.305",
+      "label": "2. Ayodhyā-kāṇḍa · verse 305",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.306",
+      "label": "2. Ayodhyā-kāṇḍa · verse 306",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.307",
+      "label": "2. Ayodhyā-kāṇḍa · verse 307",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.308",
+      "label": "2. Ayodhyā-kāṇḍa · verse 308",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.309",
+      "label": "2. Ayodhyā-kāṇḍa · verse 309",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.310",
+      "label": "2. Ayodhyā-kāṇḍa · verse 310",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.311",
+      "label": "2. Ayodhyā-kāṇḍa · verse 311",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.312",
+      "label": "2. Ayodhyā-kāṇḍa · verse 312",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.313",
+      "label": "2. Ayodhyā-kāṇḍa · verse 313",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.314",
+      "label": "2. Ayodhyā-kāṇḍa · verse 314",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.315",
+      "label": "2. Ayodhyā-kāṇḍa · verse 315",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.316",
+      "label": "2. Ayodhyā-kāṇḍa · verse 316",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.317",
+      "label": "2. Ayodhyā-kāṇḍa · verse 317",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.318",
+      "label": "2. Ayodhyā-kāṇḍa · verse 318",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.319",
+      "label": "2. Ayodhyā-kāṇḍa · verse 319",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.320",
+      "label": "2. Ayodhyā-kāṇḍa · verse 320",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.321",
+      "label": "2. Ayodhyā-kāṇḍa · verse 321",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.322",
+      "label": "2. Ayodhyā-kāṇḍa · verse 322",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.323",
+      "label": "2. Ayodhyā-kāṇḍa · verse 323",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.324",
+      "label": "2. Ayodhyā-kāṇḍa · verse 324",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.325",
+      "label": "2. Ayodhyā-kāṇḍa · verse 325",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.326",
+      "label": "2. Ayodhyā-kāṇḍa · verse 326",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "3.1",
+      "label": "3. Araṇya-kāṇḍa · verse 1",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.2",
+      "label": "3. Araṇya-kāṇḍa · verse 2",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.3",
+      "label": "3. Araṇya-kāṇḍa · verse 3",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.4",
+      "label": "3. Araṇya-kāṇḍa · verse 4",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.5",
+      "label": "3. Araṇya-kāṇḍa · verse 5",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.6",
+      "label": "3. Araṇya-kāṇḍa · verse 6",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.7",
+      "label": "3. Araṇya-kāṇḍa · verse 7",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.8",
+      "label": "3. Araṇya-kāṇḍa · verse 8",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.9",
+      "label": "3. Araṇya-kāṇḍa · verse 9",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.10",
+      "label": "3. Araṇya-kāṇḍa · verse 10",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.11",
+      "label": "3. Araṇya-kāṇḍa · verse 11",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.12",
+      "label": "3. Araṇya-kāṇḍa · verse 12",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.13",
+      "label": "3. Araṇya-kāṇḍa · verse 13",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.14",
+      "label": "3. Araṇya-kāṇḍa · verse 14",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.15",
+      "label": "3. Araṇya-kāṇḍa · verse 15",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.16",
+      "label": "3. Araṇya-kāṇḍa · verse 16",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.17",
+      "label": "3. Araṇya-kāṇḍa · verse 17",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.18",
+      "label": "3. Araṇya-kāṇḍa · verse 18",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.19",
+      "label": "3. Araṇya-kāṇḍa · verse 19",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.20",
+      "label": "3. Araṇya-kāṇḍa · verse 20",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.21",
+      "label": "3. Araṇya-kāṇḍa · verse 21",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.22",
+      "label": "3. Araṇya-kāṇḍa · verse 22",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.23",
+      "label": "3. Araṇya-kāṇḍa · verse 23",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.24",
+      "label": "3. Araṇya-kāṇḍa · verse 24",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.25",
+      "label": "3. Araṇya-kāṇḍa · verse 25",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.26",
+      "label": "3. Araṇya-kāṇḍa · verse 26",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.27",
+      "label": "3. Araṇya-kāṇḍa · verse 27",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.28",
+      "label": "3. Araṇya-kāṇḍa · verse 28",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.29",
+      "label": "3. Araṇya-kāṇḍa · verse 29",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.30",
+      "label": "3. Araṇya-kāṇḍa · verse 30",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.31",
+      "label": "3. Araṇya-kāṇḍa · verse 31",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.32",
+      "label": "3. Araṇya-kāṇḍa · verse 32",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.33",
+      "label": "3. Araṇya-kāṇḍa · verse 33",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.34",
+      "label": "3. Araṇya-kāṇḍa · verse 34",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.35",
+      "label": "3. Araṇya-kāṇḍa · verse 35",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.36",
+      "label": "3. Araṇya-kāṇḍa · verse 36",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.37",
+      "label": "3. Araṇya-kāṇḍa · verse 37",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.38",
+      "label": "3. Araṇya-kāṇḍa · verse 38",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.39",
+      "label": "3. Araṇya-kāṇḍa · verse 39",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.40",
+      "label": "3. Araṇya-kāṇḍa · verse 40",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.41",
+      "label": "3. Araṇya-kāṇḍa · verse 41",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.42",
+      "label": "3. Araṇya-kāṇḍa · verse 42",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.43",
+      "label": "3. Araṇya-kāṇḍa · verse 43",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.44",
+      "label": "3. Araṇya-kāṇḍa · verse 44",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.45",
+      "label": "3. Araṇya-kāṇḍa · verse 45",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.46",
+      "label": "3. Araṇya-kāṇḍa · verse 46",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "4.1",
+      "label": "4. Kiṣkindhā-kāṇḍa · verse 1",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.2",
+      "label": "4. Kiṣkindhā-kāṇḍa · verse 2",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.3",
+      "label": "4. Kiṣkindhā-kāṇḍa · verse 3",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.4",
+      "label": "4. Kiṣkindhā-kāṇḍa · verse 4",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.5",
+      "label": "4. Kiṣkindhā-kāṇḍa · verse 5",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.6",
+      "label": "4. Kiṣkindhā-kāṇḍa · verse 6",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.7",
+      "label": "4. Kiṣkindhā-kāṇḍa · verse 7",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.8",
+      "label": "4. Kiṣkindhā-kāṇḍa · verse 8",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.9",
+      "label": "4. Kiṣkindhā-kāṇḍa · verse 9",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.10",
+      "label": "4. Kiṣkindhā-kāṇḍa · verse 10",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.11",
+      "label": "4. Kiṣkindhā-kāṇḍa · verse 11",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.12",
+      "label": "4. Kiṣkindhā-kāṇḍa · verse 12",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.13",
+      "label": "4. Kiṣkindhā-kāṇḍa · verse 13",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.14",
+      "label": "4. Kiṣkindhā-kāṇḍa · verse 14",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.15",
+      "label": "4. Kiṣkindhā-kāṇḍa · verse 15",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.16",
+      "label": "4. Kiṣkindhā-kāṇḍa · verse 16",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.17",
+      "label": "4. Kiṣkindhā-kāṇḍa · verse 17",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.18",
+      "label": "4. Kiṣkindhā-kāṇḍa · verse 18",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.19",
+      "label": "4. Kiṣkindhā-kāṇḍa · verse 19",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.20",
+      "label": "4. Kiṣkindhā-kāṇḍa · verse 20",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.21",
+      "label": "4. Kiṣkindhā-kāṇḍa · verse 21",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.22",
+      "label": "4. Kiṣkindhā-kāṇḍa · verse 22",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.23",
+      "label": "4. Kiṣkindhā-kāṇḍa · verse 23",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.24",
+      "label": "4. Kiṣkindhā-kāṇḍa · verse 24",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.25",
+      "label": "4. Kiṣkindhā-kāṇḍa · verse 25",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.26",
+      "label": "4. Kiṣkindhā-kāṇḍa · verse 26",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.27",
+      "label": "4. Kiṣkindhā-kāṇḍa · verse 27",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.28",
+      "label": "4. Kiṣkindhā-kāṇḍa · verse 28",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.29",
+      "label": "4. Kiṣkindhā-kāṇḍa · verse 29",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.30",
+      "label": "4. Kiṣkindhā-kāṇḍa · verse 30",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "5.1",
+      "label": "5. Sundara-kāṇḍa · verse 1",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.2",
+      "label": "5. Sundara-kāṇḍa · verse 2",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.3",
+      "label": "5. Sundara-kāṇḍa · verse 3",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.4",
+      "label": "5. Sundara-kāṇḍa · verse 4",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.5",
+      "label": "5. Sundara-kāṇḍa · verse 5",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.6",
+      "label": "5. Sundara-kāṇḍa · verse 6",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.7",
+      "label": "5. Sundara-kāṇḍa · verse 7",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.8",
+      "label": "5. Sundara-kāṇḍa · verse 8",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.9",
+      "label": "5. Sundara-kāṇḍa · verse 9",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.10",
+      "label": "5. Sundara-kāṇḍa · verse 10",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.11",
+      "label": "5. Sundara-kāṇḍa · verse 11",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.12",
+      "label": "5. Sundara-kāṇḍa · verse 12",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.13",
+      "label": "5. Sundara-kāṇḍa · verse 13",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.14",
+      "label": "5. Sundara-kāṇḍa · verse 14",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.15",
+      "label": "5. Sundara-kāṇḍa · verse 15",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.16",
+      "label": "5. Sundara-kāṇḍa · verse 16",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.17",
+      "label": "5. Sundara-kāṇḍa · verse 17",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.18",
+      "label": "5. Sundara-kāṇḍa · verse 18",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.19",
+      "label": "5. Sundara-kāṇḍa · verse 19",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.20",
+      "label": "5. Sundara-kāṇḍa · verse 20",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.21",
+      "label": "5. Sundara-kāṇḍa · verse 21",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.22",
+      "label": "5. Sundara-kāṇḍa · verse 22",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.23",
+      "label": "5. Sundara-kāṇḍa · verse 23",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.24",
+      "label": "5. Sundara-kāṇḍa · verse 24",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.25",
+      "label": "5. Sundara-kāṇḍa · verse 25",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.26",
+      "label": "5. Sundara-kāṇḍa · verse 26",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.27",
+      "label": "5. Sundara-kāṇḍa · verse 27",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.28",
+      "label": "5. Sundara-kāṇḍa · verse 28",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.29",
+      "label": "5. Sundara-kāṇḍa · verse 29",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.30",
+      "label": "5. Sundara-kāṇḍa · verse 30",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.31",
+      "label": "5. Sundara-kāṇḍa · verse 31",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.32",
+      "label": "5. Sundara-kāṇḍa · verse 32",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.33",
+      "label": "5. Sundara-kāṇḍa · verse 33",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.34",
+      "label": "5. Sundara-kāṇḍa · verse 34",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.35",
+      "label": "5. Sundara-kāṇḍa · verse 35",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.36",
+      "label": "5. Sundara-kāṇḍa · verse 36",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.37",
+      "label": "5. Sundara-kāṇḍa · verse 37",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.38",
+      "label": "5. Sundara-kāṇḍa · verse 38",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.39",
+      "label": "5. Sundara-kāṇḍa · verse 39",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.40",
+      "label": "5. Sundara-kāṇḍa · verse 40",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.41",
+      "label": "5. Sundara-kāṇḍa · verse 41",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.42",
+      "label": "5. Sundara-kāṇḍa · verse 42",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.43",
+      "label": "5. Sundara-kāṇḍa · verse 43",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.44",
+      "label": "5. Sundara-kāṇḍa · verse 44",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.45",
+      "label": "5. Sundara-kāṇḍa · verse 45",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.46",
+      "label": "5. Sundara-kāṇḍa · verse 46",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.47",
+      "label": "5. Sundara-kāṇḍa · verse 47",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.48",
+      "label": "5. Sundara-kāṇḍa · verse 48",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.49",
+      "label": "5. Sundara-kāṇḍa · verse 49",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.50",
+      "label": "5. Sundara-kāṇḍa · verse 50",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.51",
+      "label": "5. Sundara-kāṇḍa · verse 51",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.52",
+      "label": "5. Sundara-kāṇḍa · verse 52",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.53",
+      "label": "5. Sundara-kāṇḍa · verse 53",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.54",
+      "label": "5. Sundara-kāṇḍa · verse 54",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.55",
+      "label": "5. Sundara-kāṇḍa · verse 55",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.56",
+      "label": "5. Sundara-kāṇḍa · verse 56",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.57",
+      "label": "5. Sundara-kāṇḍa · verse 57",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.58",
+      "label": "5. Sundara-kāṇḍa · verse 58",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.59",
+      "label": "5. Sundara-kāṇḍa · verse 59",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.60",
+      "label": "5. Sundara-kāṇḍa · verse 60",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "6.1",
+      "label": "6. Laṅkā-kāṇḍa · verse 1",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.2",
+      "label": "6. Laṅkā-kāṇḍa · verse 2",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.3",
+      "label": "6. Laṅkā-kāṇḍa · verse 3",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.4",
+      "label": "6. Laṅkā-kāṇḍa · verse 4",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.5",
+      "label": "6. Laṅkā-kāṇḍa · verse 5",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.6",
+      "label": "6. Laṅkā-kāṇḍa · verse 6",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.7",
+      "label": "6. Laṅkā-kāṇḍa · verse 7",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.8",
+      "label": "6. Laṅkā-kāṇḍa · verse 8",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.9",
+      "label": "6. Laṅkā-kāṇḍa · verse 9",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.10",
+      "label": "6. Laṅkā-kāṇḍa · verse 10",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.11",
+      "label": "6. Laṅkā-kāṇḍa · verse 11",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.12",
+      "label": "6. Laṅkā-kāṇḍa · verse 12",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.13",
+      "label": "6. Laṅkā-kāṇḍa · verse 13",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.14",
+      "label": "6. Laṅkā-kāṇḍa · verse 14",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.15",
+      "label": "6. Laṅkā-kāṇḍa · verse 15",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.16",
+      "label": "6. Laṅkā-kāṇḍa · verse 16",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.17",
+      "label": "6. Laṅkā-kāṇḍa · verse 17",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.18",
+      "label": "6. Laṅkā-kāṇḍa · verse 18",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.19",
+      "label": "6. Laṅkā-kāṇḍa · verse 19",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.20",
+      "label": "6. Laṅkā-kāṇḍa · verse 20",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.21",
+      "label": "6. Laṅkā-kāṇḍa · verse 21",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.22",
+      "label": "6. Laṅkā-kāṇḍa · verse 22",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.23",
+      "label": "6. Laṅkā-kāṇḍa · verse 23",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.24",
+      "label": "6. Laṅkā-kāṇḍa · verse 24",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.25",
+      "label": "6. Laṅkā-kāṇḍa · verse 25",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.26",
+      "label": "6. Laṅkā-kāṇḍa · verse 26",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.27",
+      "label": "6. Laṅkā-kāṇḍa · verse 27",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.28",
+      "label": "6. Laṅkā-kāṇḍa · verse 28",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.29",
+      "label": "6. Laṅkā-kāṇḍa · verse 29",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.30",
+      "label": "6. Laṅkā-kāṇḍa · verse 30",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.31",
+      "label": "6. Laṅkā-kāṇḍa · verse 31",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.32",
+      "label": "6. Laṅkā-kāṇḍa · verse 32",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.33",
+      "label": "6. Laṅkā-kāṇḍa · verse 33",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.34",
+      "label": "6. Laṅkā-kāṇḍa · verse 34",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.35",
+      "label": "6. Laṅkā-kāṇḍa · verse 35",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.36",
+      "label": "6. Laṅkā-kāṇḍa · verse 36",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.37",
+      "label": "6. Laṅkā-kāṇḍa · verse 37",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.38",
+      "label": "6. Laṅkā-kāṇḍa · verse 38",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.39",
+      "label": "6. Laṅkā-kāṇḍa · verse 39",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.40",
+      "label": "6. Laṅkā-kāṇḍa · verse 40",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.41",
+      "label": "6. Laṅkā-kāṇḍa · verse 41",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.42",
+      "label": "6. Laṅkā-kāṇḍa · verse 42",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.43",
+      "label": "6. Laṅkā-kāṇḍa · verse 43",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.44",
+      "label": "6. Laṅkā-kāṇḍa · verse 44",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.45",
+      "label": "6. Laṅkā-kāṇḍa · verse 45",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.46",
+      "label": "6. Laṅkā-kāṇḍa · verse 46",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.47",
+      "label": "6. Laṅkā-kāṇḍa · verse 47",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.48",
+      "label": "6. Laṅkā-kāṇḍa · verse 48",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.49",
+      "label": "6. Laṅkā-kāṇḍa · verse 49",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.50",
+      "label": "6. Laṅkā-kāṇḍa · verse 50",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.51",
+      "label": "6. Laṅkā-kāṇḍa · verse 51",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.52",
+      "label": "6. Laṅkā-kāṇḍa · verse 52",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.53",
+      "label": "6. Laṅkā-kāṇḍa · verse 53",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.54",
+      "label": "6. Laṅkā-kāṇḍa · verse 54",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.55",
+      "label": "6. Laṅkā-kāṇḍa · verse 55",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.56",
+      "label": "6. Laṅkā-kāṇḍa · verse 56",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.57",
+      "label": "6. Laṅkā-kāṇḍa · verse 57",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.58",
+      "label": "6. Laṅkā-kāṇḍa · verse 58",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.59",
+      "label": "6. Laṅkā-kāṇḍa · verse 59",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.60",
+      "label": "6. Laṅkā-kāṇḍa · verse 60",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.61",
+      "label": "6. Laṅkā-kāṇḍa · verse 61",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.62",
+      "label": "6. Laṅkā-kāṇḍa · verse 62",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.63",
+      "label": "6. Laṅkā-kāṇḍa · verse 63",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.64",
+      "label": "6. Laṅkā-kāṇḍa · verse 64",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.65",
+      "label": "6. Laṅkā-kāṇḍa · verse 65",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.66",
+      "label": "6. Laṅkā-kāṇḍa · verse 66",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.67",
+      "label": "6. Laṅkā-kāṇḍa · verse 67",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.68",
+      "label": "6. Laṅkā-kāṇḍa · verse 68",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.69",
+      "label": "6. Laṅkā-kāṇḍa · verse 69",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.70",
+      "label": "6. Laṅkā-kāṇḍa · verse 70",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.71",
+      "label": "6. Laṅkā-kāṇḍa · verse 71",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.72",
+      "label": "6. Laṅkā-kāṇḍa · verse 72",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.73",
+      "label": "6. Laṅkā-kāṇḍa · verse 73",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.74",
+      "label": "6. Laṅkā-kāṇḍa · verse 74",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.75",
+      "label": "6. Laṅkā-kāṇḍa · verse 75",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.76",
+      "label": "6. Laṅkā-kāṇḍa · verse 76",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.77",
+      "label": "6. Laṅkā-kāṇḍa · verse 77",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.78",
+      "label": "6. Laṅkā-kāṇḍa · verse 78",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.79",
+      "label": "6. Laṅkā-kāṇḍa · verse 79",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.80",
+      "label": "6. Laṅkā-kāṇḍa · verse 80",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.81",
+      "label": "6. Laṅkā-kāṇḍa · verse 81",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.82",
+      "label": "6. Laṅkā-kāṇḍa · verse 82",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.83",
+      "label": "6. Laṅkā-kāṇḍa · verse 83",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.84",
+      "label": "6. Laṅkā-kāṇḍa · verse 84",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.85",
+      "label": "6. Laṅkā-kāṇḍa · verse 85",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.86",
+      "label": "6. Laṅkā-kāṇḍa · verse 86",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.87",
+      "label": "6. Laṅkā-kāṇḍa · verse 87",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.88",
+      "label": "6. Laṅkā-kāṇḍa · verse 88",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.89",
+      "label": "6. Laṅkā-kāṇḍa · verse 89",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.90",
+      "label": "6. Laṅkā-kāṇḍa · verse 90",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.91",
+      "label": "6. Laṅkā-kāṇḍa · verse 91",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.92",
+      "label": "6. Laṅkā-kāṇḍa · verse 92",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.93",
+      "label": "6. Laṅkā-kāṇḍa · verse 93",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.94",
+      "label": "6. Laṅkā-kāṇḍa · verse 94",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.95",
+      "label": "6. Laṅkā-kāṇḍa · verse 95",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.96",
+      "label": "6. Laṅkā-kāṇḍa · verse 96",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.97",
+      "label": "6. Laṅkā-kāṇḍa · verse 97",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.98",
+      "label": "6. Laṅkā-kāṇḍa · verse 98",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.99",
+      "label": "6. Laṅkā-kāṇḍa · verse 99",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.100",
+      "label": "6. Laṅkā-kāṇḍa · verse 100",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.101",
+      "label": "6. Laṅkā-kāṇḍa · verse 101",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.102",
+      "label": "6. Laṅkā-kāṇḍa · verse 102",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.103",
+      "label": "6. Laṅkā-kāṇḍa · verse 103",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.104",
+      "label": "6. Laṅkā-kāṇḍa · verse 104",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.105",
+      "label": "6. Laṅkā-kāṇḍa · verse 105",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.106",
+      "label": "6. Laṅkā-kāṇḍa · verse 106",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.107",
+      "label": "6. Laṅkā-kāṇḍa · verse 107",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.108",
+      "label": "6. Laṅkā-kāṇḍa · verse 108",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.109",
+      "label": "6. Laṅkā-kāṇḍa · verse 109",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.110",
+      "label": "6. Laṅkā-kāṇḍa · verse 110",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.111",
+      "label": "6. Laṅkā-kāṇḍa · verse 111",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.112",
+      "label": "6. Laṅkā-kāṇḍa · verse 112",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.113",
+      "label": "6. Laṅkā-kāṇḍa · verse 113",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.114",
+      "label": "6. Laṅkā-kāṇḍa · verse 114",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.115",
+      "label": "6. Laṅkā-kāṇḍa · verse 115",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.116",
+      "label": "6. Laṅkā-kāṇḍa · verse 116",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.117",
+      "label": "6. Laṅkā-kāṇḍa · verse 117",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.118",
+      "label": "6. Laṅkā-kāṇḍa · verse 118",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.119",
+      "label": "6. Laṅkā-kāṇḍa · verse 119",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.120",
+      "label": "6. Laṅkā-kāṇḍa · verse 120",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.121",
+      "label": "6. Laṅkā-kāṇḍa · verse 121",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "7.1",
+      "label": "7. Uttara-kāṇḍa · verse 1",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.2",
+      "label": "7. Uttara-kāṇḍa · verse 2",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.3",
+      "label": "7. Uttara-kāṇḍa · verse 3",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.4",
+      "label": "7. Uttara-kāṇḍa · verse 4",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.5",
+      "label": "7. Uttara-kāṇḍa · verse 5",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.6",
+      "label": "7. Uttara-kāṇḍa · verse 6",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.7",
+      "label": "7. Uttara-kāṇḍa · verse 7",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.8",
+      "label": "7. Uttara-kāṇḍa · verse 8",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.9",
+      "label": "7. Uttara-kāṇḍa · verse 9",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.10",
+      "label": "7. Uttara-kāṇḍa · verse 10",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.11",
+      "label": "7. Uttara-kāṇḍa · verse 11",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.12",
+      "label": "7. Uttara-kāṇḍa · verse 12",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.13",
+      "label": "7. Uttara-kāṇḍa · verse 13",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.14",
+      "label": "7. Uttara-kāṇḍa · verse 14",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.15",
+      "label": "7. Uttara-kāṇḍa · verse 15",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.16",
+      "label": "7. Uttara-kāṇḍa · verse 16",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.17",
+      "label": "7. Uttara-kāṇḍa · verse 17",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.18",
+      "label": "7. Uttara-kāṇḍa · verse 18",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.19",
+      "label": "7. Uttara-kāṇḍa · verse 19",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.20",
+      "label": "7. Uttara-kāṇḍa · verse 20",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.21",
+      "label": "7. Uttara-kāṇḍa · verse 21",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.22",
+      "label": "7. Uttara-kāṇḍa · verse 22",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.23",
+      "label": "7. Uttara-kāṇḍa · verse 23",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.24",
+      "label": "7. Uttara-kāṇḍa · verse 24",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.25",
+      "label": "7. Uttara-kāṇḍa · verse 25",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.26",
+      "label": "7. Uttara-kāṇḍa · verse 26",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.27",
+      "label": "7. Uttara-kāṇḍa · verse 27",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.28",
+      "label": "7. Uttara-kāṇḍa · verse 28",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.29",
+      "label": "7. Uttara-kāṇḍa · verse 29",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.30",
+      "label": "7. Uttara-kāṇḍa · verse 30",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.31",
+      "label": "7. Uttara-kāṇḍa · verse 31",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.32",
+      "label": "7. Uttara-kāṇḍa · verse 32",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.33",
+      "label": "7. Uttara-kāṇḍa · verse 33",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.34",
+      "label": "7. Uttara-kāṇḍa · verse 34",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.35",
+      "label": "7. Uttara-kāṇḍa · verse 35",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.36",
+      "label": "7. Uttara-kāṇḍa · verse 36",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.37",
+      "label": "7. Uttara-kāṇḍa · verse 37",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.38",
+      "label": "7. Uttara-kāṇḍa · verse 38",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.39",
+      "label": "7. Uttara-kāṇḍa · verse 39",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.40",
+      "label": "7. Uttara-kāṇḍa · verse 40",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.41",
+      "label": "7. Uttara-kāṇḍa · verse 41",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.42",
+      "label": "7. Uttara-kāṇḍa · verse 42",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.43",
+      "label": "7. Uttara-kāṇḍa · verse 43",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.44",
+      "label": "7. Uttara-kāṇḍa · verse 44",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.45",
+      "label": "7. Uttara-kāṇḍa · verse 45",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.46",
+      "label": "7. Uttara-kāṇḍa · verse 46",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.47",
+      "label": "7. Uttara-kāṇḍa · verse 47",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.48",
+      "label": "7. Uttara-kāṇḍa · verse 48",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.49",
+      "label": "7. Uttara-kāṇḍa · verse 49",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.50",
+      "label": "7. Uttara-kāṇḍa · verse 50",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.51",
+      "label": "7. Uttara-kāṇḍa · verse 51",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.52",
+      "label": "7. Uttara-kāṇḍa · verse 52",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.53",
+      "label": "7. Uttara-kāṇḍa · verse 53",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.54",
+      "label": "7. Uttara-kāṇḍa · verse 54",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.55",
+      "label": "7. Uttara-kāṇḍa · verse 55",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.56",
+      "label": "7. Uttara-kāṇḍa · verse 56",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.57",
+      "label": "7. Uttara-kāṇḍa · verse 57",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.58",
+      "label": "7. Uttara-kāṇḍa · verse 58",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.59",
+      "label": "7. Uttara-kāṇḍa · verse 59",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.60",
+      "label": "7. Uttara-kāṇḍa · verse 60",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.61",
+      "label": "7. Uttara-kāṇḍa · verse 61",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.62",
+      "label": "7. Uttara-kāṇḍa · verse 62",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.63",
+      "label": "7. Uttara-kāṇḍa · verse 63",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.64",
+      "label": "7. Uttara-kāṇḍa · verse 64",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.65",
+      "label": "7. Uttara-kāṇḍa · verse 65",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.66",
+      "label": "7. Uttara-kāṇḍa · verse 66",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.67",
+      "label": "7. Uttara-kāṇḍa · verse 67",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.68",
+      "label": "7. Uttara-kāṇḍa · verse 68",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.69",
+      "label": "7. Uttara-kāṇḍa · verse 69",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.70",
+      "label": "7. Uttara-kāṇḍa · verse 70",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.71",
+      "label": "7. Uttara-kāṇḍa · verse 71",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.72",
+      "label": "7. Uttara-kāṇḍa · verse 72",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.73",
+      "label": "7. Uttara-kāṇḍa · verse 73",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.74",
+      "label": "7. Uttara-kāṇḍa · verse 74",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.75",
+      "label": "7. Uttara-kāṇḍa · verse 75",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.76",
+      "label": "7. Uttara-kāṇḍa · verse 76",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.77",
+      "label": "7. Uttara-kāṇḍa · verse 77",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.78",
+      "label": "7. Uttara-kāṇḍa · verse 78",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.79",
+      "label": "7. Uttara-kāṇḍa · verse 79",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.80",
+      "label": "7. Uttara-kāṇḍa · verse 80",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.81",
+      "label": "7. Uttara-kāṇḍa · verse 81",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.82",
+      "label": "7. Uttara-kāṇḍa · verse 82",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.83",
+      "label": "7. Uttara-kāṇḍa · verse 83",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.84",
+      "label": "7. Uttara-kāṇḍa · verse 84",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.85",
+      "label": "7. Uttara-kāṇḍa · verse 85",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.86",
+      "label": "7. Uttara-kāṇḍa · verse 86",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.87",
+      "label": "7. Uttara-kāṇḍa · verse 87",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.88",
+      "label": "7. Uttara-kāṇḍa · verse 88",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.89",
+      "label": "7. Uttara-kāṇḍa · verse 89",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.90",
+      "label": "7. Uttara-kāṇḍa · verse 90",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.91",
+      "label": "7. Uttara-kāṇḍa · verse 91",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.92",
+      "label": "7. Uttara-kāṇḍa · verse 92",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.93",
+      "label": "7. Uttara-kāṇḍa · verse 93",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.94",
+      "label": "7. Uttara-kāṇḍa · verse 94",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.95",
+      "label": "7. Uttara-kāṇḍa · verse 95",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.96",
+      "label": "7. Uttara-kāṇḍa · verse 96",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.97",
+      "label": "7. Uttara-kāṇḍa · verse 97",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.98",
+      "label": "7. Uttara-kāṇḍa · verse 98",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.99",
+      "label": "7. Uttara-kāṇḍa · verse 99",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.100",
+      "label": "7. Uttara-kāṇḍa · verse 100",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.101",
+      "label": "7. Uttara-kāṇḍa · verse 101",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.102",
+      "label": "7. Uttara-kāṇḍa · verse 102",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.103",
+      "label": "7. Uttara-kāṇḍa · verse 103",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.104",
+      "label": "7. Uttara-kāṇḍa · verse 104",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.105",
+      "label": "7. Uttara-kāṇḍa · verse 105",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.106",
+      "label": "7. Uttara-kāṇḍa · verse 106",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.107",
+      "label": "7. Uttara-kāṇḍa · verse 107",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.108",
+      "label": "7. Uttara-kāṇḍa · verse 108",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.109",
+      "label": "7. Uttara-kāṇḍa · verse 109",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.110",
+      "label": "7. Uttara-kāṇḍa · verse 110",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.111",
+      "label": "7. Uttara-kāṇḍa · verse 111",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.112",
+      "label": "7. Uttara-kāṇḍa · verse 112",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.113",
+      "label": "7. Uttara-kāṇḍa · verse 113",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.114",
+      "label": "7. Uttara-kāṇḍa · verse 114",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.115",
+      "label": "7. Uttara-kāṇḍa · verse 115",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.116",
+      "label": "7. Uttara-kāṇḍa · verse 116",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.117",
+      "label": "7. Uttara-kāṇḍa · verse 117",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.118",
+      "label": "7. Uttara-kāṇḍa · verse 118",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.119",
+      "label": "7. Uttara-kāṇḍa · verse 119",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.120",
+      "label": "7. Uttara-kāṇḍa · verse 120",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.121",
+      "label": "7. Uttara-kāṇḍa · verse 121",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.122",
+      "label": "7. Uttara-kāṇḍa · verse 122",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.123",
+      "label": "7. Uttara-kāṇḍa · verse 123",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.124",
+      "label": "7. Uttara-kāṇḍa · verse 124",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.125",
+      "label": "7. Uttara-kāṇḍa · verse 125",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.126",
+      "label": "7. Uttara-kāṇḍa · verse 126",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.127",
+      "label": "7. Uttara-kāṇḍa · verse 127",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.128",
+      "label": "7. Uttara-kāṇḍa · verse 128",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.129",
+      "label": "7. Uttara-kāṇḍa · verse 129",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.130",
+      "label": "7. Uttara-kāṇḍa · verse 130",
+      "chapterRef": "7"
+    }
+  ],
+  "editions": [
+    {
+      "slug": "sri-ramcaritmanas-tulsidas-rcm-sa",
+      "language": "awa",
+      "editionType": "original",
+      "title": "Śrī Rāmcaritmānas (Tulsīdās) (Heritage Scripture Server transcription)",
+      "translator": "",
+      "publisher": "Heritage IITKanpur, Heritage Scripture Server",
+      "publicationYear": null,
+      "source": "gita-supersite",
+      "license": "hcal-1-1",
+      "rightsStatus": "Tier A (the moolam and its transliterations): no modern copyright, freely redistributable. Where the API serves Tier B — the Sanskrit bhāṣya and the AI-generated, community and editorially authored translations — it is displayed non-commercially with attribution and is not relicensed here. Tier C, the authoritative modern-language translations and commentaries, is not served by the API and is not imported.",
+      "attributionText": "Śrī Rāmcaritmānas (Tulsīdās), Goswāmī Tulsīdās. Accessed via Heritage Scripture Server (heritage.iitk.ac.in), licence HCAL-1.1. Source: https://heritage.iitk.ac.in/RCM",
+      "structureScheme": "chapter and verse, as the server's own sections and verse addresses divide the text",
+      "isSample": false,
+      "notes": "The verse index was built from the server's published verse addresses. The verses themselves are fetched from the API at read time and are shown with the licence's attribution; the licence identifier and any watermark the server returns are left in place."
+    }
+  ]
+}

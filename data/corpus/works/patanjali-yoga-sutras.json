@@ -1,0 +1,2666 @@
+{
+  "slug": "patanjali-yoga-sutras",
+  "title": "The Yoga Sutras of Patanjali",
+  "originalTitle": "योगसूत्र",
+  "transliteration": "Yogasūtra",
+  "altTitles": [],
+  "tradition": "hinduism",
+  "school": "yoga",
+  "genre": "Philosophy",
+  "textType": "Aphorisms with commentary",
+  "category": "Philosophy",
+  "subcategory": "Yoga",
+  "originalLanguage": "sa",
+  "dateStart": -200,
+  "dateEnd": 400,
+  "dateDisplay": "c. 2nd century BCE–4th century CE",
+  "authorshipStatus": "composite",
+  "author": "patanjali",
+  "attributionNote": "Traditionally ascribed to Patanjali. The text was probably compiled from earlier material over several centuries, and its classical commentary is later than the sutras themselves.",
+  "description": "The four books of the Yoga Sutras set out the discipline of stilling the mind: the modifications of consciousness, the obstacles to practice, the powers that follow concentration, and the isolation of the seer from what is seen. Charles Johnston's 1912 edition prints each sutra with an interpretive commentary.",
+  "historicalContext": "The foundational text of the Yoga school, composed in Sanskrit and transmitted with a commentary attributed to Vyasa. Johnston's edition was written for general readers and presents the sutras as a sequence of spiritual aphorisms rather than as a philological edition.",
+  "availabilityNote": "Streamed from Project Gutenberg at read time: the whole plain-text edition is fetched and split at the chapter headings it prints. The 1912 translation by Charles Johnston is public domain in the United States.",
+  "featured": false,
+  "featuredNote": "",
+  "refScheme": "chapter.paragraph",
+  "isSample": false,
+  "textStorage": "streamed",
+  "chapters": [
+    {
+      "ref": "1",
+      "label": "Book I — Samadhi Pada"
+    },
+    {
+      "ref": "2",
+      "label": "Book II — Sadhana Pada"
+    },
+    {
+      "ref": "3",
+      "label": "Book III — Vibhuti Pada"
+    },
+    {
+      "ref": "4",
+      "label": "Book IV — Kaivalya Pada"
+    }
+  ],
+  "passages": [
+    {
+      "reference": "1.1",
+      "label": "Book I — Samadhi Pada §1",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.2",
+      "label": "Book I — Samadhi Pada §2",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.3",
+      "label": "Book I — Samadhi Pada §3",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.4",
+      "label": "Book I — Samadhi Pada §4",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.5",
+      "label": "Book I — Samadhi Pada §5",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.6",
+      "label": "Book I — Samadhi Pada §6",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.7",
+      "label": "Book I — Samadhi Pada §7",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.8",
+      "label": "Book I — Samadhi Pada §8",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.9",
+      "label": "Book I — Samadhi Pada §9",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.10",
+      "label": "Book I — Samadhi Pada §10",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.11",
+      "label": "Book I — Samadhi Pada §11",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.12",
+      "label": "Book I — Samadhi Pada §12",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.13",
+      "label": "Book I — Samadhi Pada §13",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.14",
+      "label": "Book I — Samadhi Pada §14",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.15",
+      "label": "Book I — Samadhi Pada §15",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.16",
+      "label": "Book I — Samadhi Pada §16",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.17",
+      "label": "Book I — Samadhi Pada §17",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.18",
+      "label": "Book I — Samadhi Pada §18",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.19",
+      "label": "Book I — Samadhi Pada §19",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.20",
+      "label": "Book I — Samadhi Pada §20",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.21",
+      "label": "Book I — Samadhi Pada §21",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.22",
+      "label": "Book I — Samadhi Pada §22",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.23",
+      "label": "Book I — Samadhi Pada §23",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.24",
+      "label": "Book I — Samadhi Pada §24",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.25",
+      "label": "Book I — Samadhi Pada §25",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.26",
+      "label": "Book I — Samadhi Pada §26",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.27",
+      "label": "Book I — Samadhi Pada §27",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.28",
+      "label": "Book I — Samadhi Pada §28",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.29",
+      "label": "Book I — Samadhi Pada §29",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.30",
+      "label": "Book I — Samadhi Pada §30",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.31",
+      "label": "Book I — Samadhi Pada §31",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.32",
+      "label": "Book I — Samadhi Pada §32",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.33",
+      "label": "Book I — Samadhi Pada §33",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.34",
+      "label": "Book I — Samadhi Pada §34",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.35",
+      "label": "Book I — Samadhi Pada §35",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.36",
+      "label": "Book I — Samadhi Pada §36",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.37",
+      "label": "Book I — Samadhi Pada §37",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.38",
+      "label": "Book I — Samadhi Pada §38",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.39",
+      "label": "Book I — Samadhi Pada §39",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.40",
+      "label": "Book I — Samadhi Pada §40",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.41",
+      "label": "Book I — Samadhi Pada §41",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.42",
+      "label": "Book I — Samadhi Pada §42",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.43",
+      "label": "Book I — Samadhi Pada §43",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.44",
+      "label": "Book I — Samadhi Pada §44",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.45",
+      "label": "Book I — Samadhi Pada §45",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.46",
+      "label": "Book I — Samadhi Pada §46",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.47",
+      "label": "Book I — Samadhi Pada §47",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.48",
+      "label": "Book I — Samadhi Pada §48",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.49",
+      "label": "Book I — Samadhi Pada §49",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.50",
+      "label": "Book I — Samadhi Pada §50",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.51",
+      "label": "Book I — Samadhi Pada §51",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.52",
+      "label": "Book I — Samadhi Pada §52",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.53",
+      "label": "Book I — Samadhi Pada §53",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.54",
+      "label": "Book I — Samadhi Pada §54",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.55",
+      "label": "Book I — Samadhi Pada §55",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.56",
+      "label": "Book I — Samadhi Pada §56",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.57",
+      "label": "Book I — Samadhi Pada §57",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.58",
+      "label": "Book I — Samadhi Pada §58",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.59",
+      "label": "Book I — Samadhi Pada §59",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.60",
+      "label": "Book I — Samadhi Pada §60",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.61",
+      "label": "Book I — Samadhi Pada §61",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.62",
+      "label": "Book I — Samadhi Pada §62",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.63",
+      "label": "Book I — Samadhi Pada §63",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.64",
+      "label": "Book I — Samadhi Pada §64",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.65",
+      "label": "Book I — Samadhi Pada §65",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.66",
+      "label": "Book I — Samadhi Pada §66",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.67",
+      "label": "Book I — Samadhi Pada §67",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.68",
+      "label": "Book I — Samadhi Pada §68",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.69",
+      "label": "Book I — Samadhi Pada §69",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.70",
+      "label": "Book I — Samadhi Pada §70",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.71",
+      "label": "Book I — Samadhi Pada §71",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.72",
+      "label": "Book I — Samadhi Pada §72",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.73",
+      "label": "Book I — Samadhi Pada §73",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.74",
+      "label": "Book I — Samadhi Pada §74",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.75",
+      "label": "Book I — Samadhi Pada §75",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.76",
+      "label": "Book I — Samadhi Pada §76",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.77",
+      "label": "Book I — Samadhi Pada §77",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.78",
+      "label": "Book I — Samadhi Pada §78",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.79",
+      "label": "Book I — Samadhi Pada §79",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.80",
+      "label": "Book I — Samadhi Pada §80",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.81",
+      "label": "Book I — Samadhi Pada §81",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.82",
+      "label": "Book I — Samadhi Pada §82",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.83",
+      "label": "Book I — Samadhi Pada §83",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.84",
+      "label": "Book I — Samadhi Pada §84",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.85",
+      "label": "Book I — Samadhi Pada §85",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.86",
+      "label": "Book I — Samadhi Pada §86",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.87",
+      "label": "Book I — Samadhi Pada §87",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.88",
+      "label": "Book I — Samadhi Pada §88",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.89",
+      "label": "Book I — Samadhi Pada §89",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.90",
+      "label": "Book I — Samadhi Pada §90",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.91",
+      "label": "Book I — Samadhi Pada §91",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.92",
+      "label": "Book I — Samadhi Pada §92",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.93",
+      "label": "Book I — Samadhi Pada §93",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.94",
+      "label": "Book I — Samadhi Pada §94",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.95",
+      "label": "Book I — Samadhi Pada §95",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.96",
+      "label": "Book I — Samadhi Pada §96",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.97",
+      "label": "Book I — Samadhi Pada §97",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.98",
+      "label": "Book I — Samadhi Pada §98",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.99",
+      "label": "Book I — Samadhi Pada §99",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.100",
+      "label": "Book I — Samadhi Pada §100",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.101",
+      "label": "Book I — Samadhi Pada §101",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.102",
+      "label": "Book I — Samadhi Pada §102",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.103",
+      "label": "Book I — Samadhi Pada §103",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.104",
+      "label": "Book I — Samadhi Pada §104",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.105",
+      "label": "Book I — Samadhi Pada §105",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.106",
+      "label": "Book I — Samadhi Pada §106",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.107",
+      "label": "Book I — Samadhi Pada §107",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.108",
+      "label": "Book I — Samadhi Pada §108",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.109",
+      "label": "Book I — Samadhi Pada §109",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.110",
+      "label": "Book I — Samadhi Pada §110",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.111",
+      "label": "Book I — Samadhi Pada §111",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.112",
+      "label": "Book I — Samadhi Pada §112",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.113",
+      "label": "Book I — Samadhi Pada §113",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.114",
+      "label": "Book I — Samadhi Pada §114",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.115",
+      "label": "Book I — Samadhi Pada §115",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.116",
+      "label": "Book I — Samadhi Pada §116",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "2.1",
+      "label": "Book II — Sadhana Pada §1",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.2",
+      "label": "Book II — Sadhana Pada §2",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.3",
+      "label": "Book II — Sadhana Pada §3",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.4",
+      "label": "Book II — Sadhana Pada §4",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.5",
+      "label": "Book II — Sadhana Pada §5",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.6",
+      "label": "Book II — Sadhana Pada §6",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.7",
+      "label": "Book II — Sadhana Pada §7",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.8",
+      "label": "Book II — Sadhana Pada §8",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.9",
+      "label": "Book II — Sadhana Pada §9",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.10",
+      "label": "Book II — Sadhana Pada §10",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.11",
+      "label": "Book II — Sadhana Pada §11",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.12",
+      "label": "Book II — Sadhana Pada §12",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.13",
+      "label": "Book II — Sadhana Pada §13",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.14",
+      "label": "Book II — Sadhana Pada §14",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.15",
+      "label": "Book II — Sadhana Pada §15",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.16",
+      "label": "Book II — Sadhana Pada §16",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.17",
+      "label": "Book II — Sadhana Pada §17",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.18",
+      "label": "Book II — Sadhana Pada §18",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.19",
+      "label": "Book II — Sadhana Pada §19",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.20",
+      "label": "Book II — Sadhana Pada §20",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.21",
+      "label": "Book II — Sadhana Pada §21",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.22",
+      "label": "Book II — Sadhana Pada §22",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.23",
+      "label": "Book II — Sadhana Pada §23",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.24",
+      "label": "Book II — Sadhana Pada §24",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.25",
+      "label": "Book II — Sadhana Pada §25",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.26",
+      "label": "Book II — Sadhana Pada §26",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.27",
+      "label": "Book II — Sadhana Pada §27",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.28",
+      "label": "Book II — Sadhana Pada §28",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.29",
+      "label": "Book II — Sadhana Pada §29",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.30",
+      "label": "Book II — Sadhana Pada §30",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.31",
+      "label": "Book II — Sadhana Pada §31",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.32",
+      "label": "Book II — Sadhana Pada §32",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.33",
+      "label": "Book II — Sadhana Pada §33",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.34",
+      "label": "Book II — Sadhana Pada §34",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.35",
+      "label": "Book II — Sadhana Pada §35",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.36",
+      "label": "Book II — Sadhana Pada §36",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.37",
+      "label": "Book II — Sadhana Pada §37",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.38",
+      "label": "Book II — Sadhana Pada §38",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.39",
+      "label": "Book II — Sadhana Pada §39",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.40",
+      "label": "Book II — Sadhana Pada §40",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.41",
+      "label": "Book II — Sadhana Pada §41",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.42",
+      "label": "Book II — Sadhana Pada §42",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.43",
+      "label": "Book II — Sadhana Pada §43",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.44",
+      "label": "Book II — Sadhana Pada §44",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.45",
+      "label": "Book II — Sadhana Pada §45",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.46",
+      "label": "Book II — Sadhana Pada §46",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.47",
+      "label": "Book II — Sadhana Pada §47",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.48",
+      "label": "Book II — Sadhana Pada §48",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.49",
+      "label": "Book II — Sadhana Pada §49",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.50",
+      "label": "Book II — Sadhana Pada §50",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.51",
+      "label": "Book II — Sadhana Pada §51",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.52",
+      "label": "Book II — Sadhana Pada §52",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.53",
+      "label": "Book II — Sadhana Pada §53",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.54",
+      "label": "Book II — Sadhana Pada §54",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.55",
+      "label": "Book II — Sadhana Pada §55",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.56",
+      "label": "Book II — Sadhana Pada §56",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.57",
+      "label": "Book II — Sadhana Pada §57",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.58",
+      "label": "Book II — Sadhana Pada §58",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.59",
+      "label": "Book II — Sadhana Pada §59",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.60",
+      "label": "Book II — Sadhana Pada §60",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.61",
+      "label": "Book II — Sadhana Pada §61",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.62",
+      "label": "Book II — Sadhana Pada §62",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.63",
+      "label": "Book II — Sadhana Pada §63",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.64",
+      "label": "Book II — Sadhana Pada §64",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.65",
+      "label": "Book II — Sadhana Pada §65",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.66",
+      "label": "Book II — Sadhana Pada §66",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.67",
+      "label": "Book II — Sadhana Pada §67",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.68",
+      "label": "Book II — Sadhana Pada §68",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.69",
+      "label": "Book II — Sadhana Pada §69",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.70",
+      "label": "Book II — Sadhana Pada §70",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.71",
+      "label": "Book II — Sadhana Pada §71",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.72",
+      "label": "Book II — Sadhana Pada §72",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.73",
+      "label": "Book II — Sadhana Pada §73",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.74",
+      "label": "Book II — Sadhana Pada §74",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.75",
+      "label": "Book II — Sadhana Pada §75",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.76",
+      "label": "Book II — Sadhana Pada §76",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.77",
+      "label": "Book II — Sadhana Pada §77",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.78",
+      "label": "Book II — Sadhana Pada §78",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.79",
+      "label": "Book II — Sadhana Pada §79",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.80",
+      "label": "Book II — Sadhana Pada §80",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.81",
+      "label": "Book II — Sadhana Pada §81",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.82",
+      "label": "Book II — Sadhana Pada §82",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.83",
+      "label": "Book II — Sadhana Pada §83",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.84",
+      "label": "Book II — Sadhana Pada §84",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.85",
+      "label": "Book II — Sadhana Pada §85",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.86",
+      "label": "Book II — Sadhana Pada §86",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.87",
+      "label": "Book II — Sadhana Pada §87",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.88",
+      "label": "Book II — Sadhana Pada §88",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.89",
+      "label": "Book II — Sadhana Pada §89",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.90",
+      "label": "Book II — Sadhana Pada §90",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.91",
+      "label": "Book II — Sadhana Pada §91",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.92",
+      "label": "Book II — Sadhana Pada §92",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.93",
+      "label": "Book II — Sadhana Pada §93",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.94",
+      "label": "Book II — Sadhana Pada §94",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.95",
+      "label": "Book II — Sadhana Pada §95",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.96",
+      "label": "Book II — Sadhana Pada §96",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.97",
+      "label": "Book II — Sadhana Pada §97",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.98",
+      "label": "Book II — Sadhana Pada §98",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.99",
+      "label": "Book II — Sadhana Pada §99",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.100",
+      "label": "Book II — Sadhana Pada §100",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.101",
+      "label": "Book II — Sadhana Pada §101",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.102",
+      "label": "Book II — Sadhana Pada §102",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.103",
+      "label": "Book II — Sadhana Pada §103",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.104",
+      "label": "Book II — Sadhana Pada §104",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.105",
+      "label": "Book II — Sadhana Pada §105",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.106",
+      "label": "Book II — Sadhana Pada §106",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.107",
+      "label": "Book II — Sadhana Pada §107",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.108",
+      "label": "Book II — Sadhana Pada §108",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.109",
+      "label": "Book II — Sadhana Pada §109",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.110",
+      "label": "Book II — Sadhana Pada §110",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.111",
+      "label": "Book II — Sadhana Pada §111",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.112",
+      "label": "Book II — Sadhana Pada §112",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.113",
+      "label": "Book II — Sadhana Pada §113",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.114",
+      "label": "Book II — Sadhana Pada §114",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.115",
+      "label": "Book II — Sadhana Pada §115",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.116",
+      "label": "Book II — Sadhana Pada §116",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.117",
+      "label": "Book II — Sadhana Pada §117",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.118",
+      "label": "Book II — Sadhana Pada §118",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.119",
+      "label": "Book II — Sadhana Pada §119",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.120",
+      "label": "Book II — Sadhana Pada §120",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.121",
+      "label": "Book II — Sadhana Pada §121",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.122",
+      "label": "Book II — Sadhana Pada §122",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.123",
+      "label": "Book II — Sadhana Pada §123",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.124",
+      "label": "Book II — Sadhana Pada §124",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.125",
+      "label": "Book II — Sadhana Pada §125",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.126",
+      "label": "Book II — Sadhana Pada §126",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.127",
+      "label": "Book II — Sadhana Pada §127",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.128",
+      "label": "Book II — Sadhana Pada §128",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.129",
+      "label": "Book II — Sadhana Pada §129",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.130",
+      "label": "Book II — Sadhana Pada §130",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.131",
+      "label": "Book II — Sadhana Pada §131",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.132",
+      "label": "Book II — Sadhana Pada §132",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.133",
+      "label": "Book II — Sadhana Pada §133",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.134",
+      "label": "Book II — Sadhana Pada §134",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.135",
+      "label": "Book II — Sadhana Pada §135",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.136",
+      "label": "Book II — Sadhana Pada §136",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.137",
+      "label": "Book II — Sadhana Pada §137",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.138",
+      "label": "Book II — Sadhana Pada §138",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.139",
+      "label": "Book II — Sadhana Pada §139",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.140",
+      "label": "Book II — Sadhana Pada §140",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.141",
+      "label": "Book II — Sadhana Pada §141",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "3.1",
+      "label": "Book III — Vibhuti Pada §1",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.2",
+      "label": "Book III — Vibhuti Pada §2",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.3",
+      "label": "Book III — Vibhuti Pada §3",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.4",
+      "label": "Book III — Vibhuti Pada §4",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.5",
+      "label": "Book III — Vibhuti Pada §5",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.6",
+      "label": "Book III — Vibhuti Pada §6",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.7",
+      "label": "Book III — Vibhuti Pada §7",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.8",
+      "label": "Book III — Vibhuti Pada §8",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.9",
+      "label": "Book III — Vibhuti Pada §9",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.10",
+      "label": "Book III — Vibhuti Pada §10",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.11",
+      "label": "Book III — Vibhuti Pada §11",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.12",
+      "label": "Book III — Vibhuti Pada §12",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.13",
+      "label": "Book III — Vibhuti Pada §13",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.14",
+      "label": "Book III — Vibhuti Pada §14",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.15",
+      "label": "Book III — Vibhuti Pada §15",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.16",
+      "label": "Book III — Vibhuti Pada §16",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.17",
+      "label": "Book III — Vibhuti Pada §17",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.18",
+      "label": "Book III — Vibhuti Pada §18",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.19",
+      "label": "Book III — Vibhuti Pada §19",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.20",
+      "label": "Book III — Vibhuti Pada §20",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.21",
+      "label": "Book III — Vibhuti Pada §21",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.22",
+      "label": "Book III — Vibhuti Pada §22",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.23",
+      "label": "Book III — Vibhuti Pada §23",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.24",
+      "label": "Book III — Vibhuti Pada §24",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.25",
+      "label": "Book III — Vibhuti Pada §25",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.26",
+      "label": "Book III — Vibhuti Pada §26",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.27",
+      "label": "Book III — Vibhuti Pada §27",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.28",
+      "label": "Book III — Vibhuti Pada §28",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.29",
+      "label": "Book III — Vibhuti Pada §29",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.30",
+      "label": "Book III — Vibhuti Pada §30",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.31",
+      "label": "Book III — Vibhuti Pada §31",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.32",
+      "label": "Book III — Vibhuti Pada §32",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.33",
+      "label": "Book III — Vibhuti Pada §33",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.34",
+      "label": "Book III — Vibhuti Pada §34",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.35",
+      "label": "Book III — Vibhuti Pada §35",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.36",
+      "label": "Book III — Vibhuti Pada §36",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.37",
+      "label": "Book III — Vibhuti Pada §37",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.38",
+      "label": "Book III — Vibhuti Pada §38",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.39",
+      "label": "Book III — Vibhuti Pada §39",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.40",
+      "label": "Book III — Vibhuti Pada §40",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.41",
+      "label": "Book III — Vibhuti Pada §41",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.42",
+      "label": "Book III — Vibhuti Pada §42",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.43",
+      "label": "Book III — Vibhuti Pada §43",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.44",
+      "label": "Book III — Vibhuti Pada §44",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.45",
+      "label": "Book III — Vibhuti Pada §45",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.46",
+      "label": "Book III — Vibhuti Pada §46",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.47",
+      "label": "Book III — Vibhuti Pada §47",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.48",
+      "label": "Book III — Vibhuti Pada §48",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.49",
+      "label": "Book III — Vibhuti Pada §49",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.50",
+      "label": "Book III — Vibhuti Pada §50",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.51",
+      "label": "Book III — Vibhuti Pada §51",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.52",
+      "label": "Book III — Vibhuti Pada §52",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.53",
+      "label": "Book III — Vibhuti Pada §53",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.54",
+      "label": "Book III — Vibhuti Pada §54",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.55",
+      "label": "Book III — Vibhuti Pada §55",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.56",
+      "label": "Book III — Vibhuti Pada §56",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.57",
+      "label": "Book III — Vibhuti Pada §57",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.58",
+      "label": "Book III — Vibhuti Pada §58",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.59",
+      "label": "Book III — Vibhuti Pada §59",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.60",
+      "label": "Book III — Vibhuti Pada §60",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.61",
+      "label": "Book III — Vibhuti Pada §61",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.62",
+      "label": "Book III — Vibhuti Pada §62",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.63",
+      "label": "Book III — Vibhuti Pada §63",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.64",
+      "label": "Book III — Vibhuti Pada §64",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.65",
+      "label": "Book III — Vibhuti Pada §65",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.66",
+      "label": "Book III — Vibhuti Pada §66",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.67",
+      "label": "Book III — Vibhuti Pada §67",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.68",
+      "label": "Book III — Vibhuti Pada §68",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.69",
+      "label": "Book III — Vibhuti Pada §69",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.70",
+      "label": "Book III — Vibhuti Pada §70",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.71",
+      "label": "Book III — Vibhuti Pada §71",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.72",
+      "label": "Book III — Vibhuti Pada §72",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.73",
+      "label": "Book III — Vibhuti Pada §73",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.74",
+      "label": "Book III — Vibhuti Pada §74",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.75",
+      "label": "Book III — Vibhuti Pada §75",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.76",
+      "label": "Book III — Vibhuti Pada §76",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.77",
+      "label": "Book III — Vibhuti Pada §77",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.78",
+      "label": "Book III — Vibhuti Pada §78",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.79",
+      "label": "Book III — Vibhuti Pada §79",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.80",
+      "label": "Book III — Vibhuti Pada §80",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.81",
+      "label": "Book III — Vibhuti Pada §81",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.82",
+      "label": "Book III — Vibhuti Pada §82",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.83",
+      "label": "Book III — Vibhuti Pada §83",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.84",
+      "label": "Book III — Vibhuti Pada §84",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.85",
+      "label": "Book III — Vibhuti Pada §85",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.86",
+      "label": "Book III — Vibhuti Pada §86",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.87",
+      "label": "Book III — Vibhuti Pada §87",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.88",
+      "label": "Book III — Vibhuti Pada §88",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.89",
+      "label": "Book III — Vibhuti Pada §89",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.90",
+      "label": "Book III — Vibhuti Pada §90",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.91",
+      "label": "Book III — Vibhuti Pada §91",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.92",
+      "label": "Book III — Vibhuti Pada §92",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.93",
+      "label": "Book III — Vibhuti Pada §93",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.94",
+      "label": "Book III — Vibhuti Pada §94",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.95",
+      "label": "Book III — Vibhuti Pada §95",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.96",
+      "label": "Book III — Vibhuti Pada §96",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.97",
+      "label": "Book III — Vibhuti Pada §97",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.98",
+      "label": "Book III — Vibhuti Pada §98",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.99",
+      "label": "Book III — Vibhuti Pada §99",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.100",
+      "label": "Book III — Vibhuti Pada §100",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.101",
+      "label": "Book III — Vibhuti Pada §101",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.102",
+      "label": "Book III — Vibhuti Pada §102",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.103",
+      "label": "Book III — Vibhuti Pada §103",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.104",
+      "label": "Book III — Vibhuti Pada §104",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.105",
+      "label": "Book III — Vibhuti Pada §105",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.106",
+      "label": "Book III — Vibhuti Pada §106",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.107",
+      "label": "Book III — Vibhuti Pada §107",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.108",
+      "label": "Book III — Vibhuti Pada §108",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.109",
+      "label": "Book III — Vibhuti Pada §109",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.110",
+      "label": "Book III — Vibhuti Pada §110",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.111",
+      "label": "Book III — Vibhuti Pada §111",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.112",
+      "label": "Book III — Vibhuti Pada §112",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.113",
+      "label": "Book III — Vibhuti Pada §113",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.114",
+      "label": "Book III — Vibhuti Pada §114",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.115",
+      "label": "Book III — Vibhuti Pada §115",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.116",
+      "label": "Book III — Vibhuti Pada §116",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.117",
+      "label": "Book III — Vibhuti Pada §117",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.118",
+      "label": "Book III — Vibhuti Pada §118",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.119",
+      "label": "Book III — Vibhuti Pada §119",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.120",
+      "label": "Book III — Vibhuti Pada §120",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.121",
+      "label": "Book III — Vibhuti Pada §121",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.122",
+      "label": "Book III — Vibhuti Pada §122",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.123",
+      "label": "Book III — Vibhuti Pada §123",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.124",
+      "label": "Book III — Vibhuti Pada §124",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.125",
+      "label": "Book III — Vibhuti Pada §125",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.126",
+      "label": "Book III — Vibhuti Pada §126",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.127",
+      "label": "Book III — Vibhuti Pada §127",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.128",
+      "label": "Book III — Vibhuti Pada §128",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.129",
+      "label": "Book III — Vibhuti Pada §129",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.130",
+      "label": "Book III — Vibhuti Pada §130",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.131",
+      "label": "Book III — Vibhuti Pada §131",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.132",
+      "label": "Book III — Vibhuti Pada §132",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.133",
+      "label": "Book III — Vibhuti Pada §133",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.134",
+      "label": "Book III — Vibhuti Pada §134",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.135",
+      "label": "Book III — Vibhuti Pada §135",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.136",
+      "label": "Book III — Vibhuti Pada §136",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.137",
+      "label": "Book III — Vibhuti Pada §137",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.138",
+      "label": "Book III — Vibhuti Pada §138",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.139",
+      "label": "Book III — Vibhuti Pada §139",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.140",
+      "label": "Book III — Vibhuti Pada §140",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "4.1",
+      "label": "Book IV — Kaivalya Pada §1",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.2",
+      "label": "Book IV — Kaivalya Pada §2",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.3",
+      "label": "Book IV — Kaivalya Pada §3",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.4",
+      "label": "Book IV — Kaivalya Pada §4",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.5",
+      "label": "Book IV — Kaivalya Pada §5",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.6",
+      "label": "Book IV — Kaivalya Pada §6",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.7",
+      "label": "Book IV — Kaivalya Pada §7",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.8",
+      "label": "Book IV — Kaivalya Pada §8",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.9",
+      "label": "Book IV — Kaivalya Pada §9",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.10",
+      "label": "Book IV — Kaivalya Pada §10",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.11",
+      "label": "Book IV — Kaivalya Pada §11",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.12",
+      "label": "Book IV — Kaivalya Pada §12",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.13",
+      "label": "Book IV — Kaivalya Pada §13",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.14",
+      "label": "Book IV — Kaivalya Pada §14",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.15",
+      "label": "Book IV — Kaivalya Pada §15",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.16",
+      "label": "Book IV — Kaivalya Pada §16",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.17",
+      "label": "Book IV — Kaivalya Pada §17",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.18",
+      "label": "Book IV — Kaivalya Pada §18",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.19",
+      "label": "Book IV — Kaivalya Pada §19",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.20",
+      "label": "Book IV — Kaivalya Pada §20",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.21",
+      "label": "Book IV — Kaivalya Pada §21",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.22",
+      "label": "Book IV — Kaivalya Pada §22",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.23",
+      "label": "Book IV — Kaivalya Pada §23",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.24",
+      "label": "Book IV — Kaivalya Pada §24",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.25",
+      "label": "Book IV — Kaivalya Pada §25",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.26",
+      "label": "Book IV — Kaivalya Pada §26",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.27",
+      "label": "Book IV — Kaivalya Pada §27",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.28",
+      "label": "Book IV — Kaivalya Pada §28",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.29",
+      "label": "Book IV — Kaivalya Pada §29",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.30",
+      "label": "Book IV — Kaivalya Pada §30",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.31",
+      "label": "Book IV — Kaivalya Pada §31",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.32",
+      "label": "Book IV — Kaivalya Pada §32",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.33",
+      "label": "Book IV — Kaivalya Pada §33",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.34",
+      "label": "Book IV — Kaivalya Pada §34",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.35",
+      "label": "Book IV — Kaivalya Pada §35",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.36",
+      "label": "Book IV — Kaivalya Pada §36",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.37",
+      "label": "Book IV — Kaivalya Pada §37",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.38",
+      "label": "Book IV — Kaivalya Pada §38",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.39",
+      "label": "Book IV — Kaivalya Pada §39",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.40",
+      "label": "Book IV — Kaivalya Pada §40",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.41",
+      "label": "Book IV — Kaivalya Pada §41",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.42",
+      "label": "Book IV — Kaivalya Pada §42",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.43",
+      "label": "Book IV — Kaivalya Pada §43",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.44",
+      "label": "Book IV — Kaivalya Pada §44",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.45",
+      "label": "Book IV — Kaivalya Pada §45",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.46",
+      "label": "Book IV — Kaivalya Pada §46",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.47",
+      "label": "Book IV — Kaivalya Pada §47",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.48",
+      "label": "Book IV — Kaivalya Pada §48",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.49",
+      "label": "Book IV — Kaivalya Pada §49",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.50",
+      "label": "Book IV — Kaivalya Pada §50",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.51",
+      "label": "Book IV — Kaivalya Pada §51",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.52",
+      "label": "Book IV — Kaivalya Pada §52",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.53",
+      "label": "Book IV — Kaivalya Pada §53",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.54",
+      "label": "Book IV — Kaivalya Pada §54",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.55",
+      "label": "Book IV — Kaivalya Pada §55",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.56",
+      "label": "Book IV — Kaivalya Pada §56",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.57",
+      "label": "Book IV — Kaivalya Pada §57",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.58",
+      "label": "Book IV — Kaivalya Pada §58",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.59",
+      "label": "Book IV — Kaivalya Pada §59",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.60",
+      "label": "Book IV — Kaivalya Pada §60",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.61",
+      "label": "Book IV — Kaivalya Pada §61",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.62",
+      "label": "Book IV — Kaivalya Pada §62",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.63",
+      "label": "Book IV — Kaivalya Pada §63",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.64",
+      "label": "Book IV — Kaivalya Pada §64",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.65",
+      "label": "Book IV — Kaivalya Pada §65",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.66",
+      "label": "Book IV — Kaivalya Pada §66",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.67",
+      "label": "Book IV — Kaivalya Pada §67",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.68",
+      "label": "Book IV — Kaivalya Pada §68",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.69",
+      "label": "Book IV — Kaivalya Pada §69",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.70",
+      "label": "Book IV — Kaivalya Pada §70",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.71",
+      "label": "Book IV — Kaivalya Pada §71",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.72",
+      "label": "Book IV — Kaivalya Pada §72",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.73",
+      "label": "Book IV — Kaivalya Pada §73",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.74",
+      "label": "Book IV — Kaivalya Pada §74",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.75",
+      "label": "Book IV — Kaivalya Pada §75",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.76",
+      "label": "Book IV — Kaivalya Pada §76",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.77",
+      "label": "Book IV — Kaivalya Pada §77",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.78",
+      "label": "Book IV — Kaivalya Pada §78",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.79",
+      "label": "Book IV — Kaivalya Pada §79",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.80",
+      "label": "Book IV — Kaivalya Pada §80",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.81",
+      "label": "Book IV — Kaivalya Pada §81",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.82",
+      "label": "Book IV — Kaivalya Pada §82",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.83",
+      "label": "Book IV — Kaivalya Pada §83",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.84",
+      "label": "Book IV — Kaivalya Pada §84",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.85",
+      "label": "Book IV — Kaivalya Pada §85",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.86",
+      "label": "Book IV — Kaivalya Pada §86",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.87",
+      "label": "Book IV — Kaivalya Pada §87",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.88",
+      "label": "Book IV — Kaivalya Pada §88",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.89",
+      "label": "Book IV — Kaivalya Pada §89",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.90",
+      "label": "Book IV — Kaivalya Pada §90",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.91",
+      "label": "Book IV — Kaivalya Pada §91",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.92",
+      "label": "Book IV — Kaivalya Pada §92",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.93",
+      "label": "Book IV — Kaivalya Pada §93",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.94",
+      "label": "Book IV — Kaivalya Pada §94",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.95",
+      "label": "Book IV — Kaivalya Pada §95",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.96",
+      "label": "Book IV — Kaivalya Pada §96",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.97",
+      "label": "Book IV — Kaivalya Pada §97",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.98",
+      "label": "Book IV — Kaivalya Pada §98",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.99",
+      "label": "Book IV — Kaivalya Pada §99",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.100",
+      "label": "Book IV — Kaivalya Pada §100",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.101",
+      "label": "Book IV — Kaivalya Pada §101",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.102",
+      "label": "Book IV — Kaivalya Pada §102",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.103",
+      "label": "Book IV — Kaivalya Pada §103",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.104",
+      "label": "Book IV — Kaivalya Pada §104",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.105",
+      "label": "Book IV — Kaivalya Pada §105",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.106",
+      "label": "Book IV — Kaivalya Pada §106",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.107",
+      "label": "Book IV — Kaivalya Pada §107",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.108",
+      "label": "Book IV — Kaivalya Pada §108",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.109",
+      "label": "Book IV — Kaivalya Pada §109",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.110",
+      "label": "Book IV — Kaivalya Pada §110",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.111",
+      "label": "Book IV — Kaivalya Pada §111",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.112",
+      "label": "Book IV — Kaivalya Pada §112",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.113",
+      "label": "Book IV — Kaivalya Pada §113",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.114",
+      "label": "Book IV — Kaivalya Pada §114",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.115",
+      "label": "Book IV — Kaivalya Pada §115",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.116",
+      "label": "Book IV — Kaivalya Pada §116",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.117",
+      "label": "Book IV — Kaivalya Pada §117",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.118",
+      "label": "Book IV — Kaivalya Pada §118",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.119",
+      "label": "Book IV — Kaivalya Pada §119",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.120",
+      "label": "Book IV — Kaivalya Pada §120",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.121",
+      "label": "Book IV — Kaivalya Pada §121",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.122",
+      "label": "Book IV — Kaivalya Pada §122",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.123",
+      "label": "Book IV — Kaivalya Pada §123",
+      "chapterRef": "4"
+    }
+  ],
+  "editions": [
+    {
+      "slug": "patanjali-yoga-sutras-en",
+      "language": "en",
+      "editionType": "translation",
+      "title": "The Yoga Sutras of Patanjali: The Book of the Spiritual Man",
+      "translator": "Charles Johnston",
+      "publisher": "Project Gutenberg",
+      "publicationYear": 1912,
+      "source": "project-gutenberg",
+      "license": "public-domain",
+      "rightsStatus": "Public domain in the United States",
+      "attributionText": "The Yoga Sutras of Patanjali: The Book of the Spiritual Man, translated by Charles Johnston (1912). Public domain in the United States. Digital text from Project Gutenberg.",
+      "structureScheme": "single plain-text edition, split at printed chapter headings",
+      "isSample": false,
+      "notes": "The chapter split is performed on the edition as served; the reader is told when the served text no longer matches the indexed paragraphs."
+    }
+  ]
+}

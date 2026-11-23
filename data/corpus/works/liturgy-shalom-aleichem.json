@@ -1,0 +1,90 @@
+{
+  "slug": "liturgy-shalom-aleichem",
+  "title": "Shalom Aleichem",
+  "originalTitle": "שלום עליכם",
+  "transliteration": "",
+  "altTitles": [],
+  "tradition": "judaism",
+  "school": "rabbinic-judaism",
+  "genre": "Liturgy",
+  "textType": "Liturgical text",
+  "category": "Liturgy",
+  "subcategory": "Piyutim",
+  "originalLanguage": "he",
+  "dateStart": 800,
+  "dateEnd": 1950,
+  "dateDisplay": "Liturgy in use, c. 800–1950 CE",
+  "authorshipStatus": "traditional",
+  "author": "",
+  "attributionNote": "Authorship follows the Sefaria catalogue record for this work. Where a text is traditionally attributed or collectively compiled, the library does not assert a single author beyond the source's own metadata.",
+  "description": "Traditional song welcoming ministering angels into the home, commonly sung at the beginning of the Shabbat meal on Friday night. Complete Liturgy text imported from Sefaria; the exact edition and licence are shown with each version.",
+  "historicalContext": "Liturgy is the recited text of prayer and ritual. Its wording varies by rite and community, so each imported text names its rite and edition instead of being harmonised into a single service.",
+  "availabilityNote": "Imported from Sefaria. Version, source and licence are recorded per edition.",
+  "featured": false,
+  "featuredNote": "",
+  "refScheme": "chapter.paragraph",
+  "isSample": false,
+  "textStorage": "streamed",
+  "chapters": [
+    {
+      "ref": "1",
+      "label": "Section 1"
+    }
+  ],
+  "passages": [
+    {
+      "reference": "1.1",
+      "label": "1:1",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.2",
+      "label": "1:2",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.3",
+      "label": "1:3",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.4",
+      "label": "1:4",
+      "chapterRef": "1"
+    }
+  ],
+  "editions": [
+    {
+      "slug": "liturgy-shalom-aleichem-hebrew-sefaria",
+      "language": "he",
+      "editionType": "original",
+      "title": "Shalom Alechem",
+      "translator": "",
+      "publisher": "http://en.wikipedia.org/wiki/Shalom_Aleichem_(liturgy)",
+      "publicationYear": null,
+      "source": "sefaria",
+      "license": "cc-by-sa",
+      "rightsStatus": "CC-BY-SA",
+      "attributionText": "Shalom Alechem; licence: CC-BY-SA; source: http://en.wikipedia.org/wiki/Shalom_Aleichem_(liturgy). Retrieved via Sefaria on 2026-10-20.",
+      "structureScheme": "chapter and paragraph",
+      "isSample": false,
+      "notes": "Complete work imported from Sefaria. Text is displayed as supplied by the named edition; HTML markup has been removed."
+    },
+    {
+      "slug": "liturgy-shalom-aleichem-english-sefaria-1",
+      "language": "en",
+      "editionType": "translation",
+      "title": "Sefaria Community Translation",
+      "translator": "",
+      "publisher": "https://www.sefaria.org",
+      "publicationYear": null,
+      "source": "sefaria",
+      "license": "cc0-1.0",
+      "rightsStatus": "CC0",
+      "attributionText": "Sefaria Community Translation; licence: CC0; source: https://www.sefaria.org. Retrieved via Sefaria on 2026-10-20.",
+      "structureScheme": "chapter and paragraph",
+      "isSample": false,
+      "notes": "Complete work imported from Sefaria. Text is displayed as supplied by the named edition; HTML markup has been removed."
+    }
+  ]
+}

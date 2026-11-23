@@ -1,0 +1,202 @@
+{
+  "slug": "chasidut-yakar-mipaz",
+  "title": "Yakar MiPaz",
+  "originalTitle": "יקר מפז",
+  "transliteration": "",
+  "altTitles": [],
+  "tradition": "judaism",
+  "school": "rabbinic-judaism",
+  "genre": "Chasidut",
+  "textType": "Hasidic homily and teaching",
+  "category": "Chasidut",
+  "subcategory": "Other Chasidut Works",
+  "originalLanguage": "he",
+  "dateStart": 1750,
+  "dateEnd": 1950,
+  "dateDisplay": "Hasidic literature, c. 1750–1950 CE",
+  "authorshipStatus": "established",
+  "author": "",
+  "attributionNote": "Authorship follows the Sefaria catalogue record for this work. Where a text is traditionally attributed or collectively compiled, the library does not assert a single author beyond the source's own metadata.",
+  "description": "Additional material that was omitted from the Maggid of Kozhnitz’s “Avodat Yisrael.” Complete Chasidut text imported from Sefaria; the exact edition and licence are shown with each version.",
+  "historicalContext": "Hasidic literature gathers sermons, letters and teachings from the movement's dynasties and schools. Individual works are attributed to specific rebbes and schools rather than to Chasidut as a whole.",
+  "availabilityNote": "Imported from Sefaria. Version, source and licence are recorded per edition.",
+  "featured": false,
+  "featuredNote": "",
+  "refScheme": "chapter.paragraph",
+  "isSample": false,
+  "textStorage": "streamed",
+  "chapters": [
+    {
+      "ref": "1",
+      "label": "Title Page"
+    },
+    {
+      "ref": "2",
+      "label": "Approbation"
+    },
+    {
+      "ref": "5",
+      "label": "Addenda"
+    }
+  ],
+  "passages": [
+    {
+      "reference": "1.1",
+      "label": "1:1",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.2",
+      "label": "1:2",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "2.1",
+      "label": "2:1",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.2",
+      "label": "2:2",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.3",
+      "label": "2:3",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "5.1",
+      "label": "5:1",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.2",
+      "label": "5:2",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.3",
+      "label": "5:3",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.4",
+      "label": "5:4",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.5",
+      "label": "5:5",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.6",
+      "label": "5:6",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.7",
+      "label": "5:7",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.8",
+      "label": "5:8",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.9",
+      "label": "5:9",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.10",
+      "label": "5:10",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.11",
+      "label": "5:11",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.12",
+      "label": "5:12",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.13",
+      "label": "5:13",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.14",
+      "label": "5:14",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.15",
+      "label": "5:15",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.16",
+      "label": "5:16",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.17",
+      "label": "5:17",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.18",
+      "label": "5:18",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.19",
+      "label": "5:19",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.20",
+      "label": "5:20",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.21",
+      "label": "5:21",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.22",
+      "label": "5:22",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.23",
+      "label": "5:23",
+      "chapterRef": "5"
+    }
+  ],
+  "editions": [
+    {
+      "slug": "chasidut-yakar-mipaz-hebrew-sefaria",
+      "language": "he",
+      "editionType": "original",
+      "title": "Yakar MiPaz, Lvov 1874",
+      "translator": "",
+      "publisher": "https://www.nli.org.il/he/books/NNL_ALEPH001945123",
+      "publicationYear": null,
+      "source": "sefaria",
+      "license": "public-domain",
+      "rightsStatus": "Public Domain",
+      "attributionText": "Yakar MiPaz, Lvov 1874; licence: Public Domain; source: https://www.nli.org.il/he/books/NNL_ALEPH001945123. Retrieved via Sefaria on 2026-10-20.",
+      "structureScheme": "chapter and paragraph",
+      "isSample": false,
+      "notes": "Complete work imported from Sefaria. Text is displayed as supplied by the named edition; HTML markup has been removed."
+    }
+  ]
+}

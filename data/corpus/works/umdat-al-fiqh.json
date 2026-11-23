@@ -1,0 +1,5629 @@
+{
+  "slug": "umdat-al-fiqh",
+  "title": "'Umdat al-Fiqh",
+  "originalTitle": "عمدة الفقه",
+  "transliteration": "ʿUmdat al-Fiqh",
+  "altTitles": [],
+  "tradition": "islam",
+  "school": "hanbali",
+  "genre": "Jurisprudence",
+  "textType": "Legal manual",
+  "category": "Jurisprudence (Fiqh)",
+  "subcategory": "Classical manuals",
+  "originalLanguage": "ar",
+  "dateStart": 1190,
+  "dateEnd": 1223,
+  "dateDisplay": "late 12th–early 13th century CE",
+  "authorshipStatus": "established",
+  "author": "ibn-qudama",
+  "attributionNote": "The attribution is the one the manuscript tradition and the scholarship give.",
+  "description": "The first of Ibn Qudama's graded series of Hanbali law books, giving one ruling for each question with a hadith in support. It was written for beginners, to be followed by al-Muqni', al-Kafi and finally al-Mughni, which is already on this shelf.",
+  "historicalContext": "Ibn Qudama taught in the Salihiyya quarter of Damascus, to which his family had fled from Crusader Palestine. The 'Umda became the usual first text of Hanbali students and has been commented on into modern times.",
+  "availabilityNote": "Arabic text only, streamed from OpenITI at read time. No English translation is included because no public-domain English translation was verified. Only the catalogue record, chapter outline and passage index are held here.",
+  "featured": false,
+  "featuredNote": "",
+  "refScheme": "chapter.paragraph",
+  "isSample": false,
+  "textStorage": "streamed",
+  "chapters": [
+    {
+      "ref": "1",
+      "label": "كتاب الطهارة"
+    },
+    {
+      "ref": "2",
+      "label": "كتاب الصلاة"
+    },
+    {
+      "ref": "3",
+      "label": "كتاب الجنائز"
+    },
+    {
+      "ref": "4",
+      "label": "كتاب الزكاة"
+    },
+    {
+      "ref": "5",
+      "label": "كتاب الصيام"
+    },
+    {
+      "ref": "6",
+      "label": "كتاب الحج والعمرة"
+    },
+    {
+      "ref": "7",
+      "label": "كتاب البيوع"
+    },
+    {
+      "ref": "8",
+      "label": "كتاب الإجارة"
+    },
+    {
+      "ref": "9",
+      "label": "كتاب الوقف"
+    },
+    {
+      "ref": "10",
+      "label": "كتاب الوصايا"
+    },
+    {
+      "ref": "11",
+      "label": "كتاب الفرائض"
+    },
+    {
+      "ref": "12",
+      "label": "كتاب النكاح"
+    },
+    {
+      "ref": "13",
+      "label": "كتاب الرضاع"
+    },
+    {
+      "ref": "14",
+      "label": "كتاب الصداق"
+    },
+    {
+      "ref": "15",
+      "label": "كتاب الطلاق"
+    },
+    {
+      "ref": "16",
+      "label": "كتاب الظهار"
+    },
+    {
+      "ref": "17",
+      "label": "كتاب اللعان"
+    },
+    {
+      "ref": "18",
+      "label": "كتاب الأطعمة"
+    },
+    {
+      "ref": "19",
+      "label": "كتاب الصيد"
+    },
+    {
+      "ref": "20",
+      "label": "كتاب الأيمان"
+    },
+    {
+      "ref": "21",
+      "label": "كتاب الجنايات"
+    },
+    {
+      "ref": "22",
+      "label": "كتاب الديات"
+    },
+    {
+      "ref": "23",
+      "label": "كتاب الحدود"
+    },
+    {
+      "ref": "24",
+      "label": "كتاب الجهاد"
+    },
+    {
+      "ref": "25",
+      "label": "كتاب القضاء"
+    },
+    {
+      "ref": "26",
+      "label": "كتاب الشهادات"
+    }
+  ],
+  "passages": [
+    {
+      "reference": "1.1",
+      "label": "كتاب الطهارة §1",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.2",
+      "label": "كتاب الطهارة §2",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.3",
+      "label": "كتاب الطهارة §3",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.4",
+      "label": "كتاب الطهارة §4",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.5",
+      "label": "كتاب الطهارة §5",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.6",
+      "label": "كتاب الطهارة §6",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.7",
+      "label": "كتاب الطهارة §7",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.8",
+      "label": "كتاب الطهارة §8",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.9",
+      "label": "كتاب الطهارة §9",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.10",
+      "label": "كتاب الطهارة §10",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.11",
+      "label": "كتاب الطهارة §11",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.12",
+      "label": "كتاب الطهارة §12",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.13",
+      "label": "كتاب الطهارة §13",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.14",
+      "label": "كتاب الطهارة §14",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.15",
+      "label": "كتاب الطهارة §15",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.16",
+      "label": "كتاب الطهارة §16",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.17",
+      "label": "كتاب الطهارة §17",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.18",
+      "label": "كتاب الطهارة §18",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.19",
+      "label": "كتاب الطهارة §19",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.20",
+      "label": "كتاب الطهارة §20",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.21",
+      "label": "كتاب الطهارة §21",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.22",
+      "label": "كتاب الطهارة §22",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.23",
+      "label": "كتاب الطهارة §23",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.24",
+      "label": "كتاب الطهارة §24",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.25",
+      "label": "كتاب الطهارة §25",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.26",
+      "label": "كتاب الطهارة §26",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.27",
+      "label": "كتاب الطهارة §27",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.28",
+      "label": "كتاب الطهارة §28",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.29",
+      "label": "كتاب الطهارة §29",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.30",
+      "label": "كتاب الطهارة §30",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.31",
+      "label": "كتاب الطهارة §31",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.32",
+      "label": "كتاب الطهارة §32",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.33",
+      "label": "كتاب الطهارة §33",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.34",
+      "label": "كتاب الطهارة §34",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.35",
+      "label": "كتاب الطهارة §35",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.36",
+      "label": "كتاب الطهارة §36",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.37",
+      "label": "كتاب الطهارة §37",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.38",
+      "label": "كتاب الطهارة §38",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.39",
+      "label": "كتاب الطهارة §39",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.40",
+      "label": "كتاب الطهارة §40",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.41",
+      "label": "كتاب الطهارة §41",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.42",
+      "label": "كتاب الطهارة §42",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.43",
+      "label": "كتاب الطهارة §43",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.44",
+      "label": "كتاب الطهارة §44",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.45",
+      "label": "كتاب الطهارة §45",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.46",
+      "label": "كتاب الطهارة §46",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.47",
+      "label": "كتاب الطهارة §47",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.48",
+      "label": "كتاب الطهارة §48",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "2.1",
+      "label": "كتاب الصلاة §1",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.2",
+      "label": "كتاب الصلاة §2",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.3",
+      "label": "كتاب الصلاة §3",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.4",
+      "label": "كتاب الصلاة §4",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.5",
+      "label": "كتاب الصلاة §5",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.6",
+      "label": "كتاب الصلاة §6",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.7",
+      "label": "كتاب الصلاة §7",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.8",
+      "label": "كتاب الصلاة §8",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.9",
+      "label": "كتاب الصلاة §9",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.10",
+      "label": "كتاب الصلاة §10",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.11",
+      "label": "كتاب الصلاة §11",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.12",
+      "label": "كتاب الصلاة §12",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.13",
+      "label": "كتاب الصلاة §13",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.14",
+      "label": "كتاب الصلاة §14",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.15",
+      "label": "كتاب الصلاة §15",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.16",
+      "label": "كتاب الصلاة §16",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.17",
+      "label": "كتاب الصلاة §17",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.18",
+      "label": "كتاب الصلاة §18",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.19",
+      "label": "كتاب الصلاة §19",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.20",
+      "label": "كتاب الصلاة §20",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.21",
+      "label": "كتاب الصلاة §21",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.22",
+      "label": "كتاب الصلاة §22",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.23",
+      "label": "كتاب الصلاة §23",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.24",
+      "label": "كتاب الصلاة §24",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.25",
+      "label": "كتاب الصلاة §25",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.26",
+      "label": "كتاب الصلاة §26",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.27",
+      "label": "كتاب الصلاة §27",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.28",
+      "label": "كتاب الصلاة §28",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.29",
+      "label": "كتاب الصلاة §29",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.30",
+      "label": "كتاب الصلاة §30",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.31",
+      "label": "كتاب الصلاة §31",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.32",
+      "label": "كتاب الصلاة §32",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.33",
+      "label": "كتاب الصلاة §33",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.34",
+      "label": "كتاب الصلاة §34",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.35",
+      "label": "كتاب الصلاة §35",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.36",
+      "label": "كتاب الصلاة §36",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.37",
+      "label": "كتاب الصلاة §37",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.38",
+      "label": "كتاب الصلاة §38",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.39",
+      "label": "كتاب الصلاة §39",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.40",
+      "label": "كتاب الصلاة §40",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.41",
+      "label": "كتاب الصلاة §41",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.42",
+      "label": "كتاب الصلاة §42",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.43",
+      "label": "كتاب الصلاة §43",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.44",
+      "label": "كتاب الصلاة §44",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.45",
+      "label": "كتاب الصلاة §45",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.46",
+      "label": "كتاب الصلاة §46",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.47",
+      "label": "كتاب الصلاة §47",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.48",
+      "label": "كتاب الصلاة §48",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.49",
+      "label": "كتاب الصلاة §49",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.50",
+      "label": "كتاب الصلاة §50",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.51",
+      "label": "كتاب الصلاة §51",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.52",
+      "label": "كتاب الصلاة §52",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.53",
+      "label": "كتاب الصلاة §53",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.54",
+      "label": "كتاب الصلاة §54",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.55",
+      "label": "كتاب الصلاة §55",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.56",
+      "label": "كتاب الصلاة §56",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.57",
+      "label": "كتاب الصلاة §57",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.58",
+      "label": "كتاب الصلاة §58",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.59",
+      "label": "كتاب الصلاة §59",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.60",
+      "label": "كتاب الصلاة §60",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.61",
+      "label": "كتاب الصلاة §61",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.62",
+      "label": "كتاب الصلاة §62",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.63",
+      "label": "كتاب الصلاة §63",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.64",
+      "label": "كتاب الصلاة §64",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.65",
+      "label": "كتاب الصلاة §65",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.66",
+      "label": "كتاب الصلاة §66",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.67",
+      "label": "كتاب الصلاة §67",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.68",
+      "label": "كتاب الصلاة §68",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.69",
+      "label": "كتاب الصلاة §69",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.70",
+      "label": "كتاب الصلاة §70",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.71",
+      "label": "كتاب الصلاة §71",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.72",
+      "label": "كتاب الصلاة §72",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.73",
+      "label": "كتاب الصلاة §73",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.74",
+      "label": "كتاب الصلاة §74",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.75",
+      "label": "كتاب الصلاة §75",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.76",
+      "label": "كتاب الصلاة §76",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.77",
+      "label": "كتاب الصلاة §77",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.78",
+      "label": "كتاب الصلاة §78",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.79",
+      "label": "كتاب الصلاة §79",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.80",
+      "label": "كتاب الصلاة §80",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.81",
+      "label": "كتاب الصلاة §81",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.82",
+      "label": "كتاب الصلاة §82",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.83",
+      "label": "كتاب الصلاة §83",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.84",
+      "label": "كتاب الصلاة §84",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.85",
+      "label": "كتاب الصلاة §85",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.86",
+      "label": "كتاب الصلاة §86",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.87",
+      "label": "كتاب الصلاة §87",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "3.1",
+      "label": "كتاب الجنائز §1",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.2",
+      "label": "كتاب الجنائز §2",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.3",
+      "label": "كتاب الجنائز §3",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.4",
+      "label": "كتاب الجنائز §4",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.5",
+      "label": "كتاب الجنائز §5",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.6",
+      "label": "كتاب الجنائز §6",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.7",
+      "label": "كتاب الجنائز §7",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.8",
+      "label": "كتاب الجنائز §8",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.9",
+      "label": "كتاب الجنائز §9",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.10",
+      "label": "كتاب الجنائز §10",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.11",
+      "label": "كتاب الجنائز §11",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.12",
+      "label": "كتاب الجنائز §12",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.13",
+      "label": "كتاب الجنائز §13",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "4.1",
+      "label": "كتاب الزكاة §1",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.2",
+      "label": "كتاب الزكاة §2",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.3",
+      "label": "كتاب الزكاة §3",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.4",
+      "label": "كتاب الزكاة §4",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.5",
+      "label": "كتاب الزكاة §5",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.6",
+      "label": "كتاب الزكاة §6",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.7",
+      "label": "كتاب الزكاة §7",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.8",
+      "label": "كتاب الزكاة §8",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.9",
+      "label": "كتاب الزكاة §9",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.10",
+      "label": "كتاب الزكاة §10",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.11",
+      "label": "كتاب الزكاة §11",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.12",
+      "label": "كتاب الزكاة §12",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.13",
+      "label": "كتاب الزكاة §13",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.14",
+      "label": "كتاب الزكاة §14",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.15",
+      "label": "كتاب الزكاة §15",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.16",
+      "label": "كتاب الزكاة §16",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.17",
+      "label": "كتاب الزكاة §17",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.18",
+      "label": "كتاب الزكاة §18",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.19",
+      "label": "كتاب الزكاة §19",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.20",
+      "label": "كتاب الزكاة §20",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.21",
+      "label": "كتاب الزكاة §21",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.22",
+      "label": "كتاب الزكاة §22",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.23",
+      "label": "كتاب الزكاة §23",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.24",
+      "label": "كتاب الزكاة §24",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.25",
+      "label": "كتاب الزكاة §25",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.26",
+      "label": "كتاب الزكاة §26",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.27",
+      "label": "كتاب الزكاة §27",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.28",
+      "label": "كتاب الزكاة §28",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.29",
+      "label": "كتاب الزكاة §29",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.30",
+      "label": "كتاب الزكاة §30",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.31",
+      "label": "كتاب الزكاة §31",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.32",
+      "label": "كتاب الزكاة §32",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.33",
+      "label": "كتاب الزكاة §33",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.34",
+      "label": "كتاب الزكاة §34",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.35",
+      "label": "كتاب الزكاة §35",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.36",
+      "label": "كتاب الزكاة §36",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.37",
+      "label": "كتاب الزكاة §37",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.38",
+      "label": "كتاب الزكاة §38",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.39",
+      "label": "كتاب الزكاة §39",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.40",
+      "label": "كتاب الزكاة §40",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.41",
+      "label": "كتاب الزكاة §41",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.42",
+      "label": "كتاب الزكاة §42",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.43",
+      "label": "كتاب الزكاة §43",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.44",
+      "label": "كتاب الزكاة §44",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.45",
+      "label": "كتاب الزكاة §45",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.46",
+      "label": "كتاب الزكاة §46",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.47",
+      "label": "كتاب الزكاة §47",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.48",
+      "label": "كتاب الزكاة §48",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.49",
+      "label": "كتاب الزكاة §49",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.50",
+      "label": "كتاب الزكاة §50",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.51",
+      "label": "كتاب الزكاة §51",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.52",
+      "label": "كتاب الزكاة §52",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.53",
+      "label": "كتاب الزكاة §53",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.54",
+      "label": "كتاب الزكاة §54",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.55",
+      "label": "كتاب الزكاة §55",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.56",
+      "label": "كتاب الزكاة §56",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.57",
+      "label": "كتاب الزكاة §57",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.58",
+      "label": "كتاب الزكاة §58",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.59",
+      "label": "كتاب الزكاة §59",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "5.1",
+      "label": "كتاب الصيام §1",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.2",
+      "label": "كتاب الصيام §2",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.3",
+      "label": "كتاب الصيام §3",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.4",
+      "label": "كتاب الصيام §4",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.5",
+      "label": "كتاب الصيام §5",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.6",
+      "label": "كتاب الصيام §6",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.7",
+      "label": "كتاب الصيام §7",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.8",
+      "label": "كتاب الصيام §8",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.9",
+      "label": "كتاب الصيام §9",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.10",
+      "label": "كتاب الصيام §10",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.11",
+      "label": "كتاب الصيام §11",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.12",
+      "label": "كتاب الصيام §12",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.13",
+      "label": "كتاب الصيام §13",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.14",
+      "label": "كتاب الصيام §14",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.15",
+      "label": "كتاب الصيام §15",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.16",
+      "label": "كتاب الصيام §16",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.17",
+      "label": "كتاب الصيام §17",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.18",
+      "label": "كتاب الصيام §18",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.19",
+      "label": "كتاب الصيام §19",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.20",
+      "label": "كتاب الصيام §20",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.21",
+      "label": "كتاب الصيام §21",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.22",
+      "label": "كتاب الصيام §22",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.23",
+      "label": "كتاب الصيام §23",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.24",
+      "label": "كتاب الصيام §24",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.25",
+      "label": "كتاب الصيام §25",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.26",
+      "label": "كتاب الصيام §26",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.27",
+      "label": "كتاب الصيام §27",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.28",
+      "label": "كتاب الصيام §28",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.29",
+      "label": "كتاب الصيام §29",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.30",
+      "label": "كتاب الصيام §30",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.31",
+      "label": "كتاب الصيام §31",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.32",
+      "label": "كتاب الصيام §32",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.33",
+      "label": "كتاب الصيام §33",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.34",
+      "label": "كتاب الصيام §34",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.35",
+      "label": "كتاب الصيام §35",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "6.1",
+      "label": "كتاب الحج والعمرة §1",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.2",
+      "label": "كتاب الحج والعمرة §2",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.3",
+      "label": "كتاب الحج والعمرة §3",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.4",
+      "label": "كتاب الحج والعمرة §4",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.5",
+      "label": "كتاب الحج والعمرة §5",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.6",
+      "label": "كتاب الحج والعمرة §6",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.7",
+      "label": "كتاب الحج والعمرة §7",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.8",
+      "label": "كتاب الحج والعمرة §8",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.9",
+      "label": "كتاب الحج والعمرة §9",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.10",
+      "label": "كتاب الحج والعمرة §10",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.11",
+      "label": "كتاب الحج والعمرة §11",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.12",
+      "label": "كتاب الحج والعمرة §12",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.13",
+      "label": "كتاب الحج والعمرة §13",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.14",
+      "label": "كتاب الحج والعمرة §14",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.15",
+      "label": "كتاب الحج والعمرة §15",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.16",
+      "label": "كتاب الحج والعمرة §16",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.17",
+      "label": "كتاب الحج والعمرة §17",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.18",
+      "label": "كتاب الحج والعمرة §18",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.19",
+      "label": "كتاب الحج والعمرة §19",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.20",
+      "label": "كتاب الحج والعمرة §20",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.21",
+      "label": "كتاب الحج والعمرة §21",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.22",
+      "label": "كتاب الحج والعمرة §22",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.23",
+      "label": "كتاب الحج والعمرة §23",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.24",
+      "label": "كتاب الحج والعمرة §24",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.25",
+      "label": "كتاب الحج والعمرة §25",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.26",
+      "label": "كتاب الحج والعمرة §26",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.27",
+      "label": "كتاب الحج والعمرة §27",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.28",
+      "label": "كتاب الحج والعمرة §28",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.29",
+      "label": "كتاب الحج والعمرة §29",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.30",
+      "label": "كتاب الحج والعمرة §30",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.31",
+      "label": "كتاب الحج والعمرة §31",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.32",
+      "label": "كتاب الحج والعمرة §32",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.33",
+      "label": "كتاب الحج والعمرة §33",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.34",
+      "label": "كتاب الحج والعمرة §34",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.35",
+      "label": "كتاب الحج والعمرة §35",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.36",
+      "label": "كتاب الحج والعمرة §36",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.37",
+      "label": "كتاب الحج والعمرة §37",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.38",
+      "label": "كتاب الحج والعمرة §38",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.39",
+      "label": "كتاب الحج والعمرة §39",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.40",
+      "label": "كتاب الحج والعمرة §40",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.41",
+      "label": "كتاب الحج والعمرة §41",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.42",
+      "label": "كتاب الحج والعمرة §42",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.43",
+      "label": "كتاب الحج والعمرة §43",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.44",
+      "label": "كتاب الحج والعمرة §44",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.45",
+      "label": "كتاب الحج والعمرة §45",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.46",
+      "label": "كتاب الحج والعمرة §46",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.47",
+      "label": "كتاب الحج والعمرة §47",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.48",
+      "label": "كتاب الحج والعمرة §48",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.49",
+      "label": "كتاب الحج والعمرة §49",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.50",
+      "label": "كتاب الحج والعمرة §50",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.51",
+      "label": "كتاب الحج والعمرة §51",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.52",
+      "label": "كتاب الحج والعمرة §52",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.53",
+      "label": "كتاب الحج والعمرة §53",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.54",
+      "label": "كتاب الحج والعمرة §54",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.55",
+      "label": "كتاب الحج والعمرة §55",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.56",
+      "label": "كتاب الحج والعمرة §56",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.57",
+      "label": "كتاب الحج والعمرة §57",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.58",
+      "label": "كتاب الحج والعمرة §58",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.59",
+      "label": "كتاب الحج والعمرة §59",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.60",
+      "label": "كتاب الحج والعمرة §60",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.61",
+      "label": "كتاب الحج والعمرة §61",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.62",
+      "label": "كتاب الحج والعمرة §62",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.63",
+      "label": "كتاب الحج والعمرة §63",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.64",
+      "label": "كتاب الحج والعمرة §64",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.65",
+      "label": "كتاب الحج والعمرة §65",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.66",
+      "label": "كتاب الحج والعمرة §66",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "7.1",
+      "label": "كتاب البيوع §1",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.2",
+      "label": "كتاب البيوع §2",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.3",
+      "label": "كتاب البيوع §3",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.4",
+      "label": "كتاب البيوع §4",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.5",
+      "label": "كتاب البيوع §5",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.6",
+      "label": "كتاب البيوع §6",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.7",
+      "label": "كتاب البيوع §7",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.8",
+      "label": "كتاب البيوع §8",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.9",
+      "label": "كتاب البيوع §9",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.10",
+      "label": "كتاب البيوع §10",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.11",
+      "label": "كتاب البيوع §11",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.12",
+      "label": "كتاب البيوع §12",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.13",
+      "label": "كتاب البيوع §13",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.14",
+      "label": "كتاب البيوع §14",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.15",
+      "label": "كتاب البيوع §15",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.16",
+      "label": "كتاب البيوع §16",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.17",
+      "label": "كتاب البيوع §17",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.18",
+      "label": "كتاب البيوع §18",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.19",
+      "label": "كتاب البيوع §19",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.20",
+      "label": "كتاب البيوع §20",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.21",
+      "label": "كتاب البيوع §21",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.22",
+      "label": "كتاب البيوع §22",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.23",
+      "label": "كتاب البيوع §23",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.24",
+      "label": "كتاب البيوع §24",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.25",
+      "label": "كتاب البيوع §25",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.26",
+      "label": "كتاب البيوع §26",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.27",
+      "label": "كتاب البيوع §27",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.28",
+      "label": "كتاب البيوع §28",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.29",
+      "label": "كتاب البيوع §29",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.30",
+      "label": "كتاب البيوع §30",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.31",
+      "label": "كتاب البيوع §31",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.32",
+      "label": "كتاب البيوع §32",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.33",
+      "label": "كتاب البيوع §33",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.34",
+      "label": "كتاب البيوع §34",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.35",
+      "label": "كتاب البيوع §35",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.36",
+      "label": "كتاب البيوع §36",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.37",
+      "label": "كتاب البيوع §37",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.38",
+      "label": "كتاب البيوع §38",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.39",
+      "label": "كتاب البيوع §39",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.40",
+      "label": "كتاب البيوع §40",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.41",
+      "label": "كتاب البيوع §41",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.42",
+      "label": "كتاب البيوع §42",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.43",
+      "label": "كتاب البيوع §43",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.44",
+      "label": "كتاب البيوع §44",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.45",
+      "label": "كتاب البيوع §45",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.46",
+      "label": "كتاب البيوع §46",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.47",
+      "label": "كتاب البيوع §47",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.48",
+      "label": "كتاب البيوع §48",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.49",
+      "label": "كتاب البيوع §49",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.50",
+      "label": "كتاب البيوع §50",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.51",
+      "label": "كتاب البيوع §51",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.52",
+      "label": "كتاب البيوع §52",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.53",
+      "label": "كتاب البيوع §53",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.54",
+      "label": "كتاب البيوع §54",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.55",
+      "label": "كتاب البيوع §55",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.56",
+      "label": "كتاب البيوع §56",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.57",
+      "label": "كتاب البيوع §57",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.58",
+      "label": "كتاب البيوع §58",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.59",
+      "label": "كتاب البيوع §59",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.60",
+      "label": "كتاب البيوع §60",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.61",
+      "label": "كتاب البيوع §61",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.62",
+      "label": "كتاب البيوع §62",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.63",
+      "label": "كتاب البيوع §63",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.64",
+      "label": "كتاب البيوع §64",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.65",
+      "label": "كتاب البيوع §65",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.66",
+      "label": "كتاب البيوع §66",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.67",
+      "label": "كتاب البيوع §67",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.68",
+      "label": "كتاب البيوع §68",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.69",
+      "label": "كتاب البيوع §69",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.70",
+      "label": "كتاب البيوع §70",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.71",
+      "label": "كتاب البيوع §71",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.72",
+      "label": "كتاب البيوع §72",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.73",
+      "label": "كتاب البيوع §73",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.74",
+      "label": "كتاب البيوع §74",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.75",
+      "label": "كتاب البيوع §75",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.76",
+      "label": "كتاب البيوع §76",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.77",
+      "label": "كتاب البيوع §77",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.78",
+      "label": "كتاب البيوع §78",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.79",
+      "label": "كتاب البيوع §79",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.80",
+      "label": "كتاب البيوع §80",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.81",
+      "label": "كتاب البيوع §81",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.82",
+      "label": "كتاب البيوع §82",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.83",
+      "label": "كتاب البيوع §83",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.84",
+      "label": "كتاب البيوع §84",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.85",
+      "label": "كتاب البيوع §85",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.86",
+      "label": "كتاب البيوع §86",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.87",
+      "label": "كتاب البيوع §87",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.88",
+      "label": "كتاب البيوع §88",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.89",
+      "label": "كتاب البيوع §89",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.90",
+      "label": "كتاب البيوع §90",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "8.1",
+      "label": "كتاب الإجارة §1",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.2",
+      "label": "كتاب الإجارة §2",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.3",
+      "label": "كتاب الإجارة §3",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.4",
+      "label": "كتاب الإجارة §4",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.5",
+      "label": "كتاب الإجارة §5",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.6",
+      "label": "كتاب الإجارة §6",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.7",
+      "label": "كتاب الإجارة §7",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.8",
+      "label": "كتاب الإجارة §8",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.9",
+      "label": "كتاب الإجارة §9",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.10",
+      "label": "كتاب الإجارة §10",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.11",
+      "label": "كتاب الإجارة §11",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.12",
+      "label": "كتاب الإجارة §12",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.13",
+      "label": "كتاب الإجارة §13",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.14",
+      "label": "كتاب الإجارة §14",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.15",
+      "label": "كتاب الإجارة §15",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.16",
+      "label": "كتاب الإجارة §16",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.17",
+      "label": "كتاب الإجارة §17",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.18",
+      "label": "كتاب الإجارة §18",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.19",
+      "label": "كتاب الإجارة §19",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.20",
+      "label": "كتاب الإجارة §20",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.21",
+      "label": "كتاب الإجارة §21",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.22",
+      "label": "كتاب الإجارة §22",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.23",
+      "label": "كتاب الإجارة §23",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.24",
+      "label": "كتاب الإجارة §24",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.25",
+      "label": "كتاب الإجارة §25",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.26",
+      "label": "كتاب الإجارة §26",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.27",
+      "label": "كتاب الإجارة §27",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "9.1",
+      "label": "كتاب الوقف §1",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.2",
+      "label": "كتاب الوقف §2",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.3",
+      "label": "كتاب الوقف §3",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.4",
+      "label": "كتاب الوقف §4",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.5",
+      "label": "كتاب الوقف §5",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.6",
+      "label": "كتاب الوقف §6",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.7",
+      "label": "كتاب الوقف §7",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.8",
+      "label": "كتاب الوقف §8",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.9",
+      "label": "كتاب الوقف §9",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.10",
+      "label": "كتاب الوقف §10",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.11",
+      "label": "كتاب الوقف §11",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.12",
+      "label": "كتاب الوقف §12",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.13",
+      "label": "كتاب الوقف §13",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.14",
+      "label": "كتاب الوقف §14",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.15",
+      "label": "كتاب الوقف §15",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.16",
+      "label": "كتاب الوقف §16",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.17",
+      "label": "كتاب الوقف §17",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.18",
+      "label": "كتاب الوقف §18",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.19",
+      "label": "كتاب الوقف §19",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.20",
+      "label": "كتاب الوقف §20",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.21",
+      "label": "كتاب الوقف §21",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.22",
+      "label": "كتاب الوقف §22",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.23",
+      "label": "كتاب الوقف §23",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.24",
+      "label": "كتاب الوقف §24",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.25",
+      "label": "كتاب الوقف §25",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.26",
+      "label": "كتاب الوقف §26",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "10.1",
+      "label": "كتاب الوصايا §1",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.2",
+      "label": "كتاب الوصايا §2",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.3",
+      "label": "كتاب الوصايا §3",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.4",
+      "label": "كتاب الوصايا §4",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.5",
+      "label": "كتاب الوصايا §5",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.6",
+      "label": "كتاب الوصايا §6",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.7",
+      "label": "كتاب الوصايا §7",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.8",
+      "label": "كتاب الوصايا §8",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.9",
+      "label": "كتاب الوصايا §9",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.10",
+      "label": "كتاب الوصايا §10",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.11",
+      "label": "كتاب الوصايا §11",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.12",
+      "label": "كتاب الوصايا §12",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.13",
+      "label": "كتاب الوصايا §13",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.14",
+      "label": "كتاب الوصايا §14",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.15",
+      "label": "كتاب الوصايا §15",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.16",
+      "label": "كتاب الوصايا §16",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.17",
+      "label": "كتاب الوصايا §17",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.18",
+      "label": "كتاب الوصايا §18",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.19",
+      "label": "كتاب الوصايا §19",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.20",
+      "label": "كتاب الوصايا §20",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.21",
+      "label": "كتاب الوصايا §21",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.22",
+      "label": "كتاب الوصايا §22",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.23",
+      "label": "كتاب الوصايا §23",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.24",
+      "label": "كتاب الوصايا §24",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.25",
+      "label": "كتاب الوصايا §25",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.26",
+      "label": "كتاب الوصايا §26",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.27",
+      "label": "كتاب الوصايا §27",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.28",
+      "label": "كتاب الوصايا §28",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "11.1",
+      "label": "كتاب الفرائض §1",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.2",
+      "label": "كتاب الفرائض §2",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.3",
+      "label": "كتاب الفرائض §3",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.4",
+      "label": "كتاب الفرائض §4",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.5",
+      "label": "كتاب الفرائض §5",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.6",
+      "label": "كتاب الفرائض §6",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.7",
+      "label": "كتاب الفرائض §7",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.8",
+      "label": "كتاب الفرائض §8",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.9",
+      "label": "كتاب الفرائض §9",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.10",
+      "label": "كتاب الفرائض §10",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.11",
+      "label": "كتاب الفرائض §11",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.12",
+      "label": "كتاب الفرائض §12",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.13",
+      "label": "كتاب الفرائض §13",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.14",
+      "label": "كتاب الفرائض §14",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.15",
+      "label": "كتاب الفرائض §15",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.16",
+      "label": "كتاب الفرائض §16",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.17",
+      "label": "كتاب الفرائض §17",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.18",
+      "label": "كتاب الفرائض §18",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.19",
+      "label": "كتاب الفرائض §19",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.20",
+      "label": "كتاب الفرائض §20",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.21",
+      "label": "كتاب الفرائض §21",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.22",
+      "label": "كتاب الفرائض §22",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.23",
+      "label": "كتاب الفرائض §23",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.24",
+      "label": "كتاب الفرائض §24",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.25",
+      "label": "كتاب الفرائض §25",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.26",
+      "label": "كتاب الفرائض §26",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.27",
+      "label": "كتاب الفرائض §27",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.28",
+      "label": "كتاب الفرائض §28",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.29",
+      "label": "كتاب الفرائض §29",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.30",
+      "label": "كتاب الفرائض §30",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.31",
+      "label": "كتاب الفرائض §31",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.32",
+      "label": "كتاب الفرائض §32",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.33",
+      "label": "كتاب الفرائض §33",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.34",
+      "label": "كتاب الفرائض §34",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.35",
+      "label": "كتاب الفرائض §35",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.36",
+      "label": "كتاب الفرائض §36",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.37",
+      "label": "كتاب الفرائض §37",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.38",
+      "label": "كتاب الفرائض §38",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.39",
+      "label": "كتاب الفرائض §39",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.40",
+      "label": "كتاب الفرائض §40",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.41",
+      "label": "كتاب الفرائض §41",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.42",
+      "label": "كتاب الفرائض §42",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.43",
+      "label": "كتاب الفرائض §43",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.44",
+      "label": "كتاب الفرائض §44",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.45",
+      "label": "كتاب الفرائض §45",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.46",
+      "label": "كتاب الفرائض §46",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.47",
+      "label": "كتاب الفرائض §47",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.48",
+      "label": "كتاب الفرائض §48",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.49",
+      "label": "كتاب الفرائض §49",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.50",
+      "label": "كتاب الفرائض §50",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.51",
+      "label": "كتاب الفرائض §51",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.52",
+      "label": "كتاب الفرائض §52",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.53",
+      "label": "كتاب الفرائض §53",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.54",
+      "label": "كتاب الفرائض §54",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.55",
+      "label": "كتاب الفرائض §55",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.56",
+      "label": "كتاب الفرائض §56",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.57",
+      "label": "كتاب الفرائض §57",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.58",
+      "label": "كتاب الفرائض §58",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.59",
+      "label": "كتاب الفرائض §59",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.60",
+      "label": "كتاب الفرائض §60",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.61",
+      "label": "كتاب الفرائض §61",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.62",
+      "label": "كتاب الفرائض §62",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.63",
+      "label": "كتاب الفرائض §63",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.64",
+      "label": "كتاب الفرائض §64",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.65",
+      "label": "كتاب الفرائض §65",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.66",
+      "label": "كتاب الفرائض §66",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.67",
+      "label": "كتاب الفرائض §67",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.68",
+      "label": "كتاب الفرائض §68",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.69",
+      "label": "كتاب الفرائض §69",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.70",
+      "label": "كتاب الفرائض §70",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.71",
+      "label": "كتاب الفرائض §71",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.72",
+      "label": "كتاب الفرائض §72",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.73",
+      "label": "كتاب الفرائض §73",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.74",
+      "label": "كتاب الفرائض §74",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.75",
+      "label": "كتاب الفرائض §75",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.76",
+      "label": "كتاب الفرائض §76",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.77",
+      "label": "كتاب الفرائض §77",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.78",
+      "label": "كتاب الفرائض §78",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.79",
+      "label": "كتاب الفرائض §79",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.80",
+      "label": "كتاب الفرائض §80",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.81",
+      "label": "كتاب الفرائض §81",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.82",
+      "label": "كتاب الفرائض §82",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.83",
+      "label": "كتاب الفرائض §83",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.84",
+      "label": "كتاب الفرائض §84",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.85",
+      "label": "كتاب الفرائض §85",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.86",
+      "label": "كتاب الفرائض §86",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.87",
+      "label": "كتاب الفرائض §87",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.88",
+      "label": "كتاب الفرائض §88",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.89",
+      "label": "كتاب الفرائض §89",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.90",
+      "label": "كتاب الفرائض §90",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.91",
+      "label": "كتاب الفرائض §91",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.92",
+      "label": "كتاب الفرائض §92",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.93",
+      "label": "كتاب الفرائض §93",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "12.1",
+      "label": "كتاب النكاح §1",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.2",
+      "label": "كتاب النكاح §2",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.3",
+      "label": "كتاب النكاح §3",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.4",
+      "label": "كتاب النكاح §4",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.5",
+      "label": "كتاب النكاح §5",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.6",
+      "label": "كتاب النكاح §6",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.7",
+      "label": "كتاب النكاح §7",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.8",
+      "label": "كتاب النكاح §8",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.9",
+      "label": "كتاب النكاح §9",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.10",
+      "label": "كتاب النكاح §10",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.11",
+      "label": "كتاب النكاح §11",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.12",
+      "label": "كتاب النكاح §12",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.13",
+      "label": "كتاب النكاح §13",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.14",
+      "label": "كتاب النكاح §14",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.15",
+      "label": "كتاب النكاح §15",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.16",
+      "label": "كتاب النكاح §16",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.17",
+      "label": "كتاب النكاح §17",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.18",
+      "label": "كتاب النكاح §18",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.19",
+      "label": "كتاب النكاح §19",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.20",
+      "label": "كتاب النكاح §20",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.21",
+      "label": "كتاب النكاح §21",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.22",
+      "label": "كتاب النكاح §22",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.23",
+      "label": "كتاب النكاح §23",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.24",
+      "label": "كتاب النكاح §24",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.25",
+      "label": "كتاب النكاح §25",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.26",
+      "label": "كتاب النكاح §26",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.27",
+      "label": "كتاب النكاح §27",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.28",
+      "label": "كتاب النكاح §28",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.29",
+      "label": "كتاب النكاح §29",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.30",
+      "label": "كتاب النكاح §30",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.31",
+      "label": "كتاب النكاح §31",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.32",
+      "label": "كتاب النكاح §32",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.33",
+      "label": "كتاب النكاح §33",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.34",
+      "label": "كتاب النكاح §34",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.35",
+      "label": "كتاب النكاح §35",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "13.1",
+      "label": "كتاب الرضاع §1",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.2",
+      "label": "كتاب الرضاع §2",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.3",
+      "label": "كتاب الرضاع §3",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.4",
+      "label": "كتاب الرضاع §4",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.5",
+      "label": "كتاب الرضاع §5",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.6",
+      "label": "كتاب الرضاع §6",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.7",
+      "label": "كتاب الرضاع §7",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.8",
+      "label": "كتاب الرضاع §8",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.9",
+      "label": "كتاب الرضاع §9",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.10",
+      "label": "كتاب الرضاع §10",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.11",
+      "label": "كتاب الرضاع §11",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.12",
+      "label": "كتاب الرضاع §12",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.13",
+      "label": "كتاب الرضاع §13",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.14",
+      "label": "كتاب الرضاع §14",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.15",
+      "label": "كتاب الرضاع §15",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.16",
+      "label": "كتاب الرضاع §16",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.17",
+      "label": "كتاب الرضاع §17",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.18",
+      "label": "كتاب الرضاع §18",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.19",
+      "label": "كتاب الرضاع §19",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.20",
+      "label": "كتاب الرضاع §20",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.21",
+      "label": "كتاب الرضاع §21",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.22",
+      "label": "كتاب الرضاع §22",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.23",
+      "label": "كتاب الرضاع §23",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.24",
+      "label": "كتاب الرضاع §24",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.25",
+      "label": "كتاب الرضاع §25",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.26",
+      "label": "كتاب الرضاع §26",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.27",
+      "label": "كتاب الرضاع §27",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.28",
+      "label": "كتاب الرضاع §28",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.29",
+      "label": "كتاب الرضاع §29",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.30",
+      "label": "كتاب الرضاع §30",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "14.1",
+      "label": "كتاب الصداق §1",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.2",
+      "label": "كتاب الصداق §2",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.3",
+      "label": "كتاب الصداق §3",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.4",
+      "label": "كتاب الصداق §4",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.5",
+      "label": "كتاب الصداق §5",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.6",
+      "label": "كتاب الصداق §6",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.7",
+      "label": "كتاب الصداق §7",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.8",
+      "label": "كتاب الصداق §8",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.9",
+      "label": "كتاب الصداق §9",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.10",
+      "label": "كتاب الصداق §10",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.11",
+      "label": "كتاب الصداق §11",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.12",
+      "label": "كتاب الصداق §12",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.13",
+      "label": "كتاب الصداق §13",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.14",
+      "label": "كتاب الصداق §14",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.15",
+      "label": "كتاب الصداق §15",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.16",
+      "label": "كتاب الصداق §16",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.17",
+      "label": "كتاب الصداق §17",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.18",
+      "label": "كتاب الصداق §18",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.19",
+      "label": "كتاب الصداق §19",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.20",
+      "label": "كتاب الصداق §20",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.21",
+      "label": "كتاب الصداق §21",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.22",
+      "label": "كتاب الصداق §22",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.23",
+      "label": "كتاب الصداق §23",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.24",
+      "label": "كتاب الصداق §24",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.25",
+      "label": "كتاب الصداق §25",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.26",
+      "label": "كتاب الصداق §26",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.27",
+      "label": "كتاب الصداق §27",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.28",
+      "label": "كتاب الصداق §28",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.29",
+      "label": "كتاب الصداق §29",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.30",
+      "label": "كتاب الصداق §30",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.31",
+      "label": "كتاب الصداق §31",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.32",
+      "label": "كتاب الصداق §32",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.33",
+      "label": "كتاب الصداق §33",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.34",
+      "label": "كتاب الصداق §34",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.35",
+      "label": "كتاب الصداق §35",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.36",
+      "label": "كتاب الصداق §36",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.37",
+      "label": "كتاب الصداق §37",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.38",
+      "label": "كتاب الصداق §38",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.39",
+      "label": "كتاب الصداق §39",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.40",
+      "label": "كتاب الصداق §40",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.41",
+      "label": "كتاب الصداق §41",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.42",
+      "label": "كتاب الصداق §42",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "15.1",
+      "label": "كتاب الطلاق §1",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.2",
+      "label": "كتاب الطلاق §2",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.3",
+      "label": "كتاب الطلاق §3",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.4",
+      "label": "كتاب الطلاق §4",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.5",
+      "label": "كتاب الطلاق §5",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.6",
+      "label": "كتاب الطلاق §6",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.7",
+      "label": "كتاب الطلاق §7",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.8",
+      "label": "كتاب الطلاق §8",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.9",
+      "label": "كتاب الطلاق §9",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.10",
+      "label": "كتاب الطلاق §10",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.11",
+      "label": "كتاب الطلاق §11",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.12",
+      "label": "كتاب الطلاق §12",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.13",
+      "label": "كتاب الطلاق §13",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.14",
+      "label": "كتاب الطلاق §14",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.15",
+      "label": "كتاب الطلاق §15",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.16",
+      "label": "كتاب الطلاق §16",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.17",
+      "label": "كتاب الطلاق §17",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.18",
+      "label": "كتاب الطلاق §18",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.19",
+      "label": "كتاب الطلاق §19",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.20",
+      "label": "كتاب الطلاق §20",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.21",
+      "label": "كتاب الطلاق §21",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.22",
+      "label": "كتاب الطلاق §22",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.23",
+      "label": "كتاب الطلاق §23",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.24",
+      "label": "كتاب الطلاق §24",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.25",
+      "label": "كتاب الطلاق §25",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.26",
+      "label": "كتاب الطلاق §26",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.27",
+      "label": "كتاب الطلاق §27",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.28",
+      "label": "كتاب الطلاق §28",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.29",
+      "label": "كتاب الطلاق §29",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.30",
+      "label": "كتاب الطلاق §30",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.31",
+      "label": "كتاب الطلاق §31",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.32",
+      "label": "كتاب الطلاق §32",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.33",
+      "label": "كتاب الطلاق §33",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.34",
+      "label": "كتاب الطلاق §34",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.35",
+      "label": "كتاب الطلاق §35",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.36",
+      "label": "كتاب الطلاق §36",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.37",
+      "label": "كتاب الطلاق §37",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.38",
+      "label": "كتاب الطلاق §38",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.39",
+      "label": "كتاب الطلاق §39",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.40",
+      "label": "كتاب الطلاق §40",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.41",
+      "label": "كتاب الطلاق §41",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.42",
+      "label": "كتاب الطلاق §42",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.43",
+      "label": "كتاب الطلاق §43",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.44",
+      "label": "كتاب الطلاق §44",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.45",
+      "label": "كتاب الطلاق §45",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.46",
+      "label": "كتاب الطلاق §46",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.47",
+      "label": "كتاب الطلاق §47",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.48",
+      "label": "كتاب الطلاق §48",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.49",
+      "label": "كتاب الطلاق §49",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.50",
+      "label": "كتاب الطلاق §50",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.51",
+      "label": "كتاب الطلاق §51",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.52",
+      "label": "كتاب الطلاق §52",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.53",
+      "label": "كتاب الطلاق §53",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.54",
+      "label": "كتاب الطلاق §54",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.55",
+      "label": "كتاب الطلاق §55",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.56",
+      "label": "كتاب الطلاق §56",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.57",
+      "label": "كتاب الطلاق §57",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.58",
+      "label": "كتاب الطلاق §58",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.59",
+      "label": "كتاب الطلاق §59",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.60",
+      "label": "كتاب الطلاق §60",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.61",
+      "label": "كتاب الطلاق §61",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "16.1",
+      "label": "كتاب الظهار §1",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.2",
+      "label": "كتاب الظهار §2",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.3",
+      "label": "كتاب الظهار §3",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.4",
+      "label": "كتاب الظهار §4",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.5",
+      "label": "كتاب الظهار §5",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.6",
+      "label": "كتاب الظهار §6",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "17.1",
+      "label": "كتاب اللعان §1",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.2",
+      "label": "كتاب اللعان §2",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.3",
+      "label": "كتاب اللعان §3",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.4",
+      "label": "كتاب اللعان §4",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.5",
+      "label": "كتاب اللعان §5",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.6",
+      "label": "كتاب اللعان §6",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.7",
+      "label": "كتاب اللعان §7",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.8",
+      "label": "كتاب اللعان §8",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.9",
+      "label": "كتاب اللعان §9",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.10",
+      "label": "كتاب اللعان §10",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.11",
+      "label": "كتاب اللعان §11",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.12",
+      "label": "كتاب اللعان §12",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.13",
+      "label": "كتاب اللعان §13",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.14",
+      "label": "كتاب اللعان §14",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.15",
+      "label": "كتاب اللعان §15",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.16",
+      "label": "كتاب اللعان §16",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.17",
+      "label": "كتاب اللعان §17",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.18",
+      "label": "كتاب اللعان §18",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.19",
+      "label": "كتاب اللعان §19",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.20",
+      "label": "كتاب اللعان §20",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.21",
+      "label": "كتاب اللعان §21",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.22",
+      "label": "كتاب اللعان §22",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.23",
+      "label": "كتاب اللعان §23",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.24",
+      "label": "كتاب اللعان §24",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.25",
+      "label": "كتاب اللعان §25",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "18.1",
+      "label": "كتاب الأطعمة §1",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.2",
+      "label": "كتاب الأطعمة §2",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.3",
+      "label": "كتاب الأطعمة §3",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.4",
+      "label": "كتاب الأطعمة §4",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.5",
+      "label": "كتاب الأطعمة §5",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.6",
+      "label": "كتاب الأطعمة §6",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.7",
+      "label": "كتاب الأطعمة §7",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.8",
+      "label": "كتاب الأطعمة §8",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.9",
+      "label": "كتاب الأطعمة §9",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.10",
+      "label": "كتاب الأطعمة §10",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.11",
+      "label": "كتاب الأطعمة §11",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.12",
+      "label": "كتاب الأطعمة §12",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.13",
+      "label": "كتاب الأطعمة §13",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.14",
+      "label": "كتاب الأطعمة §14",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.15",
+      "label": "كتاب الأطعمة §15",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.16",
+      "label": "كتاب الأطعمة §16",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.17",
+      "label": "كتاب الأطعمة §17",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.18",
+      "label": "كتاب الأطعمة §18",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.19",
+      "label": "كتاب الأطعمة §19",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.20",
+      "label": "كتاب الأطعمة §20",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.21",
+      "label": "كتاب الأطعمة §21",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "19.1",
+      "label": "كتاب الصيد §1",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.2",
+      "label": "كتاب الصيد §2",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.3",
+      "label": "كتاب الصيد §3",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.4",
+      "label": "كتاب الصيد §4",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.5",
+      "label": "كتاب الصيد §5",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.6",
+      "label": "كتاب الصيد §6",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.7",
+      "label": "كتاب الصيد §7",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.8",
+      "label": "كتاب الصيد §8",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.9",
+      "label": "كتاب الصيد §9",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.10",
+      "label": "كتاب الصيد §10",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.11",
+      "label": "كتاب الصيد §11",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.12",
+      "label": "كتاب الصيد §12",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.13",
+      "label": "كتاب الصيد §13",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.14",
+      "label": "كتاب الصيد §14",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.15",
+      "label": "كتاب الصيد §15",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.16",
+      "label": "كتاب الصيد §16",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.17",
+      "label": "كتاب الصيد §17",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.18",
+      "label": "كتاب الصيد §18",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.19",
+      "label": "كتاب الصيد §19",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.20",
+      "label": "كتاب الصيد §20",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.21",
+      "label": "كتاب الصيد §21",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.22",
+      "label": "كتاب الصيد §22",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "20.1",
+      "label": "كتاب الأيمان §1",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.2",
+      "label": "كتاب الأيمان §2",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.3",
+      "label": "كتاب الأيمان §3",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.4",
+      "label": "كتاب الأيمان §4",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.5",
+      "label": "كتاب الأيمان §5",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.6",
+      "label": "كتاب الأيمان §6",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.7",
+      "label": "كتاب الأيمان §7",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.8",
+      "label": "كتاب الأيمان §8",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.9",
+      "label": "كتاب الأيمان §9",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.10",
+      "label": "كتاب الأيمان §10",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.11",
+      "label": "كتاب الأيمان §11",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.12",
+      "label": "كتاب الأيمان §12",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.13",
+      "label": "كتاب الأيمان §13",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.14",
+      "label": "كتاب الأيمان §14",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.15",
+      "label": "كتاب الأيمان §15",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.16",
+      "label": "كتاب الأيمان §16",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.17",
+      "label": "كتاب الأيمان §17",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.18",
+      "label": "كتاب الأيمان §18",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.19",
+      "label": "كتاب الأيمان §19",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.20",
+      "label": "كتاب الأيمان §20",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.21",
+      "label": "كتاب الأيمان §21",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "21.1",
+      "label": "كتاب الجنايات §1",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.2",
+      "label": "كتاب الجنايات §2",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.3",
+      "label": "كتاب الجنايات §3",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.4",
+      "label": "كتاب الجنايات §4",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.5",
+      "label": "كتاب الجنايات §5",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.6",
+      "label": "كتاب الجنايات §6",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.7",
+      "label": "كتاب الجنايات §7",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.8",
+      "label": "كتاب الجنايات §8",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.9",
+      "label": "كتاب الجنايات §9",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.10",
+      "label": "كتاب الجنايات §10",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.11",
+      "label": "كتاب الجنايات §11",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.12",
+      "label": "كتاب الجنايات §12",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.13",
+      "label": "كتاب الجنايات §13",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.14",
+      "label": "كتاب الجنايات §14",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.15",
+      "label": "كتاب الجنايات §15",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.16",
+      "label": "كتاب الجنايات §16",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.17",
+      "label": "كتاب الجنايات §17",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.18",
+      "label": "كتاب الجنايات §18",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.19",
+      "label": "كتاب الجنايات §19",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.20",
+      "label": "كتاب الجنايات §20",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.21",
+      "label": "كتاب الجنايات §21",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.22",
+      "label": "كتاب الجنايات §22",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.23",
+      "label": "كتاب الجنايات §23",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.24",
+      "label": "كتاب الجنايات §24",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.25",
+      "label": "كتاب الجنايات §25",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.26",
+      "label": "كتاب الجنايات §26",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.27",
+      "label": "كتاب الجنايات §27",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.28",
+      "label": "كتاب الجنايات §28",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.29",
+      "label": "كتاب الجنايات §29",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.30",
+      "label": "كتاب الجنايات §30",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.31",
+      "label": "كتاب الجنايات §31",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.32",
+      "label": "كتاب الجنايات §32",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.33",
+      "label": "كتاب الجنايات §33",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.34",
+      "label": "كتاب الجنايات §34",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.35",
+      "label": "كتاب الجنايات §35",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.36",
+      "label": "كتاب الجنايات §36",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.37",
+      "label": "كتاب الجنايات §37",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.38",
+      "label": "كتاب الجنايات §38",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.39",
+      "label": "كتاب الجنايات §39",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.40",
+      "label": "كتاب الجنايات §40",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.41",
+      "label": "كتاب الجنايات §41",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.42",
+      "label": "كتاب الجنايات §42",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "22.1",
+      "label": "كتاب الديات §1",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.2",
+      "label": "كتاب الديات §2",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.3",
+      "label": "كتاب الديات §3",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.4",
+      "label": "كتاب الديات §4",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.5",
+      "label": "كتاب الديات §5",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.6",
+      "label": "كتاب الديات §6",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.7",
+      "label": "كتاب الديات §7",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.8",
+      "label": "كتاب الديات §8",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.9",
+      "label": "كتاب الديات §9",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.10",
+      "label": "كتاب الديات §10",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.11",
+      "label": "كتاب الديات §11",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.12",
+      "label": "كتاب الديات §12",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.13",
+      "label": "كتاب الديات §13",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.14",
+      "label": "كتاب الديات §14",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.15",
+      "label": "كتاب الديات §15",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.16",
+      "label": "كتاب الديات §16",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.17",
+      "label": "كتاب الديات §17",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.18",
+      "label": "كتاب الديات §18",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.19",
+      "label": "كتاب الديات §19",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.20",
+      "label": "كتاب الديات §20",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.21",
+      "label": "كتاب الديات §21",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.22",
+      "label": "كتاب الديات §22",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.23",
+      "label": "كتاب الديات §23",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.24",
+      "label": "كتاب الديات §24",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.25",
+      "label": "كتاب الديات §25",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.26",
+      "label": "كتاب الديات §26",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.27",
+      "label": "كتاب الديات §27",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.28",
+      "label": "كتاب الديات §28",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.29",
+      "label": "كتاب الديات §29",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.30",
+      "label": "كتاب الديات §30",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.31",
+      "label": "كتاب الديات §31",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.32",
+      "label": "كتاب الديات §32",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.33",
+      "label": "كتاب الديات §33",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.34",
+      "label": "كتاب الديات §34",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.35",
+      "label": "كتاب الديات §35",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.36",
+      "label": "كتاب الديات §36",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.37",
+      "label": "كتاب الديات §37",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.38",
+      "label": "كتاب الديات §38",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.39",
+      "label": "كتاب الديات §39",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.40",
+      "label": "كتاب الديات §40",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "23.1",
+      "label": "كتاب الحدود §1",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.2",
+      "label": "كتاب الحدود §2",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.3",
+      "label": "كتاب الحدود §3",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.4",
+      "label": "كتاب الحدود §4",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.5",
+      "label": "كتاب الحدود §5",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.6",
+      "label": "كتاب الحدود §6",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.7",
+      "label": "كتاب الحدود §7",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.8",
+      "label": "كتاب الحدود §8",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.9",
+      "label": "كتاب الحدود §9",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.10",
+      "label": "كتاب الحدود §10",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.11",
+      "label": "كتاب الحدود §11",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.12",
+      "label": "كتاب الحدود §12",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.13",
+      "label": "كتاب الحدود §13",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.14",
+      "label": "كتاب الحدود §14",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.15",
+      "label": "كتاب الحدود §15",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.16",
+      "label": "كتاب الحدود §16",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.17",
+      "label": "كتاب الحدود §17",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.18",
+      "label": "كتاب الحدود §18",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.19",
+      "label": "كتاب الحدود §19",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.20",
+      "label": "كتاب الحدود §20",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.21",
+      "label": "كتاب الحدود §21",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.22",
+      "label": "كتاب الحدود §22",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.23",
+      "label": "كتاب الحدود §23",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.24",
+      "label": "كتاب الحدود §24",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.25",
+      "label": "كتاب الحدود §25",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.26",
+      "label": "كتاب الحدود §26",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.27",
+      "label": "كتاب الحدود §27",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.28",
+      "label": "كتاب الحدود §28",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.29",
+      "label": "كتاب الحدود §29",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.30",
+      "label": "كتاب الحدود §30",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.31",
+      "label": "كتاب الحدود §31",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.32",
+      "label": "كتاب الحدود §32",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.33",
+      "label": "كتاب الحدود §33",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.34",
+      "label": "كتاب الحدود §34",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.35",
+      "label": "كتاب الحدود §35",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.36",
+      "label": "كتاب الحدود §36",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.37",
+      "label": "كتاب الحدود §37",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.38",
+      "label": "كتاب الحدود §38",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.39",
+      "label": "كتاب الحدود §39",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.40",
+      "label": "كتاب الحدود §40",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.41",
+      "label": "كتاب الحدود §41",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.42",
+      "label": "كتاب الحدود §42",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.43",
+      "label": "كتاب الحدود §43",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.44",
+      "label": "كتاب الحدود §44",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.45",
+      "label": "كتاب الحدود §45",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.46",
+      "label": "كتاب الحدود §46",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.47",
+      "label": "كتاب الحدود §47",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.48",
+      "label": "كتاب الحدود §48",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "24.1",
+      "label": "كتاب الجهاد §1",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.2",
+      "label": "كتاب الجهاد §2",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.3",
+      "label": "كتاب الجهاد §3",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.4",
+      "label": "كتاب الجهاد §4",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.5",
+      "label": "كتاب الجهاد §5",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.6",
+      "label": "كتاب الجهاد §6",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.7",
+      "label": "كتاب الجهاد §7",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.8",
+      "label": "كتاب الجهاد §8",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.9",
+      "label": "كتاب الجهاد §9",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.10",
+      "label": "كتاب الجهاد §10",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.11",
+      "label": "كتاب الجهاد §11",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.12",
+      "label": "كتاب الجهاد §12",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.13",
+      "label": "كتاب الجهاد §13",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.14",
+      "label": "كتاب الجهاد §14",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.15",
+      "label": "كتاب الجهاد §15",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.16",
+      "label": "كتاب الجهاد §16",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.17",
+      "label": "كتاب الجهاد §17",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.18",
+      "label": "كتاب الجهاد §18",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.19",
+      "label": "كتاب الجهاد §19",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.20",
+      "label": "كتاب الجهاد §20",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.21",
+      "label": "كتاب الجهاد §21",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.22",
+      "label": "كتاب الجهاد §22",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.23",
+      "label": "كتاب الجهاد §23",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.24",
+      "label": "كتاب الجهاد §24",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.25",
+      "label": "كتاب الجهاد §25",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.26",
+      "label": "كتاب الجهاد §26",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.27",
+      "label": "كتاب الجهاد §27",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.28",
+      "label": "كتاب الجهاد §28",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.29",
+      "label": "كتاب الجهاد §29",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.30",
+      "label": "كتاب الجهاد §30",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.31",
+      "label": "كتاب الجهاد §31",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.32",
+      "label": "كتاب الجهاد §32",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.33",
+      "label": "كتاب الجهاد §33",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.34",
+      "label": "كتاب الجهاد §34",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.35",
+      "label": "كتاب الجهاد §35",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.36",
+      "label": "كتاب الجهاد §36",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.37",
+      "label": "كتاب الجهاد §37",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.38",
+      "label": "كتاب الجهاد §38",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.39",
+      "label": "كتاب الجهاد §39",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.40",
+      "label": "كتاب الجهاد §40",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.41",
+      "label": "كتاب الجهاد §41",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.42",
+      "label": "كتاب الجهاد §42",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.43",
+      "label": "كتاب الجهاد §43",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.44",
+      "label": "كتاب الجهاد §44",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.45",
+      "label": "كتاب الجهاد §45",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.46",
+      "label": "كتاب الجهاد §46",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.47",
+      "label": "كتاب الجهاد §47",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "25.1",
+      "label": "كتاب القضاء §1",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.2",
+      "label": "كتاب القضاء §2",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.3",
+      "label": "كتاب القضاء §3",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.4",
+      "label": "كتاب القضاء §4",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.5",
+      "label": "كتاب القضاء §5",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.6",
+      "label": "كتاب القضاء §6",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.7",
+      "label": "كتاب القضاء §7",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.8",
+      "label": "كتاب القضاء §8",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.9",
+      "label": "كتاب القضاء §9",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.10",
+      "label": "كتاب القضاء §10",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.11",
+      "label": "كتاب القضاء §11",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.12",
+      "label": "كتاب القضاء §12",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.13",
+      "label": "كتاب القضاء §13",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.14",
+      "label": "كتاب القضاء §14",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.15",
+      "label": "كتاب القضاء §15",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.16",
+      "label": "كتاب القضاء §16",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.17",
+      "label": "كتاب القضاء §17",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.18",
+      "label": "كتاب القضاء §18",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.19",
+      "label": "كتاب القضاء §19",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.20",
+      "label": "كتاب القضاء §20",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.21",
+      "label": "كتاب القضاء §21",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.22",
+      "label": "كتاب القضاء §22",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.23",
+      "label": "كتاب القضاء §23",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.24",
+      "label": "كتاب القضاء §24",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.25",
+      "label": "كتاب القضاء §25",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.26",
+      "label": "كتاب القضاء §26",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.27",
+      "label": "كتاب القضاء §27",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.28",
+      "label": "كتاب القضاء §28",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.29",
+      "label": "كتاب القضاء §29",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.30",
+      "label": "كتاب القضاء §30",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.31",
+      "label": "كتاب القضاء §31",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.32",
+      "label": "كتاب القضاء §32",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.33",
+      "label": "كتاب القضاء §33",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "26.1",
+      "label": "كتاب الشهادات §1",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.2",
+      "label": "كتاب الشهادات §2",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.3",
+      "label": "كتاب الشهادات §3",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.4",
+      "label": "كتاب الشهادات §4",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.5",
+      "label": "كتاب الشهادات §5",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.6",
+      "label": "كتاب الشهادات §6",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.7",
+      "label": "كتاب الشهادات §7",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.8",
+      "label": "كتاب الشهادات §8",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.9",
+      "label": "كتاب الشهادات §9",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.10",
+      "label": "كتاب الشهادات §10",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.11",
+      "label": "كتاب الشهادات §11",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.12",
+      "label": "كتاب الشهادات §12",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.13",
+      "label": "كتاب الشهادات §13",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.14",
+      "label": "كتاب الشهادات §14",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.15",
+      "label": "كتاب الشهادات §15",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.16",
+      "label": "كتاب الشهادات §16",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.17",
+      "label": "كتاب الشهادات §17",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.18",
+      "label": "كتاب الشهادات §18",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.19",
+      "label": "كتاب الشهادات §19",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.20",
+      "label": "كتاب الشهادات §20",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.21",
+      "label": "كتاب الشهادات §21",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.22",
+      "label": "كتاب الشهادات §22",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.23",
+      "label": "كتاب الشهادات §23",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.24",
+      "label": "كتاب الشهادات §24",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.25",
+      "label": "كتاب الشهادات §25",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.26",
+      "label": "كتاب الشهادات §26",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.27",
+      "label": "كتاب الشهادات §27",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.28",
+      "label": "كتاب الشهادات §28",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.29",
+      "label": "كتاب الشهادات §29",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.30",
+      "label": "كتاب الشهادات §30",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.31",
+      "label": "كتاب الشهادات §31",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.32",
+      "label": "كتاب الشهادات §32",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.33",
+      "label": "كتاب الشهادات §33",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.34",
+      "label": "كتاب الشهادات §34",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.35",
+      "label": "كتاب الشهادات §35",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.36",
+      "label": "كتاب الشهادات §36",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.37",
+      "label": "كتاب الشهادات §37",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.38",
+      "label": "كتاب الشهادات §38",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.39",
+      "label": "كتاب الشهادات §39",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.40",
+      "label": "كتاب الشهادات §40",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.41",
+      "label": "كتاب الشهادات §41",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.42",
+      "label": "كتاب الشهادات §42",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.43",
+      "label": "كتاب الشهادات §43",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.44",
+      "label": "كتاب الشهادات §44",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.45",
+      "label": "كتاب الشهادات §45",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.46",
+      "label": "كتاب الشهادات §46",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.47",
+      "label": "كتاب الشهادات §47",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.48",
+      "label": "كتاب الشهادات §48",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.49",
+      "label": "كتاب الشهادات §49",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.50",
+      "label": "كتاب الشهادات §50",
+      "chapterRef": "26"
+    }
+  ],
+  "editions": [
+    {
+      "slug": "umdat-al-fiqh-ar-openiti",
+      "language": "ar",
+      "editionType": "original",
+      "title": "Arabic text (OpenITI transcription of the Shamela edition)",
+      "translator": "",
+      "publisher": "OpenITI",
+      "publicationYear": null,
+      "source": "openiti",
+      "license": "cc-by-nc-sa",
+      "rightsStatus": "The classical work is public domain. This digital transcription is distributed by OpenITI under CC BY-NC-SA 4.0 and is streamed with attribution.",
+      "attributionText": "'Umdat al-Fiqh by ibn-qudama. Arabic text from the OpenITI corpus (0625AH/0620IbnQudamaMaqdisi.CumdatFiqh.Shamela0011315-ara1), distributed under CC BY-NC-SA 4.0.",
+      "structureScheme": "chapter and paragraph; chapter headings from the OpenITI transcription",
+      "isSample": false,
+      "notes": "Arabic only. The English translation was not available under a verifiable public-domain licence, so it is not included."
+    }
+  ]
+}

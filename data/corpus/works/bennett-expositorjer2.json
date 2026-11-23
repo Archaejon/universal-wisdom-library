@@ -1,0 +1,104 @@
+{
+  "slug": "bennett-expositorjer2",
+  "title": "The Expositor's Bible: The Book of Jeremiah, Volume II",
+  "originalTitle": "",
+  "transliteration": "",
+  "altTitles": [
+    "Expositor's Bible: The Book of Jeremiah, Volume II"
+  ],
+  "tradition": "christianity",
+  "school": "",
+  "genre": "Commentaries",
+  "textType": "Christian text in English translation",
+  "category": "Commentaries",
+  "subcategory": "Commentaries",
+  "originalLanguage": "en",
+  "dateStart": null,
+  "dateEnd": null,
+  "dateDisplay": "",
+  "authorshipStatus": "traditional",
+  "author": "bennett",
+  "attributionNote": "Recorded in the Christian Classics Ethereal Library under William H. Bennett (1855-1920). The site catalogues the work at https://ccel.org/ccel/bennett/expositorjer2, whose own card names the print edition transcribed here; where the site carries a title by a publisher's permission rather than in public domain, this library does not take it.",
+  "description": "The Expositor's Bible: The Book of Jeremiah, Volume II — the English text the Christian Classics Ethereal Library publishes for this work, on the site's Commentaries shelf. The record was created by the CCEL import from the site's own catalogue and plain text; an editor's note for the work itself is still to be written.",
+  "historicalContext": "Read in the Christian Classics Ethereal Library's catalogue, whose shelves follow the site's own division of Christian literature, and whose transcription follows the print edition London: Hodder and Stoughton, 1895..",
+  "availabilityNote": "Complete in the Christian Classics Ethereal Library's plain-text edition: 2 chapter(s), 7 paragraph(s), 120 words. The divisions are the headings of the site's own text, which the library stores rather than asking the site for again when the work is read. The text is public domain and is displayed with the library's credit.",
+  "featured": false,
+  "featuredNote": "",
+  "refScheme": "chapter.paragraph",
+  "isSample": false,
+  "textStorage": "local",
+  "chapters": [
+    {
+      "ref": "1",
+      "label": "THE EXPOSITOR'S BIBLE, EDITED BY THE REV"
+    },
+    {
+      "ref": "2",
+      "label": "BOOK OF JEREMIAH, 27, PATERNOSTER ROW"
+    }
+  ],
+  "passages": [
+    {
+      "reference": "1.1",
+      "label": "THE EXPOSITOR'S BIBLE, EDITED BY THE REV §1",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.2",
+      "label": "THE EXPOSITOR'S BIBLE, EDITED BY THE REV §2",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "2.1",
+      "label": "BOOK OF JEREMIAH, 27, PATERNOSTER ROW §1",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.2",
+      "label": "BOOK OF JEREMIAH, 27, PATERNOSTER ROW §2",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.3",
+      "label": "BOOK OF JEREMIAH, 27, PATERNOSTER ROW §3",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.4",
+      "label": "BOOK OF JEREMIAH, 27, PATERNOSTER ROW §4",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.5",
+      "label": "BOOK OF JEREMIAH, 27, PATERNOSTER ROW §5",
+      "chapterRef": "2"
+    }
+  ],
+  "editions": [
+    {
+      "slug": "bennett-expositorjer2-en",
+      "language": "en",
+      "editionType": "translation",
+      "title": "The Expositor's Bible: The Book of Jeremiah, Volume II",
+      "translator": "",
+      "publisher": "Christian Classics Ethereal Library",
+      "publicationYear": null,
+      "source": "ccel",
+      "license": "public-domain",
+      "rightsStatus": "Public domain. The site's card for this work states no rights field; ccel.org's own copyright page records its books as public domain, with a few carried by a publisher's permission and marked as such.",
+      "attributionText": "Text from the Christian Classics Ethereal Library (ccel.org), which transcribed and published this edition from London: Hodder and Stoughton, 1895.. The translation is public domain; the transcription is credited to the library.",
+      "structureScheme": "chapter and paragraph, the chapters being the divisions of the site's plain text",
+      "isSample": false,
+      "notes": "Imported from the plain-text file the CCEL publishes for this work; its headings divide the work, its blank lines separate the paragraphs, and nothing is fetched from ccel.org when the work is read.",
+      "texts": {
+        "1.1": "W. ROBERTSON NICOLL, M.A., LL.D.",
+        "1.2": "Editor of \"The Expositor\"",
+        "2.1": "MDCCCXCV",
+        "2.2": "PREFACE",
+        "2.3": "The present work deals primarily with Jeremiah xxi.-lii., thus forming a supplement to the volume of the Expositor's Bible on Jeremiah by the Rev. C. J. Ball, M.A. References to the earlier chapters are only introduced where they are necessary to illustrate and explain the later sections.",
+        "2.4": "I regret that two important works, Prof. Skinner's Ezekiel in this series, and Cornill's Jeremiah in Dr. Haupt's Sacred Books of the Old Testament, were published too late to be used in the preparation of this volume.",
+        "2.5": "I have again to acknowledge my indebtedness to the Rev. T. H. Darlow, M.A., for a careful reading and much valuable criticism of my MS."
+      }
+    }
+  ]
+}

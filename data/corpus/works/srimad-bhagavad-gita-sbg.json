@@ -1,0 +1,3627 @@
+{
+  "slug": "srimad-bhagavad-gita-sbg",
+  "title": "Srimad Bhagavad Gita",
+  "originalTitle": "श्रीमद्भगवद्गीता",
+  "transliteration": "Śrīmad Bhagavad Gītā",
+  "altTitles": [],
+  "tradition": "hinduism",
+  "school": "vedanta",
+  "genre": "Scripture",
+  "textType": "Sanskrit verse (sloka)",
+  "category": "Vedānta",
+  "subcategory": "",
+  "originalLanguage": "sa",
+  "dateStart": null,
+  "dateEnd": null,
+  "dateDisplay": "",
+  "authorshipStatus": "traditional",
+  "author": "vyasa",
+  "attributionNote": "Srimad Bhagavad Gita, attributed to Maharishi Vyaas, as Heritage IITKanpur's Scripture Server catalogues it (SBG), on its own shelf.",
+  "description": "The Bhagavad Gītā, ascribed to Vyāsa, is a Sanskrit dialogue of some 700 verses in eighteen chapters, set in the Bhīṣma Parva of the Mahābhārata. As the armies stand ready at Kurukṣetra, Arjuna loses heart and asks Kṛṣṇa to teach him. Its subject is right action and knowledge of the Self; its purposes run from steadying a troubled mind to liberation, and it is recited daily as well as studied. It condenses the teaching of the Upaniṣads and stands with them and the Brahma Sūtra as one of the three foundations of Vedānta, read differently by Śaṅkara, Rāmānuja and Madhva. Its reader is anyone who, like Arjuna, stands between duty and doubt and asks to be taught. The summary above is the one Heritage IITKanpur's Scripture Server publishes for the text, and the server's own metadata records it as AI-assisted (claude-opus-5-5); an editor's note for the work itself is still to be written.",
+  "historicalContext": "Read in the Heritage Scripture Server corpus, which continues the Gita Supersite built at IIT Kanpur: the text, its classical commentaries and the translations the server may serve are held together there.",
+  "availabilityNote": "The outline is held: 18 chapter(s) and 701 verse address(es), read from the server's own catalogue. The verses are not stored — the licence forbids bulk harvesting and database reconstruction — and are streamed from the API one verse at a time as the work is read, with the attribution HCAL-1.1 requires and the server's own quota and licence notice.",
+  "featured": false,
+  "featuredNote": "",
+  "refScheme": "chapter.verse",
+  "isSample": false,
+  "textStorage": "streamed",
+  "chapters": [
+    {
+      "ref": "1",
+      "label": "1. Arjuna Viṣāda Yogaḥ"
+    },
+    {
+      "ref": "2",
+      "label": "2. Sāṅkhya Yogaḥ"
+    },
+    {
+      "ref": "3",
+      "label": "3. Karma Yogaḥ"
+    },
+    {
+      "ref": "4",
+      "label": "4. Jñāna Vibhāga Yogaḥ"
+    },
+    {
+      "ref": "5",
+      "label": "5. Karma Sannyāsa Yogaḥ"
+    },
+    {
+      "ref": "6",
+      "label": "6. Dhyāna Yogaḥ"
+    },
+    {
+      "ref": "7",
+      "label": "7. Jñāna Vijñāna Yogaḥ"
+    },
+    {
+      "ref": "8",
+      "label": "8. Akṣara Brahma Yogaḥ"
+    },
+    {
+      "ref": "9",
+      "label": "9. Rājavidyā Rājaguhya Yogaḥ"
+    },
+    {
+      "ref": "10",
+      "label": "10. Vibhūti Yogaḥ"
+    },
+    {
+      "ref": "11",
+      "label": "11. Viśvarūpa Darśana Yogaḥ"
+    },
+    {
+      "ref": "12",
+      "label": "12. Bhakti Yogaḥ"
+    },
+    {
+      "ref": "13",
+      "label": "13. Kṣetra Kṣetrajña Vibhāga Yogaḥ"
+    },
+    {
+      "ref": "14",
+      "label": "14. Guṇatraya Vibhāga Yogaḥ"
+    },
+    {
+      "ref": "15",
+      "label": "15. Puruṣottama Yogaḥ"
+    },
+    {
+      "ref": "16",
+      "label": "16. Daivāsura Sampad Vibhāga Yogaḥ"
+    },
+    {
+      "ref": "17",
+      "label": "17. Śraddhātraya Vibhāga Yogaḥ"
+    },
+    {
+      "ref": "18",
+      "label": "18. Mokṣa Sannyāsa Yogaḥ"
+    }
+  ],
+  "passages": [
+    {
+      "reference": "1.1",
+      "label": "1. Arjuna Viṣāda Yogaḥ · verse 1",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.2",
+      "label": "1. Arjuna Viṣāda Yogaḥ · verse 2",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.3",
+      "label": "1. Arjuna Viṣāda Yogaḥ · verse 3",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.4",
+      "label": "1. Arjuna Viṣāda Yogaḥ · verse 4",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.5",
+      "label": "1. Arjuna Viṣāda Yogaḥ · verse 5",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.6",
+      "label": "1. Arjuna Viṣāda Yogaḥ · verse 6",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.7",
+      "label": "1. Arjuna Viṣāda Yogaḥ · verse 7",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.8",
+      "label": "1. Arjuna Viṣāda Yogaḥ · verse 8",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.9",
+      "label": "1. Arjuna Viṣāda Yogaḥ · verse 9",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.10",
+      "label": "1. Arjuna Viṣāda Yogaḥ · verse 10",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.11",
+      "label": "1. Arjuna Viṣāda Yogaḥ · verse 11",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.12",
+      "label": "1. Arjuna Viṣāda Yogaḥ · verse 12",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.13",
+      "label": "1. Arjuna Viṣāda Yogaḥ · verse 13",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.14",
+      "label": "1. Arjuna Viṣāda Yogaḥ · verse 14",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.15",
+      "label": "1. Arjuna Viṣāda Yogaḥ · verse 15",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.16",
+      "label": "1. Arjuna Viṣāda Yogaḥ · verse 16",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.17",
+      "label": "1. Arjuna Viṣāda Yogaḥ · verse 17",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.18",
+      "label": "1. Arjuna Viṣāda Yogaḥ · verse 18",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.19",
+      "label": "1. Arjuna Viṣāda Yogaḥ · verse 19",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.20",
+      "label": "1. Arjuna Viṣāda Yogaḥ · verse 20",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.21",
+      "label": "1. Arjuna Viṣāda Yogaḥ · verse 21",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.22",
+      "label": "1. Arjuna Viṣāda Yogaḥ · verse 22",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.23",
+      "label": "1. Arjuna Viṣāda Yogaḥ · verse 23",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.24",
+      "label": "1. Arjuna Viṣāda Yogaḥ · verse 24",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.25",
+      "label": "1. Arjuna Viṣāda Yogaḥ · verse 25",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.26",
+      "label": "1. Arjuna Viṣāda Yogaḥ · verse 26",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.27",
+      "label": "1. Arjuna Viṣāda Yogaḥ · verse 27",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.28",
+      "label": "1. Arjuna Viṣāda Yogaḥ · verse 28",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.29",
+      "label": "1. Arjuna Viṣāda Yogaḥ · verse 29",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.30",
+      "label": "1. Arjuna Viṣāda Yogaḥ · verse 30",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.31",
+      "label": "1. Arjuna Viṣāda Yogaḥ · verse 31",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.32",
+      "label": "1. Arjuna Viṣāda Yogaḥ · verse 32",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.33",
+      "label": "1. Arjuna Viṣāda Yogaḥ · verse 33",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.34",
+      "label": "1. Arjuna Viṣāda Yogaḥ · verse 34",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.35",
+      "label": "1. Arjuna Viṣāda Yogaḥ · verse 35",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.36",
+      "label": "1. Arjuna Viṣāda Yogaḥ · verse 36",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.37",
+      "label": "1. Arjuna Viṣāda Yogaḥ · verse 37",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.38",
+      "label": "1. Arjuna Viṣāda Yogaḥ · verse 38",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.39",
+      "label": "1. Arjuna Viṣāda Yogaḥ · verse 39",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.40",
+      "label": "1. Arjuna Viṣāda Yogaḥ · verse 40",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.41",
+      "label": "1. Arjuna Viṣāda Yogaḥ · verse 41",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.42",
+      "label": "1. Arjuna Viṣāda Yogaḥ · verse 42",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.43",
+      "label": "1. Arjuna Viṣāda Yogaḥ · verse 43",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.44",
+      "label": "1. Arjuna Viṣāda Yogaḥ · verse 44",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.45",
+      "label": "1. Arjuna Viṣāda Yogaḥ · verse 45",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.46",
+      "label": "1. Arjuna Viṣāda Yogaḥ · verse 46",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.47",
+      "label": "1. Arjuna Viṣāda Yogaḥ · verse 47",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "2.1",
+      "label": "2. Sāṅkhya Yogaḥ · verse 1",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.2",
+      "label": "2. Sāṅkhya Yogaḥ · verse 2",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.3",
+      "label": "2. Sāṅkhya Yogaḥ · verse 3",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.4",
+      "label": "2. Sāṅkhya Yogaḥ · verse 4",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.5",
+      "label": "2. Sāṅkhya Yogaḥ · verse 5",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.6",
+      "label": "2. Sāṅkhya Yogaḥ · verse 6",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.7",
+      "label": "2. Sāṅkhya Yogaḥ · verse 7",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.8",
+      "label": "2. Sāṅkhya Yogaḥ · verse 8",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.9",
+      "label": "2. Sāṅkhya Yogaḥ · verse 9",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.10",
+      "label": "2. Sāṅkhya Yogaḥ · verse 10",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.11",
+      "label": "2. Sāṅkhya Yogaḥ · verse 11",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.12",
+      "label": "2. Sāṅkhya Yogaḥ · verse 12",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.13",
+      "label": "2. Sāṅkhya Yogaḥ · verse 13",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.14",
+      "label": "2. Sāṅkhya Yogaḥ · verse 14",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.15",
+      "label": "2. Sāṅkhya Yogaḥ · verse 15",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.16",
+      "label": "2. Sāṅkhya Yogaḥ · verse 16",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.17",
+      "label": "2. Sāṅkhya Yogaḥ · verse 17",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.18",
+      "label": "2. Sāṅkhya Yogaḥ · verse 18",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.19",
+      "label": "2. Sāṅkhya Yogaḥ · verse 19",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.20",
+      "label": "2. Sāṅkhya Yogaḥ · verse 20",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.21",
+      "label": "2. Sāṅkhya Yogaḥ · verse 21",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.22",
+      "label": "2. Sāṅkhya Yogaḥ · verse 22",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.23",
+      "label": "2. Sāṅkhya Yogaḥ · verse 23",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.24",
+      "label": "2. Sāṅkhya Yogaḥ · verse 24",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.25",
+      "label": "2. Sāṅkhya Yogaḥ · verse 25",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.26",
+      "label": "2. Sāṅkhya Yogaḥ · verse 26",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.27",
+      "label": "2. Sāṅkhya Yogaḥ · verse 27",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.28",
+      "label": "2. Sāṅkhya Yogaḥ · verse 28",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.29",
+      "label": "2. Sāṅkhya Yogaḥ · verse 29",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.30",
+      "label": "2. Sāṅkhya Yogaḥ · verse 30",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.31",
+      "label": "2. Sāṅkhya Yogaḥ · verse 31",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.32",
+      "label": "2. Sāṅkhya Yogaḥ · verse 32",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.33",
+      "label": "2. Sāṅkhya Yogaḥ · verse 33",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.34",
+      "label": "2. Sāṅkhya Yogaḥ · verse 34",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.35",
+      "label": "2. Sāṅkhya Yogaḥ · verse 35",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.36",
+      "label": "2. Sāṅkhya Yogaḥ · verse 36",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.37",
+      "label": "2. Sāṅkhya Yogaḥ · verse 37",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.38",
+      "label": "2. Sāṅkhya Yogaḥ · verse 38",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.39",
+      "label": "2. Sāṅkhya Yogaḥ · verse 39",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.40",
+      "label": "2. Sāṅkhya Yogaḥ · verse 40",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.41",
+      "label": "2. Sāṅkhya Yogaḥ · verse 41",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.42",
+      "label": "2. Sāṅkhya Yogaḥ · verse 42",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.43",
+      "label": "2. Sāṅkhya Yogaḥ · verse 43",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.44",
+      "label": "2. Sāṅkhya Yogaḥ · verse 44",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.45",
+      "label": "2. Sāṅkhya Yogaḥ · verse 45",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.46",
+      "label": "2. Sāṅkhya Yogaḥ · verse 46",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.47",
+      "label": "2. Sāṅkhya Yogaḥ · verse 47",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.48",
+      "label": "2. Sāṅkhya Yogaḥ · verse 48",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.49",
+      "label": "2. Sāṅkhya Yogaḥ · verse 49",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.50",
+      "label": "2. Sāṅkhya Yogaḥ · verse 50",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.51",
+      "label": "2. Sāṅkhya Yogaḥ · verse 51",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.52",
+      "label": "2. Sāṅkhya Yogaḥ · verse 52",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.53",
+      "label": "2. Sāṅkhya Yogaḥ · verse 53",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.54",
+      "label": "2. Sāṅkhya Yogaḥ · verse 54",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.55",
+      "label": "2. Sāṅkhya Yogaḥ · verse 55",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.56",
+      "label": "2. Sāṅkhya Yogaḥ · verse 56",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.57",
+      "label": "2. Sāṅkhya Yogaḥ · verse 57",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.58",
+      "label": "2. Sāṅkhya Yogaḥ · verse 58",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.59",
+      "label": "2. Sāṅkhya Yogaḥ · verse 59",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.60",
+      "label": "2. Sāṅkhya Yogaḥ · verse 60",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.61",
+      "label": "2. Sāṅkhya Yogaḥ · verse 61",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.62",
+      "label": "2. Sāṅkhya Yogaḥ · verse 62",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.63",
+      "label": "2. Sāṅkhya Yogaḥ · verse 63",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.64",
+      "label": "2. Sāṅkhya Yogaḥ · verse 64",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.65",
+      "label": "2. Sāṅkhya Yogaḥ · verse 65",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.66",
+      "label": "2. Sāṅkhya Yogaḥ · verse 66",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.67",
+      "label": "2. Sāṅkhya Yogaḥ · verse 67",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.68",
+      "label": "2. Sāṅkhya Yogaḥ · verse 68",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.69",
+      "label": "2. Sāṅkhya Yogaḥ · verse 69",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.70",
+      "label": "2. Sāṅkhya Yogaḥ · verse 70",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.71",
+      "label": "2. Sāṅkhya Yogaḥ · verse 71",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.72",
+      "label": "2. Sāṅkhya Yogaḥ · verse 72",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "3.1",
+      "label": "3. Karma Yogaḥ · verse 1",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.2",
+      "label": "3. Karma Yogaḥ · verse 2",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.3",
+      "label": "3. Karma Yogaḥ · verse 3",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.4",
+      "label": "3. Karma Yogaḥ · verse 4",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.5",
+      "label": "3. Karma Yogaḥ · verse 5",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.6",
+      "label": "3. Karma Yogaḥ · verse 6",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.7",
+      "label": "3. Karma Yogaḥ · verse 7",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.8",
+      "label": "3. Karma Yogaḥ · verse 8",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.9",
+      "label": "3. Karma Yogaḥ · verse 9",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.10",
+      "label": "3. Karma Yogaḥ · verse 10",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.11",
+      "label": "3. Karma Yogaḥ · verse 11",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.12",
+      "label": "3. Karma Yogaḥ · verse 12",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.13",
+      "label": "3. Karma Yogaḥ · verse 13",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.14",
+      "label": "3. Karma Yogaḥ · verse 14",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.15",
+      "label": "3. Karma Yogaḥ · verse 15",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.16",
+      "label": "3. Karma Yogaḥ · verse 16",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.17",
+      "label": "3. Karma Yogaḥ · verse 17",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.18",
+      "label": "3. Karma Yogaḥ · verse 18",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.19",
+      "label": "3. Karma Yogaḥ · verse 19",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.20",
+      "label": "3. Karma Yogaḥ · verse 20",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.21",
+      "label": "3. Karma Yogaḥ · verse 21",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.22",
+      "label": "3. Karma Yogaḥ · verse 22",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.23",
+      "label": "3. Karma Yogaḥ · verse 23",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.24",
+      "label": "3. Karma Yogaḥ · verse 24",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.25",
+      "label": "3. Karma Yogaḥ · verse 25",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.26",
+      "label": "3. Karma Yogaḥ · verse 26",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.27",
+      "label": "3. Karma Yogaḥ · verse 27",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.28",
+      "label": "3. Karma Yogaḥ · verse 28",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.29",
+      "label": "3. Karma Yogaḥ · verse 29",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.30",
+      "label": "3. Karma Yogaḥ · verse 30",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.31",
+      "label": "3. Karma Yogaḥ · verse 31",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.32",
+      "label": "3. Karma Yogaḥ · verse 32",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.33",
+      "label": "3. Karma Yogaḥ · verse 33",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.34",
+      "label": "3. Karma Yogaḥ · verse 34",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.35",
+      "label": "3. Karma Yogaḥ · verse 35",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.36",
+      "label": "3. Karma Yogaḥ · verse 36",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.37",
+      "label": "3. Karma Yogaḥ · verse 37",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.38",
+      "label": "3. Karma Yogaḥ · verse 38",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.39",
+      "label": "3. Karma Yogaḥ · verse 39",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.40",
+      "label": "3. Karma Yogaḥ · verse 40",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.41",
+      "label": "3. Karma Yogaḥ · verse 41",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.42",
+      "label": "3. Karma Yogaḥ · verse 42",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.43",
+      "label": "3. Karma Yogaḥ · verse 43",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "4.1",
+      "label": "4. Jñāna Vibhāga Yogaḥ · verse 1",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.2",
+      "label": "4. Jñāna Vibhāga Yogaḥ · verse 2",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.3",
+      "label": "4. Jñāna Vibhāga Yogaḥ · verse 3",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.4",
+      "label": "4. Jñāna Vibhāga Yogaḥ · verse 4",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.5",
+      "label": "4. Jñāna Vibhāga Yogaḥ · verse 5",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.6",
+      "label": "4. Jñāna Vibhāga Yogaḥ · verse 6",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.7",
+      "label": "4. Jñāna Vibhāga Yogaḥ · verse 7",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.8",
+      "label": "4. Jñāna Vibhāga Yogaḥ · verse 8",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.9",
+      "label": "4. Jñāna Vibhāga Yogaḥ · verse 9",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.10",
+      "label": "4. Jñāna Vibhāga Yogaḥ · verse 10",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.11",
+      "label": "4. Jñāna Vibhāga Yogaḥ · verse 11",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.12",
+      "label": "4. Jñāna Vibhāga Yogaḥ · verse 12",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.13",
+      "label": "4. Jñāna Vibhāga Yogaḥ · verse 13",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.14",
+      "label": "4. Jñāna Vibhāga Yogaḥ · verse 14",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.15",
+      "label": "4. Jñāna Vibhāga Yogaḥ · verse 15",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.16",
+      "label": "4. Jñāna Vibhāga Yogaḥ · verse 16",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.17",
+      "label": "4. Jñāna Vibhāga Yogaḥ · verse 17",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.18",
+      "label": "4. Jñāna Vibhāga Yogaḥ · verse 18",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.19",
+      "label": "4. Jñāna Vibhāga Yogaḥ · verse 19",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.20",
+      "label": "4. Jñāna Vibhāga Yogaḥ · verse 20",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.21",
+      "label": "4. Jñāna Vibhāga Yogaḥ · verse 21",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.22",
+      "label": "4. Jñāna Vibhāga Yogaḥ · verse 22",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.23",
+      "label": "4. Jñāna Vibhāga Yogaḥ · verse 23",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.24",
+      "label": "4. Jñāna Vibhāga Yogaḥ · verse 24",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.25",
+      "label": "4. Jñāna Vibhāga Yogaḥ · verse 25",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.26",
+      "label": "4. Jñāna Vibhāga Yogaḥ · verse 26",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.27",
+      "label": "4. Jñāna Vibhāga Yogaḥ · verse 27",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.28",
+      "label": "4. Jñāna Vibhāga Yogaḥ · verse 28",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.29",
+      "label": "4. Jñāna Vibhāga Yogaḥ · verse 29",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.30",
+      "label": "4. Jñāna Vibhāga Yogaḥ · verse 30",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.31",
+      "label": "4. Jñāna Vibhāga Yogaḥ · verse 31",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.32",
+      "label": "4. Jñāna Vibhāga Yogaḥ · verse 32",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.33",
+      "label": "4. Jñāna Vibhāga Yogaḥ · verse 33",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.34",
+      "label": "4. Jñāna Vibhāga Yogaḥ · verse 34",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.35",
+      "label": "4. Jñāna Vibhāga Yogaḥ · verse 35",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.36",
+      "label": "4. Jñāna Vibhāga Yogaḥ · verse 36",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.37",
+      "label": "4. Jñāna Vibhāga Yogaḥ · verse 37",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.38",
+      "label": "4. Jñāna Vibhāga Yogaḥ · verse 38",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.39",
+      "label": "4. Jñāna Vibhāga Yogaḥ · verse 39",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.40",
+      "label": "4. Jñāna Vibhāga Yogaḥ · verse 40",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.41",
+      "label": "4. Jñāna Vibhāga Yogaḥ · verse 41",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.42",
+      "label": "4. Jñāna Vibhāga Yogaḥ · verse 42",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "5.1",
+      "label": "5. Karma Sannyāsa Yogaḥ · verse 1",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.2",
+      "label": "5. Karma Sannyāsa Yogaḥ · verse 2",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.3",
+      "label": "5. Karma Sannyāsa Yogaḥ · verse 3",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.4",
+      "label": "5. Karma Sannyāsa Yogaḥ · verse 4",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.5",
+      "label": "5. Karma Sannyāsa Yogaḥ · verse 5",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.6",
+      "label": "5. Karma Sannyāsa Yogaḥ · verse 6",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.7",
+      "label": "5. Karma Sannyāsa Yogaḥ · verse 7",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.8",
+      "label": "5. Karma Sannyāsa Yogaḥ · verse 8",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.9",
+      "label": "5. Karma Sannyāsa Yogaḥ · verse 9",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.10",
+      "label": "5. Karma Sannyāsa Yogaḥ · verse 10",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.11",
+      "label": "5. Karma Sannyāsa Yogaḥ · verse 11",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.12",
+      "label": "5. Karma Sannyāsa Yogaḥ · verse 12",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.13",
+      "label": "5. Karma Sannyāsa Yogaḥ · verse 13",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.14",
+      "label": "5. Karma Sannyāsa Yogaḥ · verse 14",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.15",
+      "label": "5. Karma Sannyāsa Yogaḥ · verse 15",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.16",
+      "label": "5. Karma Sannyāsa Yogaḥ · verse 16",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.17",
+      "label": "5. Karma Sannyāsa Yogaḥ · verse 17",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.18",
+      "label": "5. Karma Sannyāsa Yogaḥ · verse 18",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.19",
+      "label": "5. Karma Sannyāsa Yogaḥ · verse 19",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.20",
+      "label": "5. Karma Sannyāsa Yogaḥ · verse 20",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.21",
+      "label": "5. Karma Sannyāsa Yogaḥ · verse 21",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.22",
+      "label": "5. Karma Sannyāsa Yogaḥ · verse 22",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.23",
+      "label": "5. Karma Sannyāsa Yogaḥ · verse 23",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.24",
+      "label": "5. Karma Sannyāsa Yogaḥ · verse 24",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.25",
+      "label": "5. Karma Sannyāsa Yogaḥ · verse 25",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.26",
+      "label": "5. Karma Sannyāsa Yogaḥ · verse 26",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.27",
+      "label": "5. Karma Sannyāsa Yogaḥ · verse 27",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.28",
+      "label": "5. Karma Sannyāsa Yogaḥ · verse 28",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.29",
+      "label": "5. Karma Sannyāsa Yogaḥ · verse 29",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "6.1",
+      "label": "6. Dhyāna Yogaḥ · verse 1",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.2",
+      "label": "6. Dhyāna Yogaḥ · verse 2",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.3",
+      "label": "6. Dhyāna Yogaḥ · verse 3",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.4",
+      "label": "6. Dhyāna Yogaḥ · verse 4",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.5",
+      "label": "6. Dhyāna Yogaḥ · verse 5",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.6",
+      "label": "6. Dhyāna Yogaḥ · verse 6",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.7",
+      "label": "6. Dhyāna Yogaḥ · verse 7",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.8",
+      "label": "6. Dhyāna Yogaḥ · verse 8",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.9",
+      "label": "6. Dhyāna Yogaḥ · verse 9",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.10",
+      "label": "6. Dhyāna Yogaḥ · verse 10",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.11",
+      "label": "6. Dhyāna Yogaḥ · verse 11",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.12",
+      "label": "6. Dhyāna Yogaḥ · verse 12",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.13",
+      "label": "6. Dhyāna Yogaḥ · verse 13",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.14",
+      "label": "6. Dhyāna Yogaḥ · verse 14",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.15",
+      "label": "6. Dhyāna Yogaḥ · verse 15",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.16",
+      "label": "6. Dhyāna Yogaḥ · verse 16",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.17",
+      "label": "6. Dhyāna Yogaḥ · verse 17",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.18",
+      "label": "6. Dhyāna Yogaḥ · verse 18",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.19",
+      "label": "6. Dhyāna Yogaḥ · verse 19",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.20",
+      "label": "6. Dhyāna Yogaḥ · verse 20",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.21",
+      "label": "6. Dhyāna Yogaḥ · verse 21",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.22",
+      "label": "6. Dhyāna Yogaḥ · verse 22",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.23",
+      "label": "6. Dhyāna Yogaḥ · verse 23",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.24",
+      "label": "6. Dhyāna Yogaḥ · verse 24",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.25",
+      "label": "6. Dhyāna Yogaḥ · verse 25",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.26",
+      "label": "6. Dhyāna Yogaḥ · verse 26",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.27",
+      "label": "6. Dhyāna Yogaḥ · verse 27",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.28",
+      "label": "6. Dhyāna Yogaḥ · verse 28",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.29",
+      "label": "6. Dhyāna Yogaḥ · verse 29",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.30",
+      "label": "6. Dhyāna Yogaḥ · verse 30",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.31",
+      "label": "6. Dhyāna Yogaḥ · verse 31",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.32",
+      "label": "6. Dhyāna Yogaḥ · verse 32",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.33",
+      "label": "6. Dhyāna Yogaḥ · verse 33",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.34",
+      "label": "6. Dhyāna Yogaḥ · verse 34",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.35",
+      "label": "6. Dhyāna Yogaḥ · verse 35",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.36",
+      "label": "6. Dhyāna Yogaḥ · verse 36",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.37",
+      "label": "6. Dhyāna Yogaḥ · verse 37",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.38",
+      "label": "6. Dhyāna Yogaḥ · verse 38",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.39",
+      "label": "6. Dhyāna Yogaḥ · verse 39",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.40",
+      "label": "6. Dhyāna Yogaḥ · verse 40",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.41",
+      "label": "6. Dhyāna Yogaḥ · verse 41",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.42",
+      "label": "6. Dhyāna Yogaḥ · verse 42",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.43",
+      "label": "6. Dhyāna Yogaḥ · verse 43",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.44",
+      "label": "6. Dhyāna Yogaḥ · verse 44",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.45",
+      "label": "6. Dhyāna Yogaḥ · verse 45",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.46",
+      "label": "6. Dhyāna Yogaḥ · verse 46",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.47",
+      "label": "6. Dhyāna Yogaḥ · verse 47",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "7.1",
+      "label": "7. Jñāna Vijñāna Yogaḥ · verse 1",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.2",
+      "label": "7. Jñāna Vijñāna Yogaḥ · verse 2",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.3",
+      "label": "7. Jñāna Vijñāna Yogaḥ · verse 3",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.4",
+      "label": "7. Jñāna Vijñāna Yogaḥ · verse 4",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.5",
+      "label": "7. Jñāna Vijñāna Yogaḥ · verse 5",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.6",
+      "label": "7. Jñāna Vijñāna Yogaḥ · verse 6",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.7",
+      "label": "7. Jñāna Vijñāna Yogaḥ · verse 7",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.8",
+      "label": "7. Jñāna Vijñāna Yogaḥ · verse 8",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.9",
+      "label": "7. Jñāna Vijñāna Yogaḥ · verse 9",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.10",
+      "label": "7. Jñāna Vijñāna Yogaḥ · verse 10",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.11",
+      "label": "7. Jñāna Vijñāna Yogaḥ · verse 11",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.12",
+      "label": "7. Jñāna Vijñāna Yogaḥ · verse 12",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.13",
+      "label": "7. Jñāna Vijñāna Yogaḥ · verse 13",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.14",
+      "label": "7. Jñāna Vijñāna Yogaḥ · verse 14",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.15",
+      "label": "7. Jñāna Vijñāna Yogaḥ · verse 15",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.16",
+      "label": "7. Jñāna Vijñāna Yogaḥ · verse 16",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.17",
+      "label": "7. Jñāna Vijñāna Yogaḥ · verse 17",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.18",
+      "label": "7. Jñāna Vijñāna Yogaḥ · verse 18",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.19",
+      "label": "7. Jñāna Vijñāna Yogaḥ · verse 19",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.20",
+      "label": "7. Jñāna Vijñāna Yogaḥ · verse 20",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.21",
+      "label": "7. Jñāna Vijñāna Yogaḥ · verse 21",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.22",
+      "label": "7. Jñāna Vijñāna Yogaḥ · verse 22",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.23",
+      "label": "7. Jñāna Vijñāna Yogaḥ · verse 23",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.24",
+      "label": "7. Jñāna Vijñāna Yogaḥ · verse 24",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.25",
+      "label": "7. Jñāna Vijñāna Yogaḥ · verse 25",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.26",
+      "label": "7. Jñāna Vijñāna Yogaḥ · verse 26",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.27",
+      "label": "7. Jñāna Vijñāna Yogaḥ · verse 27",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.28",
+      "label": "7. Jñāna Vijñāna Yogaḥ · verse 28",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.29",
+      "label": "7. Jñāna Vijñāna Yogaḥ · verse 29",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.30",
+      "label": "7. Jñāna Vijñāna Yogaḥ · verse 30",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "8.1",
+      "label": "8. Akṣara Brahma Yogaḥ · verse 1",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.2",
+      "label": "8. Akṣara Brahma Yogaḥ · verse 2",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.3",
+      "label": "8. Akṣara Brahma Yogaḥ · verse 3",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.4",
+      "label": "8. Akṣara Brahma Yogaḥ · verse 4",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.5",
+      "label": "8. Akṣara Brahma Yogaḥ · verse 5",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.6",
+      "label": "8. Akṣara Brahma Yogaḥ · verse 6",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.7",
+      "label": "8. Akṣara Brahma Yogaḥ · verse 7",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.8",
+      "label": "8. Akṣara Brahma Yogaḥ · verse 8",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.9",
+      "label": "8. Akṣara Brahma Yogaḥ · verse 9",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.10",
+      "label": "8. Akṣara Brahma Yogaḥ · verse 10",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.11",
+      "label": "8. Akṣara Brahma Yogaḥ · verse 11",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.12",
+      "label": "8. Akṣara Brahma Yogaḥ · verse 12",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.13",
+      "label": "8. Akṣara Brahma Yogaḥ · verse 13",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.14",
+      "label": "8. Akṣara Brahma Yogaḥ · verse 14",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.15",
+      "label": "8. Akṣara Brahma Yogaḥ · verse 15",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.16",
+      "label": "8. Akṣara Brahma Yogaḥ · verse 16",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.17",
+      "label": "8. Akṣara Brahma Yogaḥ · verse 17",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.18",
+      "label": "8. Akṣara Brahma Yogaḥ · verse 18",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.19",
+      "label": "8. Akṣara Brahma Yogaḥ · verse 19",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.20",
+      "label": "8. Akṣara Brahma Yogaḥ · verse 20",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.21",
+      "label": "8. Akṣara Brahma Yogaḥ · verse 21",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.22",
+      "label": "8. Akṣara Brahma Yogaḥ · verse 22",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.23",
+      "label": "8. Akṣara Brahma Yogaḥ · verse 23",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.24",
+      "label": "8. Akṣara Brahma Yogaḥ · verse 24",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.25",
+      "label": "8. Akṣara Brahma Yogaḥ · verse 25",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.26",
+      "label": "8. Akṣara Brahma Yogaḥ · verse 26",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.27",
+      "label": "8. Akṣara Brahma Yogaḥ · verse 27",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.28",
+      "label": "8. Akṣara Brahma Yogaḥ · verse 28",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "9.1",
+      "label": "9. Rājavidyā Rājaguhya Yogaḥ · verse 1",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.2",
+      "label": "9. Rājavidyā Rājaguhya Yogaḥ · verse 2",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.3",
+      "label": "9. Rājavidyā Rājaguhya Yogaḥ · verse 3",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.4",
+      "label": "9. Rājavidyā Rājaguhya Yogaḥ · verse 4",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.5",
+      "label": "9. Rājavidyā Rājaguhya Yogaḥ · verse 5",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.6",
+      "label": "9. Rājavidyā Rājaguhya Yogaḥ · verse 6",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.7",
+      "label": "9. Rājavidyā Rājaguhya Yogaḥ · verse 7",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.8",
+      "label": "9. Rājavidyā Rājaguhya Yogaḥ · verse 8",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.9",
+      "label": "9. Rājavidyā Rājaguhya Yogaḥ · verse 9",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.10",
+      "label": "9. Rājavidyā Rājaguhya Yogaḥ · verse 10",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.11",
+      "label": "9. Rājavidyā Rājaguhya Yogaḥ · verse 11",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.12",
+      "label": "9. Rājavidyā Rājaguhya Yogaḥ · verse 12",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.13",
+      "label": "9. Rājavidyā Rājaguhya Yogaḥ · verse 13",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.14",
+      "label": "9. Rājavidyā Rājaguhya Yogaḥ · verse 14",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.15",
+      "label": "9. Rājavidyā Rājaguhya Yogaḥ · verse 15",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.16",
+      "label": "9. Rājavidyā Rājaguhya Yogaḥ · verse 16",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.17",
+      "label": "9. Rājavidyā Rājaguhya Yogaḥ · verse 17",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.18",
+      "label": "9. Rājavidyā Rājaguhya Yogaḥ · verse 18",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.19",
+      "label": "9. Rājavidyā Rājaguhya Yogaḥ · verse 19",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.20",
+      "label": "9. Rājavidyā Rājaguhya Yogaḥ · verse 20",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.21",
+      "label": "9. Rājavidyā Rājaguhya Yogaḥ · verse 21",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.22",
+      "label": "9. Rājavidyā Rājaguhya Yogaḥ · verse 22",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.23",
+      "label": "9. Rājavidyā Rājaguhya Yogaḥ · verse 23",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.24",
+      "label": "9. Rājavidyā Rājaguhya Yogaḥ · verse 24",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.25",
+      "label": "9. Rājavidyā Rājaguhya Yogaḥ · verse 25",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.26",
+      "label": "9. Rājavidyā Rājaguhya Yogaḥ · verse 26",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.27",
+      "label": "9. Rājavidyā Rājaguhya Yogaḥ · verse 27",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.28",
+      "label": "9. Rājavidyā Rājaguhya Yogaḥ · verse 28",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.29",
+      "label": "9. Rājavidyā Rājaguhya Yogaḥ · verse 29",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.30",
+      "label": "9. Rājavidyā Rājaguhya Yogaḥ · verse 30",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.31",
+      "label": "9. Rājavidyā Rājaguhya Yogaḥ · verse 31",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.32",
+      "label": "9. Rājavidyā Rājaguhya Yogaḥ · verse 32",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.33",
+      "label": "9. Rājavidyā Rājaguhya Yogaḥ · verse 33",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.34",
+      "label": "9. Rājavidyā Rājaguhya Yogaḥ · verse 34",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "10.1",
+      "label": "10. Vibhūti Yogaḥ · verse 1",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.2",
+      "label": "10. Vibhūti Yogaḥ · verse 2",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.3",
+      "label": "10. Vibhūti Yogaḥ · verse 3",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.4",
+      "label": "10. Vibhūti Yogaḥ · verse 4",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.5",
+      "label": "10. Vibhūti Yogaḥ · verse 5",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.6",
+      "label": "10. Vibhūti Yogaḥ · verse 6",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.7",
+      "label": "10. Vibhūti Yogaḥ · verse 7",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.8",
+      "label": "10. Vibhūti Yogaḥ · verse 8",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.9",
+      "label": "10. Vibhūti Yogaḥ · verse 9",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.10",
+      "label": "10. Vibhūti Yogaḥ · verse 10",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.11",
+      "label": "10. Vibhūti Yogaḥ · verse 11",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.12",
+      "label": "10. Vibhūti Yogaḥ · verse 12",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.13",
+      "label": "10. Vibhūti Yogaḥ · verse 13",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.14",
+      "label": "10. Vibhūti Yogaḥ · verse 14",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.15",
+      "label": "10. Vibhūti Yogaḥ · verse 15",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.16",
+      "label": "10. Vibhūti Yogaḥ · verse 16",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.17",
+      "label": "10. Vibhūti Yogaḥ · verse 17",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.18",
+      "label": "10. Vibhūti Yogaḥ · verse 18",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.19",
+      "label": "10. Vibhūti Yogaḥ · verse 19",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.20",
+      "label": "10. Vibhūti Yogaḥ · verse 20",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.21",
+      "label": "10. Vibhūti Yogaḥ · verse 21",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.22",
+      "label": "10. Vibhūti Yogaḥ · verse 22",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.23",
+      "label": "10. Vibhūti Yogaḥ · verse 23",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.24",
+      "label": "10. Vibhūti Yogaḥ · verse 24",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.25",
+      "label": "10. Vibhūti Yogaḥ · verse 25",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.26",
+      "label": "10. Vibhūti Yogaḥ · verse 26",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.27",
+      "label": "10. Vibhūti Yogaḥ · verse 27",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.28",
+      "label": "10. Vibhūti Yogaḥ · verse 28",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.29",
+      "label": "10. Vibhūti Yogaḥ · verse 29",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.30",
+      "label": "10. Vibhūti Yogaḥ · verse 30",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.31",
+      "label": "10. Vibhūti Yogaḥ · verse 31",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.32",
+      "label": "10. Vibhūti Yogaḥ · verse 32",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.33",
+      "label": "10. Vibhūti Yogaḥ · verse 33",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.34",
+      "label": "10. Vibhūti Yogaḥ · verse 34",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.35",
+      "label": "10. Vibhūti Yogaḥ · verse 35",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.36",
+      "label": "10. Vibhūti Yogaḥ · verse 36",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.37",
+      "label": "10. Vibhūti Yogaḥ · verse 37",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.38",
+      "label": "10. Vibhūti Yogaḥ · verse 38",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.39",
+      "label": "10. Vibhūti Yogaḥ · verse 39",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.40",
+      "label": "10. Vibhūti Yogaḥ · verse 40",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.41",
+      "label": "10. Vibhūti Yogaḥ · verse 41",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.42",
+      "label": "10. Vibhūti Yogaḥ · verse 42",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "11.1",
+      "label": "11. Viśvarūpa Darśana Yogaḥ · verse 1",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.2",
+      "label": "11. Viśvarūpa Darśana Yogaḥ · verse 2",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.3",
+      "label": "11. Viśvarūpa Darśana Yogaḥ · verse 3",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.4",
+      "label": "11. Viśvarūpa Darśana Yogaḥ · verse 4",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.5",
+      "label": "11. Viśvarūpa Darśana Yogaḥ · verse 5",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.6",
+      "label": "11. Viśvarūpa Darśana Yogaḥ · verse 6",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.7",
+      "label": "11. Viśvarūpa Darśana Yogaḥ · verse 7",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.8",
+      "label": "11. Viśvarūpa Darśana Yogaḥ · verse 8",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.9",
+      "label": "11. Viśvarūpa Darśana Yogaḥ · verse 9",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.10",
+      "label": "11. Viśvarūpa Darśana Yogaḥ · verse 10",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.11",
+      "label": "11. Viśvarūpa Darśana Yogaḥ · verse 11",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.12",
+      "label": "11. Viśvarūpa Darśana Yogaḥ · verse 12",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.13",
+      "label": "11. Viśvarūpa Darśana Yogaḥ · verse 13",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.14",
+      "label": "11. Viśvarūpa Darśana Yogaḥ · verse 14",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.15",
+      "label": "11. Viśvarūpa Darśana Yogaḥ · verse 15",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.16",
+      "label": "11. Viśvarūpa Darśana Yogaḥ · verse 16",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.17",
+      "label": "11. Viśvarūpa Darśana Yogaḥ · verse 17",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.18",
+      "label": "11. Viśvarūpa Darśana Yogaḥ · verse 18",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.19",
+      "label": "11. Viśvarūpa Darśana Yogaḥ · verse 19",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.20",
+      "label": "11. Viśvarūpa Darśana Yogaḥ · verse 20",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.21",
+      "label": "11. Viśvarūpa Darśana Yogaḥ · verse 21",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.22",
+      "label": "11. Viśvarūpa Darśana Yogaḥ · verse 22",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.23",
+      "label": "11. Viśvarūpa Darśana Yogaḥ · verse 23",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.24",
+      "label": "11. Viśvarūpa Darśana Yogaḥ · verse 24",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.25",
+      "label": "11. Viśvarūpa Darśana Yogaḥ · verse 25",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.26",
+      "label": "11. Viśvarūpa Darśana Yogaḥ · verse 26",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.27",
+      "label": "11. Viśvarūpa Darśana Yogaḥ · verse 27",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.28",
+      "label": "11. Viśvarūpa Darśana Yogaḥ · verse 28",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.29",
+      "label": "11. Viśvarūpa Darśana Yogaḥ · verse 29",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.30",
+      "label": "11. Viśvarūpa Darśana Yogaḥ · verse 30",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.31",
+      "label": "11. Viśvarūpa Darśana Yogaḥ · verse 31",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.32",
+      "label": "11. Viśvarūpa Darśana Yogaḥ · verse 32",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.33",
+      "label": "11. Viśvarūpa Darśana Yogaḥ · verse 33",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.34",
+      "label": "11. Viśvarūpa Darśana Yogaḥ · verse 34",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.35",
+      "label": "11. Viśvarūpa Darśana Yogaḥ · verse 35",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.36",
+      "label": "11. Viśvarūpa Darśana Yogaḥ · verse 36",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.37",
+      "label": "11. Viśvarūpa Darśana Yogaḥ · verse 37",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.38",
+      "label": "11. Viśvarūpa Darśana Yogaḥ · verse 38",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.39",
+      "label": "11. Viśvarūpa Darśana Yogaḥ · verse 39",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.40",
+      "label": "11. Viśvarūpa Darśana Yogaḥ · verse 40",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.41",
+      "label": "11. Viśvarūpa Darśana Yogaḥ · verse 41",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.42",
+      "label": "11. Viśvarūpa Darśana Yogaḥ · verse 42",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.43",
+      "label": "11. Viśvarūpa Darśana Yogaḥ · verse 43",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.44",
+      "label": "11. Viśvarūpa Darśana Yogaḥ · verse 44",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.45",
+      "label": "11. Viśvarūpa Darśana Yogaḥ · verse 45",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.46",
+      "label": "11. Viśvarūpa Darśana Yogaḥ · verse 46",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.47",
+      "label": "11. Viśvarūpa Darśana Yogaḥ · verse 47",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.48",
+      "label": "11. Viśvarūpa Darśana Yogaḥ · verse 48",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.49",
+      "label": "11. Viśvarūpa Darśana Yogaḥ · verse 49",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.50",
+      "label": "11. Viśvarūpa Darśana Yogaḥ · verse 50",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.51",
+      "label": "11. Viśvarūpa Darśana Yogaḥ · verse 51",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.52",
+      "label": "11. Viśvarūpa Darśana Yogaḥ · verse 52",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.53",
+      "label": "11. Viśvarūpa Darśana Yogaḥ · verse 53",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.54",
+      "label": "11. Viśvarūpa Darśana Yogaḥ · verse 54",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.55",
+      "label": "11. Viśvarūpa Darśana Yogaḥ · verse 55",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "12.1",
+      "label": "12. Bhakti Yogaḥ · verse 1",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.2",
+      "label": "12. Bhakti Yogaḥ · verse 2",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.3",
+      "label": "12. Bhakti Yogaḥ · verse 3",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.4",
+      "label": "12. Bhakti Yogaḥ · verse 4",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.5",
+      "label": "12. Bhakti Yogaḥ · verse 5",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.6",
+      "label": "12. Bhakti Yogaḥ · verse 6",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.7",
+      "label": "12. Bhakti Yogaḥ · verse 7",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.8",
+      "label": "12. Bhakti Yogaḥ · verse 8",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.9",
+      "label": "12. Bhakti Yogaḥ · verse 9",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.10",
+      "label": "12. Bhakti Yogaḥ · verse 10",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.11",
+      "label": "12. Bhakti Yogaḥ · verse 11",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.12",
+      "label": "12. Bhakti Yogaḥ · verse 12",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.13",
+      "label": "12. Bhakti Yogaḥ · verse 13",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.14",
+      "label": "12. Bhakti Yogaḥ · verse 14",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.15",
+      "label": "12. Bhakti Yogaḥ · verse 15",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.16",
+      "label": "12. Bhakti Yogaḥ · verse 16",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.17",
+      "label": "12. Bhakti Yogaḥ · verse 17",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.18",
+      "label": "12. Bhakti Yogaḥ · verse 18",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.19",
+      "label": "12. Bhakti Yogaḥ · verse 19",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.20",
+      "label": "12. Bhakti Yogaḥ · verse 20",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "13.1",
+      "label": "13. Kṣetra Kṣetrajña Vibhāga Yogaḥ · verse 1",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.2",
+      "label": "13. Kṣetra Kṣetrajña Vibhāga Yogaḥ · verse 2",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.3",
+      "label": "13. Kṣetra Kṣetrajña Vibhāga Yogaḥ · verse 3",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.4",
+      "label": "13. Kṣetra Kṣetrajña Vibhāga Yogaḥ · verse 4",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.5",
+      "label": "13. Kṣetra Kṣetrajña Vibhāga Yogaḥ · verse 5",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.6",
+      "label": "13. Kṣetra Kṣetrajña Vibhāga Yogaḥ · verse 6",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.7",
+      "label": "13. Kṣetra Kṣetrajña Vibhāga Yogaḥ · verse 7",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.8",
+      "label": "13. Kṣetra Kṣetrajña Vibhāga Yogaḥ · verse 8",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.9",
+      "label": "13. Kṣetra Kṣetrajña Vibhāga Yogaḥ · verse 9",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.10",
+      "label": "13. Kṣetra Kṣetrajña Vibhāga Yogaḥ · verse 10",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.11",
+      "label": "13. Kṣetra Kṣetrajña Vibhāga Yogaḥ · verse 11",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.12",
+      "label": "13. Kṣetra Kṣetrajña Vibhāga Yogaḥ · verse 12",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.13",
+      "label": "13. Kṣetra Kṣetrajña Vibhāga Yogaḥ · verse 13",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.14",
+      "label": "13. Kṣetra Kṣetrajña Vibhāga Yogaḥ · verse 14",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.15",
+      "label": "13. Kṣetra Kṣetrajña Vibhāga Yogaḥ · verse 15",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.16",
+      "label": "13. Kṣetra Kṣetrajña Vibhāga Yogaḥ · verse 16",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.17",
+      "label": "13. Kṣetra Kṣetrajña Vibhāga Yogaḥ · verse 17",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.18",
+      "label": "13. Kṣetra Kṣetrajña Vibhāga Yogaḥ · verse 18",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.19",
+      "label": "13. Kṣetra Kṣetrajña Vibhāga Yogaḥ · verse 19",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.20",
+      "label": "13. Kṣetra Kṣetrajña Vibhāga Yogaḥ · verse 20",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.21",
+      "label": "13. Kṣetra Kṣetrajña Vibhāga Yogaḥ · verse 21",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.22",
+      "label": "13. Kṣetra Kṣetrajña Vibhāga Yogaḥ · verse 22",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.23",
+      "label": "13. Kṣetra Kṣetrajña Vibhāga Yogaḥ · verse 23",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.24",
+      "label": "13. Kṣetra Kṣetrajña Vibhāga Yogaḥ · verse 24",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.25",
+      "label": "13. Kṣetra Kṣetrajña Vibhāga Yogaḥ · verse 25",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.26",
+      "label": "13. Kṣetra Kṣetrajña Vibhāga Yogaḥ · verse 26",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.27",
+      "label": "13. Kṣetra Kṣetrajña Vibhāga Yogaḥ · verse 27",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.28",
+      "label": "13. Kṣetra Kṣetrajña Vibhāga Yogaḥ · verse 28",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.29",
+      "label": "13. Kṣetra Kṣetrajña Vibhāga Yogaḥ · verse 29",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.30",
+      "label": "13. Kṣetra Kṣetrajña Vibhāga Yogaḥ · verse 30",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.31",
+      "label": "13. Kṣetra Kṣetrajña Vibhāga Yogaḥ · verse 31",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.32",
+      "label": "13. Kṣetra Kṣetrajña Vibhāga Yogaḥ · verse 32",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.33",
+      "label": "13. Kṣetra Kṣetrajña Vibhāga Yogaḥ · verse 33",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.34",
+      "label": "13. Kṣetra Kṣetrajña Vibhāga Yogaḥ · verse 34",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.35",
+      "label": "13. Kṣetra Kṣetrajña Vibhāga Yogaḥ · verse 35",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "14.1",
+      "label": "14. Guṇatraya Vibhāga Yogaḥ · verse 1",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.2",
+      "label": "14. Guṇatraya Vibhāga Yogaḥ · verse 2",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.3",
+      "label": "14. Guṇatraya Vibhāga Yogaḥ · verse 3",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.4",
+      "label": "14. Guṇatraya Vibhāga Yogaḥ · verse 4",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.5",
+      "label": "14. Guṇatraya Vibhāga Yogaḥ · verse 5",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.6",
+      "label": "14. Guṇatraya Vibhāga Yogaḥ · verse 6",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.7",
+      "label": "14. Guṇatraya Vibhāga Yogaḥ · verse 7",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.8",
+      "label": "14. Guṇatraya Vibhāga Yogaḥ · verse 8",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.9",
+      "label": "14. Guṇatraya Vibhāga Yogaḥ · verse 9",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.10",
+      "label": "14. Guṇatraya Vibhāga Yogaḥ · verse 10",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.11",
+      "label": "14. Guṇatraya Vibhāga Yogaḥ · verse 11",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.12",
+      "label": "14. Guṇatraya Vibhāga Yogaḥ · verse 12",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.13",
+      "label": "14. Guṇatraya Vibhāga Yogaḥ · verse 13",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.14",
+      "label": "14. Guṇatraya Vibhāga Yogaḥ · verse 14",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.15",
+      "label": "14. Guṇatraya Vibhāga Yogaḥ · verse 15",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.16",
+      "label": "14. Guṇatraya Vibhāga Yogaḥ · verse 16",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.17",
+      "label": "14. Guṇatraya Vibhāga Yogaḥ · verse 17",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.18",
+      "label": "14. Guṇatraya Vibhāga Yogaḥ · verse 18",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.19",
+      "label": "14. Guṇatraya Vibhāga Yogaḥ · verse 19",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.20",
+      "label": "14. Guṇatraya Vibhāga Yogaḥ · verse 20",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.21",
+      "label": "14. Guṇatraya Vibhāga Yogaḥ · verse 21",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.22",
+      "label": "14. Guṇatraya Vibhāga Yogaḥ · verse 22",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.23",
+      "label": "14. Guṇatraya Vibhāga Yogaḥ · verse 23",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.24",
+      "label": "14. Guṇatraya Vibhāga Yogaḥ · verse 24",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.25",
+      "label": "14. Guṇatraya Vibhāga Yogaḥ · verse 25",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.26",
+      "label": "14. Guṇatraya Vibhāga Yogaḥ · verse 26",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.27",
+      "label": "14. Guṇatraya Vibhāga Yogaḥ · verse 27",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "15.1",
+      "label": "15. Puruṣottama Yogaḥ · verse 1",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.2",
+      "label": "15. Puruṣottama Yogaḥ · verse 2",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.3",
+      "label": "15. Puruṣottama Yogaḥ · verse 3",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.4",
+      "label": "15. Puruṣottama Yogaḥ · verse 4",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.5",
+      "label": "15. Puruṣottama Yogaḥ · verse 5",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.6",
+      "label": "15. Puruṣottama Yogaḥ · verse 6",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.7",
+      "label": "15. Puruṣottama Yogaḥ · verse 7",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.8",
+      "label": "15. Puruṣottama Yogaḥ · verse 8",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.9",
+      "label": "15. Puruṣottama Yogaḥ · verse 9",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.10",
+      "label": "15. Puruṣottama Yogaḥ · verse 10",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.11",
+      "label": "15. Puruṣottama Yogaḥ · verse 11",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.12",
+      "label": "15. Puruṣottama Yogaḥ · verse 12",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.13",
+      "label": "15. Puruṣottama Yogaḥ · verse 13",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.14",
+      "label": "15. Puruṣottama Yogaḥ · verse 14",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.15",
+      "label": "15. Puruṣottama Yogaḥ · verse 15",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.16",
+      "label": "15. Puruṣottama Yogaḥ · verse 16",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.17",
+      "label": "15. Puruṣottama Yogaḥ · verse 17",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.18",
+      "label": "15. Puruṣottama Yogaḥ · verse 18",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.19",
+      "label": "15. Puruṣottama Yogaḥ · verse 19",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.20",
+      "label": "15. Puruṣottama Yogaḥ · verse 20",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "16.1",
+      "label": "16. Daivāsura Sampad Vibhāga Yogaḥ · verse 1",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.2",
+      "label": "16. Daivāsura Sampad Vibhāga Yogaḥ · verse 2",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.3",
+      "label": "16. Daivāsura Sampad Vibhāga Yogaḥ · verse 3",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.4",
+      "label": "16. Daivāsura Sampad Vibhāga Yogaḥ · verse 4",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.5",
+      "label": "16. Daivāsura Sampad Vibhāga Yogaḥ · verse 5",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.6",
+      "label": "16. Daivāsura Sampad Vibhāga Yogaḥ · verse 6",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.7",
+      "label": "16. Daivāsura Sampad Vibhāga Yogaḥ · verse 7",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.8",
+      "label": "16. Daivāsura Sampad Vibhāga Yogaḥ · verse 8",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.9",
+      "label": "16. Daivāsura Sampad Vibhāga Yogaḥ · verse 9",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.10",
+      "label": "16. Daivāsura Sampad Vibhāga Yogaḥ · verse 10",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.11",
+      "label": "16. Daivāsura Sampad Vibhāga Yogaḥ · verse 11",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.12",
+      "label": "16. Daivāsura Sampad Vibhāga Yogaḥ · verse 12",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.13",
+      "label": "16. Daivāsura Sampad Vibhāga Yogaḥ · verse 13",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.14",
+      "label": "16. Daivāsura Sampad Vibhāga Yogaḥ · verse 14",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.15",
+      "label": "16. Daivāsura Sampad Vibhāga Yogaḥ · verse 15",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.16",
+      "label": "16. Daivāsura Sampad Vibhāga Yogaḥ · verse 16",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.17",
+      "label": "16. Daivāsura Sampad Vibhāga Yogaḥ · verse 17",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.18",
+      "label": "16. Daivāsura Sampad Vibhāga Yogaḥ · verse 18",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.19",
+      "label": "16. Daivāsura Sampad Vibhāga Yogaḥ · verse 19",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.20",
+      "label": "16. Daivāsura Sampad Vibhāga Yogaḥ · verse 20",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.21",
+      "label": "16. Daivāsura Sampad Vibhāga Yogaḥ · verse 21",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.22",
+      "label": "16. Daivāsura Sampad Vibhāga Yogaḥ · verse 22",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.23",
+      "label": "16. Daivāsura Sampad Vibhāga Yogaḥ · verse 23",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.24",
+      "label": "16. Daivāsura Sampad Vibhāga Yogaḥ · verse 24",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "17.1",
+      "label": "17. Śraddhātraya Vibhāga Yogaḥ · verse 1",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.2",
+      "label": "17. Śraddhātraya Vibhāga Yogaḥ · verse 2",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.3",
+      "label": "17. Śraddhātraya Vibhāga Yogaḥ · verse 3",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.4",
+      "label": "17. Śraddhātraya Vibhāga Yogaḥ · verse 4",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.5",
+      "label": "17. Śraddhātraya Vibhāga Yogaḥ · verse 5",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.6",
+      "label": "17. Śraddhātraya Vibhāga Yogaḥ · verse 6",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.7",
+      "label": "17. Śraddhātraya Vibhāga Yogaḥ · verse 7",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.8",
+      "label": "17. Śraddhātraya Vibhāga Yogaḥ · verse 8",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.9",
+      "label": "17. Śraddhātraya Vibhāga Yogaḥ · verse 9",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.10",
+      "label": "17. Śraddhātraya Vibhāga Yogaḥ · verse 10",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.11",
+      "label": "17. Śraddhātraya Vibhāga Yogaḥ · verse 11",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.12",
+      "label": "17. Śraddhātraya Vibhāga Yogaḥ · verse 12",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.13",
+      "label": "17. Śraddhātraya Vibhāga Yogaḥ · verse 13",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.14",
+      "label": "17. Śraddhātraya Vibhāga Yogaḥ · verse 14",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.15",
+      "label": "17. Śraddhātraya Vibhāga Yogaḥ · verse 15",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.16",
+      "label": "17. Śraddhātraya Vibhāga Yogaḥ · verse 16",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.17",
+      "label": "17. Śraddhātraya Vibhāga Yogaḥ · verse 17",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.18",
+      "label": "17. Śraddhātraya Vibhāga Yogaḥ · verse 18",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.19",
+      "label": "17. Śraddhātraya Vibhāga Yogaḥ · verse 19",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.20",
+      "label": "17. Śraddhātraya Vibhāga Yogaḥ · verse 20",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.21",
+      "label": "17. Śraddhātraya Vibhāga Yogaḥ · verse 21",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.22",
+      "label": "17. Śraddhātraya Vibhāga Yogaḥ · verse 22",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.23",
+      "label": "17. Śraddhātraya Vibhāga Yogaḥ · verse 23",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.24",
+      "label": "17. Śraddhātraya Vibhāga Yogaḥ · verse 24",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.25",
+      "label": "17. Śraddhātraya Vibhāga Yogaḥ · verse 25",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.26",
+      "label": "17. Śraddhātraya Vibhāga Yogaḥ · verse 26",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.27",
+      "label": "17. Śraddhātraya Vibhāga Yogaḥ · verse 27",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.28",
+      "label": "17. Śraddhātraya Vibhāga Yogaḥ · verse 28",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "18.1",
+      "label": "18. Mokṣa Sannyāsa Yogaḥ · verse 1",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.2",
+      "label": "18. Mokṣa Sannyāsa Yogaḥ · verse 2",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.3",
+      "label": "18. Mokṣa Sannyāsa Yogaḥ · verse 3",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.4",
+      "label": "18. Mokṣa Sannyāsa Yogaḥ · verse 4",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.5",
+      "label": "18. Mokṣa Sannyāsa Yogaḥ · verse 5",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.6",
+      "label": "18. Mokṣa Sannyāsa Yogaḥ · verse 6",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.7",
+      "label": "18. Mokṣa Sannyāsa Yogaḥ · verse 7",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.8",
+      "label": "18. Mokṣa Sannyāsa Yogaḥ · verse 8",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.9",
+      "label": "18. Mokṣa Sannyāsa Yogaḥ · verse 9",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.10",
+      "label": "18. Mokṣa Sannyāsa Yogaḥ · verse 10",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.11",
+      "label": "18. Mokṣa Sannyāsa Yogaḥ · verse 11",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.12",
+      "label": "18. Mokṣa Sannyāsa Yogaḥ · verse 12",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.13",
+      "label": "18. Mokṣa Sannyāsa Yogaḥ · verse 13",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.14",
+      "label": "18. Mokṣa Sannyāsa Yogaḥ · verse 14",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.15",
+      "label": "18. Mokṣa Sannyāsa Yogaḥ · verse 15",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.16",
+      "label": "18. Mokṣa Sannyāsa Yogaḥ · verse 16",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.17",
+      "label": "18. Mokṣa Sannyāsa Yogaḥ · verse 17",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.18",
+      "label": "18. Mokṣa Sannyāsa Yogaḥ · verse 18",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.19",
+      "label": "18. Mokṣa Sannyāsa Yogaḥ · verse 19",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.20",
+      "label": "18. Mokṣa Sannyāsa Yogaḥ · verse 20",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.21",
+      "label": "18. Mokṣa Sannyāsa Yogaḥ · verse 21",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.22",
+      "label": "18. Mokṣa Sannyāsa Yogaḥ · verse 22",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.23",
+      "label": "18. Mokṣa Sannyāsa Yogaḥ · verse 23",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.24",
+      "label": "18. Mokṣa Sannyāsa Yogaḥ · verse 24",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.25",
+      "label": "18. Mokṣa Sannyāsa Yogaḥ · verse 25",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.26",
+      "label": "18. Mokṣa Sannyāsa Yogaḥ · verse 26",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.27",
+      "label": "18. Mokṣa Sannyāsa Yogaḥ · verse 27",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.28",
+      "label": "18. Mokṣa Sannyāsa Yogaḥ · verse 28",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.29",
+      "label": "18. Mokṣa Sannyāsa Yogaḥ · verse 29",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.30",
+      "label": "18. Mokṣa Sannyāsa Yogaḥ · verse 30",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.31",
+      "label": "18. Mokṣa Sannyāsa Yogaḥ · verse 31",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.32",
+      "label": "18. Mokṣa Sannyāsa Yogaḥ · verse 32",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.33",
+      "label": "18. Mokṣa Sannyāsa Yogaḥ · verse 33",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.34",
+      "label": "18. Mokṣa Sannyāsa Yogaḥ · verse 34",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.35",
+      "label": "18. Mokṣa Sannyāsa Yogaḥ · verse 35",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.36",
+      "label": "18. Mokṣa Sannyāsa Yogaḥ · verse 36",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.37",
+      "label": "18. Mokṣa Sannyāsa Yogaḥ · verse 37",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.38",
+      "label": "18. Mokṣa Sannyāsa Yogaḥ · verse 38",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.39",
+      "label": "18. Mokṣa Sannyāsa Yogaḥ · verse 39",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.40",
+      "label": "18. Mokṣa Sannyāsa Yogaḥ · verse 40",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.41",
+      "label": "18. Mokṣa Sannyāsa Yogaḥ · verse 41",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.42",
+      "label": "18. Mokṣa Sannyāsa Yogaḥ · verse 42",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.43",
+      "label": "18. Mokṣa Sannyāsa Yogaḥ · verse 43",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.44",
+      "label": "18. Mokṣa Sannyāsa Yogaḥ · verse 44",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.45",
+      "label": "18. Mokṣa Sannyāsa Yogaḥ · verse 45",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.46",
+      "label": "18. Mokṣa Sannyāsa Yogaḥ · verse 46",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.47",
+      "label": "18. Mokṣa Sannyāsa Yogaḥ · verse 47",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.48",
+      "label": "18. Mokṣa Sannyāsa Yogaḥ · verse 48",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.49",
+      "label": "18. Mokṣa Sannyāsa Yogaḥ · verse 49",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.50",
+      "label": "18. Mokṣa Sannyāsa Yogaḥ · verse 50",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.51",
+      "label": "18. Mokṣa Sannyāsa Yogaḥ · verse 51",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.52",
+      "label": "18. Mokṣa Sannyāsa Yogaḥ · verse 52",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.53",
+      "label": "18. Mokṣa Sannyāsa Yogaḥ · verse 53",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.54",
+      "label": "18. Mokṣa Sannyāsa Yogaḥ · verse 54",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.55",
+      "label": "18. Mokṣa Sannyāsa Yogaḥ · verse 55",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.56",
+      "label": "18. Mokṣa Sannyāsa Yogaḥ · verse 56",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.57",
+      "label": "18. Mokṣa Sannyāsa Yogaḥ · verse 57",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.58",
+      "label": "18. Mokṣa Sannyāsa Yogaḥ · verse 58",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.59",
+      "label": "18. Mokṣa Sannyāsa Yogaḥ · verse 59",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.60",
+      "label": "18. Mokṣa Sannyāsa Yogaḥ · verse 60",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.61",
+      "label": "18. Mokṣa Sannyāsa Yogaḥ · verse 61",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.62",
+      "label": "18. Mokṣa Sannyāsa Yogaḥ · verse 62",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.63",
+      "label": "18. Mokṣa Sannyāsa Yogaḥ · verse 63",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.64",
+      "label": "18. Mokṣa Sannyāsa Yogaḥ · verse 64",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.65",
+      "label": "18. Mokṣa Sannyāsa Yogaḥ · verse 65",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.66",
+      "label": "18. Mokṣa Sannyāsa Yogaḥ · verse 66",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.67",
+      "label": "18. Mokṣa Sannyāsa Yogaḥ · verse 67",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.68",
+      "label": "18. Mokṣa Sannyāsa Yogaḥ · verse 68",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.69",
+      "label": "18. Mokṣa Sannyāsa Yogaḥ · verse 69",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.70",
+      "label": "18. Mokṣa Sannyāsa Yogaḥ · verse 70",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.71",
+      "label": "18. Mokṣa Sannyāsa Yogaḥ · verse 71",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.72",
+      "label": "18. Mokṣa Sannyāsa Yogaḥ · verse 72",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.73",
+      "label": "18. Mokṣa Sannyāsa Yogaḥ · verse 73",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.74",
+      "label": "18. Mokṣa Sannyāsa Yogaḥ · verse 74",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.75",
+      "label": "18. Mokṣa Sannyāsa Yogaḥ · verse 75",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.76",
+      "label": "18. Mokṣa Sannyāsa Yogaḥ · verse 76",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.77",
+      "label": "18. Mokṣa Sannyāsa Yogaḥ · verse 77",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.78",
+      "label": "18. Mokṣa Sannyāsa Yogaḥ · verse 78",
+      "chapterRef": "18"
+    }
+  ],
+  "editions": [
+    {
+      "slug": "srimad-bhagavad-gita-sbg-sa",
+      "language": "sa",
+      "editionType": "original",
+      "title": "Srimad Bhagavad Gita (Heritage Scripture Server transcription)",
+      "translator": "",
+      "publisher": "Heritage IITKanpur, Heritage Scripture Server",
+      "publicationYear": null,
+      "source": "gita-supersite",
+      "license": "hcal-1-1",
+      "rightsStatus": "Tier A (the moolam and its transliterations): no modern copyright, freely redistributable. Where the API serves Tier B — the Sanskrit bhāṣya and the AI-generated, community and editorially authored translations — it is displayed non-commercially with attribution and is not relicensed here. Tier C, the authoritative modern-language translations and commentaries, is not served by the API and is not imported.",
+      "attributionText": "Srimad Bhagavad Gita, Maharishi Vyaas. Accessed via Heritage Scripture Server (heritage.iitk.ac.in), licence HCAL-1.1. Source: https://heritage.iitk.ac.in/SBG",
+      "structureScheme": "chapter and verse, as the server's own sections and verse addresses divide the text",
+      "isSample": false,
+      "notes": "The verse index was built from the server's published verse addresses. The verses themselves are fetched from the API at read time and are shown with the licence's attribution; the licence identifier and any watermark the server returns are left in place."
+    }
+  ]
+}

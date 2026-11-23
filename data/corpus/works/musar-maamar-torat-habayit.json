@@ -1,0 +1,330 @@
+{
+  "slug": "musar-maamar-torat-habayit",
+  "title": "Ma'amar Torat HaBayit",
+  "originalTitle": "מאמר תורת הבית",
+  "transliteration": "",
+  "altTitles": [],
+  "tradition": "judaism",
+  "school": "rabbinic-judaism",
+  "genre": "Musar",
+  "textType": "Ethical literature",
+  "category": "Musar",
+  "subcategory": "Acharonim",
+  "originalLanguage": "he",
+  "dateStart": 1000,
+  "dateEnd": 1950,
+  "dateDisplay": "Medieval to modern ethical literature",
+  "authorshipStatus": "established",
+  "author": "",
+  "attributionNote": "Authorship follows the Sefaria catalogue record for this work. Where a text is traditionally attributed or collectively compiled, the library does not assert a single author beyond the source's own metadata.",
+  "description": "20th-century work of the Chafetz Chaim on the importance of learning Torah during one’s free time. Complete Musar text imported from Sefaria; the exact edition and licence are shown with each version.",
+  "historicalContext": "Musar is Jewish ethical and devotional literature concerned with character, discipline and the conduct of ordinary life. Its genre ranges from short letters to systematic treatises.",
+  "availabilityNote": "Imported from Sefaria. Version, source and licence are recorded per edition.",
+  "featured": false,
+  "featuredNote": "",
+  "refScheme": "chapter.paragraph",
+  "isSample": false,
+  "textStorage": "streamed",
+  "chapters": [
+    {
+      "ref": "1",
+      "label": "Chapter 1"
+    },
+    {
+      "ref": "2",
+      "label": "Chapter 2"
+    },
+    {
+      "ref": "3",
+      "label": "Chapter 3"
+    },
+    {
+      "ref": "4",
+      "label": "Chapter 4"
+    },
+    {
+      "ref": "5",
+      "label": "Chapter 5"
+    },
+    {
+      "ref": "6",
+      "label": "Chapter 6"
+    },
+    {
+      "ref": "7",
+      "label": "Chapter 7"
+    },
+    {
+      "ref": "8",
+      "label": "Chapter 8"
+    },
+    {
+      "ref": "9",
+      "label": "Chapter 9"
+    },
+    {
+      "ref": "10",
+      "label": "Chapter 10"
+    },
+    {
+      "ref": "11",
+      "label": "Chapter 11"
+    },
+    {
+      "ref": "12",
+      "label": "Chapter 12"
+    },
+    {
+      "ref": "13",
+      "label": "Chapter 13"
+    },
+    {
+      "ref": "14",
+      "label": "Chapter 14"
+    },
+    {
+      "ref": "15",
+      "label": "Chapter 15"
+    }
+  ],
+  "passages": [
+    {
+      "reference": "1.1",
+      "label": "1:1",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.2",
+      "label": "1:2",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "2.1",
+      "label": "2:1",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.2",
+      "label": "2:2",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.3",
+      "label": "2:3",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.4",
+      "label": "2:4",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.5",
+      "label": "2:5",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.6",
+      "label": "2:6",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "3.1",
+      "label": "3:1",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "4.1",
+      "label": "4:1",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.2",
+      "label": "4:2",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.3",
+      "label": "4:3",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.4",
+      "label": "4:4",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.5",
+      "label": "4:5",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.6",
+      "label": "4:6",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.7",
+      "label": "4:7",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.8",
+      "label": "4:8",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.9",
+      "label": "4:9",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "5.1",
+      "label": "5:1",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.2",
+      "label": "5:2",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "6.1",
+      "label": "6:1",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.2",
+      "label": "6:2",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.3",
+      "label": "6:3",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.4",
+      "label": "6:4",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.5",
+      "label": "6:5",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.6",
+      "label": "6:6",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.7",
+      "label": "6:7",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.8",
+      "label": "6:8",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "7.1",
+      "label": "7:1",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "8.1",
+      "label": "8:1",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "9.1",
+      "label": "9:1",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.2",
+      "label": "9:2",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "10.1",
+      "label": "10:1",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.2",
+      "label": "10:2",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.3",
+      "label": "10:3",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "11.1",
+      "label": "11:1",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "12.1",
+      "label": "12:1",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "13.1",
+      "label": "13:1",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.2",
+      "label": "13:2",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.3",
+      "label": "13:3",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.4",
+      "label": "13:4",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.5",
+      "label": "13:5",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "14.1",
+      "label": "14:1",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "15.1",
+      "label": "15:1",
+      "chapterRef": "15"
+    }
+  ],
+  "editions": [
+    {
+      "slug": "musar-maamar-torat-habayit-hebrew-sefaria",
+      "language": "he",
+      "editionType": "original",
+      "title": "Piotrkow, 1907",
+      "translator": "",
+      "publisher": "https://www.nli.org.il/he/books/NNL_ALEPH001291361/NLI",
+      "publicationYear": null,
+      "source": "sefaria",
+      "license": "public-domain",
+      "rightsStatus": "Public Domain",
+      "attributionText": "Piotrkow, 1907; licence: Public Domain; source: https://www.nli.org.il/he/books/NNL_ALEPH001291361/NLI. Retrieved via Sefaria on 2026-10-20.",
+      "structureScheme": "chapter and paragraph",
+      "isSample": false,
+      "notes": "Complete work imported from Sefaria. Text is displayed as supplied by the named edition; HTML markup has been removed."
+    }
+  ]
+}

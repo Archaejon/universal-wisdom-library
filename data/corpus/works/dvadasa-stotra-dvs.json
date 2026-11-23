@@ -1,0 +1,808 @@
+{
+  "slug": "dvadasa-stotra-dvs",
+  "title": "Dvādaśa-stotra",
+  "originalTitle": "द्वादशस्तोत्रम्",
+  "transliteration": "Dvādaśa-stotra",
+  "altTitles": [],
+  "tradition": "hinduism",
+  "school": "",
+  "genre": "Scripture",
+  "textType": "Sanskrit verse (sloka)",
+  "category": "Hymns",
+  "subcategory": "",
+  "originalLanguage": "sa",
+  "dateStart": null,
+  "dateEnd": null,
+  "dateDisplay": "",
+  "authorshipStatus": "traditional",
+  "author": "madhva",
+  "attributionNote": "Dvādaśa-stotra, attributed to Madhvācārya (Ānandatīrtha), as Heritage IITKanpur's Scripture Server catalogues it (DVS), on its own shelf.",
+  "description": "The summary above is the one Heritage IITKanpur's Scripture Server publishes for the text; an editor's note for the work itself is still to be written.",
+  "historicalContext": "Read in the Heritage Scripture Server corpus, which continues the Gita Supersite built at IIT Kanpur: the text, its classical commentaries and the translations the server may serve are held together there.",
+  "availabilityNote": "The outline is held: 12 chapter(s) and 142 verse address(es), read from the server's own catalogue. The verses are not stored — the licence forbids bulk harvesting and database reconstruction — and are streamed from the API one verse at a time as the work is read, with the attribution HCAL-1.1 requires and the server's own quota and licence notice.",
+  "featured": false,
+  "featuredNote": "",
+  "refScheme": "chapter.verse",
+  "isSample": false,
+  "textStorage": "streamed",
+  "chapters": [
+    {
+      "ref": "1",
+      "label": "1. प्रथमोऽध्यायः"
+    },
+    {
+      "ref": "2",
+      "label": "2. द्वितीयोऽध्यायः"
+    },
+    {
+      "ref": "3",
+      "label": "3. तृतीयोऽध्यायः"
+    },
+    {
+      "ref": "4",
+      "label": "4. चतुर्थोऽध्यायः"
+    },
+    {
+      "ref": "5",
+      "label": "5. पञ्चमोऽध्यायः"
+    },
+    {
+      "ref": "6",
+      "label": "6. षष्ठोऽध्यायः"
+    },
+    {
+      "ref": "7",
+      "label": "7. सप्तमोऽध्यायः"
+    },
+    {
+      "ref": "8",
+      "label": "8. अष्टमोऽध्यायः"
+    },
+    {
+      "ref": "9",
+      "label": "9. नवमोऽध्यायः"
+    },
+    {
+      "ref": "10",
+      "label": "10. दशमोऽध्यायः"
+    },
+    {
+      "ref": "11",
+      "label": "11. एकादशोऽध्यायः"
+    },
+    {
+      "ref": "12",
+      "label": "12. द्वादशोऽध्यायः"
+    }
+  ],
+  "passages": [
+    {
+      "reference": "1.1",
+      "label": "1. प्रथमोऽध्यायः · verse 1",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.2",
+      "label": "1. प्रथमोऽध्यायः · verse 2",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.3",
+      "label": "1. प्रथमोऽध्यायः · verse 3",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.4",
+      "label": "1. प्रथमोऽध्यायः · verse 4",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.5",
+      "label": "1. प्रथमोऽध्यायः · verse 5",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.6",
+      "label": "1. प्रथमोऽध्यायः · verse 6",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.7",
+      "label": "1. प्रथमोऽध्यायः · verse 7",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.8",
+      "label": "1. प्रथमोऽध्यायः · verse 8",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.9",
+      "label": "1. प्रथमोऽध्यायः · verse 9",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.10",
+      "label": "1. प्रथमोऽध्यायः · verse 10",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.11",
+      "label": "1. प्रथमोऽध्यायः · verse 11",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.12",
+      "label": "1. प्रथमोऽध्यायः · verse 12",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "2.1",
+      "label": "2. द्वितीयोऽध्यायः · verse 1",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.2",
+      "label": "2. द्वितीयोऽध्यायः · verse 2",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.3",
+      "label": "2. द्वितीयोऽध्यायः · verse 3",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.4",
+      "label": "2. द्वितीयोऽध्यायः · verse 4",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.5",
+      "label": "2. द्वितीयोऽध्यायः · verse 5",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.6",
+      "label": "2. द्वितीयोऽध्यायः · verse 6",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.7",
+      "label": "2. द्वितीयोऽध्यायः · verse 7",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.8",
+      "label": "2. द्वितीयोऽध्यायः · verse 8",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.9",
+      "label": "2. द्वितीयोऽध्यायः · verse 9",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.10",
+      "label": "2. द्वितीयोऽध्यायः · verse 10",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.11",
+      "label": "2. द्वितीयोऽध्यायः · verse 11",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "3.1",
+      "label": "3. तृतीयोऽध्यायः · verse 1",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.2",
+      "label": "3. तृतीयोऽध्यायः · verse 2",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.3",
+      "label": "3. तृतीयोऽध्यायः · verse 3",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.4",
+      "label": "3. तृतीयोऽध्यायः · verse 4",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.5",
+      "label": "3. तृतीयोऽध्यायः · verse 5",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.6",
+      "label": "3. तृतीयोऽध्यायः · verse 6",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.7",
+      "label": "3. तृतीयोऽध्यायः · verse 7",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.8",
+      "label": "3. तृतीयोऽध्यायः · verse 8",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.9",
+      "label": "3. तृतीयोऽध्यायः · verse 9",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "4.1",
+      "label": "4. चतुर्थोऽध्यायः · verse 1",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.2",
+      "label": "4. चतुर्थोऽध्यायः · verse 2",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.3",
+      "label": "4. चतुर्थोऽध्यायः · verse 3",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.4",
+      "label": "4. चतुर्थोऽध्यायः · verse 4",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.5",
+      "label": "4. चतुर्थोऽध्यायः · verse 5",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.6",
+      "label": "4. चतुर्थोऽध्यायः · verse 6",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.7",
+      "label": "4. चतुर्थोऽध्यायः · verse 7",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.8",
+      "label": "4. चतुर्थोऽध्यायः · verse 8",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "5.1",
+      "label": "5. पञ्चमोऽध्यायः · verse 1",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.2",
+      "label": "5. पञ्चमोऽध्यायः · verse 2",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.3",
+      "label": "5. पञ्चमोऽध्यायः · verse 3",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.4",
+      "label": "5. पञ्चमोऽध्यायः · verse 4",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.5",
+      "label": "5. पञ्चमोऽध्यायः · verse 5",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.6",
+      "label": "5. पञ्चमोऽध्यायः · verse 6",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.7",
+      "label": "5. पञ्चमोऽध्यायः · verse 7",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.8",
+      "label": "5. पञ्चमोऽध्यायः · verse 8",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "6.1",
+      "label": "6. षष्ठोऽध्यायः · verse 1",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.2",
+      "label": "6. षष्ठोऽध्यायः · verse 2",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.3",
+      "label": "6. षष्ठोऽध्यायः · verse 3",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.4",
+      "label": "6. षष्ठोऽध्यायः · verse 4",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.5",
+      "label": "6. षष्ठोऽध्यायः · verse 5",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.6",
+      "label": "6. षष्ठोऽध्यायः · verse 6",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.7",
+      "label": "6. षष्ठोऽध्यायः · verse 7",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.8",
+      "label": "6. षष्ठोऽध्यायः · verse 8",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "7.1",
+      "label": "7. सप्तमोऽध्यायः · verse 1",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.2",
+      "label": "7. सप्तमोऽध्यायः · verse 2",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.3",
+      "label": "7. सप्तमोऽध्यायः · verse 3",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.4",
+      "label": "7. सप्तमोऽध्यायः · verse 4",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.5",
+      "label": "7. सप्तमोऽध्यायः · verse 5",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.6",
+      "label": "7. सप्तमोऽध्यायः · verse 6",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.7",
+      "label": "7. सप्तमोऽध्यायः · verse 7",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.8",
+      "label": "7. सप्तमोऽध्यायः · verse 8",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.9",
+      "label": "7. सप्तमोऽध्यायः · verse 9",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "8.1",
+      "label": "8. अष्टमोऽध्यायः · verse 1",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.2",
+      "label": "8. अष्टमोऽध्यायः · verse 2",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.3",
+      "label": "8. अष्टमोऽध्यायः · verse 3",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.4",
+      "label": "8. अष्टमोऽध्यायः · verse 4",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.5",
+      "label": "8. अष्टमोऽध्यायः · verse 5",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.6",
+      "label": "8. अष्टमोऽध्यायः · verse 6",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.7",
+      "label": "8. अष्टमोऽध्यायः · verse 7",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.8",
+      "label": "8. अष्टमोऽध्यायः · verse 8",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.9",
+      "label": "8. अष्टमोऽध्यायः · verse 9",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.10",
+      "label": "8. अष्टमोऽध्यायः · verse 10",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.11",
+      "label": "8. अष्टमोऽध्यायः · verse 11",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.12",
+      "label": "8. अष्टमोऽध्यायः · verse 12",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.13",
+      "label": "8. अष्टमोऽध्यायः · verse 13",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.14",
+      "label": "8. अष्टमोऽध्यायः · verse 14",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.15",
+      "label": "8. अष्टमोऽध्यायः · verse 15",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.16",
+      "label": "8. अष्टमोऽध्यायः · verse 16",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.17",
+      "label": "8. अष्टमोऽध्यायः · verse 17",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.18",
+      "label": "8. अष्टमोऽध्यायः · verse 18",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.19",
+      "label": "8. अष्टमोऽध्यायः · verse 19",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.20",
+      "label": "8. अष्टमोऽध्यायः · verse 20",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.21",
+      "label": "8. अष्टमोऽध्यायः · verse 21",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.22",
+      "label": "8. अष्टमोऽध्यायः · verse 22",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.23",
+      "label": "8. अष्टमोऽध्यायः · verse 23",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.24",
+      "label": "8. अष्टमोऽध्यायः · verse 24",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "9.1",
+      "label": "9. नवमोऽध्यायः · verse 1",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.2",
+      "label": "9. नवमोऽध्यायः · verse 2",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.3",
+      "label": "9. नवमोऽध्यायः · verse 3",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.4",
+      "label": "9. नवमोऽध्यायः · verse 4",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.5",
+      "label": "9. नवमोऽध्यायः · verse 5",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.6",
+      "label": "9. नवमोऽध्यायः · verse 6",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.7",
+      "label": "9. नवमोऽध्यायः · verse 7",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.8",
+      "label": "9. नवमोऽध्यायः · verse 8",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.9",
+      "label": "9. नवमोऽध्यायः · verse 9",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.10",
+      "label": "9. नवमोऽध्यायः · verse 10",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.11",
+      "label": "9. नवमोऽध्यायः · verse 11",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.12",
+      "label": "9. नवमोऽध्यायः · verse 12",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.13",
+      "label": "9. नवमोऽध्यायः · verse 13",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.14",
+      "label": "9. नवमोऽध्यायः · verse 14",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.15",
+      "label": "9. नवमोऽध्यायः · verse 15",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.16",
+      "label": "9. नवमोऽध्यायः · verse 16",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "10.1",
+      "label": "10. दशमोऽध्यायः · verse 1",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.2",
+      "label": "10. दशमोऽध्यायः · verse 2",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.3",
+      "label": "10. दशमोऽध्यायः · verse 3",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.4",
+      "label": "10. दशमोऽध्यायः · verse 4",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.5",
+      "label": "10. दशमोऽध्यायः · verse 5",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.6",
+      "label": "10. दशमोऽध्यायः · verse 6",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.7",
+      "label": "10. दशमोऽध्यायः · verse 7",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.8",
+      "label": "10. दशमोऽध्यायः · verse 8",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.9",
+      "label": "10. दशमोऽध्यायः · verse 9",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.10",
+      "label": "10. दशमोऽध्यायः · verse 10",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.11",
+      "label": "10. दशमोऽध्यायः · verse 11",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.12",
+      "label": "10. दशमोऽध्यायः · verse 12",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.13",
+      "label": "10. दशमोऽध्यायः · verse 13",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.14",
+      "label": "10. दशमोऽध्यायः · verse 14",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.15",
+      "label": "10. दशमोऽध्यायः · verse 15",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.16",
+      "label": "10. दशमोऽध्यायः · verse 16",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.17",
+      "label": "10. दशमोऽध्यायः · verse 17",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.18",
+      "label": "10. दशमोऽध्यायः · verse 18",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.19",
+      "label": "10. दशमोऽध्यायः · verse 19",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "11.1",
+      "label": "11. एकादशोऽध्यायः · verse 1",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.2",
+      "label": "11. एकादशोऽध्यायः · verse 2",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.3",
+      "label": "11. एकादशोऽध्यायः · verse 3",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.4",
+      "label": "11. एकादशोऽध्यायः · verse 4",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.5",
+      "label": "11. एकादशोऽध्यायः · verse 5",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.6",
+      "label": "11. एकादशोऽध्यायः · verse 6",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.7",
+      "label": "11. एकादशोऽध्यायः · verse 7",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.8",
+      "label": "11. एकादशोऽध्यायः · verse 8",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.9",
+      "label": "11. एकादशोऽध्यायः · verse 9",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "12.1",
+      "label": "12. द्वादशोऽध्यायः · verse 1",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.2",
+      "label": "12. द्वादशोऽध्यायः · verse 2",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.3",
+      "label": "12. द्वादशोऽध्यायः · verse 3",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.4",
+      "label": "12. द्वादशोऽध्यायः · verse 4",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.5",
+      "label": "12. द्वादशोऽध्यायः · verse 5",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.6",
+      "label": "12. द्वादशोऽध्यायः · verse 6",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.7",
+      "label": "12. द्वादशोऽध्यायः · verse 7",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.8",
+      "label": "12. द्वादशोऽध्यायः · verse 8",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.9",
+      "label": "12. द्वादशोऽध्यायः · verse 9",
+      "chapterRef": "12"
+    }
+  ],
+  "editions": [
+    {
+      "slug": "dvadasa-stotra-dvs-sa",
+      "language": "sa",
+      "editionType": "original",
+      "title": "Dvādaśa-stotra (Heritage Scripture Server transcription)",
+      "translator": "",
+      "publisher": "Heritage IITKanpur, Heritage Scripture Server",
+      "publicationYear": null,
+      "source": "gita-supersite",
+      "license": "hcal-1-1",
+      "rightsStatus": "Tier A (the moolam and its transliterations): no modern copyright, freely redistributable. Where the API serves Tier B — the Sanskrit bhāṣya and the AI-generated, community and editorially authored translations — it is displayed non-commercially with attribution and is not relicensed here. Tier C, the authoritative modern-language translations and commentaries, is not served by the API and is not imported.",
+      "attributionText": "Dvādaśa-stotra, Madhvācārya (Ānandatīrtha). Accessed via Heritage Scripture Server (heritage.iitk.ac.in), licence HCAL-1.1. Source: https://heritage.iitk.ac.in/DVS",
+      "structureScheme": "chapter and verse, as the server's own sections and verse addresses divide the text",
+      "isSample": false,
+      "notes": "The verse index was built from the server's published verse addresses. The verses themselves are fetched from the API at read time and are shown with the licence's attribution; the licence identifier and any watermark the server returns are left in place."
+    }
+  ]
+}

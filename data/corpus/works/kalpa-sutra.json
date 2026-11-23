@@ -1,0 +1,2167 @@
+{
+  "slug": "kalpa-sutra",
+  "title": "Kalpa Sutra",
+  "originalTitle": "कल्पसूत्र",
+  "transliteration": "Kalpa Sūtra",
+  "altTitles": [
+    "Kalpasutra of Bhadrabahu",
+    "The Book of Sacred Ritual"
+  ],
+  "tradition": "jainism",
+  "school": "svetambara",
+  "genre": "Scripture",
+  "textType": "Lives of the Jinas and monastic rule",
+  "category": "Scripture",
+  "subcategory": "Lives of the Jinas and monastic rule",
+  "originalLanguage": "pra",
+  "dateStart": -300,
+  "dateEnd": 400,
+  "dateDisplay": "c. 3rd century BCE–4th century CE (traditional dating earlier)",
+  "authorshipStatus": "traditional",
+  "author": "bhadrabahu",
+  "attributionNote": "Traditionally ascribed to Bhadrabāhu, the fourth of the Śvetāmbara patriarchs. The attribution is traditional rather than documentary, and the work as received is a compilation.",
+  "description": "The Śvetāmbara handbook of the lives of the Jinas and the rule of the rainy-season retreat, in twelve chapters: five lectures on the life of Mahāvīra from his descent into the womb to his liberation, the lives of Pārśva, Ariṣṭanemi and Ṛṣabha, the epochs of the intermediate Tīrthaṅkaras, the list of the patriarchs, and the rules for the mendicants' annual confession. It is the text most often copied and illuminated in western India, and the reading of the life of Mahāvīra from it is the centre of the Paryuṣaṇa festival.",
+  "historicalContext": "The Kalpa Sūtra belongs to the Śvetāmbara liturgical canon rather than to the twelve Aṅgas, and its text grew over centuries: the lives draw on older hagiography, and the list of patriarchs was continued as the community's history lengthened. Its public reading at Paryuṣaṇa made it the most widely known of all Jain books.",
+  "availabilityNote": "Streamed from the Internet Sacred Text Archive view by view at read time. Jacobi's 1884 translation is public domain; the Prakrit text is not included.",
+  "featured": false,
+  "featuredNote": "",
+  "refScheme": "chapter.paragraph",
+  "isSample": false,
+  "textStorage": "streamed",
+  "chapters": [
+    {
+      "ref": "1",
+      "label": "Life of Mahâvîra"
+    },
+    {
+      "ref": "2",
+      "label": "Life of Mahâvîra, Lecture 2"
+    },
+    {
+      "ref": "3",
+      "label": "Life of Mahâvîra, Lecture 3"
+    },
+    {
+      "ref": "4",
+      "label": "Life of Mahâvîra, Lecture 4"
+    },
+    {
+      "ref": "5",
+      "label": "Life of Mahâvîra, Lecture 5"
+    },
+    {
+      "ref": "6",
+      "label": "Life of Pârsva"
+    },
+    {
+      "ref": "7",
+      "label": "Life of Arishtanemi"
+    },
+    {
+      "ref": "8",
+      "label": "Epochs of the intermediate Tîrthakaras"
+    },
+    {
+      "ref": "9",
+      "label": "Life of Rishabha"
+    },
+    {
+      "ref": "10",
+      "label": "LIST OF THE STHAVIRAS"
+    },
+    {
+      "ref": "11",
+      "label": "RULES FOR YATIS"
+    }
+  ],
+  "passages": [
+    {
+      "reference": "1.1",
+      "label": "Life of Mahâvîra §1",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.2",
+      "label": "Life of Mahâvîra §2",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.3",
+      "label": "Life of Mahâvîra §3",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.4",
+      "label": "Life of Mahâvîra §4",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.5",
+      "label": "Life of Mahâvîra §5",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.6",
+      "label": "Life of Mahâvîra §6",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.7",
+      "label": "Life of Mahâvîra §7",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "2.1",
+      "label": "Life of Mahâvîra, Lecture 2 §1",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.2",
+      "label": "Life of Mahâvîra, Lecture 2 §2",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.3",
+      "label": "Life of Mahâvîra, Lecture 2 §3",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.4",
+      "label": "Life of Mahâvîra, Lecture 2 §4",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.5",
+      "label": "Life of Mahâvîra, Lecture 2 §5",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.6",
+      "label": "Life of Mahâvîra, Lecture 2 §6",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.7",
+      "label": "Life of Mahâvîra, Lecture 2 §7",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.8",
+      "label": "Life of Mahâvîra, Lecture 2 §8",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.9",
+      "label": "Life of Mahâvîra, Lecture 2 §9",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.10",
+      "label": "Life of Mahâvîra, Lecture 2 §10",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.11",
+      "label": "Life of Mahâvîra, Lecture 2 §11",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.12",
+      "label": "Life of Mahâvîra, Lecture 2 §12",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.13",
+      "label": "Life of Mahâvîra, Lecture 2 §13",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.14",
+      "label": "Life of Mahâvîra, Lecture 2 §14",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.15",
+      "label": "Life of Mahâvîra, Lecture 2 §15",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.16",
+      "label": "Life of Mahâvîra, Lecture 2 §16",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.17",
+      "label": "Life of Mahâvîra, Lecture 2 §17",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.18",
+      "label": "Life of Mahâvîra, Lecture 2 §18",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.19",
+      "label": "Life of Mahâvîra, Lecture 2 §19",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.20",
+      "label": "Life of Mahâvîra, Lecture 2 §20",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.21",
+      "label": "Life of Mahâvîra, Lecture 2 §21",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.22",
+      "label": "Life of Mahâvîra, Lecture 2 §22",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.23",
+      "label": "Life of Mahâvîra, Lecture 2 §23",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.24",
+      "label": "Life of Mahâvîra, Lecture 2 §24",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.25",
+      "label": "Life of Mahâvîra, Lecture 2 §25",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.26",
+      "label": "Life of Mahâvîra, Lecture 2 §26",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "3.1",
+      "label": "Life of Mahâvîra, Lecture 3 §1",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.2",
+      "label": "Life of Mahâvîra, Lecture 3 §2",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.3",
+      "label": "Life of Mahâvîra, Lecture 3 §3",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.4",
+      "label": "Life of Mahâvîra, Lecture 3 §4",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.5",
+      "label": "Life of Mahâvîra, Lecture 3 §5",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.6",
+      "label": "Life of Mahâvîra, Lecture 3 §6",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.7",
+      "label": "Life of Mahâvîra, Lecture 3 §7",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.8",
+      "label": "Life of Mahâvîra, Lecture 3 §8",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.9",
+      "label": "Life of Mahâvîra, Lecture 3 §9",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.10",
+      "label": "Life of Mahâvîra, Lecture 3 §10",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.11",
+      "label": "Life of Mahâvîra, Lecture 3 §11",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.12",
+      "label": "Life of Mahâvîra, Lecture 3 §12",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.13",
+      "label": "Life of Mahâvîra, Lecture 3 §13",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.14",
+      "label": "Life of Mahâvîra, Lecture 3 §14",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.15",
+      "label": "Life of Mahâvîra, Lecture 3 §15",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.16",
+      "label": "Life of Mahâvîra, Lecture 3 §16",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.17",
+      "label": "Life of Mahâvîra, Lecture 3 §17",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.18",
+      "label": "Life of Mahâvîra, Lecture 3 §18",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.19",
+      "label": "Life of Mahâvîra, Lecture 3 §19",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.20",
+      "label": "Life of Mahâvîra, Lecture 3 §20",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.21",
+      "label": "Life of Mahâvîra, Lecture 3 §21",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "4.1",
+      "label": "Life of Mahâvîra, Lecture 4 §1",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.2",
+      "label": "Life of Mahâvîra, Lecture 4 §2",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.3",
+      "label": "Life of Mahâvîra, Lecture 4 §3",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.4",
+      "label": "Life of Mahâvîra, Lecture 4 §4",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.5",
+      "label": "Life of Mahâvîra, Lecture 4 §5",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.6",
+      "label": "Life of Mahâvîra, Lecture 4 §6",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.7",
+      "label": "Life of Mahâvîra, Lecture 4 §7",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.8",
+      "label": "Life of Mahâvîra, Lecture 4 §8",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.9",
+      "label": "Life of Mahâvîra, Lecture 4 §9",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.10",
+      "label": "Life of Mahâvîra, Lecture 4 §10",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.11",
+      "label": "Life of Mahâvîra, Lecture 4 §11",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.12",
+      "label": "Life of Mahâvîra, Lecture 4 §12",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.13",
+      "label": "Life of Mahâvîra, Lecture 4 §13",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.14",
+      "label": "Life of Mahâvîra, Lecture 4 §14",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.15",
+      "label": "Life of Mahâvîra, Lecture 4 §15",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.16",
+      "label": "Life of Mahâvîra, Lecture 4 §16",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.17",
+      "label": "Life of Mahâvîra, Lecture 4 §17",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.18",
+      "label": "Life of Mahâvîra, Lecture 4 §18",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.19",
+      "label": "Life of Mahâvîra, Lecture 4 §19",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.20",
+      "label": "Life of Mahâvîra, Lecture 4 §20",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.21",
+      "label": "Life of Mahâvîra, Lecture 4 §21",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.22",
+      "label": "Life of Mahâvîra, Lecture 4 §22",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.23",
+      "label": "Life of Mahâvîra, Lecture 4 §23",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.24",
+      "label": "Life of Mahâvîra, Lecture 4 §24",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.25",
+      "label": "Life of Mahâvîra, Lecture 4 §25",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.26",
+      "label": "Life of Mahâvîra, Lecture 4 §26",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.27",
+      "label": "Life of Mahâvîra, Lecture 4 §27",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.28",
+      "label": "Life of Mahâvîra, Lecture 4 §28",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.29",
+      "label": "Life of Mahâvîra, Lecture 4 §29",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.30",
+      "label": "Life of Mahâvîra, Lecture 4 §30",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.31",
+      "label": "Life of Mahâvîra, Lecture 4 §31",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.32",
+      "label": "Life of Mahâvîra, Lecture 4 §32",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.33",
+      "label": "Life of Mahâvîra, Lecture 4 §33",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.34",
+      "label": "Life of Mahâvîra, Lecture 4 §34",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.35",
+      "label": "Life of Mahâvîra, Lecture 4 §35",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.36",
+      "label": "Life of Mahâvîra, Lecture 4 §36",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.37",
+      "label": "Life of Mahâvîra, Lecture 4 §37",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.38",
+      "label": "Life of Mahâvîra, Lecture 4 §38",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.39",
+      "label": "Life of Mahâvîra, Lecture 4 §39",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.40",
+      "label": "Life of Mahâvîra, Lecture 4 §40",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.41",
+      "label": "Life of Mahâvîra, Lecture 4 §41",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "5.1",
+      "label": "Life of Mahâvîra, Lecture 5 §1",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.2",
+      "label": "Life of Mahâvîra, Lecture 5 §2",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.3",
+      "label": "Life of Mahâvîra, Lecture 5 §3",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.4",
+      "label": "Life of Mahâvîra, Lecture 5 §4",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.5",
+      "label": "Life of Mahâvîra, Lecture 5 §5",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.6",
+      "label": "Life of Mahâvîra, Lecture 5 §6",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.7",
+      "label": "Life of Mahâvîra, Lecture 5 §7",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.8",
+      "label": "Life of Mahâvîra, Lecture 5 §8",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.9",
+      "label": "Life of Mahâvîra, Lecture 5 §9",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.10",
+      "label": "Life of Mahâvîra, Lecture 5 §10",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.11",
+      "label": "Life of Mahâvîra, Lecture 5 §11",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.12",
+      "label": "Life of Mahâvîra, Lecture 5 §12",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.13",
+      "label": "Life of Mahâvîra, Lecture 5 §13",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.14",
+      "label": "Life of Mahâvîra, Lecture 5 §14",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.15",
+      "label": "Life of Mahâvîra, Lecture 5 §15",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.16",
+      "label": "Life of Mahâvîra, Lecture 5 §16",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.17",
+      "label": "Life of Mahâvîra, Lecture 5 §17",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.18",
+      "label": "Life of Mahâvîra, Lecture 5 §18",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.19",
+      "label": "Life of Mahâvîra, Lecture 5 §19",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.20",
+      "label": "Life of Mahâvîra, Lecture 5 §20",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.21",
+      "label": "Life of Mahâvîra, Lecture 5 §21",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.22",
+      "label": "Life of Mahâvîra, Lecture 5 §22",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.23",
+      "label": "Life of Mahâvîra, Lecture 5 §23",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.24",
+      "label": "Life of Mahâvîra, Lecture 5 §24",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.25",
+      "label": "Life of Mahâvîra, Lecture 5 §25",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.26",
+      "label": "Life of Mahâvîra, Lecture 5 §26",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.27",
+      "label": "Life of Mahâvîra, Lecture 5 §27",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.28",
+      "label": "Life of Mahâvîra, Lecture 5 §28",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.29",
+      "label": "Life of Mahâvîra, Lecture 5 §29",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.30",
+      "label": "Life of Mahâvîra, Lecture 5 §30",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.31",
+      "label": "Life of Mahâvîra, Lecture 5 §31",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.32",
+      "label": "Life of Mahâvîra, Lecture 5 §32",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.33",
+      "label": "Life of Mahâvîra, Lecture 5 §33",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.34",
+      "label": "Life of Mahâvîra, Lecture 5 §34",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.35",
+      "label": "Life of Mahâvîra, Lecture 5 §35",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.36",
+      "label": "Life of Mahâvîra, Lecture 5 §36",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.37",
+      "label": "Life of Mahâvîra, Lecture 5 §37",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.38",
+      "label": "Life of Mahâvîra, Lecture 5 §38",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.39",
+      "label": "Life of Mahâvîra, Lecture 5 §39",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.40",
+      "label": "Life of Mahâvîra, Lecture 5 §40",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.41",
+      "label": "Life of Mahâvîra, Lecture 5 §41",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.42",
+      "label": "Life of Mahâvîra, Lecture 5 §42",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.43",
+      "label": "Life of Mahâvîra, Lecture 5 §43",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.44",
+      "label": "Life of Mahâvîra, Lecture 5 §44",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.45",
+      "label": "Life of Mahâvîra, Lecture 5 §45",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.46",
+      "label": "Life of Mahâvîra, Lecture 5 §46",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "6.1",
+      "label": "Life of Pârsva §1",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.2",
+      "label": "Life of Pârsva §2",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.3",
+      "label": "Life of Pârsva §3",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.4",
+      "label": "Life of Pârsva §4",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.5",
+      "label": "Life of Pârsva §5",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.6",
+      "label": "Life of Pârsva §6",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.7",
+      "label": "Life of Pârsva §7",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.8",
+      "label": "Life of Pârsva §8",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.9",
+      "label": "Life of Pârsva §9",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.10",
+      "label": "Life of Pârsva §10",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.11",
+      "label": "Life of Pârsva §11",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.12",
+      "label": "Life of Pârsva §12",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.13",
+      "label": "Life of Pârsva §13",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.14",
+      "label": "Life of Pârsva §14",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.15",
+      "label": "Life of Pârsva §15",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.16",
+      "label": "Life of Pârsva §16",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.17",
+      "label": "Life of Pârsva §17",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.18",
+      "label": "Life of Pârsva §18",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.19",
+      "label": "Life of Pârsva §19",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "7.1",
+      "label": "Life of Arishtanemi §1",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.2",
+      "label": "Life of Arishtanemi §2",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.3",
+      "label": "Life of Arishtanemi §3",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.4",
+      "label": "Life of Arishtanemi §4",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.5",
+      "label": "Life of Arishtanemi §5",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.6",
+      "label": "Life of Arishtanemi §6",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.7",
+      "label": "Life of Arishtanemi §7",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.8",
+      "label": "Life of Arishtanemi §8",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.9",
+      "label": "Life of Arishtanemi §9",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.10",
+      "label": "Life of Arishtanemi §10",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.11",
+      "label": "Life of Arishtanemi §11",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "8.1",
+      "label": "Epochs of the intermediate Tîrthakaras §1",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "9.1",
+      "label": "Life of Rishabha §1",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.2",
+      "label": "Life of Rishabha §2",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.3",
+      "label": "Life of Rishabha §3",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.4",
+      "label": "Life of Rishabha §4",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.5",
+      "label": "Life of Rishabha §5",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.6",
+      "label": "Life of Rishabha §6",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.7",
+      "label": "Life of Rishabha §7",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.8",
+      "label": "Life of Rishabha §8",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.9",
+      "label": "Life of Rishabha §9",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.10",
+      "label": "Life of Rishabha §10",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.11",
+      "label": "Life of Rishabha §11",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.12",
+      "label": "Life of Rishabha §12",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.13",
+      "label": "Life of Rishabha §13",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.14",
+      "label": "Life of Rishabha §14",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.15",
+      "label": "Life of Rishabha §15",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "10.1",
+      "label": "LIST OF THE STHAVIRAS §1",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.2",
+      "label": "LIST OF THE STHAVIRAS §2",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.3",
+      "label": "LIST OF THE STHAVIRAS §3",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.4",
+      "label": "LIST OF THE STHAVIRAS §4",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.5",
+      "label": "LIST OF THE STHAVIRAS §5",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.6",
+      "label": "LIST OF THE STHAVIRAS §6",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.7",
+      "label": "LIST OF THE STHAVIRAS §7",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.8",
+      "label": "LIST OF THE STHAVIRAS §8",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.9",
+      "label": "LIST OF THE STHAVIRAS §9",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.10",
+      "label": "LIST OF THE STHAVIRAS §10",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.11",
+      "label": "LIST OF THE STHAVIRAS §11",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.12",
+      "label": "LIST OF THE STHAVIRAS §12",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.13",
+      "label": "LIST OF THE STHAVIRAS §13",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.14",
+      "label": "LIST OF THE STHAVIRAS §14",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.15",
+      "label": "LIST OF THE STHAVIRAS §15",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.16",
+      "label": "LIST OF THE STHAVIRAS §16",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.17",
+      "label": "LIST OF THE STHAVIRAS §17",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.18",
+      "label": "LIST OF THE STHAVIRAS §18",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.19",
+      "label": "LIST OF THE STHAVIRAS §19",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.20",
+      "label": "LIST OF THE STHAVIRAS §20",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.21",
+      "label": "LIST OF THE STHAVIRAS §21",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.22",
+      "label": "LIST OF THE STHAVIRAS §22",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.23",
+      "label": "LIST OF THE STHAVIRAS §23",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.24",
+      "label": "LIST OF THE STHAVIRAS §24",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.25",
+      "label": "LIST OF THE STHAVIRAS §25",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.26",
+      "label": "LIST OF THE STHAVIRAS §26",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.27",
+      "label": "LIST OF THE STHAVIRAS §27",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.28",
+      "label": "LIST OF THE STHAVIRAS §28",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.29",
+      "label": "LIST OF THE STHAVIRAS §29",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.30",
+      "label": "LIST OF THE STHAVIRAS §30",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.31",
+      "label": "LIST OF THE STHAVIRAS §31",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.32",
+      "label": "LIST OF THE STHAVIRAS §32",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.33",
+      "label": "LIST OF THE STHAVIRAS §33",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.34",
+      "label": "LIST OF THE STHAVIRAS §34",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.35",
+      "label": "LIST OF THE STHAVIRAS §35",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.36",
+      "label": "LIST OF THE STHAVIRAS §36",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.37",
+      "label": "LIST OF THE STHAVIRAS §37",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.38",
+      "label": "LIST OF THE STHAVIRAS §38",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.39",
+      "label": "LIST OF THE STHAVIRAS §39",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.40",
+      "label": "LIST OF THE STHAVIRAS §40",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.41",
+      "label": "LIST OF THE STHAVIRAS §41",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.42",
+      "label": "LIST OF THE STHAVIRAS §42",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.43",
+      "label": "LIST OF THE STHAVIRAS §43",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.44",
+      "label": "LIST OF THE STHAVIRAS §44",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.45",
+      "label": "LIST OF THE STHAVIRAS §45",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.46",
+      "label": "LIST OF THE STHAVIRAS §46",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.47",
+      "label": "LIST OF THE STHAVIRAS §47",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.48",
+      "label": "LIST OF THE STHAVIRAS §48",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.49",
+      "label": "LIST OF THE STHAVIRAS §49",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.50",
+      "label": "LIST OF THE STHAVIRAS §50",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.51",
+      "label": "LIST OF THE STHAVIRAS §51",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.52",
+      "label": "LIST OF THE STHAVIRAS §52",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.53",
+      "label": "LIST OF THE STHAVIRAS §53",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.54",
+      "label": "LIST OF THE STHAVIRAS §54",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.55",
+      "label": "LIST OF THE STHAVIRAS §55",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.56",
+      "label": "LIST OF THE STHAVIRAS §56",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.57",
+      "label": "LIST OF THE STHAVIRAS §57",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.58",
+      "label": "LIST OF THE STHAVIRAS §58",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.59",
+      "label": "LIST OF THE STHAVIRAS §59",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.60",
+      "label": "LIST OF THE STHAVIRAS §60",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.61",
+      "label": "LIST OF THE STHAVIRAS §61",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.62",
+      "label": "LIST OF THE STHAVIRAS §62",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.63",
+      "label": "LIST OF THE STHAVIRAS §63",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.64",
+      "label": "LIST OF THE STHAVIRAS §64",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.65",
+      "label": "LIST OF THE STHAVIRAS §65",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.66",
+      "label": "LIST OF THE STHAVIRAS §66",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.67",
+      "label": "LIST OF THE STHAVIRAS §67",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.68",
+      "label": "LIST OF THE STHAVIRAS §68",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.69",
+      "label": "LIST OF THE STHAVIRAS §69",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.70",
+      "label": "LIST OF THE STHAVIRAS §70",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.71",
+      "label": "LIST OF THE STHAVIRAS §71",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.72",
+      "label": "LIST OF THE STHAVIRAS §72",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.73",
+      "label": "LIST OF THE STHAVIRAS §73",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.74",
+      "label": "LIST OF THE STHAVIRAS §74",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.75",
+      "label": "LIST OF THE STHAVIRAS §75",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.76",
+      "label": "LIST OF THE STHAVIRAS §76",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.77",
+      "label": "LIST OF THE STHAVIRAS §77",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.78",
+      "label": "LIST OF THE STHAVIRAS §78",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.79",
+      "label": "LIST OF THE STHAVIRAS §79",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.80",
+      "label": "LIST OF THE STHAVIRAS §80",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.81",
+      "label": "LIST OF THE STHAVIRAS §81",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.82",
+      "label": "LIST OF THE STHAVIRAS §82",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.83",
+      "label": "LIST OF THE STHAVIRAS §83",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.84",
+      "label": "LIST OF THE STHAVIRAS §84",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.85",
+      "label": "LIST OF THE STHAVIRAS §85",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.86",
+      "label": "LIST OF THE STHAVIRAS §86",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.87",
+      "label": "LIST OF THE STHAVIRAS §87",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.88",
+      "label": "LIST OF THE STHAVIRAS §88",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.89",
+      "label": "LIST OF THE STHAVIRAS §89",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.90",
+      "label": "LIST OF THE STHAVIRAS §90",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.91",
+      "label": "LIST OF THE STHAVIRAS §91",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.92",
+      "label": "LIST OF THE STHAVIRAS §92",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.93",
+      "label": "LIST OF THE STHAVIRAS §93",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.94",
+      "label": "LIST OF THE STHAVIRAS §94",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.95",
+      "label": "LIST OF THE STHAVIRAS §95",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.96",
+      "label": "LIST OF THE STHAVIRAS §96",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.97",
+      "label": "LIST OF THE STHAVIRAS §97",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.98",
+      "label": "LIST OF THE STHAVIRAS §98",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.99",
+      "label": "LIST OF THE STHAVIRAS §99",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.100",
+      "label": "LIST OF THE STHAVIRAS §100",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.101",
+      "label": "LIST OF THE STHAVIRAS §101",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.102",
+      "label": "LIST OF THE STHAVIRAS §102",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.103",
+      "label": "LIST OF THE STHAVIRAS §103",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.104",
+      "label": "LIST OF THE STHAVIRAS §104",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.105",
+      "label": "LIST OF THE STHAVIRAS §105",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.106",
+      "label": "LIST OF THE STHAVIRAS §106",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.107",
+      "label": "LIST OF THE STHAVIRAS §107",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.108",
+      "label": "LIST OF THE STHAVIRAS §108",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.109",
+      "label": "LIST OF THE STHAVIRAS §109",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.110",
+      "label": "LIST OF THE STHAVIRAS §110",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.111",
+      "label": "LIST OF THE STHAVIRAS §111",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.112",
+      "label": "LIST OF THE STHAVIRAS §112",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.113",
+      "label": "LIST OF THE STHAVIRAS §113",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.114",
+      "label": "LIST OF THE STHAVIRAS §114",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.115",
+      "label": "LIST OF THE STHAVIRAS §115",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.116",
+      "label": "LIST OF THE STHAVIRAS §116",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.117",
+      "label": "LIST OF THE STHAVIRAS §117",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.118",
+      "label": "LIST OF THE STHAVIRAS §118",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.119",
+      "label": "LIST OF THE STHAVIRAS §119",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.120",
+      "label": "LIST OF THE STHAVIRAS §120",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.121",
+      "label": "LIST OF THE STHAVIRAS §121",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.122",
+      "label": "LIST OF THE STHAVIRAS §122",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.123",
+      "label": "LIST OF THE STHAVIRAS §123",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.124",
+      "label": "LIST OF THE STHAVIRAS §124",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.125",
+      "label": "LIST OF THE STHAVIRAS §125",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.126",
+      "label": "LIST OF THE STHAVIRAS §126",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.127",
+      "label": "LIST OF THE STHAVIRAS §127",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.128",
+      "label": "LIST OF THE STHAVIRAS §128",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.129",
+      "label": "LIST OF THE STHAVIRAS §129",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.130",
+      "label": "LIST OF THE STHAVIRAS §130",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.131",
+      "label": "LIST OF THE STHAVIRAS §131",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.132",
+      "label": "LIST OF THE STHAVIRAS §132",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.133",
+      "label": "LIST OF THE STHAVIRAS §133",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.134",
+      "label": "LIST OF THE STHAVIRAS §134",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.135",
+      "label": "LIST OF THE STHAVIRAS §135",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.136",
+      "label": "LIST OF THE STHAVIRAS §136",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.137",
+      "label": "LIST OF THE STHAVIRAS §137",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.138",
+      "label": "LIST OF THE STHAVIRAS §138",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.139",
+      "label": "LIST OF THE STHAVIRAS §139",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.140",
+      "label": "LIST OF THE STHAVIRAS §140",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.141",
+      "label": "LIST OF THE STHAVIRAS §141",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.142",
+      "label": "LIST OF THE STHAVIRAS §142",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.143",
+      "label": "LIST OF THE STHAVIRAS §143",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.144",
+      "label": "LIST OF THE STHAVIRAS §144",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.145",
+      "label": "LIST OF THE STHAVIRAS §145",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.146",
+      "label": "LIST OF THE STHAVIRAS §146",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.147",
+      "label": "LIST OF THE STHAVIRAS §147",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.148",
+      "label": "LIST OF THE STHAVIRAS §148",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.149",
+      "label": "LIST OF THE STHAVIRAS §149",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.150",
+      "label": "LIST OF THE STHAVIRAS §150",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.151",
+      "label": "LIST OF THE STHAVIRAS §151",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.152",
+      "label": "LIST OF THE STHAVIRAS §152",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.153",
+      "label": "LIST OF THE STHAVIRAS §153",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.154",
+      "label": "LIST OF THE STHAVIRAS §154",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.155",
+      "label": "LIST OF THE STHAVIRAS §155",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.156",
+      "label": "LIST OF THE STHAVIRAS §156",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.157",
+      "label": "LIST OF THE STHAVIRAS §157",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.158",
+      "label": "LIST OF THE STHAVIRAS §158",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.159",
+      "label": "LIST OF THE STHAVIRAS §159",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.160",
+      "label": "LIST OF THE STHAVIRAS §160",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.161",
+      "label": "LIST OF THE STHAVIRAS §161",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.162",
+      "label": "LIST OF THE STHAVIRAS §162",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.163",
+      "label": "LIST OF THE STHAVIRAS §163",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.164",
+      "label": "LIST OF THE STHAVIRAS §164",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.165",
+      "label": "LIST OF THE STHAVIRAS §165",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.166",
+      "label": "LIST OF THE STHAVIRAS §166",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.167",
+      "label": "LIST OF THE STHAVIRAS §167",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.168",
+      "label": "LIST OF THE STHAVIRAS §168",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.169",
+      "label": "LIST OF THE STHAVIRAS §169",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.170",
+      "label": "LIST OF THE STHAVIRAS §170",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.171",
+      "label": "LIST OF THE STHAVIRAS §171",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.172",
+      "label": "LIST OF THE STHAVIRAS §172",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.173",
+      "label": "LIST OF THE STHAVIRAS §173",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.174",
+      "label": "LIST OF THE STHAVIRAS §174",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.175",
+      "label": "LIST OF THE STHAVIRAS §175",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "11.1",
+      "label": "RULES FOR YATIS §1",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.2",
+      "label": "RULES FOR YATIS §2",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.3",
+      "label": "RULES FOR YATIS §3",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.4",
+      "label": "RULES FOR YATIS §4",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.5",
+      "label": "RULES FOR YATIS §5",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.6",
+      "label": "RULES FOR YATIS §6",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.7",
+      "label": "RULES FOR YATIS §7",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.8",
+      "label": "RULES FOR YATIS §8",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.9",
+      "label": "RULES FOR YATIS §9",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.10",
+      "label": "RULES FOR YATIS §10",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.11",
+      "label": "RULES FOR YATIS §11",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.12",
+      "label": "RULES FOR YATIS §12",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.13",
+      "label": "RULES FOR YATIS §13",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.14",
+      "label": "RULES FOR YATIS §14",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.15",
+      "label": "RULES FOR YATIS §15",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.16",
+      "label": "RULES FOR YATIS §16",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.17",
+      "label": "RULES FOR YATIS §17",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.18",
+      "label": "RULES FOR YATIS §18",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.19",
+      "label": "RULES FOR YATIS §19",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.20",
+      "label": "RULES FOR YATIS §20",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.21",
+      "label": "RULES FOR YATIS §21",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.22",
+      "label": "RULES FOR YATIS §22",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.23",
+      "label": "RULES FOR YATIS §23",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.24",
+      "label": "RULES FOR YATIS §24",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.25",
+      "label": "RULES FOR YATIS §25",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.26",
+      "label": "RULES FOR YATIS §26",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.27",
+      "label": "RULES FOR YATIS §27",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.28",
+      "label": "RULES FOR YATIS §28",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.29",
+      "label": "RULES FOR YATIS §29",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.30",
+      "label": "RULES FOR YATIS §30",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.31",
+      "label": "RULES FOR YATIS §31",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.32",
+      "label": "RULES FOR YATIS §32",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.33",
+      "label": "RULES FOR YATIS §33",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.34",
+      "label": "RULES FOR YATIS §34",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.35",
+      "label": "RULES FOR YATIS §35",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.36",
+      "label": "RULES FOR YATIS §36",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.37",
+      "label": "RULES FOR YATIS §37",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.38",
+      "label": "RULES FOR YATIS §38",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.39",
+      "label": "RULES FOR YATIS §39",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.40",
+      "label": "RULES FOR YATIS §40",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.41",
+      "label": "RULES FOR YATIS §41",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.42",
+      "label": "RULES FOR YATIS §42",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.43",
+      "label": "RULES FOR YATIS §43",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.44",
+      "label": "RULES FOR YATIS §44",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.45",
+      "label": "RULES FOR YATIS §45",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.46",
+      "label": "RULES FOR YATIS §46",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.47",
+      "label": "RULES FOR YATIS §47",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.48",
+      "label": "RULES FOR YATIS §48",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.49",
+      "label": "RULES FOR YATIS §49",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.50",
+      "label": "RULES FOR YATIS §50",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.51",
+      "label": "RULES FOR YATIS §51",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.52",
+      "label": "RULES FOR YATIS §52",
+      "chapterRef": "11"
+    }
+  ],
+  "editions": [
+    {
+      "slug": "kalpa-sutra-en-jacobi",
+      "language": "en",
+      "editionType": "translation",
+      "title": "Jaina Sutras, Part I (Sacred Books of the East, vol. 22)",
+      "translator": "Hermann Jacobi",
+      "publisher": "Clarendon Press",
+      "publicationYear": 1884,
+      "source": "sacred-texts",
+      "license": "public-domain",
+      "rightsStatus": "Public domain in the United States",
+      "attributionText": "Jaina Sutras, Part I (Sacred Books of the East, vol. 22), translated by Hermann Jacobi (1884). Public domain in the United States. Read from the Internet Sacred Text Archive, sacred-texts.com.",
+      "structureScheme": "one chapter per life or list, the life of Mahavira in five lectures",
+      "isSample": false,
+      "notes": "Jacobi's 1884 translation for the Sacred Books of the East, printed after the Acaranga in the same volume. The printed page numbers the scan carried in the text are dropped and the paragraphs a page turn cut in two are rejoined; Jacobi's footnotes are the volume's apparatus and are not carried."
+    }
+  ]
+}

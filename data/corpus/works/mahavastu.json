@@ -1,0 +1,6686 @@
+{
+  "slug": "mahavastu",
+  "title": "The Mahavastu — the Sanskrit text",
+  "originalTitle": "महावस्तु",
+  "transliteration": "Mahāvastu-avādana",
+  "altTitles": [
+    "Mahāvastu",
+    "Mahavastu Avadana",
+    "Great Story of the Vinaya"
+  ],
+  "tradition": "buddhism",
+  "school": "",
+  "genre": "Vinaya",
+  "textType": "Monastic narrative in prose and verse",
+  "category": "Vinaya",
+  "subcategory": "Mahāvastu",
+  "originalLanguage": "sa",
+  "dateStart": -200,
+  "dateEnd": 200,
+  "dateDisplay": "c. 2nd century BCE–2nd century CE",
+  "authorshipStatus": "composite",
+  "author": "",
+  "attributionNote": "The Mahāvastu-avādana of the Mahāsāṃghika-Lokottaravāda school, transmitted without an author as part of that school's discipline: its Sanskrit is a mixed dialect, older in its verses and modernised in the prose that frames them. GRETIL's e-text follows Émile Senart's edition in three volumes (Paris 1882–1897) and was input by Emmanuel Fauré.",
+  "description": "The Mahāvastu is the great story of the Buddha's career as the Mahāsāṃghikas told it: previous Buddhas and the vow that sets the Bodhisattva on the way, his lives in the heavens and the descent into the world, the birth and the naming of Gotama, the palaces, the four encounters, the departure and the six years of effort, the awakening, and the first conversions, with the lives of the first disciples told around them. Its chapters on the ten stages of the Bodhisattva and on the pomp of the birth are among the earliest Mahayana material to survive in the original, and its narrative is the richest of the older biographies.",
+  "historicalContext": "The work's school disappeared, but its text was preserved in the manuscripts found in Nepal; Senart's edition made it the principal witness to the Sanskrit of the Mahāsāṃghika canon, and it is read today beside the Pali Mahāvagga and the Lalitavistara for what the schools of early Buddhism shared and where they parted.",
+  "availabilityNote": "Complete as GRETIL publishes it: the whole work in Senart's three volumes, 1,324 sections, streamed from GRETIL at read time, one volume at a time. The file marks each volume above its text and wraps each reference in underscores; the reader drops the apparatus and keeps the section. This is the original Sanskrit, not a translation.",
+  "featured": false,
+  "featuredNote": "",
+  "refScheme": "volume.section",
+  "isSample": false,
+  "textStorage": "streamed",
+  "chapters": [
+    {
+      "ref": "1",
+      "label": "Volume 1"
+    },
+    {
+      "ref": "2",
+      "label": "Volume 2"
+    },
+    {
+      "ref": "3",
+      "label": "Volume 3"
+    }
+  ],
+  "passages": [
+    {
+      "reference": "1.1",
+      "label": "Volume 1 §1",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.2",
+      "label": "Volume 1 §2",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.3",
+      "label": "Volume 1 §3",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.4",
+      "label": "Volume 1 §4",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.5",
+      "label": "Volume 1 §5",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.6",
+      "label": "Volume 1 §6",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.7",
+      "label": "Volume 1 §7",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.8",
+      "label": "Volume 1 §8",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.9",
+      "label": "Volume 1 §9",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.10",
+      "label": "Volume 1 §10",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.11",
+      "label": "Volume 1 §11",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.12",
+      "label": "Volume 1 §12",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.13",
+      "label": "Volume 1 §13",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.14",
+      "label": "Volume 1 §14",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.15",
+      "label": "Volume 1 §15",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.16",
+      "label": "Volume 1 §16",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.17",
+      "label": "Volume 1 §17",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.18",
+      "label": "Volume 1 §18",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.19",
+      "label": "Volume 1 §19",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.20",
+      "label": "Volume 1 §20",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.21",
+      "label": "Volume 1 §21",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.22",
+      "label": "Volume 1 §22",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.23",
+      "label": "Volume 1 §23",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.24",
+      "label": "Volume 1 §24",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.25",
+      "label": "Volume 1 §25",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.26",
+      "label": "Volume 1 §26",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.27",
+      "label": "Volume 1 §27",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.28",
+      "label": "Volume 1 §28",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.29",
+      "label": "Volume 1 §29",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.30",
+      "label": "Volume 1 §30",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.31",
+      "label": "Volume 1 §31",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.32",
+      "label": "Volume 1 §32",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.33",
+      "label": "Volume 1 §33",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.34",
+      "label": "Volume 1 §34",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.35",
+      "label": "Volume 1 §35",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.36",
+      "label": "Volume 1 §36",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.37",
+      "label": "Volume 1 §37",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.38",
+      "label": "Volume 1 §38",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.39",
+      "label": "Volume 1 §39",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.40",
+      "label": "Volume 1 §40",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.41",
+      "label": "Volume 1 §41",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.42",
+      "label": "Volume 1 §42",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.43",
+      "label": "Volume 1 §43",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.44",
+      "label": "Volume 1 §44",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.45",
+      "label": "Volume 1 §45",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.46",
+      "label": "Volume 1 §46",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.47",
+      "label": "Volume 1 §47",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.48",
+      "label": "Volume 1 §48",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.49",
+      "label": "Volume 1 §49",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.50",
+      "label": "Volume 1 §50",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.51",
+      "label": "Volume 1 §51",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.52",
+      "label": "Volume 1 §52",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.53",
+      "label": "Volume 1 §53",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.54",
+      "label": "Volume 1 §54",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.55",
+      "label": "Volume 1 §55",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.56",
+      "label": "Volume 1 §56",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.57",
+      "label": "Volume 1 §57",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.58",
+      "label": "Volume 1 §58",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.59",
+      "label": "Volume 1 §59",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.60",
+      "label": "Volume 1 §60",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.61",
+      "label": "Volume 1 §61",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.62",
+      "label": "Volume 1 §62",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.63",
+      "label": "Volume 1 §63",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.64",
+      "label": "Volume 1 §64",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.65",
+      "label": "Volume 1 §65",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.66",
+      "label": "Volume 1 §66",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.67",
+      "label": "Volume 1 §67",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.68",
+      "label": "Volume 1 §68",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.69",
+      "label": "Volume 1 §69",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.70",
+      "label": "Volume 1 §70",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.71",
+      "label": "Volume 1 §71",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.72",
+      "label": "Volume 1 §72",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.73",
+      "label": "Volume 1 §73",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.74",
+      "label": "Volume 1 §74",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.75",
+      "label": "Volume 1 §75",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.76",
+      "label": "Volume 1 §76",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.77",
+      "label": "Volume 1 §77",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.78",
+      "label": "Volume 1 §78",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.79",
+      "label": "Volume 1 §79",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.80",
+      "label": "Volume 1 §80",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.81",
+      "label": "Volume 1 §81",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.82",
+      "label": "Volume 1 §82",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.83",
+      "label": "Volume 1 §83",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.84",
+      "label": "Volume 1 §84",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.85",
+      "label": "Volume 1 §85",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.86",
+      "label": "Volume 1 §86",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.87",
+      "label": "Volume 1 §87",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.88",
+      "label": "Volume 1 §88",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.89",
+      "label": "Volume 1 §89",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.90",
+      "label": "Volume 1 §90",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.91",
+      "label": "Volume 1 §91",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.92",
+      "label": "Volume 1 §92",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.93",
+      "label": "Volume 1 §93",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.94",
+      "label": "Volume 1 §94",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.95",
+      "label": "Volume 1 §95",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.96",
+      "label": "Volume 1 §96",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.97",
+      "label": "Volume 1 §97",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.98",
+      "label": "Volume 1 §98",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.99",
+      "label": "Volume 1 §99",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.100",
+      "label": "Volume 1 §100",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.101",
+      "label": "Volume 1 §101",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.102",
+      "label": "Volume 1 §102",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.103",
+      "label": "Volume 1 §103",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.104",
+      "label": "Volume 1 §104",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.105",
+      "label": "Volume 1 §105",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.106",
+      "label": "Volume 1 §106",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.107",
+      "label": "Volume 1 §107",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.108",
+      "label": "Volume 1 §108",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.109",
+      "label": "Volume 1 §109",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.110",
+      "label": "Volume 1 §110",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.111",
+      "label": "Volume 1 §111",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.112",
+      "label": "Volume 1 §112",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.113",
+      "label": "Volume 1 §113",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.114",
+      "label": "Volume 1 §114",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.115",
+      "label": "Volume 1 §115",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.116",
+      "label": "Volume 1 §116",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.117",
+      "label": "Volume 1 §117",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.118",
+      "label": "Volume 1 §118",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.119",
+      "label": "Volume 1 §119",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.120",
+      "label": "Volume 1 §120",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.121",
+      "label": "Volume 1 §121",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.122",
+      "label": "Volume 1 §122",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.123",
+      "label": "Volume 1 §123",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.124",
+      "label": "Volume 1 §124",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.125",
+      "label": "Volume 1 §125",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.126",
+      "label": "Volume 1 §126",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.127",
+      "label": "Volume 1 §127",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.128",
+      "label": "Volume 1 §128",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.129",
+      "label": "Volume 1 §129",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.130",
+      "label": "Volume 1 §130",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.131",
+      "label": "Volume 1 §131",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.132",
+      "label": "Volume 1 §132",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.133",
+      "label": "Volume 1 §133",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.134",
+      "label": "Volume 1 §134",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.135",
+      "label": "Volume 1 §135",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.136",
+      "label": "Volume 1 §136",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.137",
+      "label": "Volume 1 §137",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.138",
+      "label": "Volume 1 §138",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.139",
+      "label": "Volume 1 §139",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.140",
+      "label": "Volume 1 §140",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.141",
+      "label": "Volume 1 §141",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.142",
+      "label": "Volume 1 §142",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.143",
+      "label": "Volume 1 §143",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.144",
+      "label": "Volume 1 §144",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.145",
+      "label": "Volume 1 §145",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.146",
+      "label": "Volume 1 §146",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.147",
+      "label": "Volume 1 §147",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.148",
+      "label": "Volume 1 §148",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.149",
+      "label": "Volume 1 §149",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.150",
+      "label": "Volume 1 §150",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.151",
+      "label": "Volume 1 §151",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.152",
+      "label": "Volume 1 §152",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.153",
+      "label": "Volume 1 §153",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.154",
+      "label": "Volume 1 §154",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.155",
+      "label": "Volume 1 §155",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.156",
+      "label": "Volume 1 §156",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.157",
+      "label": "Volume 1 §157",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.158",
+      "label": "Volume 1 §158",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.159",
+      "label": "Volume 1 §159",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.160",
+      "label": "Volume 1 §160",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.161",
+      "label": "Volume 1 §161",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.162",
+      "label": "Volume 1 §162",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.163",
+      "label": "Volume 1 §163",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.164",
+      "label": "Volume 1 §164",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.165",
+      "label": "Volume 1 §165",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.166",
+      "label": "Volume 1 §166",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.167",
+      "label": "Volume 1 §167",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.168",
+      "label": "Volume 1 §168",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.169",
+      "label": "Volume 1 §169",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.170",
+      "label": "Volume 1 §170",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.171",
+      "label": "Volume 1 §171",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.172",
+      "label": "Volume 1 §172",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.173",
+      "label": "Volume 1 §173",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.174",
+      "label": "Volume 1 §174",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.175",
+      "label": "Volume 1 §175",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.176",
+      "label": "Volume 1 §176",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.177",
+      "label": "Volume 1 §177",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.178",
+      "label": "Volume 1 §178",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.179",
+      "label": "Volume 1 §179",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.180",
+      "label": "Volume 1 §180",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.181",
+      "label": "Volume 1 §181",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.182",
+      "label": "Volume 1 §182",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.183",
+      "label": "Volume 1 §183",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.184",
+      "label": "Volume 1 §184",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.185",
+      "label": "Volume 1 §185",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.186",
+      "label": "Volume 1 §186",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.187",
+      "label": "Volume 1 §187",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.188",
+      "label": "Volume 1 §188",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.189",
+      "label": "Volume 1 §189",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.190",
+      "label": "Volume 1 §190",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.191",
+      "label": "Volume 1 §191",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.192",
+      "label": "Volume 1 §192",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.193",
+      "label": "Volume 1 §193",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.194",
+      "label": "Volume 1 §194",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.195",
+      "label": "Volume 1 §195",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.196",
+      "label": "Volume 1 §196",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.197",
+      "label": "Volume 1 §197",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.198",
+      "label": "Volume 1 §198",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.199",
+      "label": "Volume 1 §199",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.200",
+      "label": "Volume 1 §200",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.201",
+      "label": "Volume 1 §201",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.202",
+      "label": "Volume 1 §202",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.203",
+      "label": "Volume 1 §203",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.204",
+      "label": "Volume 1 §204",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.205",
+      "label": "Volume 1 §205",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.206",
+      "label": "Volume 1 §206",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.207",
+      "label": "Volume 1 §207",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.208",
+      "label": "Volume 1 §208",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.209",
+      "label": "Volume 1 §209",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.210",
+      "label": "Volume 1 §210",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.211",
+      "label": "Volume 1 §211",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.212",
+      "label": "Volume 1 §212",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.213",
+      "label": "Volume 1 §213",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.214",
+      "label": "Volume 1 §214",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.215",
+      "label": "Volume 1 §215",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.216",
+      "label": "Volume 1 §216",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.217",
+      "label": "Volume 1 §217",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.218",
+      "label": "Volume 1 §218",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.219",
+      "label": "Volume 1 §219",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.220",
+      "label": "Volume 1 §220",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.221",
+      "label": "Volume 1 §221",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.222",
+      "label": "Volume 1 §222",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.223",
+      "label": "Volume 1 §223",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.224",
+      "label": "Volume 1 §224",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.225",
+      "label": "Volume 1 §225",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.226",
+      "label": "Volume 1 §226",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.227",
+      "label": "Volume 1 §227",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.228",
+      "label": "Volume 1 §228",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.229",
+      "label": "Volume 1 §229",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.230",
+      "label": "Volume 1 §230",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.231",
+      "label": "Volume 1 §231",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.232",
+      "label": "Volume 1 §232",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.233",
+      "label": "Volume 1 §233",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.234",
+      "label": "Volume 1 §234",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.235",
+      "label": "Volume 1 §235",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.236",
+      "label": "Volume 1 §236",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.237",
+      "label": "Volume 1 §237",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.238",
+      "label": "Volume 1 §238",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.239",
+      "label": "Volume 1 §239",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.240",
+      "label": "Volume 1 §240",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.241",
+      "label": "Volume 1 §241",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.242",
+      "label": "Volume 1 §242",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.243",
+      "label": "Volume 1 §243",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.244",
+      "label": "Volume 1 §244",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.245",
+      "label": "Volume 1 §245",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.246",
+      "label": "Volume 1 §246",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.247",
+      "label": "Volume 1 §247",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.248",
+      "label": "Volume 1 §248",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.249",
+      "label": "Volume 1 §249",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.250",
+      "label": "Volume 1 §250",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.251",
+      "label": "Volume 1 §251",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.252",
+      "label": "Volume 1 §252",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.253",
+      "label": "Volume 1 §253",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.254",
+      "label": "Volume 1 §254",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.255",
+      "label": "Volume 1 §255",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.256",
+      "label": "Volume 1 §256",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.257",
+      "label": "Volume 1 §257",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.258",
+      "label": "Volume 1 §258",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.259",
+      "label": "Volume 1 §259",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.260",
+      "label": "Volume 1 §260",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.261",
+      "label": "Volume 1 §261",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.262",
+      "label": "Volume 1 §262",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.263",
+      "label": "Volume 1 §263",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.264",
+      "label": "Volume 1 §264",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.265",
+      "label": "Volume 1 §265",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.266",
+      "label": "Volume 1 §266",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.267",
+      "label": "Volume 1 §267",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.268",
+      "label": "Volume 1 §268",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.269",
+      "label": "Volume 1 §269",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.270",
+      "label": "Volume 1 §270",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.271",
+      "label": "Volume 1 §271",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.272",
+      "label": "Volume 1 §272",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.273",
+      "label": "Volume 1 §273",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.274",
+      "label": "Volume 1 §274",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.275",
+      "label": "Volume 1 §275",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.276",
+      "label": "Volume 1 §276",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.277",
+      "label": "Volume 1 §277",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.278",
+      "label": "Volume 1 §278",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.279",
+      "label": "Volume 1 §279",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.280",
+      "label": "Volume 1 §280",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.281",
+      "label": "Volume 1 §281",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.282",
+      "label": "Volume 1 §282",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.283",
+      "label": "Volume 1 §283",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.284",
+      "label": "Volume 1 §284",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.285",
+      "label": "Volume 1 §285",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.286",
+      "label": "Volume 1 §286",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.287",
+      "label": "Volume 1 §287",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.288",
+      "label": "Volume 1 §288",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.289",
+      "label": "Volume 1 §289",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.290",
+      "label": "Volume 1 §290",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.291",
+      "label": "Volume 1 §291",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.292",
+      "label": "Volume 1 §292",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.293",
+      "label": "Volume 1 §293",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.294",
+      "label": "Volume 1 §294",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.295",
+      "label": "Volume 1 §295",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.296",
+      "label": "Volume 1 §296",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.297",
+      "label": "Volume 1 §297",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.298",
+      "label": "Volume 1 §298",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.299",
+      "label": "Volume 1 §299",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.300",
+      "label": "Volume 1 §300",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.301",
+      "label": "Volume 1 §301",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.302",
+      "label": "Volume 1 §302",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.303",
+      "label": "Volume 1 §303",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.304",
+      "label": "Volume 1 §304",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.305",
+      "label": "Volume 1 §305",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.306",
+      "label": "Volume 1 §306",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.307",
+      "label": "Volume 1 §307",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.308",
+      "label": "Volume 1 §308",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.309",
+      "label": "Volume 1 §309",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.310",
+      "label": "Volume 1 §310",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.311",
+      "label": "Volume 1 §311",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.312",
+      "label": "Volume 1 §312",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.313",
+      "label": "Volume 1 §313",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.314",
+      "label": "Volume 1 §314",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.315",
+      "label": "Volume 1 §315",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.316",
+      "label": "Volume 1 §316",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.317",
+      "label": "Volume 1 §317",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.318",
+      "label": "Volume 1 §318",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.319",
+      "label": "Volume 1 §319",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.320",
+      "label": "Volume 1 §320",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.321",
+      "label": "Volume 1 §321",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.322",
+      "label": "Volume 1 §322",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.323",
+      "label": "Volume 1 §323",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.324",
+      "label": "Volume 1 §324",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.325",
+      "label": "Volume 1 §325",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.326",
+      "label": "Volume 1 §326",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.327",
+      "label": "Volume 1 §327",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.328",
+      "label": "Volume 1 §328",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.329",
+      "label": "Volume 1 §329",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.330",
+      "label": "Volume 1 §330",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.331",
+      "label": "Volume 1 §331",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.332",
+      "label": "Volume 1 §332",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.333",
+      "label": "Volume 1 §333",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.334",
+      "label": "Volume 1 §334",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.335",
+      "label": "Volume 1 §335",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.336",
+      "label": "Volume 1 §336",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.337",
+      "label": "Volume 1 §337",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.338",
+      "label": "Volume 1 §338",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.339",
+      "label": "Volume 1 §339",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.340",
+      "label": "Volume 1 §340",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.341",
+      "label": "Volume 1 §341",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.342",
+      "label": "Volume 1 §342",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.343",
+      "label": "Volume 1 §343",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.344",
+      "label": "Volume 1 §344",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.345",
+      "label": "Volume 1 §345",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.346",
+      "label": "Volume 1 §346",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.347",
+      "label": "Volume 1 §347",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.348",
+      "label": "Volume 1 §348",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.349",
+      "label": "Volume 1 §349",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.350",
+      "label": "Volume 1 §350",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.351",
+      "label": "Volume 1 §351",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.352",
+      "label": "Volume 1 §352",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.353",
+      "label": "Volume 1 §353",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.354",
+      "label": "Volume 1 §354",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.355",
+      "label": "Volume 1 §355",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.356",
+      "label": "Volume 1 §356",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.357",
+      "label": "Volume 1 §357",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.358",
+      "label": "Volume 1 §358",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.359",
+      "label": "Volume 1 §359",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.360",
+      "label": "Volume 1 §360",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.361",
+      "label": "Volume 1 §361",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.362",
+      "label": "Volume 1 §362",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.363",
+      "label": "Volume 1 §363",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.364",
+      "label": "Volume 1 §364",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.365",
+      "label": "Volume 1 §365",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.366",
+      "label": "Volume 1 §366",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "2.1",
+      "label": "Volume 2 §1",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.2",
+      "label": "Volume 2 §2",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.3",
+      "label": "Volume 2 §3",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.4",
+      "label": "Volume 2 §4",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.5",
+      "label": "Volume 2 §5",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.6",
+      "label": "Volume 2 §6",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.7",
+      "label": "Volume 2 §7",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.8",
+      "label": "Volume 2 §8",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.9",
+      "label": "Volume 2 §9",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.10",
+      "label": "Volume 2 §10",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.11",
+      "label": "Volume 2 §11",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.12",
+      "label": "Volume 2 §12",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.13",
+      "label": "Volume 2 §13",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.14",
+      "label": "Volume 2 §14",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.15",
+      "label": "Volume 2 §15",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.16",
+      "label": "Volume 2 §16",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.17",
+      "label": "Volume 2 §17",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.18",
+      "label": "Volume 2 §18",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.19",
+      "label": "Volume 2 §19",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.20",
+      "label": "Volume 2 §20",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.21",
+      "label": "Volume 2 §21",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.22",
+      "label": "Volume 2 §22",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.23",
+      "label": "Volume 2 §23",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.24",
+      "label": "Volume 2 §24",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.25",
+      "label": "Volume 2 §25",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.26",
+      "label": "Volume 2 §26",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.27",
+      "label": "Volume 2 §27",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.28",
+      "label": "Volume 2 §28",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.29",
+      "label": "Volume 2 §29",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.30",
+      "label": "Volume 2 §30",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.31",
+      "label": "Volume 2 §31",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.32",
+      "label": "Volume 2 §32",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.33",
+      "label": "Volume 2 §33",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.34",
+      "label": "Volume 2 §34",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.35",
+      "label": "Volume 2 §35",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.36",
+      "label": "Volume 2 §36",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.37",
+      "label": "Volume 2 §37",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.38",
+      "label": "Volume 2 §38",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.39",
+      "label": "Volume 2 §39",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.40",
+      "label": "Volume 2 §40",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.41",
+      "label": "Volume 2 §41",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.42",
+      "label": "Volume 2 §42",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.43",
+      "label": "Volume 2 §43",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.44",
+      "label": "Volume 2 §44",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.45",
+      "label": "Volume 2 §45",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.46",
+      "label": "Volume 2 §46",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.47",
+      "label": "Volume 2 §47",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.48",
+      "label": "Volume 2 §48",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.49",
+      "label": "Volume 2 §49",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.50",
+      "label": "Volume 2 §50",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.51",
+      "label": "Volume 2 §51",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.52",
+      "label": "Volume 2 §52",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.53",
+      "label": "Volume 2 §53",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.54",
+      "label": "Volume 2 §54",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.55",
+      "label": "Volume 2 §55",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.56",
+      "label": "Volume 2 §56",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.57",
+      "label": "Volume 2 §57",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.58",
+      "label": "Volume 2 §58",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.59",
+      "label": "Volume 2 §59",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.60",
+      "label": "Volume 2 §60",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.61",
+      "label": "Volume 2 §61",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.62",
+      "label": "Volume 2 §62",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.63",
+      "label": "Volume 2 §63",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.64",
+      "label": "Volume 2 §64",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.65",
+      "label": "Volume 2 §65",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.66",
+      "label": "Volume 2 §66",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.67",
+      "label": "Volume 2 §67",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.68",
+      "label": "Volume 2 §68",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.69",
+      "label": "Volume 2 §69",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.70",
+      "label": "Volume 2 §70",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.71",
+      "label": "Volume 2 §71",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.72",
+      "label": "Volume 2 §72",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.73",
+      "label": "Volume 2 §73",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.74",
+      "label": "Volume 2 §74",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.75",
+      "label": "Volume 2 §75",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.76",
+      "label": "Volume 2 §76",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.77",
+      "label": "Volume 2 §77",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.78",
+      "label": "Volume 2 §78",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.79",
+      "label": "Volume 2 §79",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.80",
+      "label": "Volume 2 §80",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.81",
+      "label": "Volume 2 §81",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.82",
+      "label": "Volume 2 §82",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.83",
+      "label": "Volume 2 §83",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.84",
+      "label": "Volume 2 §84",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.85",
+      "label": "Volume 2 §85",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.86",
+      "label": "Volume 2 §86",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.87",
+      "label": "Volume 2 §87",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.88",
+      "label": "Volume 2 §88",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.89",
+      "label": "Volume 2 §89",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.90",
+      "label": "Volume 2 §90",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.91",
+      "label": "Volume 2 §91",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.92",
+      "label": "Volume 2 §92",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.93",
+      "label": "Volume 2 §93",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.94",
+      "label": "Volume 2 §94",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.95",
+      "label": "Volume 2 §95",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.96",
+      "label": "Volume 2 §96",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.97",
+      "label": "Volume 2 §97",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.98",
+      "label": "Volume 2 §98",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.99",
+      "label": "Volume 2 §99",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.100",
+      "label": "Volume 2 §100",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.101",
+      "label": "Volume 2 §101",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.102",
+      "label": "Volume 2 §102",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.103",
+      "label": "Volume 2 §103",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.104",
+      "label": "Volume 2 §104",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.105",
+      "label": "Volume 2 §105",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.106",
+      "label": "Volume 2 §106",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.107",
+      "label": "Volume 2 §107",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.108",
+      "label": "Volume 2 §108",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.109",
+      "label": "Volume 2 §109",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.110",
+      "label": "Volume 2 §110",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.111",
+      "label": "Volume 2 §111",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.112",
+      "label": "Volume 2 §112",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.113",
+      "label": "Volume 2 §113",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.114",
+      "label": "Volume 2 §114",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.115",
+      "label": "Volume 2 §115",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.116",
+      "label": "Volume 2 §116",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.117",
+      "label": "Volume 2 §117",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.118",
+      "label": "Volume 2 §118",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.119",
+      "label": "Volume 2 §119",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.120",
+      "label": "Volume 2 §120",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.121",
+      "label": "Volume 2 §121",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.122",
+      "label": "Volume 2 §122",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.123",
+      "label": "Volume 2 §123",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.124",
+      "label": "Volume 2 §124",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.125",
+      "label": "Volume 2 §125",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.126",
+      "label": "Volume 2 §126",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.127",
+      "label": "Volume 2 §127",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.128",
+      "label": "Volume 2 §128",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.129",
+      "label": "Volume 2 §129",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.130",
+      "label": "Volume 2 §130",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.131",
+      "label": "Volume 2 §131",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.132",
+      "label": "Volume 2 §132",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.133",
+      "label": "Volume 2 §133",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.134",
+      "label": "Volume 2 §134",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.135",
+      "label": "Volume 2 §135",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.136",
+      "label": "Volume 2 §136",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.137",
+      "label": "Volume 2 §137",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.138",
+      "label": "Volume 2 §138",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.139",
+      "label": "Volume 2 §139",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.140",
+      "label": "Volume 2 §140",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.141",
+      "label": "Volume 2 §141",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.142",
+      "label": "Volume 2 §142",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.143",
+      "label": "Volume 2 §143",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.144",
+      "label": "Volume 2 §144",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.145",
+      "label": "Volume 2 §145",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.146",
+      "label": "Volume 2 §146",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.147",
+      "label": "Volume 2 §147",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.148",
+      "label": "Volume 2 §148",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.149",
+      "label": "Volume 2 §149",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.150",
+      "label": "Volume 2 §150",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.151",
+      "label": "Volume 2 §151",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.152",
+      "label": "Volume 2 §152",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.153",
+      "label": "Volume 2 §153",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.154",
+      "label": "Volume 2 §154",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.155",
+      "label": "Volume 2 §155",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.156",
+      "label": "Volume 2 §156",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.157",
+      "label": "Volume 2 §157",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.158",
+      "label": "Volume 2 §158",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.159",
+      "label": "Volume 2 §159",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.160",
+      "label": "Volume 2 §160",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.161",
+      "label": "Volume 2 §161",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.162",
+      "label": "Volume 2 §162",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.163",
+      "label": "Volume 2 §163",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.164",
+      "label": "Volume 2 §164",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.165",
+      "label": "Volume 2 §165",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.166",
+      "label": "Volume 2 §166",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.167",
+      "label": "Volume 2 §167",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.168",
+      "label": "Volume 2 §168",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.169",
+      "label": "Volume 2 §169",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.170",
+      "label": "Volume 2 §170",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.171",
+      "label": "Volume 2 §171",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.172",
+      "label": "Volume 2 §172",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.173",
+      "label": "Volume 2 §173",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.174",
+      "label": "Volume 2 §174",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.175",
+      "label": "Volume 2 §175",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.176",
+      "label": "Volume 2 §176",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.177",
+      "label": "Volume 2 §177",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.178",
+      "label": "Volume 2 §178",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.179",
+      "label": "Volume 2 §179",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.180",
+      "label": "Volume 2 §180",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.181",
+      "label": "Volume 2 §181",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.182",
+      "label": "Volume 2 §182",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.183",
+      "label": "Volume 2 §183",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.184",
+      "label": "Volume 2 §184",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.185",
+      "label": "Volume 2 §185",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.186",
+      "label": "Volume 2 §186",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.187",
+      "label": "Volume 2 §187",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.188",
+      "label": "Volume 2 §188",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.189",
+      "label": "Volume 2 §189",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.190",
+      "label": "Volume 2 §190",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.191",
+      "label": "Volume 2 §191",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.192",
+      "label": "Volume 2 §192",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.193",
+      "label": "Volume 2 §193",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.194",
+      "label": "Volume 2 §194",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.195",
+      "label": "Volume 2 §195",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.196",
+      "label": "Volume 2 §196",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.197",
+      "label": "Volume 2 §197",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.198",
+      "label": "Volume 2 §198",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.199",
+      "label": "Volume 2 §199",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.200",
+      "label": "Volume 2 §200",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.201",
+      "label": "Volume 2 §201",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.202",
+      "label": "Volume 2 §202",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.203",
+      "label": "Volume 2 §203",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.204",
+      "label": "Volume 2 §204",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.205",
+      "label": "Volume 2 §205",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.206",
+      "label": "Volume 2 §206",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.207",
+      "label": "Volume 2 §207",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.208",
+      "label": "Volume 2 §208",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.209",
+      "label": "Volume 2 §209",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.210",
+      "label": "Volume 2 §210",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.211",
+      "label": "Volume 2 §211",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.212",
+      "label": "Volume 2 §212",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.213",
+      "label": "Volume 2 §213",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.214",
+      "label": "Volume 2 §214",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.215",
+      "label": "Volume 2 §215",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.216",
+      "label": "Volume 2 §216",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.217",
+      "label": "Volume 2 §217",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.218",
+      "label": "Volume 2 §218",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.219",
+      "label": "Volume 2 §219",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.220",
+      "label": "Volume 2 §220",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.221",
+      "label": "Volume 2 §221",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.222",
+      "label": "Volume 2 §222",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.223",
+      "label": "Volume 2 §223",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.224",
+      "label": "Volume 2 §224",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.225",
+      "label": "Volume 2 §225",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.226",
+      "label": "Volume 2 §226",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.227",
+      "label": "Volume 2 §227",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.228",
+      "label": "Volume 2 §228",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.229",
+      "label": "Volume 2 §229",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.230",
+      "label": "Volume 2 §230",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.231",
+      "label": "Volume 2 §231",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.232",
+      "label": "Volume 2 §232",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.233",
+      "label": "Volume 2 §233",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.234",
+      "label": "Volume 2 §234",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.235",
+      "label": "Volume 2 §235",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.236",
+      "label": "Volume 2 §236",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.237",
+      "label": "Volume 2 §237",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.238",
+      "label": "Volume 2 §238",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.239",
+      "label": "Volume 2 §239",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.240",
+      "label": "Volume 2 §240",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.241",
+      "label": "Volume 2 §241",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.242",
+      "label": "Volume 2 §242",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.243",
+      "label": "Volume 2 §243",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.244",
+      "label": "Volume 2 §244",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.245",
+      "label": "Volume 2 §245",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.246",
+      "label": "Volume 2 §246",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.247",
+      "label": "Volume 2 §247",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.248",
+      "label": "Volume 2 §248",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.249",
+      "label": "Volume 2 §249",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.250",
+      "label": "Volume 2 §250",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.251",
+      "label": "Volume 2 §251",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.252",
+      "label": "Volume 2 §252",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.253",
+      "label": "Volume 2 §253",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.254",
+      "label": "Volume 2 §254",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.255",
+      "label": "Volume 2 §255",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.256",
+      "label": "Volume 2 §256",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.257",
+      "label": "Volume 2 §257",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.258",
+      "label": "Volume 2 §258",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.259",
+      "label": "Volume 2 §259",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.260",
+      "label": "Volume 2 §260",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.261",
+      "label": "Volume 2 §261",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.262",
+      "label": "Volume 2 §262",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.263",
+      "label": "Volume 2 §263",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.264",
+      "label": "Volume 2 §264",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.265",
+      "label": "Volume 2 §265",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.266",
+      "label": "Volume 2 §266",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.267",
+      "label": "Volume 2 §267",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.268",
+      "label": "Volume 2 §268",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.269",
+      "label": "Volume 2 §269",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.270",
+      "label": "Volume 2 §270",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.271",
+      "label": "Volume 2 §271",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.272",
+      "label": "Volume 2 §272",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.273",
+      "label": "Volume 2 §273",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.274",
+      "label": "Volume 2 §274",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.275",
+      "label": "Volume 2 §275",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.276",
+      "label": "Volume 2 §276",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.277",
+      "label": "Volume 2 §277",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.278",
+      "label": "Volume 2 §278",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.279",
+      "label": "Volume 2 §279",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.280",
+      "label": "Volume 2 §280",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.281",
+      "label": "Volume 2 §281",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.282",
+      "label": "Volume 2 §282",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.283",
+      "label": "Volume 2 §283",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.284",
+      "label": "Volume 2 §284",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.285",
+      "label": "Volume 2 §285",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.286",
+      "label": "Volume 2 §286",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.287",
+      "label": "Volume 2 §287",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.288",
+      "label": "Volume 2 §288",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.289",
+      "label": "Volume 2 §289",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.290",
+      "label": "Volume 2 §290",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.291",
+      "label": "Volume 2 §291",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.292",
+      "label": "Volume 2 §292",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.293",
+      "label": "Volume 2 §293",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.294",
+      "label": "Volume 2 §294",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.295",
+      "label": "Volume 2 §295",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.296",
+      "label": "Volume 2 §296",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.297",
+      "label": "Volume 2 §297",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.298",
+      "label": "Volume 2 §298",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.299",
+      "label": "Volume 2 §299",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.300",
+      "label": "Volume 2 §300",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.301",
+      "label": "Volume 2 §301",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.302",
+      "label": "Volume 2 §302",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.303",
+      "label": "Volume 2 §303",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.304",
+      "label": "Volume 2 §304",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.305",
+      "label": "Volume 2 §305",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.306",
+      "label": "Volume 2 §306",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.307",
+      "label": "Volume 2 §307",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.308",
+      "label": "Volume 2 §308",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.309",
+      "label": "Volume 2 §309",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.310",
+      "label": "Volume 2 §310",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.311",
+      "label": "Volume 2 §311",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.312",
+      "label": "Volume 2 §312",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.313",
+      "label": "Volume 2 §313",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.314",
+      "label": "Volume 2 §314",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.315",
+      "label": "Volume 2 §315",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.316",
+      "label": "Volume 2 §316",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.317",
+      "label": "Volume 2 §317",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.318",
+      "label": "Volume 2 §318",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.319",
+      "label": "Volume 2 §319",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.320",
+      "label": "Volume 2 §320",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.321",
+      "label": "Volume 2 §321",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.322",
+      "label": "Volume 2 §322",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.323",
+      "label": "Volume 2 §323",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.324",
+      "label": "Volume 2 §324",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.325",
+      "label": "Volume 2 §325",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.326",
+      "label": "Volume 2 §326",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.327",
+      "label": "Volume 2 §327",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.328",
+      "label": "Volume 2 §328",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.329",
+      "label": "Volume 2 §329",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.330",
+      "label": "Volume 2 §330",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.331",
+      "label": "Volume 2 §331",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.332",
+      "label": "Volume 2 §332",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.333",
+      "label": "Volume 2 §333",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.334",
+      "label": "Volume 2 §334",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.335",
+      "label": "Volume 2 §335",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.336",
+      "label": "Volume 2 §336",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.337",
+      "label": "Volume 2 §337",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.338",
+      "label": "Volume 2 §338",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.339",
+      "label": "Volume 2 §339",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.340",
+      "label": "Volume 2 §340",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.341",
+      "label": "Volume 2 §341",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.342",
+      "label": "Volume 2 §342",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.343",
+      "label": "Volume 2 §343",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.344",
+      "label": "Volume 2 §344",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.345",
+      "label": "Volume 2 §345",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.346",
+      "label": "Volume 2 §346",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.347",
+      "label": "Volume 2 §347",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.348",
+      "label": "Volume 2 §348",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.349",
+      "label": "Volume 2 §349",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.350",
+      "label": "Volume 2 §350",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.351",
+      "label": "Volume 2 §351",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.352",
+      "label": "Volume 2 §352",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.353",
+      "label": "Volume 2 §353",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.354",
+      "label": "Volume 2 §354",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.355",
+      "label": "Volume 2 §355",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.356",
+      "label": "Volume 2 §356",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.357",
+      "label": "Volume 2 §357",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.358",
+      "label": "Volume 2 §358",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.359",
+      "label": "Volume 2 §359",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.360",
+      "label": "Volume 2 §360",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.361",
+      "label": "Volume 2 §361",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.362",
+      "label": "Volume 2 §362",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.363",
+      "label": "Volume 2 §363",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.364",
+      "label": "Volume 2 §364",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.365",
+      "label": "Volume 2 §365",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.366",
+      "label": "Volume 2 §366",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.367",
+      "label": "Volume 2 §367",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.368",
+      "label": "Volume 2 §368",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.369",
+      "label": "Volume 2 §369",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.370",
+      "label": "Volume 2 §370",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.371",
+      "label": "Volume 2 §371",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.372",
+      "label": "Volume 2 §372",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.373",
+      "label": "Volume 2 §373",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.374",
+      "label": "Volume 2 §374",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.375",
+      "label": "Volume 2 §375",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.376",
+      "label": "Volume 2 §376",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.377",
+      "label": "Volume 2 §377",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.378",
+      "label": "Volume 2 §378",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.379",
+      "label": "Volume 2 §379",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.380",
+      "label": "Volume 2 §380",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.381",
+      "label": "Volume 2 §381",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.382",
+      "label": "Volume 2 §382",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.383",
+      "label": "Volume 2 §383",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.384",
+      "label": "Volume 2 §384",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.385",
+      "label": "Volume 2 §385",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.386",
+      "label": "Volume 2 §386",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.387",
+      "label": "Volume 2 §387",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.388",
+      "label": "Volume 2 §388",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.389",
+      "label": "Volume 2 §389",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.390",
+      "label": "Volume 2 §390",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.391",
+      "label": "Volume 2 §391",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.392",
+      "label": "Volume 2 §392",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.393",
+      "label": "Volume 2 §393",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.394",
+      "label": "Volume 2 §394",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.395",
+      "label": "Volume 2 §395",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.396",
+      "label": "Volume 2 §396",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.397",
+      "label": "Volume 2 §397",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.398",
+      "label": "Volume 2 §398",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.399",
+      "label": "Volume 2 §399",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.400",
+      "label": "Volume 2 §400",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.401",
+      "label": "Volume 2 §401",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.402",
+      "label": "Volume 2 §402",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.403",
+      "label": "Volume 2 §403",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.404",
+      "label": "Volume 2 §404",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.405",
+      "label": "Volume 2 §405",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.406",
+      "label": "Volume 2 §406",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.407",
+      "label": "Volume 2 §407",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.408",
+      "label": "Volume 2 §408",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.409",
+      "label": "Volume 2 §409",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.410",
+      "label": "Volume 2 §410",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.411",
+      "label": "Volume 2 §411",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.412",
+      "label": "Volume 2 §412",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.413",
+      "label": "Volume 2 §413",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.414",
+      "label": "Volume 2 §414",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.415",
+      "label": "Volume 2 §415",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.416",
+      "label": "Volume 2 §416",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.417",
+      "label": "Volume 2 §417",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.418",
+      "label": "Volume 2 §418",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.419",
+      "label": "Volume 2 §419",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.420",
+      "label": "Volume 2 §420",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.421",
+      "label": "Volume 2 §421",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.422",
+      "label": "Volume 2 §422",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.423",
+      "label": "Volume 2 §423",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.424",
+      "label": "Volume 2 §424",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.425",
+      "label": "Volume 2 §425",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.426",
+      "label": "Volume 2 §426",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.427",
+      "label": "Volume 2 §427",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.428",
+      "label": "Volume 2 §428",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.429",
+      "label": "Volume 2 §429",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.430",
+      "label": "Volume 2 §430",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.431",
+      "label": "Volume 2 §431",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.432",
+      "label": "Volume 2 §432",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.433",
+      "label": "Volume 2 §433",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.434",
+      "label": "Volume 2 §434",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.435",
+      "label": "Volume 2 §435",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.436",
+      "label": "Volume 2 §436",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.437",
+      "label": "Volume 2 §437",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.438",
+      "label": "Volume 2 §438",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.439",
+      "label": "Volume 2 §439",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.440",
+      "label": "Volume 2 §440",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.441",
+      "label": "Volume 2 §441",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.442",
+      "label": "Volume 2 §442",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.443",
+      "label": "Volume 2 §443",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.444",
+      "label": "Volume 2 §444",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.445",
+      "label": "Volume 2 §445",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.446",
+      "label": "Volume 2 §446",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.447",
+      "label": "Volume 2 §447",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.448",
+      "label": "Volume 2 §448",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.449",
+      "label": "Volume 2 §449",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.450",
+      "label": "Volume 2 §450",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.451",
+      "label": "Volume 2 §451",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.452",
+      "label": "Volume 2 §452",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.453",
+      "label": "Volume 2 §453",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.454",
+      "label": "Volume 2 §454",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.455",
+      "label": "Volume 2 §455",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.456",
+      "label": "Volume 2 §456",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.457",
+      "label": "Volume 2 §457",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.458",
+      "label": "Volume 2 §458",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.459",
+      "label": "Volume 2 §459",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.460",
+      "label": "Volume 2 §460",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.461",
+      "label": "Volume 2 §461",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.462",
+      "label": "Volume 2 §462",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.463",
+      "label": "Volume 2 §463",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.464",
+      "label": "Volume 2 §464",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.465",
+      "label": "Volume 2 §465",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.466",
+      "label": "Volume 2 §466",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.467",
+      "label": "Volume 2 §467",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.468",
+      "label": "Volume 2 §468",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.469",
+      "label": "Volume 2 §469",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.470",
+      "label": "Volume 2 §470",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.471",
+      "label": "Volume 2 §471",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.472",
+      "label": "Volume 2 §472",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.473",
+      "label": "Volume 2 §473",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.474",
+      "label": "Volume 2 §474",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.475",
+      "label": "Volume 2 §475",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.476",
+      "label": "Volume 2 §476",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.477",
+      "label": "Volume 2 §477",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.478",
+      "label": "Volume 2 §478",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.479",
+      "label": "Volume 2 §479",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.480",
+      "label": "Volume 2 §480",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.481",
+      "label": "Volume 2 §481",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.482",
+      "label": "Volume 2 §482",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.483",
+      "label": "Volume 2 §483",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.484",
+      "label": "Volume 2 §484",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.485",
+      "label": "Volume 2 §485",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.486",
+      "label": "Volume 2 §486",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.487",
+      "label": "Volume 2 §487",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.488",
+      "label": "Volume 2 §488",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.489",
+      "label": "Volume 2 §489",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.490",
+      "label": "Volume 2 §490",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.491",
+      "label": "Volume 2 §491",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.492",
+      "label": "Volume 2 §492",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.493",
+      "label": "Volume 2 §493",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.494",
+      "label": "Volume 2 §494",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.495",
+      "label": "Volume 2 §495",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.496",
+      "label": "Volume 2 §496",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "3.1",
+      "label": "Volume 3 §1",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.2",
+      "label": "Volume 3 §2",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.3",
+      "label": "Volume 3 §3",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.4",
+      "label": "Volume 3 §4",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.5",
+      "label": "Volume 3 §5",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.6",
+      "label": "Volume 3 §6",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.7",
+      "label": "Volume 3 §7",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.8",
+      "label": "Volume 3 §8",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.9",
+      "label": "Volume 3 §9",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.10",
+      "label": "Volume 3 §10",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.11",
+      "label": "Volume 3 §11",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.12",
+      "label": "Volume 3 §12",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.13",
+      "label": "Volume 3 §13",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.14",
+      "label": "Volume 3 §14",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.15",
+      "label": "Volume 3 §15",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.16",
+      "label": "Volume 3 §16",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.17",
+      "label": "Volume 3 §17",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.18",
+      "label": "Volume 3 §18",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.19",
+      "label": "Volume 3 §19",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.20",
+      "label": "Volume 3 §20",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.21",
+      "label": "Volume 3 §21",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.22",
+      "label": "Volume 3 §22",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.23",
+      "label": "Volume 3 §23",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.24",
+      "label": "Volume 3 §24",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.25",
+      "label": "Volume 3 §25",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.26",
+      "label": "Volume 3 §26",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.27",
+      "label": "Volume 3 §27",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.28",
+      "label": "Volume 3 §28",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.29",
+      "label": "Volume 3 §29",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.30",
+      "label": "Volume 3 §30",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.31",
+      "label": "Volume 3 §31",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.32",
+      "label": "Volume 3 §32",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.33",
+      "label": "Volume 3 §33",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.34",
+      "label": "Volume 3 §34",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.35",
+      "label": "Volume 3 §35",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.36",
+      "label": "Volume 3 §36",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.37",
+      "label": "Volume 3 §37",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.38",
+      "label": "Volume 3 §38",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.39",
+      "label": "Volume 3 §39",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.40",
+      "label": "Volume 3 §40",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.41",
+      "label": "Volume 3 §41",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.42",
+      "label": "Volume 3 §42",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.43",
+      "label": "Volume 3 §43",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.44",
+      "label": "Volume 3 §44",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.45",
+      "label": "Volume 3 §45",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.46",
+      "label": "Volume 3 §46",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.47",
+      "label": "Volume 3 §47",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.48",
+      "label": "Volume 3 §48",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.49",
+      "label": "Volume 3 §49",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.50",
+      "label": "Volume 3 §50",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.51",
+      "label": "Volume 3 §51",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.52",
+      "label": "Volume 3 §52",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.53",
+      "label": "Volume 3 §53",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.54",
+      "label": "Volume 3 §54",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.55",
+      "label": "Volume 3 §55",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.56",
+      "label": "Volume 3 §56",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.57",
+      "label": "Volume 3 §57",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.58",
+      "label": "Volume 3 §58",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.59",
+      "label": "Volume 3 §59",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.60",
+      "label": "Volume 3 §60",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.61",
+      "label": "Volume 3 §61",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.62",
+      "label": "Volume 3 §62",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.63",
+      "label": "Volume 3 §63",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.64",
+      "label": "Volume 3 §64",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.65",
+      "label": "Volume 3 §65",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.66",
+      "label": "Volume 3 §66",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.67",
+      "label": "Volume 3 §67",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.68",
+      "label": "Volume 3 §68",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.69",
+      "label": "Volume 3 §69",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.70",
+      "label": "Volume 3 §70",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.72",
+      "label": "Volume 3 §72",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.73",
+      "label": "Volume 3 §73",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.74",
+      "label": "Volume 3 §74",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.75",
+      "label": "Volume 3 §75",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.76",
+      "label": "Volume 3 §76",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.77",
+      "label": "Volume 3 §77",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.78",
+      "label": "Volume 3 §78",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.79",
+      "label": "Volume 3 §79",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.80",
+      "label": "Volume 3 §80",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.81",
+      "label": "Volume 3 §81",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.82",
+      "label": "Volume 3 §82",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.83",
+      "label": "Volume 3 §83",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.84",
+      "label": "Volume 3 §84",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.85",
+      "label": "Volume 3 §85",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.86",
+      "label": "Volume 3 §86",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.87",
+      "label": "Volume 3 §87",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.88",
+      "label": "Volume 3 §88",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.89",
+      "label": "Volume 3 §89",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.90",
+      "label": "Volume 3 §90",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.91",
+      "label": "Volume 3 §91",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.92",
+      "label": "Volume 3 §92",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.93",
+      "label": "Volume 3 §93",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.94",
+      "label": "Volume 3 §94",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.95",
+      "label": "Volume 3 §95",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.96",
+      "label": "Volume 3 §96",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.97",
+      "label": "Volume 3 §97",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.98",
+      "label": "Volume 3 §98",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.99",
+      "label": "Volume 3 §99",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.100",
+      "label": "Volume 3 §100",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.101",
+      "label": "Volume 3 §101",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.102",
+      "label": "Volume 3 §102",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.103",
+      "label": "Volume 3 §103",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.104",
+      "label": "Volume 3 §104",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.105",
+      "label": "Volume 3 §105",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.106",
+      "label": "Volume 3 §106",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.107",
+      "label": "Volume 3 §107",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.108",
+      "label": "Volume 3 §108",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.109",
+      "label": "Volume 3 §109",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.110",
+      "label": "Volume 3 §110",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.111",
+      "label": "Volume 3 §111",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.112",
+      "label": "Volume 3 §112",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.113",
+      "label": "Volume 3 §113",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.114",
+      "label": "Volume 3 §114",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.115",
+      "label": "Volume 3 §115",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.116",
+      "label": "Volume 3 §116",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.117",
+      "label": "Volume 3 §117",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.118",
+      "label": "Volume 3 §118",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.119",
+      "label": "Volume 3 §119",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.120",
+      "label": "Volume 3 §120",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.121",
+      "label": "Volume 3 §121",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.122",
+      "label": "Volume 3 §122",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.123",
+      "label": "Volume 3 §123",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.124",
+      "label": "Volume 3 §124",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.125",
+      "label": "Volume 3 §125",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.126",
+      "label": "Volume 3 §126",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.127",
+      "label": "Volume 3 §127",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.128",
+      "label": "Volume 3 §128",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.129",
+      "label": "Volume 3 §129",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.130",
+      "label": "Volume 3 §130",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.131",
+      "label": "Volume 3 §131",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.132",
+      "label": "Volume 3 §132",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.133",
+      "label": "Volume 3 §133",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.134",
+      "label": "Volume 3 §134",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.135",
+      "label": "Volume 3 §135",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.136",
+      "label": "Volume 3 §136",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.137",
+      "label": "Volume 3 §137",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.138",
+      "label": "Volume 3 §138",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.139",
+      "label": "Volume 3 §139",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.140",
+      "label": "Volume 3 §140",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.141",
+      "label": "Volume 3 §141",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.142",
+      "label": "Volume 3 §142",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.143",
+      "label": "Volume 3 §143",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.144",
+      "label": "Volume 3 §144",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.145",
+      "label": "Volume 3 §145",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.146",
+      "label": "Volume 3 §146",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.147",
+      "label": "Volume 3 §147",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.148",
+      "label": "Volume 3 §148",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.149",
+      "label": "Volume 3 §149",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.150",
+      "label": "Volume 3 §150",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.151",
+      "label": "Volume 3 §151",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.152",
+      "label": "Volume 3 §152",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.153",
+      "label": "Volume 3 §153",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.154",
+      "label": "Volume 3 §154",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.155",
+      "label": "Volume 3 §155",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.156",
+      "label": "Volume 3 §156",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.157",
+      "label": "Volume 3 §157",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.158",
+      "label": "Volume 3 §158",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.159",
+      "label": "Volume 3 §159",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.160",
+      "label": "Volume 3 §160",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.161",
+      "label": "Volume 3 §161",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.162",
+      "label": "Volume 3 §162",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.163",
+      "label": "Volume 3 §163",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.164",
+      "label": "Volume 3 §164",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.165",
+      "label": "Volume 3 §165",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.166",
+      "label": "Volume 3 §166",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.167",
+      "label": "Volume 3 §167",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.168",
+      "label": "Volume 3 §168",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.169",
+      "label": "Volume 3 §169",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.170",
+      "label": "Volume 3 §170",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.171",
+      "label": "Volume 3 §171",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.172",
+      "label": "Volume 3 §172",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.173",
+      "label": "Volume 3 §173",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.174",
+      "label": "Volume 3 §174",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.175",
+      "label": "Volume 3 §175",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.176",
+      "label": "Volume 3 §176",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.177",
+      "label": "Volume 3 §177",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.178",
+      "label": "Volume 3 §178",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.179",
+      "label": "Volume 3 §179",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.180",
+      "label": "Volume 3 §180",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.181",
+      "label": "Volume 3 §181",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.182",
+      "label": "Volume 3 §182",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.183",
+      "label": "Volume 3 §183",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.184",
+      "label": "Volume 3 §184",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.185",
+      "label": "Volume 3 §185",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.186",
+      "label": "Volume 3 §186",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.187",
+      "label": "Volume 3 §187",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.188",
+      "label": "Volume 3 §188",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.189",
+      "label": "Volume 3 §189",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.190",
+      "label": "Volume 3 §190",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.191",
+      "label": "Volume 3 §191",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.192",
+      "label": "Volume 3 §192",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.193",
+      "label": "Volume 3 §193",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.194",
+      "label": "Volume 3 §194",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.195",
+      "label": "Volume 3 §195",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.196",
+      "label": "Volume 3 §196",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.197",
+      "label": "Volume 3 §197",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.198",
+      "label": "Volume 3 §198",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.199",
+      "label": "Volume 3 §199",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.200",
+      "label": "Volume 3 §200",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.201",
+      "label": "Volume 3 §201",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.202",
+      "label": "Volume 3 §202",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.203",
+      "label": "Volume 3 §203",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.204",
+      "label": "Volume 3 §204",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.205",
+      "label": "Volume 3 §205",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.206",
+      "label": "Volume 3 §206",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.207",
+      "label": "Volume 3 §207",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.208",
+      "label": "Volume 3 §208",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.209",
+      "label": "Volume 3 §209",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.210",
+      "label": "Volume 3 §210",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.211",
+      "label": "Volume 3 §211",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.212",
+      "label": "Volume 3 §212",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.213",
+      "label": "Volume 3 §213",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.214",
+      "label": "Volume 3 §214",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.215",
+      "label": "Volume 3 §215",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.216",
+      "label": "Volume 3 §216",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.217",
+      "label": "Volume 3 §217",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.218",
+      "label": "Volume 3 §218",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.219",
+      "label": "Volume 3 §219",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.220",
+      "label": "Volume 3 §220",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.221",
+      "label": "Volume 3 §221",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.222",
+      "label": "Volume 3 §222",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.223",
+      "label": "Volume 3 §223",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.224",
+      "label": "Volume 3 §224",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.225",
+      "label": "Volume 3 §225",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.226",
+      "label": "Volume 3 §226",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.227",
+      "label": "Volume 3 §227",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.228",
+      "label": "Volume 3 §228",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.229",
+      "label": "Volume 3 §229",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.230",
+      "label": "Volume 3 §230",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.231",
+      "label": "Volume 3 §231",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.232",
+      "label": "Volume 3 §232",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.233",
+      "label": "Volume 3 §233",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.234",
+      "label": "Volume 3 §234",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.235",
+      "label": "Volume 3 §235",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.236",
+      "label": "Volume 3 §236",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.237",
+      "label": "Volume 3 §237",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.238",
+      "label": "Volume 3 §238",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.239",
+      "label": "Volume 3 §239",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.240",
+      "label": "Volume 3 §240",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.241",
+      "label": "Volume 3 §241",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.242",
+      "label": "Volume 3 §242",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.243",
+      "label": "Volume 3 §243",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.244",
+      "label": "Volume 3 §244",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.245",
+      "label": "Volume 3 §245",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.246",
+      "label": "Volume 3 §246",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.247",
+      "label": "Volume 3 §247",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.248",
+      "label": "Volume 3 §248",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.249",
+      "label": "Volume 3 §249",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.250",
+      "label": "Volume 3 §250",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.251",
+      "label": "Volume 3 §251",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.252",
+      "label": "Volume 3 §252",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.253",
+      "label": "Volume 3 §253",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.254",
+      "label": "Volume 3 §254",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.255",
+      "label": "Volume 3 §255",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.256",
+      "label": "Volume 3 §256",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.257",
+      "label": "Volume 3 §257",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.258",
+      "label": "Volume 3 §258",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.259",
+      "label": "Volume 3 §259",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.260",
+      "label": "Volume 3 §260",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.261",
+      "label": "Volume 3 §261",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.262",
+      "label": "Volume 3 §262",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.263",
+      "label": "Volume 3 §263",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.264",
+      "label": "Volume 3 §264",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.265",
+      "label": "Volume 3 §265",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.266",
+      "label": "Volume 3 §266",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.267",
+      "label": "Volume 3 §267",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.268",
+      "label": "Volume 3 §268",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.269",
+      "label": "Volume 3 §269",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.270",
+      "label": "Volume 3 §270",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.271",
+      "label": "Volume 3 §271",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.272",
+      "label": "Volume 3 §272",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.273",
+      "label": "Volume 3 §273",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.274",
+      "label": "Volume 3 §274",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.275",
+      "label": "Volume 3 §275",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.276",
+      "label": "Volume 3 §276",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.277",
+      "label": "Volume 3 §277",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.278",
+      "label": "Volume 3 §278",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.279",
+      "label": "Volume 3 §279",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.280",
+      "label": "Volume 3 §280",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.281",
+      "label": "Volume 3 §281",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.282",
+      "label": "Volume 3 §282",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.283",
+      "label": "Volume 3 §283",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.284",
+      "label": "Volume 3 §284",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.285",
+      "label": "Volume 3 §285",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.286",
+      "label": "Volume 3 §286",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.287",
+      "label": "Volume 3 §287",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.288",
+      "label": "Volume 3 §288",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.289",
+      "label": "Volume 3 §289",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.290",
+      "label": "Volume 3 §290",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.291",
+      "label": "Volume 3 §291",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.292",
+      "label": "Volume 3 §292",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.293",
+      "label": "Volume 3 §293",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.294",
+      "label": "Volume 3 §294",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.295",
+      "label": "Volume 3 §295",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.296",
+      "label": "Volume 3 §296",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.297",
+      "label": "Volume 3 §297",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.298",
+      "label": "Volume 3 §298",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.299",
+      "label": "Volume 3 §299",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.300",
+      "label": "Volume 3 §300",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.301",
+      "label": "Volume 3 §301",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.302",
+      "label": "Volume 3 §302",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.303",
+      "label": "Volume 3 §303",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.304",
+      "label": "Volume 3 §304",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.305",
+      "label": "Volume 3 §305",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.306",
+      "label": "Volume 3 §306",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.307",
+      "label": "Volume 3 §307",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.308",
+      "label": "Volume 3 §308",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.309",
+      "label": "Volume 3 §309",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.310",
+      "label": "Volume 3 §310",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.311",
+      "label": "Volume 3 §311",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.312",
+      "label": "Volume 3 §312",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.313",
+      "label": "Volume 3 §313",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.314",
+      "label": "Volume 3 §314",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.315",
+      "label": "Volume 3 §315",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.316",
+      "label": "Volume 3 §316",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.317",
+      "label": "Volume 3 §317",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.318",
+      "label": "Volume 3 §318",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.319",
+      "label": "Volume 3 §319",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.320",
+      "label": "Volume 3 §320",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.321",
+      "label": "Volume 3 §321",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.322",
+      "label": "Volume 3 §322",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.323",
+      "label": "Volume 3 §323",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.324",
+      "label": "Volume 3 §324",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.325",
+      "label": "Volume 3 §325",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.326",
+      "label": "Volume 3 §326",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.327",
+      "label": "Volume 3 §327",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.328",
+      "label": "Volume 3 §328",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.329",
+      "label": "Volume 3 §329",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.330",
+      "label": "Volume 3 §330",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.331",
+      "label": "Volume 3 §331",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.332",
+      "label": "Volume 3 §332",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.333",
+      "label": "Volume 3 §333",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.334",
+      "label": "Volume 3 §334",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.335",
+      "label": "Volume 3 §335",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.336",
+      "label": "Volume 3 §336",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.337",
+      "label": "Volume 3 §337",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.338",
+      "label": "Volume 3 §338",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.339",
+      "label": "Volume 3 §339",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.340",
+      "label": "Volume 3 §340",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.341",
+      "label": "Volume 3 §341",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.342",
+      "label": "Volume 3 §342",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.343",
+      "label": "Volume 3 §343",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.344",
+      "label": "Volume 3 §344",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.345",
+      "label": "Volume 3 §345",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.346",
+      "label": "Volume 3 §346",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.347",
+      "label": "Volume 3 §347",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.348",
+      "label": "Volume 3 §348",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.349",
+      "label": "Volume 3 §349",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.350",
+      "label": "Volume 3 §350",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.351",
+      "label": "Volume 3 §351",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.352",
+      "label": "Volume 3 §352",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.353",
+      "label": "Volume 3 §353",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.354",
+      "label": "Volume 3 §354",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.355",
+      "label": "Volume 3 §355",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.356",
+      "label": "Volume 3 §356",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.357",
+      "label": "Volume 3 §357",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.358",
+      "label": "Volume 3 §358",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.359",
+      "label": "Volume 3 §359",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.360",
+      "label": "Volume 3 §360",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.361",
+      "label": "Volume 3 §361",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.362",
+      "label": "Volume 3 §362",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.363",
+      "label": "Volume 3 §363",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.364",
+      "label": "Volume 3 §364",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.365",
+      "label": "Volume 3 §365",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.366",
+      "label": "Volume 3 §366",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.367",
+      "label": "Volume 3 §367",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.368",
+      "label": "Volume 3 §368",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.369",
+      "label": "Volume 3 §369",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.370",
+      "label": "Volume 3 §370",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.371",
+      "label": "Volume 3 §371",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.372",
+      "label": "Volume 3 §372",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.373",
+      "label": "Volume 3 §373",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.374",
+      "label": "Volume 3 §374",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.375",
+      "label": "Volume 3 §375",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.376",
+      "label": "Volume 3 §376",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.377",
+      "label": "Volume 3 §377",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.378",
+      "label": "Volume 3 §378",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.379",
+      "label": "Volume 3 §379",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.380",
+      "label": "Volume 3 §380",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.381",
+      "label": "Volume 3 §381",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.382",
+      "label": "Volume 3 §382",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.383",
+      "label": "Volume 3 §383",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.384",
+      "label": "Volume 3 §384",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.385",
+      "label": "Volume 3 §385",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.386",
+      "label": "Volume 3 §386",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.387",
+      "label": "Volume 3 §387",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.388",
+      "label": "Volume 3 §388",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.389",
+      "label": "Volume 3 §389",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.390",
+      "label": "Volume 3 §390",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.391",
+      "label": "Volume 3 §391",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.392",
+      "label": "Volume 3 §392",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.393",
+      "label": "Volume 3 §393",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.394",
+      "label": "Volume 3 §394",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.395",
+      "label": "Volume 3 §395",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.396",
+      "label": "Volume 3 §396",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.397",
+      "label": "Volume 3 §397",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.398",
+      "label": "Volume 3 §398",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.399",
+      "label": "Volume 3 §399",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.400",
+      "label": "Volume 3 §400",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.401",
+      "label": "Volume 3 §401",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.402",
+      "label": "Volume 3 §402",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.403",
+      "label": "Volume 3 §403",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.404",
+      "label": "Volume 3 §404",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.405",
+      "label": "Volume 3 §405",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.406",
+      "label": "Volume 3 §406",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.407",
+      "label": "Volume 3 §407",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.408",
+      "label": "Volume 3 §408",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.409",
+      "label": "Volume 3 §409",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.410",
+      "label": "Volume 3 §410",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.411",
+      "label": "Volume 3 §411",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.412",
+      "label": "Volume 3 §412",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.413",
+      "label": "Volume 3 §413",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.414",
+      "label": "Volume 3 §414",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.415",
+      "label": "Volume 3 §415",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.416",
+      "label": "Volume 3 §416",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.417",
+      "label": "Volume 3 §417",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.418",
+      "label": "Volume 3 §418",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.419",
+      "label": "Volume 3 §419",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.420",
+      "label": "Volume 3 §420",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.421",
+      "label": "Volume 3 §421",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.422",
+      "label": "Volume 3 §422",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.423",
+      "label": "Volume 3 §423",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.424",
+      "label": "Volume 3 §424",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.425",
+      "label": "Volume 3 §425",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.426",
+      "label": "Volume 3 §426",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.427",
+      "label": "Volume 3 §427",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.428",
+      "label": "Volume 3 §428",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.429",
+      "label": "Volume 3 §429",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.430",
+      "label": "Volume 3 §430",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.431",
+      "label": "Volume 3 §431",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.432",
+      "label": "Volume 3 §432",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.433",
+      "label": "Volume 3 §433",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.434",
+      "label": "Volume 3 §434",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.435",
+      "label": "Volume 3 §435",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.436",
+      "label": "Volume 3 §436",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.437",
+      "label": "Volume 3 §437",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.438",
+      "label": "Volume 3 §438",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.439",
+      "label": "Volume 3 §439",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.440",
+      "label": "Volume 3 §440",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.441",
+      "label": "Volume 3 §441",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.442",
+      "label": "Volume 3 §442",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.443",
+      "label": "Volume 3 §443",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.444",
+      "label": "Volume 3 §444",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.445",
+      "label": "Volume 3 §445",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.446",
+      "label": "Volume 3 §446",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.447",
+      "label": "Volume 3 §447",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.448",
+      "label": "Volume 3 §448",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.449",
+      "label": "Volume 3 §449",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.450",
+      "label": "Volume 3 §450",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.451",
+      "label": "Volume 3 §451",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.452",
+      "label": "Volume 3 §452",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.453",
+      "label": "Volume 3 §453",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.454",
+      "label": "Volume 3 §454",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.455",
+      "label": "Volume 3 §455",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.456",
+      "label": "Volume 3 §456",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.457",
+      "label": "Volume 3 §457",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.458",
+      "label": "Volume 3 §458",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.459",
+      "label": "Volume 3 §459",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.460",
+      "label": "Volume 3 §460",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.461",
+      "label": "Volume 3 §461",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.462",
+      "label": "Volume 3 §462",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.463",
+      "label": "Volume 3 §463",
+      "chapterRef": "3"
+    }
+  ],
+  "editions": [
+    {
+      "slug": "mahavastu-sa",
+      "language": "sa",
+      "editionType": "original",
+      "title": "Mahāvastu-avādana, Senart edition (GRETIL e-text)",
+      "translator": "",
+      "publisher": "GRETIL, Göttingen State and University Library",
+      "publicationYear": 2020,
+      "source": "gretil",
+      "license": "cc-by-nc-sa-4.0",
+      "rightsStatus": "CC BY-NC-SA 4.0 as recorded in the e-text header",
+      "attributionText": "The Mahavastu — the Sanskrit text. GRETIL e-text 2020-07-31, Göttingen Register of Electronic Texts in Indian Languages. Source edition: Émile Senart, 3 vols., Paris 1882-1897. Cf. also : Emmanuel Faure, B. Oguibénine, M. Yamazaki, and Y. Ousaka Mahāvastu-avādana, vol.I: word index and reverse word index Tokyo 2003 (Philologica Asiatica, Monograph Series 20) The Chuo Academic Research Institute (Tokyo, 2003 (July)). Input by Emmanuel Fauré.",
+      "structureScheme": "reference index; each passage is one section as GRETIL numbers it",
+      "isSample": false,
+      "notes": "This e-text was provided to GRETIL in good faith that no copyright rights have been infringed. If anyone wishes to assert copyright over this file, please contact the GRETIL management at gretil(at)sub(dot)uni-goettingen(dot)de. The file will be immediately removed pending resolution of the claim. Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. GRETIL describes the reference scheme as: A reference is assembled consisting of a pragmatic abbreviation of the title: Mahāvastu-avādana = , the number of the  in arabic numerals, the number of the verse in arabic numerals.. The import cache stores the exact segments that were validated. The reader re-fetches the work from GRETIL and reports when the served count no longer matches the index."
+    }
+  ]
+}

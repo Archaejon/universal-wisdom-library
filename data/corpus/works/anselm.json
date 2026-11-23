@@ -1,0 +1,6338 @@
+{
+  "slug": "anselm",
+  "title": "Proslogium, Monologium and Cur Deus Homo",
+  "originalTitle": "",
+  "transliteration": "Proslogion, Monologion, Cur Deus Homo",
+  "altTitles": [
+    "Works of St. Anselm",
+    "Proslogion",
+    "Why God Became Man"
+  ],
+  "tradition": "christianity",
+  "school": "scholasticism",
+  "genre": "Theology",
+  "textType": "Theological treatises",
+  "category": "Scholastic theology",
+  "subcategory": "",
+  "originalLanguage": "la",
+  "dateStart": 1076,
+  "dateEnd": 1098,
+  "dateDisplay": "1076–1098",
+  "authorshipStatus": "established",
+  "author": "anselm",
+  "attributionNote": "Anselm wrote these treatises as abbot of Bec and archbishop of Canterbury. The appendix prints Gaunilo of Marmoutiers' reply on behalf of the fool and Anselm's answer to it, both of which circulated with the Proslogium from the beginning.",
+  "description": "Anselm's three treatises are the beginning of scholastic theology. The Monologium argues from the existence of good things to a single highest good; the Proslogium seeks one argument that needs nothing beyond itself, the famous proof that God is that than which nothing greater can be thought, and ends in the prayer that God may be known and loved; Cur Deus Homo asks why God became man and answers with the theory of satisfaction that shaped Western soteriology. With them the volume prints Gaunilo's objection and Anselm's reply, the first philosophical critique of the ontological argument.",
+  "historicalContext": "Anselm wrote the Monologium and Proslogium at Bec in the 1070s and Cur Deus Homo in England at the end of the century. Sidney Norton Deane's translation, published by the Open Court Publishing Company in 1903, made the treatises available to English readers with the objections of Gaunilo and the later philosophers on the ontological argument.",
+  "availabilityNote": "Complete. The Proslogium, the Monologium, the appendix with Gaunilo and Anselm's reply, and both books of Cur Deus Homo are streamed from the Internet Sacred Text Archive at read time, one chapter per chapter. The archive prints each book of Cur Deus Homo as a single page, so the two books are two long chapters; the rest of the volume (introduction, bibliography, indexes) is not part of the work.",
+  "featured": false,
+  "featuredNote": "",
+  "refScheme": "chapter.paragraph",
+  "isSample": false,
+  "textStorage": "streamed",
+  "chapters": [
+    {
+      "ref": "1",
+      "label": "Proslogium — Chapter I"
+    },
+    {
+      "ref": "2",
+      "label": "Proslogium — Chapter II"
+    },
+    {
+      "ref": "3",
+      "label": "Proslogium — Chapter III"
+    },
+    {
+      "ref": "4",
+      "label": "Proslogium — Chapter IV"
+    },
+    {
+      "ref": "5",
+      "label": "Proslogium — Chapter V"
+    },
+    {
+      "ref": "6",
+      "label": "Proslogium — Chapter VI"
+    },
+    {
+      "ref": "7",
+      "label": "Proslogium — Chapter VII"
+    },
+    {
+      "ref": "8",
+      "label": "Proslogium — Chapter VIII"
+    },
+    {
+      "ref": "9",
+      "label": "Proslogium — Chapter IX"
+    },
+    {
+      "ref": "10",
+      "label": "Proslogium — Chapter X"
+    },
+    {
+      "ref": "11",
+      "label": "Proslogium — Chapter XI"
+    },
+    {
+      "ref": "12",
+      "label": "Proslogium — Chapter XII"
+    },
+    {
+      "ref": "13",
+      "label": "Proslogium — Chapter XIII"
+    },
+    {
+      "ref": "14",
+      "label": "Proslogium — Chapter XIV"
+    },
+    {
+      "ref": "15",
+      "label": "Proslogium — Chapter XV"
+    },
+    {
+      "ref": "16",
+      "label": "Proslogium — Chapter XVI"
+    },
+    {
+      "ref": "17",
+      "label": "Proslogium — Chapter XVII"
+    },
+    {
+      "ref": "18",
+      "label": "Proslogium — Chapter XVIII"
+    },
+    {
+      "ref": "19",
+      "label": "Proslogium — Chapter XIX"
+    },
+    {
+      "ref": "20",
+      "label": "Proslogium — Chapter XX"
+    },
+    {
+      "ref": "21",
+      "label": "Proslogium — Chapter XXI"
+    },
+    {
+      "ref": "22",
+      "label": "Proslogium — Chapter XXII"
+    },
+    {
+      "ref": "23",
+      "label": "Proslogium — Chapter XXIII"
+    },
+    {
+      "ref": "24",
+      "label": "Proslogium — Chapter XXIV"
+    },
+    {
+      "ref": "25",
+      "label": "Proslogium — Chapter XXV"
+    },
+    {
+      "ref": "26",
+      "label": "Proslogium — Chapter XXVI"
+    },
+    {
+      "ref": "27",
+      "label": "Monologium — Preface"
+    },
+    {
+      "ref": "28",
+      "label": "Monologium — Chapter I"
+    },
+    {
+      "ref": "29",
+      "label": "Monologium — Chapter II"
+    },
+    {
+      "ref": "30",
+      "label": "Monologium — Chapter III"
+    },
+    {
+      "ref": "31",
+      "label": "Monologium — Chapter IV"
+    },
+    {
+      "ref": "32",
+      "label": "Monologium — Chapter V"
+    },
+    {
+      "ref": "33",
+      "label": "Monologium — Chapter VI"
+    },
+    {
+      "ref": "34",
+      "label": "Monologium — Chapter VII"
+    },
+    {
+      "ref": "35",
+      "label": "Monologium — Chapter VIII"
+    },
+    {
+      "ref": "36",
+      "label": "Monologium — Chapter IX"
+    },
+    {
+      "ref": "37",
+      "label": "Monologium — Chapter X"
+    },
+    {
+      "ref": "38",
+      "label": "Monologium — Chapter XI"
+    },
+    {
+      "ref": "39",
+      "label": "Monologium — Chapter XII"
+    },
+    {
+      "ref": "40",
+      "label": "Monologium — Chapter XIII"
+    },
+    {
+      "ref": "41",
+      "label": "Monologium — Chapter XIV"
+    },
+    {
+      "ref": "42",
+      "label": "Monologium — Chapter XV"
+    },
+    {
+      "ref": "43",
+      "label": "Monologium — Chapter XVI"
+    },
+    {
+      "ref": "44",
+      "label": "Monologium — Chapter XVII"
+    },
+    {
+      "ref": "45",
+      "label": "Monologium — Chapter XVIII"
+    },
+    {
+      "ref": "46",
+      "label": "Monologium — Chapter XIX"
+    },
+    {
+      "ref": "47",
+      "label": "Monologium — Chapter XX"
+    },
+    {
+      "ref": "48",
+      "label": "Monologium — Chapter XXI"
+    },
+    {
+      "ref": "49",
+      "label": "Monologium — Chapter XXII"
+    },
+    {
+      "ref": "50",
+      "label": "Monologium — Chapter XXIII"
+    },
+    {
+      "ref": "51",
+      "label": "Monologium — Chapter XXIV"
+    },
+    {
+      "ref": "52",
+      "label": "Monologium — Chapter XXV"
+    },
+    {
+      "ref": "53",
+      "label": "Monologium — Chapter XXVI"
+    },
+    {
+      "ref": "54",
+      "label": "Monologium — Chapter XXVII"
+    },
+    {
+      "ref": "55",
+      "label": "Monologium — Chapter XXVIII"
+    },
+    {
+      "ref": "56",
+      "label": "Monologium — Chapter XXIX"
+    },
+    {
+      "ref": "57",
+      "label": "Monologium — Chapter XXX"
+    },
+    {
+      "ref": "58",
+      "label": "Monologium — Chapter XXXI"
+    },
+    {
+      "ref": "59",
+      "label": "Monologium — Chapter XXXII"
+    },
+    {
+      "ref": "60",
+      "label": "Monologium — Chapter XXXIII"
+    },
+    {
+      "ref": "61",
+      "label": "Monologium — Chapter XXXIV"
+    },
+    {
+      "ref": "62",
+      "label": "Monologium — Chapter XXXV"
+    },
+    {
+      "ref": "63",
+      "label": "Monologium — Chapter XXXVI"
+    },
+    {
+      "ref": "64",
+      "label": "Monologium — Chapter XXXVII"
+    },
+    {
+      "ref": "65",
+      "label": "Monologium — Chapter XXXVIII"
+    },
+    {
+      "ref": "66",
+      "label": "Monologium — Chapter XXXIX"
+    },
+    {
+      "ref": "67",
+      "label": "Monologium — Chapter XL"
+    },
+    {
+      "ref": "68",
+      "label": "Monologium — Chapter XLI"
+    },
+    {
+      "ref": "69",
+      "label": "Monologium — Chapter XLII"
+    },
+    {
+      "ref": "70",
+      "label": "Monologium — Chapter XLIII"
+    },
+    {
+      "ref": "71",
+      "label": "Monologium — Chapter XLIV"
+    },
+    {
+      "ref": "72",
+      "label": "Monologium — Chapter XLV"
+    },
+    {
+      "ref": "73",
+      "label": "Monologium — Chapter XLVI"
+    },
+    {
+      "ref": "74",
+      "label": "Monologium — Chapter XLVII"
+    },
+    {
+      "ref": "75",
+      "label": "Monologium — Chapter XLVIII"
+    },
+    {
+      "ref": "76",
+      "label": "Monologium — Chapter XLIX"
+    },
+    {
+      "ref": "77",
+      "label": "Monologium — Chapter L"
+    },
+    {
+      "ref": "78",
+      "label": "Monologium — Chapter LI"
+    },
+    {
+      "ref": "79",
+      "label": "Monologium — Chapter LII"
+    },
+    {
+      "ref": "80",
+      "label": "Monologium — Chapter LIII"
+    },
+    {
+      "ref": "81",
+      "label": "Monologium — Chapter LIV"
+    },
+    {
+      "ref": "82",
+      "label": "Monologium — Chapter LV"
+    },
+    {
+      "ref": "83",
+      "label": "Monologium — Chapter LVI"
+    },
+    {
+      "ref": "84",
+      "label": "Monologium — Chapter LVII"
+    },
+    {
+      "ref": "85",
+      "label": "Monologium — Chapter LVIII"
+    },
+    {
+      "ref": "86",
+      "label": "Monologium — Chapter LIX"
+    },
+    {
+      "ref": "87",
+      "label": "Monologium — Chapter LX"
+    },
+    {
+      "ref": "88",
+      "label": "Monologium — Chapter LXI"
+    },
+    {
+      "ref": "89",
+      "label": "Monologium — Chapter LXII"
+    },
+    {
+      "ref": "90",
+      "label": "Monologium — Chapter LXIII"
+    },
+    {
+      "ref": "91",
+      "label": "Monologium — Chapter LXIV"
+    },
+    {
+      "ref": "92",
+      "label": "Monologium — Chapter LXV"
+    },
+    {
+      "ref": "93",
+      "label": "Monologium — Chapter LXVI"
+    },
+    {
+      "ref": "94",
+      "label": "Monologium — Chapter LXVII"
+    },
+    {
+      "ref": "95",
+      "label": "Monologium — Chapter LXVIII"
+    },
+    {
+      "ref": "96",
+      "label": "Monologium — Chapter LXIX"
+    },
+    {
+      "ref": "97",
+      "label": "Monologium — Chapter LXX"
+    },
+    {
+      "ref": "98",
+      "label": "Monologium — Chapter LXXI"
+    },
+    {
+      "ref": "99",
+      "label": "Monologium — Chapter LXXII"
+    },
+    {
+      "ref": "100",
+      "label": "Monologium — Chapter LXXIII"
+    },
+    {
+      "ref": "101",
+      "label": "Monologium — Chapter LXXIV"
+    },
+    {
+      "ref": "102",
+      "label": "Monologium — Chapter LXXV"
+    },
+    {
+      "ref": "103",
+      "label": "Monologium — Chapter LXXVI"
+    },
+    {
+      "ref": "104",
+      "label": "Monologium — Chapter LXXVII"
+    },
+    {
+      "ref": "105",
+      "label": "Monologium — Chapter LXXVIII"
+    },
+    {
+      "ref": "106",
+      "label": "Monologium — Chapter LXXIX"
+    },
+    {
+      "ref": "107",
+      "label": "Appendix — In Behalf of the Fool"
+    },
+    {
+      "ref": "108",
+      "label": "Appendix — Anselm's Apologetic"
+    },
+    {
+      "ref": "109",
+      "label": "Cur Deus Homo — Preface"
+    },
+    {
+      "ref": "110",
+      "label": "Cur Deus Homo — Book First"
+    },
+    {
+      "ref": "111",
+      "label": "Cur Deus Homo — Book Second"
+    }
+  ],
+  "passages": [
+    {
+      "reference": "1.1",
+      "label": "Proslogium — Chapter I §1",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.2",
+      "label": "Proslogium — Chapter I §2",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.3",
+      "label": "Proslogium — Chapter I §3",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.4",
+      "label": "Proslogium — Chapter I §4",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.5",
+      "label": "Proslogium — Chapter I §5",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.6",
+      "label": "Proslogium — Chapter I §6",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.7",
+      "label": "Proslogium — Chapter I §7",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.8",
+      "label": "Proslogium — Chapter I §8",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "2.1",
+      "label": "Proslogium — Chapter II §1",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.2",
+      "label": "Proslogium — Chapter II §2",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.3",
+      "label": "Proslogium — Chapter II §3",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.4",
+      "label": "Proslogium — Chapter II §4",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.5",
+      "label": "Proslogium — Chapter II §5",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "3.1",
+      "label": "Proslogium — Chapter III §1",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.2",
+      "label": "Proslogium — Chapter III §2",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.3",
+      "label": "Proslogium — Chapter III §3",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "4.1",
+      "label": "Proslogium — Chapter IV §1",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.2",
+      "label": "Proslogium — Chapter IV §2",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.3",
+      "label": "Proslogium — Chapter IV §3",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.4",
+      "label": "Proslogium — Chapter IV §4",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.5",
+      "label": "Proslogium — Chapter IV §5",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "5.1",
+      "label": "Proslogium — Chapter V §1",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.2",
+      "label": "Proslogium — Chapter V §2",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "6.1",
+      "label": "Proslogium — Chapter VI §1",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.2",
+      "label": "Proslogium — Chapter VI §2",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.3",
+      "label": "Proslogium — Chapter VI §3",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "7.1",
+      "label": "Proslogium — Chapter VII §1",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.2",
+      "label": "Proslogium — Chapter VII §2",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.3",
+      "label": "Proslogium — Chapter VII §3",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.4",
+      "label": "Proslogium — Chapter VII §4",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.5",
+      "label": "Proslogium — Chapter VII §5",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "8.1",
+      "label": "Proslogium — Chapter VIII §1",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.2",
+      "label": "Proslogium — Chapter VIII §2",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.3",
+      "label": "Proslogium — Chapter VIII §3",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "9.1",
+      "label": "Proslogium — Chapter IX §1",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.2",
+      "label": "Proslogium — Chapter IX §2",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.3",
+      "label": "Proslogium — Chapter IX §3",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.4",
+      "label": "Proslogium — Chapter IX §4",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.5",
+      "label": "Proslogium — Chapter IX §5",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.6",
+      "label": "Proslogium — Chapter IX §6",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.7",
+      "label": "Proslogium — Chapter IX §7",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.8",
+      "label": "Proslogium — Chapter IX §8",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.9",
+      "label": "Proslogium — Chapter IX §9",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "10.1",
+      "label": "Proslogium — Chapter X §1",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.2",
+      "label": "Proslogium — Chapter X §2",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.3",
+      "label": "Proslogium — Chapter X §3",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "11.1",
+      "label": "Proslogium — Chapter XI §1",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.2",
+      "label": "Proslogium — Chapter XI §2",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.3",
+      "label": "Proslogium — Chapter XI §3",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.4",
+      "label": "Proslogium — Chapter XI §4",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.5",
+      "label": "Proslogium — Chapter XI §5",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "12.1",
+      "label": "Proslogium — Chapter XII §1",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.2",
+      "label": "Proslogium — Chapter XII §2",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "13.1",
+      "label": "Proslogium — Chapter XIII §1",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.2",
+      "label": "Proslogium — Chapter XIII §2",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.3",
+      "label": "Proslogium — Chapter XIII §3",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.4",
+      "label": "Proslogium — Chapter XIII §4",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "14.1",
+      "label": "Proslogium — Chapter XIV §1",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.2",
+      "label": "Proslogium — Chapter XIV §2",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.3",
+      "label": "Proslogium — Chapter XIV §3",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.4",
+      "label": "Proslogium — Chapter XIV §4",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.5",
+      "label": "Proslogium — Chapter XIV §5",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.6",
+      "label": "Proslogium — Chapter XIV §6",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "15.1",
+      "label": "Proslogium — Chapter XV §1",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.2",
+      "label": "Proslogium — Chapter XV §2",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "16.1",
+      "label": "Proslogium — Chapter XVI §1",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.2",
+      "label": "Proslogium — Chapter XVI §2",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.3",
+      "label": "Proslogium — Chapter XVI §3",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "17.1",
+      "label": "Proslogium — Chapter XVII §1",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.2",
+      "label": "Proslogium — Chapter XVII §2",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "18.1",
+      "label": "Proslogium — Chapter XVIII §1",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.2",
+      "label": "Proslogium — Chapter XVIII §2",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.3",
+      "label": "Proslogium — Chapter XVIII §3",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.4",
+      "label": "Proslogium — Chapter XVIII §4",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.5",
+      "label": "Proslogium — Chapter XVIII §5",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.6",
+      "label": "Proslogium — Chapter XVIII §6",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "19.1",
+      "label": "Proslogium — Chapter XIX §1",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.2",
+      "label": "Proslogium — Chapter XIX §2",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.3",
+      "label": "Proslogium — Chapter XIX §3",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "20.1",
+      "label": "Proslogium — Chapter XX §1",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.2",
+      "label": "Proslogium — Chapter XX §2",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "21.1",
+      "label": "Proslogium — Chapter XXI §1",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.2",
+      "label": "Proslogium — Chapter XXI §2",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "22.1",
+      "label": "Proslogium — Chapter XXII §1",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.2",
+      "label": "Proslogium — Chapter XXII §2",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.3",
+      "label": "Proslogium — Chapter XXII §3",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "23.1",
+      "label": "Proslogium — Chapter XXIII §1",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.2",
+      "label": "Proslogium — Chapter XXIII §2",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.3",
+      "label": "Proslogium — Chapter XXIII §3",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "24.1",
+      "label": "Proslogium — Chapter XXIV §1",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.2",
+      "label": "Proslogium — Chapter XXIV §2",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "25.1",
+      "label": "Proslogium — Chapter XXV §1",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.2",
+      "label": "Proslogium — Chapter XXV §2",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.3",
+      "label": "Proslogium — Chapter XXV §3",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.4",
+      "label": "Proslogium — Chapter XXV §4",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.5",
+      "label": "Proslogium — Chapter XXV §5",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.6",
+      "label": "Proslogium — Chapter XXV §6",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.7",
+      "label": "Proslogium — Chapter XXV §7",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.8",
+      "label": "Proslogium — Chapter XXV §8",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.9",
+      "label": "Proslogium — Chapter XXV §9",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.10",
+      "label": "Proslogium — Chapter XXV §10",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.11",
+      "label": "Proslogium — Chapter XXV §11",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "26.1",
+      "label": "Proslogium — Chapter XXVI §1",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.2",
+      "label": "Proslogium — Chapter XXVI §2",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.3",
+      "label": "Proslogium — Chapter XXVI §3",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.4",
+      "label": "Proslogium — Chapter XXVI §4",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "27.1",
+      "label": "Monologium — Preface §1",
+      "chapterRef": "27"
+    },
+    {
+      "reference": "27.2",
+      "label": "Monologium — Preface §2",
+      "chapterRef": "27"
+    },
+    {
+      "reference": "27.3",
+      "label": "Monologium — Preface §3",
+      "chapterRef": "27"
+    },
+    {
+      "reference": "27.4",
+      "label": "Monologium — Preface §4",
+      "chapterRef": "27"
+    },
+    {
+      "reference": "27.5",
+      "label": "Monologium — Preface §5",
+      "chapterRef": "27"
+    },
+    {
+      "reference": "27.6",
+      "label": "Monologium — Preface §6",
+      "chapterRef": "27"
+    },
+    {
+      "reference": "28.1",
+      "label": "Monologium — Chapter I §1",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "28.2",
+      "label": "Monologium — Chapter I §2",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "28.3",
+      "label": "Monologium — Chapter I §3",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "28.4",
+      "label": "Monologium — Chapter I §4",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "28.5",
+      "label": "Monologium — Chapter I §5",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "28.6",
+      "label": "Monologium — Chapter I §6",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "28.7",
+      "label": "Monologium — Chapter I §7",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "28.8",
+      "label": "Monologium — Chapter I §8",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "29.1",
+      "label": "Monologium — Chapter II §1",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.2",
+      "label": "Monologium — Chapter II §2",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "30.1",
+      "label": "Monologium — Chapter III §1",
+      "chapterRef": "30"
+    },
+    {
+      "reference": "30.2",
+      "label": "Monologium — Chapter III §2",
+      "chapterRef": "30"
+    },
+    {
+      "reference": "30.3",
+      "label": "Monologium — Chapter III §3",
+      "chapterRef": "30"
+    },
+    {
+      "reference": "30.4",
+      "label": "Monologium — Chapter III §4",
+      "chapterRef": "30"
+    },
+    {
+      "reference": "30.5",
+      "label": "Monologium — Chapter III §5",
+      "chapterRef": "30"
+    },
+    {
+      "reference": "30.6",
+      "label": "Monologium — Chapter III §6",
+      "chapterRef": "30"
+    },
+    {
+      "reference": "30.7",
+      "label": "Monologium — Chapter III §7",
+      "chapterRef": "30"
+    },
+    {
+      "reference": "30.8",
+      "label": "Monologium — Chapter III §8",
+      "chapterRef": "30"
+    },
+    {
+      "reference": "31.1",
+      "label": "Monologium — Chapter IV §1",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.2",
+      "label": "Monologium — Chapter IV §2",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.3",
+      "label": "Monologium — Chapter IV §3",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.4",
+      "label": "Monologium — Chapter IV §4",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.5",
+      "label": "Monologium — Chapter IV §5",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.6",
+      "label": "Monologium — Chapter IV §6",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.7",
+      "label": "Monologium — Chapter IV §7",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.8",
+      "label": "Monologium — Chapter IV §8",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "32.1",
+      "label": "Monologium — Chapter V §1",
+      "chapterRef": "32"
+    },
+    {
+      "reference": "32.2",
+      "label": "Monologium — Chapter V §2",
+      "chapterRef": "32"
+    },
+    {
+      "reference": "32.3",
+      "label": "Monologium — Chapter V §3",
+      "chapterRef": "32"
+    },
+    {
+      "reference": "32.4",
+      "label": "Monologium — Chapter V §4",
+      "chapterRef": "32"
+    },
+    {
+      "reference": "33.1",
+      "label": "Monologium — Chapter VI §1",
+      "chapterRef": "33"
+    },
+    {
+      "reference": "33.2",
+      "label": "Monologium — Chapter VI §2",
+      "chapterRef": "33"
+    },
+    {
+      "reference": "33.3",
+      "label": "Monologium — Chapter VI §3",
+      "chapterRef": "33"
+    },
+    {
+      "reference": "33.4",
+      "label": "Monologium — Chapter VI §4",
+      "chapterRef": "33"
+    },
+    {
+      "reference": "33.5",
+      "label": "Monologium — Chapter VI §5",
+      "chapterRef": "33"
+    },
+    {
+      "reference": "33.6",
+      "label": "Monologium — Chapter VI §6",
+      "chapterRef": "33"
+    },
+    {
+      "reference": "33.7",
+      "label": "Monologium — Chapter VI §7",
+      "chapterRef": "33"
+    },
+    {
+      "reference": "33.8",
+      "label": "Monologium — Chapter VI §8",
+      "chapterRef": "33"
+    },
+    {
+      "reference": "33.9",
+      "label": "Monologium — Chapter VI §9",
+      "chapterRef": "33"
+    },
+    {
+      "reference": "33.10",
+      "label": "Monologium — Chapter VI §10",
+      "chapterRef": "33"
+    },
+    {
+      "reference": "33.11",
+      "label": "Monologium — Chapter VI §11",
+      "chapterRef": "33"
+    },
+    {
+      "reference": "33.12",
+      "label": "Monologium — Chapter VI §12",
+      "chapterRef": "33"
+    },
+    {
+      "reference": "34.1",
+      "label": "Monologium — Chapter VII §1",
+      "chapterRef": "34"
+    },
+    {
+      "reference": "34.2",
+      "label": "Monologium — Chapter VII §2",
+      "chapterRef": "34"
+    },
+    {
+      "reference": "34.3",
+      "label": "Monologium — Chapter VII §3",
+      "chapterRef": "34"
+    },
+    {
+      "reference": "34.4",
+      "label": "Monologium — Chapter VII §4",
+      "chapterRef": "34"
+    },
+    {
+      "reference": "34.5",
+      "label": "Monologium — Chapter VII §5",
+      "chapterRef": "34"
+    },
+    {
+      "reference": "34.6",
+      "label": "Monologium — Chapter VII §6",
+      "chapterRef": "34"
+    },
+    {
+      "reference": "34.7",
+      "label": "Monologium — Chapter VII §7",
+      "chapterRef": "34"
+    },
+    {
+      "reference": "34.8",
+      "label": "Monologium — Chapter VII §8",
+      "chapterRef": "34"
+    },
+    {
+      "reference": "34.9",
+      "label": "Monologium — Chapter VII §9",
+      "chapterRef": "34"
+    },
+    {
+      "reference": "34.10",
+      "label": "Monologium — Chapter VII §10",
+      "chapterRef": "34"
+    },
+    {
+      "reference": "35.1",
+      "label": "Monologium — Chapter VIII §1",
+      "chapterRef": "35"
+    },
+    {
+      "reference": "35.2",
+      "label": "Monologium — Chapter VIII §2",
+      "chapterRef": "35"
+    },
+    {
+      "reference": "35.3",
+      "label": "Monologium — Chapter VIII §3",
+      "chapterRef": "35"
+    },
+    {
+      "reference": "35.4",
+      "label": "Monologium — Chapter VIII §4",
+      "chapterRef": "35"
+    },
+    {
+      "reference": "35.5",
+      "label": "Monologium — Chapter VIII §5",
+      "chapterRef": "35"
+    },
+    {
+      "reference": "35.6",
+      "label": "Monologium — Chapter VIII §6",
+      "chapterRef": "35"
+    },
+    {
+      "reference": "35.7",
+      "label": "Monologium — Chapter VIII §7",
+      "chapterRef": "35"
+    },
+    {
+      "reference": "35.8",
+      "label": "Monologium — Chapter VIII §8",
+      "chapterRef": "35"
+    },
+    {
+      "reference": "35.9",
+      "label": "Monologium — Chapter VIII §9",
+      "chapterRef": "35"
+    },
+    {
+      "reference": "35.10",
+      "label": "Monologium — Chapter VIII §10",
+      "chapterRef": "35"
+    },
+    {
+      "reference": "35.11",
+      "label": "Monologium — Chapter VIII §11",
+      "chapterRef": "35"
+    },
+    {
+      "reference": "36.1",
+      "label": "Monologium — Chapter IX §1",
+      "chapterRef": "36"
+    },
+    {
+      "reference": "36.2",
+      "label": "Monologium — Chapter IX §2",
+      "chapterRef": "36"
+    },
+    {
+      "reference": "37.1",
+      "label": "Monologium — Chapter X §1",
+      "chapterRef": "37"
+    },
+    {
+      "reference": "37.2",
+      "label": "Monologium — Chapter X §2",
+      "chapterRef": "37"
+    },
+    {
+      "reference": "37.3",
+      "label": "Monologium — Chapter X §3",
+      "chapterRef": "37"
+    },
+    {
+      "reference": "37.4",
+      "label": "Monologium — Chapter X §4",
+      "chapterRef": "37"
+    },
+    {
+      "reference": "37.5",
+      "label": "Monologium — Chapter X §5",
+      "chapterRef": "37"
+    },
+    {
+      "reference": "37.6",
+      "label": "Monologium — Chapter X §6",
+      "chapterRef": "37"
+    },
+    {
+      "reference": "37.7",
+      "label": "Monologium — Chapter X §7",
+      "chapterRef": "37"
+    },
+    {
+      "reference": "38.1",
+      "label": "Monologium — Chapter XI §1",
+      "chapterRef": "38"
+    },
+    {
+      "reference": "38.2",
+      "label": "Monologium — Chapter XI §2",
+      "chapterRef": "38"
+    },
+    {
+      "reference": "38.3",
+      "label": "Monologium — Chapter XI §3",
+      "chapterRef": "38"
+    },
+    {
+      "reference": "38.4",
+      "label": "Monologium — Chapter XI §4",
+      "chapterRef": "38"
+    },
+    {
+      "reference": "39.1",
+      "label": "Monologium — Chapter XII §1",
+      "chapterRef": "39"
+    },
+    {
+      "reference": "39.2",
+      "label": "Monologium — Chapter XII §2",
+      "chapterRef": "39"
+    },
+    {
+      "reference": "40.1",
+      "label": "Monologium — Chapter XIII §1",
+      "chapterRef": "40"
+    },
+    {
+      "reference": "40.2",
+      "label": "Monologium — Chapter XIII §2",
+      "chapterRef": "40"
+    },
+    {
+      "reference": "40.3",
+      "label": "Monologium — Chapter XIII §3",
+      "chapterRef": "40"
+    },
+    {
+      "reference": "41.1",
+      "label": "Monologium — Chapter XIV §1",
+      "chapterRef": "41"
+    },
+    {
+      "reference": "41.2",
+      "label": "Monologium — Chapter XIV §2",
+      "chapterRef": "41"
+    },
+    {
+      "reference": "42.1",
+      "label": "Monologium — Chapter XV §1",
+      "chapterRef": "42"
+    },
+    {
+      "reference": "42.2",
+      "label": "Monologium — Chapter XV §2",
+      "chapterRef": "42"
+    },
+    {
+      "reference": "42.3",
+      "label": "Monologium — Chapter XV §3",
+      "chapterRef": "42"
+    },
+    {
+      "reference": "42.4",
+      "label": "Monologium — Chapter XV §4",
+      "chapterRef": "42"
+    },
+    {
+      "reference": "42.5",
+      "label": "Monologium — Chapter XV §5",
+      "chapterRef": "42"
+    },
+    {
+      "reference": "42.6",
+      "label": "Monologium — Chapter XV §6",
+      "chapterRef": "42"
+    },
+    {
+      "reference": "42.7",
+      "label": "Monologium — Chapter XV §7",
+      "chapterRef": "42"
+    },
+    {
+      "reference": "42.8",
+      "label": "Monologium — Chapter XV §8",
+      "chapterRef": "42"
+    },
+    {
+      "reference": "42.9",
+      "label": "Monologium — Chapter XV §9",
+      "chapterRef": "42"
+    },
+    {
+      "reference": "42.10",
+      "label": "Monologium — Chapter XV §10",
+      "chapterRef": "42"
+    },
+    {
+      "reference": "42.11",
+      "label": "Monologium — Chapter XV §11",
+      "chapterRef": "42"
+    },
+    {
+      "reference": "42.12",
+      "label": "Monologium — Chapter XV §12",
+      "chapterRef": "42"
+    },
+    {
+      "reference": "43.1",
+      "label": "Monologium — Chapter XVI §1",
+      "chapterRef": "43"
+    },
+    {
+      "reference": "43.2",
+      "label": "Monologium — Chapter XVI §2",
+      "chapterRef": "43"
+    },
+    {
+      "reference": "43.3",
+      "label": "Monologium — Chapter XVI §3",
+      "chapterRef": "43"
+    },
+    {
+      "reference": "43.4",
+      "label": "Monologium — Chapter XVI §4",
+      "chapterRef": "43"
+    },
+    {
+      "reference": "43.5",
+      "label": "Monologium — Chapter XVI §5",
+      "chapterRef": "43"
+    },
+    {
+      "reference": "43.6",
+      "label": "Monologium — Chapter XVI §6",
+      "chapterRef": "43"
+    },
+    {
+      "reference": "44.1",
+      "label": "Monologium — Chapter XVII §1",
+      "chapterRef": "44"
+    },
+    {
+      "reference": "44.2",
+      "label": "Monologium — Chapter XVII §2",
+      "chapterRef": "44"
+    },
+    {
+      "reference": "44.3",
+      "label": "Monologium — Chapter XVII §3",
+      "chapterRef": "44"
+    },
+    {
+      "reference": "44.4",
+      "label": "Monologium — Chapter XVII §4",
+      "chapterRef": "44"
+    },
+    {
+      "reference": "45.1",
+      "label": "Monologium — Chapter XVIII §1",
+      "chapterRef": "45"
+    },
+    {
+      "reference": "45.2",
+      "label": "Monologium — Chapter XVIII §2",
+      "chapterRef": "45"
+    },
+    {
+      "reference": "45.3",
+      "label": "Monologium — Chapter XVIII §3",
+      "chapterRef": "45"
+    },
+    {
+      "reference": "45.4",
+      "label": "Monologium — Chapter XVIII §4",
+      "chapterRef": "45"
+    },
+    {
+      "reference": "45.5",
+      "label": "Monologium — Chapter XVIII §5",
+      "chapterRef": "45"
+    },
+    {
+      "reference": "45.6",
+      "label": "Monologium — Chapter XVIII §6",
+      "chapterRef": "45"
+    },
+    {
+      "reference": "45.7",
+      "label": "Monologium — Chapter XVIII §7",
+      "chapterRef": "45"
+    },
+    {
+      "reference": "45.8",
+      "label": "Monologium — Chapter XVIII §8",
+      "chapterRef": "45"
+    },
+    {
+      "reference": "46.1",
+      "label": "Monologium — Chapter XIX §1",
+      "chapterRef": "46"
+    },
+    {
+      "reference": "46.2",
+      "label": "Monologium — Chapter XIX §2",
+      "chapterRef": "46"
+    },
+    {
+      "reference": "46.3",
+      "label": "Monologium — Chapter XIX §3",
+      "chapterRef": "46"
+    },
+    {
+      "reference": "46.4",
+      "label": "Monologium — Chapter XIX §4",
+      "chapterRef": "46"
+    },
+    {
+      "reference": "46.5",
+      "label": "Monologium — Chapter XIX §5",
+      "chapterRef": "46"
+    },
+    {
+      "reference": "46.6",
+      "label": "Monologium — Chapter XIX §6",
+      "chapterRef": "46"
+    },
+    {
+      "reference": "46.7",
+      "label": "Monologium — Chapter XIX §7",
+      "chapterRef": "46"
+    },
+    {
+      "reference": "46.8",
+      "label": "Monologium — Chapter XIX §8",
+      "chapterRef": "46"
+    },
+    {
+      "reference": "47.1",
+      "label": "Monologium — Chapter XX §1",
+      "chapterRef": "47"
+    },
+    {
+      "reference": "47.2",
+      "label": "Monologium — Chapter XX §2",
+      "chapterRef": "47"
+    },
+    {
+      "reference": "47.3",
+      "label": "Monologium — Chapter XX §3",
+      "chapterRef": "47"
+    },
+    {
+      "reference": "47.4",
+      "label": "Monologium — Chapter XX §4",
+      "chapterRef": "47"
+    },
+    {
+      "reference": "47.5",
+      "label": "Monologium — Chapter XX §5",
+      "chapterRef": "47"
+    },
+    {
+      "reference": "47.6",
+      "label": "Monologium — Chapter XX §6",
+      "chapterRef": "47"
+    },
+    {
+      "reference": "48.1",
+      "label": "Monologium — Chapter XXI §1",
+      "chapterRef": "48"
+    },
+    {
+      "reference": "48.2",
+      "label": "Monologium — Chapter XXI §2",
+      "chapterRef": "48"
+    },
+    {
+      "reference": "48.3",
+      "label": "Monologium — Chapter XXI §3",
+      "chapterRef": "48"
+    },
+    {
+      "reference": "48.4",
+      "label": "Monologium — Chapter XXI §4",
+      "chapterRef": "48"
+    },
+    {
+      "reference": "48.5",
+      "label": "Monologium — Chapter XXI §5",
+      "chapterRef": "48"
+    },
+    {
+      "reference": "48.6",
+      "label": "Monologium — Chapter XXI §6",
+      "chapterRef": "48"
+    },
+    {
+      "reference": "48.7",
+      "label": "Monologium — Chapter XXI §7",
+      "chapterRef": "48"
+    },
+    {
+      "reference": "48.8",
+      "label": "Monologium — Chapter XXI §8",
+      "chapterRef": "48"
+    },
+    {
+      "reference": "48.9",
+      "label": "Monologium — Chapter XXI §9",
+      "chapterRef": "48"
+    },
+    {
+      "reference": "48.10",
+      "label": "Monologium — Chapter XXI §10",
+      "chapterRef": "48"
+    },
+    {
+      "reference": "48.11",
+      "label": "Monologium — Chapter XXI §11",
+      "chapterRef": "48"
+    },
+    {
+      "reference": "48.12",
+      "label": "Monologium — Chapter XXI §12",
+      "chapterRef": "48"
+    },
+    {
+      "reference": "48.13",
+      "label": "Monologium — Chapter XXI §13",
+      "chapterRef": "48"
+    },
+    {
+      "reference": "48.14",
+      "label": "Monologium — Chapter XXI §14",
+      "chapterRef": "48"
+    },
+    {
+      "reference": "48.15",
+      "label": "Monologium — Chapter XXI §15",
+      "chapterRef": "48"
+    },
+    {
+      "reference": "48.16",
+      "label": "Monologium — Chapter XXI §16",
+      "chapterRef": "48"
+    },
+    {
+      "reference": "48.17",
+      "label": "Monologium — Chapter XXI §17",
+      "chapterRef": "48"
+    },
+    {
+      "reference": "48.18",
+      "label": "Monologium — Chapter XXI §18",
+      "chapterRef": "48"
+    },
+    {
+      "reference": "48.19",
+      "label": "Monologium — Chapter XXI §19",
+      "chapterRef": "48"
+    },
+    {
+      "reference": "49.1",
+      "label": "Monologium — Chapter XXII §1",
+      "chapterRef": "49"
+    },
+    {
+      "reference": "49.2",
+      "label": "Monologium — Chapter XXII §2",
+      "chapterRef": "49"
+    },
+    {
+      "reference": "49.3",
+      "label": "Monologium — Chapter XXII §3",
+      "chapterRef": "49"
+    },
+    {
+      "reference": "49.4",
+      "label": "Monologium — Chapter XXII §4",
+      "chapterRef": "49"
+    },
+    {
+      "reference": "49.5",
+      "label": "Monologium — Chapter XXII §5",
+      "chapterRef": "49"
+    },
+    {
+      "reference": "49.6",
+      "label": "Monologium — Chapter XXII §6",
+      "chapterRef": "49"
+    },
+    {
+      "reference": "49.7",
+      "label": "Monologium — Chapter XXII §7",
+      "chapterRef": "49"
+    },
+    {
+      "reference": "49.8",
+      "label": "Monologium — Chapter XXII §8",
+      "chapterRef": "49"
+    },
+    {
+      "reference": "49.9",
+      "label": "Monologium — Chapter XXII §9",
+      "chapterRef": "49"
+    },
+    {
+      "reference": "49.10",
+      "label": "Monologium — Chapter XXII §10",
+      "chapterRef": "49"
+    },
+    {
+      "reference": "49.11",
+      "label": "Monologium — Chapter XXII §11",
+      "chapterRef": "49"
+    },
+    {
+      "reference": "49.12",
+      "label": "Monologium — Chapter XXII §12",
+      "chapterRef": "49"
+    },
+    {
+      "reference": "49.13",
+      "label": "Monologium — Chapter XXII §13",
+      "chapterRef": "49"
+    },
+    {
+      "reference": "50.1",
+      "label": "Monologium — Chapter XXIII §1",
+      "chapterRef": "50"
+    },
+    {
+      "reference": "50.2",
+      "label": "Monologium — Chapter XXIII §2",
+      "chapterRef": "50"
+    },
+    {
+      "reference": "50.3",
+      "label": "Monologium — Chapter XXIII §3",
+      "chapterRef": "50"
+    },
+    {
+      "reference": "50.4",
+      "label": "Monologium — Chapter XXIII §4",
+      "chapterRef": "50"
+    },
+    {
+      "reference": "51.1",
+      "label": "Monologium — Chapter XXIV §1",
+      "chapterRef": "51"
+    },
+    {
+      "reference": "51.2",
+      "label": "Monologium — Chapter XXIV §2",
+      "chapterRef": "51"
+    },
+    {
+      "reference": "51.3",
+      "label": "Monologium — Chapter XXIV §3",
+      "chapterRef": "51"
+    },
+    {
+      "reference": "51.4",
+      "label": "Monologium — Chapter XXIV §4",
+      "chapterRef": "51"
+    },
+    {
+      "reference": "51.5",
+      "label": "Monologium — Chapter XXIV §5",
+      "chapterRef": "51"
+    },
+    {
+      "reference": "52.1",
+      "label": "Monologium — Chapter XXV §1",
+      "chapterRef": "52"
+    },
+    {
+      "reference": "52.2",
+      "label": "Monologium — Chapter XXV §2",
+      "chapterRef": "52"
+    },
+    {
+      "reference": "52.3",
+      "label": "Monologium — Chapter XXV §3",
+      "chapterRef": "52"
+    },
+    {
+      "reference": "52.4",
+      "label": "Monologium — Chapter XXV §4",
+      "chapterRef": "52"
+    },
+    {
+      "reference": "52.5",
+      "label": "Monologium — Chapter XXV §5",
+      "chapterRef": "52"
+    },
+    {
+      "reference": "53.1",
+      "label": "Monologium — Chapter XXVI §1",
+      "chapterRef": "53"
+    },
+    {
+      "reference": "53.2",
+      "label": "Monologium — Chapter XXVI §2",
+      "chapterRef": "53"
+    },
+    {
+      "reference": "53.3",
+      "label": "Monologium — Chapter XXVI §3",
+      "chapterRef": "53"
+    },
+    {
+      "reference": "53.4",
+      "label": "Monologium — Chapter XXVI §4",
+      "chapterRef": "53"
+    },
+    {
+      "reference": "54.1",
+      "label": "Monologium — Chapter XXVII §1",
+      "chapterRef": "54"
+    },
+    {
+      "reference": "54.2",
+      "label": "Monologium — Chapter XXVII §2",
+      "chapterRef": "54"
+    },
+    {
+      "reference": "54.3",
+      "label": "Monologium — Chapter XXVII §3",
+      "chapterRef": "54"
+    },
+    {
+      "reference": "54.4",
+      "label": "Monologium — Chapter XXVII §4",
+      "chapterRef": "54"
+    },
+    {
+      "reference": "55.1",
+      "label": "Monologium — Chapter XXVIII §1",
+      "chapterRef": "55"
+    },
+    {
+      "reference": "55.2",
+      "label": "Monologium — Chapter XXVIII §2",
+      "chapterRef": "55"
+    },
+    {
+      "reference": "55.3",
+      "label": "Monologium — Chapter XXVIII §3",
+      "chapterRef": "55"
+    },
+    {
+      "reference": "55.4",
+      "label": "Monologium — Chapter XXVIII §4",
+      "chapterRef": "55"
+    },
+    {
+      "reference": "55.5",
+      "label": "Monologium — Chapter XXVIII §5",
+      "chapterRef": "55"
+    },
+    {
+      "reference": "55.6",
+      "label": "Monologium — Chapter XXVIII §6",
+      "chapterRef": "55"
+    },
+    {
+      "reference": "55.7",
+      "label": "Monologium — Chapter XXVIII §7",
+      "chapterRef": "55"
+    },
+    {
+      "reference": "55.8",
+      "label": "Monologium — Chapter XXVIII §8",
+      "chapterRef": "55"
+    },
+    {
+      "reference": "56.1",
+      "label": "Monologium — Chapter XXIX §1",
+      "chapterRef": "56"
+    },
+    {
+      "reference": "56.2",
+      "label": "Monologium — Chapter XXIX §2",
+      "chapterRef": "56"
+    },
+    {
+      "reference": "56.3",
+      "label": "Monologium — Chapter XXIX §3",
+      "chapterRef": "56"
+    },
+    {
+      "reference": "56.4",
+      "label": "Monologium — Chapter XXIX §4",
+      "chapterRef": "56"
+    },
+    {
+      "reference": "56.5",
+      "label": "Monologium — Chapter XXIX §5",
+      "chapterRef": "56"
+    },
+    {
+      "reference": "56.6",
+      "label": "Monologium — Chapter XXIX §6",
+      "chapterRef": "56"
+    },
+    {
+      "reference": "57.1",
+      "label": "Monologium — Chapter XXX §1",
+      "chapterRef": "57"
+    },
+    {
+      "reference": "57.2",
+      "label": "Monologium — Chapter XXX §2",
+      "chapterRef": "57"
+    },
+    {
+      "reference": "58.1",
+      "label": "Monologium — Chapter XXXI §1",
+      "chapterRef": "58"
+    },
+    {
+      "reference": "58.2",
+      "label": "Monologium — Chapter XXXI §2",
+      "chapterRef": "58"
+    },
+    {
+      "reference": "58.3",
+      "label": "Monologium — Chapter XXXI §3",
+      "chapterRef": "58"
+    },
+    {
+      "reference": "58.4",
+      "label": "Monologium — Chapter XXXI §4",
+      "chapterRef": "58"
+    },
+    {
+      "reference": "58.5",
+      "label": "Monologium — Chapter XXXI §5",
+      "chapterRef": "58"
+    },
+    {
+      "reference": "58.6",
+      "label": "Monologium — Chapter XXXI §6",
+      "chapterRef": "58"
+    },
+    {
+      "reference": "58.7",
+      "label": "Monologium — Chapter XXXI §7",
+      "chapterRef": "58"
+    },
+    {
+      "reference": "58.8",
+      "label": "Monologium — Chapter XXXI §8",
+      "chapterRef": "58"
+    },
+    {
+      "reference": "58.9",
+      "label": "Monologium — Chapter XXXI §9",
+      "chapterRef": "58"
+    },
+    {
+      "reference": "59.1",
+      "label": "Monologium — Chapter XXXII §1",
+      "chapterRef": "59"
+    },
+    {
+      "reference": "59.2",
+      "label": "Monologium — Chapter XXXII §2",
+      "chapterRef": "59"
+    },
+    {
+      "reference": "59.3",
+      "label": "Monologium — Chapter XXXII §3",
+      "chapterRef": "59"
+    },
+    {
+      "reference": "59.4",
+      "label": "Monologium — Chapter XXXII §4",
+      "chapterRef": "59"
+    },
+    {
+      "reference": "59.5",
+      "label": "Monologium — Chapter XXXII §5",
+      "chapterRef": "59"
+    },
+    {
+      "reference": "59.6",
+      "label": "Monologium — Chapter XXXII §6",
+      "chapterRef": "59"
+    },
+    {
+      "reference": "60.1",
+      "label": "Monologium — Chapter XXXIII §1",
+      "chapterRef": "60"
+    },
+    {
+      "reference": "60.2",
+      "label": "Monologium — Chapter XXXIII §2",
+      "chapterRef": "60"
+    },
+    {
+      "reference": "60.3",
+      "label": "Monologium — Chapter XXXIII §3",
+      "chapterRef": "60"
+    },
+    {
+      "reference": "60.4",
+      "label": "Monologium — Chapter XXXIII §4",
+      "chapterRef": "60"
+    },
+    {
+      "reference": "60.5",
+      "label": "Monologium — Chapter XXXIII §5",
+      "chapterRef": "60"
+    },
+    {
+      "reference": "60.6",
+      "label": "Monologium — Chapter XXXIII §6",
+      "chapterRef": "60"
+    },
+    {
+      "reference": "60.7",
+      "label": "Monologium — Chapter XXXIII §7",
+      "chapterRef": "60"
+    },
+    {
+      "reference": "60.8",
+      "label": "Monologium — Chapter XXXIII §8",
+      "chapterRef": "60"
+    },
+    {
+      "reference": "60.9",
+      "label": "Monologium — Chapter XXXIII §9",
+      "chapterRef": "60"
+    },
+    {
+      "reference": "61.1",
+      "label": "Monologium — Chapter XXXIV §1",
+      "chapterRef": "61"
+    },
+    {
+      "reference": "61.2",
+      "label": "Monologium — Chapter XXXIV §2",
+      "chapterRef": "61"
+    },
+    {
+      "reference": "61.3",
+      "label": "Monologium — Chapter XXXIV §3",
+      "chapterRef": "61"
+    },
+    {
+      "reference": "62.1",
+      "label": "Monologium — Chapter XXXV §1",
+      "chapterRef": "62"
+    },
+    {
+      "reference": "62.2",
+      "label": "Monologium — Chapter XXXV §2",
+      "chapterRef": "62"
+    },
+    {
+      "reference": "62.3",
+      "label": "Monologium — Chapter XXXV §3",
+      "chapterRef": "62"
+    },
+    {
+      "reference": "63.1",
+      "label": "Monologium — Chapter XXXVI §1",
+      "chapterRef": "63"
+    },
+    {
+      "reference": "63.2",
+      "label": "Monologium — Chapter XXXVI §2",
+      "chapterRef": "63"
+    },
+    {
+      "reference": "63.3",
+      "label": "Monologium — Chapter XXXVI §3",
+      "chapterRef": "63"
+    },
+    {
+      "reference": "64.1",
+      "label": "Monologium — Chapter XXXVII §1",
+      "chapterRef": "64"
+    },
+    {
+      "reference": "64.2",
+      "label": "Monologium — Chapter XXXVII §2",
+      "chapterRef": "64"
+    },
+    {
+      "reference": "64.3",
+      "label": "Monologium — Chapter XXXVII §3",
+      "chapterRef": "64"
+    },
+    {
+      "reference": "65.1",
+      "label": "Monologium — Chapter XXXVIII §1",
+      "chapterRef": "65"
+    },
+    {
+      "reference": "65.2",
+      "label": "Monologium — Chapter XXXVIII §2",
+      "chapterRef": "65"
+    },
+    {
+      "reference": "65.3",
+      "label": "Monologium — Chapter XXXVIII §3",
+      "chapterRef": "65"
+    },
+    {
+      "reference": "65.4",
+      "label": "Monologium — Chapter XXXVIII §4",
+      "chapterRef": "65"
+    },
+    {
+      "reference": "65.5",
+      "label": "Monologium — Chapter XXXVIII §5",
+      "chapterRef": "65"
+    },
+    {
+      "reference": "66.1",
+      "label": "Monologium — Chapter XXXIX §1",
+      "chapterRef": "66"
+    },
+    {
+      "reference": "66.2",
+      "label": "Monologium — Chapter XXXIX §2",
+      "chapterRef": "66"
+    },
+    {
+      "reference": "66.3",
+      "label": "Monologium — Chapter XXXIX §3",
+      "chapterRef": "66"
+    },
+    {
+      "reference": "66.4",
+      "label": "Monologium — Chapter XXXIX §4",
+      "chapterRef": "66"
+    },
+    {
+      "reference": "66.5",
+      "label": "Monologium — Chapter XXXIX §5",
+      "chapterRef": "66"
+    },
+    {
+      "reference": "67.1",
+      "label": "Monologium — Chapter XL §1",
+      "chapterRef": "67"
+    },
+    {
+      "reference": "67.2",
+      "label": "Monologium — Chapter XL §2",
+      "chapterRef": "67"
+    },
+    {
+      "reference": "67.3",
+      "label": "Monologium — Chapter XL §3",
+      "chapterRef": "67"
+    },
+    {
+      "reference": "68.1",
+      "label": "Monologium — Chapter XLI §1",
+      "chapterRef": "68"
+    },
+    {
+      "reference": "68.2",
+      "label": "Monologium — Chapter XLI §2",
+      "chapterRef": "68"
+    },
+    {
+      "reference": "69.1",
+      "label": "Monologium — Chapter XLII §1",
+      "chapterRef": "69"
+    },
+    {
+      "reference": "69.2",
+      "label": "Monologium — Chapter XLII §2",
+      "chapterRef": "69"
+    },
+    {
+      "reference": "69.3",
+      "label": "Monologium — Chapter XLII §3",
+      "chapterRef": "69"
+    },
+    {
+      "reference": "69.4",
+      "label": "Monologium — Chapter XLII §4",
+      "chapterRef": "69"
+    },
+    {
+      "reference": "69.5",
+      "label": "Monologium — Chapter XLII §5",
+      "chapterRef": "69"
+    },
+    {
+      "reference": "69.6",
+      "label": "Monologium — Chapter XLII §6",
+      "chapterRef": "69"
+    },
+    {
+      "reference": "70.1",
+      "label": "Monologium — Chapter XLIII §1",
+      "chapterRef": "70"
+    },
+    {
+      "reference": "70.2",
+      "label": "Monologium — Chapter XLIII §2",
+      "chapterRef": "70"
+    },
+    {
+      "reference": "70.3",
+      "label": "Monologium — Chapter XLIII §3",
+      "chapterRef": "70"
+    },
+    {
+      "reference": "70.4",
+      "label": "Monologium — Chapter XLIII §4",
+      "chapterRef": "70"
+    },
+    {
+      "reference": "70.5",
+      "label": "Monologium — Chapter XLIII §5",
+      "chapterRef": "70"
+    },
+    {
+      "reference": "70.6",
+      "label": "Monologium — Chapter XLIII §6",
+      "chapterRef": "70"
+    },
+    {
+      "reference": "71.1",
+      "label": "Monologium — Chapter XLIV §1",
+      "chapterRef": "71"
+    },
+    {
+      "reference": "71.2",
+      "label": "Monologium — Chapter XLIV §2",
+      "chapterRef": "71"
+    },
+    {
+      "reference": "71.3",
+      "label": "Monologium — Chapter XLIV §3",
+      "chapterRef": "71"
+    },
+    {
+      "reference": "71.4",
+      "label": "Monologium — Chapter XLIV §4",
+      "chapterRef": "71"
+    },
+    {
+      "reference": "71.5",
+      "label": "Monologium — Chapter XLIV §5",
+      "chapterRef": "71"
+    },
+    {
+      "reference": "71.6",
+      "label": "Monologium — Chapter XLIV §6",
+      "chapterRef": "71"
+    },
+    {
+      "reference": "71.7",
+      "label": "Monologium — Chapter XLIV §7",
+      "chapterRef": "71"
+    },
+    {
+      "reference": "71.8",
+      "label": "Monologium — Chapter XLIV §8",
+      "chapterRef": "71"
+    },
+    {
+      "reference": "72.1",
+      "label": "Monologium — Chapter XLV §1",
+      "chapterRef": "72"
+    },
+    {
+      "reference": "72.2",
+      "label": "Monologium — Chapter XLV §2",
+      "chapterRef": "72"
+    },
+    {
+      "reference": "72.3",
+      "label": "Monologium — Chapter XLV §3",
+      "chapterRef": "72"
+    },
+    {
+      "reference": "72.4",
+      "label": "Monologium — Chapter XLV §4",
+      "chapterRef": "72"
+    },
+    {
+      "reference": "73.1",
+      "label": "Monologium — Chapter XLVI §1",
+      "chapterRef": "73"
+    },
+    {
+      "reference": "73.2",
+      "label": "Monologium — Chapter XLVI §2",
+      "chapterRef": "73"
+    },
+    {
+      "reference": "73.3",
+      "label": "Monologium — Chapter XLVI §3",
+      "chapterRef": "73"
+    },
+    {
+      "reference": "73.4",
+      "label": "Monologium — Chapter XLVI §4",
+      "chapterRef": "73"
+    },
+    {
+      "reference": "74.1",
+      "label": "Monologium — Chapter XLVII §1",
+      "chapterRef": "74"
+    },
+    {
+      "reference": "74.2",
+      "label": "Monologium — Chapter XLVII §2",
+      "chapterRef": "74"
+    },
+    {
+      "reference": "75.1",
+      "label": "Monologium — Chapter XLVIII §1",
+      "chapterRef": "75"
+    },
+    {
+      "reference": "75.2",
+      "label": "Monologium — Chapter XLVIII §2",
+      "chapterRef": "75"
+    },
+    {
+      "reference": "75.3",
+      "label": "Monologium — Chapter XLVIII §3",
+      "chapterRef": "75"
+    },
+    {
+      "reference": "75.4",
+      "label": "Monologium — Chapter XLVIII §4",
+      "chapterRef": "75"
+    },
+    {
+      "reference": "75.5",
+      "label": "Monologium — Chapter XLVIII §5",
+      "chapterRef": "75"
+    },
+    {
+      "reference": "76.1",
+      "label": "Monologium — Chapter XLIX §1",
+      "chapterRef": "76"
+    },
+    {
+      "reference": "76.2",
+      "label": "Monologium — Chapter XLIX §2",
+      "chapterRef": "76"
+    },
+    {
+      "reference": "77.1",
+      "label": "Monologium — Chapter L §1",
+      "chapterRef": "77"
+    },
+    {
+      "reference": "77.2",
+      "label": "Monologium — Chapter L §2",
+      "chapterRef": "77"
+    },
+    {
+      "reference": "77.3",
+      "label": "Monologium — Chapter L §3",
+      "chapterRef": "77"
+    },
+    {
+      "reference": "78.1",
+      "label": "Monologium — Chapter LI §1",
+      "chapterRef": "78"
+    },
+    {
+      "reference": "78.2",
+      "label": "Monologium — Chapter LI §2",
+      "chapterRef": "78"
+    },
+    {
+      "reference": "79.1",
+      "label": "Monologium — Chapter LII §1",
+      "chapterRef": "79"
+    },
+    {
+      "reference": "79.2",
+      "label": "Monologium — Chapter LII §2",
+      "chapterRef": "79"
+    },
+    {
+      "reference": "80.1",
+      "label": "Monologium — Chapter LIII §1",
+      "chapterRef": "80"
+    },
+    {
+      "reference": "80.2",
+      "label": "Monologium — Chapter LIII §2",
+      "chapterRef": "80"
+    },
+    {
+      "reference": "80.3",
+      "label": "Monologium — Chapter LIII §3",
+      "chapterRef": "80"
+    },
+    {
+      "reference": "81.1",
+      "label": "Monologium — Chapter LIV §1",
+      "chapterRef": "81"
+    },
+    {
+      "reference": "81.2",
+      "label": "Monologium — Chapter LIV §2",
+      "chapterRef": "81"
+    },
+    {
+      "reference": "81.3",
+      "label": "Monologium — Chapter LIV §3",
+      "chapterRef": "81"
+    },
+    {
+      "reference": "81.4",
+      "label": "Monologium — Chapter LIV §4",
+      "chapterRef": "81"
+    },
+    {
+      "reference": "82.1",
+      "label": "Monologium — Chapter LV §1",
+      "chapterRef": "82"
+    },
+    {
+      "reference": "82.2",
+      "label": "Monologium — Chapter LV §2",
+      "chapterRef": "82"
+    },
+    {
+      "reference": "82.3",
+      "label": "Monologium — Chapter LV §3",
+      "chapterRef": "82"
+    },
+    {
+      "reference": "82.4",
+      "label": "Monologium — Chapter LV §4",
+      "chapterRef": "82"
+    },
+    {
+      "reference": "83.1",
+      "label": "Monologium — Chapter LVI §1",
+      "chapterRef": "83"
+    },
+    {
+      "reference": "83.2",
+      "label": "Monologium — Chapter LVI §2",
+      "chapterRef": "83"
+    },
+    {
+      "reference": "83.3",
+      "label": "Monologium — Chapter LVI §3",
+      "chapterRef": "83"
+    },
+    {
+      "reference": "83.4",
+      "label": "Monologium — Chapter LVI §4",
+      "chapterRef": "83"
+    },
+    {
+      "reference": "84.1",
+      "label": "Monologium — Chapter LVII §1",
+      "chapterRef": "84"
+    },
+    {
+      "reference": "84.2",
+      "label": "Monologium — Chapter LVII §2",
+      "chapterRef": "84"
+    },
+    {
+      "reference": "84.3",
+      "label": "Monologium — Chapter LVII §3",
+      "chapterRef": "84"
+    },
+    {
+      "reference": "84.4",
+      "label": "Monologium — Chapter LVII §4",
+      "chapterRef": "84"
+    },
+    {
+      "reference": "84.5",
+      "label": "Monologium — Chapter LVII §5",
+      "chapterRef": "84"
+    },
+    {
+      "reference": "85.1",
+      "label": "Monologium — Chapter LVIII §1",
+      "chapterRef": "85"
+    },
+    {
+      "reference": "85.2",
+      "label": "Monologium — Chapter LVIII §2",
+      "chapterRef": "85"
+    },
+    {
+      "reference": "86.1",
+      "label": "Monologium — Chapter LIX §1",
+      "chapterRef": "86"
+    },
+    {
+      "reference": "86.2",
+      "label": "Monologium — Chapter LIX §2",
+      "chapterRef": "86"
+    },
+    {
+      "reference": "86.3",
+      "label": "Monologium — Chapter LIX §3",
+      "chapterRef": "86"
+    },
+    {
+      "reference": "86.4",
+      "label": "Monologium — Chapter LIX §4",
+      "chapterRef": "86"
+    },
+    {
+      "reference": "87.1",
+      "label": "Monologium — Chapter LX §1",
+      "chapterRef": "87"
+    },
+    {
+      "reference": "87.2",
+      "label": "Monologium — Chapter LX §2",
+      "chapterRef": "87"
+    },
+    {
+      "reference": "87.3",
+      "label": "Monologium — Chapter LX §3",
+      "chapterRef": "87"
+    },
+    {
+      "reference": "88.1",
+      "label": "Monologium — Chapter LXI §1",
+      "chapterRef": "88"
+    },
+    {
+      "reference": "88.2",
+      "label": "Monologium — Chapter LXI §2",
+      "chapterRef": "88"
+    },
+    {
+      "reference": "88.3",
+      "label": "Monologium — Chapter LXI §3",
+      "chapterRef": "88"
+    },
+    {
+      "reference": "88.4",
+      "label": "Monologium — Chapter LXI §4",
+      "chapterRef": "88"
+    },
+    {
+      "reference": "88.5",
+      "label": "Monologium — Chapter LXI §5",
+      "chapterRef": "88"
+    },
+    {
+      "reference": "88.6",
+      "label": "Monologium — Chapter LXI §6",
+      "chapterRef": "88"
+    },
+    {
+      "reference": "89.1",
+      "label": "Monologium — Chapter LXII §1",
+      "chapterRef": "89"
+    },
+    {
+      "reference": "89.2",
+      "label": "Monologium — Chapter LXII §2",
+      "chapterRef": "89"
+    },
+    {
+      "reference": "89.3",
+      "label": "Monologium — Chapter LXII §3",
+      "chapterRef": "89"
+    },
+    {
+      "reference": "89.4",
+      "label": "Monologium — Chapter LXII §4",
+      "chapterRef": "89"
+    },
+    {
+      "reference": "89.5",
+      "label": "Monologium — Chapter LXII §5",
+      "chapterRef": "89"
+    },
+    {
+      "reference": "90.1",
+      "label": "Monologium — Chapter LXIII §1",
+      "chapterRef": "90"
+    },
+    {
+      "reference": "90.2",
+      "label": "Monologium — Chapter LXIII §2",
+      "chapterRef": "90"
+    },
+    {
+      "reference": "90.3",
+      "label": "Monologium — Chapter LXIII §3",
+      "chapterRef": "90"
+    },
+    {
+      "reference": "90.4",
+      "label": "Monologium — Chapter LXIII §4",
+      "chapterRef": "90"
+    },
+    {
+      "reference": "90.5",
+      "label": "Monologium — Chapter LXIII §5",
+      "chapterRef": "90"
+    },
+    {
+      "reference": "90.6",
+      "label": "Monologium — Chapter LXIII §6",
+      "chapterRef": "90"
+    },
+    {
+      "reference": "90.7",
+      "label": "Monologium — Chapter LXIII §7",
+      "chapterRef": "90"
+    },
+    {
+      "reference": "90.8",
+      "label": "Monologium — Chapter LXIII §8",
+      "chapterRef": "90"
+    },
+    {
+      "reference": "91.1",
+      "label": "Monologium — Chapter LXIV §1",
+      "chapterRef": "91"
+    },
+    {
+      "reference": "91.2",
+      "label": "Monologium — Chapter LXIV §2",
+      "chapterRef": "91"
+    },
+    {
+      "reference": "91.3",
+      "label": "Monologium — Chapter LXIV §3",
+      "chapterRef": "91"
+    },
+    {
+      "reference": "92.1",
+      "label": "Monologium — Chapter LXV §1",
+      "chapterRef": "92"
+    },
+    {
+      "reference": "92.2",
+      "label": "Monologium — Chapter LXV §2",
+      "chapterRef": "92"
+    },
+    {
+      "reference": "92.3",
+      "label": "Monologium — Chapter LXV §3",
+      "chapterRef": "92"
+    },
+    {
+      "reference": "92.4",
+      "label": "Monologium — Chapter LXV §4",
+      "chapterRef": "92"
+    },
+    {
+      "reference": "92.5",
+      "label": "Monologium — Chapter LXV §5",
+      "chapterRef": "92"
+    },
+    {
+      "reference": "92.6",
+      "label": "Monologium — Chapter LXV §6",
+      "chapterRef": "92"
+    },
+    {
+      "reference": "92.7",
+      "label": "Monologium — Chapter LXV §7",
+      "chapterRef": "92"
+    },
+    {
+      "reference": "92.8",
+      "label": "Monologium — Chapter LXV §8",
+      "chapterRef": "92"
+    },
+    {
+      "reference": "92.9",
+      "label": "Monologium — Chapter LXV §9",
+      "chapterRef": "92"
+    },
+    {
+      "reference": "93.1",
+      "label": "Monologium — Chapter LXVI §1",
+      "chapterRef": "93"
+    },
+    {
+      "reference": "93.2",
+      "label": "Monologium — Chapter LXVI §2",
+      "chapterRef": "93"
+    },
+    {
+      "reference": "93.3",
+      "label": "Monologium — Chapter LXVI §3",
+      "chapterRef": "93"
+    },
+    {
+      "reference": "94.1",
+      "label": "Monologium — Chapter LXVII §1",
+      "chapterRef": "94"
+    },
+    {
+      "reference": "94.2",
+      "label": "Monologium — Chapter LXVII §2",
+      "chapterRef": "94"
+    },
+    {
+      "reference": "94.3",
+      "label": "Monologium — Chapter LXVII §3",
+      "chapterRef": "94"
+    },
+    {
+      "reference": "95.1",
+      "label": "Monologium — Chapter LXVIII §1",
+      "chapterRef": "95"
+    },
+    {
+      "reference": "95.2",
+      "label": "Monologium — Chapter LXVIII §2",
+      "chapterRef": "95"
+    },
+    {
+      "reference": "95.3",
+      "label": "Monologium — Chapter LXVIII §3",
+      "chapterRef": "95"
+    },
+    {
+      "reference": "95.4",
+      "label": "Monologium — Chapter LXVIII §4",
+      "chapterRef": "95"
+    },
+    {
+      "reference": "95.5",
+      "label": "Monologium — Chapter LXVIII §5",
+      "chapterRef": "95"
+    },
+    {
+      "reference": "95.6",
+      "label": "Monologium — Chapter LXVIII §6",
+      "chapterRef": "95"
+    },
+    {
+      "reference": "96.1",
+      "label": "Monologium — Chapter LXIX §1",
+      "chapterRef": "96"
+    },
+    {
+      "reference": "96.2",
+      "label": "Monologium — Chapter LXIX §2",
+      "chapterRef": "96"
+    },
+    {
+      "reference": "96.3",
+      "label": "Monologium — Chapter LXIX §3",
+      "chapterRef": "96"
+    },
+    {
+      "reference": "96.4",
+      "label": "Monologium — Chapter LXIX §4",
+      "chapterRef": "96"
+    },
+    {
+      "reference": "96.5",
+      "label": "Monologium — Chapter LXIX §5",
+      "chapterRef": "96"
+    },
+    {
+      "reference": "97.1",
+      "label": "Monologium — Chapter LXX §1",
+      "chapterRef": "97"
+    },
+    {
+      "reference": "97.2",
+      "label": "Monologium — Chapter LXX §2",
+      "chapterRef": "97"
+    },
+    {
+      "reference": "97.3",
+      "label": "Monologium — Chapter LXX §3",
+      "chapterRef": "97"
+    },
+    {
+      "reference": "97.4",
+      "label": "Monologium — Chapter LXX §4",
+      "chapterRef": "97"
+    },
+    {
+      "reference": "97.5",
+      "label": "Monologium — Chapter LXX §5",
+      "chapterRef": "97"
+    },
+    {
+      "reference": "97.6",
+      "label": "Monologium — Chapter LXX §6",
+      "chapterRef": "97"
+    },
+    {
+      "reference": "98.1",
+      "label": "Monologium — Chapter LXXI §1",
+      "chapterRef": "98"
+    },
+    {
+      "reference": "98.2",
+      "label": "Monologium — Chapter LXXI §2",
+      "chapterRef": "98"
+    },
+    {
+      "reference": "98.3",
+      "label": "Monologium — Chapter LXXI §3",
+      "chapterRef": "98"
+    },
+    {
+      "reference": "98.4",
+      "label": "Monologium — Chapter LXXI §4",
+      "chapterRef": "98"
+    },
+    {
+      "reference": "99.1",
+      "label": "Monologium — Chapter LXXII §1",
+      "chapterRef": "99"
+    },
+    {
+      "reference": "99.2",
+      "label": "Monologium — Chapter LXXII §2",
+      "chapterRef": "99"
+    },
+    {
+      "reference": "100.1",
+      "label": "Monologium — Chapter LXXIII §1",
+      "chapterRef": "100"
+    },
+    {
+      "reference": "100.2",
+      "label": "Monologium — Chapter LXXIII §2",
+      "chapterRef": "100"
+    },
+    {
+      "reference": "101.1",
+      "label": "Monologium — Chapter LXXIV §1",
+      "chapterRef": "101"
+    },
+    {
+      "reference": "101.2",
+      "label": "Monologium — Chapter LXXIV §2",
+      "chapterRef": "101"
+    },
+    {
+      "reference": "102.1",
+      "label": "Monologium — Chapter LXXV §1",
+      "chapterRef": "102"
+    },
+    {
+      "reference": "102.2",
+      "label": "Monologium — Chapter LXXV §2",
+      "chapterRef": "102"
+    },
+    {
+      "reference": "102.3",
+      "label": "Monologium — Chapter LXXV §3",
+      "chapterRef": "102"
+    },
+    {
+      "reference": "102.4",
+      "label": "Monologium — Chapter LXXV §4",
+      "chapterRef": "102"
+    },
+    {
+      "reference": "103.1",
+      "label": "Monologium — Chapter LXXVI §1",
+      "chapterRef": "103"
+    },
+    {
+      "reference": "103.2",
+      "label": "Monologium — Chapter LXXVI §2",
+      "chapterRef": "103"
+    },
+    {
+      "reference": "104.1",
+      "label": "Monologium — Chapter LXXVII §1",
+      "chapterRef": "104"
+    },
+    {
+      "reference": "104.2",
+      "label": "Monologium — Chapter LXXVII §2",
+      "chapterRef": "104"
+    },
+    {
+      "reference": "104.3",
+      "label": "Monologium — Chapter LXXVII §3",
+      "chapterRef": "104"
+    },
+    {
+      "reference": "105.1",
+      "label": "Monologium — Chapter LXXVIII §1",
+      "chapterRef": "105"
+    },
+    {
+      "reference": "105.2",
+      "label": "Monologium — Chapter LXXVIII §2",
+      "chapterRef": "105"
+    },
+    {
+      "reference": "105.3",
+      "label": "Monologium — Chapter LXXVIII §3",
+      "chapterRef": "105"
+    },
+    {
+      "reference": "105.4",
+      "label": "Monologium — Chapter LXXVIII §4",
+      "chapterRef": "105"
+    },
+    {
+      "reference": "105.5",
+      "label": "Monologium — Chapter LXXVIII §5",
+      "chapterRef": "105"
+    },
+    {
+      "reference": "106.1",
+      "label": "Monologium — Chapter LXXIX §1",
+      "chapterRef": "106"
+    },
+    {
+      "reference": "106.2",
+      "label": "Monologium — Chapter LXXIX §2",
+      "chapterRef": "106"
+    },
+    {
+      "reference": "106.3",
+      "label": "Monologium — Chapter LXXIX §3",
+      "chapterRef": "106"
+    },
+    {
+      "reference": "106.4",
+      "label": "Monologium — Chapter LXXIX §4",
+      "chapterRef": "106"
+    },
+    {
+      "reference": "107.1",
+      "label": "Appendix — In Behalf of the Fool §1",
+      "chapterRef": "107"
+    },
+    {
+      "reference": "107.2",
+      "label": "Appendix — In Behalf of the Fool §2",
+      "chapterRef": "107"
+    },
+    {
+      "reference": "107.3",
+      "label": "Appendix — In Behalf of the Fool §3",
+      "chapterRef": "107"
+    },
+    {
+      "reference": "107.4",
+      "label": "Appendix — In Behalf of the Fool §4",
+      "chapterRef": "107"
+    },
+    {
+      "reference": "107.5",
+      "label": "Appendix — In Behalf of the Fool §5",
+      "chapterRef": "107"
+    },
+    {
+      "reference": "107.6",
+      "label": "Appendix — In Behalf of the Fool §6",
+      "chapterRef": "107"
+    },
+    {
+      "reference": "107.7",
+      "label": "Appendix — In Behalf of the Fool §7",
+      "chapterRef": "107"
+    },
+    {
+      "reference": "107.8",
+      "label": "Appendix — In Behalf of the Fool §8",
+      "chapterRef": "107"
+    },
+    {
+      "reference": "107.9",
+      "label": "Appendix — In Behalf of the Fool §9",
+      "chapterRef": "107"
+    },
+    {
+      "reference": "107.10",
+      "label": "Appendix — In Behalf of the Fool §10",
+      "chapterRef": "107"
+    },
+    {
+      "reference": "107.11",
+      "label": "Appendix — In Behalf of the Fool §11",
+      "chapterRef": "107"
+    },
+    {
+      "reference": "107.12",
+      "label": "Appendix — In Behalf of the Fool §12",
+      "chapterRef": "107"
+    },
+    {
+      "reference": "107.13",
+      "label": "Appendix — In Behalf of the Fool §13",
+      "chapterRef": "107"
+    },
+    {
+      "reference": "107.14",
+      "label": "Appendix — In Behalf of the Fool §14",
+      "chapterRef": "107"
+    },
+    {
+      "reference": "107.15",
+      "label": "Appendix — In Behalf of the Fool §15",
+      "chapterRef": "107"
+    },
+    {
+      "reference": "107.16",
+      "label": "Appendix — In Behalf of the Fool §16",
+      "chapterRef": "107"
+    },
+    {
+      "reference": "107.17",
+      "label": "Appendix — In Behalf of the Fool §17",
+      "chapterRef": "107"
+    },
+    {
+      "reference": "107.18",
+      "label": "Appendix — In Behalf of the Fool §18",
+      "chapterRef": "107"
+    },
+    {
+      "reference": "107.19",
+      "label": "Appendix — In Behalf of the Fool §19",
+      "chapterRef": "107"
+    },
+    {
+      "reference": "107.20",
+      "label": "Appendix — In Behalf of the Fool §20",
+      "chapterRef": "107"
+    },
+    {
+      "reference": "107.21",
+      "label": "Appendix — In Behalf of the Fool §21",
+      "chapterRef": "107"
+    },
+    {
+      "reference": "107.22",
+      "label": "Appendix — In Behalf of the Fool §22",
+      "chapterRef": "107"
+    },
+    {
+      "reference": "107.23",
+      "label": "Appendix — In Behalf of the Fool §23",
+      "chapterRef": "107"
+    },
+    {
+      "reference": "107.24",
+      "label": "Appendix — In Behalf of the Fool §24",
+      "chapterRef": "107"
+    },
+    {
+      "reference": "107.25",
+      "label": "Appendix — In Behalf of the Fool §25",
+      "chapterRef": "107"
+    },
+    {
+      "reference": "107.26",
+      "label": "Appendix — In Behalf of the Fool §26",
+      "chapterRef": "107"
+    },
+    {
+      "reference": "107.27",
+      "label": "Appendix — In Behalf of the Fool §27",
+      "chapterRef": "107"
+    },
+    {
+      "reference": "107.28",
+      "label": "Appendix — In Behalf of the Fool §28",
+      "chapterRef": "107"
+    },
+    {
+      "reference": "107.29",
+      "label": "Appendix — In Behalf of the Fool §29",
+      "chapterRef": "107"
+    },
+    {
+      "reference": "107.30",
+      "label": "Appendix — In Behalf of the Fool §30",
+      "chapterRef": "107"
+    },
+    {
+      "reference": "107.31",
+      "label": "Appendix — In Behalf of the Fool §31",
+      "chapterRef": "107"
+    },
+    {
+      "reference": "107.32",
+      "label": "Appendix — In Behalf of the Fool §32",
+      "chapterRef": "107"
+    },
+    {
+      "reference": "107.33",
+      "label": "Appendix — In Behalf of the Fool §33",
+      "chapterRef": "107"
+    },
+    {
+      "reference": "108.1",
+      "label": "Appendix — Anselm's Apologetic §1",
+      "chapterRef": "108"
+    },
+    {
+      "reference": "108.2",
+      "label": "Appendix — Anselm's Apologetic §2",
+      "chapterRef": "108"
+    },
+    {
+      "reference": "108.3",
+      "label": "Appendix — Anselm's Apologetic §3",
+      "chapterRef": "108"
+    },
+    {
+      "reference": "108.4",
+      "label": "Appendix — Anselm's Apologetic §4",
+      "chapterRef": "108"
+    },
+    {
+      "reference": "108.5",
+      "label": "Appendix — Anselm's Apologetic §5",
+      "chapterRef": "108"
+    },
+    {
+      "reference": "108.6",
+      "label": "Appendix — Anselm's Apologetic §6",
+      "chapterRef": "108"
+    },
+    {
+      "reference": "108.7",
+      "label": "Appendix — Anselm's Apologetic §7",
+      "chapterRef": "108"
+    },
+    {
+      "reference": "108.8",
+      "label": "Appendix — Anselm's Apologetic §8",
+      "chapterRef": "108"
+    },
+    {
+      "reference": "108.9",
+      "label": "Appendix — Anselm's Apologetic §9",
+      "chapterRef": "108"
+    },
+    {
+      "reference": "108.10",
+      "label": "Appendix — Anselm's Apologetic §10",
+      "chapterRef": "108"
+    },
+    {
+      "reference": "108.11",
+      "label": "Appendix — Anselm's Apologetic §11",
+      "chapterRef": "108"
+    },
+    {
+      "reference": "108.12",
+      "label": "Appendix — Anselm's Apologetic §12",
+      "chapterRef": "108"
+    },
+    {
+      "reference": "108.13",
+      "label": "Appendix — Anselm's Apologetic §13",
+      "chapterRef": "108"
+    },
+    {
+      "reference": "108.14",
+      "label": "Appendix — Anselm's Apologetic §14",
+      "chapterRef": "108"
+    },
+    {
+      "reference": "108.15",
+      "label": "Appendix — Anselm's Apologetic §15",
+      "chapterRef": "108"
+    },
+    {
+      "reference": "108.16",
+      "label": "Appendix — Anselm's Apologetic §16",
+      "chapterRef": "108"
+    },
+    {
+      "reference": "108.17",
+      "label": "Appendix — Anselm's Apologetic §17",
+      "chapterRef": "108"
+    },
+    {
+      "reference": "108.18",
+      "label": "Appendix — Anselm's Apologetic §18",
+      "chapterRef": "108"
+    },
+    {
+      "reference": "108.19",
+      "label": "Appendix — Anselm's Apologetic §19",
+      "chapterRef": "108"
+    },
+    {
+      "reference": "108.20",
+      "label": "Appendix — Anselm's Apologetic §20",
+      "chapterRef": "108"
+    },
+    {
+      "reference": "108.21",
+      "label": "Appendix — Anselm's Apologetic §21",
+      "chapterRef": "108"
+    },
+    {
+      "reference": "108.22",
+      "label": "Appendix — Anselm's Apologetic §22",
+      "chapterRef": "108"
+    },
+    {
+      "reference": "108.23",
+      "label": "Appendix — Anselm's Apologetic §23",
+      "chapterRef": "108"
+    },
+    {
+      "reference": "108.24",
+      "label": "Appendix — Anselm's Apologetic §24",
+      "chapterRef": "108"
+    },
+    {
+      "reference": "108.25",
+      "label": "Appendix — Anselm's Apologetic §25",
+      "chapterRef": "108"
+    },
+    {
+      "reference": "108.26",
+      "label": "Appendix — Anselm's Apologetic §26",
+      "chapterRef": "108"
+    },
+    {
+      "reference": "108.27",
+      "label": "Appendix — Anselm's Apologetic §27",
+      "chapterRef": "108"
+    },
+    {
+      "reference": "108.28",
+      "label": "Appendix — Anselm's Apologetic §28",
+      "chapterRef": "108"
+    },
+    {
+      "reference": "108.29",
+      "label": "Appendix — Anselm's Apologetic §29",
+      "chapterRef": "108"
+    },
+    {
+      "reference": "108.30",
+      "label": "Appendix — Anselm's Apologetic §30",
+      "chapterRef": "108"
+    },
+    {
+      "reference": "108.31",
+      "label": "Appendix — Anselm's Apologetic §31",
+      "chapterRef": "108"
+    },
+    {
+      "reference": "108.32",
+      "label": "Appendix — Anselm's Apologetic §32",
+      "chapterRef": "108"
+    },
+    {
+      "reference": "108.33",
+      "label": "Appendix — Anselm's Apologetic §33",
+      "chapterRef": "108"
+    },
+    {
+      "reference": "108.34",
+      "label": "Appendix — Anselm's Apologetic §34",
+      "chapterRef": "108"
+    },
+    {
+      "reference": "108.35",
+      "label": "Appendix — Anselm's Apologetic §35",
+      "chapterRef": "108"
+    },
+    {
+      "reference": "108.36",
+      "label": "Appendix — Anselm's Apologetic §36",
+      "chapterRef": "108"
+    },
+    {
+      "reference": "108.37",
+      "label": "Appendix — Anselm's Apologetic §37",
+      "chapterRef": "108"
+    },
+    {
+      "reference": "108.38",
+      "label": "Appendix — Anselm's Apologetic §38",
+      "chapterRef": "108"
+    },
+    {
+      "reference": "108.39",
+      "label": "Appendix — Anselm's Apologetic §39",
+      "chapterRef": "108"
+    },
+    {
+      "reference": "108.40",
+      "label": "Appendix — Anselm's Apologetic §40",
+      "chapterRef": "108"
+    },
+    {
+      "reference": "108.41",
+      "label": "Appendix — Anselm's Apologetic §41",
+      "chapterRef": "108"
+    },
+    {
+      "reference": "108.42",
+      "label": "Appendix — Anselm's Apologetic §42",
+      "chapterRef": "108"
+    },
+    {
+      "reference": "108.43",
+      "label": "Appendix — Anselm's Apologetic §43",
+      "chapterRef": "108"
+    },
+    {
+      "reference": "108.44",
+      "label": "Appendix — Anselm's Apologetic §44",
+      "chapterRef": "108"
+    },
+    {
+      "reference": "108.45",
+      "label": "Appendix — Anselm's Apologetic §45",
+      "chapterRef": "108"
+    },
+    {
+      "reference": "108.46",
+      "label": "Appendix — Anselm's Apologetic §46",
+      "chapterRef": "108"
+    },
+    {
+      "reference": "108.47",
+      "label": "Appendix — Anselm's Apologetic §47",
+      "chapterRef": "108"
+    },
+    {
+      "reference": "108.48",
+      "label": "Appendix — Anselm's Apologetic §48",
+      "chapterRef": "108"
+    },
+    {
+      "reference": "108.49",
+      "label": "Appendix — Anselm's Apologetic §49",
+      "chapterRef": "108"
+    },
+    {
+      "reference": "108.50",
+      "label": "Appendix — Anselm's Apologetic §50",
+      "chapterRef": "108"
+    },
+    {
+      "reference": "108.51",
+      "label": "Appendix — Anselm's Apologetic §51",
+      "chapterRef": "108"
+    },
+    {
+      "reference": "108.52",
+      "label": "Appendix — Anselm's Apologetic §52",
+      "chapterRef": "108"
+    },
+    {
+      "reference": "108.53",
+      "label": "Appendix — Anselm's Apologetic §53",
+      "chapterRef": "108"
+    },
+    {
+      "reference": "108.54",
+      "label": "Appendix — Anselm's Apologetic §54",
+      "chapterRef": "108"
+    },
+    {
+      "reference": "108.55",
+      "label": "Appendix — Anselm's Apologetic §55",
+      "chapterRef": "108"
+    },
+    {
+      "reference": "108.56",
+      "label": "Appendix — Anselm's Apologetic §56",
+      "chapterRef": "108"
+    },
+    {
+      "reference": "108.57",
+      "label": "Appendix — Anselm's Apologetic §57",
+      "chapterRef": "108"
+    },
+    {
+      "reference": "108.58",
+      "label": "Appendix — Anselm's Apologetic §58",
+      "chapterRef": "108"
+    },
+    {
+      "reference": "108.59",
+      "label": "Appendix — Anselm's Apologetic §59",
+      "chapterRef": "108"
+    },
+    {
+      "reference": "108.60",
+      "label": "Appendix — Anselm's Apologetic §60",
+      "chapterRef": "108"
+    },
+    {
+      "reference": "108.61",
+      "label": "Appendix — Anselm's Apologetic §61",
+      "chapterRef": "108"
+    },
+    {
+      "reference": "108.62",
+      "label": "Appendix — Anselm's Apologetic §62",
+      "chapterRef": "108"
+    },
+    {
+      "reference": "108.63",
+      "label": "Appendix — Anselm's Apologetic §63",
+      "chapterRef": "108"
+    },
+    {
+      "reference": "108.64",
+      "label": "Appendix — Anselm's Apologetic §64",
+      "chapterRef": "108"
+    },
+    {
+      "reference": "108.65",
+      "label": "Appendix — Anselm's Apologetic §65",
+      "chapterRef": "108"
+    },
+    {
+      "reference": "108.66",
+      "label": "Appendix — Anselm's Apologetic §66",
+      "chapterRef": "108"
+    },
+    {
+      "reference": "108.67",
+      "label": "Appendix — Anselm's Apologetic §67",
+      "chapterRef": "108"
+    },
+    {
+      "reference": "108.68",
+      "label": "Appendix — Anselm's Apologetic §68",
+      "chapterRef": "108"
+    },
+    {
+      "reference": "108.69",
+      "label": "Appendix — Anselm's Apologetic §69",
+      "chapterRef": "108"
+    },
+    {
+      "reference": "108.70",
+      "label": "Appendix — Anselm's Apologetic §70",
+      "chapterRef": "108"
+    },
+    {
+      "reference": "108.71",
+      "label": "Appendix — Anselm's Apologetic §71",
+      "chapterRef": "108"
+    },
+    {
+      "reference": "108.72",
+      "label": "Appendix — Anselm's Apologetic §72",
+      "chapterRef": "108"
+    },
+    {
+      "reference": "109.1",
+      "label": "Cur Deus Homo — Preface §1",
+      "chapterRef": "109"
+    },
+    {
+      "reference": "110.1",
+      "label": "Cur Deus Homo — Book First §1",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.2",
+      "label": "Cur Deus Homo — Book First §2",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.3",
+      "label": "Cur Deus Homo — Book First §3",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.4",
+      "label": "Cur Deus Homo — Book First §4",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.5",
+      "label": "Cur Deus Homo — Book First §5",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.6",
+      "label": "Cur Deus Homo — Book First §6",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.7",
+      "label": "Cur Deus Homo — Book First §7",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.8",
+      "label": "Cur Deus Homo — Book First §8",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.9",
+      "label": "Cur Deus Homo — Book First §9",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.10",
+      "label": "Cur Deus Homo — Book First §10",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.11",
+      "label": "Cur Deus Homo — Book First §11",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.12",
+      "label": "Cur Deus Homo — Book First §12",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.13",
+      "label": "Cur Deus Homo — Book First §13",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.14",
+      "label": "Cur Deus Homo — Book First §14",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.15",
+      "label": "Cur Deus Homo — Book First §15",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.16",
+      "label": "Cur Deus Homo — Book First §16",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.17",
+      "label": "Cur Deus Homo — Book First §17",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.18",
+      "label": "Cur Deus Homo — Book First §18",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.19",
+      "label": "Cur Deus Homo — Book First §19",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.20",
+      "label": "Cur Deus Homo — Book First §20",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.21",
+      "label": "Cur Deus Homo — Book First §21",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.22",
+      "label": "Cur Deus Homo — Book First §22",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.23",
+      "label": "Cur Deus Homo — Book First §23",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.24",
+      "label": "Cur Deus Homo — Book First §24",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.25",
+      "label": "Cur Deus Homo — Book First §25",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.26",
+      "label": "Cur Deus Homo — Book First §26",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.27",
+      "label": "Cur Deus Homo — Book First §27",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.28",
+      "label": "Cur Deus Homo — Book First §28",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.29",
+      "label": "Cur Deus Homo — Book First §29",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.30",
+      "label": "Cur Deus Homo — Book First §30",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.31",
+      "label": "Cur Deus Homo — Book First §31",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.32",
+      "label": "Cur Deus Homo — Book First §32",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.33",
+      "label": "Cur Deus Homo — Book First §33",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.34",
+      "label": "Cur Deus Homo — Book First §34",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.35",
+      "label": "Cur Deus Homo — Book First §35",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.36",
+      "label": "Cur Deus Homo — Book First §36",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.37",
+      "label": "Cur Deus Homo — Book First §37",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.38",
+      "label": "Cur Deus Homo — Book First §38",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.39",
+      "label": "Cur Deus Homo — Book First §39",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.40",
+      "label": "Cur Deus Homo — Book First §40",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.41",
+      "label": "Cur Deus Homo — Book First §41",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.42",
+      "label": "Cur Deus Homo — Book First §42",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.43",
+      "label": "Cur Deus Homo — Book First §43",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.44",
+      "label": "Cur Deus Homo — Book First §44",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.45",
+      "label": "Cur Deus Homo — Book First §45",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.46",
+      "label": "Cur Deus Homo — Book First §46",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.47",
+      "label": "Cur Deus Homo — Book First §47",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.48",
+      "label": "Cur Deus Homo — Book First §48",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.49",
+      "label": "Cur Deus Homo — Book First §49",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.50",
+      "label": "Cur Deus Homo — Book First §50",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.51",
+      "label": "Cur Deus Homo — Book First §51",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.52",
+      "label": "Cur Deus Homo — Book First §52",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.53",
+      "label": "Cur Deus Homo — Book First §53",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.54",
+      "label": "Cur Deus Homo — Book First §54",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.55",
+      "label": "Cur Deus Homo — Book First §55",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.56",
+      "label": "Cur Deus Homo — Book First §56",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.57",
+      "label": "Cur Deus Homo — Book First §57",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.58",
+      "label": "Cur Deus Homo — Book First §58",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.59",
+      "label": "Cur Deus Homo — Book First §59",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.60",
+      "label": "Cur Deus Homo — Book First §60",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.61",
+      "label": "Cur Deus Homo — Book First §61",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.62",
+      "label": "Cur Deus Homo — Book First §62",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.63",
+      "label": "Cur Deus Homo — Book First §63",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.64",
+      "label": "Cur Deus Homo — Book First §64",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.65",
+      "label": "Cur Deus Homo — Book First §65",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.66",
+      "label": "Cur Deus Homo — Book First §66",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.67",
+      "label": "Cur Deus Homo — Book First §67",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.68",
+      "label": "Cur Deus Homo — Book First §68",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.69",
+      "label": "Cur Deus Homo — Book First §69",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.70",
+      "label": "Cur Deus Homo — Book First §70",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.71",
+      "label": "Cur Deus Homo — Book First §71",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.72",
+      "label": "Cur Deus Homo — Book First §72",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.73",
+      "label": "Cur Deus Homo — Book First §73",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.74",
+      "label": "Cur Deus Homo — Book First §74",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.75",
+      "label": "Cur Deus Homo — Book First §75",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.76",
+      "label": "Cur Deus Homo — Book First §76",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.77",
+      "label": "Cur Deus Homo — Book First §77",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.78",
+      "label": "Cur Deus Homo — Book First §78",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.79",
+      "label": "Cur Deus Homo — Book First §79",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.80",
+      "label": "Cur Deus Homo — Book First §80",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.81",
+      "label": "Cur Deus Homo — Book First §81",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.82",
+      "label": "Cur Deus Homo — Book First §82",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.83",
+      "label": "Cur Deus Homo — Book First §83",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.84",
+      "label": "Cur Deus Homo — Book First §84",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.85",
+      "label": "Cur Deus Homo — Book First §85",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.86",
+      "label": "Cur Deus Homo — Book First §86",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.87",
+      "label": "Cur Deus Homo — Book First §87",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.88",
+      "label": "Cur Deus Homo — Book First §88",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.89",
+      "label": "Cur Deus Homo — Book First §89",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.90",
+      "label": "Cur Deus Homo — Book First §90",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.91",
+      "label": "Cur Deus Homo — Book First §91",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.92",
+      "label": "Cur Deus Homo — Book First §92",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.93",
+      "label": "Cur Deus Homo — Book First §93",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.94",
+      "label": "Cur Deus Homo — Book First §94",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.95",
+      "label": "Cur Deus Homo — Book First §95",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.96",
+      "label": "Cur Deus Homo — Book First §96",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.97",
+      "label": "Cur Deus Homo — Book First §97",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.98",
+      "label": "Cur Deus Homo — Book First §98",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.99",
+      "label": "Cur Deus Homo — Book First §99",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.100",
+      "label": "Cur Deus Homo — Book First §100",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.101",
+      "label": "Cur Deus Homo — Book First §101",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.102",
+      "label": "Cur Deus Homo — Book First §102",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.103",
+      "label": "Cur Deus Homo — Book First §103",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.104",
+      "label": "Cur Deus Homo — Book First §104",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.105",
+      "label": "Cur Deus Homo — Book First §105",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.106",
+      "label": "Cur Deus Homo — Book First §106",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.107",
+      "label": "Cur Deus Homo — Book First §107",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.108",
+      "label": "Cur Deus Homo — Book First §108",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.109",
+      "label": "Cur Deus Homo — Book First §109",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.110",
+      "label": "Cur Deus Homo — Book First §110",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.111",
+      "label": "Cur Deus Homo — Book First §111",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.112",
+      "label": "Cur Deus Homo — Book First §112",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.113",
+      "label": "Cur Deus Homo — Book First §113",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.114",
+      "label": "Cur Deus Homo — Book First §114",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.115",
+      "label": "Cur Deus Homo — Book First §115",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.116",
+      "label": "Cur Deus Homo — Book First §116",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.117",
+      "label": "Cur Deus Homo — Book First §117",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.118",
+      "label": "Cur Deus Homo — Book First §118",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.119",
+      "label": "Cur Deus Homo — Book First §119",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.120",
+      "label": "Cur Deus Homo — Book First §120",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.121",
+      "label": "Cur Deus Homo — Book First §121",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.122",
+      "label": "Cur Deus Homo — Book First §122",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.123",
+      "label": "Cur Deus Homo — Book First §123",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.124",
+      "label": "Cur Deus Homo — Book First §124",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.125",
+      "label": "Cur Deus Homo — Book First §125",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.126",
+      "label": "Cur Deus Homo — Book First §126",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.127",
+      "label": "Cur Deus Homo — Book First §127",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.128",
+      "label": "Cur Deus Homo — Book First §128",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.129",
+      "label": "Cur Deus Homo — Book First §129",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.130",
+      "label": "Cur Deus Homo — Book First §130",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.131",
+      "label": "Cur Deus Homo — Book First §131",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.132",
+      "label": "Cur Deus Homo — Book First §132",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.133",
+      "label": "Cur Deus Homo — Book First §133",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.134",
+      "label": "Cur Deus Homo — Book First §134",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.135",
+      "label": "Cur Deus Homo — Book First §135",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.136",
+      "label": "Cur Deus Homo — Book First §136",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.137",
+      "label": "Cur Deus Homo — Book First §137",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.138",
+      "label": "Cur Deus Homo — Book First §138",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.139",
+      "label": "Cur Deus Homo — Book First §139",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.140",
+      "label": "Cur Deus Homo — Book First §140",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.141",
+      "label": "Cur Deus Homo — Book First §141",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.142",
+      "label": "Cur Deus Homo — Book First §142",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.143",
+      "label": "Cur Deus Homo — Book First §143",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.144",
+      "label": "Cur Deus Homo — Book First §144",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.145",
+      "label": "Cur Deus Homo — Book First §145",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.146",
+      "label": "Cur Deus Homo — Book First §146",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.147",
+      "label": "Cur Deus Homo — Book First §147",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.148",
+      "label": "Cur Deus Homo — Book First §148",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.149",
+      "label": "Cur Deus Homo — Book First §149",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.150",
+      "label": "Cur Deus Homo — Book First §150",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.151",
+      "label": "Cur Deus Homo — Book First §151",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.152",
+      "label": "Cur Deus Homo — Book First §152",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.153",
+      "label": "Cur Deus Homo — Book First §153",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.154",
+      "label": "Cur Deus Homo — Book First §154",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.155",
+      "label": "Cur Deus Homo — Book First §155",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.156",
+      "label": "Cur Deus Homo — Book First §156",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.157",
+      "label": "Cur Deus Homo — Book First §157",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.158",
+      "label": "Cur Deus Homo — Book First §158",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.159",
+      "label": "Cur Deus Homo — Book First §159",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.160",
+      "label": "Cur Deus Homo — Book First §160",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.161",
+      "label": "Cur Deus Homo — Book First §161",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.162",
+      "label": "Cur Deus Homo — Book First §162",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.163",
+      "label": "Cur Deus Homo — Book First §163",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.164",
+      "label": "Cur Deus Homo — Book First §164",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.165",
+      "label": "Cur Deus Homo — Book First §165",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.166",
+      "label": "Cur Deus Homo — Book First §166",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.167",
+      "label": "Cur Deus Homo — Book First §167",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.168",
+      "label": "Cur Deus Homo — Book First §168",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.169",
+      "label": "Cur Deus Homo — Book First §169",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.170",
+      "label": "Cur Deus Homo — Book First §170",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.171",
+      "label": "Cur Deus Homo — Book First §171",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.172",
+      "label": "Cur Deus Homo — Book First §172",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.173",
+      "label": "Cur Deus Homo — Book First §173",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.174",
+      "label": "Cur Deus Homo — Book First §174",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.175",
+      "label": "Cur Deus Homo — Book First §175",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.176",
+      "label": "Cur Deus Homo — Book First §176",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.177",
+      "label": "Cur Deus Homo — Book First §177",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.178",
+      "label": "Cur Deus Homo — Book First §178",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.179",
+      "label": "Cur Deus Homo — Book First §179",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.180",
+      "label": "Cur Deus Homo — Book First §180",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.181",
+      "label": "Cur Deus Homo — Book First §181",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.182",
+      "label": "Cur Deus Homo — Book First §182",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.183",
+      "label": "Cur Deus Homo — Book First §183",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.184",
+      "label": "Cur Deus Homo — Book First §184",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.185",
+      "label": "Cur Deus Homo — Book First §185",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.186",
+      "label": "Cur Deus Homo — Book First §186",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.187",
+      "label": "Cur Deus Homo — Book First §187",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.188",
+      "label": "Cur Deus Homo — Book First §188",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.189",
+      "label": "Cur Deus Homo — Book First §189",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.190",
+      "label": "Cur Deus Homo — Book First §190",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.191",
+      "label": "Cur Deus Homo — Book First §191",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.192",
+      "label": "Cur Deus Homo — Book First §192",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.193",
+      "label": "Cur Deus Homo — Book First §193",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.194",
+      "label": "Cur Deus Homo — Book First §194",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.195",
+      "label": "Cur Deus Homo — Book First §195",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.196",
+      "label": "Cur Deus Homo — Book First §196",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.197",
+      "label": "Cur Deus Homo — Book First §197",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.198",
+      "label": "Cur Deus Homo — Book First §198",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.199",
+      "label": "Cur Deus Homo — Book First §199",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.200",
+      "label": "Cur Deus Homo — Book First §200",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.201",
+      "label": "Cur Deus Homo — Book First §201",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.202",
+      "label": "Cur Deus Homo — Book First §202",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.203",
+      "label": "Cur Deus Homo — Book First §203",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.204",
+      "label": "Cur Deus Homo — Book First §204",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.205",
+      "label": "Cur Deus Homo — Book First §205",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.206",
+      "label": "Cur Deus Homo — Book First §206",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.207",
+      "label": "Cur Deus Homo — Book First §207",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.208",
+      "label": "Cur Deus Homo — Book First §208",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.209",
+      "label": "Cur Deus Homo — Book First §209",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.210",
+      "label": "Cur Deus Homo — Book First §210",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.211",
+      "label": "Cur Deus Homo — Book First §211",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.212",
+      "label": "Cur Deus Homo — Book First §212",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.213",
+      "label": "Cur Deus Homo — Book First §213",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.214",
+      "label": "Cur Deus Homo — Book First §214",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.215",
+      "label": "Cur Deus Homo — Book First §215",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.216",
+      "label": "Cur Deus Homo — Book First §216",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.217",
+      "label": "Cur Deus Homo — Book First §217",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.218",
+      "label": "Cur Deus Homo — Book First §218",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.219",
+      "label": "Cur Deus Homo — Book First §219",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.220",
+      "label": "Cur Deus Homo — Book First §220",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.221",
+      "label": "Cur Deus Homo — Book First §221",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.222",
+      "label": "Cur Deus Homo — Book First §222",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.223",
+      "label": "Cur Deus Homo — Book First §223",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.224",
+      "label": "Cur Deus Homo — Book First §224",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.225",
+      "label": "Cur Deus Homo — Book First §225",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.226",
+      "label": "Cur Deus Homo — Book First §226",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.227",
+      "label": "Cur Deus Homo — Book First §227",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.228",
+      "label": "Cur Deus Homo — Book First §228",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.229",
+      "label": "Cur Deus Homo — Book First §229",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.230",
+      "label": "Cur Deus Homo — Book First §230",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.231",
+      "label": "Cur Deus Homo — Book First §231",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.232",
+      "label": "Cur Deus Homo — Book First §232",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.233",
+      "label": "Cur Deus Homo — Book First §233",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.234",
+      "label": "Cur Deus Homo — Book First §234",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.235",
+      "label": "Cur Deus Homo — Book First §235",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.236",
+      "label": "Cur Deus Homo — Book First §236",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.237",
+      "label": "Cur Deus Homo — Book First §237",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.238",
+      "label": "Cur Deus Homo — Book First §238",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.239",
+      "label": "Cur Deus Homo — Book First §239",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.240",
+      "label": "Cur Deus Homo — Book First §240",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.241",
+      "label": "Cur Deus Homo — Book First §241",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.242",
+      "label": "Cur Deus Homo — Book First §242",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.243",
+      "label": "Cur Deus Homo — Book First §243",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.244",
+      "label": "Cur Deus Homo — Book First §244",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.245",
+      "label": "Cur Deus Homo — Book First §245",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.246",
+      "label": "Cur Deus Homo — Book First §246",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.247",
+      "label": "Cur Deus Homo — Book First §247",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.248",
+      "label": "Cur Deus Homo — Book First §248",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.249",
+      "label": "Cur Deus Homo — Book First §249",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.250",
+      "label": "Cur Deus Homo — Book First §250",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.251",
+      "label": "Cur Deus Homo — Book First §251",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.252",
+      "label": "Cur Deus Homo — Book First §252",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.253",
+      "label": "Cur Deus Homo — Book First §253",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.254",
+      "label": "Cur Deus Homo — Book First §254",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.255",
+      "label": "Cur Deus Homo — Book First §255",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.256",
+      "label": "Cur Deus Homo — Book First §256",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.257",
+      "label": "Cur Deus Homo — Book First §257",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.258",
+      "label": "Cur Deus Homo — Book First §258",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.259",
+      "label": "Cur Deus Homo — Book First §259",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.260",
+      "label": "Cur Deus Homo — Book First §260",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.261",
+      "label": "Cur Deus Homo — Book First §261",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.262",
+      "label": "Cur Deus Homo — Book First §262",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.263",
+      "label": "Cur Deus Homo — Book First §263",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.264",
+      "label": "Cur Deus Homo — Book First §264",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.265",
+      "label": "Cur Deus Homo — Book First §265",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.266",
+      "label": "Cur Deus Homo — Book First §266",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.267",
+      "label": "Cur Deus Homo — Book First §267",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.268",
+      "label": "Cur Deus Homo — Book First §268",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.269",
+      "label": "Cur Deus Homo — Book First §269",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.270",
+      "label": "Cur Deus Homo — Book First §270",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.271",
+      "label": "Cur Deus Homo — Book First §271",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.272",
+      "label": "Cur Deus Homo — Book First §272",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.273",
+      "label": "Cur Deus Homo — Book First §273",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.274",
+      "label": "Cur Deus Homo — Book First §274",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.275",
+      "label": "Cur Deus Homo — Book First §275",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.276",
+      "label": "Cur Deus Homo — Book First §276",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.277",
+      "label": "Cur Deus Homo — Book First §277",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.278",
+      "label": "Cur Deus Homo — Book First §278",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.279",
+      "label": "Cur Deus Homo — Book First §279",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.280",
+      "label": "Cur Deus Homo — Book First §280",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.281",
+      "label": "Cur Deus Homo — Book First §281",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.282",
+      "label": "Cur Deus Homo — Book First §282",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.283",
+      "label": "Cur Deus Homo — Book First §283",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.284",
+      "label": "Cur Deus Homo — Book First §284",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.285",
+      "label": "Cur Deus Homo — Book First §285",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.286",
+      "label": "Cur Deus Homo — Book First §286",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.287",
+      "label": "Cur Deus Homo — Book First §287",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.288",
+      "label": "Cur Deus Homo — Book First §288",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.289",
+      "label": "Cur Deus Homo — Book First §289",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.290",
+      "label": "Cur Deus Homo — Book First §290",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.291",
+      "label": "Cur Deus Homo — Book First §291",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.292",
+      "label": "Cur Deus Homo — Book First §292",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.293",
+      "label": "Cur Deus Homo — Book First §293",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.294",
+      "label": "Cur Deus Homo — Book First §294",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.295",
+      "label": "Cur Deus Homo — Book First §295",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.296",
+      "label": "Cur Deus Homo — Book First §296",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.297",
+      "label": "Cur Deus Homo — Book First §297",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.298",
+      "label": "Cur Deus Homo — Book First §298",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.299",
+      "label": "Cur Deus Homo — Book First §299",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.300",
+      "label": "Cur Deus Homo — Book First §300",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.301",
+      "label": "Cur Deus Homo — Book First §301",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.302",
+      "label": "Cur Deus Homo — Book First §302",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "110.303",
+      "label": "Cur Deus Homo — Book First §303",
+      "chapterRef": "110"
+    },
+    {
+      "reference": "111.1",
+      "label": "Cur Deus Homo — Book Second §1",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.2",
+      "label": "Cur Deus Homo — Book Second §2",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.3",
+      "label": "Cur Deus Homo — Book Second §3",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.4",
+      "label": "Cur Deus Homo — Book Second §4",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.5",
+      "label": "Cur Deus Homo — Book Second §5",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.6",
+      "label": "Cur Deus Homo — Book Second §6",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.7",
+      "label": "Cur Deus Homo — Book Second §7",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.8",
+      "label": "Cur Deus Homo — Book Second §8",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.9",
+      "label": "Cur Deus Homo — Book Second §9",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.10",
+      "label": "Cur Deus Homo — Book Second §10",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.11",
+      "label": "Cur Deus Homo — Book Second §11",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.12",
+      "label": "Cur Deus Homo — Book Second §12",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.13",
+      "label": "Cur Deus Homo — Book Second §13",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.14",
+      "label": "Cur Deus Homo — Book Second §14",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.15",
+      "label": "Cur Deus Homo — Book Second §15",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.16",
+      "label": "Cur Deus Homo — Book Second §16",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.17",
+      "label": "Cur Deus Homo — Book Second §17",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.18",
+      "label": "Cur Deus Homo — Book Second §18",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.19",
+      "label": "Cur Deus Homo — Book Second §19",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.20",
+      "label": "Cur Deus Homo — Book Second §20",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.21",
+      "label": "Cur Deus Homo — Book Second §21",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.22",
+      "label": "Cur Deus Homo — Book Second §22",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.23",
+      "label": "Cur Deus Homo — Book Second §23",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.24",
+      "label": "Cur Deus Homo — Book Second §24",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.25",
+      "label": "Cur Deus Homo — Book Second §25",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.26",
+      "label": "Cur Deus Homo — Book Second §26",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.27",
+      "label": "Cur Deus Homo — Book Second §27",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.28",
+      "label": "Cur Deus Homo — Book Second §28",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.29",
+      "label": "Cur Deus Homo — Book Second §29",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.30",
+      "label": "Cur Deus Homo — Book Second §30",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.31",
+      "label": "Cur Deus Homo — Book Second §31",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.32",
+      "label": "Cur Deus Homo — Book Second §32",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.33",
+      "label": "Cur Deus Homo — Book Second §33",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.34",
+      "label": "Cur Deus Homo — Book Second §34",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.35",
+      "label": "Cur Deus Homo — Book Second §35",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.36",
+      "label": "Cur Deus Homo — Book Second §36",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.37",
+      "label": "Cur Deus Homo — Book Second §37",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.38",
+      "label": "Cur Deus Homo — Book Second §38",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.39",
+      "label": "Cur Deus Homo — Book Second §39",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.40",
+      "label": "Cur Deus Homo — Book Second §40",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.41",
+      "label": "Cur Deus Homo — Book Second §41",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.42",
+      "label": "Cur Deus Homo — Book Second §42",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.43",
+      "label": "Cur Deus Homo — Book Second §43",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.44",
+      "label": "Cur Deus Homo — Book Second §44",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.45",
+      "label": "Cur Deus Homo — Book Second §45",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.46",
+      "label": "Cur Deus Homo — Book Second §46",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.47",
+      "label": "Cur Deus Homo — Book Second §47",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.48",
+      "label": "Cur Deus Homo — Book Second §48",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.49",
+      "label": "Cur Deus Homo — Book Second §49",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.50",
+      "label": "Cur Deus Homo — Book Second §50",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.51",
+      "label": "Cur Deus Homo — Book Second §51",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.52",
+      "label": "Cur Deus Homo — Book Second §52",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.53",
+      "label": "Cur Deus Homo — Book Second §53",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.54",
+      "label": "Cur Deus Homo — Book Second §54",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.55",
+      "label": "Cur Deus Homo — Book Second §55",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.56",
+      "label": "Cur Deus Homo — Book Second §56",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.57",
+      "label": "Cur Deus Homo — Book Second §57",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.58",
+      "label": "Cur Deus Homo — Book Second §58",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.59",
+      "label": "Cur Deus Homo — Book Second §59",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.60",
+      "label": "Cur Deus Homo — Book Second §60",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.61",
+      "label": "Cur Deus Homo — Book Second §61",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.62",
+      "label": "Cur Deus Homo — Book Second §62",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.63",
+      "label": "Cur Deus Homo — Book Second §63",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.64",
+      "label": "Cur Deus Homo — Book Second §64",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.65",
+      "label": "Cur Deus Homo — Book Second §65",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.66",
+      "label": "Cur Deus Homo — Book Second §66",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.67",
+      "label": "Cur Deus Homo — Book Second §67",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.68",
+      "label": "Cur Deus Homo — Book Second §68",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.69",
+      "label": "Cur Deus Homo — Book Second §69",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.70",
+      "label": "Cur Deus Homo — Book Second §70",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.71",
+      "label": "Cur Deus Homo — Book Second §71",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.72",
+      "label": "Cur Deus Homo — Book Second §72",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.73",
+      "label": "Cur Deus Homo — Book Second §73",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.74",
+      "label": "Cur Deus Homo — Book Second §74",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.75",
+      "label": "Cur Deus Homo — Book Second §75",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.76",
+      "label": "Cur Deus Homo — Book Second §76",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.77",
+      "label": "Cur Deus Homo — Book Second §77",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.78",
+      "label": "Cur Deus Homo — Book Second §78",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.79",
+      "label": "Cur Deus Homo — Book Second §79",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.80",
+      "label": "Cur Deus Homo — Book Second §80",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.81",
+      "label": "Cur Deus Homo — Book Second §81",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.82",
+      "label": "Cur Deus Homo — Book Second §82",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.83",
+      "label": "Cur Deus Homo — Book Second §83",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.84",
+      "label": "Cur Deus Homo — Book Second §84",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.85",
+      "label": "Cur Deus Homo — Book Second §85",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.86",
+      "label": "Cur Deus Homo — Book Second §86",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.87",
+      "label": "Cur Deus Homo — Book Second §87",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.88",
+      "label": "Cur Deus Homo — Book Second §88",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.89",
+      "label": "Cur Deus Homo — Book Second §89",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.90",
+      "label": "Cur Deus Homo — Book Second §90",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.91",
+      "label": "Cur Deus Homo — Book Second §91",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.92",
+      "label": "Cur Deus Homo — Book Second §92",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.93",
+      "label": "Cur Deus Homo — Book Second §93",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.94",
+      "label": "Cur Deus Homo — Book Second §94",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.95",
+      "label": "Cur Deus Homo — Book Second §95",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.96",
+      "label": "Cur Deus Homo — Book Second §96",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.97",
+      "label": "Cur Deus Homo — Book Second §97",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.98",
+      "label": "Cur Deus Homo — Book Second §98",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.99",
+      "label": "Cur Deus Homo — Book Second §99",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.100",
+      "label": "Cur Deus Homo — Book Second §100",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.101",
+      "label": "Cur Deus Homo — Book Second §101",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.102",
+      "label": "Cur Deus Homo — Book Second §102",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.103",
+      "label": "Cur Deus Homo — Book Second §103",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.104",
+      "label": "Cur Deus Homo — Book Second §104",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.105",
+      "label": "Cur Deus Homo — Book Second §105",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.106",
+      "label": "Cur Deus Homo — Book Second §106",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.107",
+      "label": "Cur Deus Homo — Book Second §107",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.108",
+      "label": "Cur Deus Homo — Book Second §108",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.109",
+      "label": "Cur Deus Homo — Book Second §109",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.110",
+      "label": "Cur Deus Homo — Book Second §110",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.111",
+      "label": "Cur Deus Homo — Book Second §111",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.112",
+      "label": "Cur Deus Homo — Book Second §112",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.113",
+      "label": "Cur Deus Homo — Book Second §113",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.114",
+      "label": "Cur Deus Homo — Book Second §114",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.115",
+      "label": "Cur Deus Homo — Book Second §115",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.116",
+      "label": "Cur Deus Homo — Book Second §116",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.117",
+      "label": "Cur Deus Homo — Book Second §117",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.118",
+      "label": "Cur Deus Homo — Book Second §118",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.119",
+      "label": "Cur Deus Homo — Book Second §119",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.120",
+      "label": "Cur Deus Homo — Book Second §120",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.121",
+      "label": "Cur Deus Homo — Book Second §121",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.122",
+      "label": "Cur Deus Homo — Book Second §122",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.123",
+      "label": "Cur Deus Homo — Book Second §123",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.124",
+      "label": "Cur Deus Homo — Book Second §124",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.125",
+      "label": "Cur Deus Homo — Book Second §125",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.126",
+      "label": "Cur Deus Homo — Book Second §126",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.127",
+      "label": "Cur Deus Homo — Book Second §127",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.128",
+      "label": "Cur Deus Homo — Book Second §128",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.129",
+      "label": "Cur Deus Homo — Book Second §129",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.130",
+      "label": "Cur Deus Homo — Book Second §130",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.131",
+      "label": "Cur Deus Homo — Book Second §131",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.132",
+      "label": "Cur Deus Homo — Book Second §132",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.133",
+      "label": "Cur Deus Homo — Book Second §133",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.134",
+      "label": "Cur Deus Homo — Book Second §134",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.135",
+      "label": "Cur Deus Homo — Book Second §135",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.136",
+      "label": "Cur Deus Homo — Book Second §136",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.137",
+      "label": "Cur Deus Homo — Book Second §137",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.138",
+      "label": "Cur Deus Homo — Book Second §138",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.139",
+      "label": "Cur Deus Homo — Book Second §139",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.140",
+      "label": "Cur Deus Homo — Book Second §140",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.141",
+      "label": "Cur Deus Homo — Book Second §141",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.142",
+      "label": "Cur Deus Homo — Book Second §142",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.143",
+      "label": "Cur Deus Homo — Book Second §143",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.144",
+      "label": "Cur Deus Homo — Book Second §144",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.145",
+      "label": "Cur Deus Homo — Book Second §145",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.146",
+      "label": "Cur Deus Homo — Book Second §146",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.147",
+      "label": "Cur Deus Homo — Book Second §147",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.148",
+      "label": "Cur Deus Homo — Book Second §148",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.149",
+      "label": "Cur Deus Homo — Book Second §149",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.150",
+      "label": "Cur Deus Homo — Book Second §150",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.151",
+      "label": "Cur Deus Homo — Book Second §151",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.152",
+      "label": "Cur Deus Homo — Book Second §152",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.153",
+      "label": "Cur Deus Homo — Book Second §153",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.154",
+      "label": "Cur Deus Homo — Book Second §154",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.155",
+      "label": "Cur Deus Homo — Book Second §155",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.156",
+      "label": "Cur Deus Homo — Book Second §156",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.157",
+      "label": "Cur Deus Homo — Book Second §157",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.158",
+      "label": "Cur Deus Homo — Book Second §158",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.159",
+      "label": "Cur Deus Homo — Book Second §159",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.160",
+      "label": "Cur Deus Homo — Book Second §160",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.161",
+      "label": "Cur Deus Homo — Book Second §161",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.162",
+      "label": "Cur Deus Homo — Book Second §162",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.163",
+      "label": "Cur Deus Homo — Book Second §163",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.164",
+      "label": "Cur Deus Homo — Book Second §164",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.165",
+      "label": "Cur Deus Homo — Book Second §165",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.166",
+      "label": "Cur Deus Homo — Book Second §166",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.167",
+      "label": "Cur Deus Homo — Book Second §167",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.168",
+      "label": "Cur Deus Homo — Book Second §168",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.169",
+      "label": "Cur Deus Homo — Book Second §169",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.170",
+      "label": "Cur Deus Homo — Book Second §170",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.171",
+      "label": "Cur Deus Homo — Book Second §171",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.172",
+      "label": "Cur Deus Homo — Book Second §172",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.173",
+      "label": "Cur Deus Homo — Book Second §173",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.174",
+      "label": "Cur Deus Homo — Book Second §174",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.175",
+      "label": "Cur Deus Homo — Book Second §175",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.176",
+      "label": "Cur Deus Homo — Book Second §176",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.177",
+      "label": "Cur Deus Homo — Book Second §177",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.178",
+      "label": "Cur Deus Homo — Book Second §178",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.179",
+      "label": "Cur Deus Homo — Book Second §179",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.180",
+      "label": "Cur Deus Homo — Book Second §180",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.181",
+      "label": "Cur Deus Homo — Book Second §181",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.182",
+      "label": "Cur Deus Homo — Book Second §182",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.183",
+      "label": "Cur Deus Homo — Book Second §183",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.184",
+      "label": "Cur Deus Homo — Book Second §184",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.185",
+      "label": "Cur Deus Homo — Book Second §185",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.186",
+      "label": "Cur Deus Homo — Book Second §186",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.187",
+      "label": "Cur Deus Homo — Book Second §187",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.188",
+      "label": "Cur Deus Homo — Book Second §188",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.189",
+      "label": "Cur Deus Homo — Book Second §189",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.190",
+      "label": "Cur Deus Homo — Book Second §190",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.191",
+      "label": "Cur Deus Homo — Book Second §191",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.192",
+      "label": "Cur Deus Homo — Book Second §192",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.193",
+      "label": "Cur Deus Homo — Book Second §193",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.194",
+      "label": "Cur Deus Homo — Book Second §194",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.195",
+      "label": "Cur Deus Homo — Book Second §195",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.196",
+      "label": "Cur Deus Homo — Book Second §196",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.197",
+      "label": "Cur Deus Homo — Book Second §197",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.198",
+      "label": "Cur Deus Homo — Book Second §198",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.199",
+      "label": "Cur Deus Homo — Book Second §199",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.200",
+      "label": "Cur Deus Homo — Book Second §200",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.201",
+      "label": "Cur Deus Homo — Book Second §201",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.202",
+      "label": "Cur Deus Homo — Book Second §202",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.203",
+      "label": "Cur Deus Homo — Book Second §203",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.204",
+      "label": "Cur Deus Homo — Book Second §204",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.205",
+      "label": "Cur Deus Homo — Book Second §205",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.206",
+      "label": "Cur Deus Homo — Book Second §206",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.207",
+      "label": "Cur Deus Homo — Book Second §207",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.208",
+      "label": "Cur Deus Homo — Book Second §208",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.209",
+      "label": "Cur Deus Homo — Book Second §209",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.210",
+      "label": "Cur Deus Homo — Book Second §210",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.211",
+      "label": "Cur Deus Homo — Book Second §211",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.212",
+      "label": "Cur Deus Homo — Book Second §212",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.213",
+      "label": "Cur Deus Homo — Book Second §213",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.214",
+      "label": "Cur Deus Homo — Book Second §214",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.215",
+      "label": "Cur Deus Homo — Book Second §215",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.216",
+      "label": "Cur Deus Homo — Book Second §216",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.217",
+      "label": "Cur Deus Homo — Book Second §217",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.218",
+      "label": "Cur Deus Homo — Book Second §218",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.219",
+      "label": "Cur Deus Homo — Book Second §219",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.220",
+      "label": "Cur Deus Homo — Book Second §220",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.221",
+      "label": "Cur Deus Homo — Book Second §221",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.222",
+      "label": "Cur Deus Homo — Book Second §222",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.223",
+      "label": "Cur Deus Homo — Book Second §223",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.224",
+      "label": "Cur Deus Homo — Book Second §224",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.225",
+      "label": "Cur Deus Homo — Book Second §225",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.226",
+      "label": "Cur Deus Homo — Book Second §226",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.227",
+      "label": "Cur Deus Homo — Book Second §227",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.228",
+      "label": "Cur Deus Homo — Book Second §228",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.229",
+      "label": "Cur Deus Homo — Book Second §229",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.230",
+      "label": "Cur Deus Homo — Book Second §230",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.231",
+      "label": "Cur Deus Homo — Book Second §231",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.232",
+      "label": "Cur Deus Homo — Book Second §232",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.233",
+      "label": "Cur Deus Homo — Book Second §233",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.234",
+      "label": "Cur Deus Homo — Book Second §234",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.235",
+      "label": "Cur Deus Homo — Book Second §235",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.236",
+      "label": "Cur Deus Homo — Book Second §236",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.237",
+      "label": "Cur Deus Homo — Book Second §237",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.238",
+      "label": "Cur Deus Homo — Book Second §238",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.239",
+      "label": "Cur Deus Homo — Book Second §239",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.240",
+      "label": "Cur Deus Homo — Book Second §240",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.241",
+      "label": "Cur Deus Homo — Book Second §241",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.242",
+      "label": "Cur Deus Homo — Book Second §242",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.243",
+      "label": "Cur Deus Homo — Book Second §243",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.244",
+      "label": "Cur Deus Homo — Book Second §244",
+      "chapterRef": "111"
+    }
+  ],
+  "editions": [
+    {
+      "slug": "anselm-en",
+      "language": "en",
+      "editionType": "translation",
+      "title": "Proslogium; Monologium; An Appendix in Behalf of the Fool by Gaunilon; and Cur Deus Homo",
+      "translator": "Sidney Norton Deane",
+      "publisher": "Internet Sacred Text Archive",
+      "publicationYear": 1903,
+      "source": "sacred-texts",
+      "license": "public-domain",
+      "rightsStatus": "Public domain in the United States",
+      "attributionText": "Proslogium; Monologium; An Appendix in Behalf of the Fool by Gaunilon; and Cur Deus Homo, translated by Sidney Norton Deane (1903). Open Court Publishing Company, Chicago. Public domain in the United States. Digital text from the Internet Sacred Text Archive.",
+      "structureScheme": "chapter and paragraph index; each chapter is one printed chapter, prefixed with the treatise it belongs to",
+      "isSample": false,
+      "notes": "The import cache stores the exact segments that were validated. The reader re-fetches the chapter from the host and reports when the served count no longer matches the index."
+    }
+  ]
+}

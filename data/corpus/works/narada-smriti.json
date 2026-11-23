@@ -1,0 +1,4786 @@
+{
+  "slug": "narada-smriti",
+  "title": "The Naradasmriti — the Sanskrit text",
+  "originalTitle": "नारदस्मृति",
+  "transliteration": "Nāradasmṛti",
+  "altTitles": [
+    "Narada Smriti",
+    "Naradiyasmriti"
+  ],
+  "tradition": "hinduism",
+  "school": "",
+  "genre": "Dharmasastra",
+  "textType": "Law book in verse and prose",
+  "category": "Dharmasastra",
+  "subcategory": "Smriti",
+  "originalLanguage": "sa",
+  "dateStart": 100,
+  "dateEnd": 400,
+  "dateDisplay": "c. 1st–4th century CE",
+  "authorshipStatus": "traditional",
+  "author": "narada",
+  "attributionNote": "The law book ascribed to the divine sage Nārada, the messenger of the gods; in its own frame the sages ask Nārada what procedure the courts followed before men fell away from dharma. GRETIL's e-text follows Richard W. Lariviere's critical edition (Philadelphia 1989, University of Pennsylvania Studies on South Asia 4–5) and was input by Yasuke Iriki.",
+  "description": "The Nāradasmṛti is the procedural law book of classical India: its mātṛkā on the grounds of a lawsuit and the conduct of the parties, its eighteen titles of law treating debt, deposits, partnership, sale without ownership, boundaries, marriage and the marital offences, inheritance, robbery, defamation, assault and gambling, and its appendix on documents — with the rules of pleading, of witnesses and of ordeals that made it the authority on procedure rather than on substantive law.",
+  "historicalContext": "Composed after the Manusmṛti and cited by every legal digest from the medieval period onward, the text was central to the Anglo-Indian reconstruction of Hindu law: Lariviere's edition and translation replaced the older ones, and the vyavahāra chapters are the fullest statement of Indian civil procedure to survive.",
+  "availabilityNote": "Complete as GRETIL publishes it: the mātṛkā, the eighteen vyavahārapadas and the pariśiṣṭa, 1,530 verses in all, streamed from GRETIL at read time. The file numbers the work inside its three parts — m for the mātṛkā, v for the vyavahārapada, p for the pariśiṣṭa — and the reader keeps those letters, naming each chapter with the part it belongs to. This is the original Sanskrit, not a translation.",
+  "featured": false,
+  "featuredNote": "",
+  "refScheme": "part.chapter.verse",
+  "isSample": false,
+  "textStorage": "streamed",
+  "chapters": [
+    {
+      "ref": "m1",
+      "label": "Mātṛkā 1"
+    },
+    {
+      "ref": "m2",
+      "label": "Mātṛkā 2"
+    },
+    {
+      "ref": "m3",
+      "label": "Mātṛkā 3"
+    },
+    {
+      "ref": "v1",
+      "label": "Vyavahārapada 1"
+    },
+    {
+      "ref": "v2",
+      "label": "Vyavahārapada 2"
+    },
+    {
+      "ref": "v3",
+      "label": "Vyavahārapada 3"
+    },
+    {
+      "ref": "v4",
+      "label": "Vyavahārapada 4"
+    },
+    {
+      "ref": "v5",
+      "label": "Vyavahārapada 5"
+    },
+    {
+      "ref": "v6",
+      "label": "Vyavahārapada 6"
+    },
+    {
+      "ref": "v7",
+      "label": "Vyavahārapada 7"
+    },
+    {
+      "ref": "v8",
+      "label": "Vyavahārapada 8"
+    },
+    {
+      "ref": "v9",
+      "label": "Vyavahārapada 9"
+    },
+    {
+      "ref": "v10",
+      "label": "Vyavahārapada 10"
+    },
+    {
+      "ref": "v11",
+      "label": "Vyavahārapada 11"
+    },
+    {
+      "ref": "v12",
+      "label": "Vyavahārapada 12"
+    },
+    {
+      "ref": "v13",
+      "label": "Vyavahārapada 13"
+    },
+    {
+      "ref": "v14",
+      "label": "Vyavahārapada 14"
+    },
+    {
+      "ref": "v15-16",
+      "label": "Vyavahārapada 15–16"
+    },
+    {
+      "ref": "v17",
+      "label": "Vyavahārapada 17"
+    },
+    {
+      "ref": "v18",
+      "label": "Vyavahārapada 18"
+    },
+    {
+      "ref": "p19",
+      "label": "Pariśiṣṭa 19"
+    },
+    {
+      "ref": "p20",
+      "label": "Pariśiṣṭa 20"
+    }
+  ],
+  "passages": [
+    {
+      "reference": "m1.1",
+      "label": "Mātṛkā 1 §1",
+      "chapterRef": "m1"
+    },
+    {
+      "reference": "m1.2",
+      "label": "Mātṛkā 1 §2",
+      "chapterRef": "m1"
+    },
+    {
+      "reference": "m1.3",
+      "label": "Mātṛkā 1 §3",
+      "chapterRef": "m1"
+    },
+    {
+      "reference": "m1.4",
+      "label": "Mātṛkā 1 §4",
+      "chapterRef": "m1"
+    },
+    {
+      "reference": "m1.5",
+      "label": "Mātṛkā 1 §5",
+      "chapterRef": "m1"
+    },
+    {
+      "reference": "m1.6",
+      "label": "Mātṛkā 1 §6",
+      "chapterRef": "m1"
+    },
+    {
+      "reference": "m1.7",
+      "label": "Mātṛkā 1 §7",
+      "chapterRef": "m1"
+    },
+    {
+      "reference": "m1.8",
+      "label": "Mātṛkā 1 §8",
+      "chapterRef": "m1"
+    },
+    {
+      "reference": "m1.9",
+      "label": "Mātṛkā 1 §9",
+      "chapterRef": "m1"
+    },
+    {
+      "reference": "m1.10",
+      "label": "Mātṛkā 1 §10",
+      "chapterRef": "m1"
+    },
+    {
+      "reference": "m1.11",
+      "label": "Mātṛkā 1 §11",
+      "chapterRef": "m1"
+    },
+    {
+      "reference": "m1.12",
+      "label": "Mātṛkā 1 §12",
+      "chapterRef": "m1"
+    },
+    {
+      "reference": "m1.13",
+      "label": "Mātṛkā 1 §13",
+      "chapterRef": "m1"
+    },
+    {
+      "reference": "m1.14",
+      "label": "Mātṛkā 1 §14",
+      "chapterRef": "m1"
+    },
+    {
+      "reference": "m1.15",
+      "label": "Mātṛkā 1 §15",
+      "chapterRef": "m1"
+    },
+    {
+      "reference": "m1.16",
+      "label": "Mātṛkā 1 §16",
+      "chapterRef": "m1"
+    },
+    {
+      "reference": "m1.17",
+      "label": "Mātṛkā 1 §17",
+      "chapterRef": "m1"
+    },
+    {
+      "reference": "m1.18",
+      "label": "Mātṛkā 1 §18",
+      "chapterRef": "m1"
+    },
+    {
+      "reference": "m1.19",
+      "label": "Mātṛkā 1 §19",
+      "chapterRef": "m1"
+    },
+    {
+      "reference": "m1.20",
+      "label": "Mātṛkā 1 §20",
+      "chapterRef": "m1"
+    },
+    {
+      "reference": "m1.21",
+      "label": "Mātṛkā 1 §21",
+      "chapterRef": "m1"
+    },
+    {
+      "reference": "m1.22",
+      "label": "Mātṛkā 1 §22",
+      "chapterRef": "m1"
+    },
+    {
+      "reference": "m1.23",
+      "label": "Mātṛkā 1 §23",
+      "chapterRef": "m1"
+    },
+    {
+      "reference": "m1.24",
+      "label": "Mātṛkā 1 §24",
+      "chapterRef": "m1"
+    },
+    {
+      "reference": "m1.25",
+      "label": "Mātṛkā 1 §25",
+      "chapterRef": "m1"
+    },
+    {
+      "reference": "m1.26",
+      "label": "Mātṛkā 1 §26",
+      "chapterRef": "m1"
+    },
+    {
+      "reference": "m1.27",
+      "label": "Mātṛkā 1 §27",
+      "chapterRef": "m1"
+    },
+    {
+      "reference": "m1.28",
+      "label": "Mātṛkā 1 §28",
+      "chapterRef": "m1"
+    },
+    {
+      "reference": "m1.29",
+      "label": "Mātṛkā 1 §29",
+      "chapterRef": "m1"
+    },
+    {
+      "reference": "m1.30",
+      "label": "Mātṛkā 1 §30",
+      "chapterRef": "m1"
+    },
+    {
+      "reference": "m1.31",
+      "label": "Mātṛkā 1 §31",
+      "chapterRef": "m1"
+    },
+    {
+      "reference": "m1.32",
+      "label": "Mātṛkā 1 §32",
+      "chapterRef": "m1"
+    },
+    {
+      "reference": "m1.33",
+      "label": "Mātṛkā 1 §33",
+      "chapterRef": "m1"
+    },
+    {
+      "reference": "m1.34",
+      "label": "Mātṛkā 1 §34",
+      "chapterRef": "m1"
+    },
+    {
+      "reference": "m1.35",
+      "label": "Mātṛkā 1 §35",
+      "chapterRef": "m1"
+    },
+    {
+      "reference": "m1.36",
+      "label": "Mātṛkā 1 §36",
+      "chapterRef": "m1"
+    },
+    {
+      "reference": "m1.37",
+      "label": "Mātṛkā 1 §37",
+      "chapterRef": "m1"
+    },
+    {
+      "reference": "m1.38",
+      "label": "Mātṛkā 1 §38",
+      "chapterRef": "m1"
+    },
+    {
+      "reference": "m1.39",
+      "label": "Mātṛkā 1 §39",
+      "chapterRef": "m1"
+    },
+    {
+      "reference": "m1.40",
+      "label": "Mātṛkā 1 §40",
+      "chapterRef": "m1"
+    },
+    {
+      "reference": "m1.41",
+      "label": "Mātṛkā 1 §41",
+      "chapterRef": "m1"
+    },
+    {
+      "reference": "m1.42",
+      "label": "Mātṛkā 1 §42",
+      "chapterRef": "m1"
+    },
+    {
+      "reference": "m1.43",
+      "label": "Mātṛkā 1 §43",
+      "chapterRef": "m1"
+    },
+    {
+      "reference": "m1.44",
+      "label": "Mātṛkā 1 §44",
+      "chapterRef": "m1"
+    },
+    {
+      "reference": "m1.45",
+      "label": "Mātṛkā 1 §45",
+      "chapterRef": "m1"
+    },
+    {
+      "reference": "m1.46",
+      "label": "Mātṛkā 1 §46",
+      "chapterRef": "m1"
+    },
+    {
+      "reference": "m1.47",
+      "label": "Mātṛkā 1 §47",
+      "chapterRef": "m1"
+    },
+    {
+      "reference": "m1.48",
+      "label": "Mātṛkā 1 §48",
+      "chapterRef": "m1"
+    },
+    {
+      "reference": "m1.49",
+      "label": "Mātṛkā 1 §49",
+      "chapterRef": "m1"
+    },
+    {
+      "reference": "m1.50",
+      "label": "Mātṛkā 1 §50",
+      "chapterRef": "m1"
+    },
+    {
+      "reference": "m1.51",
+      "label": "Mātṛkā 1 §51",
+      "chapterRef": "m1"
+    },
+    {
+      "reference": "m1.52",
+      "label": "Mātṛkā 1 §52",
+      "chapterRef": "m1"
+    },
+    {
+      "reference": "m1.53",
+      "label": "Mātṛkā 1 §53",
+      "chapterRef": "m1"
+    },
+    {
+      "reference": "m1.54",
+      "label": "Mātṛkā 1 §54",
+      "chapterRef": "m1"
+    },
+    {
+      "reference": "m1.55",
+      "label": "Mātṛkā 1 §55",
+      "chapterRef": "m1"
+    },
+    {
+      "reference": "m1.56",
+      "label": "Mātṛkā 1 §56",
+      "chapterRef": "m1"
+    },
+    {
+      "reference": "m1.57",
+      "label": "Mātṛkā 1 §57",
+      "chapterRef": "m1"
+    },
+    {
+      "reference": "m1.58",
+      "label": "Mātṛkā 1 §58",
+      "chapterRef": "m1"
+    },
+    {
+      "reference": "m1.59",
+      "label": "Mātṛkā 1 §59",
+      "chapterRef": "m1"
+    },
+    {
+      "reference": "m1.60",
+      "label": "Mātṛkā 1 §60",
+      "chapterRef": "m1"
+    },
+    {
+      "reference": "m1.61",
+      "label": "Mātṛkā 1 §61",
+      "chapterRef": "m1"
+    },
+    {
+      "reference": "m1.62",
+      "label": "Mātṛkā 1 §62",
+      "chapterRef": "m1"
+    },
+    {
+      "reference": "m1.63",
+      "label": "Mātṛkā 1 §63",
+      "chapterRef": "m1"
+    },
+    {
+      "reference": "m1.64",
+      "label": "Mātṛkā 1 §64",
+      "chapterRef": "m1"
+    },
+    {
+      "reference": "m1.65",
+      "label": "Mātṛkā 1 §65",
+      "chapterRef": "m1"
+    },
+    {
+      "reference": "m2.1",
+      "label": "Mātṛkā 2 §1",
+      "chapterRef": "m2"
+    },
+    {
+      "reference": "m2.2",
+      "label": "Mātṛkā 2 §2",
+      "chapterRef": "m2"
+    },
+    {
+      "reference": "m2.3",
+      "label": "Mātṛkā 2 §3",
+      "chapterRef": "m2"
+    },
+    {
+      "reference": "m2.4",
+      "label": "Mātṛkā 2 §4",
+      "chapterRef": "m2"
+    },
+    {
+      "reference": "m2.5",
+      "label": "Mātṛkā 2 §5",
+      "chapterRef": "m2"
+    },
+    {
+      "reference": "m2.6",
+      "label": "Mātṛkā 2 §6",
+      "chapterRef": "m2"
+    },
+    {
+      "reference": "m2.7",
+      "label": "Mātṛkā 2 §7",
+      "chapterRef": "m2"
+    },
+    {
+      "reference": "m2.8",
+      "label": "Mātṛkā 2 §8",
+      "chapterRef": "m2"
+    },
+    {
+      "reference": "m2.9",
+      "label": "Mātṛkā 2 §9",
+      "chapterRef": "m2"
+    },
+    {
+      "reference": "m2.10",
+      "label": "Mātṛkā 2 §10",
+      "chapterRef": "m2"
+    },
+    {
+      "reference": "m2.11",
+      "label": "Mātṛkā 2 §11",
+      "chapterRef": "m2"
+    },
+    {
+      "reference": "m2.12",
+      "label": "Mātṛkā 2 §12",
+      "chapterRef": "m2"
+    },
+    {
+      "reference": "m2.13",
+      "label": "Mātṛkā 2 §13",
+      "chapterRef": "m2"
+    },
+    {
+      "reference": "m2.14",
+      "label": "Mātṛkā 2 §14",
+      "chapterRef": "m2"
+    },
+    {
+      "reference": "m2.15",
+      "label": "Mātṛkā 2 §15",
+      "chapterRef": "m2"
+    },
+    {
+      "reference": "m2.16",
+      "label": "Mātṛkā 2 §16",
+      "chapterRef": "m2"
+    },
+    {
+      "reference": "m2.17",
+      "label": "Mātṛkā 2 §17",
+      "chapterRef": "m2"
+    },
+    {
+      "reference": "m2.18",
+      "label": "Mātṛkā 2 §18",
+      "chapterRef": "m2"
+    },
+    {
+      "reference": "m2.19",
+      "label": "Mātṛkā 2 §19",
+      "chapterRef": "m2"
+    },
+    {
+      "reference": "m2.20",
+      "label": "Mātṛkā 2 §20",
+      "chapterRef": "m2"
+    },
+    {
+      "reference": "m2.21",
+      "label": "Mātṛkā 2 §21",
+      "chapterRef": "m2"
+    },
+    {
+      "reference": "m2.22",
+      "label": "Mātṛkā 2 §22",
+      "chapterRef": "m2"
+    },
+    {
+      "reference": "m2.23",
+      "label": "Mātṛkā 2 §23",
+      "chapterRef": "m2"
+    },
+    {
+      "reference": "m2.24",
+      "label": "Mātṛkā 2 §24",
+      "chapterRef": "m2"
+    },
+    {
+      "reference": "m2.25",
+      "label": "Mātṛkā 2 §25",
+      "chapterRef": "m2"
+    },
+    {
+      "reference": "m2.26",
+      "label": "Mātṛkā 2 §26",
+      "chapterRef": "m2"
+    },
+    {
+      "reference": "m2.27",
+      "label": "Mātṛkā 2 §27",
+      "chapterRef": "m2"
+    },
+    {
+      "reference": "m2.28",
+      "label": "Mātṛkā 2 §28",
+      "chapterRef": "m2"
+    },
+    {
+      "reference": "m2.29",
+      "label": "Mātṛkā 2 §29",
+      "chapterRef": "m2"
+    },
+    {
+      "reference": "m2.30",
+      "label": "Mātṛkā 2 §30",
+      "chapterRef": "m2"
+    },
+    {
+      "reference": "m2.31",
+      "label": "Mātṛkā 2 §31",
+      "chapterRef": "m2"
+    },
+    {
+      "reference": "m2.32",
+      "label": "Mātṛkā 2 §32",
+      "chapterRef": "m2"
+    },
+    {
+      "reference": "m2.33",
+      "label": "Mātṛkā 2 §33",
+      "chapterRef": "m2"
+    },
+    {
+      "reference": "m2.34",
+      "label": "Mātṛkā 2 §34",
+      "chapterRef": "m2"
+    },
+    {
+      "reference": "m2.35",
+      "label": "Mātṛkā 2 §35",
+      "chapterRef": "m2"
+    },
+    {
+      "reference": "m2.36",
+      "label": "Mātṛkā 2 §36",
+      "chapterRef": "m2"
+    },
+    {
+      "reference": "m2.37",
+      "label": "Mātṛkā 2 §37",
+      "chapterRef": "m2"
+    },
+    {
+      "reference": "m2.38",
+      "label": "Mātṛkā 2 §38",
+      "chapterRef": "m2"
+    },
+    {
+      "reference": "m2.39",
+      "label": "Mātṛkā 2 §39",
+      "chapterRef": "m2"
+    },
+    {
+      "reference": "m2.40",
+      "label": "Mātṛkā 2 §40",
+      "chapterRef": "m2"
+    },
+    {
+      "reference": "m2.41",
+      "label": "Mātṛkā 2 §41",
+      "chapterRef": "m2"
+    },
+    {
+      "reference": "m2.42",
+      "label": "Mātṛkā 2 §42",
+      "chapterRef": "m2"
+    },
+    {
+      "reference": "m2.43",
+      "label": "Mātṛkā 2 §43",
+      "chapterRef": "m2"
+    },
+    {
+      "reference": "m2.44",
+      "label": "Mātṛkā 2 §44",
+      "chapterRef": "m2"
+    },
+    {
+      "reference": "m3.1",
+      "label": "Mātṛkā 3 §1",
+      "chapterRef": "m3"
+    },
+    {
+      "reference": "m3.2",
+      "label": "Mātṛkā 3 §2",
+      "chapterRef": "m3"
+    },
+    {
+      "reference": "m3.3",
+      "label": "Mātṛkā 3 §3",
+      "chapterRef": "m3"
+    },
+    {
+      "reference": "m3.4",
+      "label": "Mātṛkā 3 §4",
+      "chapterRef": "m3"
+    },
+    {
+      "reference": "m3.5",
+      "label": "Mātṛkā 3 §5",
+      "chapterRef": "m3"
+    },
+    {
+      "reference": "m3.6",
+      "label": "Mātṛkā 3 §6",
+      "chapterRef": "m3"
+    },
+    {
+      "reference": "m3.7",
+      "label": "Mātṛkā 3 §7",
+      "chapterRef": "m3"
+    },
+    {
+      "reference": "m3.8",
+      "label": "Mātṛkā 3 §8",
+      "chapterRef": "m3"
+    },
+    {
+      "reference": "m3.9",
+      "label": "Mātṛkā 3 §9",
+      "chapterRef": "m3"
+    },
+    {
+      "reference": "m3.10",
+      "label": "Mātṛkā 3 §10",
+      "chapterRef": "m3"
+    },
+    {
+      "reference": "m3.11",
+      "label": "Mātṛkā 3 §11",
+      "chapterRef": "m3"
+    },
+    {
+      "reference": "m3.12",
+      "label": "Mātṛkā 3 §12",
+      "chapterRef": "m3"
+    },
+    {
+      "reference": "m3.13",
+      "label": "Mātṛkā 3 §13",
+      "chapterRef": "m3"
+    },
+    {
+      "reference": "m3.14",
+      "label": "Mātṛkā 3 §14",
+      "chapterRef": "m3"
+    },
+    {
+      "reference": "m3.15",
+      "label": "Mātṛkā 3 §15",
+      "chapterRef": "m3"
+    },
+    {
+      "reference": "m3.16",
+      "label": "Mātṛkā 3 §16",
+      "chapterRef": "m3"
+    },
+    {
+      "reference": "m3.17",
+      "label": "Mātṛkā 3 §17",
+      "chapterRef": "m3"
+    },
+    {
+      "reference": "v1.01",
+      "label": "Vyavahārapada 1 §1",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.02",
+      "label": "Vyavahārapada 1 §2",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.03",
+      "label": "Vyavahārapada 1 §3",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.04",
+      "label": "Vyavahārapada 1 §4",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.05",
+      "label": "Vyavahārapada 1 §5",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.06",
+      "label": "Vyavahārapada 1 §6",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.07",
+      "label": "Vyavahārapada 1 §7",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.08",
+      "label": "Vyavahārapada 1 §8",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.09",
+      "label": "Vyavahārapada 1 §9",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.10",
+      "label": "Vyavahārapada 1 §10",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.11",
+      "label": "Vyavahārapada 1 §11",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.12",
+      "label": "Vyavahārapada 1 §12",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.13",
+      "label": "Vyavahārapada 1 §13",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.14",
+      "label": "Vyavahārapada 1 §14",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.15",
+      "label": "Vyavahārapada 1 §15",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.16",
+      "label": "Vyavahārapada 1 §16",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.17",
+      "label": "Vyavahārapada 1 §17",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.18",
+      "label": "Vyavahārapada 1 §18",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.19",
+      "label": "Vyavahārapada 1 §19",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.20",
+      "label": "Vyavahārapada 1 §20",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.21",
+      "label": "Vyavahārapada 1 §21",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.22",
+      "label": "Vyavahārapada 1 §22",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.23",
+      "label": "Vyavahārapada 1 §23",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.24",
+      "label": "Vyavahārapada 1 §24",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.25",
+      "label": "Vyavahārapada 1 §25",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.26",
+      "label": "Vyavahārapada 1 §26",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.27",
+      "label": "Vyavahārapada 1 §27",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.28",
+      "label": "Vyavahārapada 1 §28",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.29",
+      "label": "Vyavahārapada 1 §29",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.30",
+      "label": "Vyavahārapada 1 §30",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.31",
+      "label": "Vyavahārapada 1 §31",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.32",
+      "label": "Vyavahārapada 1 §32",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.33",
+      "label": "Vyavahārapada 1 §33",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.34",
+      "label": "Vyavahārapada 1 §34",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.35",
+      "label": "Vyavahārapada 1 §35",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.36",
+      "label": "Vyavahārapada 1 §36",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.37",
+      "label": "Vyavahārapada 1 §37",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.38",
+      "label": "Vyavahārapada 1 §38",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.39",
+      "label": "Vyavahārapada 1 §39",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.40",
+      "label": "Vyavahārapada 1 §40",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.41",
+      "label": "Vyavahārapada 1 §41",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.42",
+      "label": "Vyavahārapada 1 §42",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.43",
+      "label": "Vyavahārapada 1 §43",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.44",
+      "label": "Vyavahārapada 1 §44",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.45",
+      "label": "Vyavahārapada 1 §45",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.46",
+      "label": "Vyavahārapada 1 §46",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.47",
+      "label": "Vyavahārapada 1 §47",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.48",
+      "label": "Vyavahārapada 1 §48",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.49",
+      "label": "Vyavahārapada 1 §49",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.50",
+      "label": "Vyavahārapada 1 §50",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.51",
+      "label": "Vyavahārapada 1 §51",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.52",
+      "label": "Vyavahārapada 1 §52",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.53",
+      "label": "Vyavahārapada 1 §53",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.54",
+      "label": "Vyavahārapada 1 §54",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.55",
+      "label": "Vyavahārapada 1 §55",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.56",
+      "label": "Vyavahārapada 1 §56",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.57",
+      "label": "Vyavahārapada 1 §57",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.58",
+      "label": "Vyavahārapada 1 §58",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.59",
+      "label": "Vyavahārapada 1 §59",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.60",
+      "label": "Vyavahārapada 1 §60",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.61",
+      "label": "Vyavahārapada 1 §61",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.62",
+      "label": "Vyavahārapada 1 §62",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.63",
+      "label": "Vyavahārapada 1 §63",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.64",
+      "label": "Vyavahārapada 1 §64",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.65",
+      "label": "Vyavahārapada 1 §65",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.66",
+      "label": "Vyavahārapada 1 §66",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.67",
+      "label": "Vyavahārapada 1 §67",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.68",
+      "label": "Vyavahārapada 1 §68",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.69",
+      "label": "Vyavahārapada 1 §69",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.70",
+      "label": "Vyavahārapada 1 §70",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.71",
+      "label": "Vyavahārapada 1 §71",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.72",
+      "label": "Vyavahārapada 1 §72",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.73",
+      "label": "Vyavahārapada 1 §73",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.74",
+      "label": "Vyavahārapada 1 §74",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.75",
+      "label": "Vyavahārapada 1 §75",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.76",
+      "label": "Vyavahārapada 1 §76",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.77",
+      "label": "Vyavahārapada 1 §77",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.78",
+      "label": "Vyavahārapada 1 §78",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.79",
+      "label": "Vyavahārapada 1 §79",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.80",
+      "label": "Vyavahārapada 1 §80",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.81",
+      "label": "Vyavahārapada 1 §81",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.82",
+      "label": "Vyavahārapada 1 §82",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.83",
+      "label": "Vyavahārapada 1 §83",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.84",
+      "label": "Vyavahārapada 1 §84",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.85",
+      "label": "Vyavahārapada 1 §85",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.86",
+      "label": "Vyavahārapada 1 §86",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.87",
+      "label": "Vyavahārapada 1 §87",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.88",
+      "label": "Vyavahārapada 1 §88",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.89",
+      "label": "Vyavahārapada 1 §89",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.90",
+      "label": "Vyavahārapada 1 §90",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.91",
+      "label": "Vyavahārapada 1 §91",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.92",
+      "label": "Vyavahārapada 1 §92",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.93",
+      "label": "Vyavahārapada 1 §93",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.94",
+      "label": "Vyavahārapada 1 §94",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.95",
+      "label": "Vyavahārapada 1 §95",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.96",
+      "label": "Vyavahārapada 1 §96",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.97",
+      "label": "Vyavahārapada 1 §97",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.98",
+      "label": "Vyavahārapada 1 §98",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.99",
+      "label": "Vyavahārapada 1 §99",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.100",
+      "label": "Vyavahārapada 1 §100",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.101",
+      "label": "Vyavahārapada 1 §101",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.102",
+      "label": "Vyavahārapada 1 §102",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.103",
+      "label": "Vyavahārapada 1 §103",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.104",
+      "label": "Vyavahārapada 1 §104",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.105",
+      "label": "Vyavahārapada 1 §105",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.106",
+      "label": "Vyavahārapada 1 §106",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.107",
+      "label": "Vyavahārapada 1 §107",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.108",
+      "label": "Vyavahārapada 1 §108",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.109",
+      "label": "Vyavahārapada 1 §109",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.110",
+      "label": "Vyavahārapada 1 §110",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.111",
+      "label": "Vyavahārapada 1 §111",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.112",
+      "label": "Vyavahārapada 1 §112",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.113",
+      "label": "Vyavahārapada 1 §113",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.114",
+      "label": "Vyavahārapada 1 §114",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.115",
+      "label": "Vyavahārapada 1 §115",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.116",
+      "label": "Vyavahārapada 1 §116",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.117",
+      "label": "Vyavahārapada 1 §117",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.118",
+      "label": "Vyavahārapada 1 §118",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.119",
+      "label": "Vyavahārapada 1 §119",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.120",
+      "label": "Vyavahārapada 1 §120",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.121",
+      "label": "Vyavahārapada 1 §121",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.122",
+      "label": "Vyavahārapada 1 §122",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.123",
+      "label": "Vyavahārapada 1 §123",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.124",
+      "label": "Vyavahārapada 1 §124",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.125",
+      "label": "Vyavahārapada 1 §125",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.126",
+      "label": "Vyavahārapada 1 §126",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.127",
+      "label": "Vyavahārapada 1 §127",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.128",
+      "label": "Vyavahārapada 1 §128",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.129",
+      "label": "Vyavahārapada 1 §129",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.130",
+      "label": "Vyavahārapada 1 §130",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.131",
+      "label": "Vyavahārapada 1 §131",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.132",
+      "label": "Vyavahārapada 1 §132",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.133",
+      "label": "Vyavahārapada 1 §133",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.134",
+      "label": "Vyavahārapada 1 §134",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.135",
+      "label": "Vyavahārapada 1 §135",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.136",
+      "label": "Vyavahārapada 1 §136",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.137",
+      "label": "Vyavahārapada 1 §137",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.138",
+      "label": "Vyavahārapada 1 §138",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.139",
+      "label": "Vyavahārapada 1 §139",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.140",
+      "label": "Vyavahārapada 1 §140",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.141",
+      "label": "Vyavahārapada 1 §141",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.142",
+      "label": "Vyavahārapada 1 §142",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.143",
+      "label": "Vyavahārapada 1 §143",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.144",
+      "label": "Vyavahārapada 1 §144",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.145",
+      "label": "Vyavahārapada 1 §145",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.146",
+      "label": "Vyavahārapada 1 §146",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.147",
+      "label": "Vyavahārapada 1 §147",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.148",
+      "label": "Vyavahārapada 1 §148",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.149",
+      "label": "Vyavahārapada 1 §149",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.150",
+      "label": "Vyavahārapada 1 §150",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.151",
+      "label": "Vyavahārapada 1 §151",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.152",
+      "label": "Vyavahārapada 1 §152",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.153",
+      "label": "Vyavahārapada 1 §153",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.154",
+      "label": "Vyavahārapada 1 §154",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.155",
+      "label": "Vyavahārapada 1 §155",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.156",
+      "label": "Vyavahārapada 1 §156",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.157",
+      "label": "Vyavahārapada 1 §157",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.158",
+      "label": "Vyavahārapada 1 §158",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.159",
+      "label": "Vyavahārapada 1 §159",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.160",
+      "label": "Vyavahārapada 1 §160",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.161",
+      "label": "Vyavahārapada 1 §161",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.162",
+      "label": "Vyavahārapada 1 §162",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.163",
+      "label": "Vyavahārapada 1 §163",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.164",
+      "label": "Vyavahārapada 1 §164",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.165",
+      "label": "Vyavahārapada 1 §165",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.166",
+      "label": "Vyavahārapada 1 §166",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.167",
+      "label": "Vyavahārapada 1 §167",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.168",
+      "label": "Vyavahārapada 1 §168",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.169",
+      "label": "Vyavahārapada 1 §169",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.170",
+      "label": "Vyavahārapada 1 §170",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.171",
+      "label": "Vyavahārapada 1 §171",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.172",
+      "label": "Vyavahārapada 1 §172",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.173",
+      "label": "Vyavahārapada 1 §173",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.174",
+      "label": "Vyavahārapada 1 §174",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.175",
+      "label": "Vyavahārapada 1 §175",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.176",
+      "label": "Vyavahārapada 1 §176",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.177",
+      "label": "Vyavahārapada 1 §177",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.178",
+      "label": "Vyavahārapada 1 §178",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.179",
+      "label": "Vyavahārapada 1 §179",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.180",
+      "label": "Vyavahārapada 1 §180",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.181",
+      "label": "Vyavahārapada 1 §181",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.182",
+      "label": "Vyavahārapada 1 §182",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.183",
+      "label": "Vyavahārapada 1 §183",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.184",
+      "label": "Vyavahārapada 1 §184",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.185",
+      "label": "Vyavahārapada 1 §185",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.186",
+      "label": "Vyavahārapada 1 §186",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.187",
+      "label": "Vyavahārapada 1 §187",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.188",
+      "label": "Vyavahārapada 1 §188",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.189",
+      "label": "Vyavahārapada 1 §189",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.190",
+      "label": "Vyavahārapada 1 §190",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.191",
+      "label": "Vyavahārapada 1 §191",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.192",
+      "label": "Vyavahārapada 1 §192",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.193",
+      "label": "Vyavahārapada 1 §193",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.194",
+      "label": "Vyavahārapada 1 §194",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.195",
+      "label": "Vyavahārapada 1 §195",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.196",
+      "label": "Vyavahārapada 1 §196",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.197",
+      "label": "Vyavahārapada 1 §197",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.198",
+      "label": "Vyavahārapada 1 §198",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.199",
+      "label": "Vyavahārapada 1 §199",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.200",
+      "label": "Vyavahārapada 1 §200",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.201",
+      "label": "Vyavahārapada 1 §201",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.202",
+      "label": "Vyavahārapada 1 §202",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.203",
+      "label": "Vyavahārapada 1 §203",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.204",
+      "label": "Vyavahārapada 1 §204",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.205",
+      "label": "Vyavahārapada 1 §205",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.206",
+      "label": "Vyavahārapada 1 §206",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.207",
+      "label": "Vyavahārapada 1 §207",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.208",
+      "label": "Vyavahārapada 1 §208",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.209",
+      "label": "Vyavahārapada 1 §209",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.210",
+      "label": "Vyavahārapada 1 §210",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.211",
+      "label": "Vyavahārapada 1 §211",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.212",
+      "label": "Vyavahārapada 1 §212",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.213",
+      "label": "Vyavahārapada 1 §213",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.214",
+      "label": "Vyavahārapada 1 §214",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.215",
+      "label": "Vyavahārapada 1 §215",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.216",
+      "label": "Vyavahārapada 1 §216",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.217",
+      "label": "Vyavahārapada 1 §217",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.218",
+      "label": "Vyavahārapada 1 §218",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.219",
+      "label": "Vyavahārapada 1 §219",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.220",
+      "label": "Vyavahārapada 1 §220",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.221",
+      "label": "Vyavahārapada 1 §221",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.222",
+      "label": "Vyavahārapada 1 §222",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.223",
+      "label": "Vyavahārapada 1 §223",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v1.224",
+      "label": "Vyavahārapada 1 §224",
+      "chapterRef": "v1"
+    },
+    {
+      "reference": "v2.01",
+      "label": "Vyavahārapada 2 §1",
+      "chapterRef": "v2"
+    },
+    {
+      "reference": "v2.02",
+      "label": "Vyavahārapada 2 §2",
+      "chapterRef": "v2"
+    },
+    {
+      "reference": "v2.03",
+      "label": "Vyavahārapada 2 §3",
+      "chapterRef": "v2"
+    },
+    {
+      "reference": "v2.04",
+      "label": "Vyavahārapada 2 §4",
+      "chapterRef": "v2"
+    },
+    {
+      "reference": "v2.05",
+      "label": "Vyavahārapada 2 §5",
+      "chapterRef": "v2"
+    },
+    {
+      "reference": "v2.06",
+      "label": "Vyavahārapada 2 §6",
+      "chapterRef": "v2"
+    },
+    {
+      "reference": "v2.07",
+      "label": "Vyavahārapada 2 §7",
+      "chapterRef": "v2"
+    },
+    {
+      "reference": "v2.08",
+      "label": "Vyavahārapada 2 §8",
+      "chapterRef": "v2"
+    },
+    {
+      "reference": "v3.01",
+      "label": "Vyavahārapada 3 §1",
+      "chapterRef": "v3"
+    },
+    {
+      "reference": "v3.02",
+      "label": "Vyavahārapada 3 §2",
+      "chapterRef": "v3"
+    },
+    {
+      "reference": "v3.03",
+      "label": "Vyavahārapada 3 §3",
+      "chapterRef": "v3"
+    },
+    {
+      "reference": "v3.04",
+      "label": "Vyavahārapada 3 §4",
+      "chapterRef": "v3"
+    },
+    {
+      "reference": "v3.05",
+      "label": "Vyavahārapada 3 §5",
+      "chapterRef": "v3"
+    },
+    {
+      "reference": "v3.06",
+      "label": "Vyavahārapada 3 §6",
+      "chapterRef": "v3"
+    },
+    {
+      "reference": "v3.07",
+      "label": "Vyavahārapada 3 §7",
+      "chapterRef": "v3"
+    },
+    {
+      "reference": "v3.08",
+      "label": "Vyavahārapada 3 §8",
+      "chapterRef": "v3"
+    },
+    {
+      "reference": "v3.09",
+      "label": "Vyavahārapada 3 §9",
+      "chapterRef": "v3"
+    },
+    {
+      "reference": "v3.10",
+      "label": "Vyavahārapada 3 §10",
+      "chapterRef": "v3"
+    },
+    {
+      "reference": "v3.11",
+      "label": "Vyavahārapada 3 §11",
+      "chapterRef": "v3"
+    },
+    {
+      "reference": "v3.12",
+      "label": "Vyavahārapada 3 §12",
+      "chapterRef": "v3"
+    },
+    {
+      "reference": "v3.13",
+      "label": "Vyavahārapada 3 §13",
+      "chapterRef": "v3"
+    },
+    {
+      "reference": "v3.14",
+      "label": "Vyavahārapada 3 §14",
+      "chapterRef": "v3"
+    },
+    {
+      "reference": "v3.15",
+      "label": "Vyavahārapada 3 §15",
+      "chapterRef": "v3"
+    },
+    {
+      "reference": "v3.16",
+      "label": "Vyavahārapada 3 §16",
+      "chapterRef": "v3"
+    },
+    {
+      "reference": "v4.01",
+      "label": "Vyavahārapada 4 §1",
+      "chapterRef": "v4"
+    },
+    {
+      "reference": "v4.02",
+      "label": "Vyavahārapada 4 §2",
+      "chapterRef": "v4"
+    },
+    {
+      "reference": "v4.03",
+      "label": "Vyavahārapada 4 §3",
+      "chapterRef": "v4"
+    },
+    {
+      "reference": "v4.04",
+      "label": "Vyavahārapada 4 §4",
+      "chapterRef": "v4"
+    },
+    {
+      "reference": "v4.05",
+      "label": "Vyavahārapada 4 §5",
+      "chapterRef": "v4"
+    },
+    {
+      "reference": "v4.06",
+      "label": "Vyavahārapada 4 §6",
+      "chapterRef": "v4"
+    },
+    {
+      "reference": "v4.07",
+      "label": "Vyavahārapada 4 §7",
+      "chapterRef": "v4"
+    },
+    {
+      "reference": "v4.08",
+      "label": "Vyavahārapada 4 §8",
+      "chapterRef": "v4"
+    },
+    {
+      "reference": "v4.09",
+      "label": "Vyavahārapada 4 §9",
+      "chapterRef": "v4"
+    },
+    {
+      "reference": "v4.10",
+      "label": "Vyavahārapada 4 §10",
+      "chapterRef": "v4"
+    },
+    {
+      "reference": "v4.11",
+      "label": "Vyavahārapada 4 §11",
+      "chapterRef": "v4"
+    },
+    {
+      "reference": "v5.01",
+      "label": "Vyavahārapada 5 §1",
+      "chapterRef": "v5"
+    },
+    {
+      "reference": "v5.02",
+      "label": "Vyavahārapada 5 §2",
+      "chapterRef": "v5"
+    },
+    {
+      "reference": "v5.03",
+      "label": "Vyavahārapada 5 §3",
+      "chapterRef": "v5"
+    },
+    {
+      "reference": "v5.04",
+      "label": "Vyavahārapada 5 §4",
+      "chapterRef": "v5"
+    },
+    {
+      "reference": "v5.05",
+      "label": "Vyavahārapada 5 §5",
+      "chapterRef": "v5"
+    },
+    {
+      "reference": "v5.06",
+      "label": "Vyavahārapada 5 §6",
+      "chapterRef": "v5"
+    },
+    {
+      "reference": "v5.07",
+      "label": "Vyavahārapada 5 §7",
+      "chapterRef": "v5"
+    },
+    {
+      "reference": "v5.08",
+      "label": "Vyavahārapada 5 §8",
+      "chapterRef": "v5"
+    },
+    {
+      "reference": "v5.09",
+      "label": "Vyavahārapada 5 §9",
+      "chapterRef": "v5"
+    },
+    {
+      "reference": "v5.10",
+      "label": "Vyavahārapada 5 §10",
+      "chapterRef": "v5"
+    },
+    {
+      "reference": "v5.11",
+      "label": "Vyavahārapada 5 §11",
+      "chapterRef": "v5"
+    },
+    {
+      "reference": "v5.12",
+      "label": "Vyavahārapada 5 §12",
+      "chapterRef": "v5"
+    },
+    {
+      "reference": "v5.13",
+      "label": "Vyavahārapada 5 §13",
+      "chapterRef": "v5"
+    },
+    {
+      "reference": "v5.14",
+      "label": "Vyavahārapada 5 §14",
+      "chapterRef": "v5"
+    },
+    {
+      "reference": "v5.15",
+      "label": "Vyavahārapada 5 §15",
+      "chapterRef": "v5"
+    },
+    {
+      "reference": "v5.16",
+      "label": "Vyavahārapada 5 §16",
+      "chapterRef": "v5"
+    },
+    {
+      "reference": "v5.17",
+      "label": "Vyavahārapada 5 §17",
+      "chapterRef": "v5"
+    },
+    {
+      "reference": "v5.18",
+      "label": "Vyavahārapada 5 §18",
+      "chapterRef": "v5"
+    },
+    {
+      "reference": "v5.19",
+      "label": "Vyavahārapada 5 §19",
+      "chapterRef": "v5"
+    },
+    {
+      "reference": "v5.20",
+      "label": "Vyavahārapada 5 §20",
+      "chapterRef": "v5"
+    },
+    {
+      "reference": "v5.21",
+      "label": "Vyavahārapada 5 §21",
+      "chapterRef": "v5"
+    },
+    {
+      "reference": "v5.22",
+      "label": "Vyavahārapada 5 §22",
+      "chapterRef": "v5"
+    },
+    {
+      "reference": "v5.23",
+      "label": "Vyavahārapada 5 §23",
+      "chapterRef": "v5"
+    },
+    {
+      "reference": "v5.24",
+      "label": "Vyavahārapada 5 §24",
+      "chapterRef": "v5"
+    },
+    {
+      "reference": "v5.25",
+      "label": "Vyavahārapada 5 §25",
+      "chapterRef": "v5"
+    },
+    {
+      "reference": "v5.26",
+      "label": "Vyavahārapada 5 §26",
+      "chapterRef": "v5"
+    },
+    {
+      "reference": "v5.27",
+      "label": "Vyavahārapada 5 §27",
+      "chapterRef": "v5"
+    },
+    {
+      "reference": "v5.28",
+      "label": "Vyavahārapada 5 §28",
+      "chapterRef": "v5"
+    },
+    {
+      "reference": "v5.29",
+      "label": "Vyavahārapada 5 §29",
+      "chapterRef": "v5"
+    },
+    {
+      "reference": "v5.30",
+      "label": "Vyavahārapada 5 §30",
+      "chapterRef": "v5"
+    },
+    {
+      "reference": "v5.31",
+      "label": "Vyavahārapada 5 §31",
+      "chapterRef": "v5"
+    },
+    {
+      "reference": "v5.32",
+      "label": "Vyavahārapada 5 §32",
+      "chapterRef": "v5"
+    },
+    {
+      "reference": "v5.33",
+      "label": "Vyavahārapada 5 §33",
+      "chapterRef": "v5"
+    },
+    {
+      "reference": "v5.34",
+      "label": "Vyavahārapada 5 §34",
+      "chapterRef": "v5"
+    },
+    {
+      "reference": "v5.35",
+      "label": "Vyavahārapada 5 §35",
+      "chapterRef": "v5"
+    },
+    {
+      "reference": "v5.36",
+      "label": "Vyavahārapada 5 §36",
+      "chapterRef": "v5"
+    },
+    {
+      "reference": "v5.37",
+      "label": "Vyavahārapada 5 §37",
+      "chapterRef": "v5"
+    },
+    {
+      "reference": "v5.38",
+      "label": "Vyavahārapada 5 §38",
+      "chapterRef": "v5"
+    },
+    {
+      "reference": "v5.39",
+      "label": "Vyavahārapada 5 §39",
+      "chapterRef": "v5"
+    },
+    {
+      "reference": "v5.40",
+      "label": "Vyavahārapada 5 §40",
+      "chapterRef": "v5"
+    },
+    {
+      "reference": "v5.41",
+      "label": "Vyavahārapada 5 §41",
+      "chapterRef": "v5"
+    },
+    {
+      "reference": "v5.42",
+      "label": "Vyavahārapada 5 §42",
+      "chapterRef": "v5"
+    },
+    {
+      "reference": "v6.1",
+      "label": "Vyavahārapada 6 §1",
+      "chapterRef": "v6"
+    },
+    {
+      "reference": "v6.2",
+      "label": "Vyavahārapada 6 §2",
+      "chapterRef": "v6"
+    },
+    {
+      "reference": "v6.3",
+      "label": "Vyavahārapada 6 §3",
+      "chapterRef": "v6"
+    },
+    {
+      "reference": "v6.4",
+      "label": "Vyavahārapada 6 §4",
+      "chapterRef": "v6"
+    },
+    {
+      "reference": "v6.5",
+      "label": "Vyavahārapada 6 §5",
+      "chapterRef": "v6"
+    },
+    {
+      "reference": "v6.6",
+      "label": "Vyavahārapada 6 §6",
+      "chapterRef": "v6"
+    },
+    {
+      "reference": "v6.7",
+      "label": "Vyavahārapada 6 §7",
+      "chapterRef": "v6"
+    },
+    {
+      "reference": "v6.8",
+      "label": "Vyavahārapada 6 §8",
+      "chapterRef": "v6"
+    },
+    {
+      "reference": "v6.9",
+      "label": "Vyavahārapada 6 §9",
+      "chapterRef": "v6"
+    },
+    {
+      "reference": "v6.10",
+      "label": "Vyavahārapada 6 §10",
+      "chapterRef": "v6"
+    },
+    {
+      "reference": "v6.11",
+      "label": "Vyavahārapada 6 §11",
+      "chapterRef": "v6"
+    },
+    {
+      "reference": "v6.12",
+      "label": "Vyavahārapada 6 §12",
+      "chapterRef": "v6"
+    },
+    {
+      "reference": "v6.13",
+      "label": "Vyavahārapada 6 §13",
+      "chapterRef": "v6"
+    },
+    {
+      "reference": "v6.14",
+      "label": "Vyavahārapada 6 §14",
+      "chapterRef": "v6"
+    },
+    {
+      "reference": "v6.15",
+      "label": "Vyavahārapada 6 §15",
+      "chapterRef": "v6"
+    },
+    {
+      "reference": "v6.16",
+      "label": "Vyavahārapada 6 §16",
+      "chapterRef": "v6"
+    },
+    {
+      "reference": "v6.17",
+      "label": "Vyavahārapada 6 §17",
+      "chapterRef": "v6"
+    },
+    {
+      "reference": "v6.18",
+      "label": "Vyavahārapada 6 §18",
+      "chapterRef": "v6"
+    },
+    {
+      "reference": "v6.19",
+      "label": "Vyavahārapada 6 §19",
+      "chapterRef": "v6"
+    },
+    {
+      "reference": "v6.20",
+      "label": "Vyavahārapada 6 §20",
+      "chapterRef": "v6"
+    },
+    {
+      "reference": "v6.21",
+      "label": "Vyavahārapada 6 §21",
+      "chapterRef": "v6"
+    },
+    {
+      "reference": "v6.22",
+      "label": "Vyavahārapada 6 §22",
+      "chapterRef": "v6"
+    },
+    {
+      "reference": "v6.23",
+      "label": "Vyavahārapada 6 §23",
+      "chapterRef": "v6"
+    },
+    {
+      "reference": "v7.1",
+      "label": "Vyavahārapada 7 §1",
+      "chapterRef": "v7"
+    },
+    {
+      "reference": "v7.2",
+      "label": "Vyavahārapada 7 §2",
+      "chapterRef": "v7"
+    },
+    {
+      "reference": "v7.3",
+      "label": "Vyavahārapada 7 §3",
+      "chapterRef": "v7"
+    },
+    {
+      "reference": "v7.4",
+      "label": "Vyavahārapada 7 §4",
+      "chapterRef": "v7"
+    },
+    {
+      "reference": "v7.5",
+      "label": "Vyavahārapada 7 §5",
+      "chapterRef": "v7"
+    },
+    {
+      "reference": "v7.6",
+      "label": "Vyavahārapada 7 §6",
+      "chapterRef": "v7"
+    },
+    {
+      "reference": "v7.7",
+      "label": "Vyavahārapada 7 §7",
+      "chapterRef": "v7"
+    },
+    {
+      "reference": "v7.8",
+      "label": "Vyavahārapada 7 §8",
+      "chapterRef": "v7"
+    },
+    {
+      "reference": "v8.1",
+      "label": "Vyavahārapada 8 §1",
+      "chapterRef": "v8"
+    },
+    {
+      "reference": "v8.2",
+      "label": "Vyavahārapada 8 §2",
+      "chapterRef": "v8"
+    },
+    {
+      "reference": "v8.3",
+      "label": "Vyavahārapada 8 §3",
+      "chapterRef": "v8"
+    },
+    {
+      "reference": "v8.4",
+      "label": "Vyavahārapada 8 §4",
+      "chapterRef": "v8"
+    },
+    {
+      "reference": "v8.5",
+      "label": "Vyavahārapada 8 §5",
+      "chapterRef": "v8"
+    },
+    {
+      "reference": "v8.6",
+      "label": "Vyavahārapada 8 §6",
+      "chapterRef": "v8"
+    },
+    {
+      "reference": "v8.7",
+      "label": "Vyavahārapada 8 §7",
+      "chapterRef": "v8"
+    },
+    {
+      "reference": "v8.8",
+      "label": "Vyavahārapada 8 §8",
+      "chapterRef": "v8"
+    },
+    {
+      "reference": "v8.9",
+      "label": "Vyavahārapada 8 §9",
+      "chapterRef": "v8"
+    },
+    {
+      "reference": "v8.10",
+      "label": "Vyavahārapada 8 §10",
+      "chapterRef": "v8"
+    },
+    {
+      "reference": "v8.11",
+      "label": "Vyavahārapada 8 §11",
+      "chapterRef": "v8"
+    },
+    {
+      "reference": "v8.12",
+      "label": "Vyavahārapada 8 §12",
+      "chapterRef": "v8"
+    },
+    {
+      "reference": "v9.1",
+      "label": "Vyavahārapada 9 §1",
+      "chapterRef": "v9"
+    },
+    {
+      "reference": "v9.2",
+      "label": "Vyavahārapada 9 §2",
+      "chapterRef": "v9"
+    },
+    {
+      "reference": "v9.3",
+      "label": "Vyavahārapada 9 §3",
+      "chapterRef": "v9"
+    },
+    {
+      "reference": "v9.4",
+      "label": "Vyavahārapada 9 §4",
+      "chapterRef": "v9"
+    },
+    {
+      "reference": "v9.5",
+      "label": "Vyavahārapada 9 §5",
+      "chapterRef": "v9"
+    },
+    {
+      "reference": "v9.6",
+      "label": "Vyavahārapada 9 §6",
+      "chapterRef": "v9"
+    },
+    {
+      "reference": "v9.7",
+      "label": "Vyavahārapada 9 §7",
+      "chapterRef": "v9"
+    },
+    {
+      "reference": "v9.8",
+      "label": "Vyavahārapada 9 §8",
+      "chapterRef": "v9"
+    },
+    {
+      "reference": "v9.9",
+      "label": "Vyavahārapada 9 §9",
+      "chapterRef": "v9"
+    },
+    {
+      "reference": "v9.10",
+      "label": "Vyavahārapada 9 §10",
+      "chapterRef": "v9"
+    },
+    {
+      "reference": "v9.11",
+      "label": "Vyavahārapada 9 §11",
+      "chapterRef": "v9"
+    },
+    {
+      "reference": "v9.12",
+      "label": "Vyavahārapada 9 §12",
+      "chapterRef": "v9"
+    },
+    {
+      "reference": "v9.13",
+      "label": "Vyavahārapada 9 §13",
+      "chapterRef": "v9"
+    },
+    {
+      "reference": "v9.14",
+      "label": "Vyavahārapada 9 §14",
+      "chapterRef": "v9"
+    },
+    {
+      "reference": "v9.15",
+      "label": "Vyavahārapada 9 §15",
+      "chapterRef": "v9"
+    },
+    {
+      "reference": "v9.16",
+      "label": "Vyavahārapada 9 §16",
+      "chapterRef": "v9"
+    },
+    {
+      "reference": "v10.1",
+      "label": "Vyavahārapada 10 §1",
+      "chapterRef": "v10"
+    },
+    {
+      "reference": "v10.2",
+      "label": "Vyavahārapada 10 §2",
+      "chapterRef": "v10"
+    },
+    {
+      "reference": "v10.3",
+      "label": "Vyavahārapada 10 §3",
+      "chapterRef": "v10"
+    },
+    {
+      "reference": "v10.4",
+      "label": "Vyavahārapada 10 §4",
+      "chapterRef": "v10"
+    },
+    {
+      "reference": "v10.5",
+      "label": "Vyavahārapada 10 §5",
+      "chapterRef": "v10"
+    },
+    {
+      "reference": "v10.6",
+      "label": "Vyavahārapada 10 §6",
+      "chapterRef": "v10"
+    },
+    {
+      "reference": "v10.7",
+      "label": "Vyavahārapada 10 §7",
+      "chapterRef": "v10"
+    },
+    {
+      "reference": "v11.1",
+      "label": "Vyavahārapada 11 §1",
+      "chapterRef": "v11"
+    },
+    {
+      "reference": "v11.2",
+      "label": "Vyavahārapada 11 §2",
+      "chapterRef": "v11"
+    },
+    {
+      "reference": "v11.3",
+      "label": "Vyavahārapada 11 §3",
+      "chapterRef": "v11"
+    },
+    {
+      "reference": "v11.4",
+      "label": "Vyavahārapada 11 §4",
+      "chapterRef": "v11"
+    },
+    {
+      "reference": "v11.5",
+      "label": "Vyavahārapada 11 §5",
+      "chapterRef": "v11"
+    },
+    {
+      "reference": "v11.6",
+      "label": "Vyavahārapada 11 §6",
+      "chapterRef": "v11"
+    },
+    {
+      "reference": "v11.7",
+      "label": "Vyavahārapada 11 §7",
+      "chapterRef": "v11"
+    },
+    {
+      "reference": "v11.8",
+      "label": "Vyavahārapada 11 §8",
+      "chapterRef": "v11"
+    },
+    {
+      "reference": "v11.9",
+      "label": "Vyavahārapada 11 §9",
+      "chapterRef": "v11"
+    },
+    {
+      "reference": "v11.10",
+      "label": "Vyavahārapada 11 §10",
+      "chapterRef": "v11"
+    },
+    {
+      "reference": "v11.11",
+      "label": "Vyavahārapada 11 §11",
+      "chapterRef": "v11"
+    },
+    {
+      "reference": "v11.12",
+      "label": "Vyavahārapada 11 §12",
+      "chapterRef": "v11"
+    },
+    {
+      "reference": "v11.13",
+      "label": "Vyavahārapada 11 §13",
+      "chapterRef": "v11"
+    },
+    {
+      "reference": "v11.14",
+      "label": "Vyavahārapada 11 §14",
+      "chapterRef": "v11"
+    },
+    {
+      "reference": "v11.15",
+      "label": "Vyavahārapada 11 §15",
+      "chapterRef": "v11"
+    },
+    {
+      "reference": "v11.16",
+      "label": "Vyavahārapada 11 §16",
+      "chapterRef": "v11"
+    },
+    {
+      "reference": "v11.17",
+      "label": "Vyavahārapada 11 §17",
+      "chapterRef": "v11"
+    },
+    {
+      "reference": "v11.18",
+      "label": "Vyavahārapada 11 §18",
+      "chapterRef": "v11"
+    },
+    {
+      "reference": "v11.19",
+      "label": "Vyavahārapada 11 §19",
+      "chapterRef": "v11"
+    },
+    {
+      "reference": "v11.20",
+      "label": "Vyavahārapada 11 §20",
+      "chapterRef": "v11"
+    },
+    {
+      "reference": "v11.21",
+      "label": "Vyavahārapada 11 §21",
+      "chapterRef": "v11"
+    },
+    {
+      "reference": "v11.22",
+      "label": "Vyavahārapada 11 §22",
+      "chapterRef": "v11"
+    },
+    {
+      "reference": "v11.23",
+      "label": "Vyavahārapada 11 §23",
+      "chapterRef": "v11"
+    },
+    {
+      "reference": "v11.24",
+      "label": "Vyavahārapada 11 §24",
+      "chapterRef": "v11"
+    },
+    {
+      "reference": "v11.25",
+      "label": "Vyavahārapada 11 §25",
+      "chapterRef": "v11"
+    },
+    {
+      "reference": "v11.26",
+      "label": "Vyavahārapada 11 §26",
+      "chapterRef": "v11"
+    },
+    {
+      "reference": "v11.27",
+      "label": "Vyavahārapada 11 §27",
+      "chapterRef": "v11"
+    },
+    {
+      "reference": "v11.28",
+      "label": "Vyavahārapada 11 §28",
+      "chapterRef": "v11"
+    },
+    {
+      "reference": "v11.29",
+      "label": "Vyavahārapada 11 §29",
+      "chapterRef": "v11"
+    },
+    {
+      "reference": "v11.30",
+      "label": "Vyavahārapada 11 §30",
+      "chapterRef": "v11"
+    },
+    {
+      "reference": "v11.31",
+      "label": "Vyavahārapada 11 §31",
+      "chapterRef": "v11"
+    },
+    {
+      "reference": "v11.32",
+      "label": "Vyavahārapada 11 §32",
+      "chapterRef": "v11"
+    },
+    {
+      "reference": "v11.33",
+      "label": "Vyavahārapada 11 §33",
+      "chapterRef": "v11"
+    },
+    {
+      "reference": "v11.34",
+      "label": "Vyavahārapada 11 §34",
+      "chapterRef": "v11"
+    },
+    {
+      "reference": "v11.35",
+      "label": "Vyavahārapada 11 §35",
+      "chapterRef": "v11"
+    },
+    {
+      "reference": "v11.36",
+      "label": "Vyavahārapada 11 §36",
+      "chapterRef": "v11"
+    },
+    {
+      "reference": "v11.37",
+      "label": "Vyavahārapada 11 §37",
+      "chapterRef": "v11"
+    },
+    {
+      "reference": "v11.38",
+      "label": "Vyavahārapada 11 §38",
+      "chapterRef": "v11"
+    },
+    {
+      "reference": "v12.1",
+      "label": "Vyavahārapada 12 §1",
+      "chapterRef": "v12"
+    },
+    {
+      "reference": "v12.2",
+      "label": "Vyavahārapada 12 §2",
+      "chapterRef": "v12"
+    },
+    {
+      "reference": "v12.3",
+      "label": "Vyavahārapada 12 §3",
+      "chapterRef": "v12"
+    },
+    {
+      "reference": "v12.4",
+      "label": "Vyavahārapada 12 §4",
+      "chapterRef": "v12"
+    },
+    {
+      "reference": "v12.5",
+      "label": "Vyavahārapada 12 §5",
+      "chapterRef": "v12"
+    },
+    {
+      "reference": "v12.6",
+      "label": "Vyavahārapada 12 §6",
+      "chapterRef": "v12"
+    },
+    {
+      "reference": "v12.7",
+      "label": "Vyavahārapada 12 §7",
+      "chapterRef": "v12"
+    },
+    {
+      "reference": "v12.8",
+      "label": "Vyavahārapada 12 §8",
+      "chapterRef": "v12"
+    },
+    {
+      "reference": "v12.9",
+      "label": "Vyavahārapada 12 §9",
+      "chapterRef": "v12"
+    },
+    {
+      "reference": "v12.10",
+      "label": "Vyavahārapada 12 §10",
+      "chapterRef": "v12"
+    },
+    {
+      "reference": "v12.11",
+      "label": "Vyavahārapada 12 §11",
+      "chapterRef": "v12"
+    },
+    {
+      "reference": "v12.12",
+      "label": "Vyavahārapada 12 §12",
+      "chapterRef": "v12"
+    },
+    {
+      "reference": "v12.13",
+      "label": "Vyavahārapada 12 §13",
+      "chapterRef": "v12"
+    },
+    {
+      "reference": "v12.14",
+      "label": "Vyavahārapada 12 §14",
+      "chapterRef": "v12"
+    },
+    {
+      "reference": "v12.15",
+      "label": "Vyavahārapada 12 §15",
+      "chapterRef": "v12"
+    },
+    {
+      "reference": "v12.16",
+      "label": "Vyavahārapada 12 §16",
+      "chapterRef": "v12"
+    },
+    {
+      "reference": "v12.17",
+      "label": "Vyavahārapada 12 §17",
+      "chapterRef": "v12"
+    },
+    {
+      "reference": "v12.18",
+      "label": "Vyavahārapada 12 §18",
+      "chapterRef": "v12"
+    },
+    {
+      "reference": "v12.19",
+      "label": "Vyavahārapada 12 §19",
+      "chapterRef": "v12"
+    },
+    {
+      "reference": "v12.20",
+      "label": "Vyavahārapada 12 §20",
+      "chapterRef": "v12"
+    },
+    {
+      "reference": "v12.21",
+      "label": "Vyavahārapada 12 §21",
+      "chapterRef": "v12"
+    },
+    {
+      "reference": "v12.22",
+      "label": "Vyavahārapada 12 §22",
+      "chapterRef": "v12"
+    },
+    {
+      "reference": "v12.23",
+      "label": "Vyavahārapada 12 §23",
+      "chapterRef": "v12"
+    },
+    {
+      "reference": "v12.24",
+      "label": "Vyavahārapada 12 §24",
+      "chapterRef": "v12"
+    },
+    {
+      "reference": "v12.25",
+      "label": "Vyavahārapada 12 §25",
+      "chapterRef": "v12"
+    },
+    {
+      "reference": "v12.26",
+      "label": "Vyavahārapada 12 §26",
+      "chapterRef": "v12"
+    },
+    {
+      "reference": "v12.27",
+      "label": "Vyavahārapada 12 §27",
+      "chapterRef": "v12"
+    },
+    {
+      "reference": "v12.28",
+      "label": "Vyavahārapada 12 §28",
+      "chapterRef": "v12"
+    },
+    {
+      "reference": "v12.29",
+      "label": "Vyavahārapada 12 §29",
+      "chapterRef": "v12"
+    },
+    {
+      "reference": "v12.30",
+      "label": "Vyavahārapada 12 §30",
+      "chapterRef": "v12"
+    },
+    {
+      "reference": "v12.31",
+      "label": "Vyavahārapada 12 §31",
+      "chapterRef": "v12"
+    },
+    {
+      "reference": "v12.32",
+      "label": "Vyavahārapada 12 §32",
+      "chapterRef": "v12"
+    },
+    {
+      "reference": "v12.33",
+      "label": "Vyavahārapada 12 §33",
+      "chapterRef": "v12"
+    },
+    {
+      "reference": "v12.34",
+      "label": "Vyavahārapada 12 §34",
+      "chapterRef": "v12"
+    },
+    {
+      "reference": "v12.35",
+      "label": "Vyavahārapada 12 §35",
+      "chapterRef": "v12"
+    },
+    {
+      "reference": "v12.36",
+      "label": "Vyavahārapada 12 §36",
+      "chapterRef": "v12"
+    },
+    {
+      "reference": "v12.37",
+      "label": "Vyavahārapada 12 §37",
+      "chapterRef": "v12"
+    },
+    {
+      "reference": "v12.38",
+      "label": "Vyavahārapada 12 §38",
+      "chapterRef": "v12"
+    },
+    {
+      "reference": "v12.39",
+      "label": "Vyavahārapada 12 §39",
+      "chapterRef": "v12"
+    },
+    {
+      "reference": "v12.40",
+      "label": "Vyavahārapada 12 §40",
+      "chapterRef": "v12"
+    },
+    {
+      "reference": "v12.41",
+      "label": "Vyavahārapada 12 §41",
+      "chapterRef": "v12"
+    },
+    {
+      "reference": "v12.42",
+      "label": "Vyavahārapada 12 §42",
+      "chapterRef": "v12"
+    },
+    {
+      "reference": "v12.43",
+      "label": "Vyavahārapada 12 §43",
+      "chapterRef": "v12"
+    },
+    {
+      "reference": "v12.44",
+      "label": "Vyavahārapada 12 §44",
+      "chapterRef": "v12"
+    },
+    {
+      "reference": "v12.45",
+      "label": "Vyavahārapada 12 §45",
+      "chapterRef": "v12"
+    },
+    {
+      "reference": "v12.46",
+      "label": "Vyavahārapada 12 §46",
+      "chapterRef": "v12"
+    },
+    {
+      "reference": "v12.47",
+      "label": "Vyavahārapada 12 §47",
+      "chapterRef": "v12"
+    },
+    {
+      "reference": "v12.48",
+      "label": "Vyavahārapada 12 §48",
+      "chapterRef": "v12"
+    },
+    {
+      "reference": "v12.49",
+      "label": "Vyavahārapada 12 §49",
+      "chapterRef": "v12"
+    },
+    {
+      "reference": "v12.50",
+      "label": "Vyavahārapada 12 §50",
+      "chapterRef": "v12"
+    },
+    {
+      "reference": "v12.51",
+      "label": "Vyavahārapada 12 §51",
+      "chapterRef": "v12"
+    },
+    {
+      "reference": "v12.52",
+      "label": "Vyavahārapada 12 §52",
+      "chapterRef": "v12"
+    },
+    {
+      "reference": "v12.53",
+      "label": "Vyavahārapada 12 §53",
+      "chapterRef": "v12"
+    },
+    {
+      "reference": "v12.54",
+      "label": "Vyavahārapada 12 §54",
+      "chapterRef": "v12"
+    },
+    {
+      "reference": "v12.55",
+      "label": "Vyavahārapada 12 §55",
+      "chapterRef": "v12"
+    },
+    {
+      "reference": "v12.56",
+      "label": "Vyavahārapada 12 §56",
+      "chapterRef": "v12"
+    },
+    {
+      "reference": "v12.57",
+      "label": "Vyavahārapada 12 §57",
+      "chapterRef": "v12"
+    },
+    {
+      "reference": "v12.58",
+      "label": "Vyavahārapada 12 §58",
+      "chapterRef": "v12"
+    },
+    {
+      "reference": "v12.59",
+      "label": "Vyavahārapada 12 §59",
+      "chapterRef": "v12"
+    },
+    {
+      "reference": "v12.60",
+      "label": "Vyavahārapada 12 §60",
+      "chapterRef": "v12"
+    },
+    {
+      "reference": "v12.61",
+      "label": "Vyavahārapada 12 §61",
+      "chapterRef": "v12"
+    },
+    {
+      "reference": "v12.62",
+      "label": "Vyavahārapada 12 §62",
+      "chapterRef": "v12"
+    },
+    {
+      "reference": "v12.63",
+      "label": "Vyavahārapada 12 §63",
+      "chapterRef": "v12"
+    },
+    {
+      "reference": "v12.64",
+      "label": "Vyavahārapada 12 §64",
+      "chapterRef": "v12"
+    },
+    {
+      "reference": "v12.65",
+      "label": "Vyavahārapada 12 §65",
+      "chapterRef": "v12"
+    },
+    {
+      "reference": "v12.66",
+      "label": "Vyavahārapada 12 §66",
+      "chapterRef": "v12"
+    },
+    {
+      "reference": "v12.67",
+      "label": "Vyavahārapada 12 §67",
+      "chapterRef": "v12"
+    },
+    {
+      "reference": "v12.68",
+      "label": "Vyavahārapada 12 §68",
+      "chapterRef": "v12"
+    },
+    {
+      "reference": "v12.69",
+      "label": "Vyavahārapada 12 §69",
+      "chapterRef": "v12"
+    },
+    {
+      "reference": "v12.70",
+      "label": "Vyavahārapada 12 §70",
+      "chapterRef": "v12"
+    },
+    {
+      "reference": "v12.71",
+      "label": "Vyavahārapada 12 §71",
+      "chapterRef": "v12"
+    },
+    {
+      "reference": "v12.72",
+      "label": "Vyavahārapada 12 §72",
+      "chapterRef": "v12"
+    },
+    {
+      "reference": "v12.73",
+      "label": "Vyavahārapada 12 §73",
+      "chapterRef": "v12"
+    },
+    {
+      "reference": "v12.74",
+      "label": "Vyavahārapada 12 §74",
+      "chapterRef": "v12"
+    },
+    {
+      "reference": "v12.75",
+      "label": "Vyavahārapada 12 §75",
+      "chapterRef": "v12"
+    },
+    {
+      "reference": "v12.76",
+      "label": "Vyavahārapada 12 §76",
+      "chapterRef": "v12"
+    },
+    {
+      "reference": "v12.77",
+      "label": "Vyavahārapada 12 §77",
+      "chapterRef": "v12"
+    },
+    {
+      "reference": "v12.78",
+      "label": "Vyavahārapada 12 §78",
+      "chapterRef": "v12"
+    },
+    {
+      "reference": "v12.79",
+      "label": "Vyavahārapada 12 §79",
+      "chapterRef": "v12"
+    },
+    {
+      "reference": "v12.80",
+      "label": "Vyavahārapada 12 §80",
+      "chapterRef": "v12"
+    },
+    {
+      "reference": "v12.81",
+      "label": "Vyavahārapada 12 §81",
+      "chapterRef": "v12"
+    },
+    {
+      "reference": "v12.82",
+      "label": "Vyavahārapada 12 §82",
+      "chapterRef": "v12"
+    },
+    {
+      "reference": "v12.83",
+      "label": "Vyavahārapada 12 §83",
+      "chapterRef": "v12"
+    },
+    {
+      "reference": "v12.84",
+      "label": "Vyavahārapada 12 §84",
+      "chapterRef": "v12"
+    },
+    {
+      "reference": "v12.85",
+      "label": "Vyavahārapada 12 §85",
+      "chapterRef": "v12"
+    },
+    {
+      "reference": "v12.86",
+      "label": "Vyavahārapada 12 §86",
+      "chapterRef": "v12"
+    },
+    {
+      "reference": "v12.87",
+      "label": "Vyavahārapada 12 §87",
+      "chapterRef": "v12"
+    },
+    {
+      "reference": "v12.88",
+      "label": "Vyavahārapada 12 §88",
+      "chapterRef": "v12"
+    },
+    {
+      "reference": "v12.89",
+      "label": "Vyavahārapada 12 §89",
+      "chapterRef": "v12"
+    },
+    {
+      "reference": "v12.90",
+      "label": "Vyavahārapada 12 §90",
+      "chapterRef": "v12"
+    },
+    {
+      "reference": "v12.91",
+      "label": "Vyavahārapada 12 §91",
+      "chapterRef": "v12"
+    },
+    {
+      "reference": "v12.92",
+      "label": "Vyavahārapada 12 §92",
+      "chapterRef": "v12"
+    },
+    {
+      "reference": "v12.93",
+      "label": "Vyavahārapada 12 §93",
+      "chapterRef": "v12"
+    },
+    {
+      "reference": "v12.94",
+      "label": "Vyavahārapada 12 §94",
+      "chapterRef": "v12"
+    },
+    {
+      "reference": "v12.95",
+      "label": "Vyavahārapada 12 §95",
+      "chapterRef": "v12"
+    },
+    {
+      "reference": "v12.96",
+      "label": "Vyavahārapada 12 §96",
+      "chapterRef": "v12"
+    },
+    {
+      "reference": "v12.97",
+      "label": "Vyavahārapada 12 §97",
+      "chapterRef": "v12"
+    },
+    {
+      "reference": "v12.98",
+      "label": "Vyavahārapada 12 §98",
+      "chapterRef": "v12"
+    },
+    {
+      "reference": "v12.99",
+      "label": "Vyavahārapada 12 §99",
+      "chapterRef": "v12"
+    },
+    {
+      "reference": "v12.100",
+      "label": "Vyavahārapada 12 §100",
+      "chapterRef": "v12"
+    },
+    {
+      "reference": "v12.101",
+      "label": "Vyavahārapada 12 §101",
+      "chapterRef": "v12"
+    },
+    {
+      "reference": "v12.102",
+      "label": "Vyavahārapada 12 §102",
+      "chapterRef": "v12"
+    },
+    {
+      "reference": "v12.103",
+      "label": "Vyavahārapada 12 §103",
+      "chapterRef": "v12"
+    },
+    {
+      "reference": "v12.104",
+      "label": "Vyavahārapada 12 §104",
+      "chapterRef": "v12"
+    },
+    {
+      "reference": "v12.105",
+      "label": "Vyavahārapada 12 §105",
+      "chapterRef": "v12"
+    },
+    {
+      "reference": "v12.106",
+      "label": "Vyavahārapada 12 §106",
+      "chapterRef": "v12"
+    },
+    {
+      "reference": "v12.107",
+      "label": "Vyavahārapada 12 §107",
+      "chapterRef": "v12"
+    },
+    {
+      "reference": "v12.108",
+      "label": "Vyavahārapada 12 §108",
+      "chapterRef": "v12"
+    },
+    {
+      "reference": "v12.109",
+      "label": "Vyavahārapada 12 §109",
+      "chapterRef": "v12"
+    },
+    {
+      "reference": "v12.110",
+      "label": "Vyavahārapada 12 §110",
+      "chapterRef": "v12"
+    },
+    {
+      "reference": "v12.111",
+      "label": "Vyavahārapada 12 §111",
+      "chapterRef": "v12"
+    },
+    {
+      "reference": "v12.112",
+      "label": "Vyavahārapada 12 §112",
+      "chapterRef": "v12"
+    },
+    {
+      "reference": "v12.113",
+      "label": "Vyavahārapada 12 §113",
+      "chapterRef": "v12"
+    },
+    {
+      "reference": "v12.114",
+      "label": "Vyavahārapada 12 §114",
+      "chapterRef": "v12"
+    },
+    {
+      "reference": "v12.115",
+      "label": "Vyavahārapada 12 §115",
+      "chapterRef": "v12"
+    },
+    {
+      "reference": "v12.116",
+      "label": "Vyavahārapada 12 §116",
+      "chapterRef": "v12"
+    },
+    {
+      "reference": "v12.117",
+      "label": "Vyavahārapada 12 §117",
+      "chapterRef": "v12"
+    },
+    {
+      "reference": "v13.1",
+      "label": "Vyavahārapada 13 §1",
+      "chapterRef": "v13"
+    },
+    {
+      "reference": "v13.2",
+      "label": "Vyavahārapada 13 §2",
+      "chapterRef": "v13"
+    },
+    {
+      "reference": "v13.3",
+      "label": "Vyavahārapada 13 §3",
+      "chapterRef": "v13"
+    },
+    {
+      "reference": "v13.4",
+      "label": "Vyavahārapada 13 §4",
+      "chapterRef": "v13"
+    },
+    {
+      "reference": "v13.5",
+      "label": "Vyavahārapada 13 §5",
+      "chapterRef": "v13"
+    },
+    {
+      "reference": "v13.6",
+      "label": "Vyavahārapada 13 §6",
+      "chapterRef": "v13"
+    },
+    {
+      "reference": "v13.7",
+      "label": "Vyavahārapada 13 §7",
+      "chapterRef": "v13"
+    },
+    {
+      "reference": "v13.8",
+      "label": "Vyavahārapada 13 §8",
+      "chapterRef": "v13"
+    },
+    {
+      "reference": "v13.9",
+      "label": "Vyavahārapada 13 §9",
+      "chapterRef": "v13"
+    },
+    {
+      "reference": "v13.10",
+      "label": "Vyavahārapada 13 §10",
+      "chapterRef": "v13"
+    },
+    {
+      "reference": "v13.11",
+      "label": "Vyavahārapada 13 §11",
+      "chapterRef": "v13"
+    },
+    {
+      "reference": "v13.12",
+      "label": "Vyavahārapada 13 §12",
+      "chapterRef": "v13"
+    },
+    {
+      "reference": "v13.13",
+      "label": "Vyavahārapada 13 §13",
+      "chapterRef": "v13"
+    },
+    {
+      "reference": "v13.14",
+      "label": "Vyavahārapada 13 §14",
+      "chapterRef": "v13"
+    },
+    {
+      "reference": "v13.15",
+      "label": "Vyavahārapada 13 §15",
+      "chapterRef": "v13"
+    },
+    {
+      "reference": "v13.16",
+      "label": "Vyavahārapada 13 §16",
+      "chapterRef": "v13"
+    },
+    {
+      "reference": "v13.17",
+      "label": "Vyavahārapada 13 §17",
+      "chapterRef": "v13"
+    },
+    {
+      "reference": "v13.18",
+      "label": "Vyavahārapada 13 §18",
+      "chapterRef": "v13"
+    },
+    {
+      "reference": "v13.19",
+      "label": "Vyavahārapada 13 §19",
+      "chapterRef": "v13"
+    },
+    {
+      "reference": "v13.20",
+      "label": "Vyavahārapada 13 §20",
+      "chapterRef": "v13"
+    },
+    {
+      "reference": "v13.21",
+      "label": "Vyavahārapada 13 §21",
+      "chapterRef": "v13"
+    },
+    {
+      "reference": "v13.22",
+      "label": "Vyavahārapada 13 §22",
+      "chapterRef": "v13"
+    },
+    {
+      "reference": "v13.23",
+      "label": "Vyavahārapada 13 §23",
+      "chapterRef": "v13"
+    },
+    {
+      "reference": "v13.24",
+      "label": "Vyavahārapada 13 §24",
+      "chapterRef": "v13"
+    },
+    {
+      "reference": "v13.25",
+      "label": "Vyavahārapada 13 §25",
+      "chapterRef": "v13"
+    },
+    {
+      "reference": "v13.26",
+      "label": "Vyavahārapada 13 §26",
+      "chapterRef": "v13"
+    },
+    {
+      "reference": "v13.27",
+      "label": "Vyavahārapada 13 §27",
+      "chapterRef": "v13"
+    },
+    {
+      "reference": "v13.28",
+      "label": "Vyavahārapada 13 §28",
+      "chapterRef": "v13"
+    },
+    {
+      "reference": "v13.29",
+      "label": "Vyavahārapada 13 §29",
+      "chapterRef": "v13"
+    },
+    {
+      "reference": "v13.30",
+      "label": "Vyavahārapada 13 §30",
+      "chapterRef": "v13"
+    },
+    {
+      "reference": "v13.31",
+      "label": "Vyavahārapada 13 §31",
+      "chapterRef": "v13"
+    },
+    {
+      "reference": "v13.32",
+      "label": "Vyavahārapada 13 §32",
+      "chapterRef": "v13"
+    },
+    {
+      "reference": "v13.33",
+      "label": "Vyavahārapada 13 §33",
+      "chapterRef": "v13"
+    },
+    {
+      "reference": "v13.34",
+      "label": "Vyavahārapada 13 §34",
+      "chapterRef": "v13"
+    },
+    {
+      "reference": "v13.35",
+      "label": "Vyavahārapada 13 §35",
+      "chapterRef": "v13"
+    },
+    {
+      "reference": "v13.36",
+      "label": "Vyavahārapada 13 §36",
+      "chapterRef": "v13"
+    },
+    {
+      "reference": "v13.37",
+      "label": "Vyavahārapada 13 §37",
+      "chapterRef": "v13"
+    },
+    {
+      "reference": "v13.38",
+      "label": "Vyavahārapada 13 §38",
+      "chapterRef": "v13"
+    },
+    {
+      "reference": "v13.39",
+      "label": "Vyavahārapada 13 §39",
+      "chapterRef": "v13"
+    },
+    {
+      "reference": "v13.40",
+      "label": "Vyavahārapada 13 §40",
+      "chapterRef": "v13"
+    },
+    {
+      "reference": "v13.41",
+      "label": "Vyavahārapada 13 §41",
+      "chapterRef": "v13"
+    },
+    {
+      "reference": "v13.42",
+      "label": "Vyavahārapada 13 §42",
+      "chapterRef": "v13"
+    },
+    {
+      "reference": "v13.43",
+      "label": "Vyavahārapada 13 §43",
+      "chapterRef": "v13"
+    },
+    {
+      "reference": "v13.44",
+      "label": "Vyavahārapada 13 §44",
+      "chapterRef": "v13"
+    },
+    {
+      "reference": "v13.45",
+      "label": "Vyavahārapada 13 §45",
+      "chapterRef": "v13"
+    },
+    {
+      "reference": "v13.46",
+      "label": "Vyavahārapada 13 §46",
+      "chapterRef": "v13"
+    },
+    {
+      "reference": "v13.47",
+      "label": "Vyavahārapada 13 §47",
+      "chapterRef": "v13"
+    },
+    {
+      "reference": "v13.48",
+      "label": "Vyavahārapada 13 §48",
+      "chapterRef": "v13"
+    },
+    {
+      "reference": "v13.49",
+      "label": "Vyavahārapada 13 §49",
+      "chapterRef": "v13"
+    },
+    {
+      "reference": "v14.1",
+      "label": "Vyavahārapada 14 §1",
+      "chapterRef": "v14"
+    },
+    {
+      "reference": "v14.2",
+      "label": "Vyavahārapada 14 §2",
+      "chapterRef": "v14"
+    },
+    {
+      "reference": "v14.3",
+      "label": "Vyavahārapada 14 §3",
+      "chapterRef": "v14"
+    },
+    {
+      "reference": "v14.4",
+      "label": "Vyavahārapada 14 §4",
+      "chapterRef": "v14"
+    },
+    {
+      "reference": "v14.5",
+      "label": "Vyavahārapada 14 §5",
+      "chapterRef": "v14"
+    },
+    {
+      "reference": "v14.6",
+      "label": "Vyavahārapada 14 §6",
+      "chapterRef": "v14"
+    },
+    {
+      "reference": "v14.7",
+      "label": "Vyavahārapada 14 §7",
+      "chapterRef": "v14"
+    },
+    {
+      "reference": "v14.8",
+      "label": "Vyavahārapada 14 §8",
+      "chapterRef": "v14"
+    },
+    {
+      "reference": "v14.9",
+      "label": "Vyavahārapada 14 §9",
+      "chapterRef": "v14"
+    },
+    {
+      "reference": "v14.10",
+      "label": "Vyavahārapada 14 §10",
+      "chapterRef": "v14"
+    },
+    {
+      "reference": "v14.11",
+      "label": "Vyavahārapada 14 §11",
+      "chapterRef": "v14"
+    },
+    {
+      "reference": "v14.12",
+      "label": "Vyavahārapada 14 §12",
+      "chapterRef": "v14"
+    },
+    {
+      "reference": "v14.13",
+      "label": "Vyavahārapada 14 §13",
+      "chapterRef": "v14"
+    },
+    {
+      "reference": "v14.14",
+      "label": "Vyavahārapada 14 §14",
+      "chapterRef": "v14"
+    },
+    {
+      "reference": "v14.15",
+      "label": "Vyavahārapada 14 §15",
+      "chapterRef": "v14"
+    },
+    {
+      "reference": "v14.16",
+      "label": "Vyavahārapada 14 §16",
+      "chapterRef": "v14"
+    },
+    {
+      "reference": "v14.17",
+      "label": "Vyavahārapada 14 §17",
+      "chapterRef": "v14"
+    },
+    {
+      "reference": "v14.18",
+      "label": "Vyavahārapada 14 §18",
+      "chapterRef": "v14"
+    },
+    {
+      "reference": "v14.19",
+      "label": "Vyavahārapada 14 §19",
+      "chapterRef": "v14"
+    },
+    {
+      "reference": "v14.20",
+      "label": "Vyavahārapada 14 §20",
+      "chapterRef": "v14"
+    },
+    {
+      "reference": "v14.21",
+      "label": "Vyavahārapada 14 §21",
+      "chapterRef": "v14"
+    },
+    {
+      "reference": "v14.22",
+      "label": "Vyavahārapada 14 §22",
+      "chapterRef": "v14"
+    },
+    {
+      "reference": "v14.23",
+      "label": "Vyavahārapada 14 §23",
+      "chapterRef": "v14"
+    },
+    {
+      "reference": "v14.24",
+      "label": "Vyavahārapada 14 §24",
+      "chapterRef": "v14"
+    },
+    {
+      "reference": "v14.25",
+      "label": "Vyavahārapada 14 §25",
+      "chapterRef": "v14"
+    },
+    {
+      "reference": "v14.26",
+      "label": "Vyavahārapada 14 §26",
+      "chapterRef": "v14"
+    },
+    {
+      "reference": "v15-16.1",
+      "label": "Vyavahārapada 15–16 §1",
+      "chapterRef": "v15-16"
+    },
+    {
+      "reference": "v15-16.2",
+      "label": "Vyavahārapada 15–16 §2",
+      "chapterRef": "v15-16"
+    },
+    {
+      "reference": "v15-16.3",
+      "label": "Vyavahārapada 15–16 §3",
+      "chapterRef": "v15-16"
+    },
+    {
+      "reference": "v15-16.4",
+      "label": "Vyavahārapada 15–16 §4",
+      "chapterRef": "v15-16"
+    },
+    {
+      "reference": "v15-16.5",
+      "label": "Vyavahārapada 15–16 §5",
+      "chapterRef": "v15-16"
+    },
+    {
+      "reference": "v15-16.6",
+      "label": "Vyavahārapada 15–16 §6",
+      "chapterRef": "v15-16"
+    },
+    {
+      "reference": "v15-16.7",
+      "label": "Vyavahārapada 15–16 §7",
+      "chapterRef": "v15-16"
+    },
+    {
+      "reference": "v15-16.8",
+      "label": "Vyavahārapada 15–16 §8",
+      "chapterRef": "v15-16"
+    },
+    {
+      "reference": "v15-16.9",
+      "label": "Vyavahārapada 15–16 §9",
+      "chapterRef": "v15-16"
+    },
+    {
+      "reference": "v15-16.10",
+      "label": "Vyavahārapada 15–16 §10",
+      "chapterRef": "v15-16"
+    },
+    {
+      "reference": "v15-16.11",
+      "label": "Vyavahārapada 15–16 §11",
+      "chapterRef": "v15-16"
+    },
+    {
+      "reference": "v15-16.12",
+      "label": "Vyavahārapada 15–16 §12",
+      "chapterRef": "v15-16"
+    },
+    {
+      "reference": "v15-16.13",
+      "label": "Vyavahārapada 15–16 §13",
+      "chapterRef": "v15-16"
+    },
+    {
+      "reference": "v15-16.14",
+      "label": "Vyavahārapada 15–16 §14",
+      "chapterRef": "v15-16"
+    },
+    {
+      "reference": "v15-16.15",
+      "label": "Vyavahārapada 15–16 §15",
+      "chapterRef": "v15-16"
+    },
+    {
+      "reference": "v15-16.16",
+      "label": "Vyavahārapada 15–16 §16",
+      "chapterRef": "v15-16"
+    },
+    {
+      "reference": "v15-16.17",
+      "label": "Vyavahārapada 15–16 §17",
+      "chapterRef": "v15-16"
+    },
+    {
+      "reference": "v15-16.18",
+      "label": "Vyavahārapada 15–16 §18",
+      "chapterRef": "v15-16"
+    },
+    {
+      "reference": "v15-16.19",
+      "label": "Vyavahārapada 15–16 §19",
+      "chapterRef": "v15-16"
+    },
+    {
+      "reference": "v15-16.20",
+      "label": "Vyavahārapada 15–16 §20",
+      "chapterRef": "v15-16"
+    },
+    {
+      "reference": "v15-16.21",
+      "label": "Vyavahārapada 15–16 §21",
+      "chapterRef": "v15-16"
+    },
+    {
+      "reference": "v15-16.22",
+      "label": "Vyavahārapada 15–16 §22",
+      "chapterRef": "v15-16"
+    },
+    {
+      "reference": "v15-16.23",
+      "label": "Vyavahārapada 15–16 §23",
+      "chapterRef": "v15-16"
+    },
+    {
+      "reference": "v15-16.24",
+      "label": "Vyavahārapada 15–16 §24",
+      "chapterRef": "v15-16"
+    },
+    {
+      "reference": "v15-16.25",
+      "label": "Vyavahārapada 15–16 §25",
+      "chapterRef": "v15-16"
+    },
+    {
+      "reference": "v15-16.26",
+      "label": "Vyavahārapada 15–16 §26",
+      "chapterRef": "v15-16"
+    },
+    {
+      "reference": "v15-16.27",
+      "label": "Vyavahārapada 15–16 §27",
+      "chapterRef": "v15-16"
+    },
+    {
+      "reference": "v15-16.28",
+      "label": "Vyavahārapada 15–16 §28",
+      "chapterRef": "v15-16"
+    },
+    {
+      "reference": "v15-16.29",
+      "label": "Vyavahārapada 15–16 §29",
+      "chapterRef": "v15-16"
+    },
+    {
+      "reference": "v15-16.30",
+      "label": "Vyavahārapada 15–16 §30",
+      "chapterRef": "v15-16"
+    },
+    {
+      "reference": "v15-16.31",
+      "label": "Vyavahārapada 15–16 §31",
+      "chapterRef": "v15-16"
+    },
+    {
+      "reference": "v17.1",
+      "label": "Vyavahārapada 17 §1",
+      "chapterRef": "v17"
+    },
+    {
+      "reference": "v17.2",
+      "label": "Vyavahārapada 17 §2",
+      "chapterRef": "v17"
+    },
+    {
+      "reference": "v17.3",
+      "label": "Vyavahārapada 17 §3",
+      "chapterRef": "v17"
+    },
+    {
+      "reference": "v17.4",
+      "label": "Vyavahārapada 17 §4",
+      "chapterRef": "v17"
+    },
+    {
+      "reference": "v17.5",
+      "label": "Vyavahārapada 17 §5",
+      "chapterRef": "v17"
+    },
+    {
+      "reference": "v17.6",
+      "label": "Vyavahārapada 17 §6",
+      "chapterRef": "v17"
+    },
+    {
+      "reference": "v18.1",
+      "label": "Vyavahārapada 18 §1",
+      "chapterRef": "v18"
+    },
+    {
+      "reference": "v18.2",
+      "label": "Vyavahārapada 18 §2",
+      "chapterRef": "v18"
+    },
+    {
+      "reference": "v18.3",
+      "label": "Vyavahārapada 18 §3",
+      "chapterRef": "v18"
+    },
+    {
+      "reference": "v18.4",
+      "label": "Vyavahārapada 18 §4",
+      "chapterRef": "v18"
+    },
+    {
+      "reference": "v18.5",
+      "label": "Vyavahārapada 18 §5",
+      "chapterRef": "v18"
+    },
+    {
+      "reference": "v18.6",
+      "label": "Vyavahārapada 18 §6",
+      "chapterRef": "v18"
+    },
+    {
+      "reference": "v18.7",
+      "label": "Vyavahārapada 18 §7",
+      "chapterRef": "v18"
+    },
+    {
+      "reference": "v18.8",
+      "label": "Vyavahārapada 18 §8",
+      "chapterRef": "v18"
+    },
+    {
+      "reference": "v18.9",
+      "label": "Vyavahārapada 18 §9",
+      "chapterRef": "v18"
+    },
+    {
+      "reference": "v18.10",
+      "label": "Vyavahārapada 18 §10",
+      "chapterRef": "v18"
+    },
+    {
+      "reference": "v18.11",
+      "label": "Vyavahārapada 18 §11",
+      "chapterRef": "v18"
+    },
+    {
+      "reference": "v18.12",
+      "label": "Vyavahārapada 18 §12",
+      "chapterRef": "v18"
+    },
+    {
+      "reference": "v18.13",
+      "label": "Vyavahārapada 18 §13",
+      "chapterRef": "v18"
+    },
+    {
+      "reference": "v18.14",
+      "label": "Vyavahārapada 18 §14",
+      "chapterRef": "v18"
+    },
+    {
+      "reference": "v18.15",
+      "label": "Vyavahārapada 18 §15",
+      "chapterRef": "v18"
+    },
+    {
+      "reference": "v18.16",
+      "label": "Vyavahārapada 18 §16",
+      "chapterRef": "v18"
+    },
+    {
+      "reference": "v18.17",
+      "label": "Vyavahārapada 18 §17",
+      "chapterRef": "v18"
+    },
+    {
+      "reference": "v18.18",
+      "label": "Vyavahārapada 18 §18",
+      "chapterRef": "v18"
+    },
+    {
+      "reference": "v18.19",
+      "label": "Vyavahārapada 18 §19",
+      "chapterRef": "v18"
+    },
+    {
+      "reference": "v18.20",
+      "label": "Vyavahārapada 18 §20",
+      "chapterRef": "v18"
+    },
+    {
+      "reference": "v18.21",
+      "label": "Vyavahārapada 18 §21",
+      "chapterRef": "v18"
+    },
+    {
+      "reference": "v18.22",
+      "label": "Vyavahārapada 18 §22",
+      "chapterRef": "v18"
+    },
+    {
+      "reference": "v18.23",
+      "label": "Vyavahārapada 18 §23",
+      "chapterRef": "v18"
+    },
+    {
+      "reference": "v18.24",
+      "label": "Vyavahārapada 18 §24",
+      "chapterRef": "v18"
+    },
+    {
+      "reference": "v18.25",
+      "label": "Vyavahārapada 18 §25",
+      "chapterRef": "v18"
+    },
+    {
+      "reference": "v18.26",
+      "label": "Vyavahārapada 18 §26",
+      "chapterRef": "v18"
+    },
+    {
+      "reference": "v18.27",
+      "label": "Vyavahārapada 18 §27",
+      "chapterRef": "v18"
+    },
+    {
+      "reference": "v18.28",
+      "label": "Vyavahārapada 18 §28",
+      "chapterRef": "v18"
+    },
+    {
+      "reference": "v18.29",
+      "label": "Vyavahārapada 18 §29",
+      "chapterRef": "v18"
+    },
+    {
+      "reference": "v18.30",
+      "label": "Vyavahārapada 18 §30",
+      "chapterRef": "v18"
+    },
+    {
+      "reference": "v18.31",
+      "label": "Vyavahārapada 18 §31",
+      "chapterRef": "v18"
+    },
+    {
+      "reference": "v18.32",
+      "label": "Vyavahārapada 18 §32",
+      "chapterRef": "v18"
+    },
+    {
+      "reference": "v18.33",
+      "label": "Vyavahārapada 18 §33",
+      "chapterRef": "v18"
+    },
+    {
+      "reference": "v18.34",
+      "label": "Vyavahārapada 18 §34",
+      "chapterRef": "v18"
+    },
+    {
+      "reference": "v18.35",
+      "label": "Vyavahārapada 18 §35",
+      "chapterRef": "v18"
+    },
+    {
+      "reference": "v18.36",
+      "label": "Vyavahārapada 18 §36",
+      "chapterRef": "v18"
+    },
+    {
+      "reference": "v18.37",
+      "label": "Vyavahārapada 18 §37",
+      "chapterRef": "v18"
+    },
+    {
+      "reference": "v18.38",
+      "label": "Vyavahārapada 18 §38",
+      "chapterRef": "v18"
+    },
+    {
+      "reference": "v18.39",
+      "label": "Vyavahārapada 18 §39",
+      "chapterRef": "v18"
+    },
+    {
+      "reference": "v18.40",
+      "label": "Vyavahārapada 18 §40",
+      "chapterRef": "v18"
+    },
+    {
+      "reference": "v18.41",
+      "label": "Vyavahārapada 18 §41",
+      "chapterRef": "v18"
+    },
+    {
+      "reference": "v18.42",
+      "label": "Vyavahārapada 18 §42",
+      "chapterRef": "v18"
+    },
+    {
+      "reference": "v18.43",
+      "label": "Vyavahārapada 18 §43",
+      "chapterRef": "v18"
+    },
+    {
+      "reference": "v18.44",
+      "label": "Vyavahārapada 18 §44",
+      "chapterRef": "v18"
+    },
+    {
+      "reference": "v18.45",
+      "label": "Vyavahārapada 18 §45",
+      "chapterRef": "v18"
+    },
+    {
+      "reference": "v18.46",
+      "label": "Vyavahārapada 18 §46",
+      "chapterRef": "v18"
+    },
+    {
+      "reference": "v18.47",
+      "label": "Vyavahārapada 18 §47",
+      "chapterRef": "v18"
+    },
+    {
+      "reference": "v18.48",
+      "label": "Vyavahārapada 18 §48",
+      "chapterRef": "v18"
+    },
+    {
+      "reference": "v18.49",
+      "label": "Vyavahārapada 18 §49",
+      "chapterRef": "v18"
+    },
+    {
+      "reference": "v18.50",
+      "label": "Vyavahārapada 18 §50",
+      "chapterRef": "v18"
+    },
+    {
+      "reference": "v18.51",
+      "label": "Vyavahārapada 18 §51",
+      "chapterRef": "v18"
+    },
+    {
+      "reference": "v18.52",
+      "label": "Vyavahārapada 18 §52",
+      "chapterRef": "v18"
+    },
+    {
+      "reference": "p19.1",
+      "label": "Pariśiṣṭa 19 §1",
+      "chapterRef": "p19"
+    },
+    {
+      "reference": "p19.2",
+      "label": "Pariśiṣṭa 19 §2",
+      "chapterRef": "p19"
+    },
+    {
+      "reference": "p19.3",
+      "label": "Pariśiṣṭa 19 §3",
+      "chapterRef": "p19"
+    },
+    {
+      "reference": "p19.4",
+      "label": "Pariśiṣṭa 19 §4",
+      "chapterRef": "p19"
+    },
+    {
+      "reference": "p19.5",
+      "label": "Pariśiṣṭa 19 §5",
+      "chapterRef": "p19"
+    },
+    {
+      "reference": "p19.6",
+      "label": "Pariśiṣṭa 19 §6",
+      "chapterRef": "p19"
+    },
+    {
+      "reference": "p19.7",
+      "label": "Pariśiṣṭa 19 §7",
+      "chapterRef": "p19"
+    },
+    {
+      "reference": "p19.8",
+      "label": "Pariśiṣṭa 19 §8",
+      "chapterRef": "p19"
+    },
+    {
+      "reference": "p19.9",
+      "label": "Pariśiṣṭa 19 §9",
+      "chapterRef": "p19"
+    },
+    {
+      "reference": "p19.10",
+      "label": "Pariśiṣṭa 19 §10",
+      "chapterRef": "p19"
+    },
+    {
+      "reference": "p19.11",
+      "label": "Pariśiṣṭa 19 §11",
+      "chapterRef": "p19"
+    },
+    {
+      "reference": "p19.12",
+      "label": "Pariśiṣṭa 19 §12",
+      "chapterRef": "p19"
+    },
+    {
+      "reference": "p19.13",
+      "label": "Pariśiṣṭa 19 §13",
+      "chapterRef": "p19"
+    },
+    {
+      "reference": "p19.14",
+      "label": "Pariśiṣṭa 19 §14",
+      "chapterRef": "p19"
+    },
+    {
+      "reference": "p19.15",
+      "label": "Pariśiṣṭa 19 §15",
+      "chapterRef": "p19"
+    },
+    {
+      "reference": "p19.16",
+      "label": "Pariśiṣṭa 19 §16",
+      "chapterRef": "p19"
+    },
+    {
+      "reference": "p19.17",
+      "label": "Pariśiṣṭa 19 §17",
+      "chapterRef": "p19"
+    },
+    {
+      "reference": "p19.18",
+      "label": "Pariśiṣṭa 19 §18",
+      "chapterRef": "p19"
+    },
+    {
+      "reference": "p19.19",
+      "label": "Pariśiṣṭa 19 §19",
+      "chapterRef": "p19"
+    },
+    {
+      "reference": "p19.20",
+      "label": "Pariśiṣṭa 19 §20",
+      "chapterRef": "p19"
+    },
+    {
+      "reference": "p19.21",
+      "label": "Pariśiṣṭa 19 §21",
+      "chapterRef": "p19"
+    },
+    {
+      "reference": "p19.22",
+      "label": "Pariśiṣṭa 19 §22",
+      "chapterRef": "p19"
+    },
+    {
+      "reference": "p19.23",
+      "label": "Pariśiṣṭa 19 §23",
+      "chapterRef": "p19"
+    },
+    {
+      "reference": "p19.24",
+      "label": "Pariśiṣṭa 19 §24",
+      "chapterRef": "p19"
+    },
+    {
+      "reference": "p19.25",
+      "label": "Pariśiṣṭa 19 §25",
+      "chapterRef": "p19"
+    },
+    {
+      "reference": "p19.26",
+      "label": "Pariśiṣṭa 19 §26",
+      "chapterRef": "p19"
+    },
+    {
+      "reference": "p19.27",
+      "label": "Pariśiṣṭa 19 §27",
+      "chapterRef": "p19"
+    },
+    {
+      "reference": "p19.28",
+      "label": "Pariśiṣṭa 19 §28",
+      "chapterRef": "p19"
+    },
+    {
+      "reference": "p19.29",
+      "label": "Pariśiṣṭa 19 §29",
+      "chapterRef": "p19"
+    },
+    {
+      "reference": "p19.30",
+      "label": "Pariśiṣṭa 19 §30",
+      "chapterRef": "p19"
+    },
+    {
+      "reference": "p19.31",
+      "label": "Pariśiṣṭa 19 §31",
+      "chapterRef": "p19"
+    },
+    {
+      "reference": "p19.32",
+      "label": "Pariśiṣṭa 19 §32",
+      "chapterRef": "p19"
+    },
+    {
+      "reference": "p19.33",
+      "label": "Pariśiṣṭa 19 §33",
+      "chapterRef": "p19"
+    },
+    {
+      "reference": "p19.34",
+      "label": "Pariśiṣṭa 19 §34",
+      "chapterRef": "p19"
+    },
+    {
+      "reference": "p19.35",
+      "label": "Pariśiṣṭa 19 §35",
+      "chapterRef": "p19"
+    },
+    {
+      "reference": "p19.36",
+      "label": "Pariśiṣṭa 19 §36",
+      "chapterRef": "p19"
+    },
+    {
+      "reference": "p19.37",
+      "label": "Pariśiṣṭa 19 §37",
+      "chapterRef": "p19"
+    },
+    {
+      "reference": "p19.38",
+      "label": "Pariśiṣṭa 19 §38",
+      "chapterRef": "p19"
+    },
+    {
+      "reference": "p19.39",
+      "label": "Pariśiṣṭa 19 §39",
+      "chapterRef": "p19"
+    },
+    {
+      "reference": "p19.40",
+      "label": "Pariśiṣṭa 19 §40",
+      "chapterRef": "p19"
+    },
+    {
+      "reference": "p19.41",
+      "label": "Pariśiṣṭa 19 §41",
+      "chapterRef": "p19"
+    },
+    {
+      "reference": "p19.42",
+      "label": "Pariśiṣṭa 19 §42",
+      "chapterRef": "p19"
+    },
+    {
+      "reference": "p19.43",
+      "label": "Pariśiṣṭa 19 §43",
+      "chapterRef": "p19"
+    },
+    {
+      "reference": "p19.44",
+      "label": "Pariśiṣṭa 19 §44",
+      "chapterRef": "p19"
+    },
+    {
+      "reference": "p19.45",
+      "label": "Pariśiṣṭa 19 §45",
+      "chapterRef": "p19"
+    },
+    {
+      "reference": "p19.46",
+      "label": "Pariśiṣṭa 19 §46",
+      "chapterRef": "p19"
+    },
+    {
+      "reference": "p19.47",
+      "label": "Pariśiṣṭa 19 §47",
+      "chapterRef": "p19"
+    },
+    {
+      "reference": "p19.48",
+      "label": "Pariśiṣṭa 19 §48",
+      "chapterRef": "p19"
+    },
+    {
+      "reference": "p19.49",
+      "label": "Pariśiṣṭa 19 §49",
+      "chapterRef": "p19"
+    },
+    {
+      "reference": "p19.50",
+      "label": "Pariśiṣṭa 19 §50",
+      "chapterRef": "p19"
+    },
+    {
+      "reference": "p19.51",
+      "label": "Pariśiṣṭa 19 §51",
+      "chapterRef": "p19"
+    },
+    {
+      "reference": "p19.52",
+      "label": "Pariśiṣṭa 19 §52",
+      "chapterRef": "p19"
+    },
+    {
+      "reference": "p19.53",
+      "label": "Pariśiṣṭa 19 §53",
+      "chapterRef": "p19"
+    },
+    {
+      "reference": "p19.54",
+      "label": "Pariśiṣṭa 19 §54",
+      "chapterRef": "p19"
+    },
+    {
+      "reference": "p19.55",
+      "label": "Pariśiṣṭa 19 §55",
+      "chapterRef": "p19"
+    },
+    {
+      "reference": "p19.56",
+      "label": "Pariśiṣṭa 19 §56",
+      "chapterRef": "p19"
+    },
+    {
+      "reference": "p19.57",
+      "label": "Pariśiṣṭa 19 §57",
+      "chapterRef": "p19"
+    },
+    {
+      "reference": "p19.58",
+      "label": "Pariśiṣṭa 19 §58",
+      "chapterRef": "p19"
+    },
+    {
+      "reference": "p19.59",
+      "label": "Pariśiṣṭa 19 §59",
+      "chapterRef": "p19"
+    },
+    {
+      "reference": "p19.60",
+      "label": "Pariśiṣṭa 19 §60",
+      "chapterRef": "p19"
+    },
+    {
+      "reference": "p19.61",
+      "label": "Pariśiṣṭa 19 §61",
+      "chapterRef": "p19"
+    },
+    {
+      "reference": "p19.62",
+      "label": "Pariśiṣṭa 19 §62",
+      "chapterRef": "p19"
+    },
+    {
+      "reference": "p19.63",
+      "label": "Pariśiṣṭa 19 §63",
+      "chapterRef": "p19"
+    },
+    {
+      "reference": "p19.64",
+      "label": "Pariśiṣṭa 19 §64",
+      "chapterRef": "p19"
+    },
+    {
+      "reference": "p19.65",
+      "label": "Pariśiṣṭa 19 §65",
+      "chapterRef": "p19"
+    },
+    {
+      "reference": "p19.66",
+      "label": "Pariśiṣṭa 19 §66",
+      "chapterRef": "p19"
+    },
+    {
+      "reference": "p19.67",
+      "label": "Pariśiṣṭa 19 §67",
+      "chapterRef": "p19"
+    },
+    {
+      "reference": "p19.68",
+      "label": "Pariśiṣṭa 19 §68",
+      "chapterRef": "p19"
+    },
+    {
+      "reference": "p19.69",
+      "label": "Pariśiṣṭa 19 §69",
+      "chapterRef": "p19"
+    },
+    {
+      "reference": "p20.1",
+      "label": "Pariśiṣṭa 20 §1",
+      "chapterRef": "p20"
+    },
+    {
+      "reference": "p20.2",
+      "label": "Pariśiṣṭa 20 §2",
+      "chapterRef": "p20"
+    },
+    {
+      "reference": "p20.3",
+      "label": "Pariśiṣṭa 20 §3",
+      "chapterRef": "p20"
+    },
+    {
+      "reference": "p20.4",
+      "label": "Pariśiṣṭa 20 §4",
+      "chapterRef": "p20"
+    },
+    {
+      "reference": "p20.5",
+      "label": "Pariśiṣṭa 20 §5",
+      "chapterRef": "p20"
+    },
+    {
+      "reference": "p20.6",
+      "label": "Pariśiṣṭa 20 §6",
+      "chapterRef": "p20"
+    },
+    {
+      "reference": "p20.7",
+      "label": "Pariśiṣṭa 20 §7",
+      "chapterRef": "p20"
+    },
+    {
+      "reference": "p20.8",
+      "label": "Pariśiṣṭa 20 §8",
+      "chapterRef": "p20"
+    },
+    {
+      "reference": "p20.9",
+      "label": "Pariśiṣṭa 20 §9",
+      "chapterRef": "p20"
+    },
+    {
+      "reference": "p20.10",
+      "label": "Pariśiṣṭa 20 §10",
+      "chapterRef": "p20"
+    },
+    {
+      "reference": "p20.11",
+      "label": "Pariśiṣṭa 20 §11",
+      "chapterRef": "p20"
+    },
+    {
+      "reference": "p20.12",
+      "label": "Pariśiṣṭa 20 §12",
+      "chapterRef": "p20"
+    },
+    {
+      "reference": "p20.13",
+      "label": "Pariśiṣṭa 20 §13",
+      "chapterRef": "p20"
+    },
+    {
+      "reference": "p20.14",
+      "label": "Pariśiṣṭa 20 §14",
+      "chapterRef": "p20"
+    },
+    {
+      "reference": "p20.15",
+      "label": "Pariśiṣṭa 20 §15",
+      "chapterRef": "p20"
+    },
+    {
+      "reference": "p20.16",
+      "label": "Pariśiṣṭa 20 §16",
+      "chapterRef": "p20"
+    },
+    {
+      "reference": "p20.17",
+      "label": "Pariśiṣṭa 20 §17",
+      "chapterRef": "p20"
+    },
+    {
+      "reference": "p20.18",
+      "label": "Pariśiṣṭa 20 §18",
+      "chapterRef": "p20"
+    },
+    {
+      "reference": "p20.19",
+      "label": "Pariśiṣṭa 20 §19",
+      "chapterRef": "p20"
+    },
+    {
+      "reference": "p20.20",
+      "label": "Pariśiṣṭa 20 §20",
+      "chapterRef": "p20"
+    },
+    {
+      "reference": "p20.21",
+      "label": "Pariśiṣṭa 20 §21",
+      "chapterRef": "p20"
+    },
+    {
+      "reference": "p20.22",
+      "label": "Pariśiṣṭa 20 §22",
+      "chapterRef": "p20"
+    },
+    {
+      "reference": "p20.23",
+      "label": "Pariśiṣṭa 20 §23",
+      "chapterRef": "p20"
+    },
+    {
+      "reference": "p20.24",
+      "label": "Pariśiṣṭa 20 §24",
+      "chapterRef": "p20"
+    },
+    {
+      "reference": "p20.25",
+      "label": "Pariśiṣṭa 20 §25",
+      "chapterRef": "p20"
+    },
+    {
+      "reference": "p20.26",
+      "label": "Pariśiṣṭa 20 §26",
+      "chapterRef": "p20"
+    },
+    {
+      "reference": "p20.27",
+      "label": "Pariśiṣṭa 20 §27",
+      "chapterRef": "p20"
+    },
+    {
+      "reference": "p20.28",
+      "label": "Pariśiṣṭa 20 §28",
+      "chapterRef": "p20"
+    },
+    {
+      "reference": "p20.29",
+      "label": "Pariśiṣṭa 20 §29",
+      "chapterRef": "p20"
+    },
+    {
+      "reference": "p20.30",
+      "label": "Pariśiṣṭa 20 §30",
+      "chapterRef": "p20"
+    },
+    {
+      "reference": "p20.31",
+      "label": "Pariśiṣṭa 20 §31",
+      "chapterRef": "p20"
+    },
+    {
+      "reference": "p20.32",
+      "label": "Pariśiṣṭa 20 §32",
+      "chapterRef": "p20"
+    },
+    {
+      "reference": "p20.33",
+      "label": "Pariśiṣṭa 20 §33",
+      "chapterRef": "p20"
+    },
+    {
+      "reference": "p20.34",
+      "label": "Pariśiṣṭa 20 §34",
+      "chapterRef": "p20"
+    },
+    {
+      "reference": "p20.35",
+      "label": "Pariśiṣṭa 20 §35",
+      "chapterRef": "p20"
+    },
+    {
+      "reference": "p20.36",
+      "label": "Pariśiṣṭa 20 §36",
+      "chapterRef": "p20"
+    },
+    {
+      "reference": "p20.37",
+      "label": "Pariśiṣṭa 20 §37",
+      "chapterRef": "p20"
+    },
+    {
+      "reference": "p20.38",
+      "label": "Pariśiṣṭa 20 §38",
+      "chapterRef": "p20"
+    },
+    {
+      "reference": "p20.39",
+      "label": "Pariśiṣṭa 20 §39",
+      "chapterRef": "p20"
+    },
+    {
+      "reference": "p20.40",
+      "label": "Pariśiṣṭa 20 §40",
+      "chapterRef": "p20"
+    },
+    {
+      "reference": "p20.41",
+      "label": "Pariśiṣṭa 20 §41",
+      "chapterRef": "p20"
+    },
+    {
+      "reference": "p20.42",
+      "label": "Pariśiṣṭa 20 §42",
+      "chapterRef": "p20"
+    },
+    {
+      "reference": "p20.43",
+      "label": "Pariśiṣṭa 20 §43",
+      "chapterRef": "p20"
+    },
+    {
+      "reference": "p20.44",
+      "label": "Pariśiṣṭa 20 §44",
+      "chapterRef": "p20"
+    },
+    {
+      "reference": "p20.45",
+      "label": "Pariśiṣṭa 20 §45",
+      "chapterRef": "p20"
+    },
+    {
+      "reference": "p20.46",
+      "label": "Pariśiṣṭa 20 §46",
+      "chapterRef": "p20"
+    },
+    {
+      "reference": "p20.47",
+      "label": "Pariśiṣṭa 20 §47",
+      "chapterRef": "p20"
+    },
+    {
+      "reference": "p20.48",
+      "label": "Pariśiṣṭa 20 §48",
+      "chapterRef": "p20"
+    }
+  ],
+  "editions": [
+    {
+      "slug": "narada-smriti-sa",
+      "language": "sa",
+      "editionType": "original",
+      "title": "Nāradasmṛti, critical edition (GRETIL e-text)",
+      "translator": "",
+      "publisher": "GRETIL, Göttingen State and University Library",
+      "publicationYear": 2020,
+      "source": "gretil",
+      "license": "cc-by-nc-sa-4.0",
+      "rightsStatus": "CC BY-NC-SA 4.0 as recorded in the e-text header",
+      "attributionText": "The Naradasmriti — the Sanskrit text. GRETIL e-text 2020-01-07, Göttingen Register of Electronic Texts in Indian Languages. Source edition: Richard W. Lariviere: The Nāradasmṛti. Critically edited with an introduction, annotated translation, and appendices. Philadelphia 1989 (University of Pennsylvania studies on South Asia 4-5). Input by Yasuke Ikari.",
+      "structureScheme": "reference index; each passage is one verse as GRETIL numbers it",
+      "isSample": false,
+      "notes": "This e-text was provided to GRETIL in good faith that no copyright rights have been infringed. If anyone wishes to assert copyright over this file, please contact the GRETIL management at gretil(at)sub(dot)uni-goettingen(dot)de. The file will be immediately removed pending resolution of the claim. Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. GRETIL describes the reference scheme as: A reference is assembled consisting of a pragmatic abbreviation of the title: Nāradasmṛti = NarS, a pragmatic abbreviation of the part: mātrikā = m, vyavahārapadāni = v, pariśiṣṭam = p, the number of the chapter in arabic numerals, the number of the verse.. The import cache stores the exact segments that were validated. The reader re-fetches the work from GRETIL and reports when the served count no longer matches the index."
+    }
+  ]
+}

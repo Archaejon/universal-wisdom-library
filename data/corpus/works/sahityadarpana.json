@@ -1,0 +1,4068 @@
+{
+  "slug": "sahityadarpana",
+  "title": "The Sahityadarpana",
+  "originalTitle": "साहित्यदर्पण",
+  "transliteration": "Sāhityadarpaṇa",
+  "altTitles": [
+    "Sahityadarpana",
+    "Mirror of Literature"
+  ],
+  "tradition": "hinduism",
+  "school": "",
+  "genre": "Poetics",
+  "textType": "Aphorisms with examples",
+  "category": "Aesthetics",
+  "subcategory": "Poetics",
+  "originalLanguage": "sa",
+  "dateStart": 1350,
+  "dateEnd": 1450,
+  "dateDisplay": "c. 14th–15th century CE",
+  "authorshipStatus": "established",
+  "author": "vishvanatha-kaviraja",
+  "attributionNote": "Written by Vishvanatha Kaviraja, a poet and scholar of Odisha, who wrote it as a manual for students of poetics.",
+  "description": "The Sahityadarpana treats Sanskrit literary criticism as a single system in ten chapters: the definition of poetry and its language, the imagination the poet works with, the figures of speech with examples of each, the emotions and the states that carry them, the qualities and faults of a poem, the genres of drama and poem, and the conventions a reader is asked to accept.",
+  "historicalContext": "Popular for its clarity and its balanced definition of poetry as language that conveys beauty and emotion, the work became the standard handbook of poetics in eastern India and is the account of Sanskrit literary theory most often read today.",
+  "availabilityNote": "Complete: the ten chapters of the Sanskrit text as GRETIL publishes it, streamed from GRETIL at read time, one chapter at a time. This is the original Sanskrit, not a translation.",
+  "featured": false,
+  "featuredNote": "",
+  "refScheme": "chapter.verse",
+  "isSample": false,
+  "textStorage": "streamed",
+  "chapters": [
+    {
+      "ref": "1",
+      "label": "Pariccheda 1"
+    },
+    {
+      "ref": "2",
+      "label": "Pariccheda 2"
+    },
+    {
+      "ref": "3",
+      "label": "Pariccheda 3"
+    },
+    {
+      "ref": "4",
+      "label": "Pariccheda 4"
+    },
+    {
+      "ref": "5",
+      "label": "Pariccheda 5"
+    },
+    {
+      "ref": "6",
+      "label": "Pariccheda 6"
+    },
+    {
+      "ref": "7",
+      "label": "Pariccheda 7"
+    },
+    {
+      "ref": "8",
+      "label": "Pariccheda 8"
+    },
+    {
+      "ref": "9",
+      "label": "Pariccheda 9"
+    },
+    {
+      "ref": "10",
+      "label": "Pariccheda 10"
+    }
+  ],
+  "passages": [
+    {
+      "reference": "1.1",
+      "label": "Pariccheda 1 §1",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.2",
+      "label": "Pariccheda 1 §2",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.3",
+      "label": "Pariccheda 1 §3",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "2.1",
+      "label": "Pariccheda 2 §1",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.2",
+      "label": "Pariccheda 2 §2",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.3",
+      "label": "Pariccheda 2 §3",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.4",
+      "label": "Pariccheda 2 §4",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.5",
+      "label": "Pariccheda 2 §5",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.6",
+      "label": "Pariccheda 2 §6",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.7",
+      "label": "Pariccheda 2 §7",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.8",
+      "label": "Pariccheda 2 §8",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.9",
+      "label": "Pariccheda 2 §9",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.10",
+      "label": "Pariccheda 2 §10",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.11",
+      "label": "Pariccheda 2 §11",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.12",
+      "label": "Pariccheda 2 §12",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.13",
+      "label": "Pariccheda 2 §13",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.14",
+      "label": "Pariccheda 2 §14",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.15",
+      "label": "Pariccheda 2 §15",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.16",
+      "label": "Pariccheda 2 §16",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.17",
+      "label": "Pariccheda 2 §17",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.18",
+      "label": "Pariccheda 2 §18",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.19",
+      "label": "Pariccheda 2 §19",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.20",
+      "label": "Pariccheda 2 §20",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "3.1",
+      "label": "Pariccheda 3 §1",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.2",
+      "label": "Pariccheda 3 §2",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.3",
+      "label": "Pariccheda 3 §3",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.4",
+      "label": "Pariccheda 3 §4",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.5",
+      "label": "Pariccheda 3 §5",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.6",
+      "label": "Pariccheda 3 §6",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.7",
+      "label": "Pariccheda 3 §7",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.8",
+      "label": "Pariccheda 3 §8",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.9",
+      "label": "Pariccheda 3 §9",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.10",
+      "label": "Pariccheda 3 §10",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.11",
+      "label": "Pariccheda 3 §11",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.12",
+      "label": "Pariccheda 3 §12",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.13",
+      "label": "Pariccheda 3 §13",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.14",
+      "label": "Pariccheda 3 §14",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.15",
+      "label": "Pariccheda 3 §15",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.16",
+      "label": "Pariccheda 3 §16",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.17",
+      "label": "Pariccheda 3 §17",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.18",
+      "label": "Pariccheda 3 §18",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.19",
+      "label": "Pariccheda 3 §19",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.20",
+      "label": "Pariccheda 3 §20",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.21",
+      "label": "Pariccheda 3 §21",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.22",
+      "label": "Pariccheda 3 §22",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.23",
+      "label": "Pariccheda 3 §23",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.24",
+      "label": "Pariccheda 3 §24",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.25",
+      "label": "Pariccheda 3 §25",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.26",
+      "label": "Pariccheda 3 §26",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.27",
+      "label": "Pariccheda 3 §27",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.28",
+      "label": "Pariccheda 3 §28",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.29",
+      "label": "Pariccheda 3 §29",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.30",
+      "label": "Pariccheda 3 §30",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.31",
+      "label": "Pariccheda 3 §31",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.32",
+      "label": "Pariccheda 3 §32",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.33",
+      "label": "Pariccheda 3 §33",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.34",
+      "label": "Pariccheda 3 §34",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.35",
+      "label": "Pariccheda 3 §35",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.36",
+      "label": "Pariccheda 3 §36",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.37",
+      "label": "Pariccheda 3 §37",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.38",
+      "label": "Pariccheda 3 §38",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.39",
+      "label": "Pariccheda 3 §39",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.40",
+      "label": "Pariccheda 3 §40",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.41",
+      "label": "Pariccheda 3 §41",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.42",
+      "label": "Pariccheda 3 §42",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.43",
+      "label": "Pariccheda 3 §43",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.44",
+      "label": "Pariccheda 3 §44",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.45",
+      "label": "Pariccheda 3 §45",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.46",
+      "label": "Pariccheda 3 §46",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.47",
+      "label": "Pariccheda 3 §47",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.48",
+      "label": "Pariccheda 3 §48",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.49",
+      "label": "Pariccheda 3 §49",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.50",
+      "label": "Pariccheda 3 §50",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.51",
+      "label": "Pariccheda 3 §51",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.52",
+      "label": "Pariccheda 3 §52",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.53",
+      "label": "Pariccheda 3 §53",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.54",
+      "label": "Pariccheda 3 §54",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.55",
+      "label": "Pariccheda 3 §55",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.56",
+      "label": "Pariccheda 3 §56",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.57",
+      "label": "Pariccheda 3 §57",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.58",
+      "label": "Pariccheda 3 §58",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.59",
+      "label": "Pariccheda 3 §59",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.60",
+      "label": "Pariccheda 3 §60",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.61",
+      "label": "Pariccheda 3 §61",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.62",
+      "label": "Pariccheda 3 §62",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.63",
+      "label": "Pariccheda 3 §63",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.64",
+      "label": "Pariccheda 3 §64",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.65",
+      "label": "Pariccheda 3 §65",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.66",
+      "label": "Pariccheda 3 §66",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.67",
+      "label": "Pariccheda 3 §67",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.68",
+      "label": "Pariccheda 3 §68",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.69",
+      "label": "Pariccheda 3 §69",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.70",
+      "label": "Pariccheda 3 §70",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.71",
+      "label": "Pariccheda 3 §71",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.72",
+      "label": "Pariccheda 3 §72",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.73",
+      "label": "Pariccheda 3 §73",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.74",
+      "label": "Pariccheda 3 §74",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.75",
+      "label": "Pariccheda 3 §75",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.76",
+      "label": "Pariccheda 3 §76",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.77",
+      "label": "Pariccheda 3 §77",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.78",
+      "label": "Pariccheda 3 §78",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.79",
+      "label": "Pariccheda 3 §79",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.80",
+      "label": "Pariccheda 3 §80",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.81",
+      "label": "Pariccheda 3 §81",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.82",
+      "label": "Pariccheda 3 §82",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.83",
+      "label": "Pariccheda 3 §83",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.84",
+      "label": "Pariccheda 3 §84",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.85",
+      "label": "Pariccheda 3 §85",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.86",
+      "label": "Pariccheda 3 §86",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.87",
+      "label": "Pariccheda 3 §87",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.88",
+      "label": "Pariccheda 3 §88",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.89",
+      "label": "Pariccheda 3 §89",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.90",
+      "label": "Pariccheda 3 §90",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.91",
+      "label": "Pariccheda 3 §91",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.92",
+      "label": "Pariccheda 3 §92",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.93",
+      "label": "Pariccheda 3 §93",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.94",
+      "label": "Pariccheda 3 §94",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.95",
+      "label": "Pariccheda 3 §95",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.96",
+      "label": "Pariccheda 3 §96",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.97",
+      "label": "Pariccheda 3 §97",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.98",
+      "label": "Pariccheda 3 §98",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.99",
+      "label": "Pariccheda 3 §99",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.100",
+      "label": "Pariccheda 3 §100",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.101",
+      "label": "Pariccheda 3 §101",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.102",
+      "label": "Pariccheda 3 §102",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.103",
+      "label": "Pariccheda 3 §103",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.104",
+      "label": "Pariccheda 3 §104",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.105",
+      "label": "Pariccheda 3 §105",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.106",
+      "label": "Pariccheda 3 §106",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.107",
+      "label": "Pariccheda 3 §107",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.108",
+      "label": "Pariccheda 3 §108",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.109",
+      "label": "Pariccheda 3 §109",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.110",
+      "label": "Pariccheda 3 §110",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.111",
+      "label": "Pariccheda 3 §111",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.112",
+      "label": "Pariccheda 3 §112",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.113",
+      "label": "Pariccheda 3 §113",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.114",
+      "label": "Pariccheda 3 §114",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.115",
+      "label": "Pariccheda 3 §115",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.116",
+      "label": "Pariccheda 3 §116",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.117",
+      "label": "Pariccheda 3 §117",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.118",
+      "label": "Pariccheda 3 §118",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.119",
+      "label": "Pariccheda 3 §119",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.120",
+      "label": "Pariccheda 3 §120",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.121",
+      "label": "Pariccheda 3 §121",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.122",
+      "label": "Pariccheda 3 §122",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.123",
+      "label": "Pariccheda 3 §123",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.124",
+      "label": "Pariccheda 3 §124",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.125",
+      "label": "Pariccheda 3 §125",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.126",
+      "label": "Pariccheda 3 §126",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.127",
+      "label": "Pariccheda 3 §127",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.128",
+      "label": "Pariccheda 3 §128",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.129",
+      "label": "Pariccheda 3 §129",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.130",
+      "label": "Pariccheda 3 §130",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.131",
+      "label": "Pariccheda 3 §131",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.132",
+      "label": "Pariccheda 3 §132",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.133",
+      "label": "Pariccheda 3 §133",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.134",
+      "label": "Pariccheda 3 §134",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.135",
+      "label": "Pariccheda 3 §135",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.136",
+      "label": "Pariccheda 3 §136",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.137",
+      "label": "Pariccheda 3 §137",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.138",
+      "label": "Pariccheda 3 §138",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.139",
+      "label": "Pariccheda 3 §139",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.140",
+      "label": "Pariccheda 3 §140",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.141",
+      "label": "Pariccheda 3 §141",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.142",
+      "label": "Pariccheda 3 §142",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.143",
+      "label": "Pariccheda 3 §143",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.144",
+      "label": "Pariccheda 3 §144",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.145",
+      "label": "Pariccheda 3 §145",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.146",
+      "label": "Pariccheda 3 §146",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.147",
+      "label": "Pariccheda 3 §147",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.148",
+      "label": "Pariccheda 3 §148",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.149",
+      "label": "Pariccheda 3 §149",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.150",
+      "label": "Pariccheda 3 §150",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.151",
+      "label": "Pariccheda 3 §151",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.152",
+      "label": "Pariccheda 3 §152",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.153",
+      "label": "Pariccheda 3 §153",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.154",
+      "label": "Pariccheda 3 §154",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.155",
+      "label": "Pariccheda 3 §155",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.156",
+      "label": "Pariccheda 3 §156",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.157",
+      "label": "Pariccheda 3 §157",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.158",
+      "label": "Pariccheda 3 §158",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.159",
+      "label": "Pariccheda 3 §159",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.160",
+      "label": "Pariccheda 3 §160",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.161",
+      "label": "Pariccheda 3 §161",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.162",
+      "label": "Pariccheda 3 §162",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.163",
+      "label": "Pariccheda 3 §163",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.164",
+      "label": "Pariccheda 3 §164",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.165",
+      "label": "Pariccheda 3 §165",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.166",
+      "label": "Pariccheda 3 §166",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.167",
+      "label": "Pariccheda 3 §167",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.168",
+      "label": "Pariccheda 3 §168",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.169",
+      "label": "Pariccheda 3 §169",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.170",
+      "label": "Pariccheda 3 §170",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.171",
+      "label": "Pariccheda 3 §171",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.172",
+      "label": "Pariccheda 3 §172",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.173",
+      "label": "Pariccheda 3 §173",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.174",
+      "label": "Pariccheda 3 §174",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.175",
+      "label": "Pariccheda 3 §175",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.176",
+      "label": "Pariccheda 3 §176",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.177",
+      "label": "Pariccheda 3 §177",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.178",
+      "label": "Pariccheda 3 §178",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.179",
+      "label": "Pariccheda 3 §179",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.180",
+      "label": "Pariccheda 3 §180",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.181",
+      "label": "Pariccheda 3 §181",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.182",
+      "label": "Pariccheda 3 §182",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.183",
+      "label": "Pariccheda 3 §183",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.184",
+      "label": "Pariccheda 3 §184",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.185",
+      "label": "Pariccheda 3 §185",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.186",
+      "label": "Pariccheda 3 §186",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.187",
+      "label": "Pariccheda 3 §187",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.188",
+      "label": "Pariccheda 3 §188",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.189",
+      "label": "Pariccheda 3 §189",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.190",
+      "label": "Pariccheda 3 §190",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.191",
+      "label": "Pariccheda 3 §191",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.192",
+      "label": "Pariccheda 3 §192",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.193",
+      "label": "Pariccheda 3 §193",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.194",
+      "label": "Pariccheda 3 §194",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.195",
+      "label": "Pariccheda 3 §195",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.196",
+      "label": "Pariccheda 3 §196",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.197",
+      "label": "Pariccheda 3 §197",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.198",
+      "label": "Pariccheda 3 §198",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.199",
+      "label": "Pariccheda 3 §199",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.200",
+      "label": "Pariccheda 3 §200",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.201",
+      "label": "Pariccheda 3 §201",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.202",
+      "label": "Pariccheda 3 §202",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.203",
+      "label": "Pariccheda 3 §203",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.204",
+      "label": "Pariccheda 3 §204",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.205",
+      "label": "Pariccheda 3 §205",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.206",
+      "label": "Pariccheda 3 §206",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.207",
+      "label": "Pariccheda 3 §207",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.208",
+      "label": "Pariccheda 3 §208",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.209",
+      "label": "Pariccheda 3 §209",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.210",
+      "label": "Pariccheda 3 §210",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.211",
+      "label": "Pariccheda 3 §211",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.212",
+      "label": "Pariccheda 3 §212",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.213",
+      "label": "Pariccheda 3 §213",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.214",
+      "label": "Pariccheda 3 §214",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.215",
+      "label": "Pariccheda 3 §215",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.216",
+      "label": "Pariccheda 3 §216",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.217",
+      "label": "Pariccheda 3 §217",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.218",
+      "label": "Pariccheda 3 §218",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.219",
+      "label": "Pariccheda 3 §219",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.220",
+      "label": "Pariccheda 3 §220",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.221",
+      "label": "Pariccheda 3 §221",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.222",
+      "label": "Pariccheda 3 §222",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.223",
+      "label": "Pariccheda 3 §223",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.224",
+      "label": "Pariccheda 3 §224",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.225",
+      "label": "Pariccheda 3 §225",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.226",
+      "label": "Pariccheda 3 §226",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.227",
+      "label": "Pariccheda 3 §227",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.228",
+      "label": "Pariccheda 3 §228",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.229",
+      "label": "Pariccheda 3 §229",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.230",
+      "label": "Pariccheda 3 §230",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.231",
+      "label": "Pariccheda 3 §231",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.232",
+      "label": "Pariccheda 3 §232",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.233",
+      "label": "Pariccheda 3 §233",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.234",
+      "label": "Pariccheda 3 §234",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.235",
+      "label": "Pariccheda 3 §235",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.236",
+      "label": "Pariccheda 3 §236",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.237",
+      "label": "Pariccheda 3 §237",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.238",
+      "label": "Pariccheda 3 §238",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.239",
+      "label": "Pariccheda 3 §239",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.240",
+      "label": "Pariccheda 3 §240",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.241",
+      "label": "Pariccheda 3 §241",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.242",
+      "label": "Pariccheda 3 §242",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.243",
+      "label": "Pariccheda 3 §243",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.244",
+      "label": "Pariccheda 3 §244",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.245",
+      "label": "Pariccheda 3 §245",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.246",
+      "label": "Pariccheda 3 §246",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.247",
+      "label": "Pariccheda 3 §247",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.248",
+      "label": "Pariccheda 3 §248",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.249",
+      "label": "Pariccheda 3 §249",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.250",
+      "label": "Pariccheda 3 §250",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.251",
+      "label": "Pariccheda 3 §251",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.252",
+      "label": "Pariccheda 3 §252",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.253",
+      "label": "Pariccheda 3 §253",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.254",
+      "label": "Pariccheda 3 §254",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.255",
+      "label": "Pariccheda 3 §255",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.256",
+      "label": "Pariccheda 3 §256",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.257",
+      "label": "Pariccheda 3 §257",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.258",
+      "label": "Pariccheda 3 §258",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.259",
+      "label": "Pariccheda 3 §259",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.260",
+      "label": "Pariccheda 3 §260",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.261",
+      "label": "Pariccheda 3 §261",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.262",
+      "label": "Pariccheda 3 §262",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.263",
+      "label": "Pariccheda 3 §263",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.264",
+      "label": "Pariccheda 3 §264",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.265",
+      "label": "Pariccheda 3 §265",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.266",
+      "label": "Pariccheda 3 §266",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.267",
+      "label": "Pariccheda 3 §267",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "4.1",
+      "label": "Pariccheda 4 §1",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.2",
+      "label": "Pariccheda 4 §2",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.3",
+      "label": "Pariccheda 4 §3",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.4",
+      "label": "Pariccheda 4 §4",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.5",
+      "label": "Pariccheda 4 §5",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.6",
+      "label": "Pariccheda 4 §6",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.7",
+      "label": "Pariccheda 4 §7",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.8",
+      "label": "Pariccheda 4 §8",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.9",
+      "label": "Pariccheda 4 §9",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.10",
+      "label": "Pariccheda 4 §10",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.11",
+      "label": "Pariccheda 4 §11",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.12",
+      "label": "Pariccheda 4 §12",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.13",
+      "label": "Pariccheda 4 §13",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.14",
+      "label": "Pariccheda 4 §14",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "5.1",
+      "label": "Pariccheda 5 §1",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.2",
+      "label": "Pariccheda 5 §2",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.3",
+      "label": "Pariccheda 5 §3",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.4",
+      "label": "Pariccheda 5 §4",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.5",
+      "label": "Pariccheda 5 §5",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "6.1",
+      "label": "Pariccheda 6 §1",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.2",
+      "label": "Pariccheda 6 §2",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.3",
+      "label": "Pariccheda 6 §3",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.4",
+      "label": "Pariccheda 6 §4",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.5",
+      "label": "Pariccheda 6 §5",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.6",
+      "label": "Pariccheda 6 §6",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.7",
+      "label": "Pariccheda 6 §7",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.8",
+      "label": "Pariccheda 6 §8",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.9",
+      "label": "Pariccheda 6 §9",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.10",
+      "label": "Pariccheda 6 §10",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.11",
+      "label": "Pariccheda 6 §11",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.12",
+      "label": "Pariccheda 6 §12",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.13",
+      "label": "Pariccheda 6 §13",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.14",
+      "label": "Pariccheda 6 §14",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.15",
+      "label": "Pariccheda 6 §15",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.16",
+      "label": "Pariccheda 6 §16",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.17",
+      "label": "Pariccheda 6 §17",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.18",
+      "label": "Pariccheda 6 §18",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.19",
+      "label": "Pariccheda 6 §19",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.20",
+      "label": "Pariccheda 6 §20",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.21",
+      "label": "Pariccheda 6 §21",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.22",
+      "label": "Pariccheda 6 §22",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.23",
+      "label": "Pariccheda 6 §23",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.24",
+      "label": "Pariccheda 6 §24",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.25",
+      "label": "Pariccheda 6 §25",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.26",
+      "label": "Pariccheda 6 §26",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.27",
+      "label": "Pariccheda 6 §27",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.28",
+      "label": "Pariccheda 6 §28",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.29",
+      "label": "Pariccheda 6 §29",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.30",
+      "label": "Pariccheda 6 §30",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.31",
+      "label": "Pariccheda 6 §31",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.32",
+      "label": "Pariccheda 6 §32",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.33",
+      "label": "Pariccheda 6 §33",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.34",
+      "label": "Pariccheda 6 §34",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.35",
+      "label": "Pariccheda 6 §35",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.36",
+      "label": "Pariccheda 6 §36",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.37",
+      "label": "Pariccheda 6 §37",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.38",
+      "label": "Pariccheda 6 §38",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.39",
+      "label": "Pariccheda 6 §39",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.40",
+      "label": "Pariccheda 6 §40",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.41",
+      "label": "Pariccheda 6 §41",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.42",
+      "label": "Pariccheda 6 §42",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.43",
+      "label": "Pariccheda 6 §43",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.44",
+      "label": "Pariccheda 6 §44",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.45",
+      "label": "Pariccheda 6 §45",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.46",
+      "label": "Pariccheda 6 §46",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.47",
+      "label": "Pariccheda 6 §47",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.48",
+      "label": "Pariccheda 6 §48",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.49",
+      "label": "Pariccheda 6 §49",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.50",
+      "label": "Pariccheda 6 §50",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.51",
+      "label": "Pariccheda 6 §51",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.52",
+      "label": "Pariccheda 6 §52",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.53",
+      "label": "Pariccheda 6 §53",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.54",
+      "label": "Pariccheda 6 §54",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.55",
+      "label": "Pariccheda 6 §55",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.56",
+      "label": "Pariccheda 6 §56",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.57",
+      "label": "Pariccheda 6 §57",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.58",
+      "label": "Pariccheda 6 §58",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.59",
+      "label": "Pariccheda 6 §59",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.60",
+      "label": "Pariccheda 6 §60",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.61",
+      "label": "Pariccheda 6 §61",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.62",
+      "label": "Pariccheda 6 §62",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.63",
+      "label": "Pariccheda 6 §63",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.64",
+      "label": "Pariccheda 6 §64",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.65",
+      "label": "Pariccheda 6 §65",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.66",
+      "label": "Pariccheda 6 §66",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.67",
+      "label": "Pariccheda 6 §67",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.68",
+      "label": "Pariccheda 6 §68",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.69",
+      "label": "Pariccheda 6 §69",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.70",
+      "label": "Pariccheda 6 §70",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.71",
+      "label": "Pariccheda 6 §71",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.72",
+      "label": "Pariccheda 6 §72",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.73",
+      "label": "Pariccheda 6 §73",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.74",
+      "label": "Pariccheda 6 §74",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.75",
+      "label": "Pariccheda 6 §75",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.76",
+      "label": "Pariccheda 6 §76",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.77",
+      "label": "Pariccheda 6 §77",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.78",
+      "label": "Pariccheda 6 §78",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.79",
+      "label": "Pariccheda 6 §79",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.80",
+      "label": "Pariccheda 6 §80",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.81",
+      "label": "Pariccheda 6 §81",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.82",
+      "label": "Pariccheda 6 §82",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.83",
+      "label": "Pariccheda 6 §83",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.84",
+      "label": "Pariccheda 6 §84",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.85",
+      "label": "Pariccheda 6 §85",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.86",
+      "label": "Pariccheda 6 §86",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.87",
+      "label": "Pariccheda 6 §87",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.88",
+      "label": "Pariccheda 6 §88",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.89",
+      "label": "Pariccheda 6 §89",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.90",
+      "label": "Pariccheda 6 §90",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.91",
+      "label": "Pariccheda 6 §91",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.92",
+      "label": "Pariccheda 6 §92",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.93",
+      "label": "Pariccheda 6 §93",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.94",
+      "label": "Pariccheda 6 §94",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.95",
+      "label": "Pariccheda 6 §95",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.96",
+      "label": "Pariccheda 6 §96",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.97",
+      "label": "Pariccheda 6 §97",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.98",
+      "label": "Pariccheda 6 §98",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.99",
+      "label": "Pariccheda 6 §99",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.100",
+      "label": "Pariccheda 6 §100",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.101",
+      "label": "Pariccheda 6 §101",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.102",
+      "label": "Pariccheda 6 §102",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.103",
+      "label": "Pariccheda 6 §103",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.104",
+      "label": "Pariccheda 6 §104",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.105",
+      "label": "Pariccheda 6 §105",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.106",
+      "label": "Pariccheda 6 §106",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.107",
+      "label": "Pariccheda 6 §107",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.108",
+      "label": "Pariccheda 6 §108",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.109",
+      "label": "Pariccheda 6 §109",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.110",
+      "label": "Pariccheda 6 §110",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.111",
+      "label": "Pariccheda 6 §111",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.112",
+      "label": "Pariccheda 6 §112",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.113",
+      "label": "Pariccheda 6 §113",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.114",
+      "label": "Pariccheda 6 §114",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.115",
+      "label": "Pariccheda 6 §115",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.116",
+      "label": "Pariccheda 6 §116",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.117",
+      "label": "Pariccheda 6 §117",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.118",
+      "label": "Pariccheda 6 §118",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.119",
+      "label": "Pariccheda 6 §119",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.120",
+      "label": "Pariccheda 6 §120",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.121",
+      "label": "Pariccheda 6 §121",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.122",
+      "label": "Pariccheda 6 §122",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.123",
+      "label": "Pariccheda 6 §123",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.124",
+      "label": "Pariccheda 6 §124",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.125",
+      "label": "Pariccheda 6 §125",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.126",
+      "label": "Pariccheda 6 §126",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.127",
+      "label": "Pariccheda 6 §127",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.128",
+      "label": "Pariccheda 6 §128",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.129",
+      "label": "Pariccheda 6 §129",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.130",
+      "label": "Pariccheda 6 §130",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.131",
+      "label": "Pariccheda 6 §131",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.132",
+      "label": "Pariccheda 6 §132",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.133",
+      "label": "Pariccheda 6 §133",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.134",
+      "label": "Pariccheda 6 §134",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.135",
+      "label": "Pariccheda 6 §135",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.136",
+      "label": "Pariccheda 6 §136",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.137",
+      "label": "Pariccheda 6 §137",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.138",
+      "label": "Pariccheda 6 §138",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.139",
+      "label": "Pariccheda 6 §139",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.140",
+      "label": "Pariccheda 6 §140",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.141",
+      "label": "Pariccheda 6 §141",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.142",
+      "label": "Pariccheda 6 §142",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.143",
+      "label": "Pariccheda 6 §143",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.144",
+      "label": "Pariccheda 6 §144",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.145",
+      "label": "Pariccheda 6 §145",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.146",
+      "label": "Pariccheda 6 §146",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.147",
+      "label": "Pariccheda 6 §147",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.148",
+      "label": "Pariccheda 6 §148",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.149",
+      "label": "Pariccheda 6 §149",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.150",
+      "label": "Pariccheda 6 §150",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.151",
+      "label": "Pariccheda 6 §151",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.152",
+      "label": "Pariccheda 6 §152",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.153",
+      "label": "Pariccheda 6 §153",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.154",
+      "label": "Pariccheda 6 §154",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.155",
+      "label": "Pariccheda 6 §155",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.156",
+      "label": "Pariccheda 6 §156",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.157",
+      "label": "Pariccheda 6 §157",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.158",
+      "label": "Pariccheda 6 §158",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.159",
+      "label": "Pariccheda 6 §159",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.160",
+      "label": "Pariccheda 6 §160",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.161",
+      "label": "Pariccheda 6 §161",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.162",
+      "label": "Pariccheda 6 §162",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.163",
+      "label": "Pariccheda 6 §163",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.164",
+      "label": "Pariccheda 6 §164",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.165",
+      "label": "Pariccheda 6 §165",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.166",
+      "label": "Pariccheda 6 §166",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.167",
+      "label": "Pariccheda 6 §167",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.168",
+      "label": "Pariccheda 6 §168",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.169",
+      "label": "Pariccheda 6 §169",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.170",
+      "label": "Pariccheda 6 §170",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.171",
+      "label": "Pariccheda 6 §171",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.172",
+      "label": "Pariccheda 6 §172",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.173",
+      "label": "Pariccheda 6 §173",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.174",
+      "label": "Pariccheda 6 §174",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.175",
+      "label": "Pariccheda 6 §175",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.176",
+      "label": "Pariccheda 6 §176",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.177",
+      "label": "Pariccheda 6 §177",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.178",
+      "label": "Pariccheda 6 §178",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.179",
+      "label": "Pariccheda 6 §179",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.180",
+      "label": "Pariccheda 6 §180",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.181",
+      "label": "Pariccheda 6 §181",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.182",
+      "label": "Pariccheda 6 §182",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.183",
+      "label": "Pariccheda 6 §183",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.184",
+      "label": "Pariccheda 6 §184",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.185",
+      "label": "Pariccheda 6 §185",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.186",
+      "label": "Pariccheda 6 §186",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.187",
+      "label": "Pariccheda 6 §187",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.188",
+      "label": "Pariccheda 6 §188",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.189",
+      "label": "Pariccheda 6 §189",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.190",
+      "label": "Pariccheda 6 §190",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.191",
+      "label": "Pariccheda 6 §191",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.192",
+      "label": "Pariccheda 6 §192",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.193",
+      "label": "Pariccheda 6 §193",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.194",
+      "label": "Pariccheda 6 §194",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.195",
+      "label": "Pariccheda 6 §195",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.196",
+      "label": "Pariccheda 6 §196",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.197",
+      "label": "Pariccheda 6 §197",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.198",
+      "label": "Pariccheda 6 §198",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.199",
+      "label": "Pariccheda 6 §199",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.200",
+      "label": "Pariccheda 6 §200",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.201",
+      "label": "Pariccheda 6 §201",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.202",
+      "label": "Pariccheda 6 §202",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.203",
+      "label": "Pariccheda 6 §203",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.204",
+      "label": "Pariccheda 6 §204",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.205",
+      "label": "Pariccheda 6 §205",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.206",
+      "label": "Pariccheda 6 §206",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.207",
+      "label": "Pariccheda 6 §207",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.208",
+      "label": "Pariccheda 6 §208",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.209",
+      "label": "Pariccheda 6 §209",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.210",
+      "label": "Pariccheda 6 §210",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.211",
+      "label": "Pariccheda 6 §211",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.212",
+      "label": "Pariccheda 6 §212",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.213",
+      "label": "Pariccheda 6 §213",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.214",
+      "label": "Pariccheda 6 §214",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.215",
+      "label": "Pariccheda 6 §215",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.216",
+      "label": "Pariccheda 6 §216",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.217",
+      "label": "Pariccheda 6 §217",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.218",
+      "label": "Pariccheda 6 §218",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.219",
+      "label": "Pariccheda 6 §219",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.220",
+      "label": "Pariccheda 6 §220",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.221",
+      "label": "Pariccheda 6 §221",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.222",
+      "label": "Pariccheda 6 §222",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.223",
+      "label": "Pariccheda 6 §223",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.224",
+      "label": "Pariccheda 6 §224",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.225",
+      "label": "Pariccheda 6 §225",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.226",
+      "label": "Pariccheda 6 §226",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.227",
+      "label": "Pariccheda 6 §227",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.228",
+      "label": "Pariccheda 6 §228",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.229",
+      "label": "Pariccheda 6 §229",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.230",
+      "label": "Pariccheda 6 §230",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.231",
+      "label": "Pariccheda 6 §231",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.232",
+      "label": "Pariccheda 6 §232",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.233",
+      "label": "Pariccheda 6 §233",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.234",
+      "label": "Pariccheda 6 §234",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.235",
+      "label": "Pariccheda 6 §235",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.236",
+      "label": "Pariccheda 6 §236",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.237",
+      "label": "Pariccheda 6 §237",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.238",
+      "label": "Pariccheda 6 §238",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.239",
+      "label": "Pariccheda 6 §239",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.240",
+      "label": "Pariccheda 6 §240",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.241",
+      "label": "Pariccheda 6 §241",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.242",
+      "label": "Pariccheda 6 §242",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.243",
+      "label": "Pariccheda 6 §243",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.244",
+      "label": "Pariccheda 6 §244",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.245",
+      "label": "Pariccheda 6 §245",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.246",
+      "label": "Pariccheda 6 §246",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.247",
+      "label": "Pariccheda 6 §247",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.248",
+      "label": "Pariccheda 6 §248",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.249",
+      "label": "Pariccheda 6 §249",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.250",
+      "label": "Pariccheda 6 §250",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.251",
+      "label": "Pariccheda 6 §251",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.252",
+      "label": "Pariccheda 6 §252",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.253",
+      "label": "Pariccheda 6 §253",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.254",
+      "label": "Pariccheda 6 §254",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.255",
+      "label": "Pariccheda 6 §255",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.256",
+      "label": "Pariccheda 6 §256",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.257",
+      "label": "Pariccheda 6 §257",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.258",
+      "label": "Pariccheda 6 §258",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.259",
+      "label": "Pariccheda 6 §259",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.260",
+      "label": "Pariccheda 6 §260",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.261",
+      "label": "Pariccheda 6 §261",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.262",
+      "label": "Pariccheda 6 §262",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.263",
+      "label": "Pariccheda 6 §263",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.264",
+      "label": "Pariccheda 6 §264",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.265",
+      "label": "Pariccheda 6 §265",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.266",
+      "label": "Pariccheda 6 §266",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.267",
+      "label": "Pariccheda 6 §267",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.268",
+      "label": "Pariccheda 6 §268",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.269",
+      "label": "Pariccheda 6 §269",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.270",
+      "label": "Pariccheda 6 §270",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.271",
+      "label": "Pariccheda 6 §271",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.272",
+      "label": "Pariccheda 6 §272",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.273",
+      "label": "Pariccheda 6 §273",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.274",
+      "label": "Pariccheda 6 §274",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.275",
+      "label": "Pariccheda 6 §275",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.276",
+      "label": "Pariccheda 6 §276",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.277",
+      "label": "Pariccheda 6 §277",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.278",
+      "label": "Pariccheda 6 §278",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.279",
+      "label": "Pariccheda 6 §279",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.280",
+      "label": "Pariccheda 6 §280",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.281",
+      "label": "Pariccheda 6 §281",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.282",
+      "label": "Pariccheda 6 §282",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.283",
+      "label": "Pariccheda 6 §283",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.284",
+      "label": "Pariccheda 6 §284",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.285",
+      "label": "Pariccheda 6 §285",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.286",
+      "label": "Pariccheda 6 §286",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.287",
+      "label": "Pariccheda 6 §287",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.288",
+      "label": "Pariccheda 6 §288",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.289",
+      "label": "Pariccheda 6 §289",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.290",
+      "label": "Pariccheda 6 §290",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.291",
+      "label": "Pariccheda 6 §291",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.292",
+      "label": "Pariccheda 6 §292",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.293",
+      "label": "Pariccheda 6 §293",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.294",
+      "label": "Pariccheda 6 §294",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.295",
+      "label": "Pariccheda 6 §295",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.296",
+      "label": "Pariccheda 6 §296",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.297",
+      "label": "Pariccheda 6 §297",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.298",
+      "label": "Pariccheda 6 §298",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.299",
+      "label": "Pariccheda 6 §299",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.300",
+      "label": "Pariccheda 6 §300",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.301",
+      "label": "Pariccheda 6 §301",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.302",
+      "label": "Pariccheda 6 §302",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.303",
+      "label": "Pariccheda 6 §303",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.304",
+      "label": "Pariccheda 6 §304",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.305",
+      "label": "Pariccheda 6 §305",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.306",
+      "label": "Pariccheda 6 §306",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.307",
+      "label": "Pariccheda 6 §307",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.308",
+      "label": "Pariccheda 6 §308",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.309",
+      "label": "Pariccheda 6 §309",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.310",
+      "label": "Pariccheda 6 §310",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.311",
+      "label": "Pariccheda 6 §311",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.312",
+      "label": "Pariccheda 6 §312",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.313",
+      "label": "Pariccheda 6 §313",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.314",
+      "label": "Pariccheda 6 §314",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.315",
+      "label": "Pariccheda 6 §315",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.316",
+      "label": "Pariccheda 6 §316",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.317",
+      "label": "Pariccheda 6 §317",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.318",
+      "label": "Pariccheda 6 §318",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.319",
+      "label": "Pariccheda 6 §319",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.320",
+      "label": "Pariccheda 6 §320",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.321",
+      "label": "Pariccheda 6 §321",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.322",
+      "label": "Pariccheda 6 §322",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.323",
+      "label": "Pariccheda 6 §323",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.324",
+      "label": "Pariccheda 6 §324",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.325",
+      "label": "Pariccheda 6 §325",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.326",
+      "label": "Pariccheda 6 §326",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.327",
+      "label": "Pariccheda 6 §327",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.328",
+      "label": "Pariccheda 6 §328",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.329",
+      "label": "Pariccheda 6 §329",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.330",
+      "label": "Pariccheda 6 §330",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.331",
+      "label": "Pariccheda 6 §331",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.332",
+      "label": "Pariccheda 6 §332",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.333",
+      "label": "Pariccheda 6 §333",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.334",
+      "label": "Pariccheda 6 §334",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.335",
+      "label": "Pariccheda 6 §335",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.336",
+      "label": "Pariccheda 6 §336",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.337",
+      "label": "Pariccheda 6 §337",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "7.1",
+      "label": "Pariccheda 7 §1",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.2",
+      "label": "Pariccheda 7 §2",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.3",
+      "label": "Pariccheda 7 §3",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.4",
+      "label": "Pariccheda 7 §4",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.5",
+      "label": "Pariccheda 7 §5",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.6",
+      "label": "Pariccheda 7 §6",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.7",
+      "label": "Pariccheda 7 §7",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.8",
+      "label": "Pariccheda 7 §8",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.9",
+      "label": "Pariccheda 7 §9",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.10",
+      "label": "Pariccheda 7 §10",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.11",
+      "label": "Pariccheda 7 §11",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.12",
+      "label": "Pariccheda 7 §12",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.13",
+      "label": "Pariccheda 7 §13",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.14",
+      "label": "Pariccheda 7 §14",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.15",
+      "label": "Pariccheda 7 §15",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.16",
+      "label": "Pariccheda 7 §16",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.17",
+      "label": "Pariccheda 7 §17",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.18",
+      "label": "Pariccheda 7 §18",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.19",
+      "label": "Pariccheda 7 §19",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.20",
+      "label": "Pariccheda 7 §20",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.21",
+      "label": "Pariccheda 7 §21",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.22",
+      "label": "Pariccheda 7 §22",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.23",
+      "label": "Pariccheda 7 §23",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.24",
+      "label": "Pariccheda 7 §24",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.25",
+      "label": "Pariccheda 7 §25",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.26",
+      "label": "Pariccheda 7 §26",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.27",
+      "label": "Pariccheda 7 §27",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.28",
+      "label": "Pariccheda 7 §28",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.29",
+      "label": "Pariccheda 7 §29",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.30",
+      "label": "Pariccheda 7 §30",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.31",
+      "label": "Pariccheda 7 §31",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.32",
+      "label": "Pariccheda 7 §32",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "8.1",
+      "label": "Pariccheda 8 §1",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.2",
+      "label": "Pariccheda 8 §2",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.3",
+      "label": "Pariccheda 8 §3",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.4",
+      "label": "Pariccheda 8 §4",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.5",
+      "label": "Pariccheda 8 §5",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.6",
+      "label": "Pariccheda 8 §6",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.7",
+      "label": "Pariccheda 8 §7",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.8",
+      "label": "Pariccheda 8 §8",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.9",
+      "label": "Pariccheda 8 §9",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.10",
+      "label": "Pariccheda 8 §10",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.11",
+      "label": "Pariccheda 8 §11",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.12",
+      "label": "Pariccheda 8 §12",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "9.1",
+      "label": "Pariccheda 9 §1",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.2",
+      "label": "Pariccheda 9 §2",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.3",
+      "label": "Pariccheda 9 §3",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.4",
+      "label": "Pariccheda 9 §4",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.5",
+      "label": "Pariccheda 9 §5",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "10.1",
+      "label": "Pariccheda 10 §1",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.2",
+      "label": "Pariccheda 10 §2",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.3",
+      "label": "Pariccheda 10 §3",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.4",
+      "label": "Pariccheda 10 §4",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.5",
+      "label": "Pariccheda 10 §5",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.6",
+      "label": "Pariccheda 10 §6",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.7",
+      "label": "Pariccheda 10 §7",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.8",
+      "label": "Pariccheda 10 §8",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.9",
+      "label": "Pariccheda 10 §9",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.10",
+      "label": "Pariccheda 10 §10",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.11",
+      "label": "Pariccheda 10 §11",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.12",
+      "label": "Pariccheda 10 §12",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.13",
+      "label": "Pariccheda 10 §13",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.14",
+      "label": "Pariccheda 10 §14",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.15",
+      "label": "Pariccheda 10 §15",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.16",
+      "label": "Pariccheda 10 §16",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.17",
+      "label": "Pariccheda 10 §17",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.18",
+      "label": "Pariccheda 10 §18",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.19",
+      "label": "Pariccheda 10 §19",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.20",
+      "label": "Pariccheda 10 §20",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.21",
+      "label": "Pariccheda 10 §21",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.22",
+      "label": "Pariccheda 10 §22",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.23",
+      "label": "Pariccheda 10 §23",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.24",
+      "label": "Pariccheda 10 §24",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.25",
+      "label": "Pariccheda 10 §25",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.26",
+      "label": "Pariccheda 10 §26",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.27",
+      "label": "Pariccheda 10 §27",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.28",
+      "label": "Pariccheda 10 §28",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.29",
+      "label": "Pariccheda 10 §29",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.30",
+      "label": "Pariccheda 10 §30",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.31",
+      "label": "Pariccheda 10 §31",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.32",
+      "label": "Pariccheda 10 §32",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.33",
+      "label": "Pariccheda 10 §33",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.34",
+      "label": "Pariccheda 10 §34",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.35",
+      "label": "Pariccheda 10 §35",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.36",
+      "label": "Pariccheda 10 §36",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.37",
+      "label": "Pariccheda 10 §37",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.38",
+      "label": "Pariccheda 10 §38",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.39",
+      "label": "Pariccheda 10 §39",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.40",
+      "label": "Pariccheda 10 §40",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.41",
+      "label": "Pariccheda 10 §41",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.42",
+      "label": "Pariccheda 10 §42",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.43",
+      "label": "Pariccheda 10 §43",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.44",
+      "label": "Pariccheda 10 §44",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.45",
+      "label": "Pariccheda 10 §45",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.46",
+      "label": "Pariccheda 10 §46",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.47",
+      "label": "Pariccheda 10 §47",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.48",
+      "label": "Pariccheda 10 §48",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.49",
+      "label": "Pariccheda 10 §49",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.50",
+      "label": "Pariccheda 10 §50",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.51",
+      "label": "Pariccheda 10 §51",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.52",
+      "label": "Pariccheda 10 §52",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.53",
+      "label": "Pariccheda 10 §53",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.54",
+      "label": "Pariccheda 10 §54",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.55",
+      "label": "Pariccheda 10 §55",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.56",
+      "label": "Pariccheda 10 §56",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.57",
+      "label": "Pariccheda 10 §57",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.58",
+      "label": "Pariccheda 10 §58",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.59",
+      "label": "Pariccheda 10 §59",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.60",
+      "label": "Pariccheda 10 §60",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.61",
+      "label": "Pariccheda 10 §61",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.62",
+      "label": "Pariccheda 10 §62",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.63",
+      "label": "Pariccheda 10 §63",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.64",
+      "label": "Pariccheda 10 §64",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.65",
+      "label": "Pariccheda 10 §65",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.66",
+      "label": "Pariccheda 10 §66",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.67",
+      "label": "Pariccheda 10 §67",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.68",
+      "label": "Pariccheda 10 §68",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.69",
+      "label": "Pariccheda 10 §69",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.70",
+      "label": "Pariccheda 10 §70",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.71",
+      "label": "Pariccheda 10 §71",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.72",
+      "label": "Pariccheda 10 §72",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.73",
+      "label": "Pariccheda 10 §73",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.74",
+      "label": "Pariccheda 10 §74",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.75",
+      "label": "Pariccheda 10 §75",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.76",
+      "label": "Pariccheda 10 §76",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.77",
+      "label": "Pariccheda 10 §77",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.78",
+      "label": "Pariccheda 10 §78",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.79",
+      "label": "Pariccheda 10 §79",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.80",
+      "label": "Pariccheda 10 §80",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.81",
+      "label": "Pariccheda 10 §81",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.82",
+      "label": "Pariccheda 10 §82",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.83",
+      "label": "Pariccheda 10 §83",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.84",
+      "label": "Pariccheda 10 §84",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.85",
+      "label": "Pariccheda 10 §85",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.86",
+      "label": "Pariccheda 10 §86",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.87",
+      "label": "Pariccheda 10 §87",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.88",
+      "label": "Pariccheda 10 §88",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.89",
+      "label": "Pariccheda 10 §89",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.90",
+      "label": "Pariccheda 10 §90",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.91",
+      "label": "Pariccheda 10 §91",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.92",
+      "label": "Pariccheda 10 §92",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.93",
+      "label": "Pariccheda 10 §93",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.94",
+      "label": "Pariccheda 10 §94",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.95",
+      "label": "Pariccheda 10 §95",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.96",
+      "label": "Pariccheda 10 §96",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.97",
+      "label": "Pariccheda 10 §97",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.98",
+      "label": "Pariccheda 10 §98",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.99",
+      "label": "Pariccheda 10 §99",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.100",
+      "label": "Pariccheda 10 §100",
+      "chapterRef": "10"
+    }
+  ],
+  "editions": [
+    {
+      "slug": "sahityadarpana-sa",
+      "language": "sa",
+      "editionType": "original",
+      "title": "Sāhityadarpaṇa (GRETIL e-text)",
+      "translator": "",
+      "publisher": "GRETIL, Göttingen State and University Library",
+      "publicationYear": 2020,
+      "source": "gretil",
+      "license": "cc-by-nc-sa-4.0",
+      "rightsStatus": "CC BY-NC-SA 4.0 as recorded in the e-text header",
+      "attributionText": "The Sahityadarpana. GRETIL e-text 2020-07-31, Göttingen Register of Electronic Texts in Indian Languages. Source edition: Satyavrata Simha, 9th edition. Varanasi: Chowkhamba Vidya Bhavan, 1992. (Vidya Bhavan Sanskrit Granthamala, 29). Input by Jan Brzezinski.",
+      "structureScheme": "reference index; each passage is one verse as GRETIL numbers it",
+      "isSample": false,
+      "notes": "This e-text was provided to GRETIL in good faith that no copyright rights have been infringed. If anyone wishes to assert copyright over this file, please contact the GRETIL management at gretil(at)sub(dot)uni-goettingen(dot)de. The file will be immediately removed pending resolution of the claim. Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. GRETIL describes the reference scheme as: A reference is assembled consisting of a pragmatic abbreviation of the title: Sāhityadarpaṇa = , the number of the  in arabic numerals, the number of the verse in arabic numerals.. The import cache stores the exact segments that were validated. The reader re-fetches the work from GRETIL and reports when the served count no longer matches the index."
+    }
+  ]
+}

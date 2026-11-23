@@ -1,0 +1,140 @@
+{
+  "slug": "sutta-mn42",
+  "title": "The People of Verañjā (MN42)",
+  "originalTitle": "Verañjakasutta",
+  "transliteration": "",
+  "altTitles": [
+    "The People of Verañjā"
+  ],
+  "tradition": "buddhism",
+  "school": "theravada",
+  "genre": "Scripture",
+  "textType": "Discourse",
+  "category": "Sutta",
+  "subcategory": "Majjhima Nikāya",
+  "originalLanguage": "pi",
+  "dateStart": -400,
+  "dateEnd": -100,
+  "dateDisplay": "Composed c. 4th–2nd centuries BCE; written down in the 1st century BCE",
+  "authorshipStatus": "anonymous",
+  "author": "buddha",
+  "attributionNote": "The discourse is presented in the canonical collection as the Buddha's teaching, transmitted by the early Buddhist community. Authorship of the surviving Pali text is collective and anonymous.",
+  "description": "The People of Verañjā is sutta 42 of the Majjhima Nikāya (Middle Length Discourses). The Middle Length Discourses gather 152 suttas of the Pali canon, among them the Satipaṭṭhāna, the Alagaddūpama and the Cūḷamālukya suttas. They are preserved in Pali and translated here by Bhikkhu Sujato.",
+  "historicalContext": "The Majjhima Nikāya belongs to the Sutta Piṭaka of the Theravada canon. Its discourses are central to the study of early Buddhist doctrine and practice in every Buddhist tradition that preserves them.",
+  "availabilityNote": "",
+  "featured": false,
+  "featuredNote": "",
+  "refScheme": "chapter.paragraph",
+  "isSample": false,
+  "textStorage": "streamed",
+  "chapters": [
+    {
+      "ref": "mn42",
+      "label": "MN42 · The People of Verañjā"
+    }
+  ],
+  "passages": [
+    {
+      "reference": "1",
+      "label": "mn42:1.1",
+      "chapterRef": "mn42"
+    },
+    {
+      "reference": "2",
+      "label": "mn42:1.2",
+      "chapterRef": "mn42"
+    },
+    {
+      "reference": "3",
+      "label": "mn42:2.1",
+      "chapterRef": "mn42"
+    },
+    {
+      "reference": "4",
+      "label": "mn42:2.2",
+      "chapterRef": "mn42"
+    },
+    {
+      "reference": "5",
+      "label": "mn42:2.3",
+      "chapterRef": "mn42"
+    },
+    {
+      "reference": "6",
+      "label": "mn42:2.4",
+      "chapterRef": "mn42"
+    },
+    {
+      "reference": "7",
+      "label": "mn42:2.8",
+      "chapterRef": "mn42"
+    },
+    {
+      "reference": "8",
+      "label": "mn42:3.1",
+      "chapterRef": "mn42"
+    },
+    {
+      "reference": "9",
+      "label": "mn42:4.1",
+      "chapterRef": "mn42"
+    },
+    {
+      "reference": "10",
+      "label": "mn42:4.2",
+      "chapterRef": "mn42"
+    },
+    {
+      "reference": "11",
+      "label": "mn42:5.1",
+      "chapterRef": "mn42"
+    },
+    {
+      "reference": "12",
+      "label": "mn42:5.2",
+      "chapterRef": "mn42"
+    },
+    {
+      "reference": "13",
+      "label": "mn42:6.1",
+      "chapterRef": "mn42"
+    },
+    {
+      "reference": "14",
+      "label": "mn42:7.1",
+      "chapterRef": "mn42"
+    }
+  ],
+  "editions": [
+    {
+      "slug": "sutta-mn42-pi-sc",
+      "language": "pi",
+      "editionType": "original",
+      "title": "Majjhima Nikāya 42 — Pali root text",
+      "translator": "",
+      "publisher": "SuttaCentral",
+      "publicationYear": null,
+      "source": "suttacentral",
+      "license": "cc0-1.0",
+      "rightsStatus": "CC0 1.0 public-domain dedication",
+      "attributionText": "Pali root text from SuttaCentral (Majjhima Nikāya 42).",
+      "structureScheme": "SuttaCentral segment ids",
+      "isSample": false
+    },
+    {
+      "slug": "sutta-mn42-en-sujato",
+      "language": "en",
+      "editionType": "translation",
+      "title": "The People of Verañjā — Bhikkhu Sujato",
+      "translator": "Bhikkhu Sujato",
+      "publisher": "SuttaCentral",
+      "publicationYear": 2018,
+      "source": "suttacentral",
+      "license": "cc0-1.0",
+      "rightsStatus": "CC0 1.0 public-domain dedication",
+      "attributionText": "Translation by Bhikkhu Sujato, SuttaCentral (MN42), released under CC0 1.0.",
+      "structureScheme": "SuttaCentral segment ids",
+      "isSample": false
+    }
+  ]
+}

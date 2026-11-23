@@ -1,0 +1,186 @@
+{
+  "slug": "tattva-sankhyana-tsk",
+  "title": "Tattva-saṅkhyāna",
+  "originalTitle": "तत्त्वसङ्ख्यानम्",
+  "transliteration": "Tattva-saṅkhyāna",
+  "altTitles": [],
+  "tradition": "hinduism",
+  "school": "vedanta",
+  "genre": "Philosophy",
+  "textType": "Sanskrit verse (sloka)",
+  "category": "Dvaita Vedānta",
+  "subcategory": "",
+  "originalLanguage": "sa",
+  "dateStart": null,
+  "dateEnd": null,
+  "dateDisplay": "",
+  "authorshipStatus": "traditional",
+  "author": "madhva",
+  "attributionNote": "Tattva-saṅkhyāna, attributed to Madhvācārya (Ānandatīrtha), as Heritage IITKanpur's Scripture Server catalogues it (TSK), on its own shelf.",
+  "description": "The summary above is the one Heritage IITKanpur's Scripture Server publishes for the text; an editor's note for the work itself is still to be written.",
+  "historicalContext": "Read in the Heritage Scripture Server corpus, which continues the Gita Supersite built at IIT Kanpur: the text, its classical commentaries and the translations the server may serve are held together there.",
+  "availabilityNote": "The outline is held: 9 chapter(s) and 20 verse address(es), read from the server's own catalogue. The verses are not stored — the licence forbids bulk harvesting and database reconstruction — and are streamed from the API one verse at a time as the work is read, with the attribution HCAL-1.1 requires and the server's own quota and licence notice.",
+  "featured": false,
+  "featuredNote": "",
+  "refScheme": "chapter.verse",
+  "isSample": false,
+  "textStorage": "streamed",
+  "chapters": [
+    {
+      "ref": "1",
+      "label": "1. —"
+    },
+    {
+      "ref": "2",
+      "label": "2. तत्त्वस्य सामान्यविभागोद्देशौ"
+    },
+    {
+      "ref": "3",
+      "label": "3. स्वतन्त्रतत्त्वनिर्देशः"
+    },
+    {
+      "ref": "4",
+      "label": "4. अस्वतन्त्रतत्त्वविभागनिर्देशौ"
+    },
+    {
+      "ref": "5",
+      "label": "5. अभावविभागनिर्देशौ"
+    },
+    {
+      "ref": "6",
+      "label": "6. भावविभागनिर्देशौ"
+    },
+    {
+      "ref": "7",
+      "label": "7. चेतनविभागादि"
+    },
+    {
+      "ref": "8",
+      "label": "8. अचेतनविभागादि"
+    },
+    {
+      "ref": "9",
+      "label": "9. स्वतन्त्रास्वतन्त्रसम्बन्धप्रदर्शनपूर्वक उपसंहारः"
+    }
+  ],
+  "passages": [
+    {
+      "reference": "1.1",
+      "label": "1. — · verse 1",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "2.1",
+      "label": "2. तत्त्वस्य सामान्यविभागोद्देशौ · verse 1",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "3.1",
+      "label": "3. स्वतन्त्रतत्त्वनिर्देशः · verse 1",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "4.1",
+      "label": "4. अस्वतन्त्रतत्त्वविभागनिर्देशौ · verse 1",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "5.1",
+      "label": "5. अभावविभागनिर्देशौ · verse 1",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "6.1",
+      "label": "6. भावविभागनिर्देशौ · verse 1",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "7.1",
+      "label": "7. चेतनविभागादि · verse 1",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.2",
+      "label": "7. चेतनविभागादि · verse 2",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.3",
+      "label": "7. चेतनविभागादि · verse 3",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.4",
+      "label": "7. चेतनविभागादि · verse 4",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.5",
+      "label": "7. चेतनविभागादि · verse 5",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "8.1",
+      "label": "8. अचेतनविभागादि · verse 1",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.2",
+      "label": "8. अचेतनविभागादि · verse 2",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.3",
+      "label": "8. अचेतनविभागादि · verse 3",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.4",
+      "label": "8. अचेतनविभागादि · verse 4",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "9.1",
+      "label": "9. स्वतन्त्रास्वतन्त्रसम्बन्धप्रदर्शनपूर्वक उपसंहारः · verse 1",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.2",
+      "label": "9. स्वतन्त्रास्वतन्त्रसम्बन्धप्रदर्शनपूर्वक उपसंहारः · verse 2",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.3",
+      "label": "9. स्वतन्त्रास्वतन्त्रसम्बन्धप्रदर्शनपूर्वक उपसंहारः · verse 3",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.4",
+      "label": "9. स्वतन्त्रास्वतन्त्रसम्बन्धप्रदर्शनपूर्वक उपसंहारः · verse 4",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.5",
+      "label": "9. स्वतन्त्रास्वतन्त्रसम्बन्धप्रदर्शनपूर्वक उपसंहारः · verse 5",
+      "chapterRef": "9"
+    }
+  ],
+  "editions": [
+    {
+      "slug": "tattva-sankhyana-tsk-sa",
+      "language": "sa",
+      "editionType": "original",
+      "title": "Tattva-saṅkhyāna (Heritage Scripture Server transcription)",
+      "translator": "",
+      "publisher": "Heritage IITKanpur, Heritage Scripture Server",
+      "publicationYear": null,
+      "source": "gita-supersite",
+      "license": "hcal-1-1",
+      "rightsStatus": "Tier A (the moolam and its transliterations): no modern copyright, freely redistributable. Where the API serves Tier B — the Sanskrit bhāṣya and the AI-generated, community and editorially authored translations — it is displayed non-commercially with attribution and is not relicensed here. Tier C, the authoritative modern-language translations and commentaries, is not served by the API and is not imported.",
+      "attributionText": "Tattva-saṅkhyāna, Madhvācārya (Ānandatīrtha). Accessed via Heritage Scripture Server (heritage.iitk.ac.in), licence HCAL-1.1. Source: https://heritage.iitk.ac.in/TSK",
+      "structureScheme": "chapter and verse, as the server's own sections and verse addresses divide the text",
+      "isSample": false,
+      "notes": "The verse index was built from the server's published verse addresses. The verses themselves are fetched from the API at read time and are shown with the licence's attribution; the licence identifier and any watermark the server returns are left in place."
+    }
+  ]
+}

@@ -44,7 +44,8 @@ bun test
 
 `data/corpus/works/<slug>.json` is the **seed input**; `data/uwl.db` is what gets
 built from it. The two are separate copies of the catalogue, and the files are
-the source of truth for a rebuild.
+the source of truth for a rebuild. `data/corpus` and `data/registry` are kept
+in git; the database, its backups and the import caches are not.
 
 `bun run db:rebuild` drops every table and reloads the database from
 `data/corpus/works`, then re-indexes the streamed shelves for search:

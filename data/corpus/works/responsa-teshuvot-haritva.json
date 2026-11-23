@@ -1,0 +1,84 @@
+{
+  "slug": "responsa-teshuvot-haritva",
+  "title": "Teshuvot HaRitva",
+  "originalTitle": "תשובות הריטב\"א",
+  "transliteration": "",
+  "altTitles": [],
+  "tradition": "judaism",
+  "school": "rabbinic-judaism",
+  "genre": "Responsa",
+  "textType": "Responsa collection",
+  "category": "Responsa",
+  "subcategory": "Rishonim",
+  "originalLanguage": "en",
+  "dateStart": 700,
+  "dateEnd": 1950,
+  "dateDisplay": "Responsa literature, c. 700–1950 CE",
+  "authorshipStatus": "established",
+  "author": "",
+  "attributionNote": "Authorship follows the Sefaria catalogue record for this work. Where a text is traditionally attributed or collectively compiled, the library does not assert a single author beyond the source's own metadata.",
+  "description": "13th-century responsa composed in Spain, first published in the 20th century. Complete Responsa text imported from Sefaria; the exact edition and licence are shown with each version.",
+  "historicalContext": "Responsa are written answers to specific legal questions, addressed by a scholar to a community or an individual. A responsum is a dated, situated ruling and is presented with its collection rather than as a universal statute.",
+  "availabilityNote": "Imported from Sefaria. Version, source and licence are recorded per edition.",
+  "featured": false,
+  "featuredNote": "",
+  "refScheme": "chapter.paragraph",
+  "isSample": false,
+  "textStorage": "streamed",
+  "chapters": [
+    {
+      "ref": "122",
+      "label": "Teshuva 122"
+    }
+  ],
+  "passages": [
+    {
+      "reference": "122.1",
+      "label": "122:1",
+      "chapterRef": "122"
+    },
+    {
+      "reference": "122.2",
+      "label": "122:2",
+      "chapterRef": "122"
+    },
+    {
+      "reference": "122.3",
+      "label": "122:3",
+      "chapterRef": "122"
+    },
+    {
+      "reference": "122.4",
+      "label": "122:4",
+      "chapterRef": "122"
+    },
+    {
+      "reference": "122.5",
+      "label": "122:5",
+      "chapterRef": "122"
+    },
+    {
+      "reference": "122.6",
+      "label": "122:6",
+      "chapterRef": "122"
+    }
+  ],
+  "editions": [
+    {
+      "slug": "responsa-teshuvot-haritva-english-sefaria",
+      "language": "en",
+      "editionType": "original",
+      "title": "Sefaria Responsa Anthology",
+      "translator": "",
+      "publisher": "https://www.sefaria.org",
+      "publicationYear": null,
+      "source": "sefaria",
+      "license": "cc-by",
+      "rightsStatus": "CC-BY",
+      "attributionText": "Sefaria Responsa Anthology; licence: CC-BY; source: https://www.sefaria.org. Retrieved via Sefaria on 2026-10-20.",
+      "structureScheme": "chapter and paragraph",
+      "isSample": false,
+      "notes": "Complete work imported from Sefaria. Text is displayed as supplied by the named edition; HTML markup has been removed."
+    }
+  ]
+}

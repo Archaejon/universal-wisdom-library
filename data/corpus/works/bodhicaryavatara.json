@@ -1,0 +1,615 @@
+{
+  "slug": "bodhicaryavatara",
+  "title": "The Path of Light (Bodhicaryāvatāra)",
+  "originalTitle": "बोधिचर्यावतार",
+  "transliteration": "Bodhicaryāvatāra",
+  "altTitles": [
+    "Bodhicaryavatara",
+    "A Guide to the Bodhisattva's Way of Life",
+    "The Path of Light"
+  ],
+  "tradition": "buddhism",
+  "school": "",
+  "genre": "Poetry",
+  "textType": "Verse treatise on the bodhisattva path",
+  "category": "Mahayana",
+  "subcategory": "Bodhicaryāvatāra",
+  "originalLanguage": "sa",
+  "dateStart": 700,
+  "dateEnd": 800,
+  "dateDisplay": "c. 8th century CE",
+  "authorshipStatus": "established",
+  "author": "shantideva",
+  "attributionNote": "The Bodhicaryāvatāra is the work of Śāntideva, the Nālandā monk and poet of the 8th century. It is preserved in Sanskrit and in Tibetan translation, where it became the standard verse treatise on the bodhisattva's vow.",
+  "description": "Śāntideva's guide to the bodhisattva's way begins with praise of the awakening mind and the confession of faults, and then works through the cultivation of that mind: heedfulness, watchfulness, patience under injury, energetic effort, meditative concentration, and the perfection of wisdom. Its eighth chapter contains the famous meditation on the equality of self and other, and its ninth sets out the Madhyamaka analysis of persons and phenomena. Barnett's nine chapters are a compact rendering of one of the most read devotional poems of Mahayana Buddhism.",
+  "historicalContext": "Śāntideva taught at Nālandā in the 8th century, and the Bodhicaryāvatāra entered Tibet with the first wave of Indian Buddhist translation, where it anchored the lojong literature on exchanging self and other. L. D. Barnett's translation appeared in the Wisdom of the East series in 1909 and was the first English version of the work; it renders nine of the ten Sanskrit chapters, the tenth being the dedication.",
+  "availabilityNote": "Barnett's translation in nine chapters is complete as published; the Sanskrit tenth chapter, a dedication of merit, is not part of his selection and is not included. The chapters are streamed from the Internet Sacred Text Archive at read time, one chapter per chapter. The volume's editorial note, introduction, notes and appendix are not part of the work.",
+  "featured": false,
+  "featuredNote": "",
+  "refScheme": "chapter.paragraph",
+  "isSample": false,
+  "textStorage": "streamed",
+  "chapters": [
+    {
+      "ref": "1",
+      "label": "Chapter I. The Praise of the Thought of Enlightenment"
+    },
+    {
+      "ref": "2",
+      "label": "Chapter II. The Confession of Sin"
+    },
+    {
+      "ref": "3",
+      "label": "Chapter III. Taking the Thought of Enlightenment"
+    },
+    {
+      "ref": "4",
+      "label": "Chapter IV. Heedfulness in the Thought of Enlightenment"
+    },
+    {
+      "ref": "5",
+      "label": "Chapter V. Watchfulness"
+    },
+    {
+      "ref": "6",
+      "label": "Chapter VI. The Perfect Long-Suffering"
+    },
+    {
+      "ref": "7",
+      "label": "Chapter VII. The Perfect Strength"
+    },
+    {
+      "ref": "8",
+      "label": "Chapter VIII. The Perfect Contemplation"
+    },
+    {
+      "ref": "9",
+      "label": "Chapter IX. The Perfect Knowledge"
+    }
+  ],
+  "passages": [
+    {
+      "reference": "1.1",
+      "label": "Chapter I. The Praise of the Thought of Enlightenment §1",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.2",
+      "label": "Chapter I. The Praise of the Thought of Enlightenment §2",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.3",
+      "label": "Chapter I. The Praise of the Thought of Enlightenment §3",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.4",
+      "label": "Chapter I. The Praise of the Thought of Enlightenment §4",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "2.1",
+      "label": "Chapter II. The Confession of Sin §1",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.2",
+      "label": "Chapter II. The Confession of Sin §2",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.3",
+      "label": "Chapter II. The Confession of Sin §3",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.4",
+      "label": "Chapter II. The Confession of Sin §4",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.5",
+      "label": "Chapter II. The Confession of Sin §5",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.6",
+      "label": "Chapter II. The Confession of Sin §6",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "3.1",
+      "label": "Chapter III. Taking the Thought of Enlightenment §1",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.2",
+      "label": "Chapter III. Taking the Thought of Enlightenment §2",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.3",
+      "label": "Chapter III. Taking the Thought of Enlightenment §3",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.4",
+      "label": "Chapter III. Taking the Thought of Enlightenment §4",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.5",
+      "label": "Chapter III. Taking the Thought of Enlightenment §5",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "4.1",
+      "label": "Chapter IV. Heedfulness in the Thought of Enlightenment §1",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.2",
+      "label": "Chapter IV. Heedfulness in the Thought of Enlightenment §2",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.3",
+      "label": "Chapter IV. Heedfulness in the Thought of Enlightenment §3",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.4",
+      "label": "Chapter IV. Heedfulness in the Thought of Enlightenment §4",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.5",
+      "label": "Chapter IV. Heedfulness in the Thought of Enlightenment §5",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.6",
+      "label": "Chapter IV. Heedfulness in the Thought of Enlightenment §6",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.7",
+      "label": "Chapter IV. Heedfulness in the Thought of Enlightenment §7",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.8",
+      "label": "Chapter IV. Heedfulness in the Thought of Enlightenment §8",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "5.1",
+      "label": "Chapter V. Watchfulness §1",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.2",
+      "label": "Chapter V. Watchfulness §2",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.3",
+      "label": "Chapter V. Watchfulness §3",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.4",
+      "label": "Chapter V. Watchfulness §4",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.5",
+      "label": "Chapter V. Watchfulness §5",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.6",
+      "label": "Chapter V. Watchfulness §6",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.7",
+      "label": "Chapter V. Watchfulness §7",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.8",
+      "label": "Chapter V. Watchfulness §8",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.9",
+      "label": "Chapter V. Watchfulness §9",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.10",
+      "label": "Chapter V. Watchfulness §10",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "6.1",
+      "label": "Chapter VI. The Perfect Long-Suffering §1",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.2",
+      "label": "Chapter VI. The Perfect Long-Suffering §2",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.3",
+      "label": "Chapter VI. The Perfect Long-Suffering §3",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.4",
+      "label": "Chapter VI. The Perfect Long-Suffering §4",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.5",
+      "label": "Chapter VI. The Perfect Long-Suffering §5",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.6",
+      "label": "Chapter VI. The Perfect Long-Suffering §6",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.7",
+      "label": "Chapter VI. The Perfect Long-Suffering §7",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.8",
+      "label": "Chapter VI. The Perfect Long-Suffering §8",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.9",
+      "label": "Chapter VI. The Perfect Long-Suffering §9",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.10",
+      "label": "Chapter VI. The Perfect Long-Suffering §10",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.11",
+      "label": "Chapter VI. The Perfect Long-Suffering §11",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.12",
+      "label": "Chapter VI. The Perfect Long-Suffering §12",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.13",
+      "label": "Chapter VI. The Perfect Long-Suffering §13",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.14",
+      "label": "Chapter VI. The Perfect Long-Suffering §14",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.15",
+      "label": "Chapter VI. The Perfect Long-Suffering §15",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.16",
+      "label": "Chapter VI. The Perfect Long-Suffering §16",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.17",
+      "label": "Chapter VI. The Perfect Long-Suffering §17",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.18",
+      "label": "Chapter VI. The Perfect Long-Suffering §18",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.19",
+      "label": "Chapter VI. The Perfect Long-Suffering §19",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.20",
+      "label": "Chapter VI. The Perfect Long-Suffering §20",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.21",
+      "label": "Chapter VI. The Perfect Long-Suffering §21",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.22",
+      "label": "Chapter VI. The Perfect Long-Suffering §22",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.23",
+      "label": "Chapter VI. The Perfect Long-Suffering §23",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.24",
+      "label": "Chapter VI. The Perfect Long-Suffering §24",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.25",
+      "label": "Chapter VI. The Perfect Long-Suffering §25",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.26",
+      "label": "Chapter VI. The Perfect Long-Suffering §26",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.27",
+      "label": "Chapter VI. The Perfect Long-Suffering §27",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.28",
+      "label": "Chapter VI. The Perfect Long-Suffering §28",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.29",
+      "label": "Chapter VI. The Perfect Long-Suffering §29",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "7.1",
+      "label": "Chapter VII. The Perfect Strength §1",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.2",
+      "label": "Chapter VII. The Perfect Strength §2",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.3",
+      "label": "Chapter VII. The Perfect Strength §3",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.4",
+      "label": "Chapter VII. The Perfect Strength §4",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.5",
+      "label": "Chapter VII. The Perfect Strength §5",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.6",
+      "label": "Chapter VII. The Perfect Strength §6",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.7",
+      "label": "Chapter VII. The Perfect Strength §7",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.8",
+      "label": "Chapter VII. The Perfect Strength §8",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.9",
+      "label": "Chapter VII. The Perfect Strength §9",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.10",
+      "label": "Chapter VII. The Perfect Strength §10",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.11",
+      "label": "Chapter VII. The Perfect Strength §11",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.12",
+      "label": "Chapter VII. The Perfect Strength §12",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.13",
+      "label": "Chapter VII. The Perfect Strength §13",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.14",
+      "label": "Chapter VII. The Perfect Strength §14",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.15",
+      "label": "Chapter VII. The Perfect Strength §15",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.16",
+      "label": "Chapter VII. The Perfect Strength §16",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.17",
+      "label": "Chapter VII. The Perfect Strength §17",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "8.1",
+      "label": "Chapter VIII. The Perfect Contemplation §1",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.2",
+      "label": "Chapter VIII. The Perfect Contemplation §2",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.3",
+      "label": "Chapter VIII. The Perfect Contemplation §3",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.4",
+      "label": "Chapter VIII. The Perfect Contemplation §4",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.5",
+      "label": "Chapter VIII. The Perfect Contemplation §5",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.6",
+      "label": "Chapter VIII. The Perfect Contemplation §6",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.7",
+      "label": "Chapter VIII. The Perfect Contemplation §7",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.8",
+      "label": "Chapter VIII. The Perfect Contemplation §8",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.9",
+      "label": "Chapter VIII. The Perfect Contemplation §9",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.10",
+      "label": "Chapter VIII. The Perfect Contemplation §10",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.11",
+      "label": "Chapter VIII. The Perfect Contemplation §11",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.12",
+      "label": "Chapter VIII. The Perfect Contemplation §12",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.13",
+      "label": "Chapter VIII. The Perfect Contemplation §13",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.14",
+      "label": "Chapter VIII. The Perfect Contemplation §14",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.15",
+      "label": "Chapter VIII. The Perfect Contemplation §15",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.16",
+      "label": "Chapter VIII. The Perfect Contemplation §16",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.17",
+      "label": "Chapter VIII. The Perfect Contemplation §17",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.18",
+      "label": "Chapter VIII. The Perfect Contemplation §18",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.19",
+      "label": "Chapter VIII. The Perfect Contemplation §19",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.20",
+      "label": "Chapter VIII. The Perfect Contemplation §20",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.21",
+      "label": "Chapter VIII. The Perfect Contemplation §21",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.22",
+      "label": "Chapter VIII. The Perfect Contemplation §22",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.23",
+      "label": "Chapter VIII. The Perfect Contemplation §23",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "9.1",
+      "label": "Chapter IX. The Perfect Knowledge §1",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.2",
+      "label": "Chapter IX. The Perfect Knowledge §2",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.3",
+      "label": "Chapter IX. The Perfect Knowledge §3",
+      "chapterRef": "9"
+    }
+  ],
+  "editions": [
+    {
+      "slug": "bodhicaryavatara-en",
+      "language": "en",
+      "editionType": "translation",
+      "title": "The Path of Light: Rendered for the First Time into English from the Bodhicharyāvatāra of Śānti-Deva",
+      "translator": "L. D. Barnett",
+      "publisher": "Internet Sacred Text Archive",
+      "publicationYear": 1909,
+      "source": "sacred-texts",
+      "license": "public-domain",
+      "rightsStatus": "Public domain in the United States",
+      "attributionText": "The Path of Light: Rendered for the First Time into English from the Bodhicharyāvatāra of Śānti-Deva, translated by L. D. Barnett (1909). The Wisdom of the East. Public domain in the United States. Digital text from the Internet Sacred Text Archive.",
+      "structureScheme": "chapter and paragraph index; each chapter is one printed chapter",
+      "isSample": false,
+      "notes": "The import cache stores the exact segments that were validated. The reader re-fetches the chapter from the host and reports when the served count no longer matches the index."
+    }
+  ]
+}

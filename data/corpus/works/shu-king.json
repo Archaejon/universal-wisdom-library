@@ -1,0 +1,5690 @@
+{
+  "slug": "shu-king",
+  "title": "The Book of Documents",
+  "originalTitle": "書經",
+  "transliteration": "Shūjīng",
+  "altTitles": [
+    "Shu King",
+    "Shu Ching",
+    "The Book of Historical Records",
+    "Classic of History"
+  ],
+  "tradition": "confucianism",
+  "school": "confucian",
+  "genre": "Classics",
+  "textType": "Historical speeches and documents",
+  "category": "Classics",
+  "subcategory": "Five Classics",
+  "originalLanguage": "zh",
+  "dateStart": -1000,
+  "dateEnd": -300,
+  "dateDisplay": "Documents attributed to c. 1000–300 BCE, edited later",
+  "authorshipStatus": "composite",
+  "author": "",
+  "attributionNote": "The documents are speeches and charges attributed to rulers from Yao to the early Zhou; the classic was compiled and edited in the Warring States and Han periods, and a substantial part of the received text is later than the events it reports.",
+  "description": "The Book of Documents is the oldest of the Confucian classics: the canon of Yao and Shun, the counsels of the great Yu, the announcements and charges of the Shang and Zhou kings, the great plan of government, the metal-bound coffer and the marquis of Lü on punishments. Its speeches were the model of Chinese political rhetoric, and Legge translates the whole of the received text in the order of its five parts.",
+  "historicalContext": "The classic was studied as the record of the sage kings and as a source of political models throughout the imperial period. Legge translated it in the Sacred Books of the East, volume 3 (1879), with the Chinese text, a long introduction on its history and credibility, and notes.",
+  "availabilityNote": "Complete in Legge's translation: the thirty books of the five parts, streamed from the Internet Sacred Text Archive at read time, one printed book per chapter. The translator's prolegomena and his use of the chart are volume apparatus and are not part of the work.",
+  "featured": false,
+  "featuredNote": "",
+  "refScheme": "book.paragraph",
+  "isSample": false,
+  "textStorage": "streamed",
+  "chapters": [
+    {
+      "ref": "1",
+      "label": "THE CANON OF YÂO"
+    },
+    {
+      "ref": "2",
+      "label": "BOOK I. THE CANON OF SHUN"
+    },
+    {
+      "ref": "3",
+      "label": "BOOK II. THE COUNSELS OF THE GREAT YÜ"
+    },
+    {
+      "ref": "4",
+      "label": "BOOK III. THE COUNSELS OF KÂO-YÂO"
+    },
+    {
+      "ref": "5",
+      "label": "BOOK IV. THE YÎ AND KÎ"
+    },
+    {
+      "ref": "6",
+      "label": "BOOK I. THE TRIBUTE OF YÜ"
+    },
+    {
+      "ref": "7",
+      "label": "BOOK II. THE SPEECH AT KAN"
+    },
+    {
+      "ref": "8",
+      "label": "BOOK III. THE SONGS OF THE FIVE SONS"
+    },
+    {
+      "ref": "9",
+      "label": "BOOK IV. THE PUNITIVE EXPEDITION OF YIN"
+    },
+    {
+      "ref": "10",
+      "label": "BOOK I. THE SPEECH OF THANG"
+    },
+    {
+      "ref": "11",
+      "label": "BOOK II. THE ANNOUNCEMENT OF KUNG-HUI"
+    },
+    {
+      "ref": "12",
+      "label": "BOOK III. THE ANNOUNCEMENT OF THANG"
+    },
+    {
+      "ref": "13",
+      "label": "BOOK IV. THE INSTRUCTIONS OF Î"
+    },
+    {
+      "ref": "14",
+      "label": "BOOK V. THE THÂI KIÂ"
+    },
+    {
+      "ref": "15",
+      "label": "BOOK VI. THE COMMON POSSESSION OF PURE VIRTUE"
+    },
+    {
+      "ref": "16",
+      "label": "BOOK VII. THE PAN-KĂNG"
+    },
+    {
+      "ref": "17",
+      "label": "BOOK VIII. THE CHARGE TO YÜEH"
+    },
+    {
+      "ref": "18",
+      "label": "BOOK IX. THE DAY OF THE SUPPLEMENTARY SACRIFICE TO KÂO ȜUNG"
+    },
+    {
+      "ref": "19",
+      "label": "BOOK X. THE CHIEF OF THE WEST'S CONQUEST OF LÎ"
+    },
+    {
+      "ref": "20",
+      "label": "BOOK XI. THE COUNT OF WEI"
+    },
+    {
+      "ref": "21",
+      "label": "BOOK I. THE GREAT DECLARATION"
+    },
+    {
+      "ref": "22",
+      "label": "BOOK II. THE SPEECH AT MÛ"
+    },
+    {
+      "ref": "23",
+      "label": "BOOK III. THE SUCCESSFUL COMPLETION OF THE WAR"
+    },
+    {
+      "ref": "24",
+      "label": "BOOK IV. THE GREAT PLAN"
+    },
+    {
+      "ref": "25",
+      "label": "BOOK V. THE HOUNDS OF LÜ"
+    },
+    {
+      "ref": "26",
+      "label": "BOOK VI. THE METAL-BOUND COFFER"
+    },
+    {
+      "ref": "27",
+      "label": "BOOK VII. THE GREAT ANNOUNCEMENT"
+    },
+    {
+      "ref": "28",
+      "label": "BOOK VIII. THE CHARGE TO THE COUNT OF WEI"
+    },
+    {
+      "ref": "29",
+      "label": "BOOK IX. THE ANNOUNCEMENT TO THE PRINCE OF KHANG"
+    },
+    {
+      "ref": "30",
+      "label": "THE ANNOUNCEMENT ABOUT DRUNKENNESS"
+    },
+    {
+      "ref": "31",
+      "label": "THE TIMBER OF THE ROTTLERA"
+    },
+    {
+      "ref": "32",
+      "label": "THE ANNOUNCEMENT OF THE DUKE OF SHÂO"
+    },
+    {
+      "ref": "33",
+      "label": "THE ANNOUNCEMENT CONCERNING LO"
+    },
+    {
+      "ref": "34",
+      "label": "BOOK XIV. THE NUMEROUS OFFICERS"
+    },
+    {
+      "ref": "35",
+      "label": "BOOK XV. AGAINST LUXURIOUS EASE"
+    },
+    {
+      "ref": "36",
+      "label": "BOOK XVI. THE PRINCE SHIH"
+    },
+    {
+      "ref": "37",
+      "label": "BOOK XVII. THE CHARGE TO KUNG OF ȜHÂI"
+    },
+    {
+      "ref": "38",
+      "label": "BOOK XVIII. THE NUMEROUS REGIONS"
+    },
+    {
+      "ref": "39",
+      "label": "BOOK XIX. THE ESTABLISHMENT OF GOVERNMENT"
+    },
+    {
+      "ref": "40",
+      "label": "BOOK XX. THE OFFICERS OF KÂU"
+    },
+    {
+      "ref": "41",
+      "label": "BOOK XXI. THE KÜN-KHĂN"
+    },
+    {
+      "ref": "42",
+      "label": "BOOK XXII. THE TESTAMENTARY CHARGE"
+    },
+    {
+      "ref": "43",
+      "label": "THE ANNOUNCEMENT OF KING KHANG"
+    },
+    {
+      "ref": "44",
+      "label": "BOOK XXIV. THE CHARGE TO THE DUKE OF PÎ"
+    },
+    {
+      "ref": "45",
+      "label": "BOOK XXV. THE KÜN-YÂ"
+    },
+    {
+      "ref": "46",
+      "label": "BOOK XXVI. THE CHARGE TO KHIUNG"
+    },
+    {
+      "ref": "47",
+      "label": "THE MARQUIS OF LÜ ON PUNISHMENTS"
+    },
+    {
+      "ref": "48",
+      "label": "THE CHARGE TO THE MARQUIS WĂN"
+    },
+    {
+      "ref": "49",
+      "label": "BOOK XXIX. THE SPEECH AT PÎ"
+    },
+    {
+      "ref": "50",
+      "label": "THE SPEECH OF (THE MARQUIS OF) KHIN"
+    }
+  ],
+  "passages": [
+    {
+      "reference": "1.1",
+      "label": "THE CANON OF YÂO §1",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.2",
+      "label": "THE CANON OF YÂO §2",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.3",
+      "label": "THE CANON OF YÂO §3",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.4",
+      "label": "THE CANON OF YÂO §4",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.5",
+      "label": "THE CANON OF YÂO §5",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.6",
+      "label": "THE CANON OF YÂO §6",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.7",
+      "label": "THE CANON OF YÂO §7",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.8",
+      "label": "THE CANON OF YÂO §8",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.9",
+      "label": "THE CANON OF YÂO §9",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.10",
+      "label": "THE CANON OF YÂO §10",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.11",
+      "label": "THE CANON OF YÂO §11",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.12",
+      "label": "THE CANON OF YÂO §12",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.13",
+      "label": "THE CANON OF YÂO §13",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.14",
+      "label": "THE CANON OF YÂO §14",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.15",
+      "label": "THE CANON OF YÂO §15",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.16",
+      "label": "THE CANON OF YÂO §16",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.17",
+      "label": "THE CANON OF YÂO §17",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.18",
+      "label": "THE CANON OF YÂO §18",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.19",
+      "label": "THE CANON OF YÂO §19",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.20",
+      "label": "THE CANON OF YÂO §20",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.21",
+      "label": "THE CANON OF YÂO §21",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.22",
+      "label": "THE CANON OF YÂO §22",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.23",
+      "label": "THE CANON OF YÂO §23",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.24",
+      "label": "THE CANON OF YÂO §24",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.25",
+      "label": "THE CANON OF YÂO §25",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.26",
+      "label": "THE CANON OF YÂO §26",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.27",
+      "label": "THE CANON OF YÂO §27",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.28",
+      "label": "THE CANON OF YÂO §28",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "2.1",
+      "label": "BOOK I. THE CANON OF SHUN §1",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.2",
+      "label": "BOOK I. THE CANON OF SHUN §2",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.3",
+      "label": "BOOK I. THE CANON OF SHUN §3",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.4",
+      "label": "BOOK I. THE CANON OF SHUN §4",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.5",
+      "label": "BOOK I. THE CANON OF SHUN §5",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.6",
+      "label": "BOOK I. THE CANON OF SHUN §6",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.7",
+      "label": "BOOK I. THE CANON OF SHUN §7",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.8",
+      "label": "BOOK I. THE CANON OF SHUN §8",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.9",
+      "label": "BOOK I. THE CANON OF SHUN §9",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.10",
+      "label": "BOOK I. THE CANON OF SHUN §10",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.11",
+      "label": "BOOK I. THE CANON OF SHUN §11",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.12",
+      "label": "BOOK I. THE CANON OF SHUN §12",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.13",
+      "label": "BOOK I. THE CANON OF SHUN §13",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.14",
+      "label": "BOOK I. THE CANON OF SHUN §14",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.15",
+      "label": "BOOK I. THE CANON OF SHUN §15",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.16",
+      "label": "BOOK I. THE CANON OF SHUN §16",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.17",
+      "label": "BOOK I. THE CANON OF SHUN §17",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.18",
+      "label": "BOOK I. THE CANON OF SHUN §18",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.19",
+      "label": "BOOK I. THE CANON OF SHUN §19",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.20",
+      "label": "BOOK I. THE CANON OF SHUN §20",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.21",
+      "label": "BOOK I. THE CANON OF SHUN §21",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.22",
+      "label": "BOOK I. THE CANON OF SHUN §22",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.23",
+      "label": "BOOK I. THE CANON OF SHUN §23",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.24",
+      "label": "BOOK I. THE CANON OF SHUN §24",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.25",
+      "label": "BOOK I. THE CANON OF SHUN §25",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.26",
+      "label": "BOOK I. THE CANON OF SHUN §26",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.27",
+      "label": "BOOK I. THE CANON OF SHUN §27",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.28",
+      "label": "BOOK I. THE CANON OF SHUN §28",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.29",
+      "label": "BOOK I. THE CANON OF SHUN §29",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.30",
+      "label": "BOOK I. THE CANON OF SHUN §30",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.31",
+      "label": "BOOK I. THE CANON OF SHUN §31",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.32",
+      "label": "BOOK I. THE CANON OF SHUN §32",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.33",
+      "label": "BOOK I. THE CANON OF SHUN §33",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.34",
+      "label": "BOOK I. THE CANON OF SHUN §34",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.35",
+      "label": "BOOK I. THE CANON OF SHUN §35",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.36",
+      "label": "BOOK I. THE CANON OF SHUN §36",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.37",
+      "label": "BOOK I. THE CANON OF SHUN §37",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.38",
+      "label": "BOOK I. THE CANON OF SHUN §38",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.39",
+      "label": "BOOK I. THE CANON OF SHUN §39",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.40",
+      "label": "BOOK I. THE CANON OF SHUN §40",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.41",
+      "label": "BOOK I. THE CANON OF SHUN §41",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.42",
+      "label": "BOOK I. THE CANON OF SHUN §42",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.43",
+      "label": "BOOK I. THE CANON OF SHUN §43",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.44",
+      "label": "BOOK I. THE CANON OF SHUN §44",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.45",
+      "label": "BOOK I. THE CANON OF SHUN §45",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.46",
+      "label": "BOOK I. THE CANON OF SHUN §46",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.47",
+      "label": "BOOK I. THE CANON OF SHUN §47",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.48",
+      "label": "BOOK I. THE CANON OF SHUN §48",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.49",
+      "label": "BOOK I. THE CANON OF SHUN §49",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.50",
+      "label": "BOOK I. THE CANON OF SHUN §50",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.51",
+      "label": "BOOK I. THE CANON OF SHUN §51",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.52",
+      "label": "BOOK I. THE CANON OF SHUN §52",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.53",
+      "label": "BOOK I. THE CANON OF SHUN §53",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.54",
+      "label": "BOOK I. THE CANON OF SHUN §54",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.55",
+      "label": "BOOK I. THE CANON OF SHUN §55",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.56",
+      "label": "BOOK I. THE CANON OF SHUN §56",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.57",
+      "label": "BOOK I. THE CANON OF SHUN §57",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.58",
+      "label": "BOOK I. THE CANON OF SHUN §58",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.59",
+      "label": "BOOK I. THE CANON OF SHUN §59",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "3.1",
+      "label": "BOOK II. THE COUNSELS OF THE GREAT YÜ §1",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.2",
+      "label": "BOOK II. THE COUNSELS OF THE GREAT YÜ §2",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.3",
+      "label": "BOOK II. THE COUNSELS OF THE GREAT YÜ §3",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.4",
+      "label": "BOOK II. THE COUNSELS OF THE GREAT YÜ §4",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.5",
+      "label": "BOOK II. THE COUNSELS OF THE GREAT YÜ §5",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.6",
+      "label": "BOOK II. THE COUNSELS OF THE GREAT YÜ §6",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.7",
+      "label": "BOOK II. THE COUNSELS OF THE GREAT YÜ §7",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.8",
+      "label": "BOOK II. THE COUNSELS OF THE GREAT YÜ §8",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.9",
+      "label": "BOOK II. THE COUNSELS OF THE GREAT YÜ §9",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.10",
+      "label": "BOOK II. THE COUNSELS OF THE GREAT YÜ §10",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.11",
+      "label": "BOOK II. THE COUNSELS OF THE GREAT YÜ §11",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.12",
+      "label": "BOOK II. THE COUNSELS OF THE GREAT YÜ §12",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.13",
+      "label": "BOOK II. THE COUNSELS OF THE GREAT YÜ §13",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.14",
+      "label": "BOOK II. THE COUNSELS OF THE GREAT YÜ §14",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.15",
+      "label": "BOOK II. THE COUNSELS OF THE GREAT YÜ §15",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.16",
+      "label": "BOOK II. THE COUNSELS OF THE GREAT YÜ §16",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.17",
+      "label": "BOOK II. THE COUNSELS OF THE GREAT YÜ §17",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.18",
+      "label": "BOOK II. THE COUNSELS OF THE GREAT YÜ §18",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.19",
+      "label": "BOOK II. THE COUNSELS OF THE GREAT YÜ §19",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.20",
+      "label": "BOOK II. THE COUNSELS OF THE GREAT YÜ §20",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.21",
+      "label": "BOOK II. THE COUNSELS OF THE GREAT YÜ §21",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.22",
+      "label": "BOOK II. THE COUNSELS OF THE GREAT YÜ §22",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.23",
+      "label": "BOOK II. THE COUNSELS OF THE GREAT YÜ §23",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.24",
+      "label": "BOOK II. THE COUNSELS OF THE GREAT YÜ §24",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.25",
+      "label": "BOOK II. THE COUNSELS OF THE GREAT YÜ §25",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "4.1",
+      "label": "BOOK III. THE COUNSELS OF KÂO-YÂO §1",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.2",
+      "label": "BOOK III. THE COUNSELS OF KÂO-YÂO §2",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.3",
+      "label": "BOOK III. THE COUNSELS OF KÂO-YÂO §3",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.4",
+      "label": "BOOK III. THE COUNSELS OF KÂO-YÂO §4",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.5",
+      "label": "BOOK III. THE COUNSELS OF KÂO-YÂO §5",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.6",
+      "label": "BOOK III. THE COUNSELS OF KÂO-YÂO §6",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.7",
+      "label": "BOOK III. THE COUNSELS OF KÂO-YÂO §7",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.8",
+      "label": "BOOK III. THE COUNSELS OF KÂO-YÂO §8",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.9",
+      "label": "BOOK III. THE COUNSELS OF KÂO-YÂO §9",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.10",
+      "label": "BOOK III. THE COUNSELS OF KÂO-YÂO §10",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.11",
+      "label": "BOOK III. THE COUNSELS OF KÂO-YÂO §11",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.12",
+      "label": "BOOK III. THE COUNSELS OF KÂO-YÂO §12",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.13",
+      "label": "BOOK III. THE COUNSELS OF KÂO-YÂO §13",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "5.1",
+      "label": "BOOK IV. THE YÎ AND KÎ §1",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.2",
+      "label": "BOOK IV. THE YÎ AND KÎ §2",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.3",
+      "label": "BOOK IV. THE YÎ AND KÎ §3",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.4",
+      "label": "BOOK IV. THE YÎ AND KÎ §4",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.5",
+      "label": "BOOK IV. THE YÎ AND KÎ §5",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.6",
+      "label": "BOOK IV. THE YÎ AND KÎ §6",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.7",
+      "label": "BOOK IV. THE YÎ AND KÎ §7",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.8",
+      "label": "BOOK IV. THE YÎ AND KÎ §8",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.9",
+      "label": "BOOK IV. THE YÎ AND KÎ §9",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.10",
+      "label": "BOOK IV. THE YÎ AND KÎ §10",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.11",
+      "label": "BOOK IV. THE YÎ AND KÎ §11",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.12",
+      "label": "BOOK IV. THE YÎ AND KÎ §12",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.13",
+      "label": "BOOK IV. THE YÎ AND KÎ §13",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.14",
+      "label": "BOOK IV. THE YÎ AND KÎ §14",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.15",
+      "label": "BOOK IV. THE YÎ AND KÎ §15",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.16",
+      "label": "BOOK IV. THE YÎ AND KÎ §16",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.17",
+      "label": "BOOK IV. THE YÎ AND KÎ §17",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.18",
+      "label": "BOOK IV. THE YÎ AND KÎ §18",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.19",
+      "label": "BOOK IV. THE YÎ AND KÎ §19",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.20",
+      "label": "BOOK IV. THE YÎ AND KÎ §20",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.21",
+      "label": "BOOK IV. THE YÎ AND KÎ §21",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.22",
+      "label": "BOOK IV. THE YÎ AND KÎ §22",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.23",
+      "label": "BOOK IV. THE YÎ AND KÎ §23",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.24",
+      "label": "BOOK IV. THE YÎ AND KÎ §24",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.25",
+      "label": "BOOK IV. THE YÎ AND KÎ §25",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.26",
+      "label": "BOOK IV. THE YÎ AND KÎ §26",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.27",
+      "label": "BOOK IV. THE YÎ AND KÎ §27",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.28",
+      "label": "BOOK IV. THE YÎ AND KÎ §28",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.29",
+      "label": "BOOK IV. THE YÎ AND KÎ §29",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.30",
+      "label": "BOOK IV. THE YÎ AND KÎ §30",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "6.1",
+      "label": "BOOK I. THE TRIBUTE OF YÜ §1",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.2",
+      "label": "BOOK I. THE TRIBUTE OF YÜ §2",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.3",
+      "label": "BOOK I. THE TRIBUTE OF YÜ §3",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.4",
+      "label": "BOOK I. THE TRIBUTE OF YÜ §4",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.5",
+      "label": "BOOK I. THE TRIBUTE OF YÜ §5",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.6",
+      "label": "BOOK I. THE TRIBUTE OF YÜ §6",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.7",
+      "label": "BOOK I. THE TRIBUTE OF YÜ §7",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.8",
+      "label": "BOOK I. THE TRIBUTE OF YÜ §8",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.9",
+      "label": "BOOK I. THE TRIBUTE OF YÜ §9",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.10",
+      "label": "BOOK I. THE TRIBUTE OF YÜ §10",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.11",
+      "label": "BOOK I. THE TRIBUTE OF YÜ §11",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.12",
+      "label": "BOOK I. THE TRIBUTE OF YÜ §12",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.13",
+      "label": "BOOK I. THE TRIBUTE OF YÜ §13",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.14",
+      "label": "BOOK I. THE TRIBUTE OF YÜ §14",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.15",
+      "label": "BOOK I. THE TRIBUTE OF YÜ §15",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.16",
+      "label": "BOOK I. THE TRIBUTE OF YÜ §16",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.17",
+      "label": "BOOK I. THE TRIBUTE OF YÜ §17",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.18",
+      "label": "BOOK I. THE TRIBUTE OF YÜ §18",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.19",
+      "label": "BOOK I. THE TRIBUTE OF YÜ §19",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.20",
+      "label": "BOOK I. THE TRIBUTE OF YÜ §20",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.21",
+      "label": "BOOK I. THE TRIBUTE OF YÜ §21",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.22",
+      "label": "BOOK I. THE TRIBUTE OF YÜ §22",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.23",
+      "label": "BOOK I. THE TRIBUTE OF YÜ §23",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.24",
+      "label": "BOOK I. THE TRIBUTE OF YÜ §24",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.25",
+      "label": "BOOK I. THE TRIBUTE OF YÜ §25",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.26",
+      "label": "BOOK I. THE TRIBUTE OF YÜ §26",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.27",
+      "label": "BOOK I. THE TRIBUTE OF YÜ §27",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.28",
+      "label": "BOOK I. THE TRIBUTE OF YÜ §28",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.29",
+      "label": "BOOK I. THE TRIBUTE OF YÜ §29",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.30",
+      "label": "BOOK I. THE TRIBUTE OF YÜ §30",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.31",
+      "label": "BOOK I. THE TRIBUTE OF YÜ §31",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.32",
+      "label": "BOOK I. THE TRIBUTE OF YÜ §32",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.33",
+      "label": "BOOK I. THE TRIBUTE OF YÜ §33",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.34",
+      "label": "BOOK I. THE TRIBUTE OF YÜ §34",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.35",
+      "label": "BOOK I. THE TRIBUTE OF YÜ §35",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.36",
+      "label": "BOOK I. THE TRIBUTE OF YÜ §36",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.37",
+      "label": "BOOK I. THE TRIBUTE OF YÜ §37",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.38",
+      "label": "BOOK I. THE TRIBUTE OF YÜ §38",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.39",
+      "label": "BOOK I. THE TRIBUTE OF YÜ §39",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.40",
+      "label": "BOOK I. THE TRIBUTE OF YÜ §40",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.41",
+      "label": "BOOK I. THE TRIBUTE OF YÜ §41",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.42",
+      "label": "BOOK I. THE TRIBUTE OF YÜ §42",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.43",
+      "label": "BOOK I. THE TRIBUTE OF YÜ §43",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.44",
+      "label": "BOOK I. THE TRIBUTE OF YÜ §44",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.45",
+      "label": "BOOK I. THE TRIBUTE OF YÜ §45",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.46",
+      "label": "BOOK I. THE TRIBUTE OF YÜ §46",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.47",
+      "label": "BOOK I. THE TRIBUTE OF YÜ §47",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.48",
+      "label": "BOOK I. THE TRIBUTE OF YÜ §48",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.49",
+      "label": "BOOK I. THE TRIBUTE OF YÜ §49",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.50",
+      "label": "BOOK I. THE TRIBUTE OF YÜ §50",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.51",
+      "label": "BOOK I. THE TRIBUTE OF YÜ §51",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.52",
+      "label": "BOOK I. THE TRIBUTE OF YÜ §52",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.53",
+      "label": "BOOK I. THE TRIBUTE OF YÜ §53",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.54",
+      "label": "BOOK I. THE TRIBUTE OF YÜ §54",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.55",
+      "label": "BOOK I. THE TRIBUTE OF YÜ §55",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.56",
+      "label": "BOOK I. THE TRIBUTE OF YÜ §56",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.57",
+      "label": "BOOK I. THE TRIBUTE OF YÜ §57",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.58",
+      "label": "BOOK I. THE TRIBUTE OF YÜ §58",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.59",
+      "label": "BOOK I. THE TRIBUTE OF YÜ §59",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.60",
+      "label": "BOOK I. THE TRIBUTE OF YÜ §60",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.61",
+      "label": "BOOK I. THE TRIBUTE OF YÜ §61",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.62",
+      "label": "BOOK I. THE TRIBUTE OF YÜ §62",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.63",
+      "label": "BOOK I. THE TRIBUTE OF YÜ §63",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.64",
+      "label": "BOOK I. THE TRIBUTE OF YÜ §64",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.65",
+      "label": "BOOK I. THE TRIBUTE OF YÜ §65",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.66",
+      "label": "BOOK I. THE TRIBUTE OF YÜ §66",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.67",
+      "label": "BOOK I. THE TRIBUTE OF YÜ §67",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.68",
+      "label": "BOOK I. THE TRIBUTE OF YÜ §68",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.69",
+      "label": "BOOK I. THE TRIBUTE OF YÜ §69",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.70",
+      "label": "BOOK I. THE TRIBUTE OF YÜ §70",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.71",
+      "label": "BOOK I. THE TRIBUTE OF YÜ §71",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.72",
+      "label": "BOOK I. THE TRIBUTE OF YÜ §72",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.73",
+      "label": "BOOK I. THE TRIBUTE OF YÜ §73",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.74",
+      "label": "BOOK I. THE TRIBUTE OF YÜ §74",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.75",
+      "label": "BOOK I. THE TRIBUTE OF YÜ §75",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.76",
+      "label": "BOOK I. THE TRIBUTE OF YÜ §76",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.77",
+      "label": "BOOK I. THE TRIBUTE OF YÜ §77",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.78",
+      "label": "BOOK I. THE TRIBUTE OF YÜ §78",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.79",
+      "label": "BOOK I. THE TRIBUTE OF YÜ §79",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.80",
+      "label": "BOOK I. THE TRIBUTE OF YÜ §80",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.81",
+      "label": "BOOK I. THE TRIBUTE OF YÜ §81",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.82",
+      "label": "BOOK I. THE TRIBUTE OF YÜ §82",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.83",
+      "label": "BOOK I. THE TRIBUTE OF YÜ §83",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.84",
+      "label": "BOOK I. THE TRIBUTE OF YÜ §84",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.85",
+      "label": "BOOK I. THE TRIBUTE OF YÜ §85",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "7.1",
+      "label": "BOOK II. THE SPEECH AT KAN §1",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.2",
+      "label": "BOOK II. THE SPEECH AT KAN §2",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.3",
+      "label": "BOOK II. THE SPEECH AT KAN §3",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.4",
+      "label": "BOOK II. THE SPEECH AT KAN §4",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.5",
+      "label": "BOOK II. THE SPEECH AT KAN §5",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.6",
+      "label": "BOOK II. THE SPEECH AT KAN §6",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.7",
+      "label": "BOOK II. THE SPEECH AT KAN §7",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.8",
+      "label": "BOOK II. THE SPEECH AT KAN §8",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.9",
+      "label": "BOOK II. THE SPEECH AT KAN §9",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.10",
+      "label": "BOOK II. THE SPEECH AT KAN §10",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "8.1",
+      "label": "BOOK III. THE SONGS OF THE FIVE SONS §1",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.2",
+      "label": "BOOK III. THE SONGS OF THE FIVE SONS §2",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.3",
+      "label": "BOOK III. THE SONGS OF THE FIVE SONS §3",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.4",
+      "label": "BOOK III. THE SONGS OF THE FIVE SONS §4",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.5",
+      "label": "BOOK III. THE SONGS OF THE FIVE SONS §5",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.6",
+      "label": "BOOK III. THE SONGS OF THE FIVE SONS §6",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.7",
+      "label": "BOOK III. THE SONGS OF THE FIVE SONS §7",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.8",
+      "label": "BOOK III. THE SONGS OF THE FIVE SONS §8",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.9",
+      "label": "BOOK III. THE SONGS OF THE FIVE SONS §9",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.10",
+      "label": "BOOK III. THE SONGS OF THE FIVE SONS §10",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.11",
+      "label": "BOOK III. THE SONGS OF THE FIVE SONS §11",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.12",
+      "label": "BOOK III. THE SONGS OF THE FIVE SONS §12",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.13",
+      "label": "BOOK III. THE SONGS OF THE FIVE SONS §13",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.14",
+      "label": "BOOK III. THE SONGS OF THE FIVE SONS §14",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "9.1",
+      "label": "BOOK IV. THE PUNITIVE EXPEDITION OF YIN §1",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.2",
+      "label": "BOOK IV. THE PUNITIVE EXPEDITION OF YIN §2",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.3",
+      "label": "BOOK IV. THE PUNITIVE EXPEDITION OF YIN §3",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.4",
+      "label": "BOOK IV. THE PUNITIVE EXPEDITION OF YIN §4",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.5",
+      "label": "BOOK IV. THE PUNITIVE EXPEDITION OF YIN §5",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.6",
+      "label": "BOOK IV. THE PUNITIVE EXPEDITION OF YIN §6",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.7",
+      "label": "BOOK IV. THE PUNITIVE EXPEDITION OF YIN §7",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.8",
+      "label": "BOOK IV. THE PUNITIVE EXPEDITION OF YIN §8",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.9",
+      "label": "BOOK IV. THE PUNITIVE EXPEDITION OF YIN §9",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.10",
+      "label": "BOOK IV. THE PUNITIVE EXPEDITION OF YIN §10",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.11",
+      "label": "BOOK IV. THE PUNITIVE EXPEDITION OF YIN §11",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.12",
+      "label": "BOOK IV. THE PUNITIVE EXPEDITION OF YIN §12",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.13",
+      "label": "BOOK IV. THE PUNITIVE EXPEDITION OF YIN §13",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.14",
+      "label": "BOOK IV. THE PUNITIVE EXPEDITION OF YIN §14",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.15",
+      "label": "BOOK IV. THE PUNITIVE EXPEDITION OF YIN §15",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.16",
+      "label": "BOOK IV. THE PUNITIVE EXPEDITION OF YIN §16",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "10.1",
+      "label": "BOOK I. THE SPEECH OF THANG §1",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.2",
+      "label": "BOOK I. THE SPEECH OF THANG §2",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.3",
+      "label": "BOOK I. THE SPEECH OF THANG §3",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.4",
+      "label": "BOOK I. THE SPEECH OF THANG §4",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.5",
+      "label": "BOOK I. THE SPEECH OF THANG §5",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.6",
+      "label": "BOOK I. THE SPEECH OF THANG §6",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.7",
+      "label": "BOOK I. THE SPEECH OF THANG §7",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.8",
+      "label": "BOOK I. THE SPEECH OF THANG §8",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.9",
+      "label": "BOOK I. THE SPEECH OF THANG §9",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.10",
+      "label": "BOOK I. THE SPEECH OF THANG §10",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "11.1",
+      "label": "BOOK II. THE ANNOUNCEMENT OF KUNG-HUI §1",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.2",
+      "label": "BOOK II. THE ANNOUNCEMENT OF KUNG-HUI §2",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.3",
+      "label": "BOOK II. THE ANNOUNCEMENT OF KUNG-HUI §3",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.4",
+      "label": "BOOK II. THE ANNOUNCEMENT OF KUNG-HUI §4",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.5",
+      "label": "BOOK II. THE ANNOUNCEMENT OF KUNG-HUI §5",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.6",
+      "label": "BOOK II. THE ANNOUNCEMENT OF KUNG-HUI §6",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.7",
+      "label": "BOOK II. THE ANNOUNCEMENT OF KUNG-HUI §7",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.8",
+      "label": "BOOK II. THE ANNOUNCEMENT OF KUNG-HUI §8",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.9",
+      "label": "BOOK II. THE ANNOUNCEMENT OF KUNG-HUI §9",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.10",
+      "label": "BOOK II. THE ANNOUNCEMENT OF KUNG-HUI §10",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.11",
+      "label": "BOOK II. THE ANNOUNCEMENT OF KUNG-HUI §11",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "12.1",
+      "label": "BOOK III. THE ANNOUNCEMENT OF THANG §1",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.2",
+      "label": "BOOK III. THE ANNOUNCEMENT OF THANG §2",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.3",
+      "label": "BOOK III. THE ANNOUNCEMENT OF THANG §3",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.4",
+      "label": "BOOK III. THE ANNOUNCEMENT OF THANG §4",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.5",
+      "label": "BOOK III. THE ANNOUNCEMENT OF THANG §5",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.6",
+      "label": "BOOK III. THE ANNOUNCEMENT OF THANG §6",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.7",
+      "label": "BOOK III. THE ANNOUNCEMENT OF THANG §7",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.8",
+      "label": "BOOK III. THE ANNOUNCEMENT OF THANG §8",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.9",
+      "label": "BOOK III. THE ANNOUNCEMENT OF THANG §9",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.10",
+      "label": "BOOK III. THE ANNOUNCEMENT OF THANG §10",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.11",
+      "label": "BOOK III. THE ANNOUNCEMENT OF THANG §11",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.12",
+      "label": "BOOK III. THE ANNOUNCEMENT OF THANG §12",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "13.1",
+      "label": "BOOK IV. THE INSTRUCTIONS OF Î §1",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.2",
+      "label": "BOOK IV. THE INSTRUCTIONS OF Î §2",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.3",
+      "label": "BOOK IV. THE INSTRUCTIONS OF Î §3",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.4",
+      "label": "BOOK IV. THE INSTRUCTIONS OF Î §4",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.5",
+      "label": "BOOK IV. THE INSTRUCTIONS OF Î §5",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.6",
+      "label": "BOOK IV. THE INSTRUCTIONS OF Î §6",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.7",
+      "label": "BOOK IV. THE INSTRUCTIONS OF Î §7",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.8",
+      "label": "BOOK IV. THE INSTRUCTIONS OF Î §8",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.9",
+      "label": "BOOK IV. THE INSTRUCTIONS OF Î §9",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.10",
+      "label": "BOOK IV. THE INSTRUCTIONS OF Î §10",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "14.1",
+      "label": "BOOK V. THE THÂI KIÂ §1",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.2",
+      "label": "BOOK V. THE THÂI KIÂ §2",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.3",
+      "label": "BOOK V. THE THÂI KIÂ §3",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.4",
+      "label": "BOOK V. THE THÂI KIÂ §4",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.5",
+      "label": "BOOK V. THE THÂI KIÂ §5",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.6",
+      "label": "BOOK V. THE THÂI KIÂ §6",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.7",
+      "label": "BOOK V. THE THÂI KIÂ §7",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.8",
+      "label": "BOOK V. THE THÂI KIÂ §8",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.9",
+      "label": "BOOK V. THE THÂI KIÂ §9",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.10",
+      "label": "BOOK V. THE THÂI KIÂ §10",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.11",
+      "label": "BOOK V. THE THÂI KIÂ §11",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.12",
+      "label": "BOOK V. THE THÂI KIÂ §12",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.13",
+      "label": "BOOK V. THE THÂI KIÂ §13",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.14",
+      "label": "BOOK V. THE THÂI KIÂ §14",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.15",
+      "label": "BOOK V. THE THÂI KIÂ §15",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.16",
+      "label": "BOOK V. THE THÂI KIÂ §16",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.17",
+      "label": "BOOK V. THE THÂI KIÂ §17",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.18",
+      "label": "BOOK V. THE THÂI KIÂ §18",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.19",
+      "label": "BOOK V. THE THÂI KIÂ §19",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.20",
+      "label": "BOOK V. THE THÂI KIÂ §20",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.21",
+      "label": "BOOK V. THE THÂI KIÂ §21",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.22",
+      "label": "BOOK V. THE THÂI KIÂ §22",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "15.1",
+      "label": "BOOK VI. THE COMMON POSSESSION OF PURE VIRTUE §1",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.2",
+      "label": "BOOK VI. THE COMMON POSSESSION OF PURE VIRTUE §2",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.3",
+      "label": "BOOK VI. THE COMMON POSSESSION OF PURE VIRTUE §3",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.4",
+      "label": "BOOK VI. THE COMMON POSSESSION OF PURE VIRTUE §4",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.5",
+      "label": "BOOK VI. THE COMMON POSSESSION OF PURE VIRTUE §5",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.6",
+      "label": "BOOK VI. THE COMMON POSSESSION OF PURE VIRTUE §6",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.7",
+      "label": "BOOK VI. THE COMMON POSSESSION OF PURE VIRTUE §7",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.8",
+      "label": "BOOK VI. THE COMMON POSSESSION OF PURE VIRTUE §8",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.9",
+      "label": "BOOK VI. THE COMMON POSSESSION OF PURE VIRTUE §9",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.10",
+      "label": "BOOK VI. THE COMMON POSSESSION OF PURE VIRTUE §10",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.11",
+      "label": "BOOK VI. THE COMMON POSSESSION OF PURE VIRTUE §11",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "16.1",
+      "label": "BOOK VII. THE PAN-KĂNG §1",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.2",
+      "label": "BOOK VII. THE PAN-KĂNG §2",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.3",
+      "label": "BOOK VII. THE PAN-KĂNG §3",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.4",
+      "label": "BOOK VII. THE PAN-KĂNG §4",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.5",
+      "label": "BOOK VII. THE PAN-KĂNG §5",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.6",
+      "label": "BOOK VII. THE PAN-KĂNG §6",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.7",
+      "label": "BOOK VII. THE PAN-KĂNG §7",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.8",
+      "label": "BOOK VII. THE PAN-KĂNG §8",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.9",
+      "label": "BOOK VII. THE PAN-KĂNG §9",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.10",
+      "label": "BOOK VII. THE PAN-KĂNG §10",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.11",
+      "label": "BOOK VII. THE PAN-KĂNG §11",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.12",
+      "label": "BOOK VII. THE PAN-KĂNG §12",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.13",
+      "label": "BOOK VII. THE PAN-KĂNG §13",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.14",
+      "label": "BOOK VII. THE PAN-KĂNG §14",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.15",
+      "label": "BOOK VII. THE PAN-KĂNG §15",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.16",
+      "label": "BOOK VII. THE PAN-KĂNG §16",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.17",
+      "label": "BOOK VII. THE PAN-KĂNG §17",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.18",
+      "label": "BOOK VII. THE PAN-KĂNG §18",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.19",
+      "label": "BOOK VII. THE PAN-KĂNG §19",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.20",
+      "label": "BOOK VII. THE PAN-KĂNG §20",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.21",
+      "label": "BOOK VII. THE PAN-KĂNG §21",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.22",
+      "label": "BOOK VII. THE PAN-KĂNG §22",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.23",
+      "label": "BOOK VII. THE PAN-KĂNG §23",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.24",
+      "label": "BOOK VII. THE PAN-KĂNG §24",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.25",
+      "label": "BOOK VII. THE PAN-KĂNG §25",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.26",
+      "label": "BOOK VII. THE PAN-KĂNG §26",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.27",
+      "label": "BOOK VII. THE PAN-KĂNG §27",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.28",
+      "label": "BOOK VII. THE PAN-KĂNG §28",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.29",
+      "label": "BOOK VII. THE PAN-KĂNG §29",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.30",
+      "label": "BOOK VII. THE PAN-KĂNG §30",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "17.1",
+      "label": "BOOK VIII. THE CHARGE TO YÜEH §1",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.2",
+      "label": "BOOK VIII. THE CHARGE TO YÜEH §2",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.3",
+      "label": "BOOK VIII. THE CHARGE TO YÜEH §3",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.4",
+      "label": "BOOK VIII. THE CHARGE TO YÜEH §4",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.5",
+      "label": "BOOK VIII. THE CHARGE TO YÜEH §5",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.6",
+      "label": "BOOK VIII. THE CHARGE TO YÜEH §6",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.7",
+      "label": "BOOK VIII. THE CHARGE TO YÜEH §7",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.8",
+      "label": "BOOK VIII. THE CHARGE TO YÜEH §8",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.9",
+      "label": "BOOK VIII. THE CHARGE TO YÜEH §9",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.10",
+      "label": "BOOK VIII. THE CHARGE TO YÜEH §10",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.11",
+      "label": "BOOK VIII. THE CHARGE TO YÜEH §11",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.12",
+      "label": "BOOK VIII. THE CHARGE TO YÜEH §12",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.13",
+      "label": "BOOK VIII. THE CHARGE TO YÜEH §13",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.14",
+      "label": "BOOK VIII. THE CHARGE TO YÜEH §14",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.15",
+      "label": "BOOK VIII. THE CHARGE TO YÜEH §15",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.16",
+      "label": "BOOK VIII. THE CHARGE TO YÜEH §16",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.17",
+      "label": "BOOK VIII. THE CHARGE TO YÜEH §17",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.18",
+      "label": "BOOK VIII. THE CHARGE TO YÜEH §18",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.19",
+      "label": "BOOK VIII. THE CHARGE TO YÜEH §19",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.20",
+      "label": "BOOK VIII. THE CHARGE TO YÜEH §20",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.21",
+      "label": "BOOK VIII. THE CHARGE TO YÜEH §21",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.22",
+      "label": "BOOK VIII. THE CHARGE TO YÜEH §22",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.23",
+      "label": "BOOK VIII. THE CHARGE TO YÜEH §23",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.24",
+      "label": "BOOK VIII. THE CHARGE TO YÜEH §24",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.25",
+      "label": "BOOK VIII. THE CHARGE TO YÜEH §25",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.26",
+      "label": "BOOK VIII. THE CHARGE TO YÜEH §26",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.27",
+      "label": "BOOK VIII. THE CHARGE TO YÜEH §27",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.28",
+      "label": "BOOK VIII. THE CHARGE TO YÜEH §28",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "18.1",
+      "label": "BOOK IX. THE DAY OF THE SUPPLEMENTARY SACRIFICE TO KÂO ȜUNG §1",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.2",
+      "label": "BOOK IX. THE DAY OF THE SUPPLEMENTARY SACRIFICE TO KÂO ȜUNG §2",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.3",
+      "label": "BOOK IX. THE DAY OF THE SUPPLEMENTARY SACRIFICE TO KÂO ȜUNG §3",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.4",
+      "label": "BOOK IX. THE DAY OF THE SUPPLEMENTARY SACRIFICE TO KÂO ȜUNG §4",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.5",
+      "label": "BOOK IX. THE DAY OF THE SUPPLEMENTARY SACRIFICE TO KÂO ȜUNG §5",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.6",
+      "label": "BOOK IX. THE DAY OF THE SUPPLEMENTARY SACRIFICE TO KÂO ȜUNG §6",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "19.1",
+      "label": "BOOK X. THE CHIEF OF THE WEST'S CONQUEST OF LÎ §1",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.2",
+      "label": "BOOK X. THE CHIEF OF THE WEST'S CONQUEST OF LÎ §2",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.3",
+      "label": "BOOK X. THE CHIEF OF THE WEST'S CONQUEST OF LÎ §3",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.4",
+      "label": "BOOK X. THE CHIEF OF THE WEST'S CONQUEST OF LÎ §4",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.5",
+      "label": "BOOK X. THE CHIEF OF THE WEST'S CONQUEST OF LÎ §5",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.6",
+      "label": "BOOK X. THE CHIEF OF THE WEST'S CONQUEST OF LÎ §6",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.7",
+      "label": "BOOK X. THE CHIEF OF THE WEST'S CONQUEST OF LÎ §7",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "20.1",
+      "label": "BOOK XI. THE COUNT OF WEI §1",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.2",
+      "label": "BOOK XI. THE COUNT OF WEI §2",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.3",
+      "label": "BOOK XI. THE COUNT OF WEI §3",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.4",
+      "label": "BOOK XI. THE COUNT OF WEI §4",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.5",
+      "label": "BOOK XI. THE COUNT OF WEI §5",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.6",
+      "label": "BOOK XI. THE COUNT OF WEI §6",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.7",
+      "label": "BOOK XI. THE COUNT OF WEI §7",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.8",
+      "label": "BOOK XI. THE COUNT OF WEI §8",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "21.1",
+      "label": "BOOK I. THE GREAT DECLARATION §1",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.2",
+      "label": "BOOK I. THE GREAT DECLARATION §2",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.3",
+      "label": "BOOK I. THE GREAT DECLARATION §3",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.4",
+      "label": "BOOK I. THE GREAT DECLARATION §4",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.5",
+      "label": "BOOK I. THE GREAT DECLARATION §5",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.6",
+      "label": "BOOK I. THE GREAT DECLARATION §6",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.7",
+      "label": "BOOK I. THE GREAT DECLARATION §7",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.8",
+      "label": "BOOK I. THE GREAT DECLARATION §8",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.9",
+      "label": "BOOK I. THE GREAT DECLARATION §9",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.10",
+      "label": "BOOK I. THE GREAT DECLARATION §10",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.11",
+      "label": "BOOK I. THE GREAT DECLARATION §11",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.12",
+      "label": "BOOK I. THE GREAT DECLARATION §12",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.13",
+      "label": "BOOK I. THE GREAT DECLARATION §13",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.14",
+      "label": "BOOK I. THE GREAT DECLARATION §14",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.15",
+      "label": "BOOK I. THE GREAT DECLARATION §15",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.16",
+      "label": "BOOK I. THE GREAT DECLARATION §16",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.17",
+      "label": "BOOK I. THE GREAT DECLARATION §17",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.18",
+      "label": "BOOK I. THE GREAT DECLARATION §18",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.19",
+      "label": "BOOK I. THE GREAT DECLARATION §19",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.20",
+      "label": "BOOK I. THE GREAT DECLARATION §20",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.21",
+      "label": "BOOK I. THE GREAT DECLARATION §21",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.22",
+      "label": "BOOK I. THE GREAT DECLARATION §22",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.23",
+      "label": "BOOK I. THE GREAT DECLARATION §23",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.24",
+      "label": "BOOK I. THE GREAT DECLARATION §24",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.25",
+      "label": "BOOK I. THE GREAT DECLARATION §25",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.26",
+      "label": "BOOK I. THE GREAT DECLARATION §26",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.27",
+      "label": "BOOK I. THE GREAT DECLARATION §27",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.28",
+      "label": "BOOK I. THE GREAT DECLARATION §28",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.29",
+      "label": "BOOK I. THE GREAT DECLARATION §29",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.30",
+      "label": "BOOK I. THE GREAT DECLARATION §30",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.31",
+      "label": "BOOK I. THE GREAT DECLARATION §31",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.32",
+      "label": "BOOK I. THE GREAT DECLARATION §32",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.33",
+      "label": "BOOK I. THE GREAT DECLARATION §33",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.34",
+      "label": "BOOK I. THE GREAT DECLARATION §34",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "22.1",
+      "label": "BOOK II. THE SPEECH AT MÛ §1",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.2",
+      "label": "BOOK II. THE SPEECH AT MÛ §2",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.3",
+      "label": "BOOK II. THE SPEECH AT MÛ §3",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.4",
+      "label": "BOOK II. THE SPEECH AT MÛ §4",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.5",
+      "label": "BOOK II. THE SPEECH AT MÛ §5",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.6",
+      "label": "BOOK II. THE SPEECH AT MÛ §6",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "23.1",
+      "label": "BOOK III. THE SUCCESSFUL COMPLETION OF THE WAR §1",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.2",
+      "label": "BOOK III. THE SUCCESSFUL COMPLETION OF THE WAR §2",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.3",
+      "label": "BOOK III. THE SUCCESSFUL COMPLETION OF THE WAR §3",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.4",
+      "label": "BOOK III. THE SUCCESSFUL COMPLETION OF THE WAR §4",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.5",
+      "label": "BOOK III. THE SUCCESSFUL COMPLETION OF THE WAR §5",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.6",
+      "label": "BOOK III. THE SUCCESSFUL COMPLETION OF THE WAR §6",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.7",
+      "label": "BOOK III. THE SUCCESSFUL COMPLETION OF THE WAR §7",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.8",
+      "label": "BOOK III. THE SUCCESSFUL COMPLETION OF THE WAR §8",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.9",
+      "label": "BOOK III. THE SUCCESSFUL COMPLETION OF THE WAR §9",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.10",
+      "label": "BOOK III. THE SUCCESSFUL COMPLETION OF THE WAR §10",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.11",
+      "label": "BOOK III. THE SUCCESSFUL COMPLETION OF THE WAR §11",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.12",
+      "label": "BOOK III. THE SUCCESSFUL COMPLETION OF THE WAR §12",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.13",
+      "label": "BOOK III. THE SUCCESSFUL COMPLETION OF THE WAR §13",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.14",
+      "label": "BOOK III. THE SUCCESSFUL COMPLETION OF THE WAR §14",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.15",
+      "label": "BOOK III. THE SUCCESSFUL COMPLETION OF THE WAR §15",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.16",
+      "label": "BOOK III. THE SUCCESSFUL COMPLETION OF THE WAR §16",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.17",
+      "label": "BOOK III. THE SUCCESSFUL COMPLETION OF THE WAR §17",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.18",
+      "label": "BOOK III. THE SUCCESSFUL COMPLETION OF THE WAR §18",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.19",
+      "label": "BOOK III. THE SUCCESSFUL COMPLETION OF THE WAR §19",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.20",
+      "label": "BOOK III. THE SUCCESSFUL COMPLETION OF THE WAR §20",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.21",
+      "label": "BOOK III. THE SUCCESSFUL COMPLETION OF THE WAR §21",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.22",
+      "label": "BOOK III. THE SUCCESSFUL COMPLETION OF THE WAR §22",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.23",
+      "label": "BOOK III. THE SUCCESSFUL COMPLETION OF THE WAR §23",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.24",
+      "label": "BOOK III. THE SUCCESSFUL COMPLETION OF THE WAR §24",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "24.1",
+      "label": "BOOK IV. THE GREAT PLAN §1",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.2",
+      "label": "BOOK IV. THE GREAT PLAN §2",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.3",
+      "label": "BOOK IV. THE GREAT PLAN §3",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.4",
+      "label": "BOOK IV. THE GREAT PLAN §4",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.5",
+      "label": "BOOK IV. THE GREAT PLAN §5",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.6",
+      "label": "BOOK IV. THE GREAT PLAN §6",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.7",
+      "label": "BOOK IV. THE GREAT PLAN §7",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.8",
+      "label": "BOOK IV. THE GREAT PLAN §8",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.9",
+      "label": "BOOK IV. THE GREAT PLAN §9",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.10",
+      "label": "BOOK IV. THE GREAT PLAN §10",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.11",
+      "label": "BOOK IV. THE GREAT PLAN §11",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.12",
+      "label": "BOOK IV. THE GREAT PLAN §12",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.13",
+      "label": "BOOK IV. THE GREAT PLAN §13",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.14",
+      "label": "BOOK IV. THE GREAT PLAN §14",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.15",
+      "label": "BOOK IV. THE GREAT PLAN §15",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.16",
+      "label": "BOOK IV. THE GREAT PLAN §16",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.17",
+      "label": "BOOK IV. THE GREAT PLAN §17",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.18",
+      "label": "BOOK IV. THE GREAT PLAN §18",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.19",
+      "label": "BOOK IV. THE GREAT PLAN §19",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.20",
+      "label": "BOOK IV. THE GREAT PLAN §20",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.21",
+      "label": "BOOK IV. THE GREAT PLAN §21",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.22",
+      "label": "BOOK IV. THE GREAT PLAN §22",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.23",
+      "label": "BOOK IV. THE GREAT PLAN §23",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.24",
+      "label": "BOOK IV. THE GREAT PLAN §24",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.25",
+      "label": "BOOK IV. THE GREAT PLAN §25",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.26",
+      "label": "BOOK IV. THE GREAT PLAN §26",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.27",
+      "label": "BOOK IV. THE GREAT PLAN §27",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.28",
+      "label": "BOOK IV. THE GREAT PLAN §28",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.29",
+      "label": "BOOK IV. THE GREAT PLAN §29",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.30",
+      "label": "BOOK IV. THE GREAT PLAN §30",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.31",
+      "label": "BOOK IV. THE GREAT PLAN §31",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.32",
+      "label": "BOOK IV. THE GREAT PLAN §32",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.33",
+      "label": "BOOK IV. THE GREAT PLAN §33",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.34",
+      "label": "BOOK IV. THE GREAT PLAN §34",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.35",
+      "label": "BOOK IV. THE GREAT PLAN §35",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.36",
+      "label": "BOOK IV. THE GREAT PLAN §36",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.37",
+      "label": "BOOK IV. THE GREAT PLAN §37",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.38",
+      "label": "BOOK IV. THE GREAT PLAN §38",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.39",
+      "label": "BOOK IV. THE GREAT PLAN §39",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.40",
+      "label": "BOOK IV. THE GREAT PLAN §40",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.41",
+      "label": "BOOK IV. THE GREAT PLAN §41",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.42",
+      "label": "BOOK IV. THE GREAT PLAN §42",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.43",
+      "label": "BOOK IV. THE GREAT PLAN §43",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.44",
+      "label": "BOOK IV. THE GREAT PLAN §44",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.45",
+      "label": "BOOK IV. THE GREAT PLAN §45",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.46",
+      "label": "BOOK IV. THE GREAT PLAN §46",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.47",
+      "label": "BOOK IV. THE GREAT PLAN §47",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.48",
+      "label": "BOOK IV. THE GREAT PLAN §48",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.49",
+      "label": "BOOK IV. THE GREAT PLAN §49",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "25.1",
+      "label": "BOOK V. THE HOUNDS OF LÜ §1",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.2",
+      "label": "BOOK V. THE HOUNDS OF LÜ §2",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.3",
+      "label": "BOOK V. THE HOUNDS OF LÜ §3",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.4",
+      "label": "BOOK V. THE HOUNDS OF LÜ §4",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.5",
+      "label": "BOOK V. THE HOUNDS OF LÜ §5",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.6",
+      "label": "BOOK V. THE HOUNDS OF LÜ §6",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.7",
+      "label": "BOOK V. THE HOUNDS OF LÜ §7",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.8",
+      "label": "BOOK V. THE HOUNDS OF LÜ §8",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "26.1",
+      "label": "BOOK VI. THE METAL-BOUND COFFER §1",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.2",
+      "label": "BOOK VI. THE METAL-BOUND COFFER §2",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.3",
+      "label": "BOOK VI. THE METAL-BOUND COFFER §3",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.4",
+      "label": "BOOK VI. THE METAL-BOUND COFFER §4",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.5",
+      "label": "BOOK VI. THE METAL-BOUND COFFER §5",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.6",
+      "label": "BOOK VI. THE METAL-BOUND COFFER §6",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.7",
+      "label": "BOOK VI. THE METAL-BOUND COFFER §7",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.8",
+      "label": "BOOK VI. THE METAL-BOUND COFFER §8",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.9",
+      "label": "BOOK VI. THE METAL-BOUND COFFER §9",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.10",
+      "label": "BOOK VI. THE METAL-BOUND COFFER §10",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.11",
+      "label": "BOOK VI. THE METAL-BOUND COFFER §11",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.12",
+      "label": "BOOK VI. THE METAL-BOUND COFFER §12",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.13",
+      "label": "BOOK VI. THE METAL-BOUND COFFER §13",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.14",
+      "label": "BOOK VI. THE METAL-BOUND COFFER §14",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.15",
+      "label": "BOOK VI. THE METAL-BOUND COFFER §15",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.16",
+      "label": "BOOK VI. THE METAL-BOUND COFFER §16",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.17",
+      "label": "BOOK VI. THE METAL-BOUND COFFER §17",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.18",
+      "label": "BOOK VI. THE METAL-BOUND COFFER §18",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.19",
+      "label": "BOOK VI. THE METAL-BOUND COFFER §19",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.20",
+      "label": "BOOK VI. THE METAL-BOUND COFFER §20",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.21",
+      "label": "BOOK VI. THE METAL-BOUND COFFER §21",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.22",
+      "label": "BOOK VI. THE METAL-BOUND COFFER §22",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.23",
+      "label": "BOOK VI. THE METAL-BOUND COFFER §23",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.24",
+      "label": "BOOK VI. THE METAL-BOUND COFFER §24",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.25",
+      "label": "BOOK VI. THE METAL-BOUND COFFER §25",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.26",
+      "label": "BOOK VI. THE METAL-BOUND COFFER §26",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "27.1",
+      "label": "BOOK VII. THE GREAT ANNOUNCEMENT §1",
+      "chapterRef": "27"
+    },
+    {
+      "reference": "27.2",
+      "label": "BOOK VII. THE GREAT ANNOUNCEMENT §2",
+      "chapterRef": "27"
+    },
+    {
+      "reference": "27.3",
+      "label": "BOOK VII. THE GREAT ANNOUNCEMENT §3",
+      "chapterRef": "27"
+    },
+    {
+      "reference": "27.4",
+      "label": "BOOK VII. THE GREAT ANNOUNCEMENT §4",
+      "chapterRef": "27"
+    },
+    {
+      "reference": "27.5",
+      "label": "BOOK VII. THE GREAT ANNOUNCEMENT §5",
+      "chapterRef": "27"
+    },
+    {
+      "reference": "27.6",
+      "label": "BOOK VII. THE GREAT ANNOUNCEMENT §6",
+      "chapterRef": "27"
+    },
+    {
+      "reference": "27.7",
+      "label": "BOOK VII. THE GREAT ANNOUNCEMENT §7",
+      "chapterRef": "27"
+    },
+    {
+      "reference": "27.8",
+      "label": "BOOK VII. THE GREAT ANNOUNCEMENT §8",
+      "chapterRef": "27"
+    },
+    {
+      "reference": "27.9",
+      "label": "BOOK VII. THE GREAT ANNOUNCEMENT §9",
+      "chapterRef": "27"
+    },
+    {
+      "reference": "27.10",
+      "label": "BOOK VII. THE GREAT ANNOUNCEMENT §10",
+      "chapterRef": "27"
+    },
+    {
+      "reference": "27.11",
+      "label": "BOOK VII. THE GREAT ANNOUNCEMENT §11",
+      "chapterRef": "27"
+    },
+    {
+      "reference": "27.12",
+      "label": "BOOK VII. THE GREAT ANNOUNCEMENT §12",
+      "chapterRef": "27"
+    },
+    {
+      "reference": "27.13",
+      "label": "BOOK VII. THE GREAT ANNOUNCEMENT §13",
+      "chapterRef": "27"
+    },
+    {
+      "reference": "27.14",
+      "label": "BOOK VII. THE GREAT ANNOUNCEMENT §14",
+      "chapterRef": "27"
+    },
+    {
+      "reference": "27.15",
+      "label": "BOOK VII. THE GREAT ANNOUNCEMENT §15",
+      "chapterRef": "27"
+    },
+    {
+      "reference": "27.16",
+      "label": "BOOK VII. THE GREAT ANNOUNCEMENT §16",
+      "chapterRef": "27"
+    },
+    {
+      "reference": "27.17",
+      "label": "BOOK VII. THE GREAT ANNOUNCEMENT §17",
+      "chapterRef": "27"
+    },
+    {
+      "reference": "27.18",
+      "label": "BOOK VII. THE GREAT ANNOUNCEMENT §18",
+      "chapterRef": "27"
+    },
+    {
+      "reference": "27.19",
+      "label": "BOOK VII. THE GREAT ANNOUNCEMENT §19",
+      "chapterRef": "27"
+    },
+    {
+      "reference": "27.20",
+      "label": "BOOK VII. THE GREAT ANNOUNCEMENT §20",
+      "chapterRef": "27"
+    },
+    {
+      "reference": "27.21",
+      "label": "BOOK VII. THE GREAT ANNOUNCEMENT §21",
+      "chapterRef": "27"
+    },
+    {
+      "reference": "27.22",
+      "label": "BOOK VII. THE GREAT ANNOUNCEMENT §22",
+      "chapterRef": "27"
+    },
+    {
+      "reference": "27.23",
+      "label": "BOOK VII. THE GREAT ANNOUNCEMENT §23",
+      "chapterRef": "27"
+    },
+    {
+      "reference": "27.24",
+      "label": "BOOK VII. THE GREAT ANNOUNCEMENT §24",
+      "chapterRef": "27"
+    },
+    {
+      "reference": "28.1",
+      "label": "BOOK VIII. THE CHARGE TO THE COUNT OF WEI §1",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "28.2",
+      "label": "BOOK VIII. THE CHARGE TO THE COUNT OF WEI §2",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "28.3",
+      "label": "BOOK VIII. THE CHARGE TO THE COUNT OF WEI §3",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "28.4",
+      "label": "BOOK VIII. THE CHARGE TO THE COUNT OF WEI §4",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "28.5",
+      "label": "BOOK VIII. THE CHARGE TO THE COUNT OF WEI §5",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "28.6",
+      "label": "BOOK VIII. THE CHARGE TO THE COUNT OF WEI §6",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "28.7",
+      "label": "BOOK VIII. THE CHARGE TO THE COUNT OF WEI §7",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "28.8",
+      "label": "BOOK VIII. THE CHARGE TO THE COUNT OF WEI §8",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "28.9",
+      "label": "BOOK VIII. THE CHARGE TO THE COUNT OF WEI §9",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "28.10",
+      "label": "BOOK VIII. THE CHARGE TO THE COUNT OF WEI §10",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "29.1",
+      "label": "BOOK IX. THE ANNOUNCEMENT TO THE PRINCE OF KHANG §1",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.2",
+      "label": "BOOK IX. THE ANNOUNCEMENT TO THE PRINCE OF KHANG §2",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.3",
+      "label": "BOOK IX. THE ANNOUNCEMENT TO THE PRINCE OF KHANG §3",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.4",
+      "label": "BOOK IX. THE ANNOUNCEMENT TO THE PRINCE OF KHANG §4",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.5",
+      "label": "BOOK IX. THE ANNOUNCEMENT TO THE PRINCE OF KHANG §5",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.6",
+      "label": "BOOK IX. THE ANNOUNCEMENT TO THE PRINCE OF KHANG §6",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.7",
+      "label": "BOOK IX. THE ANNOUNCEMENT TO THE PRINCE OF KHANG §7",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.8",
+      "label": "BOOK IX. THE ANNOUNCEMENT TO THE PRINCE OF KHANG §8",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.9",
+      "label": "BOOK IX. THE ANNOUNCEMENT TO THE PRINCE OF KHANG §9",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.10",
+      "label": "BOOK IX. THE ANNOUNCEMENT TO THE PRINCE OF KHANG §10",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.11",
+      "label": "BOOK IX. THE ANNOUNCEMENT TO THE PRINCE OF KHANG §11",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.12",
+      "label": "BOOK IX. THE ANNOUNCEMENT TO THE PRINCE OF KHANG §12",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.13",
+      "label": "BOOK IX. THE ANNOUNCEMENT TO THE PRINCE OF KHANG §13",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.14",
+      "label": "BOOK IX. THE ANNOUNCEMENT TO THE PRINCE OF KHANG §14",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.15",
+      "label": "BOOK IX. THE ANNOUNCEMENT TO THE PRINCE OF KHANG §15",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.16",
+      "label": "BOOK IX. THE ANNOUNCEMENT TO THE PRINCE OF KHANG §16",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.17",
+      "label": "BOOK IX. THE ANNOUNCEMENT TO THE PRINCE OF KHANG §17",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.18",
+      "label": "BOOK IX. THE ANNOUNCEMENT TO THE PRINCE OF KHANG §18",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.19",
+      "label": "BOOK IX. THE ANNOUNCEMENT TO THE PRINCE OF KHANG §19",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.20",
+      "label": "BOOK IX. THE ANNOUNCEMENT TO THE PRINCE OF KHANG §20",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.21",
+      "label": "BOOK IX. THE ANNOUNCEMENT TO THE PRINCE OF KHANG §21",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.22",
+      "label": "BOOK IX. THE ANNOUNCEMENT TO THE PRINCE OF KHANG §22",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.23",
+      "label": "BOOK IX. THE ANNOUNCEMENT TO THE PRINCE OF KHANG §23",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.24",
+      "label": "BOOK IX. THE ANNOUNCEMENT TO THE PRINCE OF KHANG §24",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.25",
+      "label": "BOOK IX. THE ANNOUNCEMENT TO THE PRINCE OF KHANG §25",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.26",
+      "label": "BOOK IX. THE ANNOUNCEMENT TO THE PRINCE OF KHANG §26",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.27",
+      "label": "BOOK IX. THE ANNOUNCEMENT TO THE PRINCE OF KHANG §27",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.28",
+      "label": "BOOK IX. THE ANNOUNCEMENT TO THE PRINCE OF KHANG §28",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.29",
+      "label": "BOOK IX. THE ANNOUNCEMENT TO THE PRINCE OF KHANG §29",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.30",
+      "label": "BOOK IX. THE ANNOUNCEMENT TO THE PRINCE OF KHANG §30",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "30.1",
+      "label": "THE ANNOUNCEMENT ABOUT DRUNKENNESS §1",
+      "chapterRef": "30"
+    },
+    {
+      "reference": "30.2",
+      "label": "THE ANNOUNCEMENT ABOUT DRUNKENNESS §2",
+      "chapterRef": "30"
+    },
+    {
+      "reference": "30.3",
+      "label": "THE ANNOUNCEMENT ABOUT DRUNKENNESS §3",
+      "chapterRef": "30"
+    },
+    {
+      "reference": "30.4",
+      "label": "THE ANNOUNCEMENT ABOUT DRUNKENNESS §4",
+      "chapterRef": "30"
+    },
+    {
+      "reference": "30.5",
+      "label": "THE ANNOUNCEMENT ABOUT DRUNKENNESS §5",
+      "chapterRef": "30"
+    },
+    {
+      "reference": "30.6",
+      "label": "THE ANNOUNCEMENT ABOUT DRUNKENNESS §6",
+      "chapterRef": "30"
+    },
+    {
+      "reference": "30.7",
+      "label": "THE ANNOUNCEMENT ABOUT DRUNKENNESS §7",
+      "chapterRef": "30"
+    },
+    {
+      "reference": "30.8",
+      "label": "THE ANNOUNCEMENT ABOUT DRUNKENNESS §8",
+      "chapterRef": "30"
+    },
+    {
+      "reference": "30.9",
+      "label": "THE ANNOUNCEMENT ABOUT DRUNKENNESS §9",
+      "chapterRef": "30"
+    },
+    {
+      "reference": "30.10",
+      "label": "THE ANNOUNCEMENT ABOUT DRUNKENNESS §10",
+      "chapterRef": "30"
+    },
+    {
+      "reference": "30.11",
+      "label": "THE ANNOUNCEMENT ABOUT DRUNKENNESS §11",
+      "chapterRef": "30"
+    },
+    {
+      "reference": "30.12",
+      "label": "THE ANNOUNCEMENT ABOUT DRUNKENNESS §12",
+      "chapterRef": "30"
+    },
+    {
+      "reference": "30.13",
+      "label": "THE ANNOUNCEMENT ABOUT DRUNKENNESS §13",
+      "chapterRef": "30"
+    },
+    {
+      "reference": "30.14",
+      "label": "THE ANNOUNCEMENT ABOUT DRUNKENNESS §14",
+      "chapterRef": "30"
+    },
+    {
+      "reference": "30.15",
+      "label": "THE ANNOUNCEMENT ABOUT DRUNKENNESS §15",
+      "chapterRef": "30"
+    },
+    {
+      "reference": "30.16",
+      "label": "THE ANNOUNCEMENT ABOUT DRUNKENNESS §16",
+      "chapterRef": "30"
+    },
+    {
+      "reference": "30.17",
+      "label": "THE ANNOUNCEMENT ABOUT DRUNKENNESS §17",
+      "chapterRef": "30"
+    },
+    {
+      "reference": "30.18",
+      "label": "THE ANNOUNCEMENT ABOUT DRUNKENNESS §18",
+      "chapterRef": "30"
+    },
+    {
+      "reference": "30.19",
+      "label": "THE ANNOUNCEMENT ABOUT DRUNKENNESS §19",
+      "chapterRef": "30"
+    },
+    {
+      "reference": "30.20",
+      "label": "THE ANNOUNCEMENT ABOUT DRUNKENNESS §20",
+      "chapterRef": "30"
+    },
+    {
+      "reference": "30.21",
+      "label": "THE ANNOUNCEMENT ABOUT DRUNKENNESS §21",
+      "chapterRef": "30"
+    },
+    {
+      "reference": "30.22",
+      "label": "THE ANNOUNCEMENT ABOUT DRUNKENNESS §22",
+      "chapterRef": "30"
+    },
+    {
+      "reference": "30.23",
+      "label": "THE ANNOUNCEMENT ABOUT DRUNKENNESS §23",
+      "chapterRef": "30"
+    },
+    {
+      "reference": "30.24",
+      "label": "THE ANNOUNCEMENT ABOUT DRUNKENNESS §24",
+      "chapterRef": "30"
+    },
+    {
+      "reference": "30.25",
+      "label": "THE ANNOUNCEMENT ABOUT DRUNKENNESS §25",
+      "chapterRef": "30"
+    },
+    {
+      "reference": "30.26",
+      "label": "THE ANNOUNCEMENT ABOUT DRUNKENNESS §26",
+      "chapterRef": "30"
+    },
+    {
+      "reference": "30.27",
+      "label": "THE ANNOUNCEMENT ABOUT DRUNKENNESS §27",
+      "chapterRef": "30"
+    },
+    {
+      "reference": "30.28",
+      "label": "THE ANNOUNCEMENT ABOUT DRUNKENNESS §28",
+      "chapterRef": "30"
+    },
+    {
+      "reference": "30.29",
+      "label": "THE ANNOUNCEMENT ABOUT DRUNKENNESS §29",
+      "chapterRef": "30"
+    },
+    {
+      "reference": "30.30",
+      "label": "THE ANNOUNCEMENT ABOUT DRUNKENNESS §30",
+      "chapterRef": "30"
+    },
+    {
+      "reference": "30.31",
+      "label": "THE ANNOUNCEMENT ABOUT DRUNKENNESS §31",
+      "chapterRef": "30"
+    },
+    {
+      "reference": "30.32",
+      "label": "THE ANNOUNCEMENT ABOUT DRUNKENNESS §32",
+      "chapterRef": "30"
+    },
+    {
+      "reference": "31.1",
+      "label": "THE TIMBER OF THE ROTTLERA §1",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.2",
+      "label": "THE TIMBER OF THE ROTTLERA §2",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.3",
+      "label": "THE TIMBER OF THE ROTTLERA §3",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.4",
+      "label": "THE TIMBER OF THE ROTTLERA §4",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.5",
+      "label": "THE TIMBER OF THE ROTTLERA §5",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.6",
+      "label": "THE TIMBER OF THE ROTTLERA §6",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.7",
+      "label": "THE TIMBER OF THE ROTTLERA §7",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.8",
+      "label": "THE TIMBER OF THE ROTTLERA §8",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.9",
+      "label": "THE TIMBER OF THE ROTTLERA §9",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.10",
+      "label": "THE TIMBER OF THE ROTTLERA §10",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.11",
+      "label": "THE TIMBER OF THE ROTTLERA §11",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "32.1",
+      "label": "THE ANNOUNCEMENT OF THE DUKE OF SHÂO §1",
+      "chapterRef": "32"
+    },
+    {
+      "reference": "32.2",
+      "label": "THE ANNOUNCEMENT OF THE DUKE OF SHÂO §2",
+      "chapterRef": "32"
+    },
+    {
+      "reference": "32.3",
+      "label": "THE ANNOUNCEMENT OF THE DUKE OF SHÂO §3",
+      "chapterRef": "32"
+    },
+    {
+      "reference": "32.4",
+      "label": "THE ANNOUNCEMENT OF THE DUKE OF SHÂO §4",
+      "chapterRef": "32"
+    },
+    {
+      "reference": "32.5",
+      "label": "THE ANNOUNCEMENT OF THE DUKE OF SHÂO §5",
+      "chapterRef": "32"
+    },
+    {
+      "reference": "32.6",
+      "label": "THE ANNOUNCEMENT OF THE DUKE OF SHÂO §6",
+      "chapterRef": "32"
+    },
+    {
+      "reference": "32.7",
+      "label": "THE ANNOUNCEMENT OF THE DUKE OF SHÂO §7",
+      "chapterRef": "32"
+    },
+    {
+      "reference": "32.8",
+      "label": "THE ANNOUNCEMENT OF THE DUKE OF SHÂO §8",
+      "chapterRef": "32"
+    },
+    {
+      "reference": "32.9",
+      "label": "THE ANNOUNCEMENT OF THE DUKE OF SHÂO §9",
+      "chapterRef": "32"
+    },
+    {
+      "reference": "32.10",
+      "label": "THE ANNOUNCEMENT OF THE DUKE OF SHÂO §10",
+      "chapterRef": "32"
+    },
+    {
+      "reference": "32.11",
+      "label": "THE ANNOUNCEMENT OF THE DUKE OF SHÂO §11",
+      "chapterRef": "32"
+    },
+    {
+      "reference": "32.12",
+      "label": "THE ANNOUNCEMENT OF THE DUKE OF SHÂO §12",
+      "chapterRef": "32"
+    },
+    {
+      "reference": "32.13",
+      "label": "THE ANNOUNCEMENT OF THE DUKE OF SHÂO §13",
+      "chapterRef": "32"
+    },
+    {
+      "reference": "32.14",
+      "label": "THE ANNOUNCEMENT OF THE DUKE OF SHÂO §14",
+      "chapterRef": "32"
+    },
+    {
+      "reference": "32.15",
+      "label": "THE ANNOUNCEMENT OF THE DUKE OF SHÂO §15",
+      "chapterRef": "32"
+    },
+    {
+      "reference": "32.16",
+      "label": "THE ANNOUNCEMENT OF THE DUKE OF SHÂO §16",
+      "chapterRef": "32"
+    },
+    {
+      "reference": "32.17",
+      "label": "THE ANNOUNCEMENT OF THE DUKE OF SHÂO §17",
+      "chapterRef": "32"
+    },
+    {
+      "reference": "32.18",
+      "label": "THE ANNOUNCEMENT OF THE DUKE OF SHÂO §18",
+      "chapterRef": "32"
+    },
+    {
+      "reference": "32.19",
+      "label": "THE ANNOUNCEMENT OF THE DUKE OF SHÂO §19",
+      "chapterRef": "32"
+    },
+    {
+      "reference": "32.20",
+      "label": "THE ANNOUNCEMENT OF THE DUKE OF SHÂO §20",
+      "chapterRef": "32"
+    },
+    {
+      "reference": "32.21",
+      "label": "THE ANNOUNCEMENT OF THE DUKE OF SHÂO §21",
+      "chapterRef": "32"
+    },
+    {
+      "reference": "32.22",
+      "label": "THE ANNOUNCEMENT OF THE DUKE OF SHÂO §22",
+      "chapterRef": "32"
+    },
+    {
+      "reference": "32.23",
+      "label": "THE ANNOUNCEMENT OF THE DUKE OF SHÂO §23",
+      "chapterRef": "32"
+    },
+    {
+      "reference": "32.24",
+      "label": "THE ANNOUNCEMENT OF THE DUKE OF SHÂO §24",
+      "chapterRef": "32"
+    },
+    {
+      "reference": "32.25",
+      "label": "THE ANNOUNCEMENT OF THE DUKE OF SHÂO §25",
+      "chapterRef": "32"
+    },
+    {
+      "reference": "32.26",
+      "label": "THE ANNOUNCEMENT OF THE DUKE OF SHÂO §26",
+      "chapterRef": "32"
+    },
+    {
+      "reference": "32.27",
+      "label": "THE ANNOUNCEMENT OF THE DUKE OF SHÂO §27",
+      "chapterRef": "32"
+    },
+    {
+      "reference": "32.28",
+      "label": "THE ANNOUNCEMENT OF THE DUKE OF SHÂO §28",
+      "chapterRef": "32"
+    },
+    {
+      "reference": "32.29",
+      "label": "THE ANNOUNCEMENT OF THE DUKE OF SHÂO §29",
+      "chapterRef": "32"
+    },
+    {
+      "reference": "33.1",
+      "label": "THE ANNOUNCEMENT CONCERNING LO §1",
+      "chapterRef": "33"
+    },
+    {
+      "reference": "33.2",
+      "label": "THE ANNOUNCEMENT CONCERNING LO §2",
+      "chapterRef": "33"
+    },
+    {
+      "reference": "33.3",
+      "label": "THE ANNOUNCEMENT CONCERNING LO §3",
+      "chapterRef": "33"
+    },
+    {
+      "reference": "33.4",
+      "label": "THE ANNOUNCEMENT CONCERNING LO §4",
+      "chapterRef": "33"
+    },
+    {
+      "reference": "33.5",
+      "label": "THE ANNOUNCEMENT CONCERNING LO §5",
+      "chapterRef": "33"
+    },
+    {
+      "reference": "33.6",
+      "label": "THE ANNOUNCEMENT CONCERNING LO §6",
+      "chapterRef": "33"
+    },
+    {
+      "reference": "33.7",
+      "label": "THE ANNOUNCEMENT CONCERNING LO §7",
+      "chapterRef": "33"
+    },
+    {
+      "reference": "33.8",
+      "label": "THE ANNOUNCEMENT CONCERNING LO §8",
+      "chapterRef": "33"
+    },
+    {
+      "reference": "33.9",
+      "label": "THE ANNOUNCEMENT CONCERNING LO §9",
+      "chapterRef": "33"
+    },
+    {
+      "reference": "33.10",
+      "label": "THE ANNOUNCEMENT CONCERNING LO §10",
+      "chapterRef": "33"
+    },
+    {
+      "reference": "33.11",
+      "label": "THE ANNOUNCEMENT CONCERNING LO §11",
+      "chapterRef": "33"
+    },
+    {
+      "reference": "33.12",
+      "label": "THE ANNOUNCEMENT CONCERNING LO §12",
+      "chapterRef": "33"
+    },
+    {
+      "reference": "33.13",
+      "label": "THE ANNOUNCEMENT CONCERNING LO §13",
+      "chapterRef": "33"
+    },
+    {
+      "reference": "33.14",
+      "label": "THE ANNOUNCEMENT CONCERNING LO §14",
+      "chapterRef": "33"
+    },
+    {
+      "reference": "33.15",
+      "label": "THE ANNOUNCEMENT CONCERNING LO §15",
+      "chapterRef": "33"
+    },
+    {
+      "reference": "33.16",
+      "label": "THE ANNOUNCEMENT CONCERNING LO §16",
+      "chapterRef": "33"
+    },
+    {
+      "reference": "33.17",
+      "label": "THE ANNOUNCEMENT CONCERNING LO §17",
+      "chapterRef": "33"
+    },
+    {
+      "reference": "33.18",
+      "label": "THE ANNOUNCEMENT CONCERNING LO §18",
+      "chapterRef": "33"
+    },
+    {
+      "reference": "33.19",
+      "label": "THE ANNOUNCEMENT CONCERNING LO §19",
+      "chapterRef": "33"
+    },
+    {
+      "reference": "33.20",
+      "label": "THE ANNOUNCEMENT CONCERNING LO §20",
+      "chapterRef": "33"
+    },
+    {
+      "reference": "33.21",
+      "label": "THE ANNOUNCEMENT CONCERNING LO §21",
+      "chapterRef": "33"
+    },
+    {
+      "reference": "33.22",
+      "label": "THE ANNOUNCEMENT CONCERNING LO §22",
+      "chapterRef": "33"
+    },
+    {
+      "reference": "33.23",
+      "label": "THE ANNOUNCEMENT CONCERNING LO §23",
+      "chapterRef": "33"
+    },
+    {
+      "reference": "33.24",
+      "label": "THE ANNOUNCEMENT CONCERNING LO §24",
+      "chapterRef": "33"
+    },
+    {
+      "reference": "33.25",
+      "label": "THE ANNOUNCEMENT CONCERNING LO §25",
+      "chapterRef": "33"
+    },
+    {
+      "reference": "33.26",
+      "label": "THE ANNOUNCEMENT CONCERNING LO §26",
+      "chapterRef": "33"
+    },
+    {
+      "reference": "33.27",
+      "label": "THE ANNOUNCEMENT CONCERNING LO §27",
+      "chapterRef": "33"
+    },
+    {
+      "reference": "33.28",
+      "label": "THE ANNOUNCEMENT CONCERNING LO §28",
+      "chapterRef": "33"
+    },
+    {
+      "reference": "33.29",
+      "label": "THE ANNOUNCEMENT CONCERNING LO §29",
+      "chapterRef": "33"
+    },
+    {
+      "reference": "33.30",
+      "label": "THE ANNOUNCEMENT CONCERNING LO §30",
+      "chapterRef": "33"
+    },
+    {
+      "reference": "33.31",
+      "label": "THE ANNOUNCEMENT CONCERNING LO §31",
+      "chapterRef": "33"
+    },
+    {
+      "reference": "33.32",
+      "label": "THE ANNOUNCEMENT CONCERNING LO §32",
+      "chapterRef": "33"
+    },
+    {
+      "reference": "34.1",
+      "label": "BOOK XIV. THE NUMEROUS OFFICERS §1",
+      "chapterRef": "34"
+    },
+    {
+      "reference": "34.2",
+      "label": "BOOK XIV. THE NUMEROUS OFFICERS §2",
+      "chapterRef": "34"
+    },
+    {
+      "reference": "34.3",
+      "label": "BOOK XIV. THE NUMEROUS OFFICERS §3",
+      "chapterRef": "34"
+    },
+    {
+      "reference": "34.4",
+      "label": "BOOK XIV. THE NUMEROUS OFFICERS §4",
+      "chapterRef": "34"
+    },
+    {
+      "reference": "34.5",
+      "label": "BOOK XIV. THE NUMEROUS OFFICERS §5",
+      "chapterRef": "34"
+    },
+    {
+      "reference": "34.6",
+      "label": "BOOK XIV. THE NUMEROUS OFFICERS §6",
+      "chapterRef": "34"
+    },
+    {
+      "reference": "34.7",
+      "label": "BOOK XIV. THE NUMEROUS OFFICERS §7",
+      "chapterRef": "34"
+    },
+    {
+      "reference": "34.8",
+      "label": "BOOK XIV. THE NUMEROUS OFFICERS §8",
+      "chapterRef": "34"
+    },
+    {
+      "reference": "34.9",
+      "label": "BOOK XIV. THE NUMEROUS OFFICERS §9",
+      "chapterRef": "34"
+    },
+    {
+      "reference": "34.10",
+      "label": "BOOK XIV. THE NUMEROUS OFFICERS §10",
+      "chapterRef": "34"
+    },
+    {
+      "reference": "34.11",
+      "label": "BOOK XIV. THE NUMEROUS OFFICERS §11",
+      "chapterRef": "34"
+    },
+    {
+      "reference": "34.12",
+      "label": "BOOK XIV. THE NUMEROUS OFFICERS §12",
+      "chapterRef": "34"
+    },
+    {
+      "reference": "34.13",
+      "label": "BOOK XIV. THE NUMEROUS OFFICERS §13",
+      "chapterRef": "34"
+    },
+    {
+      "reference": "34.14",
+      "label": "BOOK XIV. THE NUMEROUS OFFICERS §14",
+      "chapterRef": "34"
+    },
+    {
+      "reference": "34.15",
+      "label": "BOOK XIV. THE NUMEROUS OFFICERS §15",
+      "chapterRef": "34"
+    },
+    {
+      "reference": "34.16",
+      "label": "BOOK XIV. THE NUMEROUS OFFICERS §16",
+      "chapterRef": "34"
+    },
+    {
+      "reference": "34.17",
+      "label": "BOOK XIV. THE NUMEROUS OFFICERS §17",
+      "chapterRef": "34"
+    },
+    {
+      "reference": "34.18",
+      "label": "BOOK XIV. THE NUMEROUS OFFICERS §18",
+      "chapterRef": "34"
+    },
+    {
+      "reference": "34.19",
+      "label": "BOOK XIV. THE NUMEROUS OFFICERS §19",
+      "chapterRef": "34"
+    },
+    {
+      "reference": "34.20",
+      "label": "BOOK XIV. THE NUMEROUS OFFICERS §20",
+      "chapterRef": "34"
+    },
+    {
+      "reference": "34.21",
+      "label": "BOOK XIV. THE NUMEROUS OFFICERS §21",
+      "chapterRef": "34"
+    },
+    {
+      "reference": "35.1",
+      "label": "BOOK XV. AGAINST LUXURIOUS EASE §1",
+      "chapterRef": "35"
+    },
+    {
+      "reference": "35.2",
+      "label": "BOOK XV. AGAINST LUXURIOUS EASE §2",
+      "chapterRef": "35"
+    },
+    {
+      "reference": "35.3",
+      "label": "BOOK XV. AGAINST LUXURIOUS EASE §3",
+      "chapterRef": "35"
+    },
+    {
+      "reference": "35.4",
+      "label": "BOOK XV. AGAINST LUXURIOUS EASE §4",
+      "chapterRef": "35"
+    },
+    {
+      "reference": "35.5",
+      "label": "BOOK XV. AGAINST LUXURIOUS EASE §5",
+      "chapterRef": "35"
+    },
+    {
+      "reference": "35.6",
+      "label": "BOOK XV. AGAINST LUXURIOUS EASE §6",
+      "chapterRef": "35"
+    },
+    {
+      "reference": "35.7",
+      "label": "BOOK XV. AGAINST LUXURIOUS EASE §7",
+      "chapterRef": "35"
+    },
+    {
+      "reference": "35.8",
+      "label": "BOOK XV. AGAINST LUXURIOUS EASE §8",
+      "chapterRef": "35"
+    },
+    {
+      "reference": "35.9",
+      "label": "BOOK XV. AGAINST LUXURIOUS EASE §9",
+      "chapterRef": "35"
+    },
+    {
+      "reference": "35.10",
+      "label": "BOOK XV. AGAINST LUXURIOUS EASE §10",
+      "chapterRef": "35"
+    },
+    {
+      "reference": "35.11",
+      "label": "BOOK XV. AGAINST LUXURIOUS EASE §11",
+      "chapterRef": "35"
+    },
+    {
+      "reference": "35.12",
+      "label": "BOOK XV. AGAINST LUXURIOUS EASE §12",
+      "chapterRef": "35"
+    },
+    {
+      "reference": "35.13",
+      "label": "BOOK XV. AGAINST LUXURIOUS EASE §13",
+      "chapterRef": "35"
+    },
+    {
+      "reference": "35.14",
+      "label": "BOOK XV. AGAINST LUXURIOUS EASE §14",
+      "chapterRef": "35"
+    },
+    {
+      "reference": "35.15",
+      "label": "BOOK XV. AGAINST LUXURIOUS EASE §15",
+      "chapterRef": "35"
+    },
+    {
+      "reference": "35.16",
+      "label": "BOOK XV. AGAINST LUXURIOUS EASE §16",
+      "chapterRef": "35"
+    },
+    {
+      "reference": "35.17",
+      "label": "BOOK XV. AGAINST LUXURIOUS EASE §17",
+      "chapterRef": "35"
+    },
+    {
+      "reference": "35.18",
+      "label": "BOOK XV. AGAINST LUXURIOUS EASE §18",
+      "chapterRef": "35"
+    },
+    {
+      "reference": "35.19",
+      "label": "BOOK XV. AGAINST LUXURIOUS EASE §19",
+      "chapterRef": "35"
+    },
+    {
+      "reference": "36.1",
+      "label": "BOOK XVI. THE PRINCE SHIH §1",
+      "chapterRef": "36"
+    },
+    {
+      "reference": "36.2",
+      "label": "BOOK XVI. THE PRINCE SHIH §2",
+      "chapterRef": "36"
+    },
+    {
+      "reference": "36.3",
+      "label": "BOOK XVI. THE PRINCE SHIH §3",
+      "chapterRef": "36"
+    },
+    {
+      "reference": "36.4",
+      "label": "BOOK XVI. THE PRINCE SHIH §4",
+      "chapterRef": "36"
+    },
+    {
+      "reference": "36.5",
+      "label": "BOOK XVI. THE PRINCE SHIH §5",
+      "chapterRef": "36"
+    },
+    {
+      "reference": "36.6",
+      "label": "BOOK XVI. THE PRINCE SHIH §6",
+      "chapterRef": "36"
+    },
+    {
+      "reference": "36.7",
+      "label": "BOOK XVI. THE PRINCE SHIH §7",
+      "chapterRef": "36"
+    },
+    {
+      "reference": "36.8",
+      "label": "BOOK XVI. THE PRINCE SHIH §8",
+      "chapterRef": "36"
+    },
+    {
+      "reference": "36.9",
+      "label": "BOOK XVI. THE PRINCE SHIH §9",
+      "chapterRef": "36"
+    },
+    {
+      "reference": "36.10",
+      "label": "BOOK XVI. THE PRINCE SHIH §10",
+      "chapterRef": "36"
+    },
+    {
+      "reference": "36.11",
+      "label": "BOOK XVI. THE PRINCE SHIH §11",
+      "chapterRef": "36"
+    },
+    {
+      "reference": "36.12",
+      "label": "BOOK XVI. THE PRINCE SHIH §12",
+      "chapterRef": "36"
+    },
+    {
+      "reference": "36.13",
+      "label": "BOOK XVI. THE PRINCE SHIH §13",
+      "chapterRef": "36"
+    },
+    {
+      "reference": "36.14",
+      "label": "BOOK XVI. THE PRINCE SHIH §14",
+      "chapterRef": "36"
+    },
+    {
+      "reference": "36.15",
+      "label": "BOOK XVI. THE PRINCE SHIH §15",
+      "chapterRef": "36"
+    },
+    {
+      "reference": "36.16",
+      "label": "BOOK XVI. THE PRINCE SHIH §16",
+      "chapterRef": "36"
+    },
+    {
+      "reference": "36.17",
+      "label": "BOOK XVI. THE PRINCE SHIH §17",
+      "chapterRef": "36"
+    },
+    {
+      "reference": "36.18",
+      "label": "BOOK XVI. THE PRINCE SHIH §18",
+      "chapterRef": "36"
+    },
+    {
+      "reference": "36.19",
+      "label": "BOOK XVI. THE PRINCE SHIH §19",
+      "chapterRef": "36"
+    },
+    {
+      "reference": "36.20",
+      "label": "BOOK XVI. THE PRINCE SHIH §20",
+      "chapterRef": "36"
+    },
+    {
+      "reference": "36.21",
+      "label": "BOOK XVI. THE PRINCE SHIH §21",
+      "chapterRef": "36"
+    },
+    {
+      "reference": "36.22",
+      "label": "BOOK XVI. THE PRINCE SHIH §22",
+      "chapterRef": "36"
+    },
+    {
+      "reference": "36.23",
+      "label": "BOOK XVI. THE PRINCE SHIH §23",
+      "chapterRef": "36"
+    },
+    {
+      "reference": "36.24",
+      "label": "BOOK XVI. THE PRINCE SHIH §24",
+      "chapterRef": "36"
+    },
+    {
+      "reference": "36.25",
+      "label": "BOOK XVI. THE PRINCE SHIH §25",
+      "chapterRef": "36"
+    },
+    {
+      "reference": "36.26",
+      "label": "BOOK XVI. THE PRINCE SHIH §26",
+      "chapterRef": "36"
+    },
+    {
+      "reference": "37.1",
+      "label": "BOOK XVII. THE CHARGE TO KUNG OF ȜHÂI §1",
+      "chapterRef": "37"
+    },
+    {
+      "reference": "37.2",
+      "label": "BOOK XVII. THE CHARGE TO KUNG OF ȜHÂI §2",
+      "chapterRef": "37"
+    },
+    {
+      "reference": "37.3",
+      "label": "BOOK XVII. THE CHARGE TO KUNG OF ȜHÂI §3",
+      "chapterRef": "37"
+    },
+    {
+      "reference": "37.4",
+      "label": "BOOK XVII. THE CHARGE TO KUNG OF ȜHÂI §4",
+      "chapterRef": "37"
+    },
+    {
+      "reference": "37.5",
+      "label": "BOOK XVII. THE CHARGE TO KUNG OF ȜHÂI §5",
+      "chapterRef": "37"
+    },
+    {
+      "reference": "37.6",
+      "label": "BOOK XVII. THE CHARGE TO KUNG OF ȜHÂI §6",
+      "chapterRef": "37"
+    },
+    {
+      "reference": "37.7",
+      "label": "BOOK XVII. THE CHARGE TO KUNG OF ȜHÂI §7",
+      "chapterRef": "37"
+    },
+    {
+      "reference": "37.8",
+      "label": "BOOK XVII. THE CHARGE TO KUNG OF ȜHÂI §8",
+      "chapterRef": "37"
+    },
+    {
+      "reference": "37.9",
+      "label": "BOOK XVII. THE CHARGE TO KUNG OF ȜHÂI §9",
+      "chapterRef": "37"
+    },
+    {
+      "reference": "37.10",
+      "label": "BOOK XVII. THE CHARGE TO KUNG OF ȜHÂI §10",
+      "chapterRef": "37"
+    },
+    {
+      "reference": "37.11",
+      "label": "BOOK XVII. THE CHARGE TO KUNG OF ȜHÂI §11",
+      "chapterRef": "37"
+    },
+    {
+      "reference": "37.12",
+      "label": "BOOK XVII. THE CHARGE TO KUNG OF ȜHÂI §12",
+      "chapterRef": "37"
+    },
+    {
+      "reference": "37.13",
+      "label": "BOOK XVII. THE CHARGE TO KUNG OF ȜHÂI §13",
+      "chapterRef": "37"
+    },
+    {
+      "reference": "37.14",
+      "label": "BOOK XVII. THE CHARGE TO KUNG OF ȜHÂI §14",
+      "chapterRef": "37"
+    },
+    {
+      "reference": "37.15",
+      "label": "BOOK XVII. THE CHARGE TO KUNG OF ȜHÂI §15",
+      "chapterRef": "37"
+    },
+    {
+      "reference": "37.16",
+      "label": "BOOK XVII. THE CHARGE TO KUNG OF ȜHÂI §16",
+      "chapterRef": "37"
+    },
+    {
+      "reference": "38.1",
+      "label": "BOOK XVIII. THE NUMEROUS REGIONS §1",
+      "chapterRef": "38"
+    },
+    {
+      "reference": "38.2",
+      "label": "BOOK XVIII. THE NUMEROUS REGIONS §2",
+      "chapterRef": "38"
+    },
+    {
+      "reference": "38.3",
+      "label": "BOOK XVIII. THE NUMEROUS REGIONS §3",
+      "chapterRef": "38"
+    },
+    {
+      "reference": "38.4",
+      "label": "BOOK XVIII. THE NUMEROUS REGIONS §4",
+      "chapterRef": "38"
+    },
+    {
+      "reference": "38.5",
+      "label": "BOOK XVIII. THE NUMEROUS REGIONS §5",
+      "chapterRef": "38"
+    },
+    {
+      "reference": "38.6",
+      "label": "BOOK XVIII. THE NUMEROUS REGIONS §6",
+      "chapterRef": "38"
+    },
+    {
+      "reference": "38.7",
+      "label": "BOOK XVIII. THE NUMEROUS REGIONS §7",
+      "chapterRef": "38"
+    },
+    {
+      "reference": "38.8",
+      "label": "BOOK XVIII. THE NUMEROUS REGIONS §8",
+      "chapterRef": "38"
+    },
+    {
+      "reference": "38.9",
+      "label": "BOOK XVIII. THE NUMEROUS REGIONS §9",
+      "chapterRef": "38"
+    },
+    {
+      "reference": "38.10",
+      "label": "BOOK XVIII. THE NUMEROUS REGIONS §10",
+      "chapterRef": "38"
+    },
+    {
+      "reference": "38.11",
+      "label": "BOOK XVIII. THE NUMEROUS REGIONS §11",
+      "chapterRef": "38"
+    },
+    {
+      "reference": "38.12",
+      "label": "BOOK XVIII. THE NUMEROUS REGIONS §12",
+      "chapterRef": "38"
+    },
+    {
+      "reference": "38.13",
+      "label": "BOOK XVIII. THE NUMEROUS REGIONS §13",
+      "chapterRef": "38"
+    },
+    {
+      "reference": "38.14",
+      "label": "BOOK XVIII. THE NUMEROUS REGIONS §14",
+      "chapterRef": "38"
+    },
+    {
+      "reference": "38.15",
+      "label": "BOOK XVIII. THE NUMEROUS REGIONS §15",
+      "chapterRef": "38"
+    },
+    {
+      "reference": "38.16",
+      "label": "BOOK XVIII. THE NUMEROUS REGIONS §16",
+      "chapterRef": "38"
+    },
+    {
+      "reference": "38.17",
+      "label": "BOOK XVIII. THE NUMEROUS REGIONS §17",
+      "chapterRef": "38"
+    },
+    {
+      "reference": "38.18",
+      "label": "BOOK XVIII. THE NUMEROUS REGIONS §18",
+      "chapterRef": "38"
+    },
+    {
+      "reference": "38.19",
+      "label": "BOOK XVIII. THE NUMEROUS REGIONS §19",
+      "chapterRef": "38"
+    },
+    {
+      "reference": "38.20",
+      "label": "BOOK XVIII. THE NUMEROUS REGIONS §20",
+      "chapterRef": "38"
+    },
+    {
+      "reference": "38.21",
+      "label": "BOOK XVIII. THE NUMEROUS REGIONS §21",
+      "chapterRef": "38"
+    },
+    {
+      "reference": "38.22",
+      "label": "BOOK XVIII. THE NUMEROUS REGIONS §22",
+      "chapterRef": "38"
+    },
+    {
+      "reference": "38.23",
+      "label": "BOOK XVIII. THE NUMEROUS REGIONS §23",
+      "chapterRef": "38"
+    },
+    {
+      "reference": "39.1",
+      "label": "BOOK XIX. THE ESTABLISHMENT OF GOVERNMENT §1",
+      "chapterRef": "39"
+    },
+    {
+      "reference": "39.2",
+      "label": "BOOK XIX. THE ESTABLISHMENT OF GOVERNMENT §2",
+      "chapterRef": "39"
+    },
+    {
+      "reference": "39.3",
+      "label": "BOOK XIX. THE ESTABLISHMENT OF GOVERNMENT §3",
+      "chapterRef": "39"
+    },
+    {
+      "reference": "39.4",
+      "label": "BOOK XIX. THE ESTABLISHMENT OF GOVERNMENT §4",
+      "chapterRef": "39"
+    },
+    {
+      "reference": "39.5",
+      "label": "BOOK XIX. THE ESTABLISHMENT OF GOVERNMENT §5",
+      "chapterRef": "39"
+    },
+    {
+      "reference": "39.6",
+      "label": "BOOK XIX. THE ESTABLISHMENT OF GOVERNMENT §6",
+      "chapterRef": "39"
+    },
+    {
+      "reference": "39.7",
+      "label": "BOOK XIX. THE ESTABLISHMENT OF GOVERNMENT §7",
+      "chapterRef": "39"
+    },
+    {
+      "reference": "39.8",
+      "label": "BOOK XIX. THE ESTABLISHMENT OF GOVERNMENT §8",
+      "chapterRef": "39"
+    },
+    {
+      "reference": "39.9",
+      "label": "BOOK XIX. THE ESTABLISHMENT OF GOVERNMENT §9",
+      "chapterRef": "39"
+    },
+    {
+      "reference": "39.10",
+      "label": "BOOK XIX. THE ESTABLISHMENT OF GOVERNMENT §10",
+      "chapterRef": "39"
+    },
+    {
+      "reference": "39.11",
+      "label": "BOOK XIX. THE ESTABLISHMENT OF GOVERNMENT §11",
+      "chapterRef": "39"
+    },
+    {
+      "reference": "39.12",
+      "label": "BOOK XIX. THE ESTABLISHMENT OF GOVERNMENT §12",
+      "chapterRef": "39"
+    },
+    {
+      "reference": "39.13",
+      "label": "BOOK XIX. THE ESTABLISHMENT OF GOVERNMENT §13",
+      "chapterRef": "39"
+    },
+    {
+      "reference": "39.14",
+      "label": "BOOK XIX. THE ESTABLISHMENT OF GOVERNMENT §14",
+      "chapterRef": "39"
+    },
+    {
+      "reference": "39.15",
+      "label": "BOOK XIX. THE ESTABLISHMENT OF GOVERNMENT §15",
+      "chapterRef": "39"
+    },
+    {
+      "reference": "39.16",
+      "label": "BOOK XIX. THE ESTABLISHMENT OF GOVERNMENT §16",
+      "chapterRef": "39"
+    },
+    {
+      "reference": "39.17",
+      "label": "BOOK XIX. THE ESTABLISHMENT OF GOVERNMENT §17",
+      "chapterRef": "39"
+    },
+    {
+      "reference": "39.18",
+      "label": "BOOK XIX. THE ESTABLISHMENT OF GOVERNMENT §18",
+      "chapterRef": "39"
+    },
+    {
+      "reference": "39.19",
+      "label": "BOOK XIX. THE ESTABLISHMENT OF GOVERNMENT §19",
+      "chapterRef": "39"
+    },
+    {
+      "reference": "39.20",
+      "label": "BOOK XIX. THE ESTABLISHMENT OF GOVERNMENT §20",
+      "chapterRef": "39"
+    },
+    {
+      "reference": "39.21",
+      "label": "BOOK XIX. THE ESTABLISHMENT OF GOVERNMENT §21",
+      "chapterRef": "39"
+    },
+    {
+      "reference": "39.22",
+      "label": "BOOK XIX. THE ESTABLISHMENT OF GOVERNMENT §22",
+      "chapterRef": "39"
+    },
+    {
+      "reference": "39.23",
+      "label": "BOOK XIX. THE ESTABLISHMENT OF GOVERNMENT §23",
+      "chapterRef": "39"
+    },
+    {
+      "reference": "39.24",
+      "label": "BOOK XIX. THE ESTABLISHMENT OF GOVERNMENT §24",
+      "chapterRef": "39"
+    },
+    {
+      "reference": "39.25",
+      "label": "BOOK XIX. THE ESTABLISHMENT OF GOVERNMENT §25",
+      "chapterRef": "39"
+    },
+    {
+      "reference": "39.26",
+      "label": "BOOK XIX. THE ESTABLISHMENT OF GOVERNMENT §26",
+      "chapterRef": "39"
+    },
+    {
+      "reference": "39.27",
+      "label": "BOOK XIX. THE ESTABLISHMENT OF GOVERNMENT §27",
+      "chapterRef": "39"
+    },
+    {
+      "reference": "39.28",
+      "label": "BOOK XIX. THE ESTABLISHMENT OF GOVERNMENT §28",
+      "chapterRef": "39"
+    },
+    {
+      "reference": "40.1",
+      "label": "BOOK XX. THE OFFICERS OF KÂU §1",
+      "chapterRef": "40"
+    },
+    {
+      "reference": "40.2",
+      "label": "BOOK XX. THE OFFICERS OF KÂU §2",
+      "chapterRef": "40"
+    },
+    {
+      "reference": "40.3",
+      "label": "BOOK XX. THE OFFICERS OF KÂU §3",
+      "chapterRef": "40"
+    },
+    {
+      "reference": "40.4",
+      "label": "BOOK XX. THE OFFICERS OF KÂU §4",
+      "chapterRef": "40"
+    },
+    {
+      "reference": "40.5",
+      "label": "BOOK XX. THE OFFICERS OF KÂU §5",
+      "chapterRef": "40"
+    },
+    {
+      "reference": "40.6",
+      "label": "BOOK XX. THE OFFICERS OF KÂU §6",
+      "chapterRef": "40"
+    },
+    {
+      "reference": "40.7",
+      "label": "BOOK XX. THE OFFICERS OF KÂU §7",
+      "chapterRef": "40"
+    },
+    {
+      "reference": "40.8",
+      "label": "BOOK XX. THE OFFICERS OF KÂU §8",
+      "chapterRef": "40"
+    },
+    {
+      "reference": "40.9",
+      "label": "BOOK XX. THE OFFICERS OF KÂU §9",
+      "chapterRef": "40"
+    },
+    {
+      "reference": "40.10",
+      "label": "BOOK XX. THE OFFICERS OF KÂU §10",
+      "chapterRef": "40"
+    },
+    {
+      "reference": "40.11",
+      "label": "BOOK XX. THE OFFICERS OF KÂU §11",
+      "chapterRef": "40"
+    },
+    {
+      "reference": "40.12",
+      "label": "BOOK XX. THE OFFICERS OF KÂU §12",
+      "chapterRef": "40"
+    },
+    {
+      "reference": "40.13",
+      "label": "BOOK XX. THE OFFICERS OF KÂU §13",
+      "chapterRef": "40"
+    },
+    {
+      "reference": "40.14",
+      "label": "BOOK XX. THE OFFICERS OF KÂU §14",
+      "chapterRef": "40"
+    },
+    {
+      "reference": "40.15",
+      "label": "BOOK XX. THE OFFICERS OF KÂU §15",
+      "chapterRef": "40"
+    },
+    {
+      "reference": "40.16",
+      "label": "BOOK XX. THE OFFICERS OF KÂU §16",
+      "chapterRef": "40"
+    },
+    {
+      "reference": "40.17",
+      "label": "BOOK XX. THE OFFICERS OF KÂU §17",
+      "chapterRef": "40"
+    },
+    {
+      "reference": "40.18",
+      "label": "BOOK XX. THE OFFICERS OF KÂU §18",
+      "chapterRef": "40"
+    },
+    {
+      "reference": "40.19",
+      "label": "BOOK XX. THE OFFICERS OF KÂU §19",
+      "chapterRef": "40"
+    },
+    {
+      "reference": "40.20",
+      "label": "BOOK XX. THE OFFICERS OF KÂU §20",
+      "chapterRef": "40"
+    },
+    {
+      "reference": "40.21",
+      "label": "BOOK XX. THE OFFICERS OF KÂU §21",
+      "chapterRef": "40"
+    },
+    {
+      "reference": "40.22",
+      "label": "BOOK XX. THE OFFICERS OF KÂU §22",
+      "chapterRef": "40"
+    },
+    {
+      "reference": "40.23",
+      "label": "BOOK XX. THE OFFICERS OF KÂU §23",
+      "chapterRef": "40"
+    },
+    {
+      "reference": "40.24",
+      "label": "BOOK XX. THE OFFICERS OF KÂU §24",
+      "chapterRef": "40"
+    },
+    {
+      "reference": "40.25",
+      "label": "BOOK XX. THE OFFICERS OF KÂU §25",
+      "chapterRef": "40"
+    },
+    {
+      "reference": "41.1",
+      "label": "BOOK XXI. THE KÜN-KHĂN §1",
+      "chapterRef": "41"
+    },
+    {
+      "reference": "41.2",
+      "label": "BOOK XXI. THE KÜN-KHĂN §2",
+      "chapterRef": "41"
+    },
+    {
+      "reference": "41.3",
+      "label": "BOOK XXI. THE KÜN-KHĂN §3",
+      "chapterRef": "41"
+    },
+    {
+      "reference": "41.4",
+      "label": "BOOK XXI. THE KÜN-KHĂN §4",
+      "chapterRef": "41"
+    },
+    {
+      "reference": "41.5",
+      "label": "BOOK XXI. THE KÜN-KHĂN §5",
+      "chapterRef": "41"
+    },
+    {
+      "reference": "41.6",
+      "label": "BOOK XXI. THE KÜN-KHĂN §6",
+      "chapterRef": "41"
+    },
+    {
+      "reference": "41.7",
+      "label": "BOOK XXI. THE KÜN-KHĂN §7",
+      "chapterRef": "41"
+    },
+    {
+      "reference": "41.8",
+      "label": "BOOK XXI. THE KÜN-KHĂN §8",
+      "chapterRef": "41"
+    },
+    {
+      "reference": "41.9",
+      "label": "BOOK XXI. THE KÜN-KHĂN §9",
+      "chapterRef": "41"
+    },
+    {
+      "reference": "41.10",
+      "label": "BOOK XXI. THE KÜN-KHĂN §10",
+      "chapterRef": "41"
+    },
+    {
+      "reference": "41.11",
+      "label": "BOOK XXI. THE KÜN-KHĂN §11",
+      "chapterRef": "41"
+    },
+    {
+      "reference": "41.12",
+      "label": "BOOK XXI. THE KÜN-KHĂN §12",
+      "chapterRef": "41"
+    },
+    {
+      "reference": "42.1",
+      "label": "BOOK XXII. THE TESTAMENTARY CHARGE §1",
+      "chapterRef": "42"
+    },
+    {
+      "reference": "42.2",
+      "label": "BOOK XXII. THE TESTAMENTARY CHARGE §2",
+      "chapterRef": "42"
+    },
+    {
+      "reference": "42.3",
+      "label": "BOOK XXII. THE TESTAMENTARY CHARGE §3",
+      "chapterRef": "42"
+    },
+    {
+      "reference": "42.4",
+      "label": "BOOK XXII. THE TESTAMENTARY CHARGE §4",
+      "chapterRef": "42"
+    },
+    {
+      "reference": "42.5",
+      "label": "BOOK XXII. THE TESTAMENTARY CHARGE §5",
+      "chapterRef": "42"
+    },
+    {
+      "reference": "42.6",
+      "label": "BOOK XXII. THE TESTAMENTARY CHARGE §6",
+      "chapterRef": "42"
+    },
+    {
+      "reference": "42.7",
+      "label": "BOOK XXII. THE TESTAMENTARY CHARGE §7",
+      "chapterRef": "42"
+    },
+    {
+      "reference": "42.8",
+      "label": "BOOK XXII. THE TESTAMENTARY CHARGE §8",
+      "chapterRef": "42"
+    },
+    {
+      "reference": "42.9",
+      "label": "BOOK XXII. THE TESTAMENTARY CHARGE §9",
+      "chapterRef": "42"
+    },
+    {
+      "reference": "42.10",
+      "label": "BOOK XXII. THE TESTAMENTARY CHARGE §10",
+      "chapterRef": "42"
+    },
+    {
+      "reference": "42.11",
+      "label": "BOOK XXII. THE TESTAMENTARY CHARGE §11",
+      "chapterRef": "42"
+    },
+    {
+      "reference": "42.12",
+      "label": "BOOK XXII. THE TESTAMENTARY CHARGE §12",
+      "chapterRef": "42"
+    },
+    {
+      "reference": "42.13",
+      "label": "BOOK XXII. THE TESTAMENTARY CHARGE §13",
+      "chapterRef": "42"
+    },
+    {
+      "reference": "42.14",
+      "label": "BOOK XXII. THE TESTAMENTARY CHARGE §14",
+      "chapterRef": "42"
+    },
+    {
+      "reference": "42.15",
+      "label": "BOOK XXII. THE TESTAMENTARY CHARGE §15",
+      "chapterRef": "42"
+    },
+    {
+      "reference": "42.16",
+      "label": "BOOK XXII. THE TESTAMENTARY CHARGE §16",
+      "chapterRef": "42"
+    },
+    {
+      "reference": "42.17",
+      "label": "BOOK XXII. THE TESTAMENTARY CHARGE §17",
+      "chapterRef": "42"
+    },
+    {
+      "reference": "42.18",
+      "label": "BOOK XXII. THE TESTAMENTARY CHARGE §18",
+      "chapterRef": "42"
+    },
+    {
+      "reference": "42.19",
+      "label": "BOOK XXII. THE TESTAMENTARY CHARGE §19",
+      "chapterRef": "42"
+    },
+    {
+      "reference": "42.20",
+      "label": "BOOK XXII. THE TESTAMENTARY CHARGE §20",
+      "chapterRef": "42"
+    },
+    {
+      "reference": "42.21",
+      "label": "BOOK XXII. THE TESTAMENTARY CHARGE §21",
+      "chapterRef": "42"
+    },
+    {
+      "reference": "42.22",
+      "label": "BOOK XXII. THE TESTAMENTARY CHARGE §22",
+      "chapterRef": "42"
+    },
+    {
+      "reference": "42.23",
+      "label": "BOOK XXII. THE TESTAMENTARY CHARGE §23",
+      "chapterRef": "42"
+    },
+    {
+      "reference": "42.24",
+      "label": "BOOK XXII. THE TESTAMENTARY CHARGE §24",
+      "chapterRef": "42"
+    },
+    {
+      "reference": "42.25",
+      "label": "BOOK XXII. THE TESTAMENTARY CHARGE §25",
+      "chapterRef": "42"
+    },
+    {
+      "reference": "42.26",
+      "label": "BOOK XXII. THE TESTAMENTARY CHARGE §26",
+      "chapterRef": "42"
+    },
+    {
+      "reference": "42.27",
+      "label": "BOOK XXII. THE TESTAMENTARY CHARGE §27",
+      "chapterRef": "42"
+    },
+    {
+      "reference": "42.28",
+      "label": "BOOK XXII. THE TESTAMENTARY CHARGE §28",
+      "chapterRef": "42"
+    },
+    {
+      "reference": "42.29",
+      "label": "BOOK XXII. THE TESTAMENTARY CHARGE §29",
+      "chapterRef": "42"
+    },
+    {
+      "reference": "42.30",
+      "label": "BOOK XXII. THE TESTAMENTARY CHARGE §30",
+      "chapterRef": "42"
+    },
+    {
+      "reference": "42.31",
+      "label": "BOOK XXII. THE TESTAMENTARY CHARGE §31",
+      "chapterRef": "42"
+    },
+    {
+      "reference": "42.32",
+      "label": "BOOK XXII. THE TESTAMENTARY CHARGE §32",
+      "chapterRef": "42"
+    },
+    {
+      "reference": "42.33",
+      "label": "BOOK XXII. THE TESTAMENTARY CHARGE §33",
+      "chapterRef": "42"
+    },
+    {
+      "reference": "42.34",
+      "label": "BOOK XXII. THE TESTAMENTARY CHARGE §34",
+      "chapterRef": "42"
+    },
+    {
+      "reference": "42.35",
+      "label": "BOOK XXII. THE TESTAMENTARY CHARGE §35",
+      "chapterRef": "42"
+    },
+    {
+      "reference": "42.36",
+      "label": "BOOK XXII. THE TESTAMENTARY CHARGE §36",
+      "chapterRef": "42"
+    },
+    {
+      "reference": "42.37",
+      "label": "BOOK XXII. THE TESTAMENTARY CHARGE §37",
+      "chapterRef": "42"
+    },
+    {
+      "reference": "42.38",
+      "label": "BOOK XXII. THE TESTAMENTARY CHARGE §38",
+      "chapterRef": "42"
+    },
+    {
+      "reference": "42.39",
+      "label": "BOOK XXII. THE TESTAMENTARY CHARGE §39",
+      "chapterRef": "42"
+    },
+    {
+      "reference": "42.40",
+      "label": "BOOK XXII. THE TESTAMENTARY CHARGE §40",
+      "chapterRef": "42"
+    },
+    {
+      "reference": "43.1",
+      "label": "THE ANNOUNCEMENT OF KING KHANG §1",
+      "chapterRef": "43"
+    },
+    {
+      "reference": "43.2",
+      "label": "THE ANNOUNCEMENT OF KING KHANG §2",
+      "chapterRef": "43"
+    },
+    {
+      "reference": "43.3",
+      "label": "THE ANNOUNCEMENT OF KING KHANG §3",
+      "chapterRef": "43"
+    },
+    {
+      "reference": "43.4",
+      "label": "THE ANNOUNCEMENT OF KING KHANG §4",
+      "chapterRef": "43"
+    },
+    {
+      "reference": "43.5",
+      "label": "THE ANNOUNCEMENT OF KING KHANG §5",
+      "chapterRef": "43"
+    },
+    {
+      "reference": "43.6",
+      "label": "THE ANNOUNCEMENT OF KING KHANG §6",
+      "chapterRef": "43"
+    },
+    {
+      "reference": "43.7",
+      "label": "THE ANNOUNCEMENT OF KING KHANG §7",
+      "chapterRef": "43"
+    },
+    {
+      "reference": "43.8",
+      "label": "THE ANNOUNCEMENT OF KING KHANG §8",
+      "chapterRef": "43"
+    },
+    {
+      "reference": "43.9",
+      "label": "THE ANNOUNCEMENT OF KING KHANG §9",
+      "chapterRef": "43"
+    },
+    {
+      "reference": "43.10",
+      "label": "THE ANNOUNCEMENT OF KING KHANG §10",
+      "chapterRef": "43"
+    },
+    {
+      "reference": "43.11",
+      "label": "THE ANNOUNCEMENT OF KING KHANG §11",
+      "chapterRef": "43"
+    },
+    {
+      "reference": "43.12",
+      "label": "THE ANNOUNCEMENT OF KING KHANG §12",
+      "chapterRef": "43"
+    },
+    {
+      "reference": "44.1",
+      "label": "BOOK XXIV. THE CHARGE TO THE DUKE OF PÎ §1",
+      "chapterRef": "44"
+    },
+    {
+      "reference": "44.2",
+      "label": "BOOK XXIV. THE CHARGE TO THE DUKE OF PÎ §2",
+      "chapterRef": "44"
+    },
+    {
+      "reference": "44.3",
+      "label": "BOOK XXIV. THE CHARGE TO THE DUKE OF PÎ §3",
+      "chapterRef": "44"
+    },
+    {
+      "reference": "44.4",
+      "label": "BOOK XXIV. THE CHARGE TO THE DUKE OF PÎ §4",
+      "chapterRef": "44"
+    },
+    {
+      "reference": "44.5",
+      "label": "BOOK XXIV. THE CHARGE TO THE DUKE OF PÎ §5",
+      "chapterRef": "44"
+    },
+    {
+      "reference": "44.6",
+      "label": "BOOK XXIV. THE CHARGE TO THE DUKE OF PÎ §6",
+      "chapterRef": "44"
+    },
+    {
+      "reference": "44.7",
+      "label": "BOOK XXIV. THE CHARGE TO THE DUKE OF PÎ §7",
+      "chapterRef": "44"
+    },
+    {
+      "reference": "44.8",
+      "label": "BOOK XXIV. THE CHARGE TO THE DUKE OF PÎ §8",
+      "chapterRef": "44"
+    },
+    {
+      "reference": "44.9",
+      "label": "BOOK XXIV. THE CHARGE TO THE DUKE OF PÎ §9",
+      "chapterRef": "44"
+    },
+    {
+      "reference": "44.10",
+      "label": "BOOK XXIV. THE CHARGE TO THE DUKE OF PÎ §10",
+      "chapterRef": "44"
+    },
+    {
+      "reference": "44.11",
+      "label": "BOOK XXIV. THE CHARGE TO THE DUKE OF PÎ §11",
+      "chapterRef": "44"
+    },
+    {
+      "reference": "44.12",
+      "label": "BOOK XXIV. THE CHARGE TO THE DUKE OF PÎ §12",
+      "chapterRef": "44"
+    },
+    {
+      "reference": "44.13",
+      "label": "BOOK XXIV. THE CHARGE TO THE DUKE OF PÎ §13",
+      "chapterRef": "44"
+    },
+    {
+      "reference": "44.14",
+      "label": "BOOK XXIV. THE CHARGE TO THE DUKE OF PÎ §14",
+      "chapterRef": "44"
+    },
+    {
+      "reference": "44.15",
+      "label": "BOOK XXIV. THE CHARGE TO THE DUKE OF PÎ §15",
+      "chapterRef": "44"
+    },
+    {
+      "reference": "44.16",
+      "label": "BOOK XXIV. THE CHARGE TO THE DUKE OF PÎ §16",
+      "chapterRef": "44"
+    },
+    {
+      "reference": "44.17",
+      "label": "BOOK XXIV. THE CHARGE TO THE DUKE OF PÎ §17",
+      "chapterRef": "44"
+    },
+    {
+      "reference": "44.18",
+      "label": "BOOK XXIV. THE CHARGE TO THE DUKE OF PÎ §18",
+      "chapterRef": "44"
+    },
+    {
+      "reference": "44.19",
+      "label": "BOOK XXIV. THE CHARGE TO THE DUKE OF PÎ §19",
+      "chapterRef": "44"
+    },
+    {
+      "reference": "44.20",
+      "label": "BOOK XXIV. THE CHARGE TO THE DUKE OF PÎ §20",
+      "chapterRef": "44"
+    },
+    {
+      "reference": "45.1",
+      "label": "BOOK XXV. THE KÜN-YÂ §1",
+      "chapterRef": "45"
+    },
+    {
+      "reference": "45.2",
+      "label": "BOOK XXV. THE KÜN-YÂ §2",
+      "chapterRef": "45"
+    },
+    {
+      "reference": "45.3",
+      "label": "BOOK XXV. THE KÜN-YÂ §3",
+      "chapterRef": "45"
+    },
+    {
+      "reference": "45.4",
+      "label": "BOOK XXV. THE KÜN-YÂ §4",
+      "chapterRef": "45"
+    },
+    {
+      "reference": "45.5",
+      "label": "BOOK XXV. THE KÜN-YÂ §5",
+      "chapterRef": "45"
+    },
+    {
+      "reference": "45.6",
+      "label": "BOOK XXV. THE KÜN-YÂ §6",
+      "chapterRef": "45"
+    },
+    {
+      "reference": "45.7",
+      "label": "BOOK XXV. THE KÜN-YÂ §7",
+      "chapterRef": "45"
+    },
+    {
+      "reference": "45.8",
+      "label": "BOOK XXV. THE KÜN-YÂ §8",
+      "chapterRef": "45"
+    },
+    {
+      "reference": "46.1",
+      "label": "BOOK XXVI. THE CHARGE TO KHIUNG §1",
+      "chapterRef": "46"
+    },
+    {
+      "reference": "46.2",
+      "label": "BOOK XXVI. THE CHARGE TO KHIUNG §2",
+      "chapterRef": "46"
+    },
+    {
+      "reference": "46.3",
+      "label": "BOOK XXVI. THE CHARGE TO KHIUNG §3",
+      "chapterRef": "46"
+    },
+    {
+      "reference": "46.4",
+      "label": "BOOK XXVI. THE CHARGE TO KHIUNG §4",
+      "chapterRef": "46"
+    },
+    {
+      "reference": "46.5",
+      "label": "BOOK XXVI. THE CHARGE TO KHIUNG §5",
+      "chapterRef": "46"
+    },
+    {
+      "reference": "46.6",
+      "label": "BOOK XXVI. THE CHARGE TO KHIUNG §6",
+      "chapterRef": "46"
+    },
+    {
+      "reference": "46.7",
+      "label": "BOOK XXVI. THE CHARGE TO KHIUNG §7",
+      "chapterRef": "46"
+    },
+    {
+      "reference": "47.1",
+      "label": "THE MARQUIS OF LÜ ON PUNISHMENTS §1",
+      "chapterRef": "47"
+    },
+    {
+      "reference": "47.2",
+      "label": "THE MARQUIS OF LÜ ON PUNISHMENTS §2",
+      "chapterRef": "47"
+    },
+    {
+      "reference": "47.3",
+      "label": "THE MARQUIS OF LÜ ON PUNISHMENTS §3",
+      "chapterRef": "47"
+    },
+    {
+      "reference": "47.4",
+      "label": "THE MARQUIS OF LÜ ON PUNISHMENTS §4",
+      "chapterRef": "47"
+    },
+    {
+      "reference": "47.5",
+      "label": "THE MARQUIS OF LÜ ON PUNISHMENTS §5",
+      "chapterRef": "47"
+    },
+    {
+      "reference": "47.6",
+      "label": "THE MARQUIS OF LÜ ON PUNISHMENTS §6",
+      "chapterRef": "47"
+    },
+    {
+      "reference": "47.7",
+      "label": "THE MARQUIS OF LÜ ON PUNISHMENTS §7",
+      "chapterRef": "47"
+    },
+    {
+      "reference": "47.8",
+      "label": "THE MARQUIS OF LÜ ON PUNISHMENTS §8",
+      "chapterRef": "47"
+    },
+    {
+      "reference": "47.9",
+      "label": "THE MARQUIS OF LÜ ON PUNISHMENTS §9",
+      "chapterRef": "47"
+    },
+    {
+      "reference": "47.10",
+      "label": "THE MARQUIS OF LÜ ON PUNISHMENTS §10",
+      "chapterRef": "47"
+    },
+    {
+      "reference": "47.11",
+      "label": "THE MARQUIS OF LÜ ON PUNISHMENTS §11",
+      "chapterRef": "47"
+    },
+    {
+      "reference": "47.12",
+      "label": "THE MARQUIS OF LÜ ON PUNISHMENTS §12",
+      "chapterRef": "47"
+    },
+    {
+      "reference": "47.13",
+      "label": "THE MARQUIS OF LÜ ON PUNISHMENTS §13",
+      "chapterRef": "47"
+    },
+    {
+      "reference": "47.14",
+      "label": "THE MARQUIS OF LÜ ON PUNISHMENTS §14",
+      "chapterRef": "47"
+    },
+    {
+      "reference": "47.15",
+      "label": "THE MARQUIS OF LÜ ON PUNISHMENTS §15",
+      "chapterRef": "47"
+    },
+    {
+      "reference": "47.16",
+      "label": "THE MARQUIS OF LÜ ON PUNISHMENTS §16",
+      "chapterRef": "47"
+    },
+    {
+      "reference": "47.17",
+      "label": "THE MARQUIS OF LÜ ON PUNISHMENTS §17",
+      "chapterRef": "47"
+    },
+    {
+      "reference": "47.18",
+      "label": "THE MARQUIS OF LÜ ON PUNISHMENTS §18",
+      "chapterRef": "47"
+    },
+    {
+      "reference": "47.19",
+      "label": "THE MARQUIS OF LÜ ON PUNISHMENTS §19",
+      "chapterRef": "47"
+    },
+    {
+      "reference": "47.20",
+      "label": "THE MARQUIS OF LÜ ON PUNISHMENTS §20",
+      "chapterRef": "47"
+    },
+    {
+      "reference": "47.21",
+      "label": "THE MARQUIS OF LÜ ON PUNISHMENTS §21",
+      "chapterRef": "47"
+    },
+    {
+      "reference": "47.22",
+      "label": "THE MARQUIS OF LÜ ON PUNISHMENTS §22",
+      "chapterRef": "47"
+    },
+    {
+      "reference": "47.23",
+      "label": "THE MARQUIS OF LÜ ON PUNISHMENTS §23",
+      "chapterRef": "47"
+    },
+    {
+      "reference": "47.24",
+      "label": "THE MARQUIS OF LÜ ON PUNISHMENTS §24",
+      "chapterRef": "47"
+    },
+    {
+      "reference": "47.25",
+      "label": "THE MARQUIS OF LÜ ON PUNISHMENTS §25",
+      "chapterRef": "47"
+    },
+    {
+      "reference": "47.26",
+      "label": "THE MARQUIS OF LÜ ON PUNISHMENTS §26",
+      "chapterRef": "47"
+    },
+    {
+      "reference": "47.27",
+      "label": "THE MARQUIS OF LÜ ON PUNISHMENTS §27",
+      "chapterRef": "47"
+    },
+    {
+      "reference": "47.28",
+      "label": "THE MARQUIS OF LÜ ON PUNISHMENTS §28",
+      "chapterRef": "47"
+    },
+    {
+      "reference": "47.29",
+      "label": "THE MARQUIS OF LÜ ON PUNISHMENTS §29",
+      "chapterRef": "47"
+    },
+    {
+      "reference": "47.30",
+      "label": "THE MARQUIS OF LÜ ON PUNISHMENTS §30",
+      "chapterRef": "47"
+    },
+    {
+      "reference": "47.31",
+      "label": "THE MARQUIS OF LÜ ON PUNISHMENTS §31",
+      "chapterRef": "47"
+    },
+    {
+      "reference": "47.32",
+      "label": "THE MARQUIS OF LÜ ON PUNISHMENTS §32",
+      "chapterRef": "47"
+    },
+    {
+      "reference": "47.33",
+      "label": "THE MARQUIS OF LÜ ON PUNISHMENTS §33",
+      "chapterRef": "47"
+    },
+    {
+      "reference": "47.34",
+      "label": "THE MARQUIS OF LÜ ON PUNISHMENTS §34",
+      "chapterRef": "47"
+    },
+    {
+      "reference": "47.35",
+      "label": "THE MARQUIS OF LÜ ON PUNISHMENTS §35",
+      "chapterRef": "47"
+    },
+    {
+      "reference": "47.36",
+      "label": "THE MARQUIS OF LÜ ON PUNISHMENTS §36",
+      "chapterRef": "47"
+    },
+    {
+      "reference": "47.37",
+      "label": "THE MARQUIS OF LÜ ON PUNISHMENTS §37",
+      "chapterRef": "47"
+    },
+    {
+      "reference": "47.38",
+      "label": "THE MARQUIS OF LÜ ON PUNISHMENTS §38",
+      "chapterRef": "47"
+    },
+    {
+      "reference": "47.39",
+      "label": "THE MARQUIS OF LÜ ON PUNISHMENTS §39",
+      "chapterRef": "47"
+    },
+    {
+      "reference": "47.40",
+      "label": "THE MARQUIS OF LÜ ON PUNISHMENTS §40",
+      "chapterRef": "47"
+    },
+    {
+      "reference": "47.41",
+      "label": "THE MARQUIS OF LÜ ON PUNISHMENTS §41",
+      "chapterRef": "47"
+    },
+    {
+      "reference": "47.42",
+      "label": "THE MARQUIS OF LÜ ON PUNISHMENTS §42",
+      "chapterRef": "47"
+    },
+    {
+      "reference": "48.1",
+      "label": "THE CHARGE TO THE MARQUIS WĂN §1",
+      "chapterRef": "48"
+    },
+    {
+      "reference": "48.2",
+      "label": "THE CHARGE TO THE MARQUIS WĂN §2",
+      "chapterRef": "48"
+    },
+    {
+      "reference": "48.3",
+      "label": "THE CHARGE TO THE MARQUIS WĂN §3",
+      "chapterRef": "48"
+    },
+    {
+      "reference": "48.4",
+      "label": "THE CHARGE TO THE MARQUIS WĂN §4",
+      "chapterRef": "48"
+    },
+    {
+      "reference": "48.5",
+      "label": "THE CHARGE TO THE MARQUIS WĂN §5",
+      "chapterRef": "48"
+    },
+    {
+      "reference": "48.6",
+      "label": "THE CHARGE TO THE MARQUIS WĂN §6",
+      "chapterRef": "48"
+    },
+    {
+      "reference": "48.7",
+      "label": "THE CHARGE TO THE MARQUIS WĂN §7",
+      "chapterRef": "48"
+    },
+    {
+      "reference": "48.8",
+      "label": "THE CHARGE TO THE MARQUIS WĂN §8",
+      "chapterRef": "48"
+    },
+    {
+      "reference": "48.9",
+      "label": "THE CHARGE TO THE MARQUIS WĂN §9",
+      "chapterRef": "48"
+    },
+    {
+      "reference": "48.10",
+      "label": "THE CHARGE TO THE MARQUIS WĂN §10",
+      "chapterRef": "48"
+    },
+    {
+      "reference": "48.11",
+      "label": "THE CHARGE TO THE MARQUIS WĂN §11",
+      "chapterRef": "48"
+    },
+    {
+      "reference": "49.1",
+      "label": "BOOK XXIX. THE SPEECH AT PÎ §1",
+      "chapterRef": "49"
+    },
+    {
+      "reference": "49.2",
+      "label": "BOOK XXIX. THE SPEECH AT PÎ §2",
+      "chapterRef": "49"
+    },
+    {
+      "reference": "49.3",
+      "label": "BOOK XXIX. THE SPEECH AT PÎ §3",
+      "chapterRef": "49"
+    },
+    {
+      "reference": "49.4",
+      "label": "BOOK XXIX. THE SPEECH AT PÎ §4",
+      "chapterRef": "49"
+    },
+    {
+      "reference": "49.5",
+      "label": "BOOK XXIX. THE SPEECH AT PÎ §5",
+      "chapterRef": "49"
+    },
+    {
+      "reference": "49.6",
+      "label": "BOOK XXIX. THE SPEECH AT PÎ §6",
+      "chapterRef": "49"
+    },
+    {
+      "reference": "49.7",
+      "label": "BOOK XXIX. THE SPEECH AT PÎ §7",
+      "chapterRef": "49"
+    },
+    {
+      "reference": "49.8",
+      "label": "BOOK XXIX. THE SPEECH AT PÎ §8",
+      "chapterRef": "49"
+    },
+    {
+      "reference": "49.9",
+      "label": "BOOK XXIX. THE SPEECH AT PÎ §9",
+      "chapterRef": "49"
+    },
+    {
+      "reference": "49.10",
+      "label": "BOOK XXIX. THE SPEECH AT PÎ §10",
+      "chapterRef": "49"
+    },
+    {
+      "reference": "49.11",
+      "label": "BOOK XXIX. THE SPEECH AT PÎ §11",
+      "chapterRef": "49"
+    },
+    {
+      "reference": "49.12",
+      "label": "BOOK XXIX. THE SPEECH AT PÎ §12",
+      "chapterRef": "49"
+    },
+    {
+      "reference": "49.13",
+      "label": "BOOK XXIX. THE SPEECH AT PÎ §13",
+      "chapterRef": "49"
+    },
+    {
+      "reference": "49.14",
+      "label": "BOOK XXIX. THE SPEECH AT PÎ §14",
+      "chapterRef": "49"
+    },
+    {
+      "reference": "50.1",
+      "label": "THE SPEECH OF (THE MARQUIS OF) KHIN §1",
+      "chapterRef": "50"
+    },
+    {
+      "reference": "50.2",
+      "label": "THE SPEECH OF (THE MARQUIS OF) KHIN §2",
+      "chapterRef": "50"
+    },
+    {
+      "reference": "50.3",
+      "label": "THE SPEECH OF (THE MARQUIS OF) KHIN §3",
+      "chapterRef": "50"
+    },
+    {
+      "reference": "50.4",
+      "label": "THE SPEECH OF (THE MARQUIS OF) KHIN §4",
+      "chapterRef": "50"
+    },
+    {
+      "reference": "50.5",
+      "label": "THE SPEECH OF (THE MARQUIS OF) KHIN §5",
+      "chapterRef": "50"
+    },
+    {
+      "reference": "50.6",
+      "label": "THE SPEECH OF (THE MARQUIS OF) KHIN §6",
+      "chapterRef": "50"
+    },
+    {
+      "reference": "50.7",
+      "label": "THE SPEECH OF (THE MARQUIS OF) KHIN §7",
+      "chapterRef": "50"
+    },
+    {
+      "reference": "50.8",
+      "label": "THE SPEECH OF (THE MARQUIS OF) KHIN §8",
+      "chapterRef": "50"
+    },
+    {
+      "reference": "50.9",
+      "label": "THE SPEECH OF (THE MARQUIS OF) KHIN §9",
+      "chapterRef": "50"
+    },
+    {
+      "reference": "50.10",
+      "label": "THE SPEECH OF (THE MARQUIS OF) KHIN §10",
+      "chapterRef": "50"
+    },
+    {
+      "reference": "50.11",
+      "label": "THE SPEECH OF (THE MARQUIS OF) KHIN §11",
+      "chapterRef": "50"
+    },
+    {
+      "reference": "50.12",
+      "label": "THE SPEECH OF (THE MARQUIS OF) KHIN §12",
+      "chapterRef": "50"
+    },
+    {
+      "reference": "50.13",
+      "label": "THE SPEECH OF (THE MARQUIS OF) KHIN §13",
+      "chapterRef": "50"
+    }
+  ],
+  "editions": [
+    {
+      "slug": "shu-king-en",
+      "language": "en",
+      "editionType": "translation",
+      "title": "The Shû King, the Religious Portions of the Shih King, and the Hsiâo King",
+      "translator": "James Legge",
+      "publisher": "Internet Sacred Text Archive",
+      "publicationYear": 1879,
+      "source": "sacred-texts",
+      "license": "public-domain",
+      "rightsStatus": "Public domain in the United States",
+      "attributionText": "The Shû King, the Religious Portions of the Shih King, and the Hsiâo King, translated by James Legge (1879). Sacred Books of the East, vol. 3. Public domain in the United States. Digital text from the Internet Sacred Text Archive.",
+      "structureScheme": "book and paragraph index; each chapter is one printed book of the five parts",
+      "isSample": false,
+      "notes": "The import cache stores the exact segments that were validated. The reader re-fetches the chapter from the host and reports when the served count no longer matches the index."
+    }
+  ]
+}

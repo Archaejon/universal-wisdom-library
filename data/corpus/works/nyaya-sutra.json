@@ -1,0 +1,2754 @@
+{
+  "slug": "nyaya-sutra",
+  "title": "The Nyaya Sutras, with Vatsyayana's Bhashya",
+  "originalTitle": "न्यायसूत्र",
+  "transliteration": "Nyāyasūtra",
+  "altTitles": [
+    "Nyaya Sutra",
+    "Gautama's Nyaya Sutras"
+  ],
+  "tradition": "hinduism",
+  "school": "nyaya",
+  "genre": "Philosophy",
+  "textType": "Aphorisms with commentary",
+  "category": "Philosophy",
+  "subcategory": "Nyaya",
+  "originalLanguage": "sa",
+  "dateStart": -200,
+  "dateEnd": 200,
+  "dateDisplay": "c. 2nd century BCE – 2nd century CE",
+  "authorshipStatus": "traditional",
+  "author": "gautama",
+  "attributionNote": "The sutras are ascribed to Gautama, also called Akshapada, and were given their received form over several centuries. The Bhashya beside them is the work of Vatsyayana, also called Pakshilasvamin, and is the base text of the whole later Nyaya literature.",
+  "description": "The Nyaya Sutras set out the means by which anything is known at all — perception, inference, comparison and testimony — and then the objects to be known, the body, the senses, the self and its liberation. They define debate itself: what counts as a reason, where an argument goes wrong, how a question is answered, what makes a rejoinder a mere quibble. Vatsyayana's Bhashya works through each aphorism with examples drawn from daily life and from the schools he refutes.",
+  "historicalContext": "With the Vaisheshika school the Nyaya formed the analytical wing of Indian philosophy, and in the Navya-Nyaya of later Bengal its logic was carried further than any other Indian school. The Bhashya is the oldest commentary that survives and the standard of correctness for all that followed.",
+  "availabilityNote": "Complete: all five adhyayas with their ahnikas and 529 units of the GRETIL e-text, streamed at read time one ahnika at a time. The sutras and Vatsyayana's Bhashya are read from the same GRETIL file under their own reference markers and shown in separate panes; the file is a plain transcription and has not been proof-read by the inputter.",
+  "featured": false,
+  "featuredNote": "",
+  "refScheme": "adhyaya.ahnika.sutra",
+  "isSample": false,
+  "textStorage": "streamed",
+  "chapters": [
+    {
+      "ref": "1.1",
+      "label": "Adhyāya 1, Āhnika 1"
+    },
+    {
+      "ref": "1.2",
+      "label": "Adhyāya 1, Āhnika 2"
+    },
+    {
+      "ref": "2.1",
+      "label": "Adhyāya 2, Āhnika 1"
+    },
+    {
+      "ref": "2.2",
+      "label": "Adhyāya 2, Āhnika 2"
+    },
+    {
+      "ref": "3.1",
+      "label": "Adhyāya 3, Āhnika 1"
+    },
+    {
+      "ref": "3.2",
+      "label": "Adhyāya 3, Āhnika 2"
+    },
+    {
+      "ref": "4.1",
+      "label": "Adhyāya 4, Āhnika 1"
+    },
+    {
+      "ref": "4.2",
+      "label": "Adhyāya 4, Āhnika 2"
+    },
+    {
+      "ref": "5.1",
+      "label": "Adhyāya 5, Āhnika 1"
+    },
+    {
+      "ref": "5.2",
+      "label": "Adhyāya 5, Āhnika 2"
+    }
+  ],
+  "passages": [
+    {
+      "reference": "1.1.1",
+      "label": "Adhyāya 1, Āhnika 1 §1",
+      "chapterRef": "1.1"
+    },
+    {
+      "reference": "1.1.2",
+      "label": "Adhyāya 1, Āhnika 1 §2",
+      "chapterRef": "1.1"
+    },
+    {
+      "reference": "1.1.3",
+      "label": "Adhyāya 1, Āhnika 1 §3",
+      "chapterRef": "1.1"
+    },
+    {
+      "reference": "1.1.4",
+      "label": "Adhyāya 1, Āhnika 1 §4",
+      "chapterRef": "1.1"
+    },
+    {
+      "reference": "1.1.5",
+      "label": "Adhyāya 1, Āhnika 1 §5",
+      "chapterRef": "1.1"
+    },
+    {
+      "reference": "1.1.6",
+      "label": "Adhyāya 1, Āhnika 1 §6",
+      "chapterRef": "1.1"
+    },
+    {
+      "reference": "1.1.7",
+      "label": "Adhyāya 1, Āhnika 1 §7",
+      "chapterRef": "1.1"
+    },
+    {
+      "reference": "1.1.8",
+      "label": "Adhyāya 1, Āhnika 1 §8",
+      "chapterRef": "1.1"
+    },
+    {
+      "reference": "1.1.9",
+      "label": "Adhyāya 1, Āhnika 1 §9",
+      "chapterRef": "1.1"
+    },
+    {
+      "reference": "1.1.10",
+      "label": "Adhyāya 1, Āhnika 1 §10",
+      "chapterRef": "1.1"
+    },
+    {
+      "reference": "1.1.11",
+      "label": "Adhyāya 1, Āhnika 1 §11",
+      "chapterRef": "1.1"
+    },
+    {
+      "reference": "1.1.12",
+      "label": "Adhyāya 1, Āhnika 1 §12",
+      "chapterRef": "1.1"
+    },
+    {
+      "reference": "1.1.13",
+      "label": "Adhyāya 1, Āhnika 1 §13",
+      "chapterRef": "1.1"
+    },
+    {
+      "reference": "1.1.14",
+      "label": "Adhyāya 1, Āhnika 1 §14",
+      "chapterRef": "1.1"
+    },
+    {
+      "reference": "1.1.15",
+      "label": "Adhyāya 1, Āhnika 1 §15",
+      "chapterRef": "1.1"
+    },
+    {
+      "reference": "1.1.16",
+      "label": "Adhyāya 1, Āhnika 1 §16",
+      "chapterRef": "1.1"
+    },
+    {
+      "reference": "1.1.17",
+      "label": "Adhyāya 1, Āhnika 1 §17",
+      "chapterRef": "1.1"
+    },
+    {
+      "reference": "1.1.18",
+      "label": "Adhyāya 1, Āhnika 1 §18",
+      "chapterRef": "1.1"
+    },
+    {
+      "reference": "1.1.19",
+      "label": "Adhyāya 1, Āhnika 1 §19",
+      "chapterRef": "1.1"
+    },
+    {
+      "reference": "1.1.20",
+      "label": "Adhyāya 1, Āhnika 1 §20",
+      "chapterRef": "1.1"
+    },
+    {
+      "reference": "1.1.21",
+      "label": "Adhyāya 1, Āhnika 1 §21",
+      "chapterRef": "1.1"
+    },
+    {
+      "reference": "1.1.22",
+      "label": "Adhyāya 1, Āhnika 1 §22",
+      "chapterRef": "1.1"
+    },
+    {
+      "reference": "1.1.23",
+      "label": "Adhyāya 1, Āhnika 1 §23",
+      "chapterRef": "1.1"
+    },
+    {
+      "reference": "1.1.24",
+      "label": "Adhyāya 1, Āhnika 1 §24",
+      "chapterRef": "1.1"
+    },
+    {
+      "reference": "1.1.25",
+      "label": "Adhyāya 1, Āhnika 1 §25",
+      "chapterRef": "1.1"
+    },
+    {
+      "reference": "1.1.26",
+      "label": "Adhyāya 1, Āhnika 1 §26",
+      "chapterRef": "1.1"
+    },
+    {
+      "reference": "1.1.27",
+      "label": "Adhyāya 1, Āhnika 1 §27",
+      "chapterRef": "1.1"
+    },
+    {
+      "reference": "1.1.28",
+      "label": "Adhyāya 1, Āhnika 1 §28",
+      "chapterRef": "1.1"
+    },
+    {
+      "reference": "1.1.29",
+      "label": "Adhyāya 1, Āhnika 1 §29",
+      "chapterRef": "1.1"
+    },
+    {
+      "reference": "1.1.30",
+      "label": "Adhyāya 1, Āhnika 1 §30",
+      "chapterRef": "1.1"
+    },
+    {
+      "reference": "1.1.31",
+      "label": "Adhyāya 1, Āhnika 1 §31",
+      "chapterRef": "1.1"
+    },
+    {
+      "reference": "1.1.32",
+      "label": "Adhyāya 1, Āhnika 1 §32",
+      "chapterRef": "1.1"
+    },
+    {
+      "reference": "1.1.33",
+      "label": "Adhyāya 1, Āhnika 1 §33",
+      "chapterRef": "1.1"
+    },
+    {
+      "reference": "1.1.34",
+      "label": "Adhyāya 1, Āhnika 1 §34",
+      "chapterRef": "1.1"
+    },
+    {
+      "reference": "1.1.35",
+      "label": "Adhyāya 1, Āhnika 1 §35",
+      "chapterRef": "1.1"
+    },
+    {
+      "reference": "1.1.36",
+      "label": "Adhyāya 1, Āhnika 1 §36",
+      "chapterRef": "1.1"
+    },
+    {
+      "reference": "1.1.37",
+      "label": "Adhyāya 1, Āhnika 1 §37",
+      "chapterRef": "1.1"
+    },
+    {
+      "reference": "1.1.38",
+      "label": "Adhyāya 1, Āhnika 1 §38",
+      "chapterRef": "1.1"
+    },
+    {
+      "reference": "1.1.39",
+      "label": "Adhyāya 1, Āhnika 1 §39",
+      "chapterRef": "1.1"
+    },
+    {
+      "reference": "1.1.40",
+      "label": "Adhyāya 1, Āhnika 1 §40",
+      "chapterRef": "1.1"
+    },
+    {
+      "reference": "1.1.41",
+      "label": "Adhyāya 1, Āhnika 1 §41",
+      "chapterRef": "1.1"
+    },
+    {
+      "reference": "1.2.1",
+      "label": "Adhyāya 1, Āhnika 2 §1",
+      "chapterRef": "1.2"
+    },
+    {
+      "reference": "1.2.2",
+      "label": "Adhyāya 1, Āhnika 2 §2",
+      "chapterRef": "1.2"
+    },
+    {
+      "reference": "1.2.3",
+      "label": "Adhyāya 1, Āhnika 2 §3",
+      "chapterRef": "1.2"
+    },
+    {
+      "reference": "1.2.4",
+      "label": "Adhyāya 1, Āhnika 2 §4",
+      "chapterRef": "1.2"
+    },
+    {
+      "reference": "1.2.5",
+      "label": "Adhyāya 1, Āhnika 2 §5",
+      "chapterRef": "1.2"
+    },
+    {
+      "reference": "1.2.6",
+      "label": "Adhyāya 1, Āhnika 2 §6",
+      "chapterRef": "1.2"
+    },
+    {
+      "reference": "1.2.7",
+      "label": "Adhyāya 1, Āhnika 2 §7",
+      "chapterRef": "1.2"
+    },
+    {
+      "reference": "1.2.8",
+      "label": "Adhyāya 1, Āhnika 2 §8",
+      "chapterRef": "1.2"
+    },
+    {
+      "reference": "1.2.9",
+      "label": "Adhyāya 1, Āhnika 2 §9",
+      "chapterRef": "1.2"
+    },
+    {
+      "reference": "1.2.10",
+      "label": "Adhyāya 1, Āhnika 2 §10",
+      "chapterRef": "1.2"
+    },
+    {
+      "reference": "1.2.11",
+      "label": "Adhyāya 1, Āhnika 2 §11",
+      "chapterRef": "1.2"
+    },
+    {
+      "reference": "1.2.12",
+      "label": "Adhyāya 1, Āhnika 2 §12",
+      "chapterRef": "1.2"
+    },
+    {
+      "reference": "1.2.13",
+      "label": "Adhyāya 1, Āhnika 2 §13",
+      "chapterRef": "1.2"
+    },
+    {
+      "reference": "1.2.14",
+      "label": "Adhyāya 1, Āhnika 2 §14",
+      "chapterRef": "1.2"
+    },
+    {
+      "reference": "1.2.15",
+      "label": "Adhyāya 1, Āhnika 2 §15",
+      "chapterRef": "1.2"
+    },
+    {
+      "reference": "1.2.16",
+      "label": "Adhyāya 1, Āhnika 2 §16",
+      "chapterRef": "1.2"
+    },
+    {
+      "reference": "1.2.17",
+      "label": "Adhyāya 1, Āhnika 2 §17",
+      "chapterRef": "1.2"
+    },
+    {
+      "reference": "1.2.18",
+      "label": "Adhyāya 1, Āhnika 2 §18",
+      "chapterRef": "1.2"
+    },
+    {
+      "reference": "1.2.19",
+      "label": "Adhyāya 1, Āhnika 2 §19",
+      "chapterRef": "1.2"
+    },
+    {
+      "reference": "1.2.20",
+      "label": "Adhyāya 1, Āhnika 2 §20",
+      "chapterRef": "1.2"
+    },
+    {
+      "reference": "2.1.1",
+      "label": "Adhyāya 2, Āhnika 1 §1",
+      "chapterRef": "2.1"
+    },
+    {
+      "reference": "2.1.2",
+      "label": "Adhyāya 2, Āhnika 1 §2",
+      "chapterRef": "2.1"
+    },
+    {
+      "reference": "2.1.3",
+      "label": "Adhyāya 2, Āhnika 1 §3",
+      "chapterRef": "2.1"
+    },
+    {
+      "reference": "2.1.4",
+      "label": "Adhyāya 2, Āhnika 1 §4",
+      "chapterRef": "2.1"
+    },
+    {
+      "reference": "2.1.5",
+      "label": "Adhyāya 2, Āhnika 1 §5",
+      "chapterRef": "2.1"
+    },
+    {
+      "reference": "2.1.6",
+      "label": "Adhyāya 2, Āhnika 1 §6",
+      "chapterRef": "2.1"
+    },
+    {
+      "reference": "2.1.7",
+      "label": "Adhyāya 2, Āhnika 1 §7",
+      "chapterRef": "2.1"
+    },
+    {
+      "reference": "2.1.8",
+      "label": "Adhyāya 2, Āhnika 1 §8",
+      "chapterRef": "2.1"
+    },
+    {
+      "reference": "2.1.9",
+      "label": "Adhyāya 2, Āhnika 1 §9",
+      "chapterRef": "2.1"
+    },
+    {
+      "reference": "2.1.10",
+      "label": "Adhyāya 2, Āhnika 1 §10",
+      "chapterRef": "2.1"
+    },
+    {
+      "reference": "2.1.11",
+      "label": "Adhyāya 2, Āhnika 1 §11",
+      "chapterRef": "2.1"
+    },
+    {
+      "reference": "2.1.12",
+      "label": "Adhyāya 2, Āhnika 1 §12",
+      "chapterRef": "2.1"
+    },
+    {
+      "reference": "2.1.13",
+      "label": "Adhyāya 2, Āhnika 1 §13",
+      "chapterRef": "2.1"
+    },
+    {
+      "reference": "2.1.14",
+      "label": "Adhyāya 2, Āhnika 1 §14",
+      "chapterRef": "2.1"
+    },
+    {
+      "reference": "2.1.15",
+      "label": "Adhyāya 2, Āhnika 1 §15",
+      "chapterRef": "2.1"
+    },
+    {
+      "reference": "2.1.16",
+      "label": "Adhyāya 2, Āhnika 1 §16",
+      "chapterRef": "2.1"
+    },
+    {
+      "reference": "2.1.17",
+      "label": "Adhyāya 2, Āhnika 1 §17",
+      "chapterRef": "2.1"
+    },
+    {
+      "reference": "2.1.18",
+      "label": "Adhyāya 2, Āhnika 1 §18",
+      "chapterRef": "2.1"
+    },
+    {
+      "reference": "2.1.19",
+      "label": "Adhyāya 2, Āhnika 1 §19",
+      "chapterRef": "2.1"
+    },
+    {
+      "reference": "2.1.20",
+      "label": "Adhyāya 2, Āhnika 1 §20",
+      "chapterRef": "2.1"
+    },
+    {
+      "reference": "2.1.21",
+      "label": "Adhyāya 2, Āhnika 1 §21",
+      "chapterRef": "2.1"
+    },
+    {
+      "reference": "2.1.22",
+      "label": "Adhyāya 2, Āhnika 1 §22",
+      "chapterRef": "2.1"
+    },
+    {
+      "reference": "2.1.23",
+      "label": "Adhyāya 2, Āhnika 1 §23",
+      "chapterRef": "2.1"
+    },
+    {
+      "reference": "2.1.24",
+      "label": "Adhyāya 2, Āhnika 1 §24",
+      "chapterRef": "2.1"
+    },
+    {
+      "reference": "2.1.25",
+      "label": "Adhyāya 2, Āhnika 1 §25",
+      "chapterRef": "2.1"
+    },
+    {
+      "reference": "2.1.26",
+      "label": "Adhyāya 2, Āhnika 1 §26",
+      "chapterRef": "2.1"
+    },
+    {
+      "reference": "2.1.27",
+      "label": "Adhyāya 2, Āhnika 1 §27",
+      "chapterRef": "2.1"
+    },
+    {
+      "reference": "2.1.28",
+      "label": "Adhyāya 2, Āhnika 1 §28",
+      "chapterRef": "2.1"
+    },
+    {
+      "reference": "2.1.29",
+      "label": "Adhyāya 2, Āhnika 1 §29",
+      "chapterRef": "2.1"
+    },
+    {
+      "reference": "2.1.30",
+      "label": "Adhyāya 2, Āhnika 1 §30",
+      "chapterRef": "2.1"
+    },
+    {
+      "reference": "2.1.31",
+      "label": "Adhyāya 2, Āhnika 1 §31",
+      "chapterRef": "2.1"
+    },
+    {
+      "reference": "2.1.32",
+      "label": "Adhyāya 2, Āhnika 1 §32",
+      "chapterRef": "2.1"
+    },
+    {
+      "reference": "2.1.33",
+      "label": "Adhyāya 2, Āhnika 1 §33",
+      "chapterRef": "2.1"
+    },
+    {
+      "reference": "2.1.34",
+      "label": "Adhyāya 2, Āhnika 1 §34",
+      "chapterRef": "2.1"
+    },
+    {
+      "reference": "2.1.35",
+      "label": "Adhyāya 2, Āhnika 1 §35",
+      "chapterRef": "2.1"
+    },
+    {
+      "reference": "2.1.36",
+      "label": "Adhyāya 2, Āhnika 1 §36",
+      "chapterRef": "2.1"
+    },
+    {
+      "reference": "2.1.37",
+      "label": "Adhyāya 2, Āhnika 1 §37",
+      "chapterRef": "2.1"
+    },
+    {
+      "reference": "2.1.38",
+      "label": "Adhyāya 2, Āhnika 1 §38",
+      "chapterRef": "2.1"
+    },
+    {
+      "reference": "2.1.39",
+      "label": "Adhyāya 2, Āhnika 1 §39",
+      "chapterRef": "2.1"
+    },
+    {
+      "reference": "2.1.40",
+      "label": "Adhyāya 2, Āhnika 1 §40",
+      "chapterRef": "2.1"
+    },
+    {
+      "reference": "2.1.41",
+      "label": "Adhyāya 2, Āhnika 1 §41",
+      "chapterRef": "2.1"
+    },
+    {
+      "reference": "2.1.42",
+      "label": "Adhyāya 2, Āhnika 1 §42",
+      "chapterRef": "2.1"
+    },
+    {
+      "reference": "2.1.43",
+      "label": "Adhyāya 2, Āhnika 1 §43",
+      "chapterRef": "2.1"
+    },
+    {
+      "reference": "2.1.44",
+      "label": "Adhyāya 2, Āhnika 1 §44",
+      "chapterRef": "2.1"
+    },
+    {
+      "reference": "2.1.45",
+      "label": "Adhyāya 2, Āhnika 1 §45",
+      "chapterRef": "2.1"
+    },
+    {
+      "reference": "2.1.46",
+      "label": "Adhyāya 2, Āhnika 1 §46",
+      "chapterRef": "2.1"
+    },
+    {
+      "reference": "2.1.47",
+      "label": "Adhyāya 2, Āhnika 1 §47",
+      "chapterRef": "2.1"
+    },
+    {
+      "reference": "2.1.48",
+      "label": "Adhyāya 2, Āhnika 1 §48",
+      "chapterRef": "2.1"
+    },
+    {
+      "reference": "2.1.49",
+      "label": "Adhyāya 2, Āhnika 1 §49",
+      "chapterRef": "2.1"
+    },
+    {
+      "reference": "2.1.50",
+      "label": "Adhyāya 2, Āhnika 1 §50",
+      "chapterRef": "2.1"
+    },
+    {
+      "reference": "2.1.51",
+      "label": "Adhyāya 2, Āhnika 1 §51",
+      "chapterRef": "2.1"
+    },
+    {
+      "reference": "2.1.52",
+      "label": "Adhyāya 2, Āhnika 1 §52",
+      "chapterRef": "2.1"
+    },
+    {
+      "reference": "2.1.53",
+      "label": "Adhyāya 2, Āhnika 1 §53",
+      "chapterRef": "2.1"
+    },
+    {
+      "reference": "2.1.54",
+      "label": "Adhyāya 2, Āhnika 1 §54",
+      "chapterRef": "2.1"
+    },
+    {
+      "reference": "2.1.55",
+      "label": "Adhyāya 2, Āhnika 1 §55",
+      "chapterRef": "2.1"
+    },
+    {
+      "reference": "2.1.56",
+      "label": "Adhyāya 2, Āhnika 1 §56",
+      "chapterRef": "2.1"
+    },
+    {
+      "reference": "2.1.57",
+      "label": "Adhyāya 2, Āhnika 1 §57",
+      "chapterRef": "2.1"
+    },
+    {
+      "reference": "2.1.58",
+      "label": "Adhyāya 2, Āhnika 1 §58",
+      "chapterRef": "2.1"
+    },
+    {
+      "reference": "2.1.59",
+      "label": "Adhyāya 2, Āhnika 1 §59",
+      "chapterRef": "2.1"
+    },
+    {
+      "reference": "2.1.60",
+      "label": "Adhyāya 2, Āhnika 1 §60",
+      "chapterRef": "2.1"
+    },
+    {
+      "reference": "2.1.61",
+      "label": "Adhyāya 2, Āhnika 1 §61",
+      "chapterRef": "2.1"
+    },
+    {
+      "reference": "2.1.62",
+      "label": "Adhyāya 2, Āhnika 1 §62",
+      "chapterRef": "2.1"
+    },
+    {
+      "reference": "2.1.63",
+      "label": "Adhyāya 2, Āhnika 1 §63",
+      "chapterRef": "2.1"
+    },
+    {
+      "reference": "2.1.64",
+      "label": "Adhyāya 2, Āhnika 1 §64",
+      "chapterRef": "2.1"
+    },
+    {
+      "reference": "2.1.65",
+      "label": "Adhyāya 2, Āhnika 1 §65",
+      "chapterRef": "2.1"
+    },
+    {
+      "reference": "2.1.66",
+      "label": "Adhyāya 2, Āhnika 1 §66",
+      "chapterRef": "2.1"
+    },
+    {
+      "reference": "2.1.67",
+      "label": "Adhyāya 2, Āhnika 1 §67",
+      "chapterRef": "2.1"
+    },
+    {
+      "reference": "2.1.68",
+      "label": "Adhyāya 2, Āhnika 1 §68",
+      "chapterRef": "2.1"
+    },
+    {
+      "reference": "2.2.1",
+      "label": "Adhyāya 2, Āhnika 2 §1",
+      "chapterRef": "2.2"
+    },
+    {
+      "reference": "2.2.2",
+      "label": "Adhyāya 2, Āhnika 2 §2",
+      "chapterRef": "2.2"
+    },
+    {
+      "reference": "2.2.3",
+      "label": "Adhyāya 2, Āhnika 2 §3",
+      "chapterRef": "2.2"
+    },
+    {
+      "reference": "2.2.4",
+      "label": "Adhyāya 2, Āhnika 2 §4",
+      "chapterRef": "2.2"
+    },
+    {
+      "reference": "2.2.5",
+      "label": "Adhyāya 2, Āhnika 2 §5",
+      "chapterRef": "2.2"
+    },
+    {
+      "reference": "2.2.6",
+      "label": "Adhyāya 2, Āhnika 2 §6",
+      "chapterRef": "2.2"
+    },
+    {
+      "reference": "2.2.7",
+      "label": "Adhyāya 2, Āhnika 2 §7",
+      "chapterRef": "2.2"
+    },
+    {
+      "reference": "2.2.8",
+      "label": "Adhyāya 2, Āhnika 2 §8",
+      "chapterRef": "2.2"
+    },
+    {
+      "reference": "2.2.9",
+      "label": "Adhyāya 2, Āhnika 2 §9",
+      "chapterRef": "2.2"
+    },
+    {
+      "reference": "2.2.10",
+      "label": "Adhyāya 2, Āhnika 2 §10",
+      "chapterRef": "2.2"
+    },
+    {
+      "reference": "2.2.11",
+      "label": "Adhyāya 2, Āhnika 2 §11",
+      "chapterRef": "2.2"
+    },
+    {
+      "reference": "2.2.12",
+      "label": "Adhyāya 2, Āhnika 2 §12",
+      "chapterRef": "2.2"
+    },
+    {
+      "reference": "2.2.13",
+      "label": "Adhyāya 2, Āhnika 2 §13",
+      "chapterRef": "2.2"
+    },
+    {
+      "reference": "2.2.14",
+      "label": "Adhyāya 2, Āhnika 2 §14",
+      "chapterRef": "2.2"
+    },
+    {
+      "reference": "2.2.15",
+      "label": "Adhyāya 2, Āhnika 2 §15",
+      "chapterRef": "2.2"
+    },
+    {
+      "reference": "2.2.16",
+      "label": "Adhyāya 2, Āhnika 2 §16",
+      "chapterRef": "2.2"
+    },
+    {
+      "reference": "2.2.17",
+      "label": "Adhyāya 2, Āhnika 2 §17",
+      "chapterRef": "2.2"
+    },
+    {
+      "reference": "2.2.18",
+      "label": "Adhyāya 2, Āhnika 2 §18",
+      "chapterRef": "2.2"
+    },
+    {
+      "reference": "2.2.19",
+      "label": "Adhyāya 2, Āhnika 2 §19",
+      "chapterRef": "2.2"
+    },
+    {
+      "reference": "2.2.20",
+      "label": "Adhyāya 2, Āhnika 2 §20",
+      "chapterRef": "2.2"
+    },
+    {
+      "reference": "2.2.21",
+      "label": "Adhyāya 2, Āhnika 2 §21",
+      "chapterRef": "2.2"
+    },
+    {
+      "reference": "2.2.22",
+      "label": "Adhyāya 2, Āhnika 2 §22",
+      "chapterRef": "2.2"
+    },
+    {
+      "reference": "2.2.23",
+      "label": "Adhyāya 2, Āhnika 2 §23",
+      "chapterRef": "2.2"
+    },
+    {
+      "reference": "2.2.24",
+      "label": "Adhyāya 2, Āhnika 2 §24",
+      "chapterRef": "2.2"
+    },
+    {
+      "reference": "2.2.25",
+      "label": "Adhyāya 2, Āhnika 2 §25",
+      "chapterRef": "2.2"
+    },
+    {
+      "reference": "2.2.26",
+      "label": "Adhyāya 2, Āhnika 2 §26",
+      "chapterRef": "2.2"
+    },
+    {
+      "reference": "2.2.27",
+      "label": "Adhyāya 2, Āhnika 2 §27",
+      "chapterRef": "2.2"
+    },
+    {
+      "reference": "2.2.28",
+      "label": "Adhyāya 2, Āhnika 2 §28",
+      "chapterRef": "2.2"
+    },
+    {
+      "reference": "2.2.29",
+      "label": "Adhyāya 2, Āhnika 2 §29",
+      "chapterRef": "2.2"
+    },
+    {
+      "reference": "2.2.30",
+      "label": "Adhyāya 2, Āhnika 2 §30",
+      "chapterRef": "2.2"
+    },
+    {
+      "reference": "2.2.31",
+      "label": "Adhyāya 2, Āhnika 2 §31",
+      "chapterRef": "2.2"
+    },
+    {
+      "reference": "2.2.32",
+      "label": "Adhyāya 2, Āhnika 2 §32",
+      "chapterRef": "2.2"
+    },
+    {
+      "reference": "2.2.33",
+      "label": "Adhyāya 2, Āhnika 2 §33",
+      "chapterRef": "2.2"
+    },
+    {
+      "reference": "2.2.34",
+      "label": "Adhyāya 2, Āhnika 2 §34",
+      "chapterRef": "2.2"
+    },
+    {
+      "reference": "2.2.35",
+      "label": "Adhyāya 2, Āhnika 2 §35",
+      "chapterRef": "2.2"
+    },
+    {
+      "reference": "2.2.36",
+      "label": "Adhyāya 2, Āhnika 2 §36",
+      "chapterRef": "2.2"
+    },
+    {
+      "reference": "2.2.37",
+      "label": "Adhyāya 2, Āhnika 2 §37",
+      "chapterRef": "2.2"
+    },
+    {
+      "reference": "2.2.38",
+      "label": "Adhyāya 2, Āhnika 2 §38",
+      "chapterRef": "2.2"
+    },
+    {
+      "reference": "2.2.39",
+      "label": "Adhyāya 2, Āhnika 2 §39",
+      "chapterRef": "2.2"
+    },
+    {
+      "reference": "2.2.40",
+      "label": "Adhyāya 2, Āhnika 2 §40",
+      "chapterRef": "2.2"
+    },
+    {
+      "reference": "2.2.41",
+      "label": "Adhyāya 2, Āhnika 2 §41",
+      "chapterRef": "2.2"
+    },
+    {
+      "reference": "2.2.42",
+      "label": "Adhyāya 2, Āhnika 2 §42",
+      "chapterRef": "2.2"
+    },
+    {
+      "reference": "2.2.43",
+      "label": "Adhyāya 2, Āhnika 2 §43",
+      "chapterRef": "2.2"
+    },
+    {
+      "reference": "2.2.44",
+      "label": "Adhyāya 2, Āhnika 2 §44",
+      "chapterRef": "2.2"
+    },
+    {
+      "reference": "2.2.45",
+      "label": "Adhyāya 2, Āhnika 2 §45",
+      "chapterRef": "2.2"
+    },
+    {
+      "reference": "2.2.46",
+      "label": "Adhyāya 2, Āhnika 2 §46",
+      "chapterRef": "2.2"
+    },
+    {
+      "reference": "2.2.47",
+      "label": "Adhyāya 2, Āhnika 2 §47",
+      "chapterRef": "2.2"
+    },
+    {
+      "reference": "2.2.48",
+      "label": "Adhyāya 2, Āhnika 2 §48",
+      "chapterRef": "2.2"
+    },
+    {
+      "reference": "2.2.49",
+      "label": "Adhyāya 2, Āhnika 2 §49",
+      "chapterRef": "2.2"
+    },
+    {
+      "reference": "2.2.50",
+      "label": "Adhyāya 2, Āhnika 2 §50",
+      "chapterRef": "2.2"
+    },
+    {
+      "reference": "2.2.51",
+      "label": "Adhyāya 2, Āhnika 2 §51",
+      "chapterRef": "2.2"
+    },
+    {
+      "reference": "2.2.52",
+      "label": "Adhyāya 2, Āhnika 2 §52",
+      "chapterRef": "2.2"
+    },
+    {
+      "reference": "2.2.53",
+      "label": "Adhyāya 2, Āhnika 2 §53",
+      "chapterRef": "2.2"
+    },
+    {
+      "reference": "2.2.54",
+      "label": "Adhyāya 2, Āhnika 2 §54",
+      "chapterRef": "2.2"
+    },
+    {
+      "reference": "2.2.55",
+      "label": "Adhyāya 2, Āhnika 2 §55",
+      "chapterRef": "2.2"
+    },
+    {
+      "reference": "2.2.56",
+      "label": "Adhyāya 2, Āhnika 2 §56",
+      "chapterRef": "2.2"
+    },
+    {
+      "reference": "2.2.57",
+      "label": "Adhyāya 2, Āhnika 2 §57",
+      "chapterRef": "2.2"
+    },
+    {
+      "reference": "2.2.58",
+      "label": "Adhyāya 2, Āhnika 2 §58",
+      "chapterRef": "2.2"
+    },
+    {
+      "reference": "2.2.58#2",
+      "label": "Adhyāya 2, Āhnika 2 §58",
+      "chapterRef": "2.2"
+    },
+    {
+      "reference": "2.2.59",
+      "label": "Adhyāya 2, Āhnika 2 §59",
+      "chapterRef": "2.2"
+    },
+    {
+      "reference": "2.2.60",
+      "label": "Adhyāya 2, Āhnika 2 §60",
+      "chapterRef": "2.2"
+    },
+    {
+      "reference": "2.2.61",
+      "label": "Adhyāya 2, Āhnika 2 §61",
+      "chapterRef": "2.2"
+    },
+    {
+      "reference": "2.2.62",
+      "label": "Adhyāya 2, Āhnika 2 §62",
+      "chapterRef": "2.2"
+    },
+    {
+      "reference": "2.2.63",
+      "label": "Adhyāya 2, Āhnika 2 §63",
+      "chapterRef": "2.2"
+    },
+    {
+      "reference": "2.2.64",
+      "label": "Adhyāya 2, Āhnika 2 §64",
+      "chapterRef": "2.2"
+    },
+    {
+      "reference": "2.2.65",
+      "label": "Adhyāya 2, Āhnika 2 §65",
+      "chapterRef": "2.2"
+    },
+    {
+      "reference": "2.2.66",
+      "label": "Adhyāya 2, Āhnika 2 §66",
+      "chapterRef": "2.2"
+    },
+    {
+      "reference": "2.2.67",
+      "label": "Adhyāya 2, Āhnika 2 §67",
+      "chapterRef": "2.2"
+    },
+    {
+      "reference": "2.2.68",
+      "label": "Adhyāya 2, Āhnika 2 §68",
+      "chapterRef": "2.2"
+    },
+    {
+      "reference": "2.2.69",
+      "label": "Adhyāya 2, Āhnika 2 §69",
+      "chapterRef": "2.2"
+    },
+    {
+      "reference": "3.1.1",
+      "label": "Adhyāya 3, Āhnika 1 §1",
+      "chapterRef": "3.1"
+    },
+    {
+      "reference": "3.1.2",
+      "label": "Adhyāya 3, Āhnika 1 §2",
+      "chapterRef": "3.1"
+    },
+    {
+      "reference": "3.1.3",
+      "label": "Adhyāya 3, Āhnika 1 §3",
+      "chapterRef": "3.1"
+    },
+    {
+      "reference": "3.1.4",
+      "label": "Adhyāya 3, Āhnika 1 §4",
+      "chapterRef": "3.1"
+    },
+    {
+      "reference": "3.1.5",
+      "label": "Adhyāya 3, Āhnika 1 §5",
+      "chapterRef": "3.1"
+    },
+    {
+      "reference": "3.1.6",
+      "label": "Adhyāya 3, Āhnika 1 §6",
+      "chapterRef": "3.1"
+    },
+    {
+      "reference": "3.1.7",
+      "label": "Adhyāya 3, Āhnika 1 §7",
+      "chapterRef": "3.1"
+    },
+    {
+      "reference": "3.1.8",
+      "label": "Adhyāya 3, Āhnika 1 §8",
+      "chapterRef": "3.1"
+    },
+    {
+      "reference": "3.1.9",
+      "label": "Adhyāya 3, Āhnika 1 §9",
+      "chapterRef": "3.1"
+    },
+    {
+      "reference": "3.1.10",
+      "label": "Adhyāya 3, Āhnika 1 §10",
+      "chapterRef": "3.1"
+    },
+    {
+      "reference": "3.1.11",
+      "label": "Adhyāya 3, Āhnika 1 §11",
+      "chapterRef": "3.1"
+    },
+    {
+      "reference": "3.1.12",
+      "label": "Adhyāya 3, Āhnika 1 §12",
+      "chapterRef": "3.1"
+    },
+    {
+      "reference": "3.1.13",
+      "label": "Adhyāya 3, Āhnika 1 §13",
+      "chapterRef": "3.1"
+    },
+    {
+      "reference": "3.1.14",
+      "label": "Adhyāya 3, Āhnika 1 §14",
+      "chapterRef": "3.1"
+    },
+    {
+      "reference": "3.1.15",
+      "label": "Adhyāya 3, Āhnika 1 §15",
+      "chapterRef": "3.1"
+    },
+    {
+      "reference": "3.1.16",
+      "label": "Adhyāya 3, Āhnika 1 §16",
+      "chapterRef": "3.1"
+    },
+    {
+      "reference": "3.1.17",
+      "label": "Adhyāya 3, Āhnika 1 §17",
+      "chapterRef": "3.1"
+    },
+    {
+      "reference": "3.1.18",
+      "label": "Adhyāya 3, Āhnika 1 §18",
+      "chapterRef": "3.1"
+    },
+    {
+      "reference": "3.1.19",
+      "label": "Adhyāya 3, Āhnika 1 §19",
+      "chapterRef": "3.1"
+    },
+    {
+      "reference": "3.1.20",
+      "label": "Adhyāya 3, Āhnika 1 §20",
+      "chapterRef": "3.1"
+    },
+    {
+      "reference": "3.1.21",
+      "label": "Adhyāya 3, Āhnika 1 §21",
+      "chapterRef": "3.1"
+    },
+    {
+      "reference": "3.1.22",
+      "label": "Adhyāya 3, Āhnika 1 §22",
+      "chapterRef": "3.1"
+    },
+    {
+      "reference": "3.1.23",
+      "label": "Adhyāya 3, Āhnika 1 §23",
+      "chapterRef": "3.1"
+    },
+    {
+      "reference": "3.1.24",
+      "label": "Adhyāya 3, Āhnika 1 §24",
+      "chapterRef": "3.1"
+    },
+    {
+      "reference": "3.1.25",
+      "label": "Adhyāya 3, Āhnika 1 §25",
+      "chapterRef": "3.1"
+    },
+    {
+      "reference": "3.1.26",
+      "label": "Adhyāya 3, Āhnika 1 §26",
+      "chapterRef": "3.1"
+    },
+    {
+      "reference": "3.1.27",
+      "label": "Adhyāya 3, Āhnika 1 §27",
+      "chapterRef": "3.1"
+    },
+    {
+      "reference": "3.1.28",
+      "label": "Adhyāya 3, Āhnika 1 §28",
+      "chapterRef": "3.1"
+    },
+    {
+      "reference": "3.1.29",
+      "label": "Adhyāya 3, Āhnika 1 §29",
+      "chapterRef": "3.1"
+    },
+    {
+      "reference": "3.1.30",
+      "label": "Adhyāya 3, Āhnika 1 §30",
+      "chapterRef": "3.1"
+    },
+    {
+      "reference": "3.1.31",
+      "label": "Adhyāya 3, Āhnika 1 §31",
+      "chapterRef": "3.1"
+    },
+    {
+      "reference": "3.1.32",
+      "label": "Adhyāya 3, Āhnika 1 §32",
+      "chapterRef": "3.1"
+    },
+    {
+      "reference": "3.1.33",
+      "label": "Adhyāya 3, Āhnika 1 §33",
+      "chapterRef": "3.1"
+    },
+    {
+      "reference": "3.1.34",
+      "label": "Adhyāya 3, Āhnika 1 §34",
+      "chapterRef": "3.1"
+    },
+    {
+      "reference": "3.1.35",
+      "label": "Adhyāya 3, Āhnika 1 §35",
+      "chapterRef": "3.1"
+    },
+    {
+      "reference": "3.1.36",
+      "label": "Adhyāya 3, Āhnika 1 §36",
+      "chapterRef": "3.1"
+    },
+    {
+      "reference": "3.1.37",
+      "label": "Adhyāya 3, Āhnika 1 §37",
+      "chapterRef": "3.1"
+    },
+    {
+      "reference": "3.1.38",
+      "label": "Adhyāya 3, Āhnika 1 §38",
+      "chapterRef": "3.1"
+    },
+    {
+      "reference": "3.1.39",
+      "label": "Adhyāya 3, Āhnika 1 §39",
+      "chapterRef": "3.1"
+    },
+    {
+      "reference": "3.1.40",
+      "label": "Adhyāya 3, Āhnika 1 §40",
+      "chapterRef": "3.1"
+    },
+    {
+      "reference": "3.1.41",
+      "label": "Adhyāya 3, Āhnika 1 §41",
+      "chapterRef": "3.1"
+    },
+    {
+      "reference": "3.1.42",
+      "label": "Adhyāya 3, Āhnika 1 §42",
+      "chapterRef": "3.1"
+    },
+    {
+      "reference": "3.1.43",
+      "label": "Adhyāya 3, Āhnika 1 §43",
+      "chapterRef": "3.1"
+    },
+    {
+      "reference": "3.1.44",
+      "label": "Adhyāya 3, Āhnika 1 §44",
+      "chapterRef": "3.1"
+    },
+    {
+      "reference": "3.1.45",
+      "label": "Adhyāya 3, Āhnika 1 §45",
+      "chapterRef": "3.1"
+    },
+    {
+      "reference": "3.1.46",
+      "label": "Adhyāya 3, Āhnika 1 §46",
+      "chapterRef": "3.1"
+    },
+    {
+      "reference": "3.1.47",
+      "label": "Adhyāya 3, Āhnika 1 §47",
+      "chapterRef": "3.1"
+    },
+    {
+      "reference": "3.1.48",
+      "label": "Adhyāya 3, Āhnika 1 §48",
+      "chapterRef": "3.1"
+    },
+    {
+      "reference": "3.1.49",
+      "label": "Adhyāya 3, Āhnika 1 §49",
+      "chapterRef": "3.1"
+    },
+    {
+      "reference": "3.1.50",
+      "label": "Adhyāya 3, Āhnika 1 §50",
+      "chapterRef": "3.1"
+    },
+    {
+      "reference": "3.1.51",
+      "label": "Adhyāya 3, Āhnika 1 §51",
+      "chapterRef": "3.1"
+    },
+    {
+      "reference": "3.1.52",
+      "label": "Adhyāya 3, Āhnika 1 §52",
+      "chapterRef": "3.1"
+    },
+    {
+      "reference": "3.1.53",
+      "label": "Adhyāya 3, Āhnika 1 §53",
+      "chapterRef": "3.1"
+    },
+    {
+      "reference": "3.1.54",
+      "label": "Adhyāya 3, Āhnika 1 §54",
+      "chapterRef": "3.1"
+    },
+    {
+      "reference": "3.1.55",
+      "label": "Adhyāya 3, Āhnika 1 §55",
+      "chapterRef": "3.1"
+    },
+    {
+      "reference": "3.1.56",
+      "label": "Adhyāya 3, Āhnika 1 §56",
+      "chapterRef": "3.1"
+    },
+    {
+      "reference": "3.1.57",
+      "label": "Adhyāya 3, Āhnika 1 §57",
+      "chapterRef": "3.1"
+    },
+    {
+      "reference": "3.1.58",
+      "label": "Adhyāya 3, Āhnika 1 §58",
+      "chapterRef": "3.1"
+    },
+    {
+      "reference": "3.1.59",
+      "label": "Adhyāya 3, Āhnika 1 §59",
+      "chapterRef": "3.1"
+    },
+    {
+      "reference": "3.1.60",
+      "label": "Adhyāya 3, Āhnika 1 §60",
+      "chapterRef": "3.1"
+    },
+    {
+      "reference": "3.1.61",
+      "label": "Adhyāya 3, Āhnika 1 §61",
+      "chapterRef": "3.1"
+    },
+    {
+      "reference": "3.1.62",
+      "label": "Adhyāya 3, Āhnika 1 §62",
+      "chapterRef": "3.1"
+    },
+    {
+      "reference": "3.1.63",
+      "label": "Adhyāya 3, Āhnika 1 §63",
+      "chapterRef": "3.1"
+    },
+    {
+      "reference": "3.1.64",
+      "label": "Adhyāya 3, Āhnika 1 §64",
+      "chapterRef": "3.1"
+    },
+    {
+      "reference": "3.1.65",
+      "label": "Adhyāya 3, Āhnika 1 §65",
+      "chapterRef": "3.1"
+    },
+    {
+      "reference": "3.1.66",
+      "label": "Adhyāya 3, Āhnika 1 §66",
+      "chapterRef": "3.1"
+    },
+    {
+      "reference": "3.1.67",
+      "label": "Adhyāya 3, Āhnika 1 §67",
+      "chapterRef": "3.1"
+    },
+    {
+      "reference": "3.1.68",
+      "label": "Adhyāya 3, Āhnika 1 §68",
+      "chapterRef": "3.1"
+    },
+    {
+      "reference": "3.1.69",
+      "label": "Adhyāya 3, Āhnika 1 §69",
+      "chapterRef": "3.1"
+    },
+    {
+      "reference": "3.1.70",
+      "label": "Adhyāya 3, Āhnika 1 §70",
+      "chapterRef": "3.1"
+    },
+    {
+      "reference": "3.1.71",
+      "label": "Adhyāya 3, Āhnika 1 §71",
+      "chapterRef": "3.1"
+    },
+    {
+      "reference": "3.1.72",
+      "label": "Adhyāya 3, Āhnika 1 §72",
+      "chapterRef": "3.1"
+    },
+    {
+      "reference": "3.1.73",
+      "label": "Adhyāya 3, Āhnika 1 §73",
+      "chapterRef": "3.1"
+    },
+    {
+      "reference": "3.2.1",
+      "label": "Adhyāya 3, Āhnika 2 §1",
+      "chapterRef": "3.2"
+    },
+    {
+      "reference": "3.2.2",
+      "label": "Adhyāya 3, Āhnika 2 §2",
+      "chapterRef": "3.2"
+    },
+    {
+      "reference": "3.2.3",
+      "label": "Adhyāya 3, Āhnika 2 §3",
+      "chapterRef": "3.2"
+    },
+    {
+      "reference": "3.2.4",
+      "label": "Adhyāya 3, Āhnika 2 §4",
+      "chapterRef": "3.2"
+    },
+    {
+      "reference": "3.2.5",
+      "label": "Adhyāya 3, Āhnika 2 §5",
+      "chapterRef": "3.2"
+    },
+    {
+      "reference": "3.2.6",
+      "label": "Adhyāya 3, Āhnika 2 §6",
+      "chapterRef": "3.2"
+    },
+    {
+      "reference": "3.2.7",
+      "label": "Adhyāya 3, Āhnika 2 §7",
+      "chapterRef": "3.2"
+    },
+    {
+      "reference": "3.2.8",
+      "label": "Adhyāya 3, Āhnika 2 §8",
+      "chapterRef": "3.2"
+    },
+    {
+      "reference": "3.2.9",
+      "label": "Adhyāya 3, Āhnika 2 §9",
+      "chapterRef": "3.2"
+    },
+    {
+      "reference": "3.2.10",
+      "label": "Adhyāya 3, Āhnika 2 §10",
+      "chapterRef": "3.2"
+    },
+    {
+      "reference": "3.2.11",
+      "label": "Adhyāya 3, Āhnika 2 §11",
+      "chapterRef": "3.2"
+    },
+    {
+      "reference": "3.2.12",
+      "label": "Adhyāya 3, Āhnika 2 §12",
+      "chapterRef": "3.2"
+    },
+    {
+      "reference": "3.2.13",
+      "label": "Adhyāya 3, Āhnika 2 §13",
+      "chapterRef": "3.2"
+    },
+    {
+      "reference": "3.2.14",
+      "label": "Adhyāya 3, Āhnika 2 §14",
+      "chapterRef": "3.2"
+    },
+    {
+      "reference": "3.2.15",
+      "label": "Adhyāya 3, Āhnika 2 §15",
+      "chapterRef": "3.2"
+    },
+    {
+      "reference": "3.2.16",
+      "label": "Adhyāya 3, Āhnika 2 §16",
+      "chapterRef": "3.2"
+    },
+    {
+      "reference": "3.2.17",
+      "label": "Adhyāya 3, Āhnika 2 §17",
+      "chapterRef": "3.2"
+    },
+    {
+      "reference": "3.2.18",
+      "label": "Adhyāya 3, Āhnika 2 §18",
+      "chapterRef": "3.2"
+    },
+    {
+      "reference": "3.2.19",
+      "label": "Adhyāya 3, Āhnika 2 §19",
+      "chapterRef": "3.2"
+    },
+    {
+      "reference": "3.2.20",
+      "label": "Adhyāya 3, Āhnika 2 §20",
+      "chapterRef": "3.2"
+    },
+    {
+      "reference": "3.2.21",
+      "label": "Adhyāya 3, Āhnika 2 §21",
+      "chapterRef": "3.2"
+    },
+    {
+      "reference": "3.2.22",
+      "label": "Adhyāya 3, Āhnika 2 §22",
+      "chapterRef": "3.2"
+    },
+    {
+      "reference": "3.2.23",
+      "label": "Adhyāya 3, Āhnika 2 §23",
+      "chapterRef": "3.2"
+    },
+    {
+      "reference": "3.2.24",
+      "label": "Adhyāya 3, Āhnika 2 §24",
+      "chapterRef": "3.2"
+    },
+    {
+      "reference": "3.2.25",
+      "label": "Adhyāya 3, Āhnika 2 §25",
+      "chapterRef": "3.2"
+    },
+    {
+      "reference": "3.2.26",
+      "label": "Adhyāya 3, Āhnika 2 §26",
+      "chapterRef": "3.2"
+    },
+    {
+      "reference": "3.2.27",
+      "label": "Adhyāya 3, Āhnika 2 §27",
+      "chapterRef": "3.2"
+    },
+    {
+      "reference": "3.2.28",
+      "label": "Adhyāya 3, Āhnika 2 §28",
+      "chapterRef": "3.2"
+    },
+    {
+      "reference": "3.2.29",
+      "label": "Adhyāya 3, Āhnika 2 §29",
+      "chapterRef": "3.2"
+    },
+    {
+      "reference": "3.2.30",
+      "label": "Adhyāya 3, Āhnika 2 §30",
+      "chapterRef": "3.2"
+    },
+    {
+      "reference": "3.2.31",
+      "label": "Adhyāya 3, Āhnika 2 §31",
+      "chapterRef": "3.2"
+    },
+    {
+      "reference": "3.2.32",
+      "label": "Adhyāya 3, Āhnika 2 §32",
+      "chapterRef": "3.2"
+    },
+    {
+      "reference": "3.2.33",
+      "label": "Adhyāya 3, Āhnika 2 §33",
+      "chapterRef": "3.2"
+    },
+    {
+      "reference": "3.2.34",
+      "label": "Adhyāya 3, Āhnika 2 §34",
+      "chapterRef": "3.2"
+    },
+    {
+      "reference": "3.2.35",
+      "label": "Adhyāya 3, Āhnika 2 §35",
+      "chapterRef": "3.2"
+    },
+    {
+      "reference": "3.2.36",
+      "label": "Adhyāya 3, Āhnika 2 §36",
+      "chapterRef": "3.2"
+    },
+    {
+      "reference": "3.2.37",
+      "label": "Adhyāya 3, Āhnika 2 §37",
+      "chapterRef": "3.2"
+    },
+    {
+      "reference": "3.2.38",
+      "label": "Adhyāya 3, Āhnika 2 §38",
+      "chapterRef": "3.2"
+    },
+    {
+      "reference": "3.2.39",
+      "label": "Adhyāya 3, Āhnika 2 §39",
+      "chapterRef": "3.2"
+    },
+    {
+      "reference": "3.2.40",
+      "label": "Adhyāya 3, Āhnika 2 §40",
+      "chapterRef": "3.2"
+    },
+    {
+      "reference": "3.2.41",
+      "label": "Adhyāya 3, Āhnika 2 §41",
+      "chapterRef": "3.2"
+    },
+    {
+      "reference": "3.2.42",
+      "label": "Adhyāya 3, Āhnika 2 §42",
+      "chapterRef": "3.2"
+    },
+    {
+      "reference": "3.2.43",
+      "label": "Adhyāya 3, Āhnika 2 §43",
+      "chapterRef": "3.2"
+    },
+    {
+      "reference": "3.2.44",
+      "label": "Adhyāya 3, Āhnika 2 §44",
+      "chapterRef": "3.2"
+    },
+    {
+      "reference": "3.2.45",
+      "label": "Adhyāya 3, Āhnika 2 §45",
+      "chapterRef": "3.2"
+    },
+    {
+      "reference": "3.2.46",
+      "label": "Adhyāya 3, Āhnika 2 §46",
+      "chapterRef": "3.2"
+    },
+    {
+      "reference": "3.2.47",
+      "label": "Adhyāya 3, Āhnika 2 §47",
+      "chapterRef": "3.2"
+    },
+    {
+      "reference": "3.2.48",
+      "label": "Adhyāya 3, Āhnika 2 §48",
+      "chapterRef": "3.2"
+    },
+    {
+      "reference": "3.2.49",
+      "label": "Adhyāya 3, Āhnika 2 §49",
+      "chapterRef": "3.2"
+    },
+    {
+      "reference": "3.2.50",
+      "label": "Adhyāya 3, Āhnika 2 §50",
+      "chapterRef": "3.2"
+    },
+    {
+      "reference": "3.2.51",
+      "label": "Adhyāya 3, Āhnika 2 §51",
+      "chapterRef": "3.2"
+    },
+    {
+      "reference": "3.2.52",
+      "label": "Adhyāya 3, Āhnika 2 §52",
+      "chapterRef": "3.2"
+    },
+    {
+      "reference": "3.2.53",
+      "label": "Adhyāya 3, Āhnika 2 §53",
+      "chapterRef": "3.2"
+    },
+    {
+      "reference": "3.2.54",
+      "label": "Adhyāya 3, Āhnika 2 §54",
+      "chapterRef": "3.2"
+    },
+    {
+      "reference": "3.2.55",
+      "label": "Adhyāya 3, Āhnika 2 §55",
+      "chapterRef": "3.2"
+    },
+    {
+      "reference": "3.2.56",
+      "label": "Adhyāya 3, Āhnika 2 §56",
+      "chapterRef": "3.2"
+    },
+    {
+      "reference": "3.2.57",
+      "label": "Adhyāya 3, Āhnika 2 §57",
+      "chapterRef": "3.2"
+    },
+    {
+      "reference": "3.2.58",
+      "label": "Adhyāya 3, Āhnika 2 §58",
+      "chapterRef": "3.2"
+    },
+    {
+      "reference": "3.2.59",
+      "label": "Adhyāya 3, Āhnika 2 §59",
+      "chapterRef": "3.2"
+    },
+    {
+      "reference": "3.2.60",
+      "label": "Adhyāya 3, Āhnika 2 §60",
+      "chapterRef": "3.2"
+    },
+    {
+      "reference": "3.2.61",
+      "label": "Adhyāya 3, Āhnika 2 §61",
+      "chapterRef": "3.2"
+    },
+    {
+      "reference": "3.2.62",
+      "label": "Adhyāya 3, Āhnika 2 §62",
+      "chapterRef": "3.2"
+    },
+    {
+      "reference": "3.2.63",
+      "label": "Adhyāya 3, Āhnika 2 §63",
+      "chapterRef": "3.2"
+    },
+    {
+      "reference": "3.2.64",
+      "label": "Adhyāya 3, Āhnika 2 §64",
+      "chapterRef": "3.2"
+    },
+    {
+      "reference": "3.2.65",
+      "label": "Adhyāya 3, Āhnika 2 §65",
+      "chapterRef": "3.2"
+    },
+    {
+      "reference": "3.2.66",
+      "label": "Adhyāya 3, Āhnika 2 §66",
+      "chapterRef": "3.2"
+    },
+    {
+      "reference": "3.2.67",
+      "label": "Adhyāya 3, Āhnika 2 §67",
+      "chapterRef": "3.2"
+    },
+    {
+      "reference": "3.2.68",
+      "label": "Adhyāya 3, Āhnika 2 §68",
+      "chapterRef": "3.2"
+    },
+    {
+      "reference": "3.2.69",
+      "label": "Adhyāya 3, Āhnika 2 §69",
+      "chapterRef": "3.2"
+    },
+    {
+      "reference": "3.2.70",
+      "label": "Adhyāya 3, Āhnika 2 §70",
+      "chapterRef": "3.2"
+    },
+    {
+      "reference": "3.2.71",
+      "label": "Adhyāya 3, Āhnika 2 §71",
+      "chapterRef": "3.2"
+    },
+    {
+      "reference": "3.2.72",
+      "label": "Adhyāya 3, Āhnika 2 §72",
+      "chapterRef": "3.2"
+    },
+    {
+      "reference": "4.1.1",
+      "label": "Adhyāya 4, Āhnika 1 §1",
+      "chapterRef": "4.1"
+    },
+    {
+      "reference": "4.1.2",
+      "label": "Adhyāya 4, Āhnika 1 §2",
+      "chapterRef": "4.1"
+    },
+    {
+      "reference": "4.1.3",
+      "label": "Adhyāya 4, Āhnika 1 §3",
+      "chapterRef": "4.1"
+    },
+    {
+      "reference": "4.1.4",
+      "label": "Adhyāya 4, Āhnika 1 §4",
+      "chapterRef": "4.1"
+    },
+    {
+      "reference": "4.1.5",
+      "label": "Adhyāya 4, Āhnika 1 §5",
+      "chapterRef": "4.1"
+    },
+    {
+      "reference": "4.1.6",
+      "label": "Adhyāya 4, Āhnika 1 §6",
+      "chapterRef": "4.1"
+    },
+    {
+      "reference": "4.1.7",
+      "label": "Adhyāya 4, Āhnika 1 §7",
+      "chapterRef": "4.1"
+    },
+    {
+      "reference": "4.1.8",
+      "label": "Adhyāya 4, Āhnika 1 §8",
+      "chapterRef": "4.1"
+    },
+    {
+      "reference": "4.1.9",
+      "label": "Adhyāya 4, Āhnika 1 §9",
+      "chapterRef": "4.1"
+    },
+    {
+      "reference": "4.1.10",
+      "label": "Adhyāya 4, Āhnika 1 §10",
+      "chapterRef": "4.1"
+    },
+    {
+      "reference": "4.1.11",
+      "label": "Adhyāya 4, Āhnika 1 §11",
+      "chapterRef": "4.1"
+    },
+    {
+      "reference": "4.1.12",
+      "label": "Adhyāya 4, Āhnika 1 §12",
+      "chapterRef": "4.1"
+    },
+    {
+      "reference": "4.1.13",
+      "label": "Adhyāya 4, Āhnika 1 §13",
+      "chapterRef": "4.1"
+    },
+    {
+      "reference": "4.1.14",
+      "label": "Adhyāya 4, Āhnika 1 §14",
+      "chapterRef": "4.1"
+    },
+    {
+      "reference": "4.1.15",
+      "label": "Adhyāya 4, Āhnika 1 §15",
+      "chapterRef": "4.1"
+    },
+    {
+      "reference": "4.1.16",
+      "label": "Adhyāya 4, Āhnika 1 §16",
+      "chapterRef": "4.1"
+    },
+    {
+      "reference": "4.1.17",
+      "label": "Adhyāya 4, Āhnika 1 §17",
+      "chapterRef": "4.1"
+    },
+    {
+      "reference": "4.1.18",
+      "label": "Adhyāya 4, Āhnika 1 §18",
+      "chapterRef": "4.1"
+    },
+    {
+      "reference": "4.1.19",
+      "label": "Adhyāya 4, Āhnika 1 §19",
+      "chapterRef": "4.1"
+    },
+    {
+      "reference": "4.1.20",
+      "label": "Adhyāya 4, Āhnika 1 §20",
+      "chapterRef": "4.1"
+    },
+    {
+      "reference": "4.1.21",
+      "label": "Adhyāya 4, Āhnika 1 §21",
+      "chapterRef": "4.1"
+    },
+    {
+      "reference": "4.1.22",
+      "label": "Adhyāya 4, Āhnika 1 §22",
+      "chapterRef": "4.1"
+    },
+    {
+      "reference": "4.1.23",
+      "label": "Adhyāya 4, Āhnika 1 §23",
+      "chapterRef": "4.1"
+    },
+    {
+      "reference": "4.1.24",
+      "label": "Adhyāya 4, Āhnika 1 §24",
+      "chapterRef": "4.1"
+    },
+    {
+      "reference": "4.1.25",
+      "label": "Adhyāya 4, Āhnika 1 §25",
+      "chapterRef": "4.1"
+    },
+    {
+      "reference": "4.1.26",
+      "label": "Adhyāya 4, Āhnika 1 §26",
+      "chapterRef": "4.1"
+    },
+    {
+      "reference": "4.1.27",
+      "label": "Adhyāya 4, Āhnika 1 §27",
+      "chapterRef": "4.1"
+    },
+    {
+      "reference": "4.1.28",
+      "label": "Adhyāya 4, Āhnika 1 §28",
+      "chapterRef": "4.1"
+    },
+    {
+      "reference": "4.1.29",
+      "label": "Adhyāya 4, Āhnika 1 §29",
+      "chapterRef": "4.1"
+    },
+    {
+      "reference": "4.1.30",
+      "label": "Adhyāya 4, Āhnika 1 §30",
+      "chapterRef": "4.1"
+    },
+    {
+      "reference": "4.1.31",
+      "label": "Adhyāya 4, Āhnika 1 §31",
+      "chapterRef": "4.1"
+    },
+    {
+      "reference": "4.1.32",
+      "label": "Adhyāya 4, Āhnika 1 §32",
+      "chapterRef": "4.1"
+    },
+    {
+      "reference": "4.1.33",
+      "label": "Adhyāya 4, Āhnika 1 §33",
+      "chapterRef": "4.1"
+    },
+    {
+      "reference": "4.1.34",
+      "label": "Adhyāya 4, Āhnika 1 §34",
+      "chapterRef": "4.1"
+    },
+    {
+      "reference": "4.1.35",
+      "label": "Adhyāya 4, Āhnika 1 §35",
+      "chapterRef": "4.1"
+    },
+    {
+      "reference": "4.1.36",
+      "label": "Adhyāya 4, Āhnika 1 §36",
+      "chapterRef": "4.1"
+    },
+    {
+      "reference": "4.1.37",
+      "label": "Adhyāya 4, Āhnika 1 §37",
+      "chapterRef": "4.1"
+    },
+    {
+      "reference": "4.1.38",
+      "label": "Adhyāya 4, Āhnika 1 §38",
+      "chapterRef": "4.1"
+    },
+    {
+      "reference": "4.1.39",
+      "label": "Adhyāya 4, Āhnika 1 §39",
+      "chapterRef": "4.1"
+    },
+    {
+      "reference": "4.1.40",
+      "label": "Adhyāya 4, Āhnika 1 §40",
+      "chapterRef": "4.1"
+    },
+    {
+      "reference": "4.1.41",
+      "label": "Adhyāya 4, Āhnika 1 §41",
+      "chapterRef": "4.1"
+    },
+    {
+      "reference": "4.1.42",
+      "label": "Adhyāya 4, Āhnika 1 §42",
+      "chapterRef": "4.1"
+    },
+    {
+      "reference": "4.1.43",
+      "label": "Adhyāya 4, Āhnika 1 §43",
+      "chapterRef": "4.1"
+    },
+    {
+      "reference": "4.1.44",
+      "label": "Adhyāya 4, Āhnika 1 §44",
+      "chapterRef": "4.1"
+    },
+    {
+      "reference": "4.1.45",
+      "label": "Adhyāya 4, Āhnika 1 §45",
+      "chapterRef": "4.1"
+    },
+    {
+      "reference": "4.1.46",
+      "label": "Adhyāya 4, Āhnika 1 §46",
+      "chapterRef": "4.1"
+    },
+    {
+      "reference": "4.1.47",
+      "label": "Adhyāya 4, Āhnika 1 §47",
+      "chapterRef": "4.1"
+    },
+    {
+      "reference": "4.1.48",
+      "label": "Adhyāya 4, Āhnika 1 §48",
+      "chapterRef": "4.1"
+    },
+    {
+      "reference": "4.1.49",
+      "label": "Adhyāya 4, Āhnika 1 §49",
+      "chapterRef": "4.1"
+    },
+    {
+      "reference": "4.1.50",
+      "label": "Adhyāya 4, Āhnika 1 §50",
+      "chapterRef": "4.1"
+    },
+    {
+      "reference": "4.1.51",
+      "label": "Adhyāya 4, Āhnika 1 §51",
+      "chapterRef": "4.1"
+    },
+    {
+      "reference": "4.1.52",
+      "label": "Adhyāya 4, Āhnika 1 §52",
+      "chapterRef": "4.1"
+    },
+    {
+      "reference": "4.1.53",
+      "label": "Adhyāya 4, Āhnika 1 §53",
+      "chapterRef": "4.1"
+    },
+    {
+      "reference": "4.1.54",
+      "label": "Adhyāya 4, Āhnika 1 §54",
+      "chapterRef": "4.1"
+    },
+    {
+      "reference": "4.1.55",
+      "label": "Adhyāya 4, Āhnika 1 §55",
+      "chapterRef": "4.1"
+    },
+    {
+      "reference": "4.1.56",
+      "label": "Adhyāya 4, Āhnika 1 §56",
+      "chapterRef": "4.1"
+    },
+    {
+      "reference": "4.1.57",
+      "label": "Adhyāya 4, Āhnika 1 §57",
+      "chapterRef": "4.1"
+    },
+    {
+      "reference": "4.1.58",
+      "label": "Adhyāya 4, Āhnika 1 §58",
+      "chapterRef": "4.1"
+    },
+    {
+      "reference": "4.1.59",
+      "label": "Adhyāya 4, Āhnika 1 §59",
+      "chapterRef": "4.1"
+    },
+    {
+      "reference": "4.1.60",
+      "label": "Adhyāya 4, Āhnika 1 §60",
+      "chapterRef": "4.1"
+    },
+    {
+      "reference": "4.1.61",
+      "label": "Adhyāya 4, Āhnika 1 §61",
+      "chapterRef": "4.1"
+    },
+    {
+      "reference": "4.1.62",
+      "label": "Adhyāya 4, Āhnika 1 §62",
+      "chapterRef": "4.1"
+    },
+    {
+      "reference": "4.1.63",
+      "label": "Adhyāya 4, Āhnika 1 §63",
+      "chapterRef": "4.1"
+    },
+    {
+      "reference": "4.1.64",
+      "label": "Adhyāya 4, Āhnika 1 §64",
+      "chapterRef": "4.1"
+    },
+    {
+      "reference": "4.1.65",
+      "label": "Adhyāya 4, Āhnika 1 §65",
+      "chapterRef": "4.1"
+    },
+    {
+      "reference": "4.1.66",
+      "label": "Adhyāya 4, Āhnika 1 §66",
+      "chapterRef": "4.1"
+    },
+    {
+      "reference": "4.1.67",
+      "label": "Adhyāya 4, Āhnika 1 §67",
+      "chapterRef": "4.1"
+    },
+    {
+      "reference": "4.2.1",
+      "label": "Adhyāya 4, Āhnika 2 §1",
+      "chapterRef": "4.2"
+    },
+    {
+      "reference": "4.2.2",
+      "label": "Adhyāya 4, Āhnika 2 §2",
+      "chapterRef": "4.2"
+    },
+    {
+      "reference": "4.2.3",
+      "label": "Adhyāya 4, Āhnika 2 §3",
+      "chapterRef": "4.2"
+    },
+    {
+      "reference": "4.2.4",
+      "label": "Adhyāya 4, Āhnika 2 §4",
+      "chapterRef": "4.2"
+    },
+    {
+      "reference": "4.2.5",
+      "label": "Adhyāya 4, Āhnika 2 §5",
+      "chapterRef": "4.2"
+    },
+    {
+      "reference": "4.2.6",
+      "label": "Adhyāya 4, Āhnika 2 §6",
+      "chapterRef": "4.2"
+    },
+    {
+      "reference": "4.2.7",
+      "label": "Adhyāya 4, Āhnika 2 §7",
+      "chapterRef": "4.2"
+    },
+    {
+      "reference": "4.2.8",
+      "label": "Adhyāya 4, Āhnika 2 §8",
+      "chapterRef": "4.2"
+    },
+    {
+      "reference": "4.2.9",
+      "label": "Adhyāya 4, Āhnika 2 §9",
+      "chapterRef": "4.2"
+    },
+    {
+      "reference": "4.2.10",
+      "label": "Adhyāya 4, Āhnika 2 §10",
+      "chapterRef": "4.2"
+    },
+    {
+      "reference": "4.2.11",
+      "label": "Adhyāya 4, Āhnika 2 §11",
+      "chapterRef": "4.2"
+    },
+    {
+      "reference": "4.2.12",
+      "label": "Adhyāya 4, Āhnika 2 §12",
+      "chapterRef": "4.2"
+    },
+    {
+      "reference": "4.2.13",
+      "label": "Adhyāya 4, Āhnika 2 §13",
+      "chapterRef": "4.2"
+    },
+    {
+      "reference": "4.2.14",
+      "label": "Adhyāya 4, Āhnika 2 §14",
+      "chapterRef": "4.2"
+    },
+    {
+      "reference": "4.2.15",
+      "label": "Adhyāya 4, Āhnika 2 §15",
+      "chapterRef": "4.2"
+    },
+    {
+      "reference": "4.2.16",
+      "label": "Adhyāya 4, Āhnika 2 §16",
+      "chapterRef": "4.2"
+    },
+    {
+      "reference": "4.2.17",
+      "label": "Adhyāya 4, Āhnika 2 §17",
+      "chapterRef": "4.2"
+    },
+    {
+      "reference": "4.2.18",
+      "label": "Adhyāya 4, Āhnika 2 §18",
+      "chapterRef": "4.2"
+    },
+    {
+      "reference": "4.2.19",
+      "label": "Adhyāya 4, Āhnika 2 §19",
+      "chapterRef": "4.2"
+    },
+    {
+      "reference": "4.2.20",
+      "label": "Adhyāya 4, Āhnika 2 §20",
+      "chapterRef": "4.2"
+    },
+    {
+      "reference": "4.2.21",
+      "label": "Adhyāya 4, Āhnika 2 §21",
+      "chapterRef": "4.2"
+    },
+    {
+      "reference": "4.2.22",
+      "label": "Adhyāya 4, Āhnika 2 §22",
+      "chapterRef": "4.2"
+    },
+    {
+      "reference": "4.2.23",
+      "label": "Adhyāya 4, Āhnika 2 §23",
+      "chapterRef": "4.2"
+    },
+    {
+      "reference": "4.2.24",
+      "label": "Adhyāya 4, Āhnika 2 §24",
+      "chapterRef": "4.2"
+    },
+    {
+      "reference": "4.2.25",
+      "label": "Adhyāya 4, Āhnika 2 §25",
+      "chapterRef": "4.2"
+    },
+    {
+      "reference": "4.2.26",
+      "label": "Adhyāya 4, Āhnika 2 §26",
+      "chapterRef": "4.2"
+    },
+    {
+      "reference": "4.2.27",
+      "label": "Adhyāya 4, Āhnika 2 §27",
+      "chapterRef": "4.2"
+    },
+    {
+      "reference": "4.2.28",
+      "label": "Adhyāya 4, Āhnika 2 §28",
+      "chapterRef": "4.2"
+    },
+    {
+      "reference": "4.2.29",
+      "label": "Adhyāya 4, Āhnika 2 §29",
+      "chapterRef": "4.2"
+    },
+    {
+      "reference": "4.2.30",
+      "label": "Adhyāya 4, Āhnika 2 §30",
+      "chapterRef": "4.2"
+    },
+    {
+      "reference": "4.2.31",
+      "label": "Adhyāya 4, Āhnika 2 §31",
+      "chapterRef": "4.2"
+    },
+    {
+      "reference": "4.2.32",
+      "label": "Adhyāya 4, Āhnika 2 §32",
+      "chapterRef": "4.2"
+    },
+    {
+      "reference": "4.2.33",
+      "label": "Adhyāya 4, Āhnika 2 §33",
+      "chapterRef": "4.2"
+    },
+    {
+      "reference": "4.2.34",
+      "label": "Adhyāya 4, Āhnika 2 §34",
+      "chapterRef": "4.2"
+    },
+    {
+      "reference": "4.2.35",
+      "label": "Adhyāya 4, Āhnika 2 §35",
+      "chapterRef": "4.2"
+    },
+    {
+      "reference": "4.2.36",
+      "label": "Adhyāya 4, Āhnika 2 §36",
+      "chapterRef": "4.2"
+    },
+    {
+      "reference": "4.2.37",
+      "label": "Adhyāya 4, Āhnika 2 §37",
+      "chapterRef": "4.2"
+    },
+    {
+      "reference": "4.2.38",
+      "label": "Adhyāya 4, Āhnika 2 §38",
+      "chapterRef": "4.2"
+    },
+    {
+      "reference": "4.2.39",
+      "label": "Adhyāya 4, Āhnika 2 §39",
+      "chapterRef": "4.2"
+    },
+    {
+      "reference": "4.2.40",
+      "label": "Adhyāya 4, Āhnika 2 §40",
+      "chapterRef": "4.2"
+    },
+    {
+      "reference": "4.2.41",
+      "label": "Adhyāya 4, Āhnika 2 §41",
+      "chapterRef": "4.2"
+    },
+    {
+      "reference": "4.2.42",
+      "label": "Adhyāya 4, Āhnika 2 §42",
+      "chapterRef": "4.2"
+    },
+    {
+      "reference": "4.2.43",
+      "label": "Adhyāya 4, Āhnika 2 §43",
+      "chapterRef": "4.2"
+    },
+    {
+      "reference": "4.2.44",
+      "label": "Adhyāya 4, Āhnika 2 §44",
+      "chapterRef": "4.2"
+    },
+    {
+      "reference": "4.2.45",
+      "label": "Adhyāya 4, Āhnika 2 §45",
+      "chapterRef": "4.2"
+    },
+    {
+      "reference": "4.2.46",
+      "label": "Adhyāya 4, Āhnika 2 §46",
+      "chapterRef": "4.2"
+    },
+    {
+      "reference": "4.2.47",
+      "label": "Adhyāya 4, Āhnika 2 §47",
+      "chapterRef": "4.2"
+    },
+    {
+      "reference": "4.2.48",
+      "label": "Adhyāya 4, Āhnika 2 §48",
+      "chapterRef": "4.2"
+    },
+    {
+      "reference": "4.2.49",
+      "label": "Adhyāya 4, Āhnika 2 §49",
+      "chapterRef": "4.2"
+    },
+    {
+      "reference": "4.2.50",
+      "label": "Adhyāya 4, Āhnika 2 §50",
+      "chapterRef": "4.2"
+    },
+    {
+      "reference": "4.2.51",
+      "label": "Adhyāya 4, Āhnika 2 §51",
+      "chapterRef": "4.2"
+    },
+    {
+      "reference": "5.1.1",
+      "label": "Adhyāya 5, Āhnika 1 §1",
+      "chapterRef": "5.1"
+    },
+    {
+      "reference": "5.1.2",
+      "label": "Adhyāya 5, Āhnika 1 §2",
+      "chapterRef": "5.1"
+    },
+    {
+      "reference": "5.1.3",
+      "label": "Adhyāya 5, Āhnika 1 §3",
+      "chapterRef": "5.1"
+    },
+    {
+      "reference": "5.1.4",
+      "label": "Adhyāya 5, Āhnika 1 §4",
+      "chapterRef": "5.1"
+    },
+    {
+      "reference": "5.1.5",
+      "label": "Adhyāya 5, Āhnika 1 §5",
+      "chapterRef": "5.1"
+    },
+    {
+      "reference": "5.1.6",
+      "label": "Adhyāya 5, Āhnika 1 §6",
+      "chapterRef": "5.1"
+    },
+    {
+      "reference": "5.1.7",
+      "label": "Adhyāya 5, Āhnika 1 §7",
+      "chapterRef": "5.1"
+    },
+    {
+      "reference": "5.1.8",
+      "label": "Adhyāya 5, Āhnika 1 §8",
+      "chapterRef": "5.1"
+    },
+    {
+      "reference": "5.1.9",
+      "label": "Adhyāya 5, Āhnika 1 §9",
+      "chapterRef": "5.1"
+    },
+    {
+      "reference": "5.1.10",
+      "label": "Adhyāya 5, Āhnika 1 §10",
+      "chapterRef": "5.1"
+    },
+    {
+      "reference": "5.1.11",
+      "label": "Adhyāya 5, Āhnika 1 §11",
+      "chapterRef": "5.1"
+    },
+    {
+      "reference": "5.1.12",
+      "label": "Adhyāya 5, Āhnika 1 §12",
+      "chapterRef": "5.1"
+    },
+    {
+      "reference": "5.1.13",
+      "label": "Adhyāya 5, Āhnika 1 §13",
+      "chapterRef": "5.1"
+    },
+    {
+      "reference": "5.1.14",
+      "label": "Adhyāya 5, Āhnika 1 §14",
+      "chapterRef": "5.1"
+    },
+    {
+      "reference": "5.1.15",
+      "label": "Adhyāya 5, Āhnika 1 §15",
+      "chapterRef": "5.1"
+    },
+    {
+      "reference": "5.1.16",
+      "label": "Adhyāya 5, Āhnika 1 §16",
+      "chapterRef": "5.1"
+    },
+    {
+      "reference": "5.1.17",
+      "label": "Adhyāya 5, Āhnika 1 §17",
+      "chapterRef": "5.1"
+    },
+    {
+      "reference": "5.1.18",
+      "label": "Adhyāya 5, Āhnika 1 §18",
+      "chapterRef": "5.1"
+    },
+    {
+      "reference": "5.1.19",
+      "label": "Adhyāya 5, Āhnika 1 §19",
+      "chapterRef": "5.1"
+    },
+    {
+      "reference": "5.1.20",
+      "label": "Adhyāya 5, Āhnika 1 §20",
+      "chapterRef": "5.1"
+    },
+    {
+      "reference": "5.1.21",
+      "label": "Adhyāya 5, Āhnika 1 §21",
+      "chapterRef": "5.1"
+    },
+    {
+      "reference": "5.1.22",
+      "label": "Adhyāya 5, Āhnika 1 §22",
+      "chapterRef": "5.1"
+    },
+    {
+      "reference": "5.1.23",
+      "label": "Adhyāya 5, Āhnika 1 §23",
+      "chapterRef": "5.1"
+    },
+    {
+      "reference": "5.1.24",
+      "label": "Adhyāya 5, Āhnika 1 §24",
+      "chapterRef": "5.1"
+    },
+    {
+      "reference": "5.1.25",
+      "label": "Adhyāya 5, Āhnika 1 §25",
+      "chapterRef": "5.1"
+    },
+    {
+      "reference": "5.1.26",
+      "label": "Adhyāya 5, Āhnika 1 §26",
+      "chapterRef": "5.1"
+    },
+    {
+      "reference": "5.1.27",
+      "label": "Adhyāya 5, Āhnika 1 §27",
+      "chapterRef": "5.1"
+    },
+    {
+      "reference": "5.1.28",
+      "label": "Adhyāya 5, Āhnika 1 §28",
+      "chapterRef": "5.1"
+    },
+    {
+      "reference": "5.1.29",
+      "label": "Adhyāya 5, Āhnika 1 §29",
+      "chapterRef": "5.1"
+    },
+    {
+      "reference": "5.1.30",
+      "label": "Adhyāya 5, Āhnika 1 §30",
+      "chapterRef": "5.1"
+    },
+    {
+      "reference": "5.1.31",
+      "label": "Adhyāya 5, Āhnika 1 §31",
+      "chapterRef": "5.1"
+    },
+    {
+      "reference": "5.1.32",
+      "label": "Adhyāya 5, Āhnika 1 §32",
+      "chapterRef": "5.1"
+    },
+    {
+      "reference": "5.1.33",
+      "label": "Adhyāya 5, Āhnika 1 §33",
+      "chapterRef": "5.1"
+    },
+    {
+      "reference": "5.1.34",
+      "label": "Adhyāya 5, Āhnika 1 §34",
+      "chapterRef": "5.1"
+    },
+    {
+      "reference": "5.1.35",
+      "label": "Adhyāya 5, Āhnika 1 §35",
+      "chapterRef": "5.1"
+    },
+    {
+      "reference": "5.1.36",
+      "label": "Adhyāya 5, Āhnika 1 §36",
+      "chapterRef": "5.1"
+    },
+    {
+      "reference": "5.1.37",
+      "label": "Adhyāya 5, Āhnika 1 §37",
+      "chapterRef": "5.1"
+    },
+    {
+      "reference": "5.1.38",
+      "label": "Adhyāya 5, Āhnika 1 §38",
+      "chapterRef": "5.1"
+    },
+    {
+      "reference": "5.1.39",
+      "label": "Adhyāya 5, Āhnika 1 §39",
+      "chapterRef": "5.1"
+    },
+    {
+      "reference": "5.1.40",
+      "label": "Adhyāya 5, Āhnika 1 §40",
+      "chapterRef": "5.1"
+    },
+    {
+      "reference": "5.1.41",
+      "label": "Adhyāya 5, Āhnika 1 §41",
+      "chapterRef": "5.1"
+    },
+    {
+      "reference": "5.1.42",
+      "label": "Adhyāya 5, Āhnika 1 §42",
+      "chapterRef": "5.1"
+    },
+    {
+      "reference": "5.1.43",
+      "label": "Adhyāya 5, Āhnika 1 §43",
+      "chapterRef": "5.1"
+    },
+    {
+      "reference": "5.2.1",
+      "label": "Adhyāya 5, Āhnika 2 §1",
+      "chapterRef": "5.2"
+    },
+    {
+      "reference": "5.2.2",
+      "label": "Adhyāya 5, Āhnika 2 §2",
+      "chapterRef": "5.2"
+    },
+    {
+      "reference": "5.2.3",
+      "label": "Adhyāya 5, Āhnika 2 §3",
+      "chapterRef": "5.2"
+    },
+    {
+      "reference": "5.2.4",
+      "label": "Adhyāya 5, Āhnika 2 §4",
+      "chapterRef": "5.2"
+    },
+    {
+      "reference": "5.2.5",
+      "label": "Adhyāya 5, Āhnika 2 §5",
+      "chapterRef": "5.2"
+    },
+    {
+      "reference": "5.2.6",
+      "label": "Adhyāya 5, Āhnika 2 §6",
+      "chapterRef": "5.2"
+    },
+    {
+      "reference": "5.2.7",
+      "label": "Adhyāya 5, Āhnika 2 §7",
+      "chapterRef": "5.2"
+    },
+    {
+      "reference": "5.2.8",
+      "label": "Adhyāya 5, Āhnika 2 §8",
+      "chapterRef": "5.2"
+    },
+    {
+      "reference": "5.2.9",
+      "label": "Adhyāya 5, Āhnika 2 §9",
+      "chapterRef": "5.2"
+    },
+    {
+      "reference": "5.2.10",
+      "label": "Adhyāya 5, Āhnika 2 §10",
+      "chapterRef": "5.2"
+    },
+    {
+      "reference": "5.2.11",
+      "label": "Adhyāya 5, Āhnika 2 §11",
+      "chapterRef": "5.2"
+    },
+    {
+      "reference": "5.2.12",
+      "label": "Adhyāya 5, Āhnika 2 §12",
+      "chapterRef": "5.2"
+    },
+    {
+      "reference": "5.2.13",
+      "label": "Adhyāya 5, Āhnika 2 §13",
+      "chapterRef": "5.2"
+    },
+    {
+      "reference": "5.2.14",
+      "label": "Adhyāya 5, Āhnika 2 §14",
+      "chapterRef": "5.2"
+    },
+    {
+      "reference": "5.2.15",
+      "label": "Adhyāya 5, Āhnika 2 §15",
+      "chapterRef": "5.2"
+    },
+    {
+      "reference": "5.2.16",
+      "label": "Adhyāya 5, Āhnika 2 §16",
+      "chapterRef": "5.2"
+    },
+    {
+      "reference": "5.2.17",
+      "label": "Adhyāya 5, Āhnika 2 §17",
+      "chapterRef": "5.2"
+    },
+    {
+      "reference": "5.2.18",
+      "label": "Adhyāya 5, Āhnika 2 §18",
+      "chapterRef": "5.2"
+    },
+    {
+      "reference": "5.2.19",
+      "label": "Adhyāya 5, Āhnika 2 §19",
+      "chapterRef": "5.2"
+    },
+    {
+      "reference": "5.2.20",
+      "label": "Adhyāya 5, Āhnika 2 §20",
+      "chapterRef": "5.2"
+    },
+    {
+      "reference": "5.2.21",
+      "label": "Adhyāya 5, Āhnika 2 §21",
+      "chapterRef": "5.2"
+    },
+    {
+      "reference": "5.2.22",
+      "label": "Adhyāya 5, Āhnika 2 §22",
+      "chapterRef": "5.2"
+    },
+    {
+      "reference": "5.2.23",
+      "label": "Adhyāya 5, Āhnika 2 §23",
+      "chapterRef": "5.2"
+    },
+    {
+      "reference": "5.2.24",
+      "label": "Adhyāya 5, Āhnika 2 §24",
+      "chapterRef": "5.2"
+    }
+  ],
+  "editions": [
+    {
+      "slug": "nyaya-sutra-sa",
+      "language": "sa",
+      "editionType": "original",
+      "title": "Nyāyasūtra with Vātsyāyana's Bhāṣya (GRETIL e-text)",
+      "translator": "",
+      "publisher": "GRETIL, Göttingen State and University Library",
+      "publicationYear": 2020,
+      "source": "gretil",
+      "license": "cc-by-nc-sa-4.0",
+      "rightsStatus": "CC BY-NC-SA 4.0 as recorded in the e-text header",
+      "attributionText": "The Nyaya Sutras, with Vatsyayana's Bhashya. GRETIL e-text 2020-07-31, Göttingen Register of Electronic Texts in Indian Languages. Source edition: Taranatha Nyaya-Tarkatirtha Calcutta : Metropolitan Printing & Publ. 1936-1944 (Calcutta Sanskrit Series, 18 & 19). Input by Indology Student Team, University of Tokyo.",
+      "structureScheme": "reference index; each passage is one sutra as GRETIL numbers it",
+      "isSample": false,
+      "notes": "This e-text was provided to GRETIL in good faith that no copyright rights have been infringed. If anyone wishes to assert copyright over this file, please contact the GRETIL management at gretil(at)sub(dot)uni-goettingen(dot)de. The file will be immediately removed pending resolution of the claim. Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. GRETIL describes the reference scheme as: A reference is assembled consisting of a pragmatic abbreviation of the title: Nyāyasūtra+comm = , the number of the  in arabic numerals, the number of the verse in arabic numerals.. The import cache stores the exact segments that were validated. The reader re-fetches the work from GRETIL and reports when the served count no longer matches the index."
+    },
+    {
+      "slug": "nyaya-sutra-vatsyayana-bhashya",
+      "language": "sa",
+      "editionType": "original",
+      "title": "Vātsyāyana's Nyāyabhāṣya",
+      "translator": "",
+      "publisher": "GRETIL, Göttingen State and University Library",
+      "publicationYear": 2020,
+      "source": "gretil",
+      "license": "cc-by-nc-sa-4.0",
+      "rightsStatus": "CC BY-NC-SA 4.0 as recorded in the e-text header",
+      "attributionText": "Commentary by Vatsyayana (Pakshilasvamin). GRETIL e-text 2020-07-31, Göttingen Register of Electronic Texts in Indian Languages. The two texts share one file on GRETIL and are indexed under their own reference markers. Source edition: Taranatha Nyaya-Tarkatirtha Calcutta : Metropolitan Printing & Publ. 1936-1944 (Calcutta Sanskrit Series, 18 & 19). Input by Indology Student Team, University of Tokyo.",
+      "structureScheme": "reference index; each passage is one sutra as GRETIL numbers it",
+      "isSample": false,
+      "notes": "This e-text was provided to GRETIL in good faith that no copyright rights have been infringed. If anyone wishes to assert copyright over this file, please contact the GRETIL management at gretil(at)sub(dot)uni-goettingen(dot)de. The file will be immediately removed pending resolution of the claim. Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. GRETIL describes the reference scheme as: A reference is assembled consisting of a pragmatic abbreviation of the title: Nyāyasūtra+comm = , the number of the  in arabic numerals, the number of the verse in arabic numerals.. The import cache stores the exact segments that were validated. The reader re-fetches the work from GRETIL and reports when the served count no longer matches the index."
+    }
+  ]
+}

@@ -1,0 +1,175 @@
+{
+  "slug": "obadiah",
+  "title": "Obadiah",
+  "originalTitle": "עובדיה",
+  "transliteration": "",
+  "altTitles": [],
+  "tradition": "judaism",
+  "school": "rabbinic-judaism",
+  "genre": "Prophets",
+  "textType": "Prophets (Nevi'im)",
+  "category": "Tanakh",
+  "subcategory": "Prophets (Nevi'im)",
+  "originalLanguage": "he",
+  "dateStart": -800,
+  "dateEnd": -400,
+  "dateDisplay": "Composite; dates debated",
+  "authorshipStatus": "composite",
+  "author": "",
+  "attributionNote": "Traditional attributions are recorded as tradition, not as settled modern authorship. The book is a composite edited text.",
+  "description": "The shortest book in Tanakh, at just 21 verses, predicting the downfall of the kingdom of Edom. The complete Hebrew text and JPS 1917 translation are included in this imported edition.",
+  "historicalContext": "Part of the Prophets division of the Tanakh. Its composition, editing and dating are debated; the catalogue records the text without claiming a single uncontested origin.",
+  "availabilityNote": "",
+  "featured": false,
+  "featuredNote": "",
+  "refScheme": "chapter.verse",
+  "isSample": false,
+  "textStorage": "streamed",
+  "chapters": [
+    {
+      "ref": "1",
+      "label": "Chapter 1"
+    }
+  ],
+  "passages": [
+    {
+      "reference": "1.1",
+      "label": "1:1",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.2",
+      "label": "1:2",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.3",
+      "label": "1:3",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.4",
+      "label": "1:4",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.5",
+      "label": "1:5",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.6",
+      "label": "1:6",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.7",
+      "label": "1:7",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.8",
+      "label": "1:8",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.9",
+      "label": "1:9",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.10",
+      "label": "1:10",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.11",
+      "label": "1:11",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.12",
+      "label": "1:12",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.13",
+      "label": "1:13",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.14",
+      "label": "1:14",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.15",
+      "label": "1:15",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.16",
+      "label": "1:16",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.17",
+      "label": "1:17",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.18",
+      "label": "1:18",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.19",
+      "label": "1:19",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.20",
+      "label": "1:20",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.21",
+      "label": "1:21",
+      "chapterRef": "1"
+    }
+  ],
+  "editions": [
+    {
+      "slug": "obadiah-hebrew-mam",
+      "language": "he",
+      "editionType": "original",
+      "title": "Miqra according to the Masorah",
+      "translator": "",
+      "publisher": "Digital edition based on the Aleppo Codex tradition",
+      "publicationYear": null,
+      "source": "sefaria",
+      "license": "cc-by-sa",
+      "rightsStatus": "CC BY-SA (as reported by Sefaria)",
+      "attributionText": "Miqra according to the Masorah (MAM), Hebrew Bible text, CC BY-SA, accessed via Sefaria. Vocalisation and accents are reproduced as supplied by the edition.",
+      "structureScheme": "chapter and verse",
+      "isSample": false,
+      "notes": "Complete book. The text is displayed verbatim, including niqqud and cantillation."
+    },
+    {
+      "slug": "obadiah-en-jps1917",
+      "language": "en",
+      "editionType": "translation",
+      "title": "The Holy Scriptures: A New Translation (JPS 1917)",
+      "translator": "Jewish Publication Society of America",
+      "publisher": "Jewish Publication Society of America",
+      "publicationYear": 1917,
+      "source": "sefaria",
+      "license": "public-domain",
+      "rightsStatus": "Public domain",
+      "attributionText": "The Holy Scriptures: A New Translation (JPS 1917), Jewish Publication Society of America. Public domain. Accessed via Sefaria.",
+      "structureScheme": "chapter and verse",
+      "isSample": false,
+      "notes": "Complete book. Public-domain translation; verse numbering follows the supplied edition."
+    }
+  ]
+}

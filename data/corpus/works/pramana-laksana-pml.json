@@ -1,0 +1,169 @@
+{
+  "slug": "pramana-laksana-pml",
+  "title": "Pramāṇa-lakṣaṇa",
+  "originalTitle": "प्रमाणलक्षणम्",
+  "transliteration": "Pramāṇa-lakṣaṇa",
+  "altTitles": [],
+  "tradition": "hinduism",
+  "school": "vedanta",
+  "genre": "Philosophy",
+  "textType": "Sanskrit text (paragraph)",
+  "category": "Dvaita Vedānta",
+  "subcategory": "",
+  "originalLanguage": "sa",
+  "dateStart": null,
+  "dateEnd": null,
+  "dateDisplay": "",
+  "authorshipStatus": "traditional",
+  "author": "madhva",
+  "attributionNote": "Pramāṇa-lakṣaṇa, attributed to Madhvācārya (Ānandatīrtha), as Heritage IITKanpur's Scripture Server catalogues it (PML), on its own shelf.",
+  "description": "The summary above is the one Heritage IITKanpur's Scripture Server publishes for the text; an editor's note for the work itself is still to be written.",
+  "historicalContext": "Read in the Heritage Scripture Server corpus, which continues the Gita Supersite built at IIT Kanpur: the text, its classical commentaries and the translations the server may serve are held together there.",
+  "availabilityNote": "The outline is held: 6 chapter(s) and 19 verse address(es), read from the server's own catalogue. The verses are not stored — the licence forbids bulk harvesting and database reconstruction — and are streamed from the API one verse at a time as the work is read, with the attribution HCAL-1.1 requires and the server's own quota and licence notice.",
+  "featured": false,
+  "featuredNote": "",
+  "refScheme": "chapter.verse",
+  "isSample": false,
+  "textStorage": "streamed",
+  "chapters": [
+    {
+      "ref": "1",
+      "label": "1. देवतानमस्कारपूर्वकं विषयनिर्देशः"
+    },
+    {
+      "ref": "2",
+      "label": "2. प्रायः प्रमाणविचारः"
+    },
+    {
+      "ref": "3",
+      "label": "3. प्रमाणाभासविचारः"
+    },
+    {
+      "ref": "4",
+      "label": "4. स्वोक्तप्रमाणलक्षणदृढीकरणम्"
+    },
+    {
+      "ref": "5",
+      "label": "5. सिंहावलोकनन्यायेन मतानुज्ञाया असङ्गतावन्तर्भावः"
+    },
+    {
+      "ref": "6",
+      "label": "6. उपसंहारः"
+    }
+  ],
+  "passages": [
+    {
+      "reference": "1.1",
+      "label": "1. देवतानमस्कारपूर्वकं विषयनिर्देशः · verse 1",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "2.1",
+      "label": "2. प्रायः प्रमाणविचारः · verse 1",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.2",
+      "label": "2. प्रायः प्रमाणविचारः · verse 2",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.3",
+      "label": "2. प्रायः प्रमाणविचारः · verse 3",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.4",
+      "label": "2. प्रायः प्रमाणविचारः · verse 4",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.5",
+      "label": "2. प्रायः प्रमाणविचारः · verse 5",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.6",
+      "label": "2. प्रायः प्रमाणविचारः · verse 6",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.7",
+      "label": "2. प्रायः प्रमाणविचारः · verse 7",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.8",
+      "label": "2. प्रायः प्रमाणविचारः · verse 8",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "3.1",
+      "label": "3. प्रमाणाभासविचारः · verse 1",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.2",
+      "label": "3. प्रमाणाभासविचारः · verse 2",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.3",
+      "label": "3. प्रमाणाभासविचारः · verse 3",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.4",
+      "label": "3. प्रमाणाभासविचारः · verse 4",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.5",
+      "label": "3. प्रमाणाभासविचारः · verse 5",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.6",
+      "label": "3. प्रमाणाभासविचारः · verse 6",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "4.1",
+      "label": "4. स्वोक्तप्रमाणलक्षणदृढीकरणम् · verse 1",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "5.1",
+      "label": "5. सिंहावलोकनन्यायेन मतानुज्ञाया असङ्गतावन्तर्भावः · verse 1",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "6.1",
+      "label": "6. उपसंहारः · verse 1",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.2",
+      "label": "6. उपसंहारः · verse 2",
+      "chapterRef": "6"
+    }
+  ],
+  "editions": [
+    {
+      "slug": "pramana-laksana-pml-sa",
+      "language": "sa",
+      "editionType": "original",
+      "title": "Pramāṇa-lakṣaṇa (Heritage Scripture Server transcription)",
+      "translator": "",
+      "publisher": "Heritage IITKanpur, Heritage Scripture Server",
+      "publicationYear": null,
+      "source": "gita-supersite",
+      "license": "hcal-1-1",
+      "rightsStatus": "Tier A (the moolam and its transliterations): no modern copyright, freely redistributable. Where the API serves Tier B — the Sanskrit bhāṣya and the AI-generated, community and editorially authored translations — it is displayed non-commercially with attribution and is not relicensed here. Tier C, the authoritative modern-language translations and commentaries, is not served by the API and is not imported.",
+      "attributionText": "Pramāṇa-lakṣaṇa, Madhvācārya (Ānandatīrtha). Accessed via Heritage Scripture Server (heritage.iitk.ac.in), licence HCAL-1.1. Source: https://heritage.iitk.ac.in/PML",
+      "structureScheme": "chapter and verse, as the server's own sections and verse addresses divide the text",
+      "isSample": false,
+      "notes": "The verse index was built from the server's published verse addresses. The verses themselves are fetched from the API at read time and are shown with the licence's attribution; the licence identifier and any watermark the server returns are left in place."
+    }
+  ]
+}

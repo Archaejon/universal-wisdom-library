@@ -1,0 +1,68 @@
+{
+  "slug": "ccel-encyclopedia",
+  "title": "Eclectic Ethereal Encyclopedia",
+  "originalTitle": "",
+  "transliteration": "",
+  "altTitles": [],
+  "tradition": "christianity",
+  "school": "",
+  "genre": "Church history",
+  "textType": "Christian text in English translation",
+  "category": "Church history",
+  "subcategory": "Histories",
+  "originalLanguage": "en",
+  "dateStart": null,
+  "dateEnd": null,
+  "dateDisplay": "",
+  "authorshipStatus": "traditional",
+  "author": "ccel",
+  "attributionNote": "Recorded in the Christian Classics Ethereal Library under Christian Classics Ethereal Library (1993-). The site catalogues the work at https://ccel.org/ccel/ccel/encyclopedia, whose own card names the print edition transcribed here; where the site carries a title by a publisher's permission rather than in public domain, this library does not take it.",
+  "description": "Eclectic Ethereal Encyclopedia — the English text the Christian Classics Ethereal Library publishes for this work, on the site's Histories shelf. The record was created by the CCEL import from the site's own catalogue and plain text; an editor's note for the work itself is still to be written.",
+  "historicalContext": "Read in the Christian Classics Ethereal Library's catalogue, whose shelves follow the site's own division of Christian literature, and whose transcription follows the print edition Various.",
+  "availabilityNote": "Complete in the Christian Classics Ethereal Library's plain-text edition: 1 chapter(s), 2 paragraph(s), 11 words. The divisions are the headings of the site's own text, which the library stores rather than asking the site for again when the work is read. The text is public domain and is displayed with the library's credit.",
+  "featured": false,
+  "featuredNote": "",
+  "refScheme": "chapter.paragraph",
+  "isSample": false,
+  "textStorage": "local",
+  "chapters": [
+    {
+      "ref": "1",
+      "label": "Eclectic Ethereal Encyclopedia"
+    }
+  ],
+  "passages": [
+    {
+      "reference": "1.1",
+      "label": "Eclectic Ethereal Encyclopedia §1",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.2",
+      "label": "Eclectic Ethereal Encyclopedia §2",
+      "chapterRef": "1"
+    }
+  ],
+  "editions": [
+    {
+      "slug": "ccel-encyclopedia-en",
+      "language": "en",
+      "editionType": "translation",
+      "title": "Eclectic Ethereal Encyclopedia",
+      "translator": "",
+      "publisher": "Christian Classics Ethereal Library",
+      "publicationYear": null,
+      "source": "ccel",
+      "license": "public-domain",
+      "rightsStatus": "Public Domain, as the Christian Classics Ethereal Library states for this work on its own card",
+      "attributionText": "Text from the Christian Classics Ethereal Library (ccel.org), which transcribed and published this edition from Various. The translation is public domain; the transcription is credited to the library.",
+      "structureScheme": "chapter and paragraph, the chapters being the divisions of the site's plain text",
+      "isSample": false,
+      "notes": "Imported from the plain-text file the CCEL publishes for this work; its headings divide the work, its blank lines separate the paragraphs, and nothing is fetched from ccel.org when the work is read.",
+      "texts": {
+        "1.1": "Eclectic Ethereal Encyclopedia",
+        "1.2": "[About the EEC; Contact Information] [Abbreviations for Sources]"
+      }
+    }
+  ]
+}

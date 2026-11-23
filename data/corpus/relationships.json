@@ -1,0 +1,194 @@
+[
+  {
+    "from": "bhagavad-gita:1.1",
+    "to": "mahabharata:6.25.1",
+    "type": "editorial_connection",
+    "confidence": "explicit",
+    "description": "The Bhagavad Gita opens inside the Mahabharata, at the start of the Bhishma Parva, when Arjuna asks Krishna to place his chariot between the two armies. Ganguli prints the eighteen chapters of the Gita as sections 25 to 42 of that book, each headed '[Bhagavad Gita Chapter …]'.",
+    "evidence": "The imported Mahabharata text marks the Gita chapters in the section headings: Book 6, Section XXV begins '[(Bhagavad Gita Chapter I)]' and Section XLII '[(Bhagavad Gita, Chapter XVIII)]'."
+  },
+  {
+    "from": "bhagavad-gita:18.69",
+    "to": "mahabharata:6.42.1",
+    "type": "editorial_connection",
+    "confidence": "explicit",
+    "description": "The Gita ends with Krishna's final instruction and Arjuna's reply, after which the Mahabharata narrative of the Bhishma Parva resumes. This is the closing point of the eighteen chapters embedded in Book 6.",
+    "evidence": "Book 6, Section XLII of Ganguli's translation carries the heading '[(Bhagavad Gita, Chapter XVIII)]' and closes the Gita before the epic narrative continues."
+  },
+  {
+    "from": "genesis:1.1",
+    "to": "gospel-of-john:1.1",
+    "type": "shared_theme",
+    "confidence": "thematic",
+    "description": "Both openings speak of a beginning and of divine creative speech, but John's Logos theology is a later development, not a quotation of Genesis.",
+    "evidence": "Verbal and thematic resonance ('beginning', creation through speech/Word). No explicit citation formula in the Johannine prologue."
+  },
+  {
+    "from": "genesis:1.1",
+    "to": "tao-te-ching:1",
+    "type": "shared_theme",
+    "confidence": "thematic",
+    "description": "Both texts distinguish an ultimate source from the named, differentiated world. The metaphysical frameworks are not equivalent.",
+    "evidence": "Genesis speaks of God creating heaven and earth; the Daodejing speaks of the nameless as the origin of heaven and earth. Comparison is thematic only."
+  },
+  {
+    "from": "genesis:1.1",
+    "to": "kojiki:1.1",
+    "type": "parallel_narrative",
+    "confidence": "thematic",
+    "description": "Both are opening creation accounts in which divine beings and the ordering of heaven and earth figure centrally. They belong to different mythic and ritual worlds.",
+    "evidence": "Comparative study of creation narratives. No literary dependence is claimed."
+  },
+  {
+    "from": "genesis:1.1",
+    "to": "quran:2.255",
+    "type": "shared_theme",
+    "confidence": "thematic",
+    "description": "Both passages affirm a single sovereign creator who is not dependent on anything else. The Qur'anic verse is not a citation of Genesis.",
+    "evidence": "Themes of creation, sovereignty and divine self-subsistence. The Qur'an engages biblical traditions in complex ways that cannot be reduced to direct borrowing."
+  },
+  {
+    "from": "gospel-of-john:1.1",
+    "to": "tao-te-ching:1",
+    "type": "shared_theme",
+    "confidence": "superficial",
+    "description": "Both texts use language of word, name and origin, but the resemblance is largely verbal. John identifies the Logos with God; the Daodejing warns that the enduring Dao cannot be named.",
+    "evidence": "Lexical overlap only. This relationship is included as an example of a comparison that should not be overread."
+  },
+  {
+    "from": "gospel-of-matthew:5.7",
+    "to": "quran:1.3",
+    "type": "shared_theme",
+    "confidence": "thematic",
+    "description": "Mercy is presented as a divine attribute and as a human obligation. The two texts belong to different scriptural and theological traditions.",
+    "evidence": "Both use mercy/compassion language; no direct textual dependence is asserted."
+  },
+  {
+    "from": "gospel-of-matthew:5.7",
+    "to": "dhammapada:5",
+    "type": "scholarly_comparison",
+    "confidence": "thematic",
+    "description": "Mercy and non-hatred are compared in modern scholarship as ethical responses to conflict, but the underlying doctrines of divine mercy and kammic causation differ.",
+    "evidence": "Comparative ethics; the comparison is interpretive, not historical."
+  },
+  {
+    "from": "gospel-of-matthew:5.7",
+    "to": "psalms:23.6",
+    "type": "shared_theme",
+    "confidence": "thematic",
+    "description": "Both passages use mercy/steadfast love as a power that accompanies and responds to the faithful.",
+    "evidence": "The Greek eleos in Matthew and the Hebrew chesed in Psalm 23 overlap in translation but carry different covenantal and theological resonances."
+  },
+  {
+    "from": "quran:1.1",
+    "to": "psalms:23.6",
+    "type": "shared_theme",
+    "confidence": "thematic",
+    "description": "Divine compassion frames the opening of the Qur'an and accompanies the psalmist through life. The comparison is thematic, not genealogical.",
+    "evidence": "Compassion/mercy vocabulary in different scriptural contexts."
+  },
+  {
+    "from": "quran:49.13",
+    "to": "analects:1.2",
+    "type": "shared_theme",
+    "confidence": "thematic",
+    "description": "Both passages ground ethics in relations that precede the individual: created peoples and tribes in the Qur'an, family and communal harmony in the Analects.",
+    "evidence": "Thematic comparison of social ethics; no historical contact is claimed."
+  },
+  {
+    "from": "quran:49.13",
+    "to": "gospel-of-matthew:5.9",
+    "type": "shared_theme",
+    "confidence": "thematic",
+    "description": "Peacemaking and mutual recognition are presented as religiously significant practices, though the social settings and theological warrants differ.",
+    "evidence": "Thematic comparison only."
+  },
+  {
+    "from": "bhagavad-gita:2.13",
+    "to": "tao-te-ching:81",
+    "type": "shared_theme",
+    "confidence": "thematic",
+    "description": "Both texts recommend action without grasping at results, but the Gita's framework is sacrificial duty and yoga, while the Daodejing's is non-contention and the Way.",
+    "evidence": "Thematic comparison; the terms 'action', 'fruit' and 'non-striving' are not equivalents."
+  },
+  {
+    "from": "bhagavad-gita:2.13",
+    "to": "meditations:2.1",
+    "type": "shared_theme",
+    "confidence": "thematic",
+    "description": "Both are disciplines of interior detachment: the Gita trains action without attachment to fruits, while Marcus trains judgement and desire.",
+    "evidence": "Comparative philosophical reading; no direct influence is established."
+  },
+  {
+    "from": "bhagavad-gita:2.16",
+    "to": "dhammapada:1",
+    "type": "shared_theme",
+    "confidence": "thematic",
+    "description": "Both describe a causal chain in which the mind's engagement with sense objects shapes suffering and action.",
+    "evidence": "Thematic comparison of mind, desire and consequence. The metaphysical systems differ."
+  },
+  {
+    "from": "dhammapada:5",
+    "to": "acaranga-sutra:1.1.2",
+    "type": "shared_theme",
+    "confidence": "thematic",
+    "description": "Both traditions treat non-hatred and non-harm as central disciplines. Jain non-violence is more extensive in scope, extending to all living beings.",
+    "evidence": "Comparative ethics; the historical relationship between the traditions is complex and not asserted here."
+  },
+  {
+    "from": "gospel-of-matthew:5.7",
+    "to": "acaranga-sutra:1.1.2",
+    "type": "shared_theme",
+    "confidence": "thematic",
+    "description": "Mercy and non-harm are both responses to the suffering of others, but one is framed by divine mercy and the other by ascetic discipline and the avoidance of injury.",
+    "evidence": "Thematic comparison only."
+  },
+  {
+    "from": "apology:38a",
+    "to": "meditations:2.1",
+    "type": "shared_theme",
+    "confidence": "thematic",
+    "description": "Both texts make philosophy a daily practice of examining one's life and judgements.",
+    "evidence": "The Stoics drew on Socrates, but this passage of the Meditations does not cite the Apology."
+  },
+  {
+    "from": "apology:38a",
+    "to": "analects:1.1",
+    "type": "scholarly_comparison",
+    "confidence": "thematic",
+    "description": "Both passages treat learning and self-examination as central to a good life, within very different social and metaphysical frameworks.",
+    "evidence": "Comparative philosophical reading; no historical contact is claimed."
+  },
+  {
+    "from": "meditations:2.15",
+    "to": "psalms:23.4",
+    "type": "shared_theme",
+    "confidence": "thematic",
+    "description": "Both confront the brevity and danger of life. The psalm speaks of accompaniment through the valley; the Meditations counsel a disciplined acceptance of nature.",
+    "evidence": "Thematic comparison; the consolations offered are different."
+  },
+  {
+    "from": "analects:1.8",
+    "to": "tao-te-ching:8",
+    "type": "shared_theme",
+    "confidence": "thematic",
+    "description": "Both value a form of humility: the Confucian emphasis on gravity and correction of faults, and the Daoist image of water that does not contend.",
+    "evidence": "Thematic comparison within Chinese thought; the texts are not saying the same thing."
+  },
+  {
+    "from": "gospel-of-matthew:5.3",
+    "to": "dhammapada:2",
+    "type": "scholarly_comparison",
+    "confidence": "thematic",
+    "description": "Both pronounce a kind of happiness or blessing on a disposition rather than on external circumstance. The frameworks of divine kingdom and kammic consequence differ.",
+    "evidence": "Comparative ethics; not a claim of influence."
+  },
+  {
+    "from": "tao-te-ching:8",
+    "to": "quran:49.13",
+    "type": "editorial_connection",
+    "confidence": "thematic",
+    "description": "Curated for comparison because both texts displace status: water seeks the low place, and the Qur'an measures honour by God-consciousness rather than lineage.",
+    "evidence": "Editorial curation only. No historical relationship or direct influence is implied."
+  }
+]

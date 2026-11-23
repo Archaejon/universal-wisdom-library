@@ -1,0 +1,949 @@
+{
+  "slug": "vedic-reader",
+  "title": "A Vedic Reader for Students",
+  "originalTitle": "",
+  "transliteration": "Rgveda-pāṭha",
+  "altTitles": [
+    "A Vedic Reader",
+    "Macdonell's Vedic Reader"
+  ],
+  "tradition": "hinduism",
+  "school": "",
+  "genre": "Anthology",
+  "textType": "Selected hymns with introduction and notes",
+  "category": "Veda",
+  "subcategory": "Rigveda",
+  "originalLanguage": "sa",
+  "dateStart": -1500,
+  "dateEnd": -1000,
+  "dateDisplay": "Hymns composed c. 1500–1000 BCE; the reader published 1917",
+  "authorshipStatus": "anonymous",
+  "author": "",
+  "attributionNote": "The hymns are anonymous. The selection, the introduction and the grammatical and explanatory notes are Arthur Anthony Macdonell's, written for students beginning Sanskrit and Vedic poetry.",
+  "description": "Macdonell's reader introduces the Rigveda through thirty hymns chosen to illustrate its gods, its style and its thought, headed by the deities addressed — Agni, Indra, the Maruts, Varuna, Ushas, the funeral hymns, the gambler and the hymn of creation. An introductory essay on age, arrangement, language, metre and religion, and a glossary, make the volume a compact course in Vedic poetry rather than a complete translation.",
+  "historicalContext": "Arthur Anthony Macdonell (1854–1930) was Boden Professor of Sanskrit at Oxford and one of the editors of the Vedic index. His reader, first published in 1917, trained several generations of Sanskritists and is still used for the study of Vedic grammar and metre.",
+  "availabilityNote": "Complete as published: the introduction, thirty selected hymns with notes and the glossary, streamed from the Internet Sacred Text Archive at read time. The archive serves the reader as one page, so the library splits it at the printed headings — the introduction's ten sections and each hymn — and serves one heading per chapter. This is a selection from the Rigveda, not the whole collection.",
+  "featured": false,
+  "featuredNote": "",
+  "refScheme": "chapter.paragraph",
+  "isSample": false,
+  "textStorage": "streamed",
+  "chapters": [
+    {
+      "ref": "1",
+      "label": "Introduction"
+    },
+    {
+      "ref": "2",
+      "label": "Agni"
+    },
+    {
+      "ref": "3",
+      "label": "Savitr"
+    },
+    {
+      "ref": "4",
+      "label": "Marútas"
+    },
+    {
+      "ref": "5",
+      "label": "Visnu"
+    },
+    {
+      "ref": "6",
+      "label": "Indra"
+    },
+    {
+      "ref": "7",
+      "label": "Rudrá"
+    },
+    {
+      "ref": "8",
+      "label": "Apám Nápat"
+    },
+    {
+      "ref": "9",
+      "label": "Mitrá"
+    },
+    {
+      "ref": "10",
+      "label": "Brhaspáti"
+    },
+    {
+      "ref": "11",
+      "label": "Usás"
+    },
+    {
+      "ref": "12",
+      "label": "Parjánya"
+    },
+    {
+      "ref": "13",
+      "label": "Pusán"
+    },
+    {
+      "ref": "14",
+      "label": "Ápas"
+    },
+    {
+      "ref": "15",
+      "label": "Mitrá-varuna"
+    },
+    {
+      "ref": "16",
+      "label": "Súrya"
+    },
+    {
+      "ref": "17",
+      "label": "Asvína."
+    },
+    {
+      "ref": "18",
+      "label": "Váruna"
+    },
+    {
+      "ref": "19",
+      "label": "Mandukas"
+    },
+    {
+      "ref": "20",
+      "label": "Vísve Deváh"
+    },
+    {
+      "ref": "21",
+      "label": "Sóma"
+    },
+    {
+      "ref": "22",
+      "label": "Funeral Hymns"
+    },
+    {
+      "ref": "23",
+      "label": "Pitáras"
+    },
+    {
+      "ref": "24",
+      "label": "Hymn Of The Gambler"
+    },
+    {
+      "ref": "25",
+      "label": "Púrusa"
+    },
+    {
+      "ref": "26",
+      "label": "Rátri"
+    },
+    {
+      "ref": "27",
+      "label": "Hymn Of Creation"
+    },
+    {
+      "ref": "28",
+      "label": "Yamá"
+    },
+    {
+      "ref": "29",
+      "label": "Váta"
+    }
+  ],
+  "passages": [
+    {
+      "reference": "1.1",
+      "label": "Introduction §1",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.2",
+      "label": "Introduction §2",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.3",
+      "label": "Introduction §3",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.4",
+      "label": "Introduction §4",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.5",
+      "label": "Introduction §5",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.6",
+      "label": "Introduction §6",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.7",
+      "label": "Introduction §7",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.8",
+      "label": "Introduction §8",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.9",
+      "label": "Introduction §9",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.10",
+      "label": "Introduction §10",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.11",
+      "label": "Introduction §11",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.12",
+      "label": "Introduction §12",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.13",
+      "label": "Introduction §13",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.14",
+      "label": "Introduction §14",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.15",
+      "label": "Introduction §15",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.16",
+      "label": "Introduction §16",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.17",
+      "label": "Introduction §17",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.18",
+      "label": "Introduction §18",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.19",
+      "label": "Introduction §19",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.20",
+      "label": "Introduction §20",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.21",
+      "label": "Introduction §21",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.22",
+      "label": "Introduction §22",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.23",
+      "label": "Introduction §23",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.24",
+      "label": "Introduction §24",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.25",
+      "label": "Introduction §25",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.26",
+      "label": "Introduction §26",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.27",
+      "label": "Introduction §27",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.28",
+      "label": "Introduction §28",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.29",
+      "label": "Introduction §29",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.30",
+      "label": "Introduction §30",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.31",
+      "label": "Introduction §31",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.32",
+      "label": "Introduction §32",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.33",
+      "label": "Introduction §33",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.34",
+      "label": "Introduction §34",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.35",
+      "label": "Introduction §35",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.36",
+      "label": "Introduction §36",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.37",
+      "label": "Introduction §37",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.38",
+      "label": "Introduction §38",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.39",
+      "label": "Introduction §39",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.40",
+      "label": "Introduction §40",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.41",
+      "label": "Introduction §41",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.42",
+      "label": "Introduction §42",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.43",
+      "label": "Introduction §43",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.44",
+      "label": "Introduction §44",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.45",
+      "label": "Introduction §45",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.46",
+      "label": "Introduction §46",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "2.1",
+      "label": "Agni §1",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.2",
+      "label": "Agni §2",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.3",
+      "label": "Agni §3",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.4",
+      "label": "Agni §4",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.5",
+      "label": "Agni §5",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.6",
+      "label": "Agni §6",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.7",
+      "label": "Agni §7",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.8",
+      "label": "Agni §8",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.9",
+      "label": "Agni §9",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.10",
+      "label": "Agni §10",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.11",
+      "label": "Agni §11",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.12",
+      "label": "Agni §12",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.13",
+      "label": "Agni §13",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.14",
+      "label": "Agni §14",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.15",
+      "label": "Agni §15",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.16",
+      "label": "Agni §16",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "3.1",
+      "label": "Savitr §1",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.2",
+      "label": "Savitr §2",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.3",
+      "label": "Savitr §3",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "4.1",
+      "label": "Marútas §1",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.2",
+      "label": "Marútas §2",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.3",
+      "label": "Marútas §3",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.4",
+      "label": "Marútas §4",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.5",
+      "label": "Marútas §5",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.6",
+      "label": "Marútas §6",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.7",
+      "label": "Marútas §7",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "5.1",
+      "label": "Visnu §1",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.2",
+      "label": "Visnu §2",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.3",
+      "label": "Visnu §3",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "6.1",
+      "label": "Indra §1",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.2",
+      "label": "Indra §2",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.3",
+      "label": "Indra §3",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.4",
+      "label": "Indra §4",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.5",
+      "label": "Indra §5",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.6",
+      "label": "Indra §6",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.7",
+      "label": "Indra §7",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.8",
+      "label": "Indra §8",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.9",
+      "label": "Indra §9",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.10",
+      "label": "Indra §10",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.11",
+      "label": "Indra §11",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.12",
+      "label": "Indra §12",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.13",
+      "label": "Indra §13",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.14",
+      "label": "Indra §14",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.15",
+      "label": "Indra §15",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "7.1",
+      "label": "Rudrá §1",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.2",
+      "label": "Rudrá §2",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.3",
+      "label": "Rudrá §3",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.4",
+      "label": "Rudrá §4",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.5",
+      "label": "Rudrá §5",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "8.1",
+      "label": "Apám Nápat §1",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.2",
+      "label": "Apám Nápat §2",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "9.1",
+      "label": "Mitrá §1",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.2",
+      "label": "Mitrá §2",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.3",
+      "label": "Mitrá §3",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.4",
+      "label": "Mitrá §4",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "10.1",
+      "label": "Brhaspáti §1",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.2",
+      "label": "Brhaspáti §2",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.3",
+      "label": "Brhaspáti §3",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "11.1",
+      "label": "Usás §1",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.2",
+      "label": "Usás §2",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.3",
+      "label": "Usás §3",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.4",
+      "label": "Usás §4",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "12.1",
+      "label": "Parjánya §1",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "13.1",
+      "label": "Pusán §1",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.2",
+      "label": "Pusán §2",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "14.1",
+      "label": "Ápas §1",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.2",
+      "label": "Ápas §2",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.3",
+      "label": "Ápas §3",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "15.1",
+      "label": "Mitrá-varuna §1",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.2",
+      "label": "Mitrá-varuna §2",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.3",
+      "label": "Mitrá-varuna §3",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.4",
+      "label": "Mitrá-varuna §4",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "16.1",
+      "label": "Súrya §1",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.2",
+      "label": "Súrya §2",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.3",
+      "label": "Súrya §3",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.4",
+      "label": "Súrya §4",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "17.1",
+      "label": "Asvína. §1",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.2",
+      "label": "Asvína. §2",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.3",
+      "label": "Asvína. §3",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.4",
+      "label": "Asvína. §4",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.5",
+      "label": "Asvína. §5",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.6",
+      "label": "Asvína. §6",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "18.1",
+      "label": "Váruna §1",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.2",
+      "label": "Váruna §2",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.3",
+      "label": "Váruna §3",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.4",
+      "label": "Váruna §4",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.5",
+      "label": "Váruna §5",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.6",
+      "label": "Váruna §6",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "19.1",
+      "label": "Mandukas §1",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "20.1",
+      "label": "Vísve Deváh §1",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "21.1",
+      "label": "Sóma §1",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.2",
+      "label": "Sóma §2",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.3",
+      "label": "Sóma §3",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.4",
+      "label": "Sóma §4",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.5",
+      "label": "Sóma §5",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.6",
+      "label": "Sóma §6",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.7",
+      "label": "Sóma §7",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.8",
+      "label": "Sóma §8",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.9",
+      "label": "Sóma §9",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "22.1",
+      "label": "Funeral Hymns §1",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "23.1",
+      "label": "Pitáras §1",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "24.1",
+      "label": "Hymn Of The Gambler §1",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "25.1",
+      "label": "Púrusa §1",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "26.1",
+      "label": "Rátri §1",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "27.1",
+      "label": "Hymn Of Creation §1",
+      "chapterRef": "27"
+    },
+    {
+      "reference": "28.1",
+      "label": "Yamá §1",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "28.2",
+      "label": "Yamá §2",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "28.3",
+      "label": "Yamá §3",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "28.4",
+      "label": "Yamá §4",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "29.1",
+      "label": "Váta §1",
+      "chapterRef": "29"
+    }
+  ],
+  "editions": [
+    {
+      "slug": "vedic-reader-en",
+      "language": "en",
+      "editionType": "translation",
+      "title": "A Vedic Reader for Students",
+      "translator": "Arthur Anthony Macdonell",
+      "publisher": "Internet Sacred Text Archive",
+      "publicationYear": 1917,
+      "source": "sacred-texts",
+      "license": "public-domain",
+      "rightsStatus": "Public domain in the United States",
+      "attributionText": "A Vedic Reader for Students, translated by Arthur Anthony Macdonell (1917). A Vedic Reader for Students. Public domain in the United States. Digital text from the Internet Sacred Text Archive.",
+      "structureScheme": "heading and paragraph index; each chapter is one introductory section or one selected hymn",
+      "isSample": false,
+      "notes": "The import cache stores the exact segments that were validated. The reader re-fetches the chapter from the host and reports when the served count no longer matches the index."
+    }
+  ]
+}

@@ -1,0 +1,175 @@
+{
+  "slug": "jewish-thought-letter-to-the-ten-lost-tribes-of-israel",
+  "title": "Letter to the Ten Lost Tribes of Israel",
+  "originalTitle": "אגרת אל עשרת השבטים",
+  "transliteration": "",
+  "altTitles": [],
+  "tradition": "judaism",
+  "school": "rabbinic-judaism",
+  "genre": "Jewish Thought",
+  "textType": "Theology and philosophy",
+  "category": "Jewish Thought",
+  "subcategory": "Acharonim",
+  "originalLanguage": "he",
+  "dateStart": 900,
+  "dateEnd": 1950,
+  "dateDisplay": "Medieval and modern Jewish thought",
+  "authorshipStatus": "established",
+  "author": "",
+  "attributionNote": "Authorship follows the Sefaria catalogue record for this work. Where a text is traditionally attributed or collectively compiled, the library does not assert a single author beyond the source's own metadata.",
+  "description": "Letter sent from rabbis in Israel to the tribes that they hoped would be found by an emissary sent to Yemen in 1830. Complete Jewish Thought text imported from Sefaria; the exact edition and licence are shown with each version.",
+  "historicalContext": "Jewish philosophy and theology argue about God, revelation, law and the human good. These works belong to their own schools and arguments; the library does not flatten them into a single Jewish doctrine.",
+  "availabilityNote": "Imported from Sefaria. Version, source and licence are recorded per edition.",
+  "featured": false,
+  "featuredNote": "",
+  "refScheme": "chapter.paragraph",
+  "isSample": false,
+  "textStorage": "streamed",
+  "chapters": [
+    {
+      "ref": "1",
+      "label": "Paragraph 1"
+    }
+  ],
+  "passages": [
+    {
+      "reference": "1.1",
+      "label": "1:1",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.2",
+      "label": "1:2",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.3",
+      "label": "1:3",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.4",
+      "label": "1:4",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.5",
+      "label": "1:5",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.6",
+      "label": "1:6",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.7",
+      "label": "1:7",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.8",
+      "label": "1:8",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.9",
+      "label": "1:9",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.10",
+      "label": "1:10",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.11",
+      "label": "1:11",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.12",
+      "label": "1:12",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.13",
+      "label": "1:13",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.14",
+      "label": "1:14",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.15",
+      "label": "1:15",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.16",
+      "label": "1:16",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.17",
+      "label": "1:17",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.18",
+      "label": "1:18",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.19",
+      "label": "1:19",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.20",
+      "label": "1:20",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.21",
+      "label": "1:21",
+      "chapterRef": "1"
+    }
+  ],
+  "editions": [
+    {
+      "slug": "jewish-thought-letter-to-the-ten-lost-tribes-of-israel-hebrew-sefaria",
+      "language": "he",
+      "editionType": "original",
+      "title": "Igeret haSheluha meHakme veRabane haAskenazim, Amsterdam 1831",
+      "translator": "",
+      "publisher": "https://books.google.co.il/books?id=PRBpAAAAcAAJ&pg=PP1#v=onepage&q&f=false",
+      "publicationYear": null,
+      "source": "sefaria",
+      "license": "public-domain",
+      "rightsStatus": "Public Domain",
+      "attributionText": "Igeret haSheluha meHakme veRabane haAskenazim, Amsterdam 1831; licence: Public Domain; source: https://books.google.co.il/books?id=PRBpAAAAcAAJ&pg=PP1#v=onepage&q&f=false. Retrieved via Sefaria on 2026-10-20.",
+      "structureScheme": "chapter and paragraph",
+      "isSample": false,
+      "notes": "Complete work imported from Sefaria. Text is displayed as supplied by the named edition; HTML markup has been removed."
+    },
+    {
+      "slug": "jewish-thought-letter-to-the-ten-lost-tribes-of-israel-english-sefaria-1",
+      "language": "en",
+      "editionType": "translation",
+      "title": "Sefaria Community Translation",
+      "translator": "",
+      "publisher": "https://www.sefaria.org",
+      "publicationYear": null,
+      "source": "sefaria",
+      "license": "cc0-1.0",
+      "rightsStatus": "CC0",
+      "attributionText": "Sefaria Community Translation; licence: CC0; source: https://www.sefaria.org. Retrieved via Sefaria on 2026-10-20.",
+      "structureScheme": "chapter and paragraph",
+      "isSample": false,
+      "notes": "Complete work imported from Sefaria. Text is displayed as supplied by the named edition; HTML markup has been removed."
+    }
+  ]
+}

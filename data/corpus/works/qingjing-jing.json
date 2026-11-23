@@ -1,0 +1,174 @@
+{
+  "slug": "qingjing-jing",
+  "title": "The Classic of Purity",
+  "originalTitle": "清靜經",
+  "transliteration": "Qīngjìng jīng",
+  "altTitles": [
+    "Qingjing Jing",
+    "Khing Kâng King",
+    "The Classic of Purity and Rest",
+    "Taishang Laojun shuo chang qingjing jing"
+  ],
+  "tradition": "taoism",
+  "school": "daoist",
+  "genre": "Scripture",
+  "textType": "Contemplative scripture",
+  "category": "Scripture",
+  "subcategory": "Short Daoist classics",
+  "originalLanguage": "zh",
+  "dateStart": 700,
+  "dateEnd": 900,
+  "dateDisplay": "Tang dynasty recension of earlier material",
+  "authorshipStatus": "anonymous",
+  "author": "",
+  "attributionNote": "The scripture is presented as the teaching of the Most High Lord Lao to the Perfected One of the Eastern Florescence. Its date is uncertain; the received text is usually placed in the Tang and was transmitted with a commentary attributed to Ge Xuan.",
+  "description": "The Classic of Purity is one of the most widely recited short scriptures of Daoism: a compact teaching on the pure and still heart as the root of the Dao, on the desires and disturbances that obscure it, and on the return to stillness in which the true Dao is known. It is chanted in temples and used as a primer of Daoist contemplation, and its phrases circulate far beyond monastic settings.",
+  "historicalContext": "The Qingjing jing was transmitted with a commentary ascribed to Ge Xuan and became a standard liturgical and devotional text in the Tang and Song. Legge printed a translation among the appendixes to his second volume of Texts of Taoism (1891), where it illustrates the devotional literature that grew around the philosophical classics.",
+  "availabilityNote": "Complete. Legge's translation of the classic is streamed from the Internet Sacred Text Archive at read time; it is a single short page, presented here as one chapter. The appendixes and notes of the volume are not part of the work.",
+  "featured": false,
+  "featuredNote": "",
+  "refScheme": "chapter.paragraph",
+  "isSample": false,
+  "textStorage": "streamed",
+  "chapters": [
+    {
+      "ref": "1",
+      "label": "The Classic of Purity"
+    }
+  ],
+  "passages": [
+    {
+      "reference": "1.1",
+      "label": "The Classic of Purity §1",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.2",
+      "label": "The Classic of Purity §2",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.3",
+      "label": "The Classic of Purity §3",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.4",
+      "label": "The Classic of Purity §4",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.5",
+      "label": "The Classic of Purity §5",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.6",
+      "label": "The Classic of Purity §6",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.7",
+      "label": "The Classic of Purity §7",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.8",
+      "label": "The Classic of Purity §8",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.9",
+      "label": "The Classic of Purity §9",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.10",
+      "label": "The Classic of Purity §10",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.11",
+      "label": "The Classic of Purity §11",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.12",
+      "label": "The Classic of Purity §12",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.13",
+      "label": "The Classic of Purity §13",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.14",
+      "label": "The Classic of Purity §14",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.15",
+      "label": "The Classic of Purity §15",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.16",
+      "label": "The Classic of Purity §16",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.17",
+      "label": "The Classic of Purity §17",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.18",
+      "label": "The Classic of Purity §18",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.19",
+      "label": "The Classic of Purity §19",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.20",
+      "label": "The Classic of Purity §20",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.21",
+      "label": "The Classic of Purity §21",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.22",
+      "label": "The Classic of Purity §22",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.23",
+      "label": "The Classic of Purity §23",
+      "chapterRef": "1"
+    }
+  ],
+  "editions": [
+    {
+      "slug": "qingjing-jing-en",
+      "language": "en",
+      "editionType": "translation",
+      "title": "The Texts of Taoism, Part II: Appendix I, Khing Kâng King, or 'The Classic of Purity'",
+      "translator": "James Legge",
+      "publisher": "Internet Sacred Text Archive",
+      "publicationYear": 1891,
+      "source": "sacred-texts",
+      "license": "public-domain",
+      "rightsStatus": "Public domain in the United States",
+      "attributionText": "The Texts of Taoism, Part II: Appendix I, Khing Kâng King, or 'The Classic of Purity', translated by James Legge (1891). Sacred Books of the East, vol. 40. Public domain in the United States. Digital text from the Internet Sacred Text Archive.",
+      "structureScheme": "chapter and paragraph index; the whole classic is one chapter",
+      "isSample": false,
+      "notes": "The import cache stores the exact segments that were validated. The reader re-fetches the chapter from the host and reports when the served count no longer matches the index."
+    }
+  ]
+}

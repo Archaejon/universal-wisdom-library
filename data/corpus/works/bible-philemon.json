@@ -1,0 +1,198 @@
+{
+  "slug": "bible-philemon",
+  "title": "Philemon (Christian Bible)",
+  "originalTitle": "ΠΡΟΣ ΦΙΛΗΜΟΝΑ",
+  "transliteration": "",
+  "altTitles": [
+    "Philemon",
+    "Philemon — King James Version"
+  ],
+  "tradition": "christianity",
+  "school": "early-christianity",
+  "genre": "Scripture",
+  "textType": "Biblical book",
+  "category": "New Testament",
+  "subcategory": "Pauline Epistles",
+  "originalLanguage": "grc",
+  "dateStart": 50,
+  "dateEnd": 100,
+  "dateDisplay": "Written in the first century CE, with the canon fixed in the following centuries",
+  "authorshipStatus": "traditional",
+  "author": "",
+  "attributionNote": "The text is anonymous or traditionally attributed; the attribution is part of the work's reception rather than a statement about the surviving author. The catalogue does not adjudicate it.",
+  "description": "A personal appeal on behalf of Onesimus, a enslaved man. This is the book as received in Christian Bibles: the Textus Receptus Greek text beside the King James Version of 1611.",
+  "historicalContext": "Letters attributed to Paul, addressed to congregations and co-workers.",
+  "availabilityNote": "Streamed from the Bolls Bible API. Verse references follow the KJV; the Greek text is the Textus Receptus, which differs from critical editions at some readings.",
+  "featured": false,
+  "featuredNote": "",
+  "refScheme": "chapter.verse",
+  "isSample": false,
+  "textStorage": "streamed",
+  "chapters": [
+    {
+      "ref": "1",
+      "label": "Philemon 1"
+    }
+  ],
+  "passages": [
+    {
+      "reference": "1.1",
+      "label": "Philemon 1:1",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.2",
+      "label": "Philemon 1:2",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.3",
+      "label": "Philemon 1:3",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.4",
+      "label": "Philemon 1:4",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.5",
+      "label": "Philemon 1:5",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.6",
+      "label": "Philemon 1:6",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.7",
+      "label": "Philemon 1:7",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.8",
+      "label": "Philemon 1:8",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.9",
+      "label": "Philemon 1:9",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.10",
+      "label": "Philemon 1:10",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.11",
+      "label": "Philemon 1:11",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.12",
+      "label": "Philemon 1:12",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.13",
+      "label": "Philemon 1:13",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.14",
+      "label": "Philemon 1:14",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.15",
+      "label": "Philemon 1:15",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.16",
+      "label": "Philemon 1:16",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.17",
+      "label": "Philemon 1:17",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.18",
+      "label": "Philemon 1:18",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.19",
+      "label": "Philemon 1:19",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.20",
+      "label": "Philemon 1:20",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.21",
+      "label": "Philemon 1:21",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.22",
+      "label": "Philemon 1:22",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.23",
+      "label": "Philemon 1:23",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.24",
+      "label": "Philemon 1:24",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.25",
+      "label": "Philemon 1:25",
+      "chapterRef": "1"
+    }
+  ],
+  "editions": [
+    {
+      "slug": "bible-philemon-grc",
+      "language": "grc",
+      "editionType": "original",
+      "title": "Textus Receptus (Greek)",
+      "translator": "",
+      "publisher": "Bolls Bible API",
+      "publicationYear": null,
+      "source": "bolls",
+      "license": "public-domain",
+      "rightsStatus": "Public domain",
+      "attributionText": "Textus Receptus Greek text, served by the Bolls Bible API.",
+      "structureScheme": "book, chapter, verse",
+      "isSample": false,
+      "notes": "The Greek text is shown as the API serves it; this library does not collate it against critical editions."
+    },
+    {
+      "slug": "bible-philemon-en-kjv",
+      "language": "en",
+      "editionType": "translation",
+      "title": "King James Version (1611)",
+      "translator": "The King James Bible translators",
+      "publisher": "Bolls Bible API",
+      "publicationYear": 1611,
+      "source": "bolls",
+      "license": "public-domain",
+      "rightsStatus": "Public domain",
+      "attributionText": "The Holy Bible, King James Version (1611). Public domain. Served by the Bolls Bible API.",
+      "structureScheme": "book, chapter, verse",
+      "isSample": false,
+      "notes": "Strong's numbers included in the API's markup are not displayed; the verse wording is unchanged."
+    }
+  ]
+}

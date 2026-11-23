@@ -1,0 +1,209 @@
+{
+  "slug": "yati-pranava-kalpa-ypk",
+  "title": "Yati-praṇava-kalpa",
+  "originalTitle": "यतिप्रणवकल्पः",
+  "transliteration": "Yati-praṇava-kalpa",
+  "altTitles": [],
+  "tradition": "hinduism",
+  "school": "",
+  "genre": "Scripture",
+  "textType": "Sanskrit verse (sloka)",
+  "category": "Dharmaśāstra",
+  "subcategory": "",
+  "originalLanguage": "sa",
+  "dateStart": null,
+  "dateEnd": null,
+  "dateDisplay": "",
+  "authorshipStatus": "traditional",
+  "author": "madhva",
+  "attributionNote": "Yati-praṇava-kalpa, attributed to Madhvācārya (Ānandatīrtha), as Heritage IITKanpur's Scripture Server catalogues it (YPK), on its own shelf.",
+  "description": "The summary above is the one Heritage IITKanpur's Scripture Server publishes for the text; an editor's note for the work itself is still to be written.",
+  "historicalContext": "Read in the Heritage Scripture Server corpus, which continues the Gita Supersite built at IIT Kanpur: the text, its classical commentaries and the translations the server may serve are held together there.",
+  "availabilityNote": "The outline is held: 6 chapter(s) and 27 verse address(es), read from the server's own catalogue. The verses are not stored — the licence forbids bulk harvesting and database reconstruction — and are streamed from the API one verse at a time as the work is read, with the attribution HCAL-1.1 requires and the server's own quota and licence notice.",
+  "featured": false,
+  "featuredNote": "",
+  "refScheme": "chapter.verse",
+  "isSample": false,
+  "textStorage": "streamed",
+  "chapters": [
+    {
+      "ref": "1",
+      "label": "1. विरक्तस्य गुरुस्वीकारः"
+    },
+    {
+      "ref": "2",
+      "label": "2. गुरुणा प्रणवाद्युपदेशः"
+    },
+    {
+      "ref": "3",
+      "label": "3. गुरुणा ध्यानोपदेशः"
+    },
+    {
+      "ref": "4",
+      "label": "4. शिष्येण शपथस्वीकारः"
+    },
+    {
+      "ref": "5",
+      "label": "5. गुरोराशीर्वचनम्"
+    },
+    {
+      "ref": "6",
+      "label": "6. गुरोरादेशः"
+    }
+  ],
+  "passages": [
+    {
+      "reference": "1.1",
+      "label": "1. विरक्तस्य गुरुस्वीकारः · verse 1",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.2",
+      "label": "1. विरक्तस्य गुरुस्वीकारः · verse 2",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "2.1",
+      "label": "2. गुरुणा प्रणवाद्युपदेशः · verse 1",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.2",
+      "label": "2. गुरुणा प्रणवाद्युपदेशः · verse 2",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.3",
+      "label": "2. गुरुणा प्रणवाद्युपदेशः · verse 3",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.4",
+      "label": "2. गुरुणा प्रणवाद्युपदेशः · verse 4",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "3.1",
+      "label": "3. गुरुणा ध्यानोपदेशः · verse 1",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.2",
+      "label": "3. गुरुणा ध्यानोपदेशः · verse 2",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.3",
+      "label": "3. गुरुणा ध्यानोपदेशः · verse 3",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.4",
+      "label": "3. गुरुणा ध्यानोपदेशः · verse 4",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.5",
+      "label": "3. गुरुणा ध्यानोपदेशः · verse 5",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.6",
+      "label": "3. गुरुणा ध्यानोपदेशः · verse 6",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.7",
+      "label": "3. गुरुणा ध्यानोपदेशः · verse 7",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.8",
+      "label": "3. गुरुणा ध्यानोपदेशः · verse 8",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "4.1",
+      "label": "4. शिष्येण शपथस्वीकारः · verse 1",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.2",
+      "label": "4. शिष्येण शपथस्वीकारः · verse 2",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.3",
+      "label": "4. शिष्येण शपथस्वीकारः · verse 3",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "5.1",
+      "label": "5. गुरोराशीर्वचनम् · verse 1",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.2",
+      "label": "5. गुरोराशीर्वचनम् · verse 2",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.3",
+      "label": "5. गुरोराशीर्वचनम् · verse 3",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.4",
+      "label": "5. गुरोराशीर्वचनम् · verse 4",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "6.1",
+      "label": "6. गुरोरादेशः · verse 1",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.2",
+      "label": "6. गुरोरादेशः · verse 2",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.3",
+      "label": "6. गुरोरादेशः · verse 3",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.4",
+      "label": "6. गुरोरादेशः · verse 4",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.5",
+      "label": "6. गुरोरादेशः · verse 5",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.6",
+      "label": "6. गुरोरादेशः · verse 6",
+      "chapterRef": "6"
+    }
+  ],
+  "editions": [
+    {
+      "slug": "yati-pranava-kalpa-ypk-sa",
+      "language": "sa",
+      "editionType": "original",
+      "title": "Yati-praṇava-kalpa (Heritage Scripture Server transcription)",
+      "translator": "",
+      "publisher": "Heritage IITKanpur, Heritage Scripture Server",
+      "publicationYear": null,
+      "source": "gita-supersite",
+      "license": "hcal-1-1",
+      "rightsStatus": "Tier A (the moolam and its transliterations): no modern copyright, freely redistributable. Where the API serves Tier B — the Sanskrit bhāṣya and the AI-generated, community and editorially authored translations — it is displayed non-commercially with attribution and is not relicensed here. Tier C, the authoritative modern-language translations and commentaries, is not served by the API and is not imported.",
+      "attributionText": "Yati-praṇava-kalpa, Madhvācārya (Ānandatīrtha). Accessed via Heritage Scripture Server (heritage.iitk.ac.in), licence HCAL-1.1. Source: https://heritage.iitk.ac.in/YPK",
+      "structureScheme": "chapter and verse, as the server's own sections and verse addresses divide the text",
+      "isSample": false,
+      "notes": "The verse index was built from the server's published verse addresses. The verses themselves are fetched from the API at read time and are shown with the licence's attribution; the licence identifier and any watermark the server returns are left in place."
+    }
+  ]
+}

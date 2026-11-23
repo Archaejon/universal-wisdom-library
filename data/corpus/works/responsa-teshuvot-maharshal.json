@@ -1,0 +1,110 @@
+{
+  "slug": "responsa-teshuvot-maharshal",
+  "title": "Teshuvot Maharshal",
+  "originalTitle": "תשובות מהרש\"ל",
+  "transliteration": "",
+  "altTitles": [],
+  "tradition": "judaism",
+  "school": "rabbinic-judaism",
+  "genre": "Responsa",
+  "textType": "Responsa collection",
+  "category": "Responsa",
+  "subcategory": "Acharonim",
+  "originalLanguage": "he",
+  "dateStart": 700,
+  "dateEnd": 1950,
+  "dateDisplay": "Responsa literature, c. 700–1950 CE",
+  "authorshipStatus": "established",
+  "author": "",
+  "attributionNote": "Authorship follows the Sefaria catalogue record for this work. Where a text is traditionally attributed or collectively compiled, the library does not assert a single author beyond the source's own metadata.",
+  "description": "16th-century responsa by the author of the Yam Shel Shlomo. Complete Responsa text imported from Sefaria; the exact edition and licence are shown with each version.",
+  "historicalContext": "Responsa are written answers to specific legal questions, addressed by a scholar to a community or an individual. A responsum is a dated, situated ruling and is presented with its collection rather than as a universal statute.",
+  "availabilityNote": "Imported from Sefaria. Version, source and licence are recorded per edition.",
+  "featured": false,
+  "featuredNote": "",
+  "refScheme": "chapter.paragraph",
+  "isSample": false,
+  "textStorage": "streamed",
+  "chapters": [
+    {
+      "ref": "72",
+      "label": "Teshuva 72"
+    }
+  ],
+  "passages": [
+    {
+      "reference": "72.1",
+      "label": "72:1",
+      "chapterRef": "72"
+    },
+    {
+      "reference": "72.2",
+      "label": "72:2",
+      "chapterRef": "72"
+    },
+    {
+      "reference": "72.3",
+      "label": "72:3",
+      "chapterRef": "72"
+    },
+    {
+      "reference": "72.4",
+      "label": "72:4",
+      "chapterRef": "72"
+    },
+    {
+      "reference": "72.5",
+      "label": "72:5",
+      "chapterRef": "72"
+    },
+    {
+      "reference": "72.6",
+      "label": "72:6",
+      "chapterRef": "72"
+    },
+    {
+      "reference": "72.7",
+      "label": "72:7",
+      "chapterRef": "72"
+    },
+    {
+      "reference": "72.8",
+      "label": "72:8",
+      "chapterRef": "72"
+    }
+  ],
+  "editions": [
+    {
+      "slug": "responsa-teshuvot-maharshal-hebrew-sefaria",
+      "language": "he",
+      "editionType": "original",
+      "title": "Teshuvot Maharshal, Fürth, 1768",
+      "translator": "",
+      "publisher": "https://www.nli.org.il/he/books/NNL_ALEPH001978912 ",
+      "publicationYear": null,
+      "source": "sefaria",
+      "license": "public-domain",
+      "rightsStatus": "Public Domain",
+      "attributionText": "Teshuvot Maharshal, Fürth, 1768; licence: Public Domain; source: https://www.nli.org.il/he/books/NNL_ALEPH001978912 . Retrieved via Sefaria on 2026-10-20.",
+      "structureScheme": "chapter and paragraph",
+      "isSample": false,
+      "notes": "Complete work imported from Sefaria. Text is displayed as supplied by the named edition; HTML markup has been removed."
+    },
+    {
+      "slug": "responsa-teshuvot-maharshal-english-sefaria-1",
+      "language": "en",
+      "editionType": "translation",
+      "title": "Sefaria Responsa Anthology",
+      "translator": "",
+      "publisher": "https://www.sefaria.org",
+      "publicationYear": null,
+      "source": "sefaria",
+      "license": "cc-by",
+      "rightsStatus": "CC-BY",
+      "attributionText": "Sefaria Responsa Anthology; licence: CC-BY; source: https://www.sefaria.org. Retrieved via Sefaria on 2026-10-20.",
+      "structureScheme": "chapter and paragraph",
+      "isSample": false,
+      "notes": "Complete work imported from Sefaria. Text is displayed as supplied by the named edition; HTML markup has been removed."
+    }
+  ]
+}

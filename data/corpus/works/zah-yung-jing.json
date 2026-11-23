@@ -1,0 +1,102 @@
+{
+  "slug": "zah-yung-jing",
+  "title": "The Zah Yung King",
+  "originalTitle": "",
+  "transliteration": "Zäh Yung King",
+  "altTitles": [
+    "The Classic of the Directory for a Day",
+    "Zah Yung Jing"
+  ],
+  "tradition": "taoism",
+  "school": "daoist",
+  "genre": "Scripture",
+  "textType": "Contemplative scripture",
+  "category": "Scripture",
+  "subcategory": "Short Daoist classics",
+  "originalLanguage": "zh",
+  "dateStart": 1000,
+  "dateEnd": 1400,
+  "dateDisplay": "Date unknown; Legge places it after the Tang",
+  "authorshipStatus": "anonymous",
+  "author": "",
+  "attributionNote": "Legge found no mention of the author or date of this brief composition. Its use of Buddhist expressions shows, he says, that it cannot be very early; he groups it with the Khing Kâng King among the short contemplative texts of the later Daoist canon.",
+  "description": "The Directory for a Day is a short manual of daily contemplation: once the day's eating and drinking are arranged, sit upright with the mouth closed, let no thought arise, forget everything, press the lips and teeth together, look at nothing and listen to nothing, and draw long breaths that are gradually released. The text promises that the water of the kidneys will rise and the saliva form in the mouth, and that in this way one learns to prolong life; it ends with the instruction to keep the thoughts fixed on absolute purity through the twelve hours of the day.",
+  "historicalContext": "The tract belongs to the literature of Daoist self-cultivation that circulated with the morality books and the short classics, and it was translated by Legge with the appendixes to the second volume of The Texts of Taoism (1891). Its physiology is the traditional Chinese one, in which the kidneys and the saliva stand for the vital essences.",
+  "availabilityNote": "Complete. Legge's translation is streamed from the Internet Sacred Text Archive at read time; it is one printed page, presented here as one chapter with its numbered paragraphs indexed. Legge's introductory notice and his notes are not part of the work. The transcription breaks two sentences where the printed page turned, so a paragraph may begin or end mid-sentence.",
+  "featured": false,
+  "featuredNote": "",
+  "refScheme": "chapter.paragraph",
+  "isSample": false,
+  "textStorage": "streamed",
+  "chapters": [
+    {
+      "ref": "1",
+      "label": "The Directory for a Day"
+    }
+  ],
+  "passages": [
+    {
+      "reference": "1.1",
+      "label": "The Directory for a Day §1",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.2",
+      "label": "The Directory for a Day §2",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.3",
+      "label": "The Directory for a Day §3",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.4",
+      "label": "The Directory for a Day §4",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.5",
+      "label": "The Directory for a Day §5",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.6",
+      "label": "The Directory for a Day §6",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.7",
+      "label": "The Directory for a Day §7",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.8",
+      "label": "The Directory for a Day §8",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.9",
+      "label": "The Directory for a Day §9",
+      "chapterRef": "1"
+    }
+  ],
+  "editions": [
+    {
+      "slug": "zah-yung-jing-en",
+      "language": "en",
+      "editionType": "translation",
+      "title": "The Texts of Taoism, Part II: Appendix IV, Zäh Yung King, or 'Classic of the Directory for a Day'",
+      "translator": "James Legge",
+      "publisher": "Internet Sacred Text Archive",
+      "publicationYear": 1891,
+      "source": "sacred-texts",
+      "license": "public-domain",
+      "rightsStatus": "Public domain in the United States",
+      "attributionText": "The Texts of Taoism, Part II: Appendix IV, Zäh Yung King, or 'Classic of the Directory for a Day', translated by James Legge (1891). Sacred Books of the East, vol. 40. Public domain in the United States. Digital text from the Internet Sacred Text Archive.",
+      "structureScheme": "chapter and paragraph index; the whole tract is one chapter",
+      "isSample": false,
+      "notes": "The import cache stores the exact segments that were validated. The reader re-fetches the chapter from the host and reports when the served count no longer matches the index."
+    }
+  ]
+}

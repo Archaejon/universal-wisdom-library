@@ -1,0 +1,128 @@
+{
+  "slug": "yushu-jing",
+  "title": "The Yu Shu King",
+  "originalTitle": "玉樞經",
+  "transliteration": "Yùshū jīng",
+  "altTitles": [
+    "Yü Shû King",
+    "The Classic of the Pivot of Jade",
+    "The True Classic of the Pivot of Jade"
+  ],
+  "tradition": "taoism",
+  "school": "daoist",
+  "genre": "Scripture",
+  "textType": "Revealed scripture",
+  "category": "Scripture",
+  "subcategory": "Short Daoist classics",
+  "originalLanguage": "zh",
+  "dateStart": 1280,
+  "dateEnd": 1367,
+  "dateDisplay": "Yuan dynasty (1280–1367), as Legge dates it",
+  "authorshipStatus": "traditional",
+  "author": "",
+  "attributionNote": "The scripture is presented as the teaching of the Heaven-Honoured One who produces universal transformation by the sound of his thunder. Legge, following Wylie, takes the author to have been a Hsüan-yang Dze of the Yuan dynasty, in the time of the Mongol court.",
+  "description": "The Pivot of Jade is a short revealed scripture on the discipline and refinement of the spirit: the body is carried round by the spirit as the heavens are carried round the North Star, and when the spirit is refined until it is free of every obscuring influence it becomes solid, soft and strong as jade. It is recited in Daoist temples and belongs with the Khing Kâng King and the Yin Fû King among the brief classics that Legge printed as appendixes to his Texts of Taoism.",
+  "historicalContext": "The text is attributed to the Heaven-Honoured One and was transmitted with a commentary; Legge translates it from the Daozang recension and dates its composition to the Yuan. He printed it, with an introductory notice, as the third appendix to the second volume of The Texts of Taoism (1891).",
+  "availabilityNote": "Complete. Legge's translation is streamed from the Internet Sacred Text Archive at read time; it is one printed page, presented here as one chapter with its numbered paragraphs indexed. Legge's introductory notice and the notes printed at the foot of the page are not part of the work.",
+  "featured": false,
+  "featuredNote": "",
+  "refScheme": "chapter.paragraph",
+  "isSample": false,
+  "textStorage": "streamed",
+  "chapters": [
+    {
+      "ref": "1",
+      "label": "The Pivot of Jade"
+    }
+  ],
+  "passages": [
+    {
+      "reference": "1.1",
+      "label": "The Pivot of Jade §1",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.2",
+      "label": "The Pivot of Jade §2",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.3",
+      "label": "The Pivot of Jade §3",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.4",
+      "label": "The Pivot of Jade §4",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.5",
+      "label": "The Pivot of Jade §5",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.6",
+      "label": "The Pivot of Jade §6",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.7",
+      "label": "The Pivot of Jade §7",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.8",
+      "label": "The Pivot of Jade §8",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.9",
+      "label": "The Pivot of Jade §9",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.10",
+      "label": "The Pivot of Jade §10",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.11",
+      "label": "The Pivot of Jade §11",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.12",
+      "label": "The Pivot of Jade §12",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.13",
+      "label": "The Pivot of Jade §13",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.14",
+      "label": "The Pivot of Jade §14",
+      "chapterRef": "1"
+    }
+  ],
+  "editions": [
+    {
+      "slug": "yushu-jing-en",
+      "language": "en",
+      "editionType": "translation",
+      "title": "The Texts of Taoism, Part II: Appendix III, Yü Shû King, or 'The Classic of the Pivot of Jade'",
+      "translator": "James Legge",
+      "publisher": "Internet Sacred Text Archive",
+      "publicationYear": 1891,
+      "source": "sacred-texts",
+      "license": "public-domain",
+      "rightsStatus": "Public domain in the United States",
+      "attributionText": "The Texts of Taoism, Part II: Appendix III, Yü Shû King, or 'The Classic of the Pivot of Jade', translated by James Legge (1891). Sacred Books of the East, vol. 40. Public domain in the United States. Digital text from the Internet Sacred Text Archive.",
+      "structureScheme": "chapter and paragraph index; the whole scripture is one chapter",
+      "isSample": false,
+      "notes": "The import cache stores the exact segments that were validated. The reader re-fetches the chapter from the host and reports when the served count no longer matches the index."
+    }
+  ]
+}

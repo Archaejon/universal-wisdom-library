@@ -1,0 +1,119 @@
+{
+  "slug": "gospel-of-matthew",
+  "title": "Gospel of Matthew",
+  "originalTitle": "Εὐαγγέλιον κατὰ Ματθαῖον",
+  "transliteration": "Euangelion kata Maththaion",
+  "altTitles": [
+    "The First Gospel",
+    "Matthew"
+  ],
+  "tradition": "christianity",
+  "school": "early-christianity",
+  "genre": "Scripture",
+  "textType": "Gospel",
+  "category": "Scripture",
+  "subcategory": "Gospel",
+  "originalLanguage": "grc",
+  "dateStart": 80,
+  "dateEnd": 100,
+  "dateDisplay": "c. 80–100 CE",
+  "authorshipStatus": "disputed",
+  "author": "matthew-evangelist",
+  "attributionNote": "Traditionally attributed to Matthew the Evangelist. Most modern scholars regard the Gospel as anonymous and composed by a later author using Mark and other traditions.",
+  "description": "The Gospel of Matthew presents Jesus as a teacher and fulfilments of Israel's scriptures. The Sermon on the Mount opens with the Beatitudes, a compact portrait of the life the Gospel commends.",
+  "historicalContext": "Matthew was likely written after the destruction of the Jerusalem Temple (70 CE), in a community negotiating its relationship with Judaism and the wider Greco-Roman world.",
+  "availabilityNote": "",
+  "featured": true,
+  "featuredNote": "The Beatitudes and the ethics of mercy",
+  "refScheme": "chapter.verse",
+  "isSample": true,
+  "textStorage": "local",
+  "chapters": [
+    {
+      "ref": "5",
+      "label": "Chapter 5 — the Sermon on the Mount"
+    }
+  ],
+  "passages": [
+    {
+      "reference": "5.3",
+      "label": "5:3",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.4",
+      "label": "5:4",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.5",
+      "label": "5:5",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.6",
+      "label": "5:6",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.7",
+      "label": "5:7",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.8",
+      "label": "5:8",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.9",
+      "label": "5:9",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.10",
+      "label": "5:10",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.11",
+      "label": "5:11",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.12",
+      "label": "5:12",
+      "chapterRef": "5"
+    }
+  ],
+  "editions": [
+    {
+      "slug": "matthew-en-kjv",
+      "language": "en",
+      "editionType": "translation",
+      "title": "The Holy Bible, King James Version",
+      "translator": "King James Version translators",
+      "publisher": "Project Gutenberg edition",
+      "publicationYear": 1611,
+      "source": "project-gutenberg",
+      "license": "public-domain",
+      "rightsStatus": "Public domain",
+      "attributionText": "The Holy Bible, King James Version (1611). Public domain. Text from Project Gutenberg eBook #10.",
+      "structureScheme": "chapter and verse",
+      "isSample": true,
+      "notes": "Demonstration edition contains English only. A Greek original for Matthew is not yet included in the corpus; the work record still identifies Greek as its original language.",
+      "texts": {
+        "5.3": "Blessed are the poor in spirit: for theirs is the kingdom of heaven.",
+        "5.4": "Blessed are they that mourn: for they shall be comforted.",
+        "5.5": "Blessed are the meek: for they shall inherit the earth.",
+        "5.6": "Blessed are they which do hunger and thirst after righteousness: for they shall be filled.",
+        "5.7": "Blessed are the merciful: for they shall obtain mercy.",
+        "5.8": "Blessed are the pure in heart: for they shall see God.",
+        "5.9": "Blessed are the peacemakers: for they shall be called the children of God.",
+        "5.10": "Blessed are they which are persecuted for righteousness’ sake: for theirs is the kingdom of heaven.",
+        "5.11": "Blessed are ye, when men shall revile you, and persecute you, and shall say all manner of evil against you falsely, for my sake.",
+        "5.12": "Rejoice, and be exceeding glad: for great is your reward in heaven: for so persecuted they the prophets which were before you."
+      }
+    }
+  ]
+}

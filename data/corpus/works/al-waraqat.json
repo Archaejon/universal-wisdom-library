@@ -1,0 +1,663 @@
+{
+  "slug": "al-waraqat",
+  "title": "Al-Waraqat",
+  "originalTitle": "الورقات",
+  "transliteration": "al-Waraqāt",
+  "altTitles": [
+    "The Leaflets"
+  ],
+  "tradition": "islam",
+  "school": "shafii",
+  "genre": "Jurisprudence",
+  "textType": "Primer",
+  "category": "Jurisprudence (Fiqh)",
+  "subcategory": "Legal theory (Usul)",
+  "originalLanguage": "ar",
+  "dateStart": 1060,
+  "dateEnd": 1085,
+  "dateDisplay": "11th century CE",
+  "authorshipStatus": "established",
+  "author": "al-juwayni",
+  "attributionNote": "The attribution is the one the manuscript tradition and the scholarship give.",
+  "description": "A few pages that define the terms of legal theory: the rule and its kinds, command and prohibition, general and specific, abrogation, consensus, analogy and the qualifications of the jurist. It is still the first text of usul al-fiqh that many students memorise.",
+  "historicalContext": "Al-Juwayni, the 'Imam of the Two Sanctuaries', taught al-Ghazali at the Nizamiyya of Nishapur. The Waraqat is his shortest work and has been versified and commented on more often than almost any other primer.",
+  "availabilityNote": "Arabic text only, streamed from OpenITI at read time. No English translation is included because no public-domain English translation was verified. Only the catalogue record, chapter outline and passage index are held here.",
+  "featured": false,
+  "featuredNote": "",
+  "refScheme": "chapter.paragraph",
+  "isSample": false,
+  "textStorage": "streamed",
+  "chapters": [
+    {
+      "ref": "1",
+      "label": "معنى أصول الفقه"
+    },
+    {
+      "ref": "2",
+      "label": "أنواع الحكم"
+    },
+    {
+      "ref": "3",
+      "label": "الفرق بين الفقه والعلم والظن والشك"
+    },
+    {
+      "ref": "4",
+      "label": "أبواب أصول الفقه"
+    },
+    {
+      "ref": "5",
+      "label": "أقسام الكلام"
+    },
+    {
+      "ref": "6",
+      "label": "أقسام الكلام"
+    },
+    {
+      "ref": "7",
+      "label": "الأمر"
+    },
+    {
+      "ref": "8",
+      "label": "النسخ"
+    },
+    {
+      "ref": "9",
+      "label": "الإجماع"
+    },
+    {
+      "ref": "10",
+      "label": "الأخبار"
+    },
+    {
+      "ref": "11",
+      "label": "القياس"
+    },
+    {
+      "ref": "12",
+      "label": "الحظر والإباحة"
+    },
+    {
+      "ref": "13",
+      "label": "شروط المستفتي"
+    },
+    {
+      "ref": "14",
+      "label": "الاجتهاد"
+    }
+  ],
+  "passages": [
+    {
+      "reference": "1.1",
+      "label": "معنى أصول الفقه §1",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.2",
+      "label": "معنى أصول الفقه §2",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.3",
+      "label": "معنى أصول الفقه §3",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "2.1",
+      "label": "أنواع الحكم §1",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.2",
+      "label": "أنواع الحكم §2",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.3",
+      "label": "أنواع الحكم §3",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.4",
+      "label": "أنواع الحكم §4",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.5",
+      "label": "أنواع الحكم §5",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.6",
+      "label": "أنواع الحكم §6",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.7",
+      "label": "أنواع الحكم §7",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.8",
+      "label": "أنواع الحكم §8",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "3.1",
+      "label": "الفرق بين الفقه والعلم والظن والشك §1",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.2",
+      "label": "الفرق بين الفقه والعلم والظن والشك §2",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.3",
+      "label": "الفرق بين الفقه والعلم والظن والشك §3",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.4",
+      "label": "الفرق بين الفقه والعلم والظن والشك §4",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.5",
+      "label": "الفرق بين الفقه والعلم والظن والشك §5",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.6",
+      "label": "الفرق بين الفقه والعلم والظن والشك §6",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "4.1",
+      "label": "أبواب أصول الفقه §1",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "5.1",
+      "label": "أقسام الكلام §1",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "6.1",
+      "label": "أقسام الكلام §1",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.2",
+      "label": "أقسام الكلام §2",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.3",
+      "label": "أقسام الكلام §3",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.4",
+      "label": "أقسام الكلام §4",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.5",
+      "label": "أقسام الكلام §5",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.6",
+      "label": "أقسام الكلام §6",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.7",
+      "label": "أقسام الكلام §7",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.8",
+      "label": "أقسام الكلام §8",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.9",
+      "label": "أقسام الكلام §9",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.10",
+      "label": "أقسام الكلام §10",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.11",
+      "label": "أقسام الكلام §11",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.12",
+      "label": "أقسام الكلام §12",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "7.1",
+      "label": "الأمر §1",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.2",
+      "label": "الأمر §2",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.3",
+      "label": "الأمر §3",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.4",
+      "label": "الأمر §4",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.5",
+      "label": "الأمر §5",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.6",
+      "label": "الأمر §6",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.7",
+      "label": "الأمر §7",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.8",
+      "label": "الأمر §8",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.9",
+      "label": "الأمر §9",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.10",
+      "label": "الأمر §10",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.11",
+      "label": "الأمر §11",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.12",
+      "label": "الأمر §12",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.13",
+      "label": "الأمر §13",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.14",
+      "label": "الأمر §14",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.15",
+      "label": "الأمر §15",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.16",
+      "label": "الأمر §16",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.17",
+      "label": "الأمر §17",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.18",
+      "label": "الأمر §18",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.19",
+      "label": "الأمر §19",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.20",
+      "label": "الأمر §20",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.21",
+      "label": "الأمر §21",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.22",
+      "label": "الأمر §22",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.23",
+      "label": "الأمر §23",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.24",
+      "label": "الأمر §24",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.25",
+      "label": "الأمر §25",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.26",
+      "label": "الأمر §26",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.27",
+      "label": "الأمر §27",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.28",
+      "label": "الأمر §28",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.29",
+      "label": "الأمر §29",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.30",
+      "label": "الأمر §30",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "8.1",
+      "label": "النسخ §1",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.2",
+      "label": "النسخ §2",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.3",
+      "label": "النسخ §3",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.4",
+      "label": "النسخ §4",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.5",
+      "label": "النسخ §5",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.6",
+      "label": "النسخ §6",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.7",
+      "label": "النسخ §7",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.8",
+      "label": "النسخ §8",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.9",
+      "label": "النسخ §9",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.10",
+      "label": "النسخ §10",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.11",
+      "label": "النسخ §11",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "9.1",
+      "label": "الإجماع §1",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.2",
+      "label": "الإجماع §2",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.3",
+      "label": "الإجماع §3",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.4",
+      "label": "الإجماع §4",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.5",
+      "label": "الإجماع §5",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.6",
+      "label": "الإجماع §6",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.7",
+      "label": "الإجماع §7",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "10.1",
+      "label": "الأخبار §1",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.2",
+      "label": "الأخبار §2",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.3",
+      "label": "الأخبار §3",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.4",
+      "label": "الأخبار §4",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.5",
+      "label": "الأخبار §5",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.6",
+      "label": "الأخبار §6",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.7",
+      "label": "الأخبار §7",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "11.1",
+      "label": "القياس §1",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.2",
+      "label": "القياس §2",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.3",
+      "label": "القياس §3",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.4",
+      "label": "القياس §4",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.5",
+      "label": "القياس §5",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.6",
+      "label": "القياس §6",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.7",
+      "label": "القياس §7",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.8",
+      "label": "القياس §8",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "12.1",
+      "label": "الحظر والإباحة §1",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.2",
+      "label": "الحظر والإباحة §2",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.3",
+      "label": "الحظر والإباحة §3",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.4",
+      "label": "الحظر والإباحة §4",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.5",
+      "label": "الحظر والإباحة §5",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.6",
+      "label": "الحظر والإباحة §6",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.7",
+      "label": "الحظر والإباحة §7",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.8",
+      "label": "الحظر والإباحة §8",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.9",
+      "label": "الحظر والإباحة §9",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "13.1",
+      "label": "شروط المستفتي §1",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.2",
+      "label": "شروط المستفتي §2",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.3",
+      "label": "شروط المستفتي §3",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.4",
+      "label": "شروط المستفتي §4",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.5",
+      "label": "شروط المستفتي §5",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "14.1",
+      "label": "الاجتهاد §1",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.2",
+      "label": "الاجتهاد §2",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.3",
+      "label": "الاجتهاد §3",
+      "chapterRef": "14"
+    }
+  ],
+  "editions": [
+    {
+      "slug": "al-waraqat-ar-openiti",
+      "language": "ar",
+      "editionType": "original",
+      "title": "Arabic text (OpenITI transcription of the Shamela edition)",
+      "translator": "",
+      "publisher": "OpenITI",
+      "publicationYear": null,
+      "source": "openiti",
+      "license": "cc-by-nc-sa",
+      "rightsStatus": "The classical work is public domain. This digital transcription is distributed by OpenITI under CC BY-NC-SA 4.0 and is streamed with attribution.",
+      "attributionText": "Al-Waraqat by Imam al-Haramayn al-Juwayni. Arabic text from the OpenITI corpus (0500AH/0478ImamHaramaynJuwayni.Waraqat.Shamela0006297-ara1), distributed under CC BY-NC-SA 4.0.",
+      "structureScheme": "chapter and paragraph; chapter headings from the OpenITI transcription",
+      "isSample": false,
+      "notes": "Arabic only. The English translation was not available under a verifiable public-domain licence, so it is not included."
+    }
+  ]
+}

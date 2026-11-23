@@ -1,0 +1,2650 @@
+{
+  "slug": "analects-zh",
+  "title": "Analects — the Chinese text",
+  "originalTitle": "論語",
+  "transliteration": "Lúnyǔ",
+  "altTitles": [
+    "Lunyu",
+    "The Analects",
+    "Confucian Analects",
+    "Selected Sayings"
+  ],
+  "tradition": "confucianism",
+  "school": "confucian",
+  "genre": "Dialogues and aphorisms",
+  "textType": "Classical Chinese text",
+  "category": "Confucian classics",
+  "subcategory": "儒家",
+  "originalLanguage": "zh",
+  "dateStart": -479,
+  "dateEnd": -221,
+  "dateDisplay": "Compiled c. 5th–3rd centuries BCE",
+  "authorshipStatus": "composite",
+  "author": "confucius",
+  "attributionNote": "The recorded sayings of Confucius (Kong Qiu, 551–479 BCE) and his disciples, collected by their followers over the following two centuries. The library follows the received twenty-book arrangement.",
+  "description": "The Analects is the foundational record of Confucian teaching: brief exchanges in which the Master answers disciples, rulers and critics on learning, ritual, filial piety and government, and in which he appears as often uncertain as authoritative. Its twenty books were assembled by several hands and became one of the Four Books of the later examination canon.",
+  "historicalContext": "Sayings attributed to Confucius circulated orally and in small collections through the Warring States period; the twenty-book text was established in the Han dynasty and fixed by the commentaries of He Yan and Zhu Xi. This record is the Chinese text alone, as the Chinese Text Project transcribes and punctuates it.",
+  "availabilityNote": "Complete in the Chinese Text Project's transcription: 20 books, 503 paragraphs, streamed from ctext.org one book at a time. This is the original Chinese, not a translation. When the site cannot be read, the chapter is served from the library's validated import cache.",
+  "featured": false,
+  "featuredNote": "",
+  "refScheme": "chapter.paragraph",
+  "isSample": false,
+  "textStorage": "streamed",
+  "chapters": [
+    {
+      "ref": "1",
+      "label": "學而 (Xue Er)"
+    },
+    {
+      "ref": "2",
+      "label": "為政 (Wei Zheng)"
+    },
+    {
+      "ref": "3",
+      "label": "八佾 (Ba Yi)"
+    },
+    {
+      "ref": "4",
+      "label": "里仁 (Li Ren)"
+    },
+    {
+      "ref": "5",
+      "label": "公冶長 (Gong Ye Chang)"
+    },
+    {
+      "ref": "6",
+      "label": "雍也 (Yong Ye)"
+    },
+    {
+      "ref": "7",
+      "label": "述而 (Shu Er)"
+    },
+    {
+      "ref": "8",
+      "label": "泰伯 (Tai Bo)"
+    },
+    {
+      "ref": "9",
+      "label": "子罕 (Zi Han)"
+    },
+    {
+      "ref": "10",
+      "label": "鄉黨 (Xiang Dang)"
+    },
+    {
+      "ref": "11",
+      "label": "先進 (Xian Jin)"
+    },
+    {
+      "ref": "12",
+      "label": "顏淵 (Yan Yuan)"
+    },
+    {
+      "ref": "13",
+      "label": "子路 (Zi Lu)"
+    },
+    {
+      "ref": "14",
+      "label": "憲問 (Xian Wen)"
+    },
+    {
+      "ref": "15",
+      "label": "衛靈公 (Wei Ling Gong)"
+    },
+    {
+      "ref": "16",
+      "label": "季氏 (Ji Shi)"
+    },
+    {
+      "ref": "17",
+      "label": "陽貨 (Yang Huo)"
+    },
+    {
+      "ref": "18",
+      "label": "微子 (Wei Zi)"
+    },
+    {
+      "ref": "19",
+      "label": "子張 (Zi Zhang)"
+    },
+    {
+      "ref": "20",
+      "label": "堯曰 (Yao Yue)"
+    }
+  ],
+  "passages": [
+    {
+      "reference": "1.1",
+      "label": "學而 (Xue Er) 1",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.2",
+      "label": "學而 (Xue Er) 2",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.3",
+      "label": "學而 (Xue Er) 3",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.4",
+      "label": "學而 (Xue Er) 4",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.5",
+      "label": "學而 (Xue Er) 5",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.6",
+      "label": "學而 (Xue Er) 6",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.7",
+      "label": "學而 (Xue Er) 7",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.8",
+      "label": "學而 (Xue Er) 8",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.9",
+      "label": "學而 (Xue Er) 9",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.10",
+      "label": "學而 (Xue Er) 10",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.11",
+      "label": "學而 (Xue Er) 11",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.12",
+      "label": "學而 (Xue Er) 12",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.13",
+      "label": "學而 (Xue Er) 13",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.14",
+      "label": "學而 (Xue Er) 14",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.15",
+      "label": "學而 (Xue Er) 15",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.16",
+      "label": "學而 (Xue Er) 16",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "2.1",
+      "label": "為政 (Wei Zheng) 1",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.2",
+      "label": "為政 (Wei Zheng) 2",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.3",
+      "label": "為政 (Wei Zheng) 3",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.4",
+      "label": "為政 (Wei Zheng) 4",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.5",
+      "label": "為政 (Wei Zheng) 5",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.6",
+      "label": "為政 (Wei Zheng) 6",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.7",
+      "label": "為政 (Wei Zheng) 7",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.8",
+      "label": "為政 (Wei Zheng) 8",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.9",
+      "label": "為政 (Wei Zheng) 9",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.10",
+      "label": "為政 (Wei Zheng) 10",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.11",
+      "label": "為政 (Wei Zheng) 11",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.12",
+      "label": "為政 (Wei Zheng) 12",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.13",
+      "label": "為政 (Wei Zheng) 13",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.14",
+      "label": "為政 (Wei Zheng) 14",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.15",
+      "label": "為政 (Wei Zheng) 15",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.16",
+      "label": "為政 (Wei Zheng) 16",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.17",
+      "label": "為政 (Wei Zheng) 17",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.18",
+      "label": "為政 (Wei Zheng) 18",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.19",
+      "label": "為政 (Wei Zheng) 19",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.20",
+      "label": "為政 (Wei Zheng) 20",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.21",
+      "label": "為政 (Wei Zheng) 21",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.22",
+      "label": "為政 (Wei Zheng) 22",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.23",
+      "label": "為政 (Wei Zheng) 23",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.24",
+      "label": "為政 (Wei Zheng) 24",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "3.1",
+      "label": "八佾 (Ba Yi) 1",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.2",
+      "label": "八佾 (Ba Yi) 2",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.3",
+      "label": "八佾 (Ba Yi) 3",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.4",
+      "label": "八佾 (Ba Yi) 4",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.5",
+      "label": "八佾 (Ba Yi) 5",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.6",
+      "label": "八佾 (Ba Yi) 6",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.7",
+      "label": "八佾 (Ba Yi) 7",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.8",
+      "label": "八佾 (Ba Yi) 8",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.9",
+      "label": "八佾 (Ba Yi) 9",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.10",
+      "label": "八佾 (Ba Yi) 10",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.11",
+      "label": "八佾 (Ba Yi) 11",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.12",
+      "label": "八佾 (Ba Yi) 12",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.13",
+      "label": "八佾 (Ba Yi) 13",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.14",
+      "label": "八佾 (Ba Yi) 14",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.15",
+      "label": "八佾 (Ba Yi) 15",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.16",
+      "label": "八佾 (Ba Yi) 16",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.17",
+      "label": "八佾 (Ba Yi) 17",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.18",
+      "label": "八佾 (Ba Yi) 18",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.19",
+      "label": "八佾 (Ba Yi) 19",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.20",
+      "label": "八佾 (Ba Yi) 20",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.21",
+      "label": "八佾 (Ba Yi) 21",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.22",
+      "label": "八佾 (Ba Yi) 22",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.23",
+      "label": "八佾 (Ba Yi) 23",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.24",
+      "label": "八佾 (Ba Yi) 24",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.25",
+      "label": "八佾 (Ba Yi) 25",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.26",
+      "label": "八佾 (Ba Yi) 26",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "4.1",
+      "label": "里仁 (Li Ren) 1",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.2",
+      "label": "里仁 (Li Ren) 2",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.3",
+      "label": "里仁 (Li Ren) 3",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.4",
+      "label": "里仁 (Li Ren) 4",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.5",
+      "label": "里仁 (Li Ren) 5",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.6",
+      "label": "里仁 (Li Ren) 6",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.7",
+      "label": "里仁 (Li Ren) 7",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.8",
+      "label": "里仁 (Li Ren) 8",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.9",
+      "label": "里仁 (Li Ren) 9",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.10",
+      "label": "里仁 (Li Ren) 10",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.11",
+      "label": "里仁 (Li Ren) 11",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.12",
+      "label": "里仁 (Li Ren) 12",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.13",
+      "label": "里仁 (Li Ren) 13",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.14",
+      "label": "里仁 (Li Ren) 14",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.15",
+      "label": "里仁 (Li Ren) 15",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.16",
+      "label": "里仁 (Li Ren) 16",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.17",
+      "label": "里仁 (Li Ren) 17",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.18",
+      "label": "里仁 (Li Ren) 18",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.19",
+      "label": "里仁 (Li Ren) 19",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.20",
+      "label": "里仁 (Li Ren) 20",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.21",
+      "label": "里仁 (Li Ren) 21",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.22",
+      "label": "里仁 (Li Ren) 22",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.23",
+      "label": "里仁 (Li Ren) 23",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.24",
+      "label": "里仁 (Li Ren) 24",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.25",
+      "label": "里仁 (Li Ren) 25",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.26",
+      "label": "里仁 (Li Ren) 26",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "5.1",
+      "label": "公冶長 (Gong Ye Chang) 1",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.2",
+      "label": "公冶長 (Gong Ye Chang) 2",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.3",
+      "label": "公冶長 (Gong Ye Chang) 3",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.4",
+      "label": "公冶長 (Gong Ye Chang) 4",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.5",
+      "label": "公冶長 (Gong Ye Chang) 5",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.6",
+      "label": "公冶長 (Gong Ye Chang) 6",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.7",
+      "label": "公冶長 (Gong Ye Chang) 7",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.8",
+      "label": "公冶長 (Gong Ye Chang) 8",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.9",
+      "label": "公冶長 (Gong Ye Chang) 9",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.10",
+      "label": "公冶長 (Gong Ye Chang) 10",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.11",
+      "label": "公冶長 (Gong Ye Chang) 11",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.12",
+      "label": "公冶長 (Gong Ye Chang) 12",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.13",
+      "label": "公冶長 (Gong Ye Chang) 13",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.14",
+      "label": "公冶長 (Gong Ye Chang) 14",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.15",
+      "label": "公冶長 (Gong Ye Chang) 15",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.16",
+      "label": "公冶長 (Gong Ye Chang) 16",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.17",
+      "label": "公冶長 (Gong Ye Chang) 17",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.18",
+      "label": "公冶長 (Gong Ye Chang) 18",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.19",
+      "label": "公冶長 (Gong Ye Chang) 19",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.20",
+      "label": "公冶長 (Gong Ye Chang) 20",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.21",
+      "label": "公冶長 (Gong Ye Chang) 21",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.22",
+      "label": "公冶長 (Gong Ye Chang) 22",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.23",
+      "label": "公冶長 (Gong Ye Chang) 23",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.24",
+      "label": "公冶長 (Gong Ye Chang) 24",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.25",
+      "label": "公冶長 (Gong Ye Chang) 25",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.26",
+      "label": "公冶長 (Gong Ye Chang) 26",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.27",
+      "label": "公冶長 (Gong Ye Chang) 27",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.28",
+      "label": "公冶長 (Gong Ye Chang) 28",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "6.1",
+      "label": "雍也 (Yong Ye) 1",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.2",
+      "label": "雍也 (Yong Ye) 2",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.3",
+      "label": "雍也 (Yong Ye) 3",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.4",
+      "label": "雍也 (Yong Ye) 4",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.5",
+      "label": "雍也 (Yong Ye) 5",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.6",
+      "label": "雍也 (Yong Ye) 6",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.7",
+      "label": "雍也 (Yong Ye) 7",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.8",
+      "label": "雍也 (Yong Ye) 8",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.9",
+      "label": "雍也 (Yong Ye) 9",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.10",
+      "label": "雍也 (Yong Ye) 10",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.11",
+      "label": "雍也 (Yong Ye) 11",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.12",
+      "label": "雍也 (Yong Ye) 12",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.13",
+      "label": "雍也 (Yong Ye) 13",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.14",
+      "label": "雍也 (Yong Ye) 14",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.15",
+      "label": "雍也 (Yong Ye) 15",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.16",
+      "label": "雍也 (Yong Ye) 16",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.17",
+      "label": "雍也 (Yong Ye) 17",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.18",
+      "label": "雍也 (Yong Ye) 18",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.19",
+      "label": "雍也 (Yong Ye) 19",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.20",
+      "label": "雍也 (Yong Ye) 20",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.21",
+      "label": "雍也 (Yong Ye) 21",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.22",
+      "label": "雍也 (Yong Ye) 22",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.23",
+      "label": "雍也 (Yong Ye) 23",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.24",
+      "label": "雍也 (Yong Ye) 24",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.25",
+      "label": "雍也 (Yong Ye) 25",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.26",
+      "label": "雍也 (Yong Ye) 26",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.27",
+      "label": "雍也 (Yong Ye) 27",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.28",
+      "label": "雍也 (Yong Ye) 28",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.29",
+      "label": "雍也 (Yong Ye) 29",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.30",
+      "label": "雍也 (Yong Ye) 30",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "7.1",
+      "label": "述而 (Shu Er) 1",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.2",
+      "label": "述而 (Shu Er) 2",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.3",
+      "label": "述而 (Shu Er) 3",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.4",
+      "label": "述而 (Shu Er) 4",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.5",
+      "label": "述而 (Shu Er) 5",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.6",
+      "label": "述而 (Shu Er) 6",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.7",
+      "label": "述而 (Shu Er) 7",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.8",
+      "label": "述而 (Shu Er) 8",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.9",
+      "label": "述而 (Shu Er) 9",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.10",
+      "label": "述而 (Shu Er) 10",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.11",
+      "label": "述而 (Shu Er) 11",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.12",
+      "label": "述而 (Shu Er) 12",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.13",
+      "label": "述而 (Shu Er) 13",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.14",
+      "label": "述而 (Shu Er) 14",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.15",
+      "label": "述而 (Shu Er) 15",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.16",
+      "label": "述而 (Shu Er) 16",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.17",
+      "label": "述而 (Shu Er) 17",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.18",
+      "label": "述而 (Shu Er) 18",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.19",
+      "label": "述而 (Shu Er) 19",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.20",
+      "label": "述而 (Shu Er) 20",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.21",
+      "label": "述而 (Shu Er) 21",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.22",
+      "label": "述而 (Shu Er) 22",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.23",
+      "label": "述而 (Shu Er) 23",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.24",
+      "label": "述而 (Shu Er) 24",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.25",
+      "label": "述而 (Shu Er) 25",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.26",
+      "label": "述而 (Shu Er) 26",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.27",
+      "label": "述而 (Shu Er) 27",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.28",
+      "label": "述而 (Shu Er) 28",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.29",
+      "label": "述而 (Shu Er) 29",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.30",
+      "label": "述而 (Shu Er) 30",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.31",
+      "label": "述而 (Shu Er) 31",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.32",
+      "label": "述而 (Shu Er) 32",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.33",
+      "label": "述而 (Shu Er) 33",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.34",
+      "label": "述而 (Shu Er) 34",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.35",
+      "label": "述而 (Shu Er) 35",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.36",
+      "label": "述而 (Shu Er) 36",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.37",
+      "label": "述而 (Shu Er) 37",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.38",
+      "label": "述而 (Shu Er) 38",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "8.1",
+      "label": "泰伯 (Tai Bo) 1",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.2",
+      "label": "泰伯 (Tai Bo) 2",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.3",
+      "label": "泰伯 (Tai Bo) 3",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.4",
+      "label": "泰伯 (Tai Bo) 4",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.5",
+      "label": "泰伯 (Tai Bo) 5",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.6",
+      "label": "泰伯 (Tai Bo) 6",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.7",
+      "label": "泰伯 (Tai Bo) 7",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.8",
+      "label": "泰伯 (Tai Bo) 8",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.9",
+      "label": "泰伯 (Tai Bo) 9",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.10",
+      "label": "泰伯 (Tai Bo) 10",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.11",
+      "label": "泰伯 (Tai Bo) 11",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.12",
+      "label": "泰伯 (Tai Bo) 12",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.13",
+      "label": "泰伯 (Tai Bo) 13",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.14",
+      "label": "泰伯 (Tai Bo) 14",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.15",
+      "label": "泰伯 (Tai Bo) 15",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.16",
+      "label": "泰伯 (Tai Bo) 16",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.17",
+      "label": "泰伯 (Tai Bo) 17",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.18",
+      "label": "泰伯 (Tai Bo) 18",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.19",
+      "label": "泰伯 (Tai Bo) 19",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.20",
+      "label": "泰伯 (Tai Bo) 20",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.21",
+      "label": "泰伯 (Tai Bo) 21",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "9.1",
+      "label": "子罕 (Zi Han) 1",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.2",
+      "label": "子罕 (Zi Han) 2",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.3",
+      "label": "子罕 (Zi Han) 3",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.4",
+      "label": "子罕 (Zi Han) 4",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.5",
+      "label": "子罕 (Zi Han) 5",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.6",
+      "label": "子罕 (Zi Han) 6",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.7",
+      "label": "子罕 (Zi Han) 7",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.8",
+      "label": "子罕 (Zi Han) 8",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.9",
+      "label": "子罕 (Zi Han) 9",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.10",
+      "label": "子罕 (Zi Han) 10",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.11",
+      "label": "子罕 (Zi Han) 11",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.12",
+      "label": "子罕 (Zi Han) 12",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.13",
+      "label": "子罕 (Zi Han) 13",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.14",
+      "label": "子罕 (Zi Han) 14",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.15",
+      "label": "子罕 (Zi Han) 15",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.16",
+      "label": "子罕 (Zi Han) 16",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.17",
+      "label": "子罕 (Zi Han) 17",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.18",
+      "label": "子罕 (Zi Han) 18",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.19",
+      "label": "子罕 (Zi Han) 19",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.20",
+      "label": "子罕 (Zi Han) 20",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.21",
+      "label": "子罕 (Zi Han) 21",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.22",
+      "label": "子罕 (Zi Han) 22",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.23",
+      "label": "子罕 (Zi Han) 23",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.24",
+      "label": "子罕 (Zi Han) 24",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.25",
+      "label": "子罕 (Zi Han) 25",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.26",
+      "label": "子罕 (Zi Han) 26",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.27",
+      "label": "子罕 (Zi Han) 27",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.28",
+      "label": "子罕 (Zi Han) 28",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.29",
+      "label": "子罕 (Zi Han) 29",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.30",
+      "label": "子罕 (Zi Han) 30",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.31",
+      "label": "子罕 (Zi Han) 31",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "10.1",
+      "label": "鄉黨 (Xiang Dang) 1",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.2",
+      "label": "鄉黨 (Xiang Dang) 2",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.3",
+      "label": "鄉黨 (Xiang Dang) 3",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.4",
+      "label": "鄉黨 (Xiang Dang) 4",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.5",
+      "label": "鄉黨 (Xiang Dang) 5",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.6",
+      "label": "鄉黨 (Xiang Dang) 6",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.7",
+      "label": "鄉黨 (Xiang Dang) 7",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.8",
+      "label": "鄉黨 (Xiang Dang) 8",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.9",
+      "label": "鄉黨 (Xiang Dang) 9",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.10",
+      "label": "鄉黨 (Xiang Dang) 10",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.11",
+      "label": "鄉黨 (Xiang Dang) 11",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.12",
+      "label": "鄉黨 (Xiang Dang) 12",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.13",
+      "label": "鄉黨 (Xiang Dang) 13",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.14",
+      "label": "鄉黨 (Xiang Dang) 14",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.15",
+      "label": "鄉黨 (Xiang Dang) 15",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.16",
+      "label": "鄉黨 (Xiang Dang) 16",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.17",
+      "label": "鄉黨 (Xiang Dang) 17",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.18",
+      "label": "鄉黨 (Xiang Dang) 18",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "11.1",
+      "label": "先進 (Xian Jin) 1",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.2",
+      "label": "先進 (Xian Jin) 2",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.3",
+      "label": "先進 (Xian Jin) 3",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.4",
+      "label": "先進 (Xian Jin) 4",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.5",
+      "label": "先進 (Xian Jin) 5",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.6",
+      "label": "先進 (Xian Jin) 6",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.7",
+      "label": "先進 (Xian Jin) 7",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.8",
+      "label": "先進 (Xian Jin) 8",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.9",
+      "label": "先進 (Xian Jin) 9",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.10",
+      "label": "先進 (Xian Jin) 10",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.11",
+      "label": "先進 (Xian Jin) 11",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.12",
+      "label": "先進 (Xian Jin) 12",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.13",
+      "label": "先進 (Xian Jin) 13",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.14",
+      "label": "先進 (Xian Jin) 14",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.15",
+      "label": "先進 (Xian Jin) 15",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.16",
+      "label": "先進 (Xian Jin) 16",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.17",
+      "label": "先進 (Xian Jin) 17",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.18",
+      "label": "先進 (Xian Jin) 18",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.19",
+      "label": "先進 (Xian Jin) 19",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.20",
+      "label": "先進 (Xian Jin) 20",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.21",
+      "label": "先進 (Xian Jin) 21",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.22",
+      "label": "先進 (Xian Jin) 22",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.23",
+      "label": "先進 (Xian Jin) 23",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.24",
+      "label": "先進 (Xian Jin) 24",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.25",
+      "label": "先進 (Xian Jin) 25",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.26",
+      "label": "先進 (Xian Jin) 26",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "12.1",
+      "label": "顏淵 (Yan Yuan) 1",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.2",
+      "label": "顏淵 (Yan Yuan) 2",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.3",
+      "label": "顏淵 (Yan Yuan) 3",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.4",
+      "label": "顏淵 (Yan Yuan) 4",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.5",
+      "label": "顏淵 (Yan Yuan) 5",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.6",
+      "label": "顏淵 (Yan Yuan) 6",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.7",
+      "label": "顏淵 (Yan Yuan) 7",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.8",
+      "label": "顏淵 (Yan Yuan) 8",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.9",
+      "label": "顏淵 (Yan Yuan) 9",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.10",
+      "label": "顏淵 (Yan Yuan) 10",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.11",
+      "label": "顏淵 (Yan Yuan) 11",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.12",
+      "label": "顏淵 (Yan Yuan) 12",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.13",
+      "label": "顏淵 (Yan Yuan) 13",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.14",
+      "label": "顏淵 (Yan Yuan) 14",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.15",
+      "label": "顏淵 (Yan Yuan) 15",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.16",
+      "label": "顏淵 (Yan Yuan) 16",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.17",
+      "label": "顏淵 (Yan Yuan) 17",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.18",
+      "label": "顏淵 (Yan Yuan) 18",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.19",
+      "label": "顏淵 (Yan Yuan) 19",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.20",
+      "label": "顏淵 (Yan Yuan) 20",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.21",
+      "label": "顏淵 (Yan Yuan) 21",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.22",
+      "label": "顏淵 (Yan Yuan) 22",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.23",
+      "label": "顏淵 (Yan Yuan) 23",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.24",
+      "label": "顏淵 (Yan Yuan) 24",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "13.1",
+      "label": "子路 (Zi Lu) 1",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.2",
+      "label": "子路 (Zi Lu) 2",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.3",
+      "label": "子路 (Zi Lu) 3",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.4",
+      "label": "子路 (Zi Lu) 4",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.5",
+      "label": "子路 (Zi Lu) 5",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.6",
+      "label": "子路 (Zi Lu) 6",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.7",
+      "label": "子路 (Zi Lu) 7",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.8",
+      "label": "子路 (Zi Lu) 8",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.9",
+      "label": "子路 (Zi Lu) 9",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.10",
+      "label": "子路 (Zi Lu) 10",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.11",
+      "label": "子路 (Zi Lu) 11",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.12",
+      "label": "子路 (Zi Lu) 12",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.13",
+      "label": "子路 (Zi Lu) 13",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.14",
+      "label": "子路 (Zi Lu) 14",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.15",
+      "label": "子路 (Zi Lu) 15",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.16",
+      "label": "子路 (Zi Lu) 16",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.17",
+      "label": "子路 (Zi Lu) 17",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.18",
+      "label": "子路 (Zi Lu) 18",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.19",
+      "label": "子路 (Zi Lu) 19",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.20",
+      "label": "子路 (Zi Lu) 20",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.21",
+      "label": "子路 (Zi Lu) 21",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.22",
+      "label": "子路 (Zi Lu) 22",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.23",
+      "label": "子路 (Zi Lu) 23",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.24",
+      "label": "子路 (Zi Lu) 24",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.25",
+      "label": "子路 (Zi Lu) 25",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.26",
+      "label": "子路 (Zi Lu) 26",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.27",
+      "label": "子路 (Zi Lu) 27",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.28",
+      "label": "子路 (Zi Lu) 28",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.29",
+      "label": "子路 (Zi Lu) 29",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.30",
+      "label": "子路 (Zi Lu) 30",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "14.1",
+      "label": "憲問 (Xian Wen) 1",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.2",
+      "label": "憲問 (Xian Wen) 2",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.3",
+      "label": "憲問 (Xian Wen) 3",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.4",
+      "label": "憲問 (Xian Wen) 4",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.5",
+      "label": "憲問 (Xian Wen) 5",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.6",
+      "label": "憲問 (Xian Wen) 6",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.7",
+      "label": "憲問 (Xian Wen) 7",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.8",
+      "label": "憲問 (Xian Wen) 8",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.9",
+      "label": "憲問 (Xian Wen) 9",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.10",
+      "label": "憲問 (Xian Wen) 10",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.11",
+      "label": "憲問 (Xian Wen) 11",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.12",
+      "label": "憲問 (Xian Wen) 12",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.13",
+      "label": "憲問 (Xian Wen) 13",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.14",
+      "label": "憲問 (Xian Wen) 14",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.15",
+      "label": "憲問 (Xian Wen) 15",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.16",
+      "label": "憲問 (Xian Wen) 16",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.17",
+      "label": "憲問 (Xian Wen) 17",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.18",
+      "label": "憲問 (Xian Wen) 18",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.19",
+      "label": "憲問 (Xian Wen) 19",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.20",
+      "label": "憲問 (Xian Wen) 20",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.21",
+      "label": "憲問 (Xian Wen) 21",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.22",
+      "label": "憲問 (Xian Wen) 22",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.23",
+      "label": "憲問 (Xian Wen) 23",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.24",
+      "label": "憲問 (Xian Wen) 24",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.25",
+      "label": "憲問 (Xian Wen) 25",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.26",
+      "label": "憲問 (Xian Wen) 26",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.27",
+      "label": "憲問 (Xian Wen) 27",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.28",
+      "label": "憲問 (Xian Wen) 28",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.29",
+      "label": "憲問 (Xian Wen) 29",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.30",
+      "label": "憲問 (Xian Wen) 30",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.31",
+      "label": "憲問 (Xian Wen) 31",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.32",
+      "label": "憲問 (Xian Wen) 32",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.33",
+      "label": "憲問 (Xian Wen) 33",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.34",
+      "label": "憲問 (Xian Wen) 34",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.35",
+      "label": "憲問 (Xian Wen) 35",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.36",
+      "label": "憲問 (Xian Wen) 36",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.37",
+      "label": "憲問 (Xian Wen) 37",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.38",
+      "label": "憲問 (Xian Wen) 38",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.39",
+      "label": "憲問 (Xian Wen) 39",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.40",
+      "label": "憲問 (Xian Wen) 40",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.41",
+      "label": "憲問 (Xian Wen) 41",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.42",
+      "label": "憲問 (Xian Wen) 42",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.43",
+      "label": "憲問 (Xian Wen) 43",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.44",
+      "label": "憲問 (Xian Wen) 44",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "15.1",
+      "label": "衛靈公 (Wei Ling Gong) 1",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.2",
+      "label": "衛靈公 (Wei Ling Gong) 2",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.3",
+      "label": "衛靈公 (Wei Ling Gong) 3",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.4",
+      "label": "衛靈公 (Wei Ling Gong) 4",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.5",
+      "label": "衛靈公 (Wei Ling Gong) 5",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.6",
+      "label": "衛靈公 (Wei Ling Gong) 6",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.7",
+      "label": "衛靈公 (Wei Ling Gong) 7",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.8",
+      "label": "衛靈公 (Wei Ling Gong) 8",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.9",
+      "label": "衛靈公 (Wei Ling Gong) 9",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.10",
+      "label": "衛靈公 (Wei Ling Gong) 10",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.11",
+      "label": "衛靈公 (Wei Ling Gong) 11",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.12",
+      "label": "衛靈公 (Wei Ling Gong) 12",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.13",
+      "label": "衛靈公 (Wei Ling Gong) 13",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.14",
+      "label": "衛靈公 (Wei Ling Gong) 14",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.15",
+      "label": "衛靈公 (Wei Ling Gong) 15",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.16",
+      "label": "衛靈公 (Wei Ling Gong) 16",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.17",
+      "label": "衛靈公 (Wei Ling Gong) 17",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.18",
+      "label": "衛靈公 (Wei Ling Gong) 18",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.19",
+      "label": "衛靈公 (Wei Ling Gong) 19",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.20",
+      "label": "衛靈公 (Wei Ling Gong) 20",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.21",
+      "label": "衛靈公 (Wei Ling Gong) 21",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.22",
+      "label": "衛靈公 (Wei Ling Gong) 22",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.23",
+      "label": "衛靈公 (Wei Ling Gong) 23",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.24",
+      "label": "衛靈公 (Wei Ling Gong) 24",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.25",
+      "label": "衛靈公 (Wei Ling Gong) 25",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.26",
+      "label": "衛靈公 (Wei Ling Gong) 26",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.27",
+      "label": "衛靈公 (Wei Ling Gong) 27",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.28",
+      "label": "衛靈公 (Wei Ling Gong) 28",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.29",
+      "label": "衛靈公 (Wei Ling Gong) 29",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.30",
+      "label": "衛靈公 (Wei Ling Gong) 30",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.31",
+      "label": "衛靈公 (Wei Ling Gong) 31",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.32",
+      "label": "衛靈公 (Wei Ling Gong) 32",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.33",
+      "label": "衛靈公 (Wei Ling Gong) 33",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.34",
+      "label": "衛靈公 (Wei Ling Gong) 34",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.35",
+      "label": "衛靈公 (Wei Ling Gong) 35",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.36",
+      "label": "衛靈公 (Wei Ling Gong) 36",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.37",
+      "label": "衛靈公 (Wei Ling Gong) 37",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.38",
+      "label": "衛靈公 (Wei Ling Gong) 38",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.39",
+      "label": "衛靈公 (Wei Ling Gong) 39",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.40",
+      "label": "衛靈公 (Wei Ling Gong) 40",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.41",
+      "label": "衛靈公 (Wei Ling Gong) 41",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.42",
+      "label": "衛靈公 (Wei Ling Gong) 42",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "16.1",
+      "label": "季氏 (Ji Shi) 1",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.2",
+      "label": "季氏 (Ji Shi) 2",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.3",
+      "label": "季氏 (Ji Shi) 3",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.4",
+      "label": "季氏 (Ji Shi) 4",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.5",
+      "label": "季氏 (Ji Shi) 5",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.6",
+      "label": "季氏 (Ji Shi) 6",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.7",
+      "label": "季氏 (Ji Shi) 7",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.8",
+      "label": "季氏 (Ji Shi) 8",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.9",
+      "label": "季氏 (Ji Shi) 9",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.10",
+      "label": "季氏 (Ji Shi) 10",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.11",
+      "label": "季氏 (Ji Shi) 11",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.12",
+      "label": "季氏 (Ji Shi) 12",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.13",
+      "label": "季氏 (Ji Shi) 13",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.14",
+      "label": "季氏 (Ji Shi) 14",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "17.1",
+      "label": "陽貨 (Yang Huo) 1",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.2",
+      "label": "陽貨 (Yang Huo) 2",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.3",
+      "label": "陽貨 (Yang Huo) 3",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.4",
+      "label": "陽貨 (Yang Huo) 4",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.5",
+      "label": "陽貨 (Yang Huo) 5",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.6",
+      "label": "陽貨 (Yang Huo) 6",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.7",
+      "label": "陽貨 (Yang Huo) 7",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.8",
+      "label": "陽貨 (Yang Huo) 8",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.9",
+      "label": "陽貨 (Yang Huo) 9",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.10",
+      "label": "陽貨 (Yang Huo) 10",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.11",
+      "label": "陽貨 (Yang Huo) 11",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.12",
+      "label": "陽貨 (Yang Huo) 12",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.13",
+      "label": "陽貨 (Yang Huo) 13",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.14",
+      "label": "陽貨 (Yang Huo) 14",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.15",
+      "label": "陽貨 (Yang Huo) 15",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.16",
+      "label": "陽貨 (Yang Huo) 16",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.17",
+      "label": "陽貨 (Yang Huo) 17",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.18",
+      "label": "陽貨 (Yang Huo) 18",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.19",
+      "label": "陽貨 (Yang Huo) 19",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.20",
+      "label": "陽貨 (Yang Huo) 20",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.21",
+      "label": "陽貨 (Yang Huo) 21",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.22",
+      "label": "陽貨 (Yang Huo) 22",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.23",
+      "label": "陽貨 (Yang Huo) 23",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.24",
+      "label": "陽貨 (Yang Huo) 24",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.25",
+      "label": "陽貨 (Yang Huo) 25",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.26",
+      "label": "陽貨 (Yang Huo) 26",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "18.1",
+      "label": "微子 (Wei Zi) 1",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.2",
+      "label": "微子 (Wei Zi) 2",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.3",
+      "label": "微子 (Wei Zi) 3",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.4",
+      "label": "微子 (Wei Zi) 4",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.5",
+      "label": "微子 (Wei Zi) 5",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.6",
+      "label": "微子 (Wei Zi) 6",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.7",
+      "label": "微子 (Wei Zi) 7",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.8",
+      "label": "微子 (Wei Zi) 8",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.9",
+      "label": "微子 (Wei Zi) 9",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.10",
+      "label": "微子 (Wei Zi) 10",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.11",
+      "label": "微子 (Wei Zi) 11",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "19.1",
+      "label": "子張 (Zi Zhang) 1",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.2",
+      "label": "子張 (Zi Zhang) 2",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.3",
+      "label": "子張 (Zi Zhang) 3",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.4",
+      "label": "子張 (Zi Zhang) 4",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.5",
+      "label": "子張 (Zi Zhang) 5",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.6",
+      "label": "子張 (Zi Zhang) 6",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.7",
+      "label": "子張 (Zi Zhang) 7",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.8",
+      "label": "子張 (Zi Zhang) 8",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.9",
+      "label": "子張 (Zi Zhang) 9",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.10",
+      "label": "子張 (Zi Zhang) 10",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.11",
+      "label": "子張 (Zi Zhang) 11",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.12",
+      "label": "子張 (Zi Zhang) 12",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.13",
+      "label": "子張 (Zi Zhang) 13",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.14",
+      "label": "子張 (Zi Zhang) 14",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.15",
+      "label": "子張 (Zi Zhang) 15",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.16",
+      "label": "子張 (Zi Zhang) 16",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.17",
+      "label": "子張 (Zi Zhang) 17",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.18",
+      "label": "子張 (Zi Zhang) 18",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.19",
+      "label": "子張 (Zi Zhang) 19",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.20",
+      "label": "子張 (Zi Zhang) 20",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.21",
+      "label": "子張 (Zi Zhang) 21",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.22",
+      "label": "子張 (Zi Zhang) 22",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.23",
+      "label": "子張 (Zi Zhang) 23",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.24",
+      "label": "子張 (Zi Zhang) 24",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.25",
+      "label": "子張 (Zi Zhang) 25",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "20.1",
+      "label": "堯曰 (Yao Yue) 1",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.2",
+      "label": "堯曰 (Yao Yue) 2",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.3",
+      "label": "堯曰 (Yao Yue) 3",
+      "chapterRef": "20"
+    }
+  ],
+  "editions": [
+    {
+      "slug": "analects-zh-ctext",
+      "language": "zh",
+      "editionType": "original",
+      "title": "論語 — Chinese Text Project transcription",
+      "translator": "",
+      "publisher": "Chinese Text Project (ctext.org)",
+      "publicationYear": null,
+      "source": "ctext",
+      "license": "ctext-site-terms",
+      "rightsStatus": "Pre-modern text out of copyright; the transcription, punctuation and apparatus are the Chinese Text Project's editorial work and are credited on every page",
+      "attributionText": "Chinese text from the Chinese Text Project (ctext.org). The transcription and punctuation are the project's editorial work and are credited on every page; the pre-modern text itself is out of copyright.",
+      "structureScheme": "chapter.paragraph as the site's reading pages print them",
+      "isSample": false,
+      "notes": "The import validated every paragraph against the site's reading pages; the reader asks ctext.org for the chapter at read time and falls back to the validated cache when the site cannot be read."
+    }
+  ]
+}

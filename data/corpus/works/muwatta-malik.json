@@ -1,0 +1,9400 @@
+{
+  "slug": "muwatta-malik",
+  "title": "Al-Muwatta",
+  "originalTitle": "الموطأ",
+  "transliteration": "al-Muwaṭṭaʾ",
+  "altTitles": [],
+  "tradition": "islam",
+  "school": "sunni-tradition",
+  "genre": "Jurisprudence",
+  "textType": "Legal compendium",
+  "category": "Jurisprudence (Fiqh)",
+  "subcategory": "Early legal compendia",
+  "originalLanguage": "ar",
+  "dateStart": 750,
+  "dateEnd": 795,
+  "dateDisplay": "compiled c. 750–795 CE",
+  "authorshipStatus": "established",
+  "author": "malik-ibn-anas",
+  "attributionNote": "The compiler selected, arranged and in places commented on the reports; the reports themselves are attributed within each text to their transmitters. The catalogue distinguishes the compiler's work from the material compiled.",
+  "description": "Malik ibn Anas's arrangement of the practice of Medina by legal topic: prayer, alms, fasting, pilgrimage, marriage, trade, inheritance and the penalties. It combines reports attributed to the Prophet with the practice of the city, and is the earliest surviving compendium of Islamic law.",
+  "historicalContext": "Compiled in Medina in the eighth century, before the classical legal schools had taken shape. It is the foundation of the Maliki school and is received as a hadith collection by others.",
+  "availabilityNote": "Streamed section by section from the Hadith API at read time, Arabic beside the English translation. The host does not identify the translator of this English text. Rights are unverified; the text is streamed with attribution to the host and is not relicensed.",
+  "featured": false,
+  "featuredNote": "",
+  "refScheme": "book.hadith",
+  "isSample": false,
+  "textStorage": "streamed",
+  "chapters": [
+    {
+      "ref": "1",
+      "label": "Book 1 — The Times of Prayer"
+    },
+    {
+      "ref": "2",
+      "label": "Book 2 — Purity"
+    },
+    {
+      "ref": "3",
+      "label": "Book 3 — Prayer"
+    },
+    {
+      "ref": "4",
+      "label": "Book 4 — Forgetfulness in Prayer"
+    },
+    {
+      "ref": "5",
+      "label": "Book 5 — Jumu'a"
+    },
+    {
+      "ref": "6",
+      "label": "Book 6 — Prayer in Ramadan"
+    },
+    {
+      "ref": "7",
+      "label": "Book 7 — Tahajjud"
+    },
+    {
+      "ref": "8",
+      "label": "Book 8 — Prayer in Congregation"
+    },
+    {
+      "ref": "9",
+      "label": "Book 9 — Shortening the Prayer"
+    },
+    {
+      "ref": "10",
+      "label": "Book 10 — The Two 'Ids"
+    },
+    {
+      "ref": "11",
+      "label": "Book 11 — The Fear Prayer"
+    },
+    {
+      "ref": "12",
+      "label": "Book 12 — The Eclipse Prayer"
+    },
+    {
+      "ref": "13",
+      "label": "Book 13 — Asking for Rain"
+    },
+    {
+      "ref": "14",
+      "label": "Book 14 — The Qibla"
+    },
+    {
+      "ref": "15",
+      "label": "Book 15 — The Qur'an"
+    },
+    {
+      "ref": "16",
+      "label": "Book 16 — Burials"
+    },
+    {
+      "ref": "17",
+      "label": "Book 17 — Zakat"
+    },
+    {
+      "ref": "18",
+      "label": "Book 18 — Fasting"
+    },
+    {
+      "ref": "19",
+      "label": "Book 19 — I'tikaf in Ramadan"
+    },
+    {
+      "ref": "20",
+      "label": "Book 20 — Hajj"
+    },
+    {
+      "ref": "21",
+      "label": "Book 21 — Jihad"
+    },
+    {
+      "ref": "22",
+      "label": "Book 22 — Vows and Oaths"
+    },
+    {
+      "ref": "23",
+      "label": "Book 23 — Sacrificial Animals"
+    },
+    {
+      "ref": "24",
+      "label": "Book 24 — Slaughtering Animals"
+    },
+    {
+      "ref": "25",
+      "label": "Book 25 — Game"
+    },
+    {
+      "ref": "26",
+      "label": "Book 26 — The 'Aqiqa"
+    },
+    {
+      "ref": "27",
+      "label": "Book 27 — Fara'id"
+    },
+    {
+      "ref": "28",
+      "label": "Book 28 — Marriage"
+    },
+    {
+      "ref": "29",
+      "label": "Book 29 — Divorce"
+    },
+    {
+      "ref": "30",
+      "label": "Book 30 — Suckling"
+    },
+    {
+      "ref": "31",
+      "label": "Book 31 — Business Transactions"
+    },
+    {
+      "ref": "32",
+      "label": "Book 32 — Qirad"
+    },
+    {
+      "ref": "33",
+      "label": "Book 33 — Sharecropping"
+    },
+    {
+      "ref": "34",
+      "label": "Book 34 — Renting Land"
+    },
+    {
+      "ref": "35",
+      "label": "Book 35 — Pre-emption in Property"
+    },
+    {
+      "ref": "36",
+      "label": "Book 36 — Judgements"
+    },
+    {
+      "ref": "37",
+      "label": "Book 37 — Wills and Testaments"
+    },
+    {
+      "ref": "38",
+      "label": "Book 38 — Setting Free and Wala'"
+    },
+    {
+      "ref": "39",
+      "label": "Book 39 — The Mukatab"
+    },
+    {
+      "ref": "40",
+      "label": "Book 40 — The Mudabbar"
+    },
+    {
+      "ref": "41",
+      "label": "Book 41 — Hudud"
+    },
+    {
+      "ref": "42",
+      "label": "Book 42 — Drinks"
+    },
+    {
+      "ref": "43",
+      "label": "Book 43 — Blood-Money"
+    },
+    {
+      "ref": "44",
+      "label": "Book 44 — The Oath of Qasama"
+    },
+    {
+      "ref": "45",
+      "label": "Book 45 — Madina"
+    },
+    {
+      "ref": "46",
+      "label": "Book 46 — The Decree"
+    },
+    {
+      "ref": "47",
+      "label": "Book 47 — Good Character"
+    },
+    {
+      "ref": "48",
+      "label": "Book 48 — Dress"
+    },
+    {
+      "ref": "49",
+      "label": "Book 49 — The Description of the Prophet, may Allah Bless Him and Grant Him Peace"
+    },
+    {
+      "ref": "50",
+      "label": "Book 50 — The Evil Eye"
+    },
+    {
+      "ref": "51",
+      "label": "Book 51 — Hair"
+    },
+    {
+      "ref": "52",
+      "label": "Book 52 — Visions"
+    },
+    {
+      "ref": "53",
+      "label": "Book 53 — Greetings"
+    },
+    {
+      "ref": "54",
+      "label": "Book 54 — General Subjects"
+    },
+    {
+      "ref": "55",
+      "label": "Book 55 — The Oath of Allegiance"
+    },
+    {
+      "ref": "56",
+      "label": "Book 56 — Speech"
+    },
+    {
+      "ref": "57",
+      "label": "Book 57 — Jahannam"
+    },
+    {
+      "ref": "58",
+      "label": "Book 58 — Sadaqa"
+    },
+    {
+      "ref": "59",
+      "label": "Book 59 — Knowledge"
+    },
+    {
+      "ref": "60",
+      "label": "Book 60 — The Supplication of the Unjustly Wronged"
+    },
+    {
+      "ref": "61",
+      "label": "Book 61 — The Names of the Prophet, may Allah Bless Him and Grant Him Peace"
+    }
+  ],
+  "passages": [
+    {
+      "reference": "1.1",
+      "label": "Malik 1",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.2",
+      "label": "Malik 2",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.3",
+      "label": "Malik 3",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.4",
+      "label": "Malik 4",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.5",
+      "label": "Malik 5",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.6",
+      "label": "Malik 6",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.7",
+      "label": "Malik 7",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.8",
+      "label": "Malik 8",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.9",
+      "label": "Malik 9",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.10",
+      "label": "Malik 10",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.11",
+      "label": "Malik 11",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.12",
+      "label": "Malik 12",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.13",
+      "label": "Malik 13",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.14",
+      "label": "Malik 14",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.15",
+      "label": "Malik 15",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.16",
+      "label": "Malik 16",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.17",
+      "label": "Malik 17",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.18",
+      "label": "Malik 18",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.19",
+      "label": "Malik 19",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.20",
+      "label": "Malik 20",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.21",
+      "label": "Malik 21",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.22",
+      "label": "Malik 22",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.23",
+      "label": "Malik 23",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.24",
+      "label": "Malik 24",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.25",
+      "label": "Malik 25",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.26",
+      "label": "Malik 26",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.27",
+      "label": "Malik 27",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.28",
+      "label": "Malik 28",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.29",
+      "label": "Malik 29",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.30",
+      "label": "Malik 30",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.31",
+      "label": "Malik 31",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "2.1",
+      "label": "Malik 32",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.2",
+      "label": "Malik 33",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.3",
+      "label": "Malik 34",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.4",
+      "label": "Malik 35",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.5",
+      "label": "Malik 36",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.6",
+      "label": "Malik 37",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.7",
+      "label": "Malik 38",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.8",
+      "label": "Malik 39",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.9",
+      "label": "Malik 40",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.10",
+      "label": "Malik 41",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.11",
+      "label": "Malik 42",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.12",
+      "label": "Malik 43",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.13",
+      "label": "Malik 44",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.14",
+      "label": "Malik 45",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.15",
+      "label": "Malik 46",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.16",
+      "label": "Malik 47",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.17",
+      "label": "Malik 48",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.18",
+      "label": "Malik 49",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.19",
+      "label": "Malik 50",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.20",
+      "label": "Malik 51",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.21",
+      "label": "Malik 52",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.22",
+      "label": "Malik 53",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.23",
+      "label": "Malik 54",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.24",
+      "label": "Malik 55",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.25",
+      "label": "Malik 56",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.26",
+      "label": "Malik 57",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.27",
+      "label": "Malik 58",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.28",
+      "label": "Malik 59",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.29",
+      "label": "Malik 60",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.30",
+      "label": "Malik 61",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.31",
+      "label": "Malik 62",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.32",
+      "label": "Malik 63",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.33",
+      "label": "Malik 64",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.34",
+      "label": "Malik 65",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.35",
+      "label": "Malik 66",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.36",
+      "label": "Malik 67",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.37",
+      "label": "Malik 68",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.38",
+      "label": "Malik 69",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.39",
+      "label": "Malik 70",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.40",
+      "label": "Malik 71",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.41",
+      "label": "Malik 72",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.42",
+      "label": "Malik 73",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.43",
+      "label": "Malik 74",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.44",
+      "label": "Malik 75",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.45",
+      "label": "Malik 76",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.46",
+      "label": "Malik 77",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.47",
+      "label": "Malik 78",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.48",
+      "label": "Malik 79",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.49",
+      "label": "Malik 80",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.50",
+      "label": "Malik 81",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.51",
+      "label": "Malik 82",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.52",
+      "label": "Malik 83",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.53",
+      "label": "Malik 84",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.54",
+      "label": "Malik 85",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.55",
+      "label": "Malik 86",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.56",
+      "label": "Malik 87",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.57",
+      "label": "Malik 88",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.58",
+      "label": "Malik 89",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.59",
+      "label": "Malik 90",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.60",
+      "label": "Malik 91",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.61",
+      "label": "Malik 92",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.62",
+      "label": "Malik 93",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.63",
+      "label": "Malik 94",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.64",
+      "label": "Malik 95",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.65",
+      "label": "Malik 96",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.66",
+      "label": "Malik 97",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.67",
+      "label": "Malik 98",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.68",
+      "label": "Malik 99",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.69",
+      "label": "Malik 100",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.70",
+      "label": "Malik 101",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.71",
+      "label": "Malik 102",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.72",
+      "label": "Malik 103",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.73",
+      "label": "Malik 104",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.74",
+      "label": "Malik 105",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.75",
+      "label": "Malik 106",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.76",
+      "label": "Malik 107",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.77",
+      "label": "Malik 108",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.78",
+      "label": "Malik 109",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.79",
+      "label": "Malik 110",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.80",
+      "label": "Malik 111",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.81",
+      "label": "Malik 112",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.82",
+      "label": "Malik 113",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.83",
+      "label": "Malik 114",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.84",
+      "label": "Malik 115",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.85",
+      "label": "Malik 116",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.86",
+      "label": "Malik 117",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.87",
+      "label": "Malik 118",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.88",
+      "label": "Malik 119",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.89",
+      "label": "Malik 120",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.90",
+      "label": "Malik 121",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.91",
+      "label": "Malik 122",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.92",
+      "label": "Malik 123",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.93",
+      "label": "Malik 124",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.94",
+      "label": "Malik 125",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.95",
+      "label": "Malik 126",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.96",
+      "label": "Malik 127",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.97",
+      "label": "Malik 128",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.98",
+      "label": "Malik 129",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.99",
+      "label": "Malik 130",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.100",
+      "label": "Malik 131",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.101",
+      "label": "Malik 132",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.102",
+      "label": "Malik 133",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.103",
+      "label": "Malik 134",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.104",
+      "label": "Malik 135",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.105",
+      "label": "Malik 136",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.106",
+      "label": "Malik 137",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.107",
+      "label": "Malik 138",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.108",
+      "label": "Malik 139",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.109",
+      "label": "Malik 140",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.110",
+      "label": "Malik 141",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.111",
+      "label": "Malik 142",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.112",
+      "label": "Malik 143",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.113",
+      "label": "Malik 144",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.114",
+      "label": "Malik 145",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "3.1",
+      "label": "Malik 146",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.2",
+      "label": "Malik 147",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.3",
+      "label": "Malik 148",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.4",
+      "label": "Malik 149",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.5",
+      "label": "Malik 150",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.6",
+      "label": "Malik 151",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.7",
+      "label": "Malik 152",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.8",
+      "label": "Malik 153",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.9",
+      "label": "Malik 154",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.10",
+      "label": "Malik 155",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.11",
+      "label": "Malik 156",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.12",
+      "label": "Malik 157",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.13",
+      "label": "Malik 158",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.14",
+      "label": "Malik 159",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.15",
+      "label": "Malik 160",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.16",
+      "label": "Malik 161",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.17",
+      "label": "Malik 162",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.18",
+      "label": "Malik 163",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.19",
+      "label": "Malik 164",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.20",
+      "label": "Malik 165",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.21",
+      "label": "Malik 166",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.22",
+      "label": "Malik 168",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.23",
+      "label": "Malik 169",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.24",
+      "label": "Malik 170",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.25",
+      "label": "Malik 171",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.26",
+      "label": "Malik 172",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.27",
+      "label": "Malik 173",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.28",
+      "label": "Malik 174",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.29",
+      "label": "Malik 175",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.30",
+      "label": "Malik 176",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.31",
+      "label": "Malik 177",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.32",
+      "label": "Malik 178",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.33",
+      "label": "Malik 179",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.34",
+      "label": "Malik 180",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.35",
+      "label": "Malik 181",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.36",
+      "label": "Malik 182",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.37",
+      "label": "Malik 183",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.38",
+      "label": "Malik 184",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.39",
+      "label": "Malik 185",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.40",
+      "label": "Malik 186",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.41",
+      "label": "Malik 187",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.42",
+      "label": "Malik 188",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.43",
+      "label": "Malik 189",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.44",
+      "label": "Malik 190",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.45",
+      "label": "Malik 191",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.46",
+      "label": "Malik 192",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.47",
+      "label": "Malik 193",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.48",
+      "label": "Malik 194",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.49",
+      "label": "Malik 195",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.50",
+      "label": "Malik 196",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.51",
+      "label": "Malik 197",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.52",
+      "label": "Malik 198",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.53",
+      "label": "Malik 199",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.54",
+      "label": "Malik 200",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.55",
+      "label": "Malik 201",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.56",
+      "label": "Malik 202",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.57",
+      "label": "Malik 203",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.58",
+      "label": "Malik 204",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.59",
+      "label": "Malik 205",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.60",
+      "label": "Malik 206",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.61",
+      "label": "Malik 207",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.62",
+      "label": "Malik 208",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.63",
+      "label": "Malik 209",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.64",
+      "label": "Malik 210",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.65",
+      "label": "Malik 211",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.66",
+      "label": "Malik 212",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.67",
+      "label": "Malik 213",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.68",
+      "label": "Malik 214",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.69",
+      "label": "Malik 215",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.70",
+      "label": "Malik 216",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.71",
+      "label": "Malik 217",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.72",
+      "label": "Malik 218",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.73",
+      "label": "Malik 219",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.74",
+      "label": "Malik 220",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.75",
+      "label": "Malik 221",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "4.1",
+      "label": "Malik 222",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.2",
+      "label": "Malik 223",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.3",
+      "label": "Malik 224",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "5.1",
+      "label": "Malik 225",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.2",
+      "label": "Malik 226",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.3",
+      "label": "Malik 227",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.4",
+      "label": "Malik 228",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.5",
+      "label": "Malik 229",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.6",
+      "label": "Malik 230",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.7",
+      "label": "Malik 231",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.8",
+      "label": "Malik 232",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.9",
+      "label": "Malik 233",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.10",
+      "label": "Malik 234",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.11",
+      "label": "Malik 235",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.12",
+      "label": "Malik 236",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.13",
+      "label": "Malik 237",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.14",
+      "label": "Malik 238",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.15",
+      "label": "Malik 239",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.16",
+      "label": "Malik 240",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.17",
+      "label": "Malik 241",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.18",
+      "label": "Malik 242",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.19",
+      "label": "Malik 243",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.20",
+      "label": "Malik 244",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.21",
+      "label": "Malik 245",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "6.1",
+      "label": "Malik 246",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.2",
+      "label": "Malik 247",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.3",
+      "label": "Malik 248",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.4",
+      "label": "Malik 249",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.5",
+      "label": "Malik 250",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.6",
+      "label": "Malik 251",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.7",
+      "label": "Malik 252",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.8",
+      "label": "Malik 253",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "7.1",
+      "label": "Malik 254",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.2",
+      "label": "Malik 255",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.3",
+      "label": "Malik 256",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.4",
+      "label": "Malik 257",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.5",
+      "label": "Malik 258",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.6",
+      "label": "Malik 259",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.7",
+      "label": "Malik 260",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.8",
+      "label": "Malik 261",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.9",
+      "label": "Malik 262",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.10",
+      "label": "Malik 263",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.11",
+      "label": "Malik 264",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.12",
+      "label": "Malik 265",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.13",
+      "label": "Malik 266",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.14",
+      "label": "Malik 267",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.15",
+      "label": "Malik 268",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.16",
+      "label": "Malik 269",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.17",
+      "label": "Malik 270",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.18",
+      "label": "Malik 271",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.19",
+      "label": "Malik 272",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.20",
+      "label": "Malik 273",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.21",
+      "label": "Malik 274",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.22",
+      "label": "Malik 275",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.23",
+      "label": "Malik 276",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.24",
+      "label": "Malik 277",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.25",
+      "label": "Malik 278",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.26",
+      "label": "Malik 279",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.27",
+      "label": "Malik 280",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.28",
+      "label": "Malik 281",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.29",
+      "label": "Malik 282",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.30",
+      "label": "Malik 283",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.31",
+      "label": "Malik 284",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.32",
+      "label": "Malik 285",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.33",
+      "label": "Malik 286",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "8.1",
+      "label": "Malik 287",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.2",
+      "label": "Malik 288",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.3",
+      "label": "Malik 289",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.4",
+      "label": "Malik 290",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.5",
+      "label": "Malik 291",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.6",
+      "label": "Malik 292",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.7",
+      "label": "Malik 293",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.8",
+      "label": "Malik 294",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.9",
+      "label": "Malik 295",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.10",
+      "label": "Malik 296",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.11",
+      "label": "Malik 297",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.12",
+      "label": "Malik 298",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.13",
+      "label": "Malik 299",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.14",
+      "label": "Malik 300",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.15",
+      "label": "Malik 301",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.16",
+      "label": "Malik 302",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.17",
+      "label": "Malik 303",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.18",
+      "label": "Malik 304",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.19",
+      "label": "Malik 305",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.20",
+      "label": "Malik 306",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.21",
+      "label": "Malik 307",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.22",
+      "label": "Malik 308",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.23",
+      "label": "Malik 309",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.24",
+      "label": "Malik 310",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.25",
+      "label": "Malik 311",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.26",
+      "label": "Malik 312",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.27",
+      "label": "Malik 313",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.28",
+      "label": "Malik 314",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.29",
+      "label": "Malik 315",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.30",
+      "label": "Malik 316",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.31",
+      "label": "Malik 317",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.32",
+      "label": "Malik 318",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.33",
+      "label": "Malik 319",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.34",
+      "label": "Malik 320",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.35",
+      "label": "Malik 321",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.36",
+      "label": "Malik 322",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.37",
+      "label": "Malik 323",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.38",
+      "label": "Malik 324",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.39",
+      "label": "Malik 325",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "9.1",
+      "label": "Malik 326",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.2",
+      "label": "Malik 327",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.3",
+      "label": "Malik 328",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.4",
+      "label": "Malik 329",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.5",
+      "label": "Malik 330",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.6",
+      "label": "Malik 331",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.7",
+      "label": "Malik 332",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.8",
+      "label": "Malik 333",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.9",
+      "label": "Malik 334",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.10",
+      "label": "Malik 335",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.11",
+      "label": "Malik 336",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.12",
+      "label": "Malik 337",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.13",
+      "label": "Malik 338",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.14",
+      "label": "Malik 339",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.15",
+      "label": "Malik 340",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.16",
+      "label": "Malik 341",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.17",
+      "label": "Malik 342",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.18",
+      "label": "Malik 343",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.19",
+      "label": "Malik 344",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.20",
+      "label": "Malik 345",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.21",
+      "label": "Malik 346",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.22",
+      "label": "Malik 347",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.23",
+      "label": "Malik 348",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.24",
+      "label": "Malik 349",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.25",
+      "label": "Malik 350",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.26",
+      "label": "Malik 351",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.27",
+      "label": "Malik 352",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.28",
+      "label": "Malik 353",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.29",
+      "label": "Malik 354",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.30",
+      "label": "Malik 355",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.31",
+      "label": "Malik 356",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.32",
+      "label": "Malik 357",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.33",
+      "label": "Malik 358",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.34",
+      "label": "Malik 359",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.35",
+      "label": "Malik 360",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.36",
+      "label": "Malik 361",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.37",
+      "label": "Malik 362",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.38",
+      "label": "Malik 363",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.39",
+      "label": "Malik 364",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.40",
+      "label": "Malik 365",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.41",
+      "label": "Malik 366",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.42",
+      "label": "Malik 367",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.43",
+      "label": "Malik 368",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.44",
+      "label": "Malik 369",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.45",
+      "label": "Malik 370",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.46",
+      "label": "Malik 371",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.47",
+      "label": "Malik 372",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.48",
+      "label": "Malik 373",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.49",
+      "label": "Malik 374",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.50",
+      "label": "Malik 375",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.51",
+      "label": "Malik 376",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.52",
+      "label": "Malik 377",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.53",
+      "label": "Malik 378",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.54",
+      "label": "Malik 379",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.55",
+      "label": "Malik 380",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.56",
+      "label": "Malik 381",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.57",
+      "label": "Malik 382",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.58",
+      "label": "Malik 383",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.59",
+      "label": "Malik 384",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.60",
+      "label": "Malik 385",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.61",
+      "label": "Malik 386",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.62",
+      "label": "Malik 387",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.63",
+      "label": "Malik 388",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.64",
+      "label": "Malik 389",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.65",
+      "label": "Malik 390",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.66",
+      "label": "Malik 391",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.67",
+      "label": "Malik 392",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.68",
+      "label": "Malik 393",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.69",
+      "label": "Malik 394",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.70",
+      "label": "Malik 395",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.71",
+      "label": "Malik 396",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.72",
+      "label": "Malik 397",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.73",
+      "label": "Malik 398",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.74",
+      "label": "Malik 399",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.75",
+      "label": "Malik 400",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.76",
+      "label": "Malik 401",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.77",
+      "label": "Malik 402",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.78",
+      "label": "Malik 403",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.79",
+      "label": "Malik 404",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.80",
+      "label": "Malik 405",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.81",
+      "label": "Malik 406",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.82",
+      "label": "Malik 407",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.83",
+      "label": "Malik 408",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.84",
+      "label": "Malik 409",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.85",
+      "label": "Malik 410",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.86",
+      "label": "Malik 411",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.87",
+      "label": "Malik 412",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.88",
+      "label": "Malik 413",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.89",
+      "label": "Malik 414",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.90",
+      "label": "Malik 415",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.91",
+      "label": "Malik 416",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.92",
+      "label": "Malik 417",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.93",
+      "label": "Malik 418",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.94",
+      "label": "Malik 419",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.95",
+      "label": "Malik 420",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.96",
+      "label": "Malik 421",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.97",
+      "label": "Malik 422",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.98",
+      "label": "Malik 423",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.99",
+      "label": "Malik 424",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.100",
+      "label": "Malik 425",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.101",
+      "label": "Malik 426",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.102",
+      "label": "Malik 427",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "10.1",
+      "label": "Malik 428",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.2",
+      "label": "Malik 429",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.3",
+      "label": "Malik 430",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.4",
+      "label": "Malik 431",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.5",
+      "label": "Malik 432",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.6",
+      "label": "Malik 433",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.7",
+      "label": "Malik 434",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.8",
+      "label": "Malik 435",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.9",
+      "label": "Malik 436",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.10",
+      "label": "Malik 437",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.11",
+      "label": "Malik 438",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.12",
+      "label": "Malik 439",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.13",
+      "label": "Malik 440",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "11.1",
+      "label": "Malik 441",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.2",
+      "label": "Malik 442",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.3",
+      "label": "Malik 443",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.4",
+      "label": "Malik 444",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "12.1",
+      "label": "Malik 445",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.2",
+      "label": "Malik 446",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.3",
+      "label": "Malik 447",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.4",
+      "label": "Malik 448",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "13.1",
+      "label": "Malik 449",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.2",
+      "label": "Malik 450",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.3",
+      "label": "Malik 451",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.4",
+      "label": "Malik 452",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.5",
+      "label": "Malik 453",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.6",
+      "label": "Malik 454",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "14.1",
+      "label": "Malik 455",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.2",
+      "label": "Malik 456",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.3",
+      "label": "Malik 457",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.4",
+      "label": "Malik 458",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.5",
+      "label": "Malik 459",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.6",
+      "label": "Malik 460",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.7",
+      "label": "Malik 461",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.8",
+      "label": "Malik 462",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.9",
+      "label": "Malik 463",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.10",
+      "label": "Malik 464",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.11",
+      "label": "Malik 465",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.12",
+      "label": "Malik 466",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.13",
+      "label": "Malik 467",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.14",
+      "label": "Malik 468",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.15",
+      "label": "Malik 469",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "15.1",
+      "label": "Malik 472",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.2",
+      "label": "Malik 473",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.3",
+      "label": "Malik 474",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.4",
+      "label": "Malik 475",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.5",
+      "label": "Malik 476",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.6",
+      "label": "Malik 477",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.7",
+      "label": "Malik 478",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.8",
+      "label": "Malik 479",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.9",
+      "label": "Malik 480",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.10",
+      "label": "Malik 481",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.11",
+      "label": "Malik 482",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.12",
+      "label": "Malik 483",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.13",
+      "label": "Malik 484",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.14",
+      "label": "Malik 487",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.15",
+      "label": "Malik 488",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.16",
+      "label": "Malik 489",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.17",
+      "label": "Malik 490",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.18",
+      "label": "Malik 491",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.19",
+      "label": "Malik 492",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.20",
+      "label": "Malik 493",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.21",
+      "label": "Malik 494",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.22",
+      "label": "Malik 495",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.23",
+      "label": "Malik 496",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.24",
+      "label": "Malik 497",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.25",
+      "label": "Malik 498",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.26",
+      "label": "Malik 499",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.27",
+      "label": "Malik 500",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.28",
+      "label": "Malik 501",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.29",
+      "label": "Malik 502",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.30",
+      "label": "Malik 503",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.31",
+      "label": "Malik 504",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.32",
+      "label": "Malik 505",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.33",
+      "label": "Malik 506",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.34",
+      "label": "Malik 507",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.35",
+      "label": "Malik 508",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.36",
+      "label": "Malik 509",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.37",
+      "label": "Malik 510",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.38",
+      "label": "Malik 511",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.39",
+      "label": "Malik 512",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.40",
+      "label": "Malik 513",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.41",
+      "label": "Malik 514",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.42",
+      "label": "Malik 515",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.43",
+      "label": "Malik 516",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.44",
+      "label": "Malik 517",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.45",
+      "label": "Malik 518",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.46",
+      "label": "Malik 519",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "16.1",
+      "label": "Malik 520",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.2",
+      "label": "Malik 521",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.3",
+      "label": "Malik 524",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.4",
+      "label": "Malik 525",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.5",
+      "label": "Malik 526",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.6",
+      "label": "Malik 527",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.7",
+      "label": "Malik 528",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.8",
+      "label": "Malik 529",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.9",
+      "label": "Malik 530",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.10",
+      "label": "Malik 531",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.11",
+      "label": "Malik 532",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.12",
+      "label": "Malik 533",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.13",
+      "label": "Malik 534",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.14",
+      "label": "Malik 535",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.15",
+      "label": "Malik 536",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.16",
+      "label": "Malik 537",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.17",
+      "label": "Malik 538",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.18",
+      "label": "Malik 539",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.19",
+      "label": "Malik 540",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.20",
+      "label": "Malik 541",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.21",
+      "label": "Malik 542",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.22",
+      "label": "Malik 543",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.23",
+      "label": "Malik 544",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.24",
+      "label": "Malik 545",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.25",
+      "label": "Malik 546",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.26",
+      "label": "Malik 547",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.27",
+      "label": "Malik 548",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.28",
+      "label": "Malik 549",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.29",
+      "label": "Malik 550",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.30",
+      "label": "Malik 551",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.31",
+      "label": "Malik 552",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.32",
+      "label": "Malik 553",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.33",
+      "label": "Malik 554",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.34",
+      "label": "Malik 555",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.35",
+      "label": "Malik 556",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.36",
+      "label": "Malik 557",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.37",
+      "label": "Malik 558",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.38",
+      "label": "Malik 559",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.39",
+      "label": "Malik 560",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.40",
+      "label": "Malik 561",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.41",
+      "label": "Malik 562",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.42",
+      "label": "Malik 563",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.43",
+      "label": "Malik 564",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.44",
+      "label": "Malik 565",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.45",
+      "label": "Malik 566",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.46",
+      "label": "Malik 567",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.47",
+      "label": "Malik 568",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.48",
+      "label": "Malik 569",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.49",
+      "label": "Malik 570",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.50",
+      "label": "Malik 571",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.51",
+      "label": "Malik 572",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.52",
+      "label": "Malik 573",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.53",
+      "label": "Malik 574",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.54",
+      "label": "Malik 575",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.55",
+      "label": "Malik 576",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.56",
+      "label": "Malik 577",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "17.1",
+      "label": "Malik 578",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.2",
+      "label": "Malik 579",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.3",
+      "label": "Malik 580",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.4",
+      "label": "Malik 581",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.5",
+      "label": "Malik 582",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.6",
+      "label": "Malik 583",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.7",
+      "label": "Malik 584",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.8",
+      "label": "Malik 585",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.9",
+      "label": "Malik 586",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.10",
+      "label": "Malik 587",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.11",
+      "label": "Malik 588",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.12",
+      "label": "Malik 589",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.13",
+      "label": "Malik 590",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.14",
+      "label": "Malik 591",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.15",
+      "label": "Malik 592",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.16",
+      "label": "Malik 593",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.17",
+      "label": "Malik 594",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.18",
+      "label": "Malik 595",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.19",
+      "label": "Malik 596",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.20",
+      "label": "Malik 597",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.21",
+      "label": "Malik 598",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.22",
+      "label": "Malik 599",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.23",
+      "label": "Malik 600",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.24",
+      "label": "Malik 601",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.25",
+      "label": "Malik 602",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.26",
+      "label": "Malik 603",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.27",
+      "label": "Malik 604",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.28",
+      "label": "Malik 605",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.29",
+      "label": "Malik 606",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.30",
+      "label": "Malik 607",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.31",
+      "label": "Malik 608",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.32",
+      "label": "Malik 609",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.33",
+      "label": "Malik 610",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.34",
+      "label": "Malik 611",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.35",
+      "label": "Malik 612",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.36",
+      "label": "Malik 613",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.37",
+      "label": "Malik 614",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.38",
+      "label": "Malik 615",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.39",
+      "label": "Malik 616",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.40",
+      "label": "Malik 617",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.41",
+      "label": "Malik 618",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.42",
+      "label": "Malik 619",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.43",
+      "label": "Malik 620",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.44",
+      "label": "Malik 621",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.45",
+      "label": "Malik 622",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.46",
+      "label": "Malik 623",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.47",
+      "label": "Malik 624",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.48",
+      "label": "Malik 625",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.49",
+      "label": "Malik 626",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.50",
+      "label": "Malik 627",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.51",
+      "label": "Malik 628",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.52",
+      "label": "Malik 629",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "18.1",
+      "label": "Malik 630",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.2",
+      "label": "Malik 631",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.3",
+      "label": "Malik 632",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.4",
+      "label": "Malik 633",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.5",
+      "label": "Malik 634",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.6",
+      "label": "Malik 635",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.7",
+      "label": "Malik 636",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.8",
+      "label": "Malik 637",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.9",
+      "label": "Malik 638",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.10",
+      "label": "Malik 639",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.11",
+      "label": "Malik 640",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.12",
+      "label": "Malik 641",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.13",
+      "label": "Malik 642",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.14",
+      "label": "Malik 643",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.15",
+      "label": "Malik 644",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.16",
+      "label": "Malik 645",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.17",
+      "label": "Malik 646",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.18",
+      "label": "Malik 647",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.19",
+      "label": "Malik 648",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.20",
+      "label": "Malik 649",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.21",
+      "label": "Malik 650",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.22",
+      "label": "Malik 651",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.23",
+      "label": "Malik 652",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.24",
+      "label": "Malik 653",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.25",
+      "label": "Malik 654",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.26",
+      "label": "Malik 655",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.27",
+      "label": "Malik 656",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.28",
+      "label": "Malik 657",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.29",
+      "label": "Malik 658",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.30",
+      "label": "Malik 659",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.31",
+      "label": "Malik 660",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.32",
+      "label": "Malik 661",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.33",
+      "label": "Malik 662",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.34",
+      "label": "Malik 663",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.35",
+      "label": "Malik 664",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.36",
+      "label": "Malik 665",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.37",
+      "label": "Malik 666",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.38",
+      "label": "Malik 667",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.39",
+      "label": "Malik 668",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.40",
+      "label": "Malik 669",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.41",
+      "label": "Malik 670",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.42",
+      "label": "Malik 673",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.43",
+      "label": "Malik 674",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.44",
+      "label": "Malik 675",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.45",
+      "label": "Malik 676",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.46",
+      "label": "Malik 677",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.47",
+      "label": "Malik 678",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.48",
+      "label": "Malik 679",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.49",
+      "label": "Malik 680",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.50",
+      "label": "Malik 681",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.51",
+      "label": "Malik 682",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.52",
+      "label": "Malik 683",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.53",
+      "label": "Malik 685",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.54",
+      "label": "Malik 686",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.55",
+      "label": "Malik 687",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.56",
+      "label": "Malik 688",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.57",
+      "label": "Malik 689",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "19.1",
+      "label": "Malik 690",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.2",
+      "label": "Malik 691",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.3",
+      "label": "Malik 692",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.4",
+      "label": "Malik 693",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.5",
+      "label": "Malik 696",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.6",
+      "label": "Malik 697",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.7",
+      "label": "Malik 698",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.8",
+      "label": "Malik 699",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.9",
+      "label": "Malik 700",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.10",
+      "label": "Malik 701",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.11",
+      "label": "Malik 702",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.12",
+      "label": "Malik 703",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.13",
+      "label": "Malik 704",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "20.1",
+      "label": "Malik 705",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.2",
+      "label": "Malik 706",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.3",
+      "label": "Malik 707",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.4",
+      "label": "Malik 708",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.5",
+      "label": "Malik 709",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.6",
+      "label": "Malik 710",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.7",
+      "label": "Malik 711",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.8",
+      "label": "Malik 712",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.9",
+      "label": "Malik 713",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.10",
+      "label": "Malik 714",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.11",
+      "label": "Malik 715",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.12",
+      "label": "Malik 716",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.13",
+      "label": "Malik 717",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.14",
+      "label": "Malik 718",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.15",
+      "label": "Malik 719",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.16",
+      "label": "Malik 720",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.17",
+      "label": "Malik 721",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.18",
+      "label": "Malik 722",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.19",
+      "label": "Malik 723",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.20",
+      "label": "Malik 724",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.21",
+      "label": "Malik 725",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.22",
+      "label": "Malik 726",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.23",
+      "label": "Malik 727",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.24",
+      "label": "Malik 728",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.25",
+      "label": "Malik 729",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.26",
+      "label": "Malik 730",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.27",
+      "label": "Malik 731",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.28",
+      "label": "Malik 732",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.29",
+      "label": "Malik 733",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.30",
+      "label": "Malik 734",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.31",
+      "label": "Malik 735",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.32",
+      "label": "Malik 736",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.33",
+      "label": "Malik 737",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.34",
+      "label": "Malik 738",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.35",
+      "label": "Malik 739",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.36",
+      "label": "Malik 740",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.37",
+      "label": "Malik 741",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.38",
+      "label": "Malik 742",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.39",
+      "label": "Malik 743",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.40",
+      "label": "Malik 744",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.41",
+      "label": "Malik 745",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.42",
+      "label": "Malik 746",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.43",
+      "label": "Malik 747",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.44",
+      "label": "Malik 748",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.45",
+      "label": "Malik 749",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.46",
+      "label": "Malik 750",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.47",
+      "label": "Malik 751",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.48",
+      "label": "Malik 752",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.49",
+      "label": "Malik 753",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.50",
+      "label": "Malik 754",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.51",
+      "label": "Malik 755",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.52",
+      "label": "Malik 756",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.53",
+      "label": "Malik 757",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.54",
+      "label": "Malik 758",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.55",
+      "label": "Malik 759",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.56",
+      "label": "Malik 760",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.57",
+      "label": "Malik 761",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.58",
+      "label": "Malik 762",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.59",
+      "label": "Malik 763",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.60",
+      "label": "Malik 764",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.61",
+      "label": "Malik 765",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.62",
+      "label": "Malik 766",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.63",
+      "label": "Malik 767",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.64",
+      "label": "Malik 768",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.65",
+      "label": "Malik 769",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.66",
+      "label": "Malik 770",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.67",
+      "label": "Malik 771",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.68",
+      "label": "Malik 772",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.69",
+      "label": "Malik 773",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.70",
+      "label": "Malik 774",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.71",
+      "label": "Malik 775",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.72",
+      "label": "Malik 776",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.73",
+      "label": "Malik 777",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.74",
+      "label": "Malik 778",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.75",
+      "label": "Malik 779",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.76",
+      "label": "Malik 780",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.77",
+      "label": "Malik 781",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.78",
+      "label": "Malik 782",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.79",
+      "label": "Malik 783",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.80",
+      "label": "Malik 784",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.81",
+      "label": "Malik 785",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.82",
+      "label": "Malik 786",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.83",
+      "label": "Malik 787",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.84",
+      "label": "Malik 788",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.85",
+      "label": "Malik 789",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.86",
+      "label": "Malik 790",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.87",
+      "label": "Malik 791",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.88",
+      "label": "Malik 792",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.89",
+      "label": "Malik 793",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.90",
+      "label": "Malik 794",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.91",
+      "label": "Malik 795",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.92",
+      "label": "Malik 796",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.93",
+      "label": "Malik 797",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.94",
+      "label": "Malik 798",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.95",
+      "label": "Malik 799",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.96",
+      "label": "Malik 800",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.97",
+      "label": "Malik 801",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.98",
+      "label": "Malik 802",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.99",
+      "label": "Malik 803",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.100",
+      "label": "Malik 804",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.101",
+      "label": "Malik 805",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.102",
+      "label": "Malik 806",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.103",
+      "label": "Malik 807",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.104",
+      "label": "Malik 808",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.105",
+      "label": "Malik 809",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.106",
+      "label": "Malik 810",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.107",
+      "label": "Malik 811",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.108",
+      "label": "Malik 812",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.109",
+      "label": "Malik 813",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.110",
+      "label": "Malik 814",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.111",
+      "label": "Malik 815",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.112",
+      "label": "Malik 816",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.113",
+      "label": "Malik 817",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.114",
+      "label": "Malik 818",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.115",
+      "label": "Malik 819",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.116",
+      "label": "Malik 820",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.117",
+      "label": "Malik 821",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.118",
+      "label": "Malik 822",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.119",
+      "label": "Malik 823",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.120",
+      "label": "Malik 824",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.121",
+      "label": "Malik 825",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.122",
+      "label": "Malik 826",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.123",
+      "label": "Malik 827",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.124",
+      "label": "Malik 828",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.125",
+      "label": "Malik 829",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.126",
+      "label": "Malik 830",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.127",
+      "label": "Malik 831",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.128",
+      "label": "Malik 832",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.129",
+      "label": "Malik 833",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.130",
+      "label": "Malik 834",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.131",
+      "label": "Malik 835",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.132",
+      "label": "Malik 836",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.133",
+      "label": "Malik 837",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.134",
+      "label": "Malik 838",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.135",
+      "label": "Malik 839",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.136",
+      "label": "Malik 840",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.137",
+      "label": "Malik 841",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.138",
+      "label": "Malik 842",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.139",
+      "label": "Malik 843",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.140",
+      "label": "Malik 844",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.141",
+      "label": "Malik 845",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.142",
+      "label": "Malik 846",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.143",
+      "label": "Malik 847",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.144",
+      "label": "Malik 848",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.145",
+      "label": "Malik 849",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.146",
+      "label": "Malik 850",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.147",
+      "label": "Malik 851",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.148",
+      "label": "Malik 852",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.149",
+      "label": "Malik 853",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.150",
+      "label": "Malik 854",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.151",
+      "label": "Malik 855",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.152",
+      "label": "Malik 856",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.153",
+      "label": "Malik 857",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.154",
+      "label": "Malik 858",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.155",
+      "label": "Malik 859",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.156",
+      "label": "Malik 860",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.157",
+      "label": "Malik 861",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.158",
+      "label": "Malik 862",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.159",
+      "label": "Malik 863",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.160",
+      "label": "Malik 864",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.161",
+      "label": "Malik 865",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.162",
+      "label": "Malik 866",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.163",
+      "label": "Malik 867",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.164",
+      "label": "Malik 868",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.165",
+      "label": "Malik 869",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.166",
+      "label": "Malik 870",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.167",
+      "label": "Malik 871",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.168",
+      "label": "Malik 872",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.169",
+      "label": "Malik 873",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.170",
+      "label": "Malik 874",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.171",
+      "label": "Malik 875",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.172",
+      "label": "Malik 876",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.173",
+      "label": "Malik 877",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.174",
+      "label": "Malik 878",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.175",
+      "label": "Malik 879",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.176",
+      "label": "Malik 880",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.177",
+      "label": "Malik 881",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.178",
+      "label": "Malik 882",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.179",
+      "label": "Malik 883",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.180",
+      "label": "Malik 884",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.181",
+      "label": "Malik 885",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.182",
+      "label": "Malik 886",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.183",
+      "label": "Malik 887",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.184",
+      "label": "Malik 888",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.185",
+      "label": "Malik 889",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.186",
+      "label": "Malik 890",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.187",
+      "label": "Malik 891",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.188",
+      "label": "Malik 892",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.189",
+      "label": "Malik 893",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.190",
+      "label": "Malik 894",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.191",
+      "label": "Malik 895",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.192",
+      "label": "Malik 896",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.193",
+      "label": "Malik 897",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.194",
+      "label": "Malik 898",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.195",
+      "label": "Malik 899",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.196",
+      "label": "Malik 900",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.197",
+      "label": "Malik 901",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.198",
+      "label": "Malik 902",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.199",
+      "label": "Malik 903",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.200",
+      "label": "Malik 904",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.201",
+      "label": "Malik 905",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.202",
+      "label": "Malik 906",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.203",
+      "label": "Malik 907",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.204",
+      "label": "Malik 908",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.205",
+      "label": "Malik 909",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.206",
+      "label": "Malik 910",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.207",
+      "label": "Malik 911",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.208",
+      "label": "Malik 912",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.209",
+      "label": "Malik 913",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.210",
+      "label": "Malik 914",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.211",
+      "label": "Malik 915",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.212",
+      "label": "Malik 916",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.213",
+      "label": "Malik 917",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.214",
+      "label": "Malik 918",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.215",
+      "label": "Malik 919",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.216",
+      "label": "Malik 920",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.217",
+      "label": "Malik 921",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.218",
+      "label": "Malik 922",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.219",
+      "label": "Malik 923",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.220",
+      "label": "Malik 924",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.221",
+      "label": "Malik 925",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.222",
+      "label": "Malik 926",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.223",
+      "label": "Malik 928",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.224",
+      "label": "Malik 929",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.225",
+      "label": "Malik 930",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.226",
+      "label": "Malik 931",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.227",
+      "label": "Malik 932",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.228",
+      "label": "Malik 933",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.229",
+      "label": "Malik 934",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.230",
+      "label": "Malik 935",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.231",
+      "label": "Malik 936",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.232",
+      "label": "Malik 937",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.233",
+      "label": "Malik 938",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.234",
+      "label": "Malik 939",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.235",
+      "label": "Malik 940",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.236",
+      "label": "Malik 941",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.237",
+      "label": "Malik 942",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.238",
+      "label": "Malik 943",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.239",
+      "label": "Malik 944",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.240",
+      "label": "Malik 945",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.241",
+      "label": "Malik 946",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.242",
+      "label": "Malik 947",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.243",
+      "label": "Malik 948",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.244",
+      "label": "Malik 949",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.245",
+      "label": "Malik 950",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.246",
+      "label": "Malik 952",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.247",
+      "label": "Malik 953",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.248",
+      "label": "Malik 954",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.249",
+      "label": "Malik 955",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.250",
+      "label": "Malik 956",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.251",
+      "label": "Malik 957",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "21.1",
+      "label": "Malik 959",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.2",
+      "label": "Malik 960",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.3",
+      "label": "Malik 961",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.4",
+      "label": "Malik 962",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.5",
+      "label": "Malik 963",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.6",
+      "label": "Malik 964",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.7",
+      "label": "Malik 965",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.8",
+      "label": "Malik 966",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.9",
+      "label": "Malik 967",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.10",
+      "label": "Malik 968",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.11",
+      "label": "Malik 969",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.12",
+      "label": "Malik 970",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.13",
+      "label": "Malik 971",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.14",
+      "label": "Malik 972",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.15",
+      "label": "Malik 973",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.16",
+      "label": "Malik 974",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.17",
+      "label": "Malik 975",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.18",
+      "label": "Malik 976",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.19",
+      "label": "Malik 977",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.20",
+      "label": "Malik 978",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.21",
+      "label": "Malik 979",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.22",
+      "label": "Malik 980",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.23",
+      "label": "Malik 981",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.24",
+      "label": "Malik 982",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.25",
+      "label": "Malik 983",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.26",
+      "label": "Malik 984",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.27",
+      "label": "Malik 985",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.28",
+      "label": "Malik 986",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.29",
+      "label": "Malik 987",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.30",
+      "label": "Malik 988",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.31",
+      "label": "Malik 989",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.32",
+      "label": "Malik 990",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.33",
+      "label": "Malik 991",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.34",
+      "label": "Malik 992",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.35",
+      "label": "Malik 993",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.36",
+      "label": "Malik 996",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.37",
+      "label": "Malik 997",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.38",
+      "label": "Malik 998",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.39",
+      "label": "Malik 999",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.40",
+      "label": "Malik 1000",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.41",
+      "label": "Malik 1001",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.42",
+      "label": "Malik 1002",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.43",
+      "label": "Malik 1003",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.44",
+      "label": "Malik 1004",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.45",
+      "label": "Malik 1005",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.46",
+      "label": "Malik 1006",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.47",
+      "label": "Malik 1007",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.48",
+      "label": "Malik 1008",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "22.1",
+      "label": "Malik 1009",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.2",
+      "label": "Malik 1010",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.3",
+      "label": "Malik 1011",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.4",
+      "label": "Malik 1012",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.5",
+      "label": "Malik 1014",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.6",
+      "label": "Malik 1015",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.7",
+      "label": "Malik 1016",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.8",
+      "label": "Malik 1017",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.9",
+      "label": "Malik 1018",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.10",
+      "label": "Malik 1019",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.11",
+      "label": "Malik 1020",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.12",
+      "label": "Malik 1021",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.13",
+      "label": "Malik 1022",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.14",
+      "label": "Malik 1023",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.15",
+      "label": "Malik 1024",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.16",
+      "label": "Malik 1025",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.17",
+      "label": "Malik 1026",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.18",
+      "label": "Malik 1027",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "23.1",
+      "label": "Malik 1028",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.2",
+      "label": "Malik 1029",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.3",
+      "label": "Malik 1030",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.4",
+      "label": "Malik 1031",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.5",
+      "label": "Malik 1032",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.6",
+      "label": "Malik 1033",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.7",
+      "label": "Malik 1034",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.8",
+      "label": "Malik 1035",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.9",
+      "label": "Malik 1036",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.10",
+      "label": "Malik 1037",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.11",
+      "label": "Malik 1038",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.12",
+      "label": "Malik 1039",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.13",
+      "label": "Malik 1041",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "24.1",
+      "label": "Malik 1042",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.2",
+      "label": "Malik 1043",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.3",
+      "label": "Malik 1044",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.4",
+      "label": "Malik 1045",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.5",
+      "label": "Malik 1046",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.6",
+      "label": "Malik 1047",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.7",
+      "label": "Malik 1048",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.8",
+      "label": "Malik 1049",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.9",
+      "label": "Malik 1050",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.10",
+      "label": "Malik 1051",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "25.1",
+      "label": "Malik 1052",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.2",
+      "label": "Malik 1053",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.3",
+      "label": "Malik 1056",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.4",
+      "label": "Malik 1059",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.5",
+      "label": "Malik 1060",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.6",
+      "label": "Malik 1061",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.7",
+      "label": "Malik 1062",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.8",
+      "label": "Malik 1063",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.9",
+      "label": "Malik 1064",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.10",
+      "label": "Malik 1065",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.11",
+      "label": "Malik 1066",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "26.1",
+      "label": "Malik 1067",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.2",
+      "label": "Malik 1068",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.3",
+      "label": "Malik 1069",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.4",
+      "label": "Malik 1070",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.5",
+      "label": "Malik 1071",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.6",
+      "label": "Malik 1072",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.7",
+      "label": "Malik 1073",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "27.1",
+      "label": "Malik 1074",
+      "chapterRef": "27"
+    },
+    {
+      "reference": "27.2",
+      "label": "Malik 1075",
+      "chapterRef": "27"
+    },
+    {
+      "reference": "27.3",
+      "label": "Malik 1076",
+      "chapterRef": "27"
+    },
+    {
+      "reference": "27.4",
+      "label": "Malik 1077",
+      "chapterRef": "27"
+    },
+    {
+      "reference": "27.5",
+      "label": "Malik 1078",
+      "chapterRef": "27"
+    },
+    {
+      "reference": "27.6",
+      "label": "Malik 1079",
+      "chapterRef": "27"
+    },
+    {
+      "reference": "27.7",
+      "label": "Malik 1080",
+      "chapterRef": "27"
+    },
+    {
+      "reference": "27.8",
+      "label": "Malik 1081",
+      "chapterRef": "27"
+    },
+    {
+      "reference": "27.9",
+      "label": "Malik 1082",
+      "chapterRef": "27"
+    },
+    {
+      "reference": "27.10",
+      "label": "Malik 1083",
+      "chapterRef": "27"
+    },
+    {
+      "reference": "27.11",
+      "label": "Malik 1084",
+      "chapterRef": "27"
+    },
+    {
+      "reference": "27.12",
+      "label": "Malik 1085",
+      "chapterRef": "27"
+    },
+    {
+      "reference": "27.13",
+      "label": "Malik 1086",
+      "chapterRef": "27"
+    },
+    {
+      "reference": "27.14",
+      "label": "Malik 1087",
+      "chapterRef": "27"
+    },
+    {
+      "reference": "27.15",
+      "label": "Malik 1088",
+      "chapterRef": "27"
+    },
+    {
+      "reference": "27.16",
+      "label": "Malik 1089",
+      "chapterRef": "27"
+    },
+    {
+      "reference": "28.1",
+      "label": "Malik 1091",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "28.2",
+      "label": "Malik 1092",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "28.3",
+      "label": "Malik 1093",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "28.4",
+      "label": "Malik 1094",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "28.5",
+      "label": "Malik 1095",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "28.6",
+      "label": "Malik 1096",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "28.7",
+      "label": "Malik 1097",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "28.8",
+      "label": "Malik 1098",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "28.9",
+      "label": "Malik 1099",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "28.10",
+      "label": "Malik 1100",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "28.11",
+      "label": "Malik 1101",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "28.12",
+      "label": "Malik 1102",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "28.13",
+      "label": "Malik 1103",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "28.14",
+      "label": "Malik 1104",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "28.15",
+      "label": "Malik 1105",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "28.16",
+      "label": "Malik 1106",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "28.17",
+      "label": "Malik 1107",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "28.18",
+      "label": "Malik 1108",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "28.19",
+      "label": "Malik 1109",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "28.20",
+      "label": "Malik 1110",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "28.21",
+      "label": "Malik 1111",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "28.22",
+      "label": "Malik 1112",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "28.23",
+      "label": "Malik 1113",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "28.24",
+      "label": "Malik 1114",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "28.25",
+      "label": "Malik 1115",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "28.26",
+      "label": "Malik 1116",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "28.27",
+      "label": "Malik 1117",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "28.28",
+      "label": "Malik 1118",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "28.29",
+      "label": "Malik 1119",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "28.30",
+      "label": "Malik 1120",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "28.31",
+      "label": "Malik 1121",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "28.32",
+      "label": "Malik 1122",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "28.33",
+      "label": "Malik 1123",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "28.34",
+      "label": "Malik 1124",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "28.35",
+      "label": "Malik 1125",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "28.36",
+      "label": "Malik 1126",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "28.37",
+      "label": "Malik 1127",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "28.38",
+      "label": "Malik 1128",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "28.39",
+      "label": "Malik 1129",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "28.40",
+      "label": "Malik 1130",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "28.41",
+      "label": "Malik 1131",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "28.42",
+      "label": "Malik 1132",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "28.43",
+      "label": "Malik 1133",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "28.44",
+      "label": "Malik 1134",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "28.45",
+      "label": "Malik 1135",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "28.46",
+      "label": "Malik 1136",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "28.47",
+      "label": "Malik 1137",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "28.48",
+      "label": "Malik 1138",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "28.49",
+      "label": "Malik 1139",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "28.50",
+      "label": "Malik 1140",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "28.51",
+      "label": "Malik 1141",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "28.52",
+      "label": "Malik 1142",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "28.53",
+      "label": "Malik 1143",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "28.54",
+      "label": "Malik 1144",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "28.55",
+      "label": "Malik 1145",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "28.56",
+      "label": "Malik 1146",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "28.57",
+      "label": "Malik 1147",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "28.58",
+      "label": "Malik 1148",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "28.59",
+      "label": "Malik 1149",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "29.1",
+      "label": "Malik 1150",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.2",
+      "label": "Malik 1151",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.3",
+      "label": "Malik 1152",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.4",
+      "label": "Malik 1153",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.5",
+      "label": "Malik 1154",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.6",
+      "label": "Malik 1155",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.7",
+      "label": "Malik 1156",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.8",
+      "label": "Malik 1157",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.9",
+      "label": "Malik 1158",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.10",
+      "label": "Malik 1159",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.11",
+      "label": "Malik 1160",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.12",
+      "label": "Malik 1161",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.13",
+      "label": "Malik 1162",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.14",
+      "label": "Malik 1163",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.15",
+      "label": "Malik 1164",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.16",
+      "label": "Malik 1165",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.17",
+      "label": "Malik 1166",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.18",
+      "label": "Malik 1167",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.19",
+      "label": "Malik 1168",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.20",
+      "label": "Malik 1169",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.21",
+      "label": "Malik 1170",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.22",
+      "label": "Malik 1172",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.23",
+      "label": "Malik 1173",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.24",
+      "label": "Malik 1174",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.25",
+      "label": "Malik 1175",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.26",
+      "label": "Malik 1177",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.27",
+      "label": "Malik 1178",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.28",
+      "label": "Malik 1179",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.29",
+      "label": "Malik 1180",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.30",
+      "label": "Malik 1181",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.31",
+      "label": "Malik 1182",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.32",
+      "label": "Malik 1183",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.33",
+      "label": "Malik 1184",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.34",
+      "label": "Malik 1185",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.35",
+      "label": "Malik 1186",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.36",
+      "label": "Malik 1187",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.37",
+      "label": "Malik 1188",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.38",
+      "label": "Malik 1189",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.39",
+      "label": "Malik 1190",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.40",
+      "label": "Malik 1192",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.41",
+      "label": "Malik 1193",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.42",
+      "label": "Malik 1194",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.43",
+      "label": "Malik 1195",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.44",
+      "label": "Malik 1196",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.45",
+      "label": "Malik 1197",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.46",
+      "label": "Malik 1198",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.47",
+      "label": "Malik 1199",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.48",
+      "label": "Malik 1200",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.49",
+      "label": "Malik 1201",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.50",
+      "label": "Malik 1202",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.51",
+      "label": "Malik 1204",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.52",
+      "label": "Malik 1205",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.53",
+      "label": "Malik 1206",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.54",
+      "label": "Malik 1207",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.55",
+      "label": "Malik 1208",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.56",
+      "label": "Malik 1209",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.57",
+      "label": "Malik 1210",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.58",
+      "label": "Malik 1211",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.59",
+      "label": "Malik 1212",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.60",
+      "label": "Malik 1213",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.61",
+      "label": "Malik 1214",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.62",
+      "label": "Malik 1215",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.63",
+      "label": "Malik 1216",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.64",
+      "label": "Malik 1217",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.65",
+      "label": "Malik 1218",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.66",
+      "label": "Malik 1219",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.67",
+      "label": "Malik 1220",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.68",
+      "label": "Malik 1221",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.69",
+      "label": "Malik 1222",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.70",
+      "label": "Malik 1223",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.71",
+      "label": "Malik 1224",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.72",
+      "label": "Malik 1225",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.73",
+      "label": "Malik 1226",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.74",
+      "label": "Malik 1227",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.75",
+      "label": "Malik 1228",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.76",
+      "label": "Malik 1229",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.77",
+      "label": "Malik 1230",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.78",
+      "label": "Malik 1231",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.79",
+      "label": "Malik 1232",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.80",
+      "label": "Malik 1233",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.81",
+      "label": "Malik 1234",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.82",
+      "label": "Malik 1235",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.83",
+      "label": "Malik 1236",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.84",
+      "label": "Malik 1237",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.85",
+      "label": "Malik 1238",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.86",
+      "label": "Malik 1239",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.87",
+      "label": "Malik 1240",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.88",
+      "label": "Malik 1241",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.89",
+      "label": "Malik 1242",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.90",
+      "label": "Malik 1243",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.91",
+      "label": "Malik 1244",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.92",
+      "label": "Malik 1245",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.93",
+      "label": "Malik 1246",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.94",
+      "label": "Malik 1247",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.95",
+      "label": "Malik 1248",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.96",
+      "label": "Malik 1249",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.97",
+      "label": "Malik 1250",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.98",
+      "label": "Malik 1251",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.99",
+      "label": "Malik 1252",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.100",
+      "label": "Malik 1253",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.101",
+      "label": "Malik 1254",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.102",
+      "label": "Malik 1255",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.103",
+      "label": "Malik 1256",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.104",
+      "label": "Malik 1257",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.105",
+      "label": "Malik 1258",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.106",
+      "label": "Malik 1259",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.107",
+      "label": "Malik 1260",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.108",
+      "label": "Malik 1261",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.109",
+      "label": "Malik 1262",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.110",
+      "label": "Malik 1263",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.111",
+      "label": "Malik 1264",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.112",
+      "label": "Malik 1265",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.113",
+      "label": "Malik 1266",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.114",
+      "label": "Malik 1267",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.115",
+      "label": "Malik 1268",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.116",
+      "label": "Malik 1269",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.117",
+      "label": "Malik 1270",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.118",
+      "label": "Malik 1271",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "30.1",
+      "label": "Malik 1272",
+      "chapterRef": "30"
+    },
+    {
+      "reference": "30.2",
+      "label": "Malik 1273",
+      "chapterRef": "30"
+    },
+    {
+      "reference": "30.3",
+      "label": "Malik 1274",
+      "chapterRef": "30"
+    },
+    {
+      "reference": "30.4",
+      "label": "Malik 1275",
+      "chapterRef": "30"
+    },
+    {
+      "reference": "30.5",
+      "label": "Malik 1276",
+      "chapterRef": "30"
+    },
+    {
+      "reference": "30.6",
+      "label": "Malik 1277",
+      "chapterRef": "30"
+    },
+    {
+      "reference": "30.7",
+      "label": "Malik 1278",
+      "chapterRef": "30"
+    },
+    {
+      "reference": "30.8",
+      "label": "Malik 1279",
+      "chapterRef": "30"
+    },
+    {
+      "reference": "30.9",
+      "label": "Malik 1280",
+      "chapterRef": "30"
+    },
+    {
+      "reference": "30.10",
+      "label": "Malik 1281",
+      "chapterRef": "30"
+    },
+    {
+      "reference": "30.11",
+      "label": "Malik 1282",
+      "chapterRef": "30"
+    },
+    {
+      "reference": "30.12",
+      "label": "Malik 1283",
+      "chapterRef": "30"
+    },
+    {
+      "reference": "30.13",
+      "label": "Malik 1284",
+      "chapterRef": "30"
+    },
+    {
+      "reference": "30.14",
+      "label": "Malik 1285",
+      "chapterRef": "30"
+    },
+    {
+      "reference": "30.15",
+      "label": "Malik 1286",
+      "chapterRef": "30"
+    },
+    {
+      "reference": "30.16",
+      "label": "Malik 1287",
+      "chapterRef": "30"
+    },
+    {
+      "reference": "30.17",
+      "label": "Malik 1288",
+      "chapterRef": "30"
+    },
+    {
+      "reference": "30.18",
+      "label": "Malik 1289",
+      "chapterRef": "30"
+    },
+    {
+      "reference": "31.1",
+      "label": "Malik 1290",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.2",
+      "label": "Malik 1291",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.3",
+      "label": "Malik 1292",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.4",
+      "label": "Malik 1293",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.5",
+      "label": "Malik 1294",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.6",
+      "label": "Malik 1295",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.7",
+      "label": "Malik 1296",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.8",
+      "label": "Malik 1297",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.9",
+      "label": "Malik 1298",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.10",
+      "label": "Malik 1299",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.11",
+      "label": "Malik 1300",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.12",
+      "label": "Malik 1301",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.13",
+      "label": "Malik 1302",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.14",
+      "label": "Malik 1303",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.15",
+      "label": "Malik 1304",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.16",
+      "label": "Malik 1305",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.17",
+      "label": "Malik 1306",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.18",
+      "label": "Malik 1307",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.19",
+      "label": "Malik 1308",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.20",
+      "label": "Malik 1309",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.21",
+      "label": "Malik 1310",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.22",
+      "label": "Malik 1311",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.23",
+      "label": "Malik 1312",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.24",
+      "label": "Malik 1313",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.25",
+      "label": "Malik 1314",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.26",
+      "label": "Malik 1315",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.27",
+      "label": "Malik 1316",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.28",
+      "label": "Malik 1317",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.29",
+      "label": "Malik 1318",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.30",
+      "label": "Malik 1319",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.31",
+      "label": "Malik 1320",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.32",
+      "label": "Malik 1321",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.33",
+      "label": "Malik 1322",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.34",
+      "label": "Malik 1323",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.35",
+      "label": "Malik 1324",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.36",
+      "label": "Malik 1325",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.37",
+      "label": "Malik 1326",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.38",
+      "label": "Malik 1327",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.39",
+      "label": "Malik 1328",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.40",
+      "label": "Malik 1329",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.41",
+      "label": "Malik 1330",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.42",
+      "label": "Malik 1331",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.43",
+      "label": "Malik 1332",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.44",
+      "label": "Malik 1333",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.45",
+      "label": "Malik 1334",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.46",
+      "label": "Malik 1335",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.47",
+      "label": "Malik 1336",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.48",
+      "label": "Malik 1337",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.49",
+      "label": "Malik 1339",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.50",
+      "label": "Malik 1340",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.51",
+      "label": "Malik 1341",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.52",
+      "label": "Malik 1342",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.53",
+      "label": "Malik 1343",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.54",
+      "label": "Malik 1344",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.55",
+      "label": "Malik 1345",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.56",
+      "label": "Malik 1346",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.57",
+      "label": "Malik 1347",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.58",
+      "label": "Malik 1348",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.59",
+      "label": "Malik 1349",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.60",
+      "label": "Malik 1350",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.61",
+      "label": "Malik 1351",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.62",
+      "label": "Malik 1352",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.63",
+      "label": "Malik 1353",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.64",
+      "label": "Malik 1354",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.65",
+      "label": "Malik 1355",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.66",
+      "label": "Malik 1356",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.67",
+      "label": "Malik 1357",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.68",
+      "label": "Malik 1358",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.69",
+      "label": "Malik 1359",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.70",
+      "label": "Malik 1360",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.71",
+      "label": "Malik 1361",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.72",
+      "label": "Malik 1362",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.73",
+      "label": "Malik 1363",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.74",
+      "label": "Malik 1364",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.75",
+      "label": "Malik 1365",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.76",
+      "label": "Malik 1366",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.77",
+      "label": "Malik 1367",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.78",
+      "label": "Malik 1368",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.79",
+      "label": "Malik 1369",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.80",
+      "label": "Malik 1370",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.81",
+      "label": "Malik 1371",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.82",
+      "label": "Malik 1372",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.83",
+      "label": "Malik 1373",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.84",
+      "label": "Malik 1374",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.85",
+      "label": "Malik 1375",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.86",
+      "label": "Malik 1376",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.87",
+      "label": "Malik 1377",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.88",
+      "label": "Malik 1378",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.89",
+      "label": "Malik 1379",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.90",
+      "label": "Malik 1380",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.91",
+      "label": "Malik 1381",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.92",
+      "label": "Malik 1382",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.93",
+      "label": "Malik 1383",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.94",
+      "label": "Malik 1384",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.95",
+      "label": "Malik 1385",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "32.1",
+      "label": "Malik 1386",
+      "chapterRef": "32"
+    },
+    {
+      "reference": "32.2",
+      "label": "Malik 1387",
+      "chapterRef": "32"
+    },
+    {
+      "reference": "33.1",
+      "label": "Malik 1388",
+      "chapterRef": "33"
+    },
+    {
+      "reference": "34.1",
+      "label": "Malik 1391",
+      "chapterRef": "34"
+    },
+    {
+      "reference": "34.2",
+      "label": "Malik 1392",
+      "chapterRef": "34"
+    },
+    {
+      "reference": "34.3",
+      "label": "Malik 1393",
+      "chapterRef": "34"
+    },
+    {
+      "reference": "34.4",
+      "label": "Malik 1394",
+      "chapterRef": "34"
+    },
+    {
+      "reference": "35.1",
+      "label": "Malik 1395",
+      "chapterRef": "35"
+    },
+    {
+      "reference": "35.2",
+      "label": "Malik 1396",
+      "chapterRef": "35"
+    },
+    {
+      "reference": "35.3",
+      "label": "Malik 1397",
+      "chapterRef": "35"
+    },
+    {
+      "reference": "35.4",
+      "label": "Malik 1398",
+      "chapterRef": "35"
+    },
+    {
+      "reference": "36.1",
+      "label": "Malik 1399",
+      "chapterRef": "36"
+    },
+    {
+      "reference": "36.2",
+      "label": "Malik 1400",
+      "chapterRef": "36"
+    },
+    {
+      "reference": "36.3",
+      "label": "Malik 1401",
+      "chapterRef": "36"
+    },
+    {
+      "reference": "36.4",
+      "label": "Malik 1402",
+      "chapterRef": "36"
+    },
+    {
+      "reference": "36.5",
+      "label": "Malik 1403",
+      "chapterRef": "36"
+    },
+    {
+      "reference": "36.6",
+      "label": "Malik 1404",
+      "chapterRef": "36"
+    },
+    {
+      "reference": "36.7",
+      "label": "Malik 1405",
+      "chapterRef": "36"
+    },
+    {
+      "reference": "36.8",
+      "label": "Malik 1406",
+      "chapterRef": "36"
+    },
+    {
+      "reference": "36.9",
+      "label": "Malik 1407",
+      "chapterRef": "36"
+    },
+    {
+      "reference": "36.10",
+      "label": "Malik 1408",
+      "chapterRef": "36"
+    },
+    {
+      "reference": "36.11",
+      "label": "Malik 1409",
+      "chapterRef": "36"
+    },
+    {
+      "reference": "36.12",
+      "label": "Malik 1410",
+      "chapterRef": "36"
+    },
+    {
+      "reference": "36.13",
+      "label": "Malik 1411",
+      "chapterRef": "36"
+    },
+    {
+      "reference": "36.14",
+      "label": "Malik 1412",
+      "chapterRef": "36"
+    },
+    {
+      "reference": "36.15",
+      "label": "Malik 1413",
+      "chapterRef": "36"
+    },
+    {
+      "reference": "36.16",
+      "label": "Malik 1414",
+      "chapterRef": "36"
+    },
+    {
+      "reference": "36.17",
+      "label": "Malik 1415",
+      "chapterRef": "36"
+    },
+    {
+      "reference": "36.18",
+      "label": "Malik 1416",
+      "chapterRef": "36"
+    },
+    {
+      "reference": "36.19",
+      "label": "Malik 1417",
+      "chapterRef": "36"
+    },
+    {
+      "reference": "36.20",
+      "label": "Malik 1418",
+      "chapterRef": "36"
+    },
+    {
+      "reference": "36.21",
+      "label": "Malik 1419",
+      "chapterRef": "36"
+    },
+    {
+      "reference": "36.22",
+      "label": "Malik 1420",
+      "chapterRef": "36"
+    },
+    {
+      "reference": "36.23",
+      "label": "Malik 1421",
+      "chapterRef": "36"
+    },
+    {
+      "reference": "36.24",
+      "label": "Malik 1422",
+      "chapterRef": "36"
+    },
+    {
+      "reference": "36.25",
+      "label": "Malik 1423",
+      "chapterRef": "36"
+    },
+    {
+      "reference": "36.26",
+      "label": "Malik 1424",
+      "chapterRef": "36"
+    },
+    {
+      "reference": "36.27",
+      "label": "Malik 1425",
+      "chapterRef": "36"
+    },
+    {
+      "reference": "36.28",
+      "label": "Malik 1426",
+      "chapterRef": "36"
+    },
+    {
+      "reference": "36.29",
+      "label": "Malik 1427",
+      "chapterRef": "36"
+    },
+    {
+      "reference": "36.30",
+      "label": "Malik 1428",
+      "chapterRef": "36"
+    },
+    {
+      "reference": "36.31",
+      "label": "Malik 1429",
+      "chapterRef": "36"
+    },
+    {
+      "reference": "36.32",
+      "label": "Malik 1430",
+      "chapterRef": "36"
+    },
+    {
+      "reference": "36.33",
+      "label": "Malik 1431",
+      "chapterRef": "36"
+    },
+    {
+      "reference": "36.34",
+      "label": "Malik 1432",
+      "chapterRef": "36"
+    },
+    {
+      "reference": "36.35",
+      "label": "Malik 1433",
+      "chapterRef": "36"
+    },
+    {
+      "reference": "36.36",
+      "label": "Malik 1434",
+      "chapterRef": "36"
+    },
+    {
+      "reference": "36.37",
+      "label": "Malik 1435",
+      "chapterRef": "36"
+    },
+    {
+      "reference": "36.38",
+      "label": "Malik 1436",
+      "chapterRef": "36"
+    },
+    {
+      "reference": "36.39",
+      "label": "Malik 1437",
+      "chapterRef": "36"
+    },
+    {
+      "reference": "36.40",
+      "label": "Malik 1438",
+      "chapterRef": "36"
+    },
+    {
+      "reference": "36.41",
+      "label": "Malik 1439",
+      "chapterRef": "36"
+    },
+    {
+      "reference": "36.42",
+      "label": "Malik 1440",
+      "chapterRef": "36"
+    },
+    {
+      "reference": "36.43",
+      "label": "Malik 1441",
+      "chapterRef": "36"
+    },
+    {
+      "reference": "36.44",
+      "label": "Malik 1442",
+      "chapterRef": "36"
+    },
+    {
+      "reference": "36.45",
+      "label": "Malik 1443",
+      "chapterRef": "36"
+    },
+    {
+      "reference": "36.46",
+      "label": "Malik 1444",
+      "chapterRef": "36"
+    },
+    {
+      "reference": "36.47",
+      "label": "Malik 1445",
+      "chapterRef": "36"
+    },
+    {
+      "reference": "36.48",
+      "label": "Malik 1446",
+      "chapterRef": "36"
+    },
+    {
+      "reference": "36.49",
+      "label": "Malik 1447",
+      "chapterRef": "36"
+    },
+    {
+      "reference": "36.50",
+      "label": "Malik 1448",
+      "chapterRef": "36"
+    },
+    {
+      "reference": "36.51",
+      "label": "Malik 1449",
+      "chapterRef": "36"
+    },
+    {
+      "reference": "36.52",
+      "label": "Malik 1450",
+      "chapterRef": "36"
+    },
+    {
+      "reference": "36.53",
+      "label": "Malik 1451",
+      "chapterRef": "36"
+    },
+    {
+      "reference": "36.54",
+      "label": "Malik 1452",
+      "chapterRef": "36"
+    },
+    {
+      "reference": "36.55",
+      "label": "Malik 1453",
+      "chapterRef": "36"
+    },
+    {
+      "reference": "36.56",
+      "label": "Malik 1454",
+      "chapterRef": "36"
+    },
+    {
+      "reference": "37.1",
+      "label": "Malik 1455",
+      "chapterRef": "37"
+    },
+    {
+      "reference": "37.2",
+      "label": "Malik 1456",
+      "chapterRef": "37"
+    },
+    {
+      "reference": "37.3",
+      "label": "Malik 1457",
+      "chapterRef": "37"
+    },
+    {
+      "reference": "37.4",
+      "label": "Malik 1458",
+      "chapterRef": "37"
+    },
+    {
+      "reference": "37.5",
+      "label": "Malik 1459",
+      "chapterRef": "37"
+    },
+    {
+      "reference": "37.6",
+      "label": "Malik 1460",
+      "chapterRef": "37"
+    },
+    {
+      "reference": "37.7",
+      "label": "Malik 1461",
+      "chapterRef": "37"
+    },
+    {
+      "reference": "37.8",
+      "label": "Malik 1462",
+      "chapterRef": "37"
+    },
+    {
+      "reference": "37.9",
+      "label": "Malik 1463",
+      "chapterRef": "37"
+    },
+    {
+      "reference": "38.1",
+      "label": "Malik 1464",
+      "chapterRef": "38"
+    },
+    {
+      "reference": "38.2",
+      "label": "Malik 1465",
+      "chapterRef": "38"
+    },
+    {
+      "reference": "38.3",
+      "label": "Malik 1466",
+      "chapterRef": "38"
+    },
+    {
+      "reference": "38.4",
+      "label": "Malik 1467",
+      "chapterRef": "38"
+    },
+    {
+      "reference": "38.5",
+      "label": "Malik 1468",
+      "chapterRef": "38"
+    },
+    {
+      "reference": "38.6",
+      "label": "Malik 1469",
+      "chapterRef": "38"
+    },
+    {
+      "reference": "38.7",
+      "label": "Malik 1470",
+      "chapterRef": "38"
+    },
+    {
+      "reference": "38.8",
+      "label": "Malik 1471",
+      "chapterRef": "38"
+    },
+    {
+      "reference": "38.9",
+      "label": "Malik 1472",
+      "chapterRef": "38"
+    },
+    {
+      "reference": "38.10",
+      "label": "Malik 1473",
+      "chapterRef": "38"
+    },
+    {
+      "reference": "38.11",
+      "label": "Malik 1474",
+      "chapterRef": "38"
+    },
+    {
+      "reference": "38.12",
+      "label": "Malik 1475",
+      "chapterRef": "38"
+    },
+    {
+      "reference": "38.13",
+      "label": "Malik 1476",
+      "chapterRef": "38"
+    },
+    {
+      "reference": "38.14",
+      "label": "Malik 1477",
+      "chapterRef": "38"
+    },
+    {
+      "reference": "38.15",
+      "label": "Malik 1478",
+      "chapterRef": "38"
+    },
+    {
+      "reference": "38.16",
+      "label": "Malik 1479",
+      "chapterRef": "38"
+    },
+    {
+      "reference": "38.17",
+      "label": "Malik 1480",
+      "chapterRef": "38"
+    },
+    {
+      "reference": "38.18",
+      "label": "Malik 1481",
+      "chapterRef": "38"
+    },
+    {
+      "reference": "38.19",
+      "label": "Malik 1482",
+      "chapterRef": "38"
+    },
+    {
+      "reference": "38.20",
+      "label": "Malik 1483",
+      "chapterRef": "38"
+    },
+    {
+      "reference": "38.21",
+      "label": "Malik 1484",
+      "chapterRef": "38"
+    },
+    {
+      "reference": "38.22",
+      "label": "Malik 1485",
+      "chapterRef": "38"
+    },
+    {
+      "reference": "38.23",
+      "label": "Malik 1486",
+      "chapterRef": "38"
+    },
+    {
+      "reference": "38.24",
+      "label": "Malik 1487",
+      "chapterRef": "38"
+    },
+    {
+      "reference": "38.25",
+      "label": "Malik 1488",
+      "chapterRef": "38"
+    },
+    {
+      "reference": "39.1",
+      "label": "Malik 1489",
+      "chapterRef": "39"
+    },
+    {
+      "reference": "39.2",
+      "label": "Malik 1490",
+      "chapterRef": "39"
+    },
+    {
+      "reference": "39.3",
+      "label": "Malik 1491",
+      "chapterRef": "39"
+    },
+    {
+      "reference": "39.4",
+      "label": "Malik 1493",
+      "chapterRef": "39"
+    },
+    {
+      "reference": "39.5",
+      "label": "Malik 1494",
+      "chapterRef": "39"
+    },
+    {
+      "reference": "39.6",
+      "label": "Malik 1495",
+      "chapterRef": "39"
+    },
+    {
+      "reference": "39.7",
+      "label": "Malik 1496",
+      "chapterRef": "39"
+    },
+    {
+      "reference": "40.1",
+      "label": "Malik 1497",
+      "chapterRef": "40"
+    },
+    {
+      "reference": "40.2",
+      "label": "Malik 1498",
+      "chapterRef": "40"
+    },
+    {
+      "reference": "40.3",
+      "label": "Malik 1499",
+      "chapterRef": "40"
+    },
+    {
+      "reference": "41.1",
+      "label": "Malik 1500",
+      "chapterRef": "41"
+    },
+    {
+      "reference": "41.2",
+      "label": "Malik 1501",
+      "chapterRef": "41"
+    },
+    {
+      "reference": "41.3",
+      "label": "Malik 1502",
+      "chapterRef": "41"
+    },
+    {
+      "reference": "41.4",
+      "label": "Malik 1503",
+      "chapterRef": "41"
+    },
+    {
+      "reference": "41.5",
+      "label": "Malik 1504",
+      "chapterRef": "41"
+    },
+    {
+      "reference": "41.6",
+      "label": "Malik 1505",
+      "chapterRef": "41"
+    },
+    {
+      "reference": "41.7",
+      "label": "Malik 1506",
+      "chapterRef": "41"
+    },
+    {
+      "reference": "41.8",
+      "label": "Malik 1507",
+      "chapterRef": "41"
+    },
+    {
+      "reference": "41.9",
+      "label": "Malik 1508",
+      "chapterRef": "41"
+    },
+    {
+      "reference": "41.10",
+      "label": "Malik 1509",
+      "chapterRef": "41"
+    },
+    {
+      "reference": "41.11",
+      "label": "Malik 1510",
+      "chapterRef": "41"
+    },
+    {
+      "reference": "41.12",
+      "label": "Malik 1511",
+      "chapterRef": "41"
+    },
+    {
+      "reference": "41.13",
+      "label": "Malik 1512",
+      "chapterRef": "41"
+    },
+    {
+      "reference": "41.14",
+      "label": "Malik 1513",
+      "chapterRef": "41"
+    },
+    {
+      "reference": "41.15",
+      "label": "Malik 1514",
+      "chapterRef": "41"
+    },
+    {
+      "reference": "41.16",
+      "label": "Malik 1515",
+      "chapterRef": "41"
+    },
+    {
+      "reference": "41.17",
+      "label": "Malik 1516",
+      "chapterRef": "41"
+    },
+    {
+      "reference": "41.18",
+      "label": "Malik 1517",
+      "chapterRef": "41"
+    },
+    {
+      "reference": "41.19",
+      "label": "Malik 1518",
+      "chapterRef": "41"
+    },
+    {
+      "reference": "41.20",
+      "label": "Malik 1520",
+      "chapterRef": "41"
+    },
+    {
+      "reference": "41.21",
+      "label": "Malik 1521",
+      "chapterRef": "41"
+    },
+    {
+      "reference": "41.22",
+      "label": "Malik 1522",
+      "chapterRef": "41"
+    },
+    {
+      "reference": "41.23",
+      "label": "Malik 1523",
+      "chapterRef": "41"
+    },
+    {
+      "reference": "41.24",
+      "label": "Malik 1524",
+      "chapterRef": "41"
+    },
+    {
+      "reference": "41.25",
+      "label": "Malik 1525",
+      "chapterRef": "41"
+    },
+    {
+      "reference": "41.26",
+      "label": "Malik 1526",
+      "chapterRef": "41"
+    },
+    {
+      "reference": "41.27",
+      "label": "Malik 1527",
+      "chapterRef": "41"
+    },
+    {
+      "reference": "41.28",
+      "label": "Malik 1529",
+      "chapterRef": "41"
+    },
+    {
+      "reference": "41.29",
+      "label": "Malik 1530",
+      "chapterRef": "41"
+    },
+    {
+      "reference": "41.30",
+      "label": "Malik 1531",
+      "chapterRef": "41"
+    },
+    {
+      "reference": "41.31",
+      "label": "Malik 1532",
+      "chapterRef": "41"
+    },
+    {
+      "reference": "41.32",
+      "label": "Malik 1533",
+      "chapterRef": "41"
+    },
+    {
+      "reference": "41.33",
+      "label": "Malik 1534",
+      "chapterRef": "41"
+    },
+    {
+      "reference": "41.34",
+      "label": "Malik 1535",
+      "chapterRef": "41"
+    },
+    {
+      "reference": "41.35",
+      "label": "Malik 1536",
+      "chapterRef": "41"
+    },
+    {
+      "reference": "42.1",
+      "label": "Malik 1537",
+      "chapterRef": "42"
+    },
+    {
+      "reference": "42.2",
+      "label": "Malik 1538",
+      "chapterRef": "42"
+    },
+    {
+      "reference": "42.3",
+      "label": "Malik 1539",
+      "chapterRef": "42"
+    },
+    {
+      "reference": "42.4",
+      "label": "Malik 1540",
+      "chapterRef": "42"
+    },
+    {
+      "reference": "42.5",
+      "label": "Malik 1541",
+      "chapterRef": "42"
+    },
+    {
+      "reference": "42.6",
+      "label": "Malik 1542",
+      "chapterRef": "42"
+    },
+    {
+      "reference": "42.7",
+      "label": "Malik 1543",
+      "chapterRef": "42"
+    },
+    {
+      "reference": "42.8",
+      "label": "Malik 1544",
+      "chapterRef": "42"
+    },
+    {
+      "reference": "42.9",
+      "label": "Malik 1545",
+      "chapterRef": "42"
+    },
+    {
+      "reference": "42.10",
+      "label": "Malik 1546",
+      "chapterRef": "42"
+    },
+    {
+      "reference": "42.11",
+      "label": "Malik 1547",
+      "chapterRef": "42"
+    },
+    {
+      "reference": "42.12",
+      "label": "Malik 1548",
+      "chapterRef": "42"
+    },
+    {
+      "reference": "42.13",
+      "label": "Malik 1549",
+      "chapterRef": "42"
+    },
+    {
+      "reference": "42.14",
+      "label": "Malik 1550",
+      "chapterRef": "42"
+    },
+    {
+      "reference": "42.15",
+      "label": "Malik 1551",
+      "chapterRef": "42"
+    },
+    {
+      "reference": "43.1",
+      "label": "Malik 1552",
+      "chapterRef": "43"
+    },
+    {
+      "reference": "43.2",
+      "label": "Malik 1553",
+      "chapterRef": "43"
+    },
+    {
+      "reference": "43.3",
+      "label": "Malik 1554",
+      "chapterRef": "43"
+    },
+    {
+      "reference": "43.4",
+      "label": "Malik 1555",
+      "chapterRef": "43"
+    },
+    {
+      "reference": "43.5",
+      "label": "Malik 1556",
+      "chapterRef": "43"
+    },
+    {
+      "reference": "43.6",
+      "label": "Malik 1557",
+      "chapterRef": "43"
+    },
+    {
+      "reference": "43.7",
+      "label": "Malik 1558",
+      "chapterRef": "43"
+    },
+    {
+      "reference": "43.8",
+      "label": "Malik 1559",
+      "chapterRef": "43"
+    },
+    {
+      "reference": "43.9",
+      "label": "Malik 1560",
+      "chapterRef": "43"
+    },
+    {
+      "reference": "43.10",
+      "label": "Malik 1561",
+      "chapterRef": "43"
+    },
+    {
+      "reference": "43.11",
+      "label": "Malik 1562",
+      "chapterRef": "43"
+    },
+    {
+      "reference": "43.12",
+      "label": "Malik 1563",
+      "chapterRef": "43"
+    },
+    {
+      "reference": "43.13",
+      "label": "Malik 1564",
+      "chapterRef": "43"
+    },
+    {
+      "reference": "43.14",
+      "label": "Malik 1565",
+      "chapterRef": "43"
+    },
+    {
+      "reference": "43.15",
+      "label": "Malik 1566",
+      "chapterRef": "43"
+    },
+    {
+      "reference": "43.16",
+      "label": "Malik 1567",
+      "chapterRef": "43"
+    },
+    {
+      "reference": "43.17",
+      "label": "Malik 1568",
+      "chapterRef": "43"
+    },
+    {
+      "reference": "43.18",
+      "label": "Malik 1569",
+      "chapterRef": "43"
+    },
+    {
+      "reference": "43.19",
+      "label": "Malik 1570",
+      "chapterRef": "43"
+    },
+    {
+      "reference": "43.20",
+      "label": "Malik 1571",
+      "chapterRef": "43"
+    },
+    {
+      "reference": "43.21",
+      "label": "Malik 1572",
+      "chapterRef": "43"
+    },
+    {
+      "reference": "43.22",
+      "label": "Malik 1573",
+      "chapterRef": "43"
+    },
+    {
+      "reference": "43.23",
+      "label": "Malik 1574",
+      "chapterRef": "43"
+    },
+    {
+      "reference": "43.24",
+      "label": "Malik 1575",
+      "chapterRef": "43"
+    },
+    {
+      "reference": "43.25",
+      "label": "Malik 1576",
+      "chapterRef": "43"
+    },
+    {
+      "reference": "43.26",
+      "label": "Malik 1577",
+      "chapterRef": "43"
+    },
+    {
+      "reference": "43.27",
+      "label": "Malik 1578",
+      "chapterRef": "43"
+    },
+    {
+      "reference": "43.28",
+      "label": "Malik 1579",
+      "chapterRef": "43"
+    },
+    {
+      "reference": "43.29",
+      "label": "Malik 1580",
+      "chapterRef": "43"
+    },
+    {
+      "reference": "43.30",
+      "label": "Malik 1581",
+      "chapterRef": "43"
+    },
+    {
+      "reference": "43.31",
+      "label": "Malik 1582",
+      "chapterRef": "43"
+    },
+    {
+      "reference": "43.32",
+      "label": "Malik 1584",
+      "chapterRef": "43"
+    },
+    {
+      "reference": "43.33",
+      "label": "Malik 1585",
+      "chapterRef": "43"
+    },
+    {
+      "reference": "43.34",
+      "label": "Malik 1586",
+      "chapterRef": "43"
+    },
+    {
+      "reference": "43.35",
+      "label": "Malik 1587",
+      "chapterRef": "43"
+    },
+    {
+      "reference": "43.36",
+      "label": "Malik 1588",
+      "chapterRef": "43"
+    },
+    {
+      "reference": "43.37",
+      "label": "Malik 1589",
+      "chapterRef": "43"
+    },
+    {
+      "reference": "43.38",
+      "label": "Malik 1590",
+      "chapterRef": "43"
+    },
+    {
+      "reference": "43.39",
+      "label": "Malik 1591",
+      "chapterRef": "43"
+    },
+    {
+      "reference": "43.40",
+      "label": "Malik 1592",
+      "chapterRef": "43"
+    },
+    {
+      "reference": "43.41",
+      "label": "Malik 1593",
+      "chapterRef": "43"
+    },
+    {
+      "reference": "43.42",
+      "label": "Malik 1594",
+      "chapterRef": "43"
+    },
+    {
+      "reference": "43.43",
+      "label": "Malik 1595",
+      "chapterRef": "43"
+    },
+    {
+      "reference": "44.1",
+      "label": "Malik 1596",
+      "chapterRef": "44"
+    },
+    {
+      "reference": "45.1",
+      "label": "Malik 1599",
+      "chapterRef": "45"
+    },
+    {
+      "reference": "45.2",
+      "label": "Malik 1600",
+      "chapterRef": "45"
+    },
+    {
+      "reference": "45.3",
+      "label": "Malik 1601",
+      "chapterRef": "45"
+    },
+    {
+      "reference": "45.4",
+      "label": "Malik 1602",
+      "chapterRef": "45"
+    },
+    {
+      "reference": "45.5",
+      "label": "Malik 1603",
+      "chapterRef": "45"
+    },
+    {
+      "reference": "45.6",
+      "label": "Malik 1604",
+      "chapterRef": "45"
+    },
+    {
+      "reference": "45.7",
+      "label": "Malik 1605",
+      "chapterRef": "45"
+    },
+    {
+      "reference": "45.8",
+      "label": "Malik 1606",
+      "chapterRef": "45"
+    },
+    {
+      "reference": "45.9",
+      "label": "Malik 1607",
+      "chapterRef": "45"
+    },
+    {
+      "reference": "45.10",
+      "label": "Malik 1608",
+      "chapterRef": "45"
+    },
+    {
+      "reference": "45.11",
+      "label": "Malik 1609",
+      "chapterRef": "45"
+    },
+    {
+      "reference": "45.12",
+      "label": "Malik 1610",
+      "chapterRef": "45"
+    },
+    {
+      "reference": "45.13",
+      "label": "Malik 1611",
+      "chapterRef": "45"
+    },
+    {
+      "reference": "45.14",
+      "label": "Malik 1612",
+      "chapterRef": "45"
+    },
+    {
+      "reference": "45.15",
+      "label": "Malik 1613",
+      "chapterRef": "45"
+    },
+    {
+      "reference": "45.16",
+      "label": "Malik 1614",
+      "chapterRef": "45"
+    },
+    {
+      "reference": "45.17",
+      "label": "Malik 1615",
+      "chapterRef": "45"
+    },
+    {
+      "reference": "45.18",
+      "label": "Malik 1616",
+      "chapterRef": "45"
+    },
+    {
+      "reference": "45.19",
+      "label": "Malik 1617",
+      "chapterRef": "45"
+    },
+    {
+      "reference": "45.20",
+      "label": "Malik 1618",
+      "chapterRef": "45"
+    },
+    {
+      "reference": "45.21",
+      "label": "Malik 1619",
+      "chapterRef": "45"
+    },
+    {
+      "reference": "45.22",
+      "label": "Malik 1620",
+      "chapterRef": "45"
+    },
+    {
+      "reference": "45.23",
+      "label": "Malik 1621",
+      "chapterRef": "45"
+    },
+    {
+      "reference": "45.24",
+      "label": "Malik 1622",
+      "chapterRef": "45"
+    },
+    {
+      "reference": "46.1",
+      "label": "Malik 1623",
+      "chapterRef": "46"
+    },
+    {
+      "reference": "46.2",
+      "label": "Malik 1624",
+      "chapterRef": "46"
+    },
+    {
+      "reference": "46.3",
+      "label": "Malik 1625",
+      "chapterRef": "46"
+    },
+    {
+      "reference": "46.4",
+      "label": "Malik 1626",
+      "chapterRef": "46"
+    },
+    {
+      "reference": "46.5",
+      "label": "Malik 1627",
+      "chapterRef": "46"
+    },
+    {
+      "reference": "46.6",
+      "label": "Malik 1628",
+      "chapterRef": "46"
+    },
+    {
+      "reference": "46.7",
+      "label": "Malik 1629",
+      "chapterRef": "46"
+    },
+    {
+      "reference": "46.8",
+      "label": "Malik 1630",
+      "chapterRef": "46"
+    },
+    {
+      "reference": "46.9",
+      "label": "Malik 1631",
+      "chapterRef": "46"
+    },
+    {
+      "reference": "46.10",
+      "label": "Malik 1632",
+      "chapterRef": "46"
+    },
+    {
+      "reference": "47.1",
+      "label": "Malik 1633",
+      "chapterRef": "47"
+    },
+    {
+      "reference": "47.2",
+      "label": "Malik 1634",
+      "chapterRef": "47"
+    },
+    {
+      "reference": "47.3",
+      "label": "Malik 1635",
+      "chapterRef": "47"
+    },
+    {
+      "reference": "47.4",
+      "label": "Malik 1636",
+      "chapterRef": "47"
+    },
+    {
+      "reference": "47.5",
+      "label": "Malik 1637",
+      "chapterRef": "47"
+    },
+    {
+      "reference": "47.6",
+      "label": "Malik 1638",
+      "chapterRef": "47"
+    },
+    {
+      "reference": "47.7",
+      "label": "Malik 1639",
+      "chapterRef": "47"
+    },
+    {
+      "reference": "47.8",
+      "label": "Malik 1640",
+      "chapterRef": "47"
+    },
+    {
+      "reference": "47.9",
+      "label": "Malik 1641",
+      "chapterRef": "47"
+    },
+    {
+      "reference": "47.10",
+      "label": "Malik 1642",
+      "chapterRef": "47"
+    },
+    {
+      "reference": "47.11",
+      "label": "Malik 1643",
+      "chapterRef": "47"
+    },
+    {
+      "reference": "47.12",
+      "label": "Malik 1644",
+      "chapterRef": "47"
+    },
+    {
+      "reference": "47.13",
+      "label": "Malik 1645",
+      "chapterRef": "47"
+    },
+    {
+      "reference": "47.14",
+      "label": "Malik 1646",
+      "chapterRef": "47"
+    },
+    {
+      "reference": "47.15",
+      "label": "Malik 1647",
+      "chapterRef": "47"
+    },
+    {
+      "reference": "47.16",
+      "label": "Malik 1648",
+      "chapterRef": "47"
+    },
+    {
+      "reference": "47.17",
+      "label": "Malik 1649",
+      "chapterRef": "47"
+    },
+    {
+      "reference": "47.18",
+      "label": "Malik 1650",
+      "chapterRef": "47"
+    },
+    {
+      "reference": "48.1",
+      "label": "Malik 1651",
+      "chapterRef": "48"
+    },
+    {
+      "reference": "48.2",
+      "label": "Malik 1652",
+      "chapterRef": "48"
+    },
+    {
+      "reference": "48.3",
+      "label": "Malik 1653",
+      "chapterRef": "48"
+    },
+    {
+      "reference": "48.4",
+      "label": "Malik 1654",
+      "chapterRef": "48"
+    },
+    {
+      "reference": "48.5",
+      "label": "Malik 1655",
+      "chapterRef": "48"
+    },
+    {
+      "reference": "48.6",
+      "label": "Malik 1656",
+      "chapterRef": "48"
+    },
+    {
+      "reference": "48.7",
+      "label": "Malik 1657",
+      "chapterRef": "48"
+    },
+    {
+      "reference": "48.8",
+      "label": "Malik 1658",
+      "chapterRef": "48"
+    },
+    {
+      "reference": "48.9",
+      "label": "Malik 1659",
+      "chapterRef": "48"
+    },
+    {
+      "reference": "48.10",
+      "label": "Malik 1660",
+      "chapterRef": "48"
+    },
+    {
+      "reference": "48.11",
+      "label": "Malik 1661",
+      "chapterRef": "48"
+    },
+    {
+      "reference": "48.12",
+      "label": "Malik 1662",
+      "chapterRef": "48"
+    },
+    {
+      "reference": "48.13",
+      "label": "Malik 1663",
+      "chapterRef": "48"
+    },
+    {
+      "reference": "48.14",
+      "label": "Malik 1664",
+      "chapterRef": "48"
+    },
+    {
+      "reference": "48.15",
+      "label": "Malik 1665",
+      "chapterRef": "48"
+    },
+    {
+      "reference": "48.16",
+      "label": "Malik 1666",
+      "chapterRef": "48"
+    },
+    {
+      "reference": "48.17",
+      "label": "Malik 1667",
+      "chapterRef": "48"
+    },
+    {
+      "reference": "48.18",
+      "label": "Malik 1668",
+      "chapterRef": "48"
+    },
+    {
+      "reference": "48.19",
+      "label": "Malik 1669",
+      "chapterRef": "48"
+    },
+    {
+      "reference": "48.20",
+      "label": "Malik 1670",
+      "chapterRef": "48"
+    },
+    {
+      "reference": "49.1",
+      "label": "Malik 1671",
+      "chapterRef": "49"
+    },
+    {
+      "reference": "49.2",
+      "label": "Malik 1672",
+      "chapterRef": "49"
+    },
+    {
+      "reference": "49.3",
+      "label": "Malik 1673",
+      "chapterRef": "49"
+    },
+    {
+      "reference": "49.4",
+      "label": "Malik 1674",
+      "chapterRef": "49"
+    },
+    {
+      "reference": "49.5",
+      "label": "Malik 1675",
+      "chapterRef": "49"
+    },
+    {
+      "reference": "49.6",
+      "label": "Malik 1676",
+      "chapterRef": "49"
+    },
+    {
+      "reference": "49.7",
+      "label": "Malik 1677",
+      "chapterRef": "49"
+    },
+    {
+      "reference": "49.8",
+      "label": "Malik 1678",
+      "chapterRef": "49"
+    },
+    {
+      "reference": "49.9",
+      "label": "Malik 1679",
+      "chapterRef": "49"
+    },
+    {
+      "reference": "49.10",
+      "label": "Malik 1680",
+      "chapterRef": "49"
+    },
+    {
+      "reference": "49.11",
+      "label": "Malik 1681",
+      "chapterRef": "49"
+    },
+    {
+      "reference": "49.12",
+      "label": "Malik 1682",
+      "chapterRef": "49"
+    },
+    {
+      "reference": "49.13",
+      "label": "Malik 1683",
+      "chapterRef": "49"
+    },
+    {
+      "reference": "49.14",
+      "label": "Malik 1684",
+      "chapterRef": "49"
+    },
+    {
+      "reference": "49.15",
+      "label": "Malik 1685",
+      "chapterRef": "49"
+    },
+    {
+      "reference": "49.16",
+      "label": "Malik 1686",
+      "chapterRef": "49"
+    },
+    {
+      "reference": "49.17",
+      "label": "Malik 1687",
+      "chapterRef": "49"
+    },
+    {
+      "reference": "49.18",
+      "label": "Malik 1688",
+      "chapterRef": "49"
+    },
+    {
+      "reference": "49.19",
+      "label": "Malik 1689",
+      "chapterRef": "49"
+    },
+    {
+      "reference": "49.20",
+      "label": "Malik 1690",
+      "chapterRef": "49"
+    },
+    {
+      "reference": "49.21",
+      "label": "Malik 1691",
+      "chapterRef": "49"
+    },
+    {
+      "reference": "49.22",
+      "label": "Malik 1692",
+      "chapterRef": "49"
+    },
+    {
+      "reference": "49.23",
+      "label": "Malik 1693",
+      "chapterRef": "49"
+    },
+    {
+      "reference": "49.24",
+      "label": "Malik 1694",
+      "chapterRef": "49"
+    },
+    {
+      "reference": "49.25",
+      "label": "Malik 1695",
+      "chapterRef": "49"
+    },
+    {
+      "reference": "49.26",
+      "label": "Malik 1696",
+      "chapterRef": "49"
+    },
+    {
+      "reference": "49.27",
+      "label": "Malik 1697",
+      "chapterRef": "49"
+    },
+    {
+      "reference": "49.28",
+      "label": "Malik 1698",
+      "chapterRef": "49"
+    },
+    {
+      "reference": "49.29",
+      "label": "Malik 1699",
+      "chapterRef": "49"
+    },
+    {
+      "reference": "49.30",
+      "label": "Malik 1700",
+      "chapterRef": "49"
+    },
+    {
+      "reference": "49.31",
+      "label": "Malik 1701",
+      "chapterRef": "49"
+    },
+    {
+      "reference": "49.32",
+      "label": "Malik 1702",
+      "chapterRef": "49"
+    },
+    {
+      "reference": "49.33",
+      "label": "Malik 1703",
+      "chapterRef": "49"
+    },
+    {
+      "reference": "49.34",
+      "label": "Malik 1704",
+      "chapterRef": "49"
+    },
+    {
+      "reference": "49.35",
+      "label": "Malik 1705",
+      "chapterRef": "49"
+    },
+    {
+      "reference": "49.36",
+      "label": "Malik 1706",
+      "chapterRef": "49"
+    },
+    {
+      "reference": "49.37",
+      "label": "Malik 1707",
+      "chapterRef": "49"
+    },
+    {
+      "reference": "49.38",
+      "label": "Malik 1708",
+      "chapterRef": "49"
+    },
+    {
+      "reference": "49.39",
+      "label": "Malik 1709",
+      "chapterRef": "49"
+    },
+    {
+      "reference": "49.40",
+      "label": "Malik 1710",
+      "chapterRef": "49"
+    },
+    {
+      "reference": "50.1",
+      "label": "Malik 1711",
+      "chapterRef": "50"
+    },
+    {
+      "reference": "50.2",
+      "label": "Malik 1712",
+      "chapterRef": "50"
+    },
+    {
+      "reference": "50.3",
+      "label": "Malik 1713",
+      "chapterRef": "50"
+    },
+    {
+      "reference": "50.4",
+      "label": "Malik 1714",
+      "chapterRef": "50"
+    },
+    {
+      "reference": "50.5",
+      "label": "Malik 1715",
+      "chapterRef": "50"
+    },
+    {
+      "reference": "50.6",
+      "label": "Malik 1716",
+      "chapterRef": "50"
+    },
+    {
+      "reference": "50.7",
+      "label": "Malik 1717",
+      "chapterRef": "50"
+    },
+    {
+      "reference": "50.8",
+      "label": "Malik 1718",
+      "chapterRef": "50"
+    },
+    {
+      "reference": "50.9",
+      "label": "Malik 1719",
+      "chapterRef": "50"
+    },
+    {
+      "reference": "50.10",
+      "label": "Malik 1720",
+      "chapterRef": "50"
+    },
+    {
+      "reference": "50.11",
+      "label": "Malik 1721",
+      "chapterRef": "50"
+    },
+    {
+      "reference": "50.12",
+      "label": "Malik 1722",
+      "chapterRef": "50"
+    },
+    {
+      "reference": "50.13",
+      "label": "Malik 1723",
+      "chapterRef": "50"
+    },
+    {
+      "reference": "50.14",
+      "label": "Malik 1724",
+      "chapterRef": "50"
+    },
+    {
+      "reference": "50.15",
+      "label": "Malik 1725",
+      "chapterRef": "50"
+    },
+    {
+      "reference": "50.16",
+      "label": "Malik 1726",
+      "chapterRef": "50"
+    },
+    {
+      "reference": "50.17",
+      "label": "Malik 1727",
+      "chapterRef": "50"
+    },
+    {
+      "reference": "50.18",
+      "label": "Malik 1728",
+      "chapterRef": "50"
+    },
+    {
+      "reference": "50.19",
+      "label": "Malik 1729",
+      "chapterRef": "50"
+    },
+    {
+      "reference": "51.1",
+      "label": "Malik 1730",
+      "chapterRef": "51"
+    },
+    {
+      "reference": "51.2",
+      "label": "Malik 1731",
+      "chapterRef": "51"
+    },
+    {
+      "reference": "51.3",
+      "label": "Malik 1732",
+      "chapterRef": "51"
+    },
+    {
+      "reference": "51.4",
+      "label": "Malik 1733",
+      "chapterRef": "51"
+    },
+    {
+      "reference": "51.5",
+      "label": "Malik 1734",
+      "chapterRef": "51"
+    },
+    {
+      "reference": "51.6",
+      "label": "Malik 1735",
+      "chapterRef": "51"
+    },
+    {
+      "reference": "51.7",
+      "label": "Malik 1736",
+      "chapterRef": "51"
+    },
+    {
+      "reference": "51.8",
+      "label": "Malik 1737",
+      "chapterRef": "51"
+    },
+    {
+      "reference": "51.9",
+      "label": "Malik 1738",
+      "chapterRef": "51"
+    },
+    {
+      "reference": "51.10",
+      "label": "Malik 1739",
+      "chapterRef": "51"
+    },
+    {
+      "reference": "51.11",
+      "label": "Malik 1740",
+      "chapterRef": "51"
+    },
+    {
+      "reference": "51.12",
+      "label": "Malik 1741",
+      "chapterRef": "51"
+    },
+    {
+      "reference": "51.13",
+      "label": "Malik 1742",
+      "chapterRef": "51"
+    },
+    {
+      "reference": "51.14",
+      "label": "Malik 1743",
+      "chapterRef": "51"
+    },
+    {
+      "reference": "51.15",
+      "label": "Malik 1744",
+      "chapterRef": "51"
+    },
+    {
+      "reference": "51.16",
+      "label": "Malik 1745",
+      "chapterRef": "51"
+    },
+    {
+      "reference": "51.17",
+      "label": "Malik 1746",
+      "chapterRef": "51"
+    },
+    {
+      "reference": "52.1",
+      "label": "Malik 1747",
+      "chapterRef": "52"
+    },
+    {
+      "reference": "52.2",
+      "label": "Malik 1749",
+      "chapterRef": "52"
+    },
+    {
+      "reference": "52.3",
+      "label": "Malik 1750",
+      "chapterRef": "52"
+    },
+    {
+      "reference": "52.4",
+      "label": "Malik 1751",
+      "chapterRef": "52"
+    },
+    {
+      "reference": "52.5",
+      "label": "Malik 1752",
+      "chapterRef": "52"
+    },
+    {
+      "reference": "52.6",
+      "label": "Malik 1753",
+      "chapterRef": "52"
+    },
+    {
+      "reference": "52.7",
+      "label": "Malik 1754",
+      "chapterRef": "52"
+    },
+    {
+      "reference": "52.8",
+      "label": "Malik 1755",
+      "chapterRef": "52"
+    },
+    {
+      "reference": "53.1",
+      "label": "Malik 1756",
+      "chapterRef": "53"
+    },
+    {
+      "reference": "53.2",
+      "label": "Malik 1757",
+      "chapterRef": "53"
+    },
+    {
+      "reference": "53.3",
+      "label": "Malik 1758",
+      "chapterRef": "53"
+    },
+    {
+      "reference": "53.4",
+      "label": "Malik 1759",
+      "chapterRef": "53"
+    },
+    {
+      "reference": "53.5",
+      "label": "Malik 1760",
+      "chapterRef": "53"
+    },
+    {
+      "reference": "53.6",
+      "label": "Malik 1761",
+      "chapterRef": "53"
+    },
+    {
+      "reference": "54.1",
+      "label": "Malik 1764",
+      "chapterRef": "54"
+    },
+    {
+      "reference": "54.2",
+      "label": "Malik 1765",
+      "chapterRef": "54"
+    },
+    {
+      "reference": "54.3",
+      "label": "Malik 1766",
+      "chapterRef": "54"
+    },
+    {
+      "reference": "54.4",
+      "label": "Malik 1767",
+      "chapterRef": "54"
+    },
+    {
+      "reference": "54.5",
+      "label": "Malik 1768",
+      "chapterRef": "54"
+    },
+    {
+      "reference": "54.6",
+      "label": "Malik 1769",
+      "chapterRef": "54"
+    },
+    {
+      "reference": "54.7",
+      "label": "Malik 1770",
+      "chapterRef": "54"
+    },
+    {
+      "reference": "54.8",
+      "label": "Malik 1771",
+      "chapterRef": "54"
+    },
+    {
+      "reference": "54.9",
+      "label": "Malik 1772",
+      "chapterRef": "54"
+    },
+    {
+      "reference": "54.10",
+      "label": "Malik 1773",
+      "chapterRef": "54"
+    },
+    {
+      "reference": "54.11",
+      "label": "Malik 1774",
+      "chapterRef": "54"
+    },
+    {
+      "reference": "54.12",
+      "label": "Malik 1775",
+      "chapterRef": "54"
+    },
+    {
+      "reference": "54.13",
+      "label": "Malik 1776",
+      "chapterRef": "54"
+    },
+    {
+      "reference": "54.14",
+      "label": "Malik 1777",
+      "chapterRef": "54"
+    },
+    {
+      "reference": "54.15",
+      "label": "Malik 1778",
+      "chapterRef": "54"
+    },
+    {
+      "reference": "54.16",
+      "label": "Malik 1779",
+      "chapterRef": "54"
+    },
+    {
+      "reference": "54.17",
+      "label": "Malik 1780",
+      "chapterRef": "54"
+    },
+    {
+      "reference": "54.18",
+      "label": "Malik 1781",
+      "chapterRef": "54"
+    },
+    {
+      "reference": "54.19",
+      "label": "Malik 1782",
+      "chapterRef": "54"
+    },
+    {
+      "reference": "54.20",
+      "label": "Malik 1783",
+      "chapterRef": "54"
+    },
+    {
+      "reference": "54.21",
+      "label": "Malik 1784",
+      "chapterRef": "54"
+    },
+    {
+      "reference": "54.22",
+      "label": "Malik 1785",
+      "chapterRef": "54"
+    },
+    {
+      "reference": "54.23",
+      "label": "Malik 1786",
+      "chapterRef": "54"
+    },
+    {
+      "reference": "54.24",
+      "label": "Malik 1787",
+      "chapterRef": "54"
+    },
+    {
+      "reference": "54.25",
+      "label": "Malik 1788",
+      "chapterRef": "54"
+    },
+    {
+      "reference": "54.26",
+      "label": "Malik 1789",
+      "chapterRef": "54"
+    },
+    {
+      "reference": "54.27",
+      "label": "Malik 1790",
+      "chapterRef": "54"
+    },
+    {
+      "reference": "54.28",
+      "label": "Malik 1791",
+      "chapterRef": "54"
+    },
+    {
+      "reference": "54.29",
+      "label": "Malik 1792",
+      "chapterRef": "54"
+    },
+    {
+      "reference": "54.30",
+      "label": "Malik 1793",
+      "chapterRef": "54"
+    },
+    {
+      "reference": "54.31",
+      "label": "Malik 1794",
+      "chapterRef": "54"
+    },
+    {
+      "reference": "54.32",
+      "label": "Malik 1795",
+      "chapterRef": "54"
+    },
+    {
+      "reference": "54.33",
+      "label": "Malik 1796",
+      "chapterRef": "54"
+    },
+    {
+      "reference": "54.34",
+      "label": "Malik 1797",
+      "chapterRef": "54"
+    },
+    {
+      "reference": "54.35",
+      "label": "Malik 1798",
+      "chapterRef": "54"
+    },
+    {
+      "reference": "54.36",
+      "label": "Malik 1799",
+      "chapterRef": "54"
+    },
+    {
+      "reference": "54.37",
+      "label": "Malik 1800",
+      "chapterRef": "54"
+    },
+    {
+      "reference": "54.38",
+      "label": "Malik 1801",
+      "chapterRef": "54"
+    },
+    {
+      "reference": "54.39",
+      "label": "Malik 1802",
+      "chapterRef": "54"
+    },
+    {
+      "reference": "54.40",
+      "label": "Malik 1803",
+      "chapterRef": "54"
+    },
+    {
+      "reference": "54.41",
+      "label": "Malik 1804",
+      "chapterRef": "54"
+    },
+    {
+      "reference": "54.42",
+      "label": "Malik 1805",
+      "chapterRef": "54"
+    },
+    {
+      "reference": "54.43",
+      "label": "Malik 1806",
+      "chapterRef": "54"
+    },
+    {
+      "reference": "54.44",
+      "label": "Malik 1807",
+      "chapterRef": "54"
+    },
+    {
+      "reference": "55.1",
+      "label": "Malik 1808",
+      "chapterRef": "55"
+    },
+    {
+      "reference": "55.2",
+      "label": "Malik 1809",
+      "chapterRef": "55"
+    },
+    {
+      "reference": "55.3",
+      "label": "Malik 1810",
+      "chapterRef": "55"
+    },
+    {
+      "reference": "56.1",
+      "label": "Malik 1811",
+      "chapterRef": "56"
+    },
+    {
+      "reference": "56.2",
+      "label": "Malik 1812",
+      "chapterRef": "56"
+    },
+    {
+      "reference": "56.3",
+      "label": "Malik 1813",
+      "chapterRef": "56"
+    },
+    {
+      "reference": "56.4",
+      "label": "Malik 1814",
+      "chapterRef": "56"
+    },
+    {
+      "reference": "56.5",
+      "label": "Malik 1815",
+      "chapterRef": "56"
+    },
+    {
+      "reference": "56.6",
+      "label": "Malik 1816",
+      "chapterRef": "56"
+    },
+    {
+      "reference": "56.7",
+      "label": "Malik 1817",
+      "chapterRef": "56"
+    },
+    {
+      "reference": "56.8",
+      "label": "Malik 1818",
+      "chapterRef": "56"
+    },
+    {
+      "reference": "56.9",
+      "label": "Malik 1819",
+      "chapterRef": "56"
+    },
+    {
+      "reference": "56.10",
+      "label": "Malik 1820",
+      "chapterRef": "56"
+    },
+    {
+      "reference": "56.11",
+      "label": "Malik 1821",
+      "chapterRef": "56"
+    },
+    {
+      "reference": "56.12",
+      "label": "Malik 1822",
+      "chapterRef": "56"
+    },
+    {
+      "reference": "56.13",
+      "label": "Malik 1823",
+      "chapterRef": "56"
+    },
+    {
+      "reference": "56.14",
+      "label": "Malik 1824",
+      "chapterRef": "56"
+    },
+    {
+      "reference": "56.15",
+      "label": "Malik 1825",
+      "chapterRef": "56"
+    },
+    {
+      "reference": "56.16",
+      "label": "Malik 1826",
+      "chapterRef": "56"
+    },
+    {
+      "reference": "56.17",
+      "label": "Malik 1827",
+      "chapterRef": "56"
+    },
+    {
+      "reference": "56.18",
+      "label": "Malik 1828",
+      "chapterRef": "56"
+    },
+    {
+      "reference": "56.19",
+      "label": "Malik 1829",
+      "chapterRef": "56"
+    },
+    {
+      "reference": "56.20",
+      "label": "Malik 1830",
+      "chapterRef": "56"
+    },
+    {
+      "reference": "56.21",
+      "label": "Malik 1831",
+      "chapterRef": "56"
+    },
+    {
+      "reference": "56.22",
+      "label": "Malik 1832",
+      "chapterRef": "56"
+    },
+    {
+      "reference": "56.23",
+      "label": "Malik 1833",
+      "chapterRef": "56"
+    },
+    {
+      "reference": "56.24",
+      "label": "Malik 1834",
+      "chapterRef": "56"
+    },
+    {
+      "reference": "56.25",
+      "label": "Malik 1835",
+      "chapterRef": "56"
+    },
+    {
+      "reference": "56.26",
+      "label": "Malik 1836",
+      "chapterRef": "56"
+    },
+    {
+      "reference": "56.27",
+      "label": "Malik 1837",
+      "chapterRef": "56"
+    },
+    {
+      "reference": "56.28",
+      "label": "Malik 1838",
+      "chapterRef": "56"
+    },
+    {
+      "reference": "57.1",
+      "label": "Malik 1839",
+      "chapterRef": "57"
+    },
+    {
+      "reference": "57.2",
+      "label": "Malik 1840",
+      "chapterRef": "57"
+    },
+    {
+      "reference": "58.1",
+      "label": "Malik 1841",
+      "chapterRef": "58"
+    },
+    {
+      "reference": "58.2",
+      "label": "Malik 1842",
+      "chapterRef": "58"
+    },
+    {
+      "reference": "58.3",
+      "label": "Malik 1843",
+      "chapterRef": "58"
+    },
+    {
+      "reference": "58.4",
+      "label": "Malik 1844",
+      "chapterRef": "58"
+    },
+    {
+      "reference": "58.5",
+      "label": "Malik 1845",
+      "chapterRef": "58"
+    },
+    {
+      "reference": "58.6",
+      "label": "Malik 1846",
+      "chapterRef": "58"
+    },
+    {
+      "reference": "58.7",
+      "label": "Malik 1847",
+      "chapterRef": "58"
+    },
+    {
+      "reference": "58.8",
+      "label": "Malik 1848",
+      "chapterRef": "58"
+    },
+    {
+      "reference": "58.9",
+      "label": "Malik 1849",
+      "chapterRef": "58"
+    },
+    {
+      "reference": "58.10",
+      "label": "Malik 1850",
+      "chapterRef": "58"
+    },
+    {
+      "reference": "58.11",
+      "label": "Malik 1851",
+      "chapterRef": "58"
+    },
+    {
+      "reference": "58.12",
+      "label": "Malik 1852",
+      "chapterRef": "58"
+    },
+    {
+      "reference": "58.13",
+      "label": "Malik 1853",
+      "chapterRef": "58"
+    },
+    {
+      "reference": "58.14",
+      "label": "Malik 1854",
+      "chapterRef": "58"
+    },
+    {
+      "reference": "58.15",
+      "label": "Malik 1855",
+      "chapterRef": "58"
+    },
+    {
+      "reference": "59.1",
+      "label": "Malik 1856",
+      "chapterRef": "59"
+    },
+    {
+      "reference": "60.1",
+      "label": "Malik 1857",
+      "chapterRef": "60"
+    },
+    {
+      "reference": "61.1",
+      "label": "Malik 1858",
+      "chapterRef": "61"
+    }
+  ],
+  "editions": [
+    {
+      "slug": "muwatta-malik-ar",
+      "language": "ar",
+      "editionType": "original",
+      "title": "Arabic text (as served by the Hadith API)",
+      "translator": "",
+      "publisher": "Hadith API (fawazahmed0)",
+      "publicationYear": null,
+      "source": "hadith-api",
+      "license": "public-domain",
+      "rightsStatus": "Public domain (classical Arabic text)",
+      "attributionText": "The Arabic text of Al-Muwatta, served by the Hadith API (fawazahmed0, via jsDelivr).",
+      "structureScheme": "book, section, hadith",
+      "isSample": false,
+      "notes": "Arabic and English are separate editions with separate numbering; the reader pairs them section by section."
+    },
+    {
+      "slug": "muwatta-malik-en",
+      "language": "en",
+      "editionType": "translation",
+      "title": "Al-Muwatta (English text served by the Hadith API)",
+      "translator": "Not stated by the host",
+      "publisher": "Hadith API (fawazahmed0)",
+      "publicationYear": null,
+      "source": "hadith-api",
+      "license": "streamed-host-terms",
+      "rightsStatus": "Streamed from the host; translation rights are not held by this library",
+      "attributionText": "Al-Muwatta (English text served by the Hadith API). Served by the Hadith API (fawazahmed0, via jsDelivr). The host does not identify the translator of this English text. Rights are unverified; the text is streamed with attribution to the host and is not relicensed.",
+      "structureScheme": "book, section, hadith",
+      "isSample": false,
+      "notes": "The host does not identify the translator of this English text. Rights are unverified; the text is streamed with attribution to the host and is not relicensed."
+    }
+  ]
+}

@@ -1,0 +1,855 @@
+{
+  "slug": "sutta-mn104",
+  "title": "At Sāmagāma (MN104)",
+  "originalTitle": "Sāmagāmasutta",
+  "transliteration": "",
+  "altTitles": [
+    "At Sāmagāma"
+  ],
+  "tradition": "buddhism",
+  "school": "theravada",
+  "genre": "Scripture",
+  "textType": "Discourse",
+  "category": "Sutta",
+  "subcategory": "Majjhima Nikāya",
+  "originalLanguage": "pi",
+  "dateStart": -400,
+  "dateEnd": -100,
+  "dateDisplay": "Composed c. 4th–2nd centuries BCE; written down in the 1st century BCE",
+  "authorshipStatus": "anonymous",
+  "author": "buddha",
+  "attributionNote": "The discourse is presented in the canonical collection as the Buddha's teaching, transmitted by the early Buddhist community. Authorship of the surviving Pali text is collective and anonymous.",
+  "description": "At Sāmagāma is sutta 104 of the Majjhima Nikāya (Middle Length Discourses). The Middle Length Discourses gather 152 suttas of the Pali canon, among them the Satipaṭṭhāna, the Alagaddūpama and the Cūḷamālukya suttas. They are preserved in Pali and translated here by Bhikkhu Sujato.",
+  "historicalContext": "The Majjhima Nikāya belongs to the Sutta Piṭaka of the Theravada canon. Its discourses are central to the study of early Buddhist doctrine and practice in every Buddhist tradition that preserves them.",
+  "availabilityNote": "",
+  "featured": false,
+  "featuredNote": "",
+  "refScheme": "chapter.paragraph",
+  "isSample": false,
+  "textStorage": "streamed",
+  "chapters": [
+    {
+      "ref": "mn104",
+      "label": "MN104 · At Sāmagāma"
+    }
+  ],
+  "passages": [
+    {
+      "reference": "1",
+      "label": "mn104:1.1",
+      "chapterRef": "mn104"
+    },
+    {
+      "reference": "2",
+      "label": "mn104:1.2",
+      "chapterRef": "mn104"
+    },
+    {
+      "reference": "3",
+      "label": "mn104:2.1",
+      "chapterRef": "mn104"
+    },
+    {
+      "reference": "4",
+      "label": "mn104:2.2",
+      "chapterRef": "mn104"
+    },
+    {
+      "reference": "5",
+      "label": "mn104:2.3",
+      "chapterRef": "mn104"
+    },
+    {
+      "reference": "6",
+      "label": "mn104:2.4",
+      "chapterRef": "mn104"
+    },
+    {
+      "reference": "7",
+      "label": "mn104:2.5",
+      "chapterRef": "mn104"
+    },
+    {
+      "reference": "8",
+      "label": "mn104:3.1",
+      "chapterRef": "mn104"
+    },
+    {
+      "reference": "9",
+      "label": "mn104:4.1",
+      "chapterRef": "mn104"
+    },
+    {
+      "reference": "10",
+      "label": "mn104:4.2",
+      "chapterRef": "mn104"
+    },
+    {
+      "reference": "11",
+      "label": "mn104:4.3",
+      "chapterRef": "mn104"
+    },
+    {
+      "reference": "12",
+      "label": "mn104:4.4",
+      "chapterRef": "mn104"
+    },
+    {
+      "reference": "13",
+      "label": "mn104:4.5",
+      "chapterRef": "mn104"
+    },
+    {
+      "reference": "14",
+      "label": "mn104:4.9",
+      "chapterRef": "mn104"
+    },
+    {
+      "reference": "15",
+      "label": "mn104:4.10",
+      "chapterRef": "mn104"
+    },
+    {
+      "reference": "16",
+      "label": "mn104:4.11",
+      "chapterRef": "mn104"
+    },
+    {
+      "reference": "17",
+      "label": "mn104:5.1",
+      "chapterRef": "mn104"
+    },
+    {
+      "reference": "18",
+      "label": "mn104:5.2",
+      "chapterRef": "mn104"
+    },
+    {
+      "reference": "19",
+      "label": "mn104:5.3",
+      "chapterRef": "mn104"
+    },
+    {
+      "reference": "20",
+      "label": "mn104:5.4",
+      "chapterRef": "mn104"
+    },
+    {
+      "reference": "21",
+      "label": "mn104:5.6",
+      "chapterRef": "mn104"
+    },
+    {
+      "reference": "22",
+      "label": "mn104:5.7",
+      "chapterRef": "mn104"
+    },
+    {
+      "reference": "23",
+      "label": "mn104:5.8",
+      "chapterRef": "mn104"
+    },
+    {
+      "reference": "24",
+      "label": "mn104:5.9",
+      "chapterRef": "mn104"
+    },
+    {
+      "reference": "25",
+      "label": "mn104:6.1",
+      "chapterRef": "mn104"
+    },
+    {
+      "reference": "26",
+      "label": "mn104:6.2",
+      "chapterRef": "mn104"
+    },
+    {
+      "reference": "27",
+      "label": "mn104:6.3",
+      "chapterRef": "mn104"
+    },
+    {
+      "reference": "28",
+      "label": "mn104:6.4",
+      "chapterRef": "mn104"
+    },
+    {
+      "reference": "29",
+      "label": "mn104:6.5",
+      "chapterRef": "mn104"
+    },
+    {
+      "reference": "30",
+      "label": "mn104:6.6",
+      "chapterRef": "mn104"
+    },
+    {
+      "reference": "31",
+      "label": "mn104:6.7",
+      "chapterRef": "mn104"
+    },
+    {
+      "reference": "32",
+      "label": "mn104:6.8",
+      "chapterRef": "mn104"
+    },
+    {
+      "reference": "33",
+      "label": "mn104:7-11.1",
+      "chapterRef": "mn104"
+    },
+    {
+      "reference": "34",
+      "label": "mn104:7-11.2",
+      "chapterRef": "mn104"
+    },
+    {
+      "reference": "35",
+      "label": "mn104:7-11.3",
+      "chapterRef": "mn104"
+    },
+    {
+      "reference": "36",
+      "label": "mn104:7-11.4",
+      "chapterRef": "mn104"
+    },
+    {
+      "reference": "37",
+      "label": "mn104:7-11.5",
+      "chapterRef": "mn104"
+    },
+    {
+      "reference": "38",
+      "label": "mn104:7-11.6",
+      "chapterRef": "mn104"
+    },
+    {
+      "reference": "39",
+      "label": "mn104:7-11.7",
+      "chapterRef": "mn104"
+    },
+    {
+      "reference": "40",
+      "label": "mn104:7-11.8",
+      "chapterRef": "mn104"
+    },
+    {
+      "reference": "41",
+      "label": "mn104:7-11.9",
+      "chapterRef": "mn104"
+    },
+    {
+      "reference": "42",
+      "label": "mn104:7-11.10",
+      "chapterRef": "mn104"
+    },
+    {
+      "reference": "43",
+      "label": "mn104:7-11.11",
+      "chapterRef": "mn104"
+    },
+    {
+      "reference": "44",
+      "label": "mn104:12.1",
+      "chapterRef": "mn104"
+    },
+    {
+      "reference": "45",
+      "label": "mn104:12.2",
+      "chapterRef": "mn104"
+    },
+    {
+      "reference": "46",
+      "label": "mn104:12.3",
+      "chapterRef": "mn104"
+    },
+    {
+      "reference": "47",
+      "label": "mn104:12.4",
+      "chapterRef": "mn104"
+    },
+    {
+      "reference": "48",
+      "label": "mn104:13.1",
+      "chapterRef": "mn104"
+    },
+    {
+      "reference": "49",
+      "label": "mn104:13.2",
+      "chapterRef": "mn104"
+    },
+    {
+      "reference": "50",
+      "label": "mn104:14.1",
+      "chapterRef": "mn104"
+    },
+    {
+      "reference": "51",
+      "label": "mn104:14.2",
+      "chapterRef": "mn104"
+    },
+    {
+      "reference": "52",
+      "label": "mn104:14.3",
+      "chapterRef": "mn104"
+    },
+    {
+      "reference": "53",
+      "label": "mn104:14.4",
+      "chapterRef": "mn104"
+    },
+    {
+      "reference": "54",
+      "label": "mn104:14.5",
+      "chapterRef": "mn104"
+    },
+    {
+      "reference": "55",
+      "label": "mn104:14.6",
+      "chapterRef": "mn104"
+    },
+    {
+      "reference": "56",
+      "label": "mn104:14.7",
+      "chapterRef": "mn104"
+    },
+    {
+      "reference": "57",
+      "label": "mn104:14.8",
+      "chapterRef": "mn104"
+    },
+    {
+      "reference": "58",
+      "label": "mn104:15.1",
+      "chapterRef": "mn104"
+    },
+    {
+      "reference": "59",
+      "label": "mn104:15.2",
+      "chapterRef": "mn104"
+    },
+    {
+      "reference": "60",
+      "label": "mn104:15.3",
+      "chapterRef": "mn104"
+    },
+    {
+      "reference": "61",
+      "label": "mn104:15.4",
+      "chapterRef": "mn104"
+    },
+    {
+      "reference": "62",
+      "label": "mn104:15.5",
+      "chapterRef": "mn104"
+    },
+    {
+      "reference": "63",
+      "label": "mn104:15.6",
+      "chapterRef": "mn104"
+    },
+    {
+      "reference": "64",
+      "label": "mn104:15.7",
+      "chapterRef": "mn104"
+    },
+    {
+      "reference": "65",
+      "label": "mn104:15.8",
+      "chapterRef": "mn104"
+    },
+    {
+      "reference": "66",
+      "label": "mn104:16.1",
+      "chapterRef": "mn104"
+    },
+    {
+      "reference": "67",
+      "label": "mn104:16.2",
+      "chapterRef": "mn104"
+    },
+    {
+      "reference": "68",
+      "label": "mn104:16.3",
+      "chapterRef": "mn104"
+    },
+    {
+      "reference": "69",
+      "label": "mn104:16.4",
+      "chapterRef": "mn104"
+    },
+    {
+      "reference": "70",
+      "label": "mn104:16.5",
+      "chapterRef": "mn104"
+    },
+    {
+      "reference": "71",
+      "label": "mn104:16.6",
+      "chapterRef": "mn104"
+    },
+    {
+      "reference": "72",
+      "label": "mn104:16.7",
+      "chapterRef": "mn104"
+    },
+    {
+      "reference": "73",
+      "label": "mn104:16.8",
+      "chapterRef": "mn104"
+    },
+    {
+      "reference": "74",
+      "label": "mn104:17.1",
+      "chapterRef": "mn104"
+    },
+    {
+      "reference": "75",
+      "label": "mn104:17.2",
+      "chapterRef": "mn104"
+    },
+    {
+      "reference": "76",
+      "label": "mn104:17.3",
+      "chapterRef": "mn104"
+    },
+    {
+      "reference": "77",
+      "label": "mn104:17.4",
+      "chapterRef": "mn104"
+    },
+    {
+      "reference": "78",
+      "label": "mn104:17.5",
+      "chapterRef": "mn104"
+    },
+    {
+      "reference": "79",
+      "label": "mn104:17.6",
+      "chapterRef": "mn104"
+    },
+    {
+      "reference": "80",
+      "label": "mn104:17.7",
+      "chapterRef": "mn104"
+    },
+    {
+      "reference": "81",
+      "label": "mn104:17.8",
+      "chapterRef": "mn104"
+    },
+    {
+      "reference": "82",
+      "label": "mn104:17.9",
+      "chapterRef": "mn104"
+    },
+    {
+      "reference": "83",
+      "label": "mn104:17.10",
+      "chapterRef": "mn104"
+    },
+    {
+      "reference": "84",
+      "label": "mn104:17.11",
+      "chapterRef": "mn104"
+    },
+    {
+      "reference": "85",
+      "label": "mn104:17.12",
+      "chapterRef": "mn104"
+    },
+    {
+      "reference": "86",
+      "label": "mn104:17.13",
+      "chapterRef": "mn104"
+    },
+    {
+      "reference": "87",
+      "label": "mn104:17.14",
+      "chapterRef": "mn104"
+    },
+    {
+      "reference": "88",
+      "label": "mn104:17.15",
+      "chapterRef": "mn104"
+    },
+    {
+      "reference": "89",
+      "label": "mn104:18.1",
+      "chapterRef": "mn104"
+    },
+    {
+      "reference": "90",
+      "label": "mn104:18.2",
+      "chapterRef": "mn104"
+    },
+    {
+      "reference": "91",
+      "label": "mn104:18.3",
+      "chapterRef": "mn104"
+    },
+    {
+      "reference": "92",
+      "label": "mn104:18.4",
+      "chapterRef": "mn104"
+    },
+    {
+      "reference": "93",
+      "label": "mn104:18.5",
+      "chapterRef": "mn104"
+    },
+    {
+      "reference": "94",
+      "label": "mn104:18.6",
+      "chapterRef": "mn104"
+    },
+    {
+      "reference": "95",
+      "label": "mn104:18.7",
+      "chapterRef": "mn104"
+    },
+    {
+      "reference": "96",
+      "label": "mn104:18.8",
+      "chapterRef": "mn104"
+    },
+    {
+      "reference": "97",
+      "label": "mn104:18.9",
+      "chapterRef": "mn104"
+    },
+    {
+      "reference": "98",
+      "label": "mn104:18.10",
+      "chapterRef": "mn104"
+    },
+    {
+      "reference": "99",
+      "label": "mn104:18.11",
+      "chapterRef": "mn104"
+    },
+    {
+      "reference": "100",
+      "label": "mn104:19.1",
+      "chapterRef": "mn104"
+    },
+    {
+      "reference": "101",
+      "label": "mn104:19.2",
+      "chapterRef": "mn104"
+    },
+    {
+      "reference": "102",
+      "label": "mn104:19.3",
+      "chapterRef": "mn104"
+    },
+    {
+      "reference": "103",
+      "label": "mn104:19.4",
+      "chapterRef": "mn104"
+    },
+    {
+      "reference": "104",
+      "label": "mn104:19.5",
+      "chapterRef": "mn104"
+    },
+    {
+      "reference": "105",
+      "label": "mn104:19.6",
+      "chapterRef": "mn104"
+    },
+    {
+      "reference": "106",
+      "label": "mn104:19.7",
+      "chapterRef": "mn104"
+    },
+    {
+      "reference": "107",
+      "label": "mn104:19.8",
+      "chapterRef": "mn104"
+    },
+    {
+      "reference": "108",
+      "label": "mn104:19.9",
+      "chapterRef": "mn104"
+    },
+    {
+      "reference": "109",
+      "label": "mn104:19.10",
+      "chapterRef": "mn104"
+    },
+    {
+      "reference": "110",
+      "label": "mn104:19.11",
+      "chapterRef": "mn104"
+    },
+    {
+      "reference": "111",
+      "label": "mn104:19.12",
+      "chapterRef": "mn104"
+    },
+    {
+      "reference": "112",
+      "label": "mn104:19.13",
+      "chapterRef": "mn104"
+    },
+    {
+      "reference": "113",
+      "label": "mn104:19.14",
+      "chapterRef": "mn104"
+    },
+    {
+      "reference": "114",
+      "label": "mn104:19.15",
+      "chapterRef": "mn104"
+    },
+    {
+      "reference": "115",
+      "label": "mn104:19.16",
+      "chapterRef": "mn104"
+    },
+    {
+      "reference": "116",
+      "label": "mn104:19.17",
+      "chapterRef": "mn104"
+    },
+    {
+      "reference": "117",
+      "label": "mn104:19.18",
+      "chapterRef": "mn104"
+    },
+    {
+      "reference": "118",
+      "label": "mn104:19.19",
+      "chapterRef": "mn104"
+    },
+    {
+      "reference": "119",
+      "label": "mn104:19.20",
+      "chapterRef": "mn104"
+    },
+    {
+      "reference": "120",
+      "label": "mn104:19.21",
+      "chapterRef": "mn104"
+    },
+    {
+      "reference": "121",
+      "label": "mn104:19.22",
+      "chapterRef": "mn104"
+    },
+    {
+      "reference": "122",
+      "label": "mn104:19.23",
+      "chapterRef": "mn104"
+    },
+    {
+      "reference": "123",
+      "label": "mn104:19.24",
+      "chapterRef": "mn104"
+    },
+    {
+      "reference": "124",
+      "label": "mn104:20.1",
+      "chapterRef": "mn104"
+    },
+    {
+      "reference": "125",
+      "label": "mn104:20.2",
+      "chapterRef": "mn104"
+    },
+    {
+      "reference": "126",
+      "label": "mn104:20.3",
+      "chapterRef": "mn104"
+    },
+    {
+      "reference": "127",
+      "label": "mn104:20.4",
+      "chapterRef": "mn104"
+    },
+    {
+      "reference": "128",
+      "label": "mn104:20.5",
+      "chapterRef": "mn104"
+    },
+    {
+      "reference": "129",
+      "label": "mn104:20.6",
+      "chapterRef": "mn104"
+    },
+    {
+      "reference": "130",
+      "label": "mn104:20.7",
+      "chapterRef": "mn104"
+    },
+    {
+      "reference": "131",
+      "label": "mn104:20.8",
+      "chapterRef": "mn104"
+    },
+    {
+      "reference": "132",
+      "label": "mn104:20.9",
+      "chapterRef": "mn104"
+    },
+    {
+      "reference": "133",
+      "label": "mn104:20.10",
+      "chapterRef": "mn104"
+    },
+    {
+      "reference": "134",
+      "label": "mn104:20.11",
+      "chapterRef": "mn104"
+    },
+    {
+      "reference": "135",
+      "label": "mn104:20.12",
+      "chapterRef": "mn104"
+    },
+    {
+      "reference": "136",
+      "label": "mn104:20.13",
+      "chapterRef": "mn104"
+    },
+    {
+      "reference": "137",
+      "label": "mn104:21.1",
+      "chapterRef": "mn104"
+    },
+    {
+      "reference": "138",
+      "label": "mn104:21.2",
+      "chapterRef": "mn104"
+    },
+    {
+      "reference": "139",
+      "label": "mn104:21.3",
+      "chapterRef": "mn104"
+    },
+    {
+      "reference": "140",
+      "label": "mn104:21.4",
+      "chapterRef": "mn104"
+    },
+    {
+      "reference": "141",
+      "label": "mn104:21.5",
+      "chapterRef": "mn104"
+    },
+    {
+      "reference": "142",
+      "label": "mn104:21.6",
+      "chapterRef": "mn104"
+    },
+    {
+      "reference": "143",
+      "label": "mn104:21.7",
+      "chapterRef": "mn104"
+    },
+    {
+      "reference": "144",
+      "label": "mn104:21.8",
+      "chapterRef": "mn104"
+    },
+    {
+      "reference": "145",
+      "label": "mn104:21.9",
+      "chapterRef": "mn104"
+    },
+    {
+      "reference": "146",
+      "label": "mn104:21.10",
+      "chapterRef": "mn104"
+    },
+    {
+      "reference": "147",
+      "label": "mn104:21.11",
+      "chapterRef": "mn104"
+    },
+    {
+      "reference": "148",
+      "label": "mn104:21.12",
+      "chapterRef": "mn104"
+    },
+    {
+      "reference": "149",
+      "label": "mn104:21.13",
+      "chapterRef": "mn104"
+    },
+    {
+      "reference": "150",
+      "label": "mn104:21.14",
+      "chapterRef": "mn104"
+    },
+    {
+      "reference": "151",
+      "label": "mn104:21.15",
+      "chapterRef": "mn104"
+    },
+    {
+      "reference": "152",
+      "label": "mn104:22.1",
+      "chapterRef": "mn104"
+    },
+    {
+      "reference": "153",
+      "label": "mn104:22.2",
+      "chapterRef": "mn104"
+    },
+    {
+      "reference": "154",
+      "label": "mn104:22.3",
+      "chapterRef": "mn104"
+    },
+    {
+      "reference": "155",
+      "label": "mn104:22.4",
+      "chapterRef": "mn104"
+    },
+    {
+      "reference": "156",
+      "label": "mn104:22.5",
+      "chapterRef": "mn104"
+    },
+    {
+      "reference": "157",
+      "label": "mn104:22.6",
+      "chapterRef": "mn104"
+    }
+  ],
+  "editions": [
+    {
+      "slug": "sutta-mn104-pi-sc",
+      "language": "pi",
+      "editionType": "original",
+      "title": "Majjhima Nikāya 104 — Pali root text",
+      "translator": "",
+      "publisher": "SuttaCentral",
+      "publicationYear": null,
+      "source": "suttacentral",
+      "license": "cc0-1.0",
+      "rightsStatus": "CC0 1.0 public-domain dedication",
+      "attributionText": "Pali root text from SuttaCentral (Majjhima Nikāya 104).",
+      "structureScheme": "SuttaCentral segment ids",
+      "isSample": false
+    },
+    {
+      "slug": "sutta-mn104-en-sujato",
+      "language": "en",
+      "editionType": "translation",
+      "title": "At Sāmagāma — Bhikkhu Sujato",
+      "translator": "Bhikkhu Sujato",
+      "publisher": "SuttaCentral",
+      "publicationYear": 2018,
+      "source": "suttacentral",
+      "license": "cc0-1.0",
+      "rightsStatus": "CC0 1.0 public-domain dedication",
+      "attributionText": "Translation by Bhikkhu Sujato, SuttaCentral (MN104), released under CC0 1.0.",
+      "structureScheme": "SuttaCentral segment ids",
+      "isSample": false
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "slug": "jewish-thought-orot-hakodesh",
+  "title": "Orot HaKodesh",
+  "originalTitle": "אורות הקודש",
+  "transliteration": "",
+  "altTitles": [],
+  "tradition": "judaism",
+  "school": "rabbinic-judaism",
+  "genre": "Jewish Thought",
+  "textType": "Theology and philosophy",
+  "category": "Jewish Thought",
+  "subcategory": "Modern",
+  "originalLanguage": "he",
+  "dateStart": 900,
+  "dateEnd": 1950,
+  "dateDisplay": "Medieval and modern Jewish thought",
+  "authorshipStatus": "established",
+  "author": "",
+  "attributionNote": "Authorship follows the Sefaria catalogue record for this work. Where a text is traditionally attributed or collectively compiled, the library does not assert a single author beyond the source's own metadata.",
+  "description": "Four-volume compilation of essays containing R. Kook’s philosophy, edited by his student, R. David HaKohen (\"The Nazir\") Complete Jewish Thought text imported from Sefaria; the exact edition and licence are shown with each version.",
+  "historicalContext": "Jewish philosophy and theology argue about God, revelation, law and the human good. These works belong to their own schools and arguments; the library does not flatten them into a single Jewish doctrine.",
+  "availabilityNote": "Imported from Sefaria. Version, source and licence are recorded per edition.",
+  "featured": false,
+  "featuredNote": "",
+  "refScheme": "chapter.paragraph",
+  "isSample": false,
+  "textStorage": "streamed",
+  "chapters": [
+    {
+      "ref": "1",
+      "label": "Volume 1"
+    },
+    {
+      "ref": "3",
+      "label": "Volume 3"
+    }
+  ],
+  "passages": [
+    {
+      "reference": "1.1",
+      "label": "1:1",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "3.1",
+      "label": "3:1",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.2",
+      "label": "3:2",
+      "chapterRef": "3"
+    }
+  ],
+  "editions": [
+    {
+      "slug": "jewish-thought-orot-hakodesh-hebrew-sefaria",
+      "language": "he",
+      "editionType": "original",
+      "title": "Orot HaKodesh -- Wikitext",
+      "translator": "",
+      "publisher": "http://he.wikisource.org/wiki/%D7%90%D7%95%D7%A8%D7%95%D7%AA_%D7%94%D7%A7%D7%95%D7%93%D7%A9_%D7%90",
+      "publicationYear": null,
+      "source": "sefaria",
+      "license": "cc-by-sa",
+      "rightsStatus": "CC-BY-SA",
+      "attributionText": "Orot HaKodesh -- Wikitext; licence: CC-BY-SA; source: http://he.wikisource.org/wiki/%D7%90%D7%95%D7%A8%D7%95%D7%AA_%D7%94%D7%A7%D7%95%D7%93%D7%A9_%D7%90. Retrieved via Sefaria on 2026-10-20.",
+      "structureScheme": "chapter and paragraph",
+      "isSample": false,
+      "notes": "Complete work imported from Sefaria. Text is displayed as supplied by the named edition; HTML markup has been removed."
+    },
+    {
+      "slug": "jewish-thought-orot-hakodesh-english-sefaria-1",
+      "language": "en",
+      "editionType": "translation",
+      "title": "Sefaria Community Translation",
+      "translator": "",
+      "publisher": "https://www.sefaria.org",
+      "publicationYear": null,
+      "source": "sefaria",
+      "license": "cc0-1.0",
+      "rightsStatus": "CC0",
+      "attributionText": "Sefaria Community Translation; licence: CC0; source: https://www.sefaria.org. Retrieved via Sefaria on 2026-10-20.",
+      "structureScheme": "chapter and paragraph",
+      "isSample": false,
+      "notes": "Complete work imported from Sefaria. Text is displayed as supplied by the named edition; HTML markup has been removed."
+    }
+  ]
+}

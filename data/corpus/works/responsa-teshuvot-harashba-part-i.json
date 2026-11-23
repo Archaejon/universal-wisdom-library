@@ -1,0 +1,109 @@
+{
+  "slug": "responsa-teshuvot-harashba-part-i",
+  "title": "Teshuvot haRashba part I",
+  "originalTitle": "שו\"ת הרשב\"א חלק א",
+  "transliteration": "",
+  "altTitles": [],
+  "tradition": "judaism",
+  "school": "rabbinic-judaism",
+  "genre": "Responsa",
+  "textType": "Responsa collection",
+  "category": "Responsa",
+  "subcategory": "Rishonim",
+  "originalLanguage": "he",
+  "dateStart": 700,
+  "dateEnd": 1950,
+  "dateDisplay": "Responsa literature, c. 700–1950 CE",
+  "authorshipStatus": "established",
+  "author": "",
+  "attributionNote": "Authorship follows the Sefaria catalogue record for this work. Where a text is traditionally attributed or collectively compiled, the library does not assert a single author beyond the source's own metadata.",
+  "description": "Complete Responsa text imported from Sefaria; the exact edition and licence are shown with each version.",
+  "historicalContext": "Responsa are written answers to specific legal questions, addressed by a scholar to a community or an individual. A responsum is a dated, situated ruling and is presented with its collection rather than as a universal statute.",
+  "availabilityNote": "Imported from Sefaria. Version, source and licence are recorded per edition.",
+  "featured": false,
+  "featuredNote": "",
+  "refScheme": "chapter.paragraph",
+  "isSample": false,
+  "textStorage": "streamed",
+  "chapters": [
+    {
+      "ref": "395",
+      "label": "Teshuva 395"
+    },
+    {
+      "ref": "413",
+      "label": "Teshuva 413"
+    }
+  ],
+  "passages": [
+    {
+      "reference": "395.1",
+      "label": "395:1",
+      "chapterRef": "395"
+    },
+    {
+      "reference": "395.2",
+      "label": "395:2",
+      "chapterRef": "395"
+    },
+    {
+      "reference": "395.3",
+      "label": "395:3",
+      "chapterRef": "395"
+    },
+    {
+      "reference": "413.1",
+      "label": "413:1",
+      "chapterRef": "413"
+    },
+    {
+      "reference": "413.2",
+      "label": "413:2",
+      "chapterRef": "413"
+    },
+    {
+      "reference": "413.3",
+      "label": "413:3",
+      "chapterRef": "413"
+    },
+    {
+      "reference": "413.4",
+      "label": "413:4",
+      "chapterRef": "413"
+    }
+  ],
+  "editions": [
+    {
+      "slug": "responsa-teshuvot-harashba-part-i-hebrew-sefaria",
+      "language": "he",
+      "editionType": "original",
+      "title": "Teshuvot haRashba I, Bnei Brak, 1958",
+      "translator": "",
+      "publisher": "https://www.nli.org.il/he/books/NNL_ALEPH001124685 ",
+      "publicationYear": null,
+      "source": "sefaria",
+      "license": "unknown",
+      "rightsStatus": "unknown",
+      "attributionText": "Teshuvot haRashba I, Bnei Brak, 1958; licence: unknown; source: https://www.nli.org.il/he/books/NNL_ALEPH001124685 . Retrieved via Sefaria on 2026-10-20.",
+      "structureScheme": "chapter and paragraph",
+      "isSample": false,
+      "notes": "Complete work imported from Sefaria. Text is displayed as supplied by the named edition; HTML markup has been removed."
+    },
+    {
+      "slug": "responsa-teshuvot-harashba-part-i-english-sefaria-1",
+      "language": "en",
+      "editionType": "translation",
+      "title": "Sefaria Responsa Anthology",
+      "translator": "",
+      "publisher": "https://www.sefaria.org",
+      "publicationYear": null,
+      "source": "sefaria",
+      "license": "cc-by",
+      "rightsStatus": "CC-BY",
+      "attributionText": "Sefaria Responsa Anthology; licence: CC-BY; source: https://www.sefaria.org. Retrieved via Sefaria on 2026-10-20.",
+      "structureScheme": "chapter and paragraph",
+      "isSample": false,
+      "notes": "Complete work imported from Sefaria. Text is displayed as supplied by the named edition; HTML markup has been removed."
+    }
+  ]
+}

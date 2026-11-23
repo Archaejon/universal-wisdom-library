@@ -1,0 +1,163 @@
+{
+  "slug": "yinfu-jing",
+  "title": "The Yin Fu King",
+  "originalTitle": "陰符經",
+  "transliteration": "Yīnfú jīng",
+  "altTitles": [
+    "Yin Fu Jing",
+    "The Classic of the Harmony of the Seen and the Unseen",
+    "Huangdi Yinfu jing"
+  ],
+  "tradition": "taoism",
+  "school": "daoist",
+  "genre": "Scripture",
+  "textType": "Cosmological scripture",
+  "category": "Scripture",
+  "subcategory": "Short Daoist classics",
+  "originalLanguage": "zh",
+  "dateStart": 700,
+  "dateEnd": 800,
+  "dateDisplay": "Attributed to the Yellow Emperor; the received text is usually dated to the Tang",
+  "authorshipStatus": "traditional",
+  "author": "",
+  "attributionNote": "The scripture is traditionally ascribed to the Yellow Emperor, but its language and ideas place the received text in the Tang dynasty, when it circulated with commentaries. It is not a Warring States work despite its legendary attribution.",
+  "description": "The Yin Fu King is a short, dense scripture on the patterned correspondence between heaven, earth and the human person: the observation of the natural order, the timing of action, the relation of the seen and the unseen, and the inward discipline by which the sage aligns himself with the workings of heaven. Its terse lines were commented on by strategists, alchemists and philosophers, and it became a classic of both Daoist self-cultivation and Chinese military thought.",
+  "historicalContext": "The text was transmitted with commentaries from the Tang onward and was especially valued in military and alchemical circles; Li Quan's commentary made it a handbook of strategy, while later Daoist writers read it as a manual of inner cultivation. Legge printed a translation among the appendixes to his second volume of Texts of Taoism (1891).",
+  "availabilityNote": "Complete. Legge's translation of the scripture is streamed from the Internet Sacred Text Archive at read time; it is a single short page, presented here as one chapter. The appendixes and notes of the volume are not part of the work.",
+  "featured": false,
+  "featuredNote": "",
+  "refScheme": "chapter.paragraph",
+  "isSample": false,
+  "textStorage": "streamed",
+  "chapters": [
+    {
+      "ref": "1",
+      "label": "The Yin Fu King"
+    }
+  ],
+  "passages": [
+    {
+      "reference": "1.1",
+      "label": "The Yin Fu King §1",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.2",
+      "label": "The Yin Fu King §2",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.3",
+      "label": "The Yin Fu King §3",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.4",
+      "label": "The Yin Fu King §4",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.5",
+      "label": "The Yin Fu King §5",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.6",
+      "label": "The Yin Fu King §6",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.7",
+      "label": "The Yin Fu King §7",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.8",
+      "label": "The Yin Fu King §8",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.9",
+      "label": "The Yin Fu King §9",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.10",
+      "label": "The Yin Fu King §10",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.11",
+      "label": "The Yin Fu King §11",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.12",
+      "label": "The Yin Fu King §12",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.13",
+      "label": "The Yin Fu King §13",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.14",
+      "label": "The Yin Fu King §14",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.15",
+      "label": "The Yin Fu King §15",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.16",
+      "label": "The Yin Fu King §16",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.17",
+      "label": "The Yin Fu King §17",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.18",
+      "label": "The Yin Fu King §18",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.19",
+      "label": "The Yin Fu King §19",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.20",
+      "label": "The Yin Fu King §20",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.21",
+      "label": "The Yin Fu King §21",
+      "chapterRef": "1"
+    }
+  ],
+  "editions": [
+    {
+      "slug": "yinfu-jing-en",
+      "language": "en",
+      "editionType": "translation",
+      "title": "The Texts of Taoism, Part II: Appendix II, Yin Fû King, or 'Classic of the Harmony of the Seen and the Unseen'",
+      "translator": "James Legge",
+      "publisher": "Internet Sacred Text Archive",
+      "publicationYear": 1891,
+      "source": "sacred-texts",
+      "license": "public-domain",
+      "rightsStatus": "Public domain in the United States",
+      "attributionText": "The Texts of Taoism, Part II: Appendix II, Yin Fû King, or 'Classic of the Harmony of the Seen and the Unseen', translated by James Legge (1891). Sacred Books of the East, vol. 40. Public domain in the United States. Digital text from the Internet Sacred Text Archive.",
+      "structureScheme": "chapter and paragraph index; the whole scripture is one chapter",
+      "isSample": false,
+      "notes": "The import cache stores the exact segments that were validated. The reader re-fetches the chapter from the host and reports when the served count no longer matches the index."
+    }
+  ]
+}

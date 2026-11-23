@@ -1,0 +1,5000 @@
+{
+  "slug": "bible-deuteronomy",
+  "title": "Deuteronomy (Christian Bible)",
+  "originalTitle": "דברים",
+  "transliteration": "",
+  "altTitles": [
+    "Deuteronomy",
+    "Deuteronomy — King James Version"
+  ],
+  "tradition": "christianity",
+  "school": "early-christianity",
+  "genre": "Scripture",
+  "textType": "Biblical book",
+  "category": "Old Testament",
+  "subcategory": "Torah / Pentateuch",
+  "originalLanguage": "he",
+  "dateStart": -1000,
+  "dateEnd": -400,
+  "dateDisplay": "Composed over several centuries in the first millennium BCE; the Masoretic text is attested from the 10th century CE",
+  "authorshipStatus": "traditional",
+  "author": "",
+  "attributionNote": "The text is anonymous or traditionally attributed; the attribution is part of the work's reception rather than a statement about the surviving author. The catalogue does not adjudicate it.",
+  "description": "Moses's farewell addresses, restating the law and its blessings and curses. This is the book as received in Christian Bibles: the Westminster Leningrad Codex Hebrew text beside the King James Version of 1611.",
+  "historicalContext": "The five books traditionally ascribed to Moses, read as the foundation of Israelite law and covenant.",
+  "availabilityNote": "Streamed from the Bolls Bible API. Verse references follow the KJV; where the Hebrew counts a psalm superscription as verse 1, the original-language pane is one verse ahead.",
+  "featured": false,
+  "featuredNote": "",
+  "refScheme": "chapter.verse",
+  "isSample": false,
+  "textStorage": "streamed",
+  "chapters": [
+    {
+      "ref": "1",
+      "label": "Deuteronomy 1"
+    },
+    {
+      "ref": "2",
+      "label": "Deuteronomy 2"
+    },
+    {
+      "ref": "3",
+      "label": "Deuteronomy 3"
+    },
+    {
+      "ref": "4",
+      "label": "Deuteronomy 4"
+    },
+    {
+      "ref": "5",
+      "label": "Deuteronomy 5"
+    },
+    {
+      "ref": "6",
+      "label": "Deuteronomy 6"
+    },
+    {
+      "ref": "7",
+      "label": "Deuteronomy 7"
+    },
+    {
+      "ref": "8",
+      "label": "Deuteronomy 8"
+    },
+    {
+      "ref": "9",
+      "label": "Deuteronomy 9"
+    },
+    {
+      "ref": "10",
+      "label": "Deuteronomy 10"
+    },
+    {
+      "ref": "11",
+      "label": "Deuteronomy 11"
+    },
+    {
+      "ref": "12",
+      "label": "Deuteronomy 12"
+    },
+    {
+      "ref": "13",
+      "label": "Deuteronomy 13"
+    },
+    {
+      "ref": "14",
+      "label": "Deuteronomy 14"
+    },
+    {
+      "ref": "15",
+      "label": "Deuteronomy 15"
+    },
+    {
+      "ref": "16",
+      "label": "Deuteronomy 16"
+    },
+    {
+      "ref": "17",
+      "label": "Deuteronomy 17"
+    },
+    {
+      "ref": "18",
+      "label": "Deuteronomy 18"
+    },
+    {
+      "ref": "19",
+      "label": "Deuteronomy 19"
+    },
+    {
+      "ref": "20",
+      "label": "Deuteronomy 20"
+    },
+    {
+      "ref": "21",
+      "label": "Deuteronomy 21"
+    },
+    {
+      "ref": "22",
+      "label": "Deuteronomy 22"
+    },
+    {
+      "ref": "23",
+      "label": "Deuteronomy 23"
+    },
+    {
+      "ref": "24",
+      "label": "Deuteronomy 24"
+    },
+    {
+      "ref": "25",
+      "label": "Deuteronomy 25"
+    },
+    {
+      "ref": "26",
+      "label": "Deuteronomy 26"
+    },
+    {
+      "ref": "27",
+      "label": "Deuteronomy 27"
+    },
+    {
+      "ref": "28",
+      "label": "Deuteronomy 28"
+    },
+    {
+      "ref": "29",
+      "label": "Deuteronomy 29"
+    },
+    {
+      "ref": "30",
+      "label": "Deuteronomy 30"
+    },
+    {
+      "ref": "31",
+      "label": "Deuteronomy 31"
+    },
+    {
+      "ref": "32",
+      "label": "Deuteronomy 32"
+    },
+    {
+      "ref": "33",
+      "label": "Deuteronomy 33"
+    },
+    {
+      "ref": "34",
+      "label": "Deuteronomy 34"
+    }
+  ],
+  "passages": [
+    {
+      "reference": "1.1",
+      "label": "Deuteronomy 1:1",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.2",
+      "label": "Deuteronomy 1:2",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.3",
+      "label": "Deuteronomy 1:3",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.4",
+      "label": "Deuteronomy 1:4",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.5",
+      "label": "Deuteronomy 1:5",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.6",
+      "label": "Deuteronomy 1:6",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.7",
+      "label": "Deuteronomy 1:7",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.8",
+      "label": "Deuteronomy 1:8",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.9",
+      "label": "Deuteronomy 1:9",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.10",
+      "label": "Deuteronomy 1:10",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.11",
+      "label": "Deuteronomy 1:11",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.12",
+      "label": "Deuteronomy 1:12",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.13",
+      "label": "Deuteronomy 1:13",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.14",
+      "label": "Deuteronomy 1:14",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.15",
+      "label": "Deuteronomy 1:15",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.16",
+      "label": "Deuteronomy 1:16",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.17",
+      "label": "Deuteronomy 1:17",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.18",
+      "label": "Deuteronomy 1:18",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.19",
+      "label": "Deuteronomy 1:19",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.20",
+      "label": "Deuteronomy 1:20",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.21",
+      "label": "Deuteronomy 1:21",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.22",
+      "label": "Deuteronomy 1:22",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.23",
+      "label": "Deuteronomy 1:23",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.24",
+      "label": "Deuteronomy 1:24",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.25",
+      "label": "Deuteronomy 1:25",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.26",
+      "label": "Deuteronomy 1:26",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.27",
+      "label": "Deuteronomy 1:27",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.28",
+      "label": "Deuteronomy 1:28",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.29",
+      "label": "Deuteronomy 1:29",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.30",
+      "label": "Deuteronomy 1:30",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.31",
+      "label": "Deuteronomy 1:31",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.32",
+      "label": "Deuteronomy 1:32",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.33",
+      "label": "Deuteronomy 1:33",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.34",
+      "label": "Deuteronomy 1:34",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.35",
+      "label": "Deuteronomy 1:35",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.36",
+      "label": "Deuteronomy 1:36",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.37",
+      "label": "Deuteronomy 1:37",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.38",
+      "label": "Deuteronomy 1:38",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.39",
+      "label": "Deuteronomy 1:39",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.40",
+      "label": "Deuteronomy 1:40",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.41",
+      "label": "Deuteronomy 1:41",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.42",
+      "label": "Deuteronomy 1:42",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.43",
+      "label": "Deuteronomy 1:43",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.44",
+      "label": "Deuteronomy 1:44",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.45",
+      "label": "Deuteronomy 1:45",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.46",
+      "label": "Deuteronomy 1:46",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "2.1",
+      "label": "Deuteronomy 2:1",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.2",
+      "label": "Deuteronomy 2:2",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.3",
+      "label": "Deuteronomy 2:3",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.4",
+      "label": "Deuteronomy 2:4",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.5",
+      "label": "Deuteronomy 2:5",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.6",
+      "label": "Deuteronomy 2:6",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.7",
+      "label": "Deuteronomy 2:7",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.8",
+      "label": "Deuteronomy 2:8",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.9",
+      "label": "Deuteronomy 2:9",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.10",
+      "label": "Deuteronomy 2:10",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.11",
+      "label": "Deuteronomy 2:11",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.12",
+      "label": "Deuteronomy 2:12",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.13",
+      "label": "Deuteronomy 2:13",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.14",
+      "label": "Deuteronomy 2:14",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.15",
+      "label": "Deuteronomy 2:15",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.16",
+      "label": "Deuteronomy 2:16",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.17",
+      "label": "Deuteronomy 2:17",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.18",
+      "label": "Deuteronomy 2:18",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.19",
+      "label": "Deuteronomy 2:19",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.20",
+      "label": "Deuteronomy 2:20",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.21",
+      "label": "Deuteronomy 2:21",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.22",
+      "label": "Deuteronomy 2:22",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.23",
+      "label": "Deuteronomy 2:23",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.24",
+      "label": "Deuteronomy 2:24",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.25",
+      "label": "Deuteronomy 2:25",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.26",
+      "label": "Deuteronomy 2:26",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.27",
+      "label": "Deuteronomy 2:27",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.28",
+      "label": "Deuteronomy 2:28",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.29",
+      "label": "Deuteronomy 2:29",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.30",
+      "label": "Deuteronomy 2:30",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.31",
+      "label": "Deuteronomy 2:31",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.32",
+      "label": "Deuteronomy 2:32",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.33",
+      "label": "Deuteronomy 2:33",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.34",
+      "label": "Deuteronomy 2:34",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.35",
+      "label": "Deuteronomy 2:35",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.36",
+      "label": "Deuteronomy 2:36",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.37",
+      "label": "Deuteronomy 2:37",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "3.1",
+      "label": "Deuteronomy 3:1",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.2",
+      "label": "Deuteronomy 3:2",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.3",
+      "label": "Deuteronomy 3:3",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.4",
+      "label": "Deuteronomy 3:4",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.5",
+      "label": "Deuteronomy 3:5",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.6",
+      "label": "Deuteronomy 3:6",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.7",
+      "label": "Deuteronomy 3:7",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.8",
+      "label": "Deuteronomy 3:8",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.9",
+      "label": "Deuteronomy 3:9",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.10",
+      "label": "Deuteronomy 3:10",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.11",
+      "label": "Deuteronomy 3:11",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.12",
+      "label": "Deuteronomy 3:12",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.13",
+      "label": "Deuteronomy 3:13",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.14",
+      "label": "Deuteronomy 3:14",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.15",
+      "label": "Deuteronomy 3:15",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.16",
+      "label": "Deuteronomy 3:16",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.17",
+      "label": "Deuteronomy 3:17",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.18",
+      "label": "Deuteronomy 3:18",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.19",
+      "label": "Deuteronomy 3:19",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.20",
+      "label": "Deuteronomy 3:20",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.21",
+      "label": "Deuteronomy 3:21",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.22",
+      "label": "Deuteronomy 3:22",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.23",
+      "label": "Deuteronomy 3:23",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.24",
+      "label": "Deuteronomy 3:24",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.25",
+      "label": "Deuteronomy 3:25",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.26",
+      "label": "Deuteronomy 3:26",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.27",
+      "label": "Deuteronomy 3:27",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.28",
+      "label": "Deuteronomy 3:28",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.29",
+      "label": "Deuteronomy 3:29",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "4.1",
+      "label": "Deuteronomy 4:1",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.2",
+      "label": "Deuteronomy 4:2",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.3",
+      "label": "Deuteronomy 4:3",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.4",
+      "label": "Deuteronomy 4:4",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.5",
+      "label": "Deuteronomy 4:5",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.6",
+      "label": "Deuteronomy 4:6",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.7",
+      "label": "Deuteronomy 4:7",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.8",
+      "label": "Deuteronomy 4:8",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.9",
+      "label": "Deuteronomy 4:9",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.10",
+      "label": "Deuteronomy 4:10",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.11",
+      "label": "Deuteronomy 4:11",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.12",
+      "label": "Deuteronomy 4:12",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.13",
+      "label": "Deuteronomy 4:13",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.14",
+      "label": "Deuteronomy 4:14",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.15",
+      "label": "Deuteronomy 4:15",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.16",
+      "label": "Deuteronomy 4:16",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.17",
+      "label": "Deuteronomy 4:17",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.18",
+      "label": "Deuteronomy 4:18",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.19",
+      "label": "Deuteronomy 4:19",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.20",
+      "label": "Deuteronomy 4:20",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.21",
+      "label": "Deuteronomy 4:21",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.22",
+      "label": "Deuteronomy 4:22",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.23",
+      "label": "Deuteronomy 4:23",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.24",
+      "label": "Deuteronomy 4:24",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.25",
+      "label": "Deuteronomy 4:25",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.26",
+      "label": "Deuteronomy 4:26",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.27",
+      "label": "Deuteronomy 4:27",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.28",
+      "label": "Deuteronomy 4:28",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.29",
+      "label": "Deuteronomy 4:29",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.30",
+      "label": "Deuteronomy 4:30",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.31",
+      "label": "Deuteronomy 4:31",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.32",
+      "label": "Deuteronomy 4:32",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.33",
+      "label": "Deuteronomy 4:33",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.34",
+      "label": "Deuteronomy 4:34",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.35",
+      "label": "Deuteronomy 4:35",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.36",
+      "label": "Deuteronomy 4:36",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.37",
+      "label": "Deuteronomy 4:37",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.38",
+      "label": "Deuteronomy 4:38",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.39",
+      "label": "Deuteronomy 4:39",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.40",
+      "label": "Deuteronomy 4:40",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.41",
+      "label": "Deuteronomy 4:41",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.42",
+      "label": "Deuteronomy 4:42",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.43",
+      "label": "Deuteronomy 4:43",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.44",
+      "label": "Deuteronomy 4:44",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.45",
+      "label": "Deuteronomy 4:45",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.46",
+      "label": "Deuteronomy 4:46",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.47",
+      "label": "Deuteronomy 4:47",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.48",
+      "label": "Deuteronomy 4:48",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.49",
+      "label": "Deuteronomy 4:49",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "5.1",
+      "label": "Deuteronomy 5:1",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.2",
+      "label": "Deuteronomy 5:2",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.3",
+      "label": "Deuteronomy 5:3",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.4",
+      "label": "Deuteronomy 5:4",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.5",
+      "label": "Deuteronomy 5:5",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.6",
+      "label": "Deuteronomy 5:6",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.7",
+      "label": "Deuteronomy 5:7",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.8",
+      "label": "Deuteronomy 5:8",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.9",
+      "label": "Deuteronomy 5:9",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.10",
+      "label": "Deuteronomy 5:10",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.11",
+      "label": "Deuteronomy 5:11",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.12",
+      "label": "Deuteronomy 5:12",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.13",
+      "label": "Deuteronomy 5:13",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.14",
+      "label": "Deuteronomy 5:14",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.15",
+      "label": "Deuteronomy 5:15",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.16",
+      "label": "Deuteronomy 5:16",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.17",
+      "label": "Deuteronomy 5:17",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.18",
+      "label": "Deuteronomy 5:18",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.19",
+      "label": "Deuteronomy 5:19",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.20",
+      "label": "Deuteronomy 5:20",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.21",
+      "label": "Deuteronomy 5:21",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.22",
+      "label": "Deuteronomy 5:22",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.23",
+      "label": "Deuteronomy 5:23",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.24",
+      "label": "Deuteronomy 5:24",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.25",
+      "label": "Deuteronomy 5:25",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.26",
+      "label": "Deuteronomy 5:26",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.27",
+      "label": "Deuteronomy 5:27",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.28",
+      "label": "Deuteronomy 5:28",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.29",
+      "label": "Deuteronomy 5:29",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.30",
+      "label": "Deuteronomy 5:30",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.31",
+      "label": "Deuteronomy 5:31",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.32",
+      "label": "Deuteronomy 5:32",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.33",
+      "label": "Deuteronomy 5:33",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "6.1",
+      "label": "Deuteronomy 6:1",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.2",
+      "label": "Deuteronomy 6:2",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.3",
+      "label": "Deuteronomy 6:3",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.4",
+      "label": "Deuteronomy 6:4",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.5",
+      "label": "Deuteronomy 6:5",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.6",
+      "label": "Deuteronomy 6:6",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.7",
+      "label": "Deuteronomy 6:7",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.8",
+      "label": "Deuteronomy 6:8",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.9",
+      "label": "Deuteronomy 6:9",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.10",
+      "label": "Deuteronomy 6:10",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.11",
+      "label": "Deuteronomy 6:11",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.12",
+      "label": "Deuteronomy 6:12",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.13",
+      "label": "Deuteronomy 6:13",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.14",
+      "label": "Deuteronomy 6:14",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.15",
+      "label": "Deuteronomy 6:15",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.16",
+      "label": "Deuteronomy 6:16",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.17",
+      "label": "Deuteronomy 6:17",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.18",
+      "label": "Deuteronomy 6:18",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.19",
+      "label": "Deuteronomy 6:19",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.20",
+      "label": "Deuteronomy 6:20",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.21",
+      "label": "Deuteronomy 6:21",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.22",
+      "label": "Deuteronomy 6:22",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.23",
+      "label": "Deuteronomy 6:23",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.24",
+      "label": "Deuteronomy 6:24",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.25",
+      "label": "Deuteronomy 6:25",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "7.1",
+      "label": "Deuteronomy 7:1",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.2",
+      "label": "Deuteronomy 7:2",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.3",
+      "label": "Deuteronomy 7:3",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.4",
+      "label": "Deuteronomy 7:4",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.5",
+      "label": "Deuteronomy 7:5",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.6",
+      "label": "Deuteronomy 7:6",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.7",
+      "label": "Deuteronomy 7:7",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.8",
+      "label": "Deuteronomy 7:8",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.9",
+      "label": "Deuteronomy 7:9",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.10",
+      "label": "Deuteronomy 7:10",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.11",
+      "label": "Deuteronomy 7:11",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.12",
+      "label": "Deuteronomy 7:12",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.13",
+      "label": "Deuteronomy 7:13",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.14",
+      "label": "Deuteronomy 7:14",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.15",
+      "label": "Deuteronomy 7:15",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.16",
+      "label": "Deuteronomy 7:16",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.17",
+      "label": "Deuteronomy 7:17",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.18",
+      "label": "Deuteronomy 7:18",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.19",
+      "label": "Deuteronomy 7:19",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.20",
+      "label": "Deuteronomy 7:20",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.21",
+      "label": "Deuteronomy 7:21",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.22",
+      "label": "Deuteronomy 7:22",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.23",
+      "label": "Deuteronomy 7:23",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.24",
+      "label": "Deuteronomy 7:24",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.25",
+      "label": "Deuteronomy 7:25",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.26",
+      "label": "Deuteronomy 7:26",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "8.1",
+      "label": "Deuteronomy 8:1",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.2",
+      "label": "Deuteronomy 8:2",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.3",
+      "label": "Deuteronomy 8:3",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.4",
+      "label": "Deuteronomy 8:4",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.5",
+      "label": "Deuteronomy 8:5",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.6",
+      "label": "Deuteronomy 8:6",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.7",
+      "label": "Deuteronomy 8:7",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.8",
+      "label": "Deuteronomy 8:8",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.9",
+      "label": "Deuteronomy 8:9",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.10",
+      "label": "Deuteronomy 8:10",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.11",
+      "label": "Deuteronomy 8:11",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.12",
+      "label": "Deuteronomy 8:12",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.13",
+      "label": "Deuteronomy 8:13",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.14",
+      "label": "Deuteronomy 8:14",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.15",
+      "label": "Deuteronomy 8:15",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.16",
+      "label": "Deuteronomy 8:16",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.17",
+      "label": "Deuteronomy 8:17",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.18",
+      "label": "Deuteronomy 8:18",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.19",
+      "label": "Deuteronomy 8:19",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.20",
+      "label": "Deuteronomy 8:20",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "9.1",
+      "label": "Deuteronomy 9:1",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.2",
+      "label": "Deuteronomy 9:2",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.3",
+      "label": "Deuteronomy 9:3",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.4",
+      "label": "Deuteronomy 9:4",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.5",
+      "label": "Deuteronomy 9:5",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.6",
+      "label": "Deuteronomy 9:6",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.7",
+      "label": "Deuteronomy 9:7",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.8",
+      "label": "Deuteronomy 9:8",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.9",
+      "label": "Deuteronomy 9:9",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.10",
+      "label": "Deuteronomy 9:10",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.11",
+      "label": "Deuteronomy 9:11",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.12",
+      "label": "Deuteronomy 9:12",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.13",
+      "label": "Deuteronomy 9:13",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.14",
+      "label": "Deuteronomy 9:14",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.15",
+      "label": "Deuteronomy 9:15",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.16",
+      "label": "Deuteronomy 9:16",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.17",
+      "label": "Deuteronomy 9:17",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.18",
+      "label": "Deuteronomy 9:18",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.19",
+      "label": "Deuteronomy 9:19",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.20",
+      "label": "Deuteronomy 9:20",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.21",
+      "label": "Deuteronomy 9:21",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.22",
+      "label": "Deuteronomy 9:22",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.23",
+      "label": "Deuteronomy 9:23",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.24",
+      "label": "Deuteronomy 9:24",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.25",
+      "label": "Deuteronomy 9:25",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.26",
+      "label": "Deuteronomy 9:26",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.27",
+      "label": "Deuteronomy 9:27",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.28",
+      "label": "Deuteronomy 9:28",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.29",
+      "label": "Deuteronomy 9:29",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "10.1",
+      "label": "Deuteronomy 10:1",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.2",
+      "label": "Deuteronomy 10:2",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.3",
+      "label": "Deuteronomy 10:3",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.4",
+      "label": "Deuteronomy 10:4",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.5",
+      "label": "Deuteronomy 10:5",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.6",
+      "label": "Deuteronomy 10:6",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.7",
+      "label": "Deuteronomy 10:7",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.8",
+      "label": "Deuteronomy 10:8",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.9",
+      "label": "Deuteronomy 10:9",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.10",
+      "label": "Deuteronomy 10:10",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.11",
+      "label": "Deuteronomy 10:11",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.12",
+      "label": "Deuteronomy 10:12",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.13",
+      "label": "Deuteronomy 10:13",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.14",
+      "label": "Deuteronomy 10:14",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.15",
+      "label": "Deuteronomy 10:15",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.16",
+      "label": "Deuteronomy 10:16",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.17",
+      "label": "Deuteronomy 10:17",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.18",
+      "label": "Deuteronomy 10:18",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.19",
+      "label": "Deuteronomy 10:19",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.20",
+      "label": "Deuteronomy 10:20",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.21",
+      "label": "Deuteronomy 10:21",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.22",
+      "label": "Deuteronomy 10:22",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "11.1",
+      "label": "Deuteronomy 11:1",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.2",
+      "label": "Deuteronomy 11:2",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.3",
+      "label": "Deuteronomy 11:3",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.4",
+      "label": "Deuteronomy 11:4",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.5",
+      "label": "Deuteronomy 11:5",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.6",
+      "label": "Deuteronomy 11:6",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.7",
+      "label": "Deuteronomy 11:7",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.8",
+      "label": "Deuteronomy 11:8",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.9",
+      "label": "Deuteronomy 11:9",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.10",
+      "label": "Deuteronomy 11:10",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.11",
+      "label": "Deuteronomy 11:11",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.12",
+      "label": "Deuteronomy 11:12",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.13",
+      "label": "Deuteronomy 11:13",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.14",
+      "label": "Deuteronomy 11:14",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.15",
+      "label": "Deuteronomy 11:15",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.16",
+      "label": "Deuteronomy 11:16",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.17",
+      "label": "Deuteronomy 11:17",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.18",
+      "label": "Deuteronomy 11:18",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.19",
+      "label": "Deuteronomy 11:19",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.20",
+      "label": "Deuteronomy 11:20",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.21",
+      "label": "Deuteronomy 11:21",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.22",
+      "label": "Deuteronomy 11:22",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.23",
+      "label": "Deuteronomy 11:23",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.24",
+      "label": "Deuteronomy 11:24",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.25",
+      "label": "Deuteronomy 11:25",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.26",
+      "label": "Deuteronomy 11:26",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.27",
+      "label": "Deuteronomy 11:27",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.28",
+      "label": "Deuteronomy 11:28",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.29",
+      "label": "Deuteronomy 11:29",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.30",
+      "label": "Deuteronomy 11:30",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.31",
+      "label": "Deuteronomy 11:31",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.32",
+      "label": "Deuteronomy 11:32",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "12.1",
+      "label": "Deuteronomy 12:1",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.2",
+      "label": "Deuteronomy 12:2",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.3",
+      "label": "Deuteronomy 12:3",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.4",
+      "label": "Deuteronomy 12:4",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.5",
+      "label": "Deuteronomy 12:5",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.6",
+      "label": "Deuteronomy 12:6",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.7",
+      "label": "Deuteronomy 12:7",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.8",
+      "label": "Deuteronomy 12:8",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.9",
+      "label": "Deuteronomy 12:9",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.10",
+      "label": "Deuteronomy 12:10",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.11",
+      "label": "Deuteronomy 12:11",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.12",
+      "label": "Deuteronomy 12:12",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.13",
+      "label": "Deuteronomy 12:13",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.14",
+      "label": "Deuteronomy 12:14",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.15",
+      "label": "Deuteronomy 12:15",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.16",
+      "label": "Deuteronomy 12:16",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.17",
+      "label": "Deuteronomy 12:17",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.18",
+      "label": "Deuteronomy 12:18",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.19",
+      "label": "Deuteronomy 12:19",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.20",
+      "label": "Deuteronomy 12:20",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.21",
+      "label": "Deuteronomy 12:21",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.22",
+      "label": "Deuteronomy 12:22",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.23",
+      "label": "Deuteronomy 12:23",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.24",
+      "label": "Deuteronomy 12:24",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.25",
+      "label": "Deuteronomy 12:25",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.26",
+      "label": "Deuteronomy 12:26",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.27",
+      "label": "Deuteronomy 12:27",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.28",
+      "label": "Deuteronomy 12:28",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.29",
+      "label": "Deuteronomy 12:29",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.30",
+      "label": "Deuteronomy 12:30",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.31",
+      "label": "Deuteronomy 12:31",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.32",
+      "label": "Deuteronomy 12:32",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "13.1",
+      "label": "Deuteronomy 13:1",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.2",
+      "label": "Deuteronomy 13:2",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.3",
+      "label": "Deuteronomy 13:3",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.4",
+      "label": "Deuteronomy 13:4",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.5",
+      "label": "Deuteronomy 13:5",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.6",
+      "label": "Deuteronomy 13:6",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.7",
+      "label": "Deuteronomy 13:7",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.8",
+      "label": "Deuteronomy 13:8",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.9",
+      "label": "Deuteronomy 13:9",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.10",
+      "label": "Deuteronomy 13:10",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.11",
+      "label": "Deuteronomy 13:11",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.12",
+      "label": "Deuteronomy 13:12",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.13",
+      "label": "Deuteronomy 13:13",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.14",
+      "label": "Deuteronomy 13:14",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.15",
+      "label": "Deuteronomy 13:15",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.16",
+      "label": "Deuteronomy 13:16",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.17",
+      "label": "Deuteronomy 13:17",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.18",
+      "label": "Deuteronomy 13:18",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "14.1",
+      "label": "Deuteronomy 14:1",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.2",
+      "label": "Deuteronomy 14:2",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.3",
+      "label": "Deuteronomy 14:3",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.4",
+      "label": "Deuteronomy 14:4",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.5",
+      "label": "Deuteronomy 14:5",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.6",
+      "label": "Deuteronomy 14:6",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.7",
+      "label": "Deuteronomy 14:7",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.8",
+      "label": "Deuteronomy 14:8",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.9",
+      "label": "Deuteronomy 14:9",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.10",
+      "label": "Deuteronomy 14:10",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.11",
+      "label": "Deuteronomy 14:11",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.12",
+      "label": "Deuteronomy 14:12",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.13",
+      "label": "Deuteronomy 14:13",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.14",
+      "label": "Deuteronomy 14:14",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.15",
+      "label": "Deuteronomy 14:15",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.16",
+      "label": "Deuteronomy 14:16",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.17",
+      "label": "Deuteronomy 14:17",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.18",
+      "label": "Deuteronomy 14:18",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.19",
+      "label": "Deuteronomy 14:19",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.20",
+      "label": "Deuteronomy 14:20",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.21",
+      "label": "Deuteronomy 14:21",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.22",
+      "label": "Deuteronomy 14:22",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.23",
+      "label": "Deuteronomy 14:23",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.24",
+      "label": "Deuteronomy 14:24",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.25",
+      "label": "Deuteronomy 14:25",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.26",
+      "label": "Deuteronomy 14:26",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.27",
+      "label": "Deuteronomy 14:27",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.28",
+      "label": "Deuteronomy 14:28",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.29",
+      "label": "Deuteronomy 14:29",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "15.1",
+      "label": "Deuteronomy 15:1",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.2",
+      "label": "Deuteronomy 15:2",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.3",
+      "label": "Deuteronomy 15:3",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.4",
+      "label": "Deuteronomy 15:4",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.5",
+      "label": "Deuteronomy 15:5",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.6",
+      "label": "Deuteronomy 15:6",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.7",
+      "label": "Deuteronomy 15:7",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.8",
+      "label": "Deuteronomy 15:8",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.9",
+      "label": "Deuteronomy 15:9",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.10",
+      "label": "Deuteronomy 15:10",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.11",
+      "label": "Deuteronomy 15:11",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.12",
+      "label": "Deuteronomy 15:12",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.13",
+      "label": "Deuteronomy 15:13",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.14",
+      "label": "Deuteronomy 15:14",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.15",
+      "label": "Deuteronomy 15:15",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.16",
+      "label": "Deuteronomy 15:16",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.17",
+      "label": "Deuteronomy 15:17",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.18",
+      "label": "Deuteronomy 15:18",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.19",
+      "label": "Deuteronomy 15:19",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.20",
+      "label": "Deuteronomy 15:20",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.21",
+      "label": "Deuteronomy 15:21",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.22",
+      "label": "Deuteronomy 15:22",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.23",
+      "label": "Deuteronomy 15:23",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "16.1",
+      "label": "Deuteronomy 16:1",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.2",
+      "label": "Deuteronomy 16:2",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.3",
+      "label": "Deuteronomy 16:3",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.4",
+      "label": "Deuteronomy 16:4",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.5",
+      "label": "Deuteronomy 16:5",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.6",
+      "label": "Deuteronomy 16:6",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.7",
+      "label": "Deuteronomy 16:7",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.8",
+      "label": "Deuteronomy 16:8",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.9",
+      "label": "Deuteronomy 16:9",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.10",
+      "label": "Deuteronomy 16:10",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.11",
+      "label": "Deuteronomy 16:11",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.12",
+      "label": "Deuteronomy 16:12",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.13",
+      "label": "Deuteronomy 16:13",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.14",
+      "label": "Deuteronomy 16:14",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.15",
+      "label": "Deuteronomy 16:15",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.16",
+      "label": "Deuteronomy 16:16",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.17",
+      "label": "Deuteronomy 16:17",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.18",
+      "label": "Deuteronomy 16:18",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.19",
+      "label": "Deuteronomy 16:19",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.20",
+      "label": "Deuteronomy 16:20",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.21",
+      "label": "Deuteronomy 16:21",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.22",
+      "label": "Deuteronomy 16:22",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "17.1",
+      "label": "Deuteronomy 17:1",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.2",
+      "label": "Deuteronomy 17:2",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.3",
+      "label": "Deuteronomy 17:3",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.4",
+      "label": "Deuteronomy 17:4",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.5",
+      "label": "Deuteronomy 17:5",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.6",
+      "label": "Deuteronomy 17:6",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.7",
+      "label": "Deuteronomy 17:7",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.8",
+      "label": "Deuteronomy 17:8",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.9",
+      "label": "Deuteronomy 17:9",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.10",
+      "label": "Deuteronomy 17:10",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.11",
+      "label": "Deuteronomy 17:11",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.12",
+      "label": "Deuteronomy 17:12",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.13",
+      "label": "Deuteronomy 17:13",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.14",
+      "label": "Deuteronomy 17:14",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.15",
+      "label": "Deuteronomy 17:15",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.16",
+      "label": "Deuteronomy 17:16",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.17",
+      "label": "Deuteronomy 17:17",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.18",
+      "label": "Deuteronomy 17:18",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.19",
+      "label": "Deuteronomy 17:19",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.20",
+      "label": "Deuteronomy 17:20",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "18.1",
+      "label": "Deuteronomy 18:1",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.2",
+      "label": "Deuteronomy 18:2",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.3",
+      "label": "Deuteronomy 18:3",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.4",
+      "label": "Deuteronomy 18:4",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.5",
+      "label": "Deuteronomy 18:5",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.6",
+      "label": "Deuteronomy 18:6",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.7",
+      "label": "Deuteronomy 18:7",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.8",
+      "label": "Deuteronomy 18:8",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.9",
+      "label": "Deuteronomy 18:9",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.10",
+      "label": "Deuteronomy 18:10",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.11",
+      "label": "Deuteronomy 18:11",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.12",
+      "label": "Deuteronomy 18:12",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.13",
+      "label": "Deuteronomy 18:13",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.14",
+      "label": "Deuteronomy 18:14",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.15",
+      "label": "Deuteronomy 18:15",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.16",
+      "label": "Deuteronomy 18:16",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.17",
+      "label": "Deuteronomy 18:17",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.18",
+      "label": "Deuteronomy 18:18",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.19",
+      "label": "Deuteronomy 18:19",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.20",
+      "label": "Deuteronomy 18:20",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.21",
+      "label": "Deuteronomy 18:21",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.22",
+      "label": "Deuteronomy 18:22",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "19.1",
+      "label": "Deuteronomy 19:1",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.2",
+      "label": "Deuteronomy 19:2",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.3",
+      "label": "Deuteronomy 19:3",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.4",
+      "label": "Deuteronomy 19:4",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.5",
+      "label": "Deuteronomy 19:5",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.6",
+      "label": "Deuteronomy 19:6",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.7",
+      "label": "Deuteronomy 19:7",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.8",
+      "label": "Deuteronomy 19:8",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.9",
+      "label": "Deuteronomy 19:9",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.10",
+      "label": "Deuteronomy 19:10",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.11",
+      "label": "Deuteronomy 19:11",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.12",
+      "label": "Deuteronomy 19:12",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.13",
+      "label": "Deuteronomy 19:13",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.14",
+      "label": "Deuteronomy 19:14",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.15",
+      "label": "Deuteronomy 19:15",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.16",
+      "label": "Deuteronomy 19:16",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.17",
+      "label": "Deuteronomy 19:17",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.18",
+      "label": "Deuteronomy 19:18",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.19",
+      "label": "Deuteronomy 19:19",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.20",
+      "label": "Deuteronomy 19:20",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.21",
+      "label": "Deuteronomy 19:21",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "20.1",
+      "label": "Deuteronomy 20:1",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.2",
+      "label": "Deuteronomy 20:2",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.3",
+      "label": "Deuteronomy 20:3",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.4",
+      "label": "Deuteronomy 20:4",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.5",
+      "label": "Deuteronomy 20:5",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.6",
+      "label": "Deuteronomy 20:6",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.7",
+      "label": "Deuteronomy 20:7",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.8",
+      "label": "Deuteronomy 20:8",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.9",
+      "label": "Deuteronomy 20:9",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.10",
+      "label": "Deuteronomy 20:10",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.11",
+      "label": "Deuteronomy 20:11",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.12",
+      "label": "Deuteronomy 20:12",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.13",
+      "label": "Deuteronomy 20:13",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.14",
+      "label": "Deuteronomy 20:14",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.15",
+      "label": "Deuteronomy 20:15",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.16",
+      "label": "Deuteronomy 20:16",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.17",
+      "label": "Deuteronomy 20:17",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.18",
+      "label": "Deuteronomy 20:18",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.19",
+      "label": "Deuteronomy 20:19",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.20",
+      "label": "Deuteronomy 20:20",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "21.1",
+      "label": "Deuteronomy 21:1",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.2",
+      "label": "Deuteronomy 21:2",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.3",
+      "label": "Deuteronomy 21:3",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.4",
+      "label": "Deuteronomy 21:4",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.5",
+      "label": "Deuteronomy 21:5",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.6",
+      "label": "Deuteronomy 21:6",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.7",
+      "label": "Deuteronomy 21:7",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.8",
+      "label": "Deuteronomy 21:8",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.9",
+      "label": "Deuteronomy 21:9",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.10",
+      "label": "Deuteronomy 21:10",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.11",
+      "label": "Deuteronomy 21:11",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.12",
+      "label": "Deuteronomy 21:12",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.13",
+      "label": "Deuteronomy 21:13",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.14",
+      "label": "Deuteronomy 21:14",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.15",
+      "label": "Deuteronomy 21:15",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.16",
+      "label": "Deuteronomy 21:16",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.17",
+      "label": "Deuteronomy 21:17",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.18",
+      "label": "Deuteronomy 21:18",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.19",
+      "label": "Deuteronomy 21:19",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.20",
+      "label": "Deuteronomy 21:20",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.21",
+      "label": "Deuteronomy 21:21",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.22",
+      "label": "Deuteronomy 21:22",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.23",
+      "label": "Deuteronomy 21:23",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "22.1",
+      "label": "Deuteronomy 22:1",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.2",
+      "label": "Deuteronomy 22:2",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.3",
+      "label": "Deuteronomy 22:3",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.4",
+      "label": "Deuteronomy 22:4",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.5",
+      "label": "Deuteronomy 22:5",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.6",
+      "label": "Deuteronomy 22:6",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.7",
+      "label": "Deuteronomy 22:7",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.8",
+      "label": "Deuteronomy 22:8",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.9",
+      "label": "Deuteronomy 22:9",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.10",
+      "label": "Deuteronomy 22:10",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.11",
+      "label": "Deuteronomy 22:11",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.12",
+      "label": "Deuteronomy 22:12",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.13",
+      "label": "Deuteronomy 22:13",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.14",
+      "label": "Deuteronomy 22:14",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.15",
+      "label": "Deuteronomy 22:15",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.16",
+      "label": "Deuteronomy 22:16",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.17",
+      "label": "Deuteronomy 22:17",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.18",
+      "label": "Deuteronomy 22:18",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.19",
+      "label": "Deuteronomy 22:19",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.20",
+      "label": "Deuteronomy 22:20",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.21",
+      "label": "Deuteronomy 22:21",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.22",
+      "label": "Deuteronomy 22:22",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.23",
+      "label": "Deuteronomy 22:23",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.24",
+      "label": "Deuteronomy 22:24",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.25",
+      "label": "Deuteronomy 22:25",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.26",
+      "label": "Deuteronomy 22:26",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.27",
+      "label": "Deuteronomy 22:27",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.28",
+      "label": "Deuteronomy 22:28",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.29",
+      "label": "Deuteronomy 22:29",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.30",
+      "label": "Deuteronomy 22:30",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "23.1",
+      "label": "Deuteronomy 23:1",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.2",
+      "label": "Deuteronomy 23:2",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.3",
+      "label": "Deuteronomy 23:3",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.4",
+      "label": "Deuteronomy 23:4",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.5",
+      "label": "Deuteronomy 23:5",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.6",
+      "label": "Deuteronomy 23:6",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.7",
+      "label": "Deuteronomy 23:7",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.8",
+      "label": "Deuteronomy 23:8",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.9",
+      "label": "Deuteronomy 23:9",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.10",
+      "label": "Deuteronomy 23:10",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.11",
+      "label": "Deuteronomy 23:11",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.12",
+      "label": "Deuteronomy 23:12",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.13",
+      "label": "Deuteronomy 23:13",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.14",
+      "label": "Deuteronomy 23:14",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.15",
+      "label": "Deuteronomy 23:15",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.16",
+      "label": "Deuteronomy 23:16",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.17",
+      "label": "Deuteronomy 23:17",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.18",
+      "label": "Deuteronomy 23:18",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.19",
+      "label": "Deuteronomy 23:19",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.20",
+      "label": "Deuteronomy 23:20",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.21",
+      "label": "Deuteronomy 23:21",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.22",
+      "label": "Deuteronomy 23:22",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.23",
+      "label": "Deuteronomy 23:23",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.24",
+      "label": "Deuteronomy 23:24",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.25",
+      "label": "Deuteronomy 23:25",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "24.1",
+      "label": "Deuteronomy 24:1",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.2",
+      "label": "Deuteronomy 24:2",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.3",
+      "label": "Deuteronomy 24:3",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.4",
+      "label": "Deuteronomy 24:4",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.5",
+      "label": "Deuteronomy 24:5",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.6",
+      "label": "Deuteronomy 24:6",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.7",
+      "label": "Deuteronomy 24:7",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.8",
+      "label": "Deuteronomy 24:8",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.9",
+      "label": "Deuteronomy 24:9",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.10",
+      "label": "Deuteronomy 24:10",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.11",
+      "label": "Deuteronomy 24:11",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.12",
+      "label": "Deuteronomy 24:12",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.13",
+      "label": "Deuteronomy 24:13",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.14",
+      "label": "Deuteronomy 24:14",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.15",
+      "label": "Deuteronomy 24:15",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.16",
+      "label": "Deuteronomy 24:16",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.17",
+      "label": "Deuteronomy 24:17",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.18",
+      "label": "Deuteronomy 24:18",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.19",
+      "label": "Deuteronomy 24:19",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.20",
+      "label": "Deuteronomy 24:20",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.21",
+      "label": "Deuteronomy 24:21",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.22",
+      "label": "Deuteronomy 24:22",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "25.1",
+      "label": "Deuteronomy 25:1",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.2",
+      "label": "Deuteronomy 25:2",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.3",
+      "label": "Deuteronomy 25:3",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.4",
+      "label": "Deuteronomy 25:4",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.5",
+      "label": "Deuteronomy 25:5",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.6",
+      "label": "Deuteronomy 25:6",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.7",
+      "label": "Deuteronomy 25:7",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.8",
+      "label": "Deuteronomy 25:8",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.9",
+      "label": "Deuteronomy 25:9",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.10",
+      "label": "Deuteronomy 25:10",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.11",
+      "label": "Deuteronomy 25:11",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.12",
+      "label": "Deuteronomy 25:12",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.13",
+      "label": "Deuteronomy 25:13",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.14",
+      "label": "Deuteronomy 25:14",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.15",
+      "label": "Deuteronomy 25:15",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.16",
+      "label": "Deuteronomy 25:16",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.17",
+      "label": "Deuteronomy 25:17",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.18",
+      "label": "Deuteronomy 25:18",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.19",
+      "label": "Deuteronomy 25:19",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "26.1",
+      "label": "Deuteronomy 26:1",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.2",
+      "label": "Deuteronomy 26:2",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.3",
+      "label": "Deuteronomy 26:3",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.4",
+      "label": "Deuteronomy 26:4",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.5",
+      "label": "Deuteronomy 26:5",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.6",
+      "label": "Deuteronomy 26:6",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.7",
+      "label": "Deuteronomy 26:7",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.8",
+      "label": "Deuteronomy 26:8",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.9",
+      "label": "Deuteronomy 26:9",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.10",
+      "label": "Deuteronomy 26:10",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.11",
+      "label": "Deuteronomy 26:11",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.12",
+      "label": "Deuteronomy 26:12",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.13",
+      "label": "Deuteronomy 26:13",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.14",
+      "label": "Deuteronomy 26:14",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.15",
+      "label": "Deuteronomy 26:15",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.16",
+      "label": "Deuteronomy 26:16",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.17",
+      "label": "Deuteronomy 26:17",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.18",
+      "label": "Deuteronomy 26:18",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.19",
+      "label": "Deuteronomy 26:19",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "27.1",
+      "label": "Deuteronomy 27:1",
+      "chapterRef": "27"
+    },
+    {
+      "reference": "27.2",
+      "label": "Deuteronomy 27:2",
+      "chapterRef": "27"
+    },
+    {
+      "reference": "27.3",
+      "label": "Deuteronomy 27:3",
+      "chapterRef": "27"
+    },
+    {
+      "reference": "27.4",
+      "label": "Deuteronomy 27:4",
+      "chapterRef": "27"
+    },
+    {
+      "reference": "27.5",
+      "label": "Deuteronomy 27:5",
+      "chapterRef": "27"
+    },
+    {
+      "reference": "27.6",
+      "label": "Deuteronomy 27:6",
+      "chapterRef": "27"
+    },
+    {
+      "reference": "27.7",
+      "label": "Deuteronomy 27:7",
+      "chapterRef": "27"
+    },
+    {
+      "reference": "27.8",
+      "label": "Deuteronomy 27:8",
+      "chapterRef": "27"
+    },
+    {
+      "reference": "27.9",
+      "label": "Deuteronomy 27:9",
+      "chapterRef": "27"
+    },
+    {
+      "reference": "27.10",
+      "label": "Deuteronomy 27:10",
+      "chapterRef": "27"
+    },
+    {
+      "reference": "27.11",
+      "label": "Deuteronomy 27:11",
+      "chapterRef": "27"
+    },
+    {
+      "reference": "27.12",
+      "label": "Deuteronomy 27:12",
+      "chapterRef": "27"
+    },
+    {
+      "reference": "27.13",
+      "label": "Deuteronomy 27:13",
+      "chapterRef": "27"
+    },
+    {
+      "reference": "27.14",
+      "label": "Deuteronomy 27:14",
+      "chapterRef": "27"
+    },
+    {
+      "reference": "27.15",
+      "label": "Deuteronomy 27:15",
+      "chapterRef": "27"
+    },
+    {
+      "reference": "27.16",
+      "label": "Deuteronomy 27:16",
+      "chapterRef": "27"
+    },
+    {
+      "reference": "27.17",
+      "label": "Deuteronomy 27:17",
+      "chapterRef": "27"
+    },
+    {
+      "reference": "27.18",
+      "label": "Deuteronomy 27:18",
+      "chapterRef": "27"
+    },
+    {
+      "reference": "27.19",
+      "label": "Deuteronomy 27:19",
+      "chapterRef": "27"
+    },
+    {
+      "reference": "27.20",
+      "label": "Deuteronomy 27:20",
+      "chapterRef": "27"
+    },
+    {
+      "reference": "27.21",
+      "label": "Deuteronomy 27:21",
+      "chapterRef": "27"
+    },
+    {
+      "reference": "27.22",
+      "label": "Deuteronomy 27:22",
+      "chapterRef": "27"
+    },
+    {
+      "reference": "27.23",
+      "label": "Deuteronomy 27:23",
+      "chapterRef": "27"
+    },
+    {
+      "reference": "27.24",
+      "label": "Deuteronomy 27:24",
+      "chapterRef": "27"
+    },
+    {
+      "reference": "27.25",
+      "label": "Deuteronomy 27:25",
+      "chapterRef": "27"
+    },
+    {
+      "reference": "27.26",
+      "label": "Deuteronomy 27:26",
+      "chapterRef": "27"
+    },
+    {
+      "reference": "28.1",
+      "label": "Deuteronomy 28:1",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "28.2",
+      "label": "Deuteronomy 28:2",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "28.3",
+      "label": "Deuteronomy 28:3",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "28.4",
+      "label": "Deuteronomy 28:4",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "28.5",
+      "label": "Deuteronomy 28:5",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "28.6",
+      "label": "Deuteronomy 28:6",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "28.7",
+      "label": "Deuteronomy 28:7",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "28.8",
+      "label": "Deuteronomy 28:8",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "28.9",
+      "label": "Deuteronomy 28:9",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "28.10",
+      "label": "Deuteronomy 28:10",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "28.11",
+      "label": "Deuteronomy 28:11",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "28.12",
+      "label": "Deuteronomy 28:12",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "28.13",
+      "label": "Deuteronomy 28:13",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "28.14",
+      "label": "Deuteronomy 28:14",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "28.15",
+      "label": "Deuteronomy 28:15",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "28.16",
+      "label": "Deuteronomy 28:16",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "28.17",
+      "label": "Deuteronomy 28:17",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "28.18",
+      "label": "Deuteronomy 28:18",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "28.19",
+      "label": "Deuteronomy 28:19",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "28.20",
+      "label": "Deuteronomy 28:20",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "28.21",
+      "label": "Deuteronomy 28:21",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "28.22",
+      "label": "Deuteronomy 28:22",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "28.23",
+      "label": "Deuteronomy 28:23",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "28.24",
+      "label": "Deuteronomy 28:24",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "28.25",
+      "label": "Deuteronomy 28:25",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "28.26",
+      "label": "Deuteronomy 28:26",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "28.27",
+      "label": "Deuteronomy 28:27",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "28.28",
+      "label": "Deuteronomy 28:28",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "28.29",
+      "label": "Deuteronomy 28:29",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "28.30",
+      "label": "Deuteronomy 28:30",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "28.31",
+      "label": "Deuteronomy 28:31",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "28.32",
+      "label": "Deuteronomy 28:32",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "28.33",
+      "label": "Deuteronomy 28:33",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "28.34",
+      "label": "Deuteronomy 28:34",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "28.35",
+      "label": "Deuteronomy 28:35",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "28.36",
+      "label": "Deuteronomy 28:36",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "28.37",
+      "label": "Deuteronomy 28:37",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "28.38",
+      "label": "Deuteronomy 28:38",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "28.39",
+      "label": "Deuteronomy 28:39",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "28.40",
+      "label": "Deuteronomy 28:40",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "28.41",
+      "label": "Deuteronomy 28:41",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "28.42",
+      "label": "Deuteronomy 28:42",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "28.43",
+      "label": "Deuteronomy 28:43",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "28.44",
+      "label": "Deuteronomy 28:44",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "28.45",
+      "label": "Deuteronomy 28:45",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "28.46",
+      "label": "Deuteronomy 28:46",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "28.47",
+      "label": "Deuteronomy 28:47",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "28.48",
+      "label": "Deuteronomy 28:48",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "28.49",
+      "label": "Deuteronomy 28:49",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "28.50",
+      "label": "Deuteronomy 28:50",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "28.51",
+      "label": "Deuteronomy 28:51",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "28.52",
+      "label": "Deuteronomy 28:52",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "28.53",
+      "label": "Deuteronomy 28:53",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "28.54",
+      "label": "Deuteronomy 28:54",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "28.55",
+      "label": "Deuteronomy 28:55",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "28.56",
+      "label": "Deuteronomy 28:56",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "28.57",
+      "label": "Deuteronomy 28:57",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "28.58",
+      "label": "Deuteronomy 28:58",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "28.59",
+      "label": "Deuteronomy 28:59",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "28.60",
+      "label": "Deuteronomy 28:60",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "28.61",
+      "label": "Deuteronomy 28:61",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "28.62",
+      "label": "Deuteronomy 28:62",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "28.63",
+      "label": "Deuteronomy 28:63",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "28.64",
+      "label": "Deuteronomy 28:64",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "28.65",
+      "label": "Deuteronomy 28:65",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "28.66",
+      "label": "Deuteronomy 28:66",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "28.67",
+      "label": "Deuteronomy 28:67",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "28.68",
+      "label": "Deuteronomy 28:68",
+      "chapterRef": "28"
+    },
+    {
+      "reference": "29.1",
+      "label": "Deuteronomy 29:1",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.2",
+      "label": "Deuteronomy 29:2",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.3",
+      "label": "Deuteronomy 29:3",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.4",
+      "label": "Deuteronomy 29:4",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.5",
+      "label": "Deuteronomy 29:5",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.6",
+      "label": "Deuteronomy 29:6",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.7",
+      "label": "Deuteronomy 29:7",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.8",
+      "label": "Deuteronomy 29:8",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.9",
+      "label": "Deuteronomy 29:9",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.10",
+      "label": "Deuteronomy 29:10",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.11",
+      "label": "Deuteronomy 29:11",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.12",
+      "label": "Deuteronomy 29:12",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.13",
+      "label": "Deuteronomy 29:13",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.14",
+      "label": "Deuteronomy 29:14",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.15",
+      "label": "Deuteronomy 29:15",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.16",
+      "label": "Deuteronomy 29:16",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.17",
+      "label": "Deuteronomy 29:17",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.18",
+      "label": "Deuteronomy 29:18",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.19",
+      "label": "Deuteronomy 29:19",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.20",
+      "label": "Deuteronomy 29:20",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.21",
+      "label": "Deuteronomy 29:21",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.22",
+      "label": "Deuteronomy 29:22",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.23",
+      "label": "Deuteronomy 29:23",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.24",
+      "label": "Deuteronomy 29:24",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.25",
+      "label": "Deuteronomy 29:25",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.26",
+      "label": "Deuteronomy 29:26",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.27",
+      "label": "Deuteronomy 29:27",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.28",
+      "label": "Deuteronomy 29:28",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "29.29",
+      "label": "Deuteronomy 29:29",
+      "chapterRef": "29"
+    },
+    {
+      "reference": "30.1",
+      "label": "Deuteronomy 30:1",
+      "chapterRef": "30"
+    },
+    {
+      "reference": "30.2",
+      "label": "Deuteronomy 30:2",
+      "chapterRef": "30"
+    },
+    {
+      "reference": "30.3",
+      "label": "Deuteronomy 30:3",
+      "chapterRef": "30"
+    },
+    {
+      "reference": "30.4",
+      "label": "Deuteronomy 30:4",
+      "chapterRef": "30"
+    },
+    {
+      "reference": "30.5",
+      "label": "Deuteronomy 30:5",
+      "chapterRef": "30"
+    },
+    {
+      "reference": "30.6",
+      "label": "Deuteronomy 30:6",
+      "chapterRef": "30"
+    },
+    {
+      "reference": "30.7",
+      "label": "Deuteronomy 30:7",
+      "chapterRef": "30"
+    },
+    {
+      "reference": "30.8",
+      "label": "Deuteronomy 30:8",
+      "chapterRef": "30"
+    },
+    {
+      "reference": "30.9",
+      "label": "Deuteronomy 30:9",
+      "chapterRef": "30"
+    },
+    {
+      "reference": "30.10",
+      "label": "Deuteronomy 30:10",
+      "chapterRef": "30"
+    },
+    {
+      "reference": "30.11",
+      "label": "Deuteronomy 30:11",
+      "chapterRef": "30"
+    },
+    {
+      "reference": "30.12",
+      "label": "Deuteronomy 30:12",
+      "chapterRef": "30"
+    },
+    {
+      "reference": "30.13",
+      "label": "Deuteronomy 30:13",
+      "chapterRef": "30"
+    },
+    {
+      "reference": "30.14",
+      "label": "Deuteronomy 30:14",
+      "chapterRef": "30"
+    },
+    {
+      "reference": "30.15",
+      "label": "Deuteronomy 30:15",
+      "chapterRef": "30"
+    },
+    {
+      "reference": "30.16",
+      "label": "Deuteronomy 30:16",
+      "chapterRef": "30"
+    },
+    {
+      "reference": "30.17",
+      "label": "Deuteronomy 30:17",
+      "chapterRef": "30"
+    },
+    {
+      "reference": "30.18",
+      "label": "Deuteronomy 30:18",
+      "chapterRef": "30"
+    },
+    {
+      "reference": "30.19",
+      "label": "Deuteronomy 30:19",
+      "chapterRef": "30"
+    },
+    {
+      "reference": "30.20",
+      "label": "Deuteronomy 30:20",
+      "chapterRef": "30"
+    },
+    {
+      "reference": "31.1",
+      "label": "Deuteronomy 31:1",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.2",
+      "label": "Deuteronomy 31:2",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.3",
+      "label": "Deuteronomy 31:3",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.4",
+      "label": "Deuteronomy 31:4",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.5",
+      "label": "Deuteronomy 31:5",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.6",
+      "label": "Deuteronomy 31:6",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.7",
+      "label": "Deuteronomy 31:7",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.8",
+      "label": "Deuteronomy 31:8",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.9",
+      "label": "Deuteronomy 31:9",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.10",
+      "label": "Deuteronomy 31:10",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.11",
+      "label": "Deuteronomy 31:11",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.12",
+      "label": "Deuteronomy 31:12",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.13",
+      "label": "Deuteronomy 31:13",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.14",
+      "label": "Deuteronomy 31:14",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.15",
+      "label": "Deuteronomy 31:15",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.16",
+      "label": "Deuteronomy 31:16",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.17",
+      "label": "Deuteronomy 31:17",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.18",
+      "label": "Deuteronomy 31:18",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.19",
+      "label": "Deuteronomy 31:19",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.20",
+      "label": "Deuteronomy 31:20",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.21",
+      "label": "Deuteronomy 31:21",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.22",
+      "label": "Deuteronomy 31:22",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.23",
+      "label": "Deuteronomy 31:23",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.24",
+      "label": "Deuteronomy 31:24",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.25",
+      "label": "Deuteronomy 31:25",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.26",
+      "label": "Deuteronomy 31:26",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.27",
+      "label": "Deuteronomy 31:27",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.28",
+      "label": "Deuteronomy 31:28",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.29",
+      "label": "Deuteronomy 31:29",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "31.30",
+      "label": "Deuteronomy 31:30",
+      "chapterRef": "31"
+    },
+    {
+      "reference": "32.1",
+      "label": "Deuteronomy 32:1",
+      "chapterRef": "32"
+    },
+    {
+      "reference": "32.2",
+      "label": "Deuteronomy 32:2",
+      "chapterRef": "32"
+    },
+    {
+      "reference": "32.3",
+      "label": "Deuteronomy 32:3",
+      "chapterRef": "32"
+    },
+    {
+      "reference": "32.4",
+      "label": "Deuteronomy 32:4",
+      "chapterRef": "32"
+    },
+    {
+      "reference": "32.5",
+      "label": "Deuteronomy 32:5",
+      "chapterRef": "32"
+    },
+    {
+      "reference": "32.6",
+      "label": "Deuteronomy 32:6",
+      "chapterRef": "32"
+    },
+    {
+      "reference": "32.7",
+      "label": "Deuteronomy 32:7",
+      "chapterRef": "32"
+    },
+    {
+      "reference": "32.8",
+      "label": "Deuteronomy 32:8",
+      "chapterRef": "32"
+    },
+    {
+      "reference": "32.9",
+      "label": "Deuteronomy 32:9",
+      "chapterRef": "32"
+    },
+    {
+      "reference": "32.10",
+      "label": "Deuteronomy 32:10",
+      "chapterRef": "32"
+    },
+    {
+      "reference": "32.11",
+      "label": "Deuteronomy 32:11",
+      "chapterRef": "32"
+    },
+    {
+      "reference": "32.12",
+      "label": "Deuteronomy 32:12",
+      "chapterRef": "32"
+    },
+    {
+      "reference": "32.13",
+      "label": "Deuteronomy 32:13",
+      "chapterRef": "32"
+    },
+    {
+      "reference": "32.14",
+      "label": "Deuteronomy 32:14",
+      "chapterRef": "32"
+    },
+    {
+      "reference": "32.15",
+      "label": "Deuteronomy 32:15",
+      "chapterRef": "32"
+    },
+    {
+      "reference": "32.16",
+      "label": "Deuteronomy 32:16",
+      "chapterRef": "32"
+    },
+    {
+      "reference": "32.17",
+      "label": "Deuteronomy 32:17",
+      "chapterRef": "32"
+    },
+    {
+      "reference": "32.18",
+      "label": "Deuteronomy 32:18",
+      "chapterRef": "32"
+    },
+    {
+      "reference": "32.19",
+      "label": "Deuteronomy 32:19",
+      "chapterRef": "32"
+    },
+    {
+      "reference": "32.20",
+      "label": "Deuteronomy 32:20",
+      "chapterRef": "32"
+    },
+    {
+      "reference": "32.21",
+      "label": "Deuteronomy 32:21",
+      "chapterRef": "32"
+    },
+    {
+      "reference": "32.22",
+      "label": "Deuteronomy 32:22",
+      "chapterRef": "32"
+    },
+    {
+      "reference": "32.23",
+      "label": "Deuteronomy 32:23",
+      "chapterRef": "32"
+    },
+    {
+      "reference": "32.24",
+      "label": "Deuteronomy 32:24",
+      "chapterRef": "32"
+    },
+    {
+      "reference": "32.25",
+      "label": "Deuteronomy 32:25",
+      "chapterRef": "32"
+    },
+    {
+      "reference": "32.26",
+      "label": "Deuteronomy 32:26",
+      "chapterRef": "32"
+    },
+    {
+      "reference": "32.27",
+      "label": "Deuteronomy 32:27",
+      "chapterRef": "32"
+    },
+    {
+      "reference": "32.28",
+      "label": "Deuteronomy 32:28",
+      "chapterRef": "32"
+    },
+    {
+      "reference": "32.29",
+      "label": "Deuteronomy 32:29",
+      "chapterRef": "32"
+    },
+    {
+      "reference": "32.30",
+      "label": "Deuteronomy 32:30",
+      "chapterRef": "32"
+    },
+    {
+      "reference": "32.31",
+      "label": "Deuteronomy 32:31",
+      "chapterRef": "32"
+    },
+    {
+      "reference": "32.32",
+      "label": "Deuteronomy 32:32",
+      "chapterRef": "32"
+    },
+    {
+      "reference": "32.33",
+      "label": "Deuteronomy 32:33",
+      "chapterRef": "32"
+    },
+    {
+      "reference": "32.34",
+      "label": "Deuteronomy 32:34",
+      "chapterRef": "32"
+    },
+    {
+      "reference": "32.35",
+      "label": "Deuteronomy 32:35",
+      "chapterRef": "32"
+    },
+    {
+      "reference": "32.36",
+      "label": "Deuteronomy 32:36",
+      "chapterRef": "32"
+    },
+    {
+      "reference": "32.37",
+      "label": "Deuteronomy 32:37",
+      "chapterRef": "32"
+    },
+    {
+      "reference": "32.38",
+      "label": "Deuteronomy 32:38",
+      "chapterRef": "32"
+    },
+    {
+      "reference": "32.39",
+      "label": "Deuteronomy 32:39",
+      "chapterRef": "32"
+    },
+    {
+      "reference": "32.40",
+      "label": "Deuteronomy 32:40",
+      "chapterRef": "32"
+    },
+    {
+      "reference": "32.41",
+      "label": "Deuteronomy 32:41",
+      "chapterRef": "32"
+    },
+    {
+      "reference": "32.42",
+      "label": "Deuteronomy 32:42",
+      "chapterRef": "32"
+    },
+    {
+      "reference": "32.43",
+      "label": "Deuteronomy 32:43",
+      "chapterRef": "32"
+    },
+    {
+      "reference": "32.44",
+      "label": "Deuteronomy 32:44",
+      "chapterRef": "32"
+    },
+    {
+      "reference": "32.45",
+      "label": "Deuteronomy 32:45",
+      "chapterRef": "32"
+    },
+    {
+      "reference": "32.46",
+      "label": "Deuteronomy 32:46",
+      "chapterRef": "32"
+    },
+    {
+      "reference": "32.47",
+      "label": "Deuteronomy 32:47",
+      "chapterRef": "32"
+    },
+    {
+      "reference": "32.48",
+      "label": "Deuteronomy 32:48",
+      "chapterRef": "32"
+    },
+    {
+      "reference": "32.49",
+      "label": "Deuteronomy 32:49",
+      "chapterRef": "32"
+    },
+    {
+      "reference": "32.50",
+      "label": "Deuteronomy 32:50",
+      "chapterRef": "32"
+    },
+    {
+      "reference": "32.51",
+      "label": "Deuteronomy 32:51",
+      "chapterRef": "32"
+    },
+    {
+      "reference": "32.52",
+      "label": "Deuteronomy 32:52",
+      "chapterRef": "32"
+    },
+    {
+      "reference": "33.1",
+      "label": "Deuteronomy 33:1",
+      "chapterRef": "33"
+    },
+    {
+      "reference": "33.2",
+      "label": "Deuteronomy 33:2",
+      "chapterRef": "33"
+    },
+    {
+      "reference": "33.3",
+      "label": "Deuteronomy 33:3",
+      "chapterRef": "33"
+    },
+    {
+      "reference": "33.4",
+      "label": "Deuteronomy 33:4",
+      "chapterRef": "33"
+    },
+    {
+      "reference": "33.5",
+      "label": "Deuteronomy 33:5",
+      "chapterRef": "33"
+    },
+    {
+      "reference": "33.6",
+      "label": "Deuteronomy 33:6",
+      "chapterRef": "33"
+    },
+    {
+      "reference": "33.7",
+      "label": "Deuteronomy 33:7",
+      "chapterRef": "33"
+    },
+    {
+      "reference": "33.8",
+      "label": "Deuteronomy 33:8",
+      "chapterRef": "33"
+    },
+    {
+      "reference": "33.9",
+      "label": "Deuteronomy 33:9",
+      "chapterRef": "33"
+    },
+    {
+      "reference": "33.10",
+      "label": "Deuteronomy 33:10",
+      "chapterRef": "33"
+    },
+    {
+      "reference": "33.11",
+      "label": "Deuteronomy 33:11",
+      "chapterRef": "33"
+    },
+    {
+      "reference": "33.12",
+      "label": "Deuteronomy 33:12",
+      "chapterRef": "33"
+    },
+    {
+      "reference": "33.13",
+      "label": "Deuteronomy 33:13",
+      "chapterRef": "33"
+    },
+    {
+      "reference": "33.14",
+      "label": "Deuteronomy 33:14",
+      "chapterRef": "33"
+    },
+    {
+      "reference": "33.15",
+      "label": "Deuteronomy 33:15",
+      "chapterRef": "33"
+    },
+    {
+      "reference": "33.16",
+      "label": "Deuteronomy 33:16",
+      "chapterRef": "33"
+    },
+    {
+      "reference": "33.17",
+      "label": "Deuteronomy 33:17",
+      "chapterRef": "33"
+    },
+    {
+      "reference": "33.18",
+      "label": "Deuteronomy 33:18",
+      "chapterRef": "33"
+    },
+    {
+      "reference": "33.19",
+      "label": "Deuteronomy 33:19",
+      "chapterRef": "33"
+    },
+    {
+      "reference": "33.20",
+      "label": "Deuteronomy 33:20",
+      "chapterRef": "33"
+    },
+    {
+      "reference": "33.21",
+      "label": "Deuteronomy 33:21",
+      "chapterRef": "33"
+    },
+    {
+      "reference": "33.22",
+      "label": "Deuteronomy 33:22",
+      "chapterRef": "33"
+    },
+    {
+      "reference": "33.23",
+      "label": "Deuteronomy 33:23",
+      "chapterRef": "33"
+    },
+    {
+      "reference": "33.24",
+      "label": "Deuteronomy 33:24",
+      "chapterRef": "33"
+    },
+    {
+      "reference": "33.25",
+      "label": "Deuteronomy 33:25",
+      "chapterRef": "33"
+    },
+    {
+      "reference": "33.26",
+      "label": "Deuteronomy 33:26",
+      "chapterRef": "33"
+    },
+    {
+      "reference": "33.27",
+      "label": "Deuteronomy 33:27",
+      "chapterRef": "33"
+    },
+    {
+      "reference": "33.28",
+      "label": "Deuteronomy 33:28",
+      "chapterRef": "33"
+    },
+    {
+      "reference": "33.29",
+      "label": "Deuteronomy 33:29",
+      "chapterRef": "33"
+    },
+    {
+      "reference": "34.1",
+      "label": "Deuteronomy 34:1",
+      "chapterRef": "34"
+    },
+    {
+      "reference": "34.2",
+      "label": "Deuteronomy 34:2",
+      "chapterRef": "34"
+    },
+    {
+      "reference": "34.3",
+      "label": "Deuteronomy 34:3",
+      "chapterRef": "34"
+    },
+    {
+      "reference": "34.4",
+      "label": "Deuteronomy 34:4",
+      "chapterRef": "34"
+    },
+    {
+      "reference": "34.5",
+      "label": "Deuteronomy 34:5",
+      "chapterRef": "34"
+    },
+    {
+      "reference": "34.6",
+      "label": "Deuteronomy 34:6",
+      "chapterRef": "34"
+    },
+    {
+      "reference": "34.7",
+      "label": "Deuteronomy 34:7",
+      "chapterRef": "34"
+    },
+    {
+      "reference": "34.8",
+      "label": "Deuteronomy 34:8",
+      "chapterRef": "34"
+    },
+    {
+      "reference": "34.9",
+      "label": "Deuteronomy 34:9",
+      "chapterRef": "34"
+    },
+    {
+      "reference": "34.10",
+      "label": "Deuteronomy 34:10",
+      "chapterRef": "34"
+    },
+    {
+      "reference": "34.11",
+      "label": "Deuteronomy 34:11",
+      "chapterRef": "34"
+    },
+    {
+      "reference": "34.12",
+      "label": "Deuteronomy 34:12",
+      "chapterRef": "34"
+    }
+  ],
+  "editions": [
+    {
+      "slug": "bible-deuteronomy-he",
+      "language": "he",
+      "editionType": "original",
+      "title": "Westminster Leningrad Codex (Hebrew)",
+      "translator": "",
+      "publisher": "Bolls Bible API",
+      "publicationYear": null,
+      "source": "bolls",
+      "license": "public-domain",
+      "rightsStatus": "Public domain",
+      "attributionText": "Westminster Leningrad Codex Hebrew text, served by the Bolls Bible API.",
+      "structureScheme": "book, chapter, verse",
+      "isSample": false,
+      "notes": "The Hebrew text is shown as the API serves it; this library does not collate it against critical editions."
+    },
+    {
+      "slug": "bible-deuteronomy-en-kjv",
+      "language": "en",
+      "editionType": "translation",
+      "title": "King James Version (1611)",
+      "translator": "The King James Bible translators",
+      "publisher": "Bolls Bible API",
+      "publicationYear": 1611,
+      "source": "bolls",
+      "license": "public-domain",
+      "rightsStatus": "Public domain",
+      "attributionText": "The Holy Bible, King James Version (1611). Public domain. Served by the Bolls Bible API.",
+      "structureScheme": "book, chapter, verse",
+      "isSample": false,
+      "notes": "Strong's numbers included in the API's markup are not displayed; the verse wording is unchanged."
+    }
+  ]
+}

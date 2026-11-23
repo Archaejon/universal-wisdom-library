@@ -1,0 +1,6440 @@
+{
+  "slug": "madhava-sarva-darsana-samgraha",
+  "title": "Sarva-Darsana-Samgraha",
+  "originalTitle": "सर्वदर्शनसंग्रह",
+  "transliteration": "Sarva-Darśana-Saṃgraha",
+  "altTitles": [],
+  "tradition": "hinduism",
+  "school": "vedanta",
+  "genre": "Philosophy",
+  "textType": "Survey of philosophical systems",
+  "category": "Philosophy",
+  "subcategory": "Survey of schools",
+  "originalLanguage": "sa",
+  "dateStart": 1300,
+  "dateEnd": 1380,
+  "dateDisplay": "14th century CE",
+  "authorshipStatus": "established",
+  "author": "madhava",
+  "attributionNote": "Attributed to Madhava Acharya, usually identified with the Advaita author and statesman Madhavacharya. The attribution is traditional rather than documentary.",
+  "description": "A survey of the Indian philosophical schools in fifteen chapters, from the materialist Charvaka through the Buddhist and Jain systems to the six Brahmanical schools and finally Vedanta. Each system is presented through its own arguments before the author answers them from an Advaita position, which makes the work a history of philosophy and a polemic at once.",
+  "historicalContext": "Written in fourteenth-century Vijayanagara. Cowell and Gough's 1882 translation was the first complete English rendering and remains the standard one; it arranges the chapters in the order of the printed Sanskrit editions.",
+  "availabilityNote": "Streamed from Project Gutenberg at read time: the whole plain-text edition is fetched and split at the chapter headings it prints. The 1882 translation by E. B. Cowell and A. E. Gough is public domain in the United States.",
+  "featured": false,
+  "featuredNote": "",
+  "refScheme": "chapter.paragraph",
+  "isSample": false,
+  "textStorage": "streamed",
+  "chapters": [
+    {
+      "ref": "1",
+      "label": "The Charvaka System"
+    },
+    {
+      "ref": "2",
+      "label": "The Bauddha System"
+    },
+    {
+      "ref": "3",
+      "label": "The Jaina System"
+    },
+    {
+      "ref": "4",
+      "label": "The Ramanuja System"
+    },
+    {
+      "ref": "5",
+      "label": "The Purnaprajna System"
+    },
+    {
+      "ref": "6",
+      "label": "The Pashupata System"
+    },
+    {
+      "ref": "7",
+      "label": "The Shaiva System"
+    },
+    {
+      "ref": "8",
+      "label": "The Pratyabhijna System"
+    },
+    {
+      "ref": "9",
+      "label": "The Raseshvara System"
+    },
+    {
+      "ref": "10",
+      "label": "The Vaisheshika System"
+    },
+    {
+      "ref": "11",
+      "label": "The Nyaya System"
+    },
+    {
+      "ref": "12",
+      "label": "The Mimamsa System"
+    },
+    {
+      "ref": "13",
+      "label": "The Sankhya System"
+    },
+    {
+      "ref": "14",
+      "label": "The Patanjala System"
+    },
+    {
+      "ref": "15",
+      "label": "The Vedanta System"
+    }
+  ],
+  "passages": [
+    {
+      "reference": "1.1",
+      "label": "The Charvaka System §1",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.2",
+      "label": "The Charvaka System §2",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.3",
+      "label": "The Charvaka System §3",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.4",
+      "label": "The Charvaka System §4",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.5",
+      "label": "The Charvaka System §5",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.6",
+      "label": "The Charvaka System §6",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.7",
+      "label": "The Charvaka System §7",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.8",
+      "label": "The Charvaka System §8",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.9",
+      "label": "The Charvaka System §9",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.10",
+      "label": "The Charvaka System §10",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.11",
+      "label": "The Charvaka System §11",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.12",
+      "label": "The Charvaka System §12",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.13",
+      "label": "The Charvaka System §13",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.14",
+      "label": "The Charvaka System §14",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.15",
+      "label": "The Charvaka System §15",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.16",
+      "label": "The Charvaka System §16",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.17",
+      "label": "The Charvaka System §17",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.18",
+      "label": "The Charvaka System §18",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.19",
+      "label": "The Charvaka System §19",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.20",
+      "label": "The Charvaka System §20",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.21",
+      "label": "The Charvaka System §21",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.22",
+      "label": "The Charvaka System §22",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.23",
+      "label": "The Charvaka System §23",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.24",
+      "label": "The Charvaka System §24",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.25",
+      "label": "The Charvaka System §25",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.26",
+      "label": "The Charvaka System §26",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.27",
+      "label": "The Charvaka System §27",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.28",
+      "label": "The Charvaka System §28",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.29",
+      "label": "The Charvaka System §29",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.30",
+      "label": "The Charvaka System §30",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.31",
+      "label": "The Charvaka System §31",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.32",
+      "label": "The Charvaka System §32",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "2.1",
+      "label": "The Bauddha System §1",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.2",
+      "label": "The Bauddha System §2",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.3",
+      "label": "The Bauddha System §3",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.4",
+      "label": "The Bauddha System §4",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.5",
+      "label": "The Bauddha System §5",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.6",
+      "label": "The Bauddha System §6",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.7",
+      "label": "The Bauddha System §7",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.8",
+      "label": "The Bauddha System §8",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.9",
+      "label": "The Bauddha System §9",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.10",
+      "label": "The Bauddha System §10",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.11",
+      "label": "The Bauddha System §11",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.12",
+      "label": "The Bauddha System §12",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.13",
+      "label": "The Bauddha System §13",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.14",
+      "label": "The Bauddha System §14",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.15",
+      "label": "The Bauddha System §15",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.16",
+      "label": "The Bauddha System §16",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.17",
+      "label": "The Bauddha System §17",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.18",
+      "label": "The Bauddha System §18",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.19",
+      "label": "The Bauddha System §19",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.20",
+      "label": "The Bauddha System §20",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.21",
+      "label": "The Bauddha System §21",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.22",
+      "label": "The Bauddha System §22",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.23",
+      "label": "The Bauddha System §23",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.24",
+      "label": "The Bauddha System §24",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.25",
+      "label": "The Bauddha System §25",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.26",
+      "label": "The Bauddha System §26",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.27",
+      "label": "The Bauddha System §27",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.28",
+      "label": "The Bauddha System §28",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.29",
+      "label": "The Bauddha System §29",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.30",
+      "label": "The Bauddha System §30",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.31",
+      "label": "The Bauddha System §31",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.32",
+      "label": "The Bauddha System §32",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.33",
+      "label": "The Bauddha System §33",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.34",
+      "label": "The Bauddha System §34",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.35",
+      "label": "The Bauddha System §35",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.36",
+      "label": "The Bauddha System §36",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.37",
+      "label": "The Bauddha System §37",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.38",
+      "label": "The Bauddha System §38",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.39",
+      "label": "The Bauddha System §39",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.40",
+      "label": "The Bauddha System §40",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.41",
+      "label": "The Bauddha System §41",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.42",
+      "label": "The Bauddha System §42",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.43",
+      "label": "The Bauddha System §43",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.44",
+      "label": "The Bauddha System §44",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.45",
+      "label": "The Bauddha System §45",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.46",
+      "label": "The Bauddha System §46",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.47",
+      "label": "The Bauddha System §47",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.48",
+      "label": "The Bauddha System §48",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.49",
+      "label": "The Bauddha System §49",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.50",
+      "label": "The Bauddha System §50",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.51",
+      "label": "The Bauddha System §51",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.52",
+      "label": "The Bauddha System §52",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.53",
+      "label": "The Bauddha System §53",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.54",
+      "label": "The Bauddha System §54",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.55",
+      "label": "The Bauddha System §55",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.56",
+      "label": "The Bauddha System §56",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.57",
+      "label": "The Bauddha System §57",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.58",
+      "label": "The Bauddha System §58",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.59",
+      "label": "The Bauddha System §59",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.60",
+      "label": "The Bauddha System §60",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.61",
+      "label": "The Bauddha System §61",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.62",
+      "label": "The Bauddha System §62",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.63",
+      "label": "The Bauddha System §63",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.64",
+      "label": "The Bauddha System §64",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.65",
+      "label": "The Bauddha System §65",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.66",
+      "label": "The Bauddha System §66",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.67",
+      "label": "The Bauddha System §67",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.68",
+      "label": "The Bauddha System §68",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.69",
+      "label": "The Bauddha System §69",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.70",
+      "label": "The Bauddha System §70",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.71",
+      "label": "The Bauddha System §71",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.72",
+      "label": "The Bauddha System §72",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.73",
+      "label": "The Bauddha System §73",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.74",
+      "label": "The Bauddha System §74",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.75",
+      "label": "The Bauddha System §75",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.76",
+      "label": "The Bauddha System §76",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.77",
+      "label": "The Bauddha System §77",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.78",
+      "label": "The Bauddha System §78",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.79",
+      "label": "The Bauddha System §79",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.80",
+      "label": "The Bauddha System §80",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.81",
+      "label": "The Bauddha System §81",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.82",
+      "label": "The Bauddha System §82",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.83",
+      "label": "The Bauddha System §83",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.84",
+      "label": "The Bauddha System §84",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.85",
+      "label": "The Bauddha System §85",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.86",
+      "label": "The Bauddha System §86",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.87",
+      "label": "The Bauddha System §87",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.88",
+      "label": "The Bauddha System §88",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.89",
+      "label": "The Bauddha System §89",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.90",
+      "label": "The Bauddha System §90",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.91",
+      "label": "The Bauddha System §91",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.92",
+      "label": "The Bauddha System §92",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.93",
+      "label": "The Bauddha System §93",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.94",
+      "label": "The Bauddha System §94",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.95",
+      "label": "The Bauddha System §95",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.96",
+      "label": "The Bauddha System §96",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.97",
+      "label": "The Bauddha System §97",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.98",
+      "label": "The Bauddha System §98",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.99",
+      "label": "The Bauddha System §99",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.100",
+      "label": "The Bauddha System §100",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.101",
+      "label": "The Bauddha System §101",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.102",
+      "label": "The Bauddha System §102",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.103",
+      "label": "The Bauddha System §103",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.104",
+      "label": "The Bauddha System §104",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.105",
+      "label": "The Bauddha System §105",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.106",
+      "label": "The Bauddha System §106",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.107",
+      "label": "The Bauddha System §107",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.108",
+      "label": "The Bauddha System §108",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.109",
+      "label": "The Bauddha System §109",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.110",
+      "label": "The Bauddha System §110",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.111",
+      "label": "The Bauddha System §111",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.112",
+      "label": "The Bauddha System §112",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.113",
+      "label": "The Bauddha System §113",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.114",
+      "label": "The Bauddha System §114",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.115",
+      "label": "The Bauddha System §115",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.116",
+      "label": "The Bauddha System §116",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.117",
+      "label": "The Bauddha System §117",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.118",
+      "label": "The Bauddha System §118",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.119",
+      "label": "The Bauddha System §119",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.120",
+      "label": "The Bauddha System §120",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.121",
+      "label": "The Bauddha System §121",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.122",
+      "label": "The Bauddha System §122",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.123",
+      "label": "The Bauddha System §123",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.124",
+      "label": "The Bauddha System §124",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.125",
+      "label": "The Bauddha System §125",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.126",
+      "label": "The Bauddha System §126",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.127",
+      "label": "The Bauddha System §127",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.128",
+      "label": "The Bauddha System §128",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.129",
+      "label": "The Bauddha System §129",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.130",
+      "label": "The Bauddha System §130",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.131",
+      "label": "The Bauddha System §131",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.132",
+      "label": "The Bauddha System §132",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.133",
+      "label": "The Bauddha System §133",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.134",
+      "label": "The Bauddha System §134",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.135",
+      "label": "The Bauddha System §135",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "3.1",
+      "label": "The Jaina System §1",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.2",
+      "label": "The Jaina System §2",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.3",
+      "label": "The Jaina System §3",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.4",
+      "label": "The Jaina System §4",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.5",
+      "label": "The Jaina System §5",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.6",
+      "label": "The Jaina System §6",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.7",
+      "label": "The Jaina System §7",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.8",
+      "label": "The Jaina System §8",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.9",
+      "label": "The Jaina System §9",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.10",
+      "label": "The Jaina System §10",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.11",
+      "label": "The Jaina System §11",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.12",
+      "label": "The Jaina System §12",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.13",
+      "label": "The Jaina System §13",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.14",
+      "label": "The Jaina System §14",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.15",
+      "label": "The Jaina System §15",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.16",
+      "label": "The Jaina System §16",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.17",
+      "label": "The Jaina System §17",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.18",
+      "label": "The Jaina System §18",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.19",
+      "label": "The Jaina System §19",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.20",
+      "label": "The Jaina System §20",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.21",
+      "label": "The Jaina System §21",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.22",
+      "label": "The Jaina System §22",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.23",
+      "label": "The Jaina System §23",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.24",
+      "label": "The Jaina System §24",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.25",
+      "label": "The Jaina System §25",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.26",
+      "label": "The Jaina System §26",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.27",
+      "label": "The Jaina System §27",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.28",
+      "label": "The Jaina System §28",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.29",
+      "label": "The Jaina System §29",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.30",
+      "label": "The Jaina System §30",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.31",
+      "label": "The Jaina System §31",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.32",
+      "label": "The Jaina System §32",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.33",
+      "label": "The Jaina System §33",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.34",
+      "label": "The Jaina System §34",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.35",
+      "label": "The Jaina System §35",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.36",
+      "label": "The Jaina System §36",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.37",
+      "label": "The Jaina System §37",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.38",
+      "label": "The Jaina System §38",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.39",
+      "label": "The Jaina System §39",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.40",
+      "label": "The Jaina System §40",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.41",
+      "label": "The Jaina System §41",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.42",
+      "label": "The Jaina System §42",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.43",
+      "label": "The Jaina System §43",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.44",
+      "label": "The Jaina System §44",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.45",
+      "label": "The Jaina System §45",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.46",
+      "label": "The Jaina System §46",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.47",
+      "label": "The Jaina System §47",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.48",
+      "label": "The Jaina System §48",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.49",
+      "label": "The Jaina System §49",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.50",
+      "label": "The Jaina System §50",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.51",
+      "label": "The Jaina System §51",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.52",
+      "label": "The Jaina System §52",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.53",
+      "label": "The Jaina System §53",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.54",
+      "label": "The Jaina System §54",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.55",
+      "label": "The Jaina System §55",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.56",
+      "label": "The Jaina System §56",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.57",
+      "label": "The Jaina System §57",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.58",
+      "label": "The Jaina System §58",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.59",
+      "label": "The Jaina System §59",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.60",
+      "label": "The Jaina System §60",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.61",
+      "label": "The Jaina System §61",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.62",
+      "label": "The Jaina System §62",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.63",
+      "label": "The Jaina System §63",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.64",
+      "label": "The Jaina System §64",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.65",
+      "label": "The Jaina System §65",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.66",
+      "label": "The Jaina System §66",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.67",
+      "label": "The Jaina System §67",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.68",
+      "label": "The Jaina System §68",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.69",
+      "label": "The Jaina System §69",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.70",
+      "label": "The Jaina System §70",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.71",
+      "label": "The Jaina System §71",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.72",
+      "label": "The Jaina System §72",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.73",
+      "label": "The Jaina System §73",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.74",
+      "label": "The Jaina System §74",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.75",
+      "label": "The Jaina System §75",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.76",
+      "label": "The Jaina System §76",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.77",
+      "label": "The Jaina System §77",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.78",
+      "label": "The Jaina System §78",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.79",
+      "label": "The Jaina System §79",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.80",
+      "label": "The Jaina System §80",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.81",
+      "label": "The Jaina System §81",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.82",
+      "label": "The Jaina System §82",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.83",
+      "label": "The Jaina System §83",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.84",
+      "label": "The Jaina System §84",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.85",
+      "label": "The Jaina System §85",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.86",
+      "label": "The Jaina System §86",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.87",
+      "label": "The Jaina System §87",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.88",
+      "label": "The Jaina System §88",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.89",
+      "label": "The Jaina System §89",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.90",
+      "label": "The Jaina System §90",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.91",
+      "label": "The Jaina System §91",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.92",
+      "label": "The Jaina System §92",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.93",
+      "label": "The Jaina System §93",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.94",
+      "label": "The Jaina System §94",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.95",
+      "label": "The Jaina System §95",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.96",
+      "label": "The Jaina System §96",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.97",
+      "label": "The Jaina System §97",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.98",
+      "label": "The Jaina System §98",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.99",
+      "label": "The Jaina System §99",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.100",
+      "label": "The Jaina System §100",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.101",
+      "label": "The Jaina System §101",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.102",
+      "label": "The Jaina System §102",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.103",
+      "label": "The Jaina System §103",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.104",
+      "label": "The Jaina System §104",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.105",
+      "label": "The Jaina System §105",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.106",
+      "label": "The Jaina System §106",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.107",
+      "label": "The Jaina System §107",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.108",
+      "label": "The Jaina System §108",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.109",
+      "label": "The Jaina System §109",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.110",
+      "label": "The Jaina System §110",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.111",
+      "label": "The Jaina System §111",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.112",
+      "label": "The Jaina System §112",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.113",
+      "label": "The Jaina System §113",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.114",
+      "label": "The Jaina System §114",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.115",
+      "label": "The Jaina System §115",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.116",
+      "label": "The Jaina System §116",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.117",
+      "label": "The Jaina System §117",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.118",
+      "label": "The Jaina System §118",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.119",
+      "label": "The Jaina System §119",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.120",
+      "label": "The Jaina System §120",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.121",
+      "label": "The Jaina System §121",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.122",
+      "label": "The Jaina System §122",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.123",
+      "label": "The Jaina System §123",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.124",
+      "label": "The Jaina System §124",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.125",
+      "label": "The Jaina System §125",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.126",
+      "label": "The Jaina System §126",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.127",
+      "label": "The Jaina System §127",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.128",
+      "label": "The Jaina System §128",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.129",
+      "label": "The Jaina System §129",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.130",
+      "label": "The Jaina System §130",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.131",
+      "label": "The Jaina System §131",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.132",
+      "label": "The Jaina System §132",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.133",
+      "label": "The Jaina System §133",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.134",
+      "label": "The Jaina System §134",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.135",
+      "label": "The Jaina System §135",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "4.1",
+      "label": "The Ramanuja System §1",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.2",
+      "label": "The Ramanuja System §2",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.3",
+      "label": "The Ramanuja System §3",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.4",
+      "label": "The Ramanuja System §4",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.5",
+      "label": "The Ramanuja System §5",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.6",
+      "label": "The Ramanuja System §6",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.7",
+      "label": "The Ramanuja System §7",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.8",
+      "label": "The Ramanuja System §8",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.9",
+      "label": "The Ramanuja System §9",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.10",
+      "label": "The Ramanuja System §10",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.11",
+      "label": "The Ramanuja System §11",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.12",
+      "label": "The Ramanuja System §12",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.13",
+      "label": "The Ramanuja System §13",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.14",
+      "label": "The Ramanuja System §14",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.15",
+      "label": "The Ramanuja System §15",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.16",
+      "label": "The Ramanuja System §16",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.17",
+      "label": "The Ramanuja System §17",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.18",
+      "label": "The Ramanuja System §18",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.19",
+      "label": "The Ramanuja System §19",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.20",
+      "label": "The Ramanuja System §20",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.21",
+      "label": "The Ramanuja System §21",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.22",
+      "label": "The Ramanuja System §22",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.23",
+      "label": "The Ramanuja System §23",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.24",
+      "label": "The Ramanuja System §24",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.25",
+      "label": "The Ramanuja System §25",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.26",
+      "label": "The Ramanuja System §26",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.27",
+      "label": "The Ramanuja System §27",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.28",
+      "label": "The Ramanuja System §28",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.29",
+      "label": "The Ramanuja System §29",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.30",
+      "label": "The Ramanuja System §30",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.31",
+      "label": "The Ramanuja System §31",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.32",
+      "label": "The Ramanuja System §32",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.33",
+      "label": "The Ramanuja System §33",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.34",
+      "label": "The Ramanuja System §34",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.35",
+      "label": "The Ramanuja System §35",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.36",
+      "label": "The Ramanuja System §36",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.37",
+      "label": "The Ramanuja System §37",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.38",
+      "label": "The Ramanuja System §38",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.39",
+      "label": "The Ramanuja System §39",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.40",
+      "label": "The Ramanuja System §40",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.41",
+      "label": "The Ramanuja System §41",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.42",
+      "label": "The Ramanuja System §42",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.43",
+      "label": "The Ramanuja System §43",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.44",
+      "label": "The Ramanuja System §44",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.45",
+      "label": "The Ramanuja System §45",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.46",
+      "label": "The Ramanuja System §46",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.47",
+      "label": "The Ramanuja System §47",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.48",
+      "label": "The Ramanuja System §48",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.49",
+      "label": "The Ramanuja System §49",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.50",
+      "label": "The Ramanuja System §50",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.51",
+      "label": "The Ramanuja System §51",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.52",
+      "label": "The Ramanuja System §52",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.53",
+      "label": "The Ramanuja System §53",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.54",
+      "label": "The Ramanuja System §54",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.55",
+      "label": "The Ramanuja System §55",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.56",
+      "label": "The Ramanuja System §56",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.57",
+      "label": "The Ramanuja System §57",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.58",
+      "label": "The Ramanuja System §58",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.59",
+      "label": "The Ramanuja System §59",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.60",
+      "label": "The Ramanuja System §60",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.61",
+      "label": "The Ramanuja System §61",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.62",
+      "label": "The Ramanuja System §62",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.63",
+      "label": "The Ramanuja System §63",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.64",
+      "label": "The Ramanuja System §64",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.65",
+      "label": "The Ramanuja System §65",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.66",
+      "label": "The Ramanuja System §66",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.67",
+      "label": "The Ramanuja System §67",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.68",
+      "label": "The Ramanuja System §68",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.69",
+      "label": "The Ramanuja System §69",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.70",
+      "label": "The Ramanuja System §70",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.71",
+      "label": "The Ramanuja System §71",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.72",
+      "label": "The Ramanuja System §72",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.73",
+      "label": "The Ramanuja System §73",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.74",
+      "label": "The Ramanuja System §74",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.75",
+      "label": "The Ramanuja System §75",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.76",
+      "label": "The Ramanuja System §76",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.77",
+      "label": "The Ramanuja System §77",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.78",
+      "label": "The Ramanuja System §78",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.79",
+      "label": "The Ramanuja System §79",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.80",
+      "label": "The Ramanuja System §80",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.81",
+      "label": "The Ramanuja System §81",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.82",
+      "label": "The Ramanuja System §82",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.83",
+      "label": "The Ramanuja System §83",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.84",
+      "label": "The Ramanuja System §84",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.85",
+      "label": "The Ramanuja System §85",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.86",
+      "label": "The Ramanuja System §86",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.87",
+      "label": "The Ramanuja System §87",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.88",
+      "label": "The Ramanuja System §88",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.89",
+      "label": "The Ramanuja System §89",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.90",
+      "label": "The Ramanuja System §90",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.91",
+      "label": "The Ramanuja System §91",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.92",
+      "label": "The Ramanuja System §92",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.93",
+      "label": "The Ramanuja System §93",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.94",
+      "label": "The Ramanuja System §94",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.95",
+      "label": "The Ramanuja System §95",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.96",
+      "label": "The Ramanuja System §96",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.97",
+      "label": "The Ramanuja System §97",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.98",
+      "label": "The Ramanuja System §98",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.99",
+      "label": "The Ramanuja System §99",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.100",
+      "label": "The Ramanuja System §100",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.101",
+      "label": "The Ramanuja System §101",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "5.1",
+      "label": "The Purnaprajna System §1",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.2",
+      "label": "The Purnaprajna System §2",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.3",
+      "label": "The Purnaprajna System §3",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.4",
+      "label": "The Purnaprajna System §4",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.5",
+      "label": "The Purnaprajna System §5",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.6",
+      "label": "The Purnaprajna System §6",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.7",
+      "label": "The Purnaprajna System §7",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.8",
+      "label": "The Purnaprajna System §8",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.9",
+      "label": "The Purnaprajna System §9",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.10",
+      "label": "The Purnaprajna System §10",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.11",
+      "label": "The Purnaprajna System §11",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.12",
+      "label": "The Purnaprajna System §12",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.13",
+      "label": "The Purnaprajna System §13",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.14",
+      "label": "The Purnaprajna System §14",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.15",
+      "label": "The Purnaprajna System §15",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.16",
+      "label": "The Purnaprajna System §16",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.17",
+      "label": "The Purnaprajna System §17",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.18",
+      "label": "The Purnaprajna System §18",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.19",
+      "label": "The Purnaprajna System §19",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.20",
+      "label": "The Purnaprajna System §20",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.21",
+      "label": "The Purnaprajna System §21",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.22",
+      "label": "The Purnaprajna System §22",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.23",
+      "label": "The Purnaprajna System §23",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.24",
+      "label": "The Purnaprajna System §24",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.25",
+      "label": "The Purnaprajna System §25",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.26",
+      "label": "The Purnaprajna System §26",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.27",
+      "label": "The Purnaprajna System §27",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.28",
+      "label": "The Purnaprajna System §28",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.29",
+      "label": "The Purnaprajna System §29",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.30",
+      "label": "The Purnaprajna System §30",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.31",
+      "label": "The Purnaprajna System §31",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.32",
+      "label": "The Purnaprajna System §32",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.33",
+      "label": "The Purnaprajna System §33",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.34",
+      "label": "The Purnaprajna System §34",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.35",
+      "label": "The Purnaprajna System §35",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.36",
+      "label": "The Purnaprajna System §36",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.37",
+      "label": "The Purnaprajna System §37",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.38",
+      "label": "The Purnaprajna System §38",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.39",
+      "label": "The Purnaprajna System §39",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.40",
+      "label": "The Purnaprajna System §40",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.41",
+      "label": "The Purnaprajna System §41",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.42",
+      "label": "The Purnaprajna System §42",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.43",
+      "label": "The Purnaprajna System §43",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.44",
+      "label": "The Purnaprajna System §44",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.45",
+      "label": "The Purnaprajna System §45",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.46",
+      "label": "The Purnaprajna System §46",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.47",
+      "label": "The Purnaprajna System §47",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.48",
+      "label": "The Purnaprajna System §48",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.49",
+      "label": "The Purnaprajna System §49",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.50",
+      "label": "The Purnaprajna System §50",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.51",
+      "label": "The Purnaprajna System §51",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.52",
+      "label": "The Purnaprajna System §52",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.53",
+      "label": "The Purnaprajna System §53",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.54",
+      "label": "The Purnaprajna System §54",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.55",
+      "label": "The Purnaprajna System §55",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.56",
+      "label": "The Purnaprajna System §56",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.57",
+      "label": "The Purnaprajna System §57",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.58",
+      "label": "The Purnaprajna System §58",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.59",
+      "label": "The Purnaprajna System §59",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.60",
+      "label": "The Purnaprajna System §60",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.61",
+      "label": "The Purnaprajna System §61",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.62",
+      "label": "The Purnaprajna System §62",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.63",
+      "label": "The Purnaprajna System §63",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.64",
+      "label": "The Purnaprajna System §64",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.65",
+      "label": "The Purnaprajna System §65",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.66",
+      "label": "The Purnaprajna System §66",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.67",
+      "label": "The Purnaprajna System §67",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.68",
+      "label": "The Purnaprajna System §68",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.69",
+      "label": "The Purnaprajna System §69",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.70",
+      "label": "The Purnaprajna System §70",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.71",
+      "label": "The Purnaprajna System §71",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.72",
+      "label": "The Purnaprajna System §72",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.73",
+      "label": "The Purnaprajna System §73",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.74",
+      "label": "The Purnaprajna System §74",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.75",
+      "label": "The Purnaprajna System §75",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.76",
+      "label": "The Purnaprajna System §76",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.77",
+      "label": "The Purnaprajna System §77",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.78",
+      "label": "The Purnaprajna System §78",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.79",
+      "label": "The Purnaprajna System §79",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.80",
+      "label": "The Purnaprajna System §80",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.81",
+      "label": "The Purnaprajna System §81",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.82",
+      "label": "The Purnaprajna System §82",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.83",
+      "label": "The Purnaprajna System §83",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.84",
+      "label": "The Purnaprajna System §84",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.85",
+      "label": "The Purnaprajna System §85",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.86",
+      "label": "The Purnaprajna System §86",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.87",
+      "label": "The Purnaprajna System §87",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.88",
+      "label": "The Purnaprajna System §88",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.89",
+      "label": "The Purnaprajna System §89",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.90",
+      "label": "The Purnaprajna System §90",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.91",
+      "label": "The Purnaprajna System §91",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.92",
+      "label": "The Purnaprajna System §92",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.93",
+      "label": "The Purnaprajna System §93",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.94",
+      "label": "The Purnaprajna System §94",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.95",
+      "label": "The Purnaprajna System §95",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.96",
+      "label": "The Purnaprajna System §96",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.97",
+      "label": "The Purnaprajna System §97",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.98",
+      "label": "The Purnaprajna System §98",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.99",
+      "label": "The Purnaprajna System §99",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.100",
+      "label": "The Purnaprajna System §100",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.101",
+      "label": "The Purnaprajna System §101",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.102",
+      "label": "The Purnaprajna System §102",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.103",
+      "label": "The Purnaprajna System §103",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.104",
+      "label": "The Purnaprajna System §104",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.105",
+      "label": "The Purnaprajna System §105",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.106",
+      "label": "The Purnaprajna System §106",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.107",
+      "label": "The Purnaprajna System §107",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.108",
+      "label": "The Purnaprajna System §108",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.109",
+      "label": "The Purnaprajna System §109",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.110",
+      "label": "The Purnaprajna System §110",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.111",
+      "label": "The Purnaprajna System §111",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.112",
+      "label": "The Purnaprajna System §112",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.113",
+      "label": "The Purnaprajna System §113",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.114",
+      "label": "The Purnaprajna System §114",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.115",
+      "label": "The Purnaprajna System §115",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.116",
+      "label": "The Purnaprajna System §116",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.117",
+      "label": "The Purnaprajna System §117",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.118",
+      "label": "The Purnaprajna System §118",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.119",
+      "label": "The Purnaprajna System §119",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.120",
+      "label": "The Purnaprajna System §120",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.121",
+      "label": "The Purnaprajna System §121",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.122",
+      "label": "The Purnaprajna System §122",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.123",
+      "label": "The Purnaprajna System §123",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.124",
+      "label": "The Purnaprajna System §124",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.125",
+      "label": "The Purnaprajna System §125",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.126",
+      "label": "The Purnaprajna System §126",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.127",
+      "label": "The Purnaprajna System §127",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.128",
+      "label": "The Purnaprajna System §128",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.129",
+      "label": "The Purnaprajna System §129",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.130",
+      "label": "The Purnaprajna System §130",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.131",
+      "label": "The Purnaprajna System §131",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.132",
+      "label": "The Purnaprajna System §132",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.133",
+      "label": "The Purnaprajna System §133",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.134",
+      "label": "The Purnaprajna System §134",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.135",
+      "label": "The Purnaprajna System §135",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.136",
+      "label": "The Purnaprajna System §136",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.137",
+      "label": "The Purnaprajna System §137",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.138",
+      "label": "The Purnaprajna System §138",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.139",
+      "label": "The Purnaprajna System §139",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.140",
+      "label": "The Purnaprajna System §140",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.141",
+      "label": "The Purnaprajna System §141",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.142",
+      "label": "The Purnaprajna System §142",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.143",
+      "label": "The Purnaprajna System §143",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.144",
+      "label": "The Purnaprajna System §144",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "6.1",
+      "label": "The Pashupata System §1",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.2",
+      "label": "The Pashupata System §2",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.3",
+      "label": "The Pashupata System §3",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.4",
+      "label": "The Pashupata System §4",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.5",
+      "label": "The Pashupata System §5",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.6",
+      "label": "The Pashupata System §6",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.7",
+      "label": "The Pashupata System §7",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.8",
+      "label": "The Pashupata System §8",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.9",
+      "label": "The Pashupata System §9",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.10",
+      "label": "The Pashupata System §10",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.11",
+      "label": "The Pashupata System §11",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.12",
+      "label": "The Pashupata System §12",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.13",
+      "label": "The Pashupata System §13",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.14",
+      "label": "The Pashupata System §14",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.15",
+      "label": "The Pashupata System §15",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.16",
+      "label": "The Pashupata System §16",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.17",
+      "label": "The Pashupata System §17",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.18",
+      "label": "The Pashupata System §18",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.19",
+      "label": "The Pashupata System §19",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.20",
+      "label": "The Pashupata System §20",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.21",
+      "label": "The Pashupata System §21",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.22",
+      "label": "The Pashupata System §22",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.23",
+      "label": "The Pashupata System §23",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.24",
+      "label": "The Pashupata System §24",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.25",
+      "label": "The Pashupata System §25",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.26",
+      "label": "The Pashupata System §26",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.27",
+      "label": "The Pashupata System §27",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.28",
+      "label": "The Pashupata System §28",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.29",
+      "label": "The Pashupata System §29",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.30",
+      "label": "The Pashupata System §30",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.31",
+      "label": "The Pashupata System §31",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.32",
+      "label": "The Pashupata System §32",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.33",
+      "label": "The Pashupata System §33",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.34",
+      "label": "The Pashupata System §34",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.35",
+      "label": "The Pashupata System §35",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.36",
+      "label": "The Pashupata System §36",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.37",
+      "label": "The Pashupata System §37",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.38",
+      "label": "The Pashupata System §38",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.39",
+      "label": "The Pashupata System §39",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.40",
+      "label": "The Pashupata System §40",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.41",
+      "label": "The Pashupata System §41",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.42",
+      "label": "The Pashupata System §42",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.43",
+      "label": "The Pashupata System §43",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.44",
+      "label": "The Pashupata System §44",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.45",
+      "label": "The Pashupata System §45",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.46",
+      "label": "The Pashupata System §46",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.47",
+      "label": "The Pashupata System §47",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.48",
+      "label": "The Pashupata System §48",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.49",
+      "label": "The Pashupata System §49",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.50",
+      "label": "The Pashupata System §50",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.51",
+      "label": "The Pashupata System §51",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "7.1",
+      "label": "The Shaiva System §1",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.2",
+      "label": "The Shaiva System §2",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.3",
+      "label": "The Shaiva System §3",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.4",
+      "label": "The Shaiva System §4",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.5",
+      "label": "The Shaiva System §5",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.6",
+      "label": "The Shaiva System §6",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.7",
+      "label": "The Shaiva System §7",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.8",
+      "label": "The Shaiva System §8",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.9",
+      "label": "The Shaiva System §9",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.10",
+      "label": "The Shaiva System §10",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.11",
+      "label": "The Shaiva System §11",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.12",
+      "label": "The Shaiva System §12",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.13",
+      "label": "The Shaiva System §13",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.14",
+      "label": "The Shaiva System §14",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.15",
+      "label": "The Shaiva System §15",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.16",
+      "label": "The Shaiva System §16",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.17",
+      "label": "The Shaiva System §17",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.18",
+      "label": "The Shaiva System §18",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.19",
+      "label": "The Shaiva System §19",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.20",
+      "label": "The Shaiva System §20",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.21",
+      "label": "The Shaiva System §21",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.22",
+      "label": "The Shaiva System §22",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.23",
+      "label": "The Shaiva System §23",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.24",
+      "label": "The Shaiva System §24",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.25",
+      "label": "The Shaiva System §25",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.26",
+      "label": "The Shaiva System §26",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.27",
+      "label": "The Shaiva System §27",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.28",
+      "label": "The Shaiva System §28",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.29",
+      "label": "The Shaiva System §29",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.30",
+      "label": "The Shaiva System §30",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.31",
+      "label": "The Shaiva System §31",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.32",
+      "label": "The Shaiva System §32",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.33",
+      "label": "The Shaiva System §33",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.34",
+      "label": "The Shaiva System §34",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.35",
+      "label": "The Shaiva System §35",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.36",
+      "label": "The Shaiva System §36",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.37",
+      "label": "The Shaiva System §37",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.38",
+      "label": "The Shaiva System §38",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.39",
+      "label": "The Shaiva System §39",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.40",
+      "label": "The Shaiva System §40",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.41",
+      "label": "The Shaiva System §41",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.42",
+      "label": "The Shaiva System §42",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.43",
+      "label": "The Shaiva System §43",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.44",
+      "label": "The Shaiva System §44",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.45",
+      "label": "The Shaiva System §45",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.46",
+      "label": "The Shaiva System §46",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.47",
+      "label": "The Shaiva System §47",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.48",
+      "label": "The Shaiva System §48",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.49",
+      "label": "The Shaiva System §49",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.50",
+      "label": "The Shaiva System §50",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.51",
+      "label": "The Shaiva System §51",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.52",
+      "label": "The Shaiva System §52",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.53",
+      "label": "The Shaiva System §53",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.54",
+      "label": "The Shaiva System §54",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.55",
+      "label": "The Shaiva System §55",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.56",
+      "label": "The Shaiva System §56",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.57",
+      "label": "The Shaiva System §57",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.58",
+      "label": "The Shaiva System §58",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.59",
+      "label": "The Shaiva System §59",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.60",
+      "label": "The Shaiva System §60",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.61",
+      "label": "The Shaiva System §61",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.62",
+      "label": "The Shaiva System §62",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.63",
+      "label": "The Shaiva System §63",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.64",
+      "label": "The Shaiva System §64",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.65",
+      "label": "The Shaiva System §65",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.66",
+      "label": "The Shaiva System §66",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.67",
+      "label": "The Shaiva System §67",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.68",
+      "label": "The Shaiva System §68",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.69",
+      "label": "The Shaiva System §69",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.70",
+      "label": "The Shaiva System §70",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.71",
+      "label": "The Shaiva System §71",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.72",
+      "label": "The Shaiva System §72",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.73",
+      "label": "The Shaiva System §73",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.74",
+      "label": "The Shaiva System §74",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.75",
+      "label": "The Shaiva System §75",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.76",
+      "label": "The Shaiva System §76",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.77",
+      "label": "The Shaiva System §77",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.78",
+      "label": "The Shaiva System §78",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.79",
+      "label": "The Shaiva System §79",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.80",
+      "label": "The Shaiva System §80",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.81",
+      "label": "The Shaiva System §81",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.82",
+      "label": "The Shaiva System §82",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.83",
+      "label": "The Shaiva System §83",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.84",
+      "label": "The Shaiva System §84",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.85",
+      "label": "The Shaiva System §85",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.86",
+      "label": "The Shaiva System §86",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.87",
+      "label": "The Shaiva System §87",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.88",
+      "label": "The Shaiva System §88",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.89",
+      "label": "The Shaiva System §89",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.90",
+      "label": "The Shaiva System §90",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.91",
+      "label": "The Shaiva System §91",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.92",
+      "label": "The Shaiva System §92",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.93",
+      "label": "The Shaiva System §93",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.94",
+      "label": "The Shaiva System §94",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.95",
+      "label": "The Shaiva System §95",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.96",
+      "label": "The Shaiva System §96",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.97",
+      "label": "The Shaiva System §97",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.98",
+      "label": "The Shaiva System §98",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.99",
+      "label": "The Shaiva System §99",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.100",
+      "label": "The Shaiva System §100",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.101",
+      "label": "The Shaiva System §101",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.102",
+      "label": "The Shaiva System §102",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.103",
+      "label": "The Shaiva System §103",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.104",
+      "label": "The Shaiva System §104",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.105",
+      "label": "The Shaiva System §105",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.106",
+      "label": "The Shaiva System §106",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.107",
+      "label": "The Shaiva System §107",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.108",
+      "label": "The Shaiva System §108",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.109",
+      "label": "The Shaiva System §109",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.110",
+      "label": "The Shaiva System §110",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.111",
+      "label": "The Shaiva System §111",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.112",
+      "label": "The Shaiva System §112",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.113",
+      "label": "The Shaiva System §113",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.114",
+      "label": "The Shaiva System §114",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.115",
+      "label": "The Shaiva System §115",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "8.1",
+      "label": "The Pratyabhijna System §1",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.2",
+      "label": "The Pratyabhijna System §2",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.3",
+      "label": "The Pratyabhijna System §3",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.4",
+      "label": "The Pratyabhijna System §4",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.5",
+      "label": "The Pratyabhijna System §5",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.6",
+      "label": "The Pratyabhijna System §6",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.7",
+      "label": "The Pratyabhijna System §7",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.8",
+      "label": "The Pratyabhijna System §8",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.9",
+      "label": "The Pratyabhijna System §9",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.10",
+      "label": "The Pratyabhijna System §10",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.11",
+      "label": "The Pratyabhijna System §11",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.12",
+      "label": "The Pratyabhijna System §12",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.13",
+      "label": "The Pratyabhijna System §13",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.14",
+      "label": "The Pratyabhijna System §14",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.15",
+      "label": "The Pratyabhijna System §15",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.16",
+      "label": "The Pratyabhijna System §16",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.17",
+      "label": "The Pratyabhijna System §17",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.18",
+      "label": "The Pratyabhijna System §18",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.19",
+      "label": "The Pratyabhijna System §19",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.20",
+      "label": "The Pratyabhijna System §20",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.21",
+      "label": "The Pratyabhijna System §21",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.22",
+      "label": "The Pratyabhijna System §22",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.23",
+      "label": "The Pratyabhijna System §23",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.24",
+      "label": "The Pratyabhijna System §24",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.25",
+      "label": "The Pratyabhijna System §25",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.26",
+      "label": "The Pratyabhijna System §26",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.27",
+      "label": "The Pratyabhijna System §27",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.28",
+      "label": "The Pratyabhijna System §28",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.29",
+      "label": "The Pratyabhijna System §29",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.30",
+      "label": "The Pratyabhijna System §30",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.31",
+      "label": "The Pratyabhijna System §31",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.32",
+      "label": "The Pratyabhijna System §32",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.33",
+      "label": "The Pratyabhijna System §33",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.34",
+      "label": "The Pratyabhijna System §34",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.35",
+      "label": "The Pratyabhijna System §35",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.36",
+      "label": "The Pratyabhijna System §36",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.37",
+      "label": "The Pratyabhijna System §37",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.38",
+      "label": "The Pratyabhijna System §38",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.39",
+      "label": "The Pratyabhijna System §39",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.40",
+      "label": "The Pratyabhijna System §40",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.41",
+      "label": "The Pratyabhijna System §41",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.42",
+      "label": "The Pratyabhijna System §42",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.43",
+      "label": "The Pratyabhijna System §43",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.44",
+      "label": "The Pratyabhijna System §44",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.45",
+      "label": "The Pratyabhijna System §45",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.46",
+      "label": "The Pratyabhijna System §46",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.47",
+      "label": "The Pratyabhijna System §47",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.48",
+      "label": "The Pratyabhijna System §48",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.49",
+      "label": "The Pratyabhijna System §49",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.50",
+      "label": "The Pratyabhijna System §50",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.51",
+      "label": "The Pratyabhijna System §51",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.52",
+      "label": "The Pratyabhijna System §52",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.53",
+      "label": "The Pratyabhijna System §53",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.54",
+      "label": "The Pratyabhijna System §54",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.55",
+      "label": "The Pratyabhijna System §55",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.56",
+      "label": "The Pratyabhijna System §56",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.57",
+      "label": "The Pratyabhijna System §57",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.58",
+      "label": "The Pratyabhijna System §58",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.59",
+      "label": "The Pratyabhijna System §59",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.60",
+      "label": "The Pratyabhijna System §60",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.61",
+      "label": "The Pratyabhijna System §61",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "9.1",
+      "label": "The Raseshvara System §1",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.2",
+      "label": "The Raseshvara System §2",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.3",
+      "label": "The Raseshvara System §3",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.4",
+      "label": "The Raseshvara System §4",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.5",
+      "label": "The Raseshvara System §5",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.6",
+      "label": "The Raseshvara System §6",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.7",
+      "label": "The Raseshvara System §7",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.8",
+      "label": "The Raseshvara System §8",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.9",
+      "label": "The Raseshvara System §9",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.10",
+      "label": "The Raseshvara System §10",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.11",
+      "label": "The Raseshvara System §11",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.12",
+      "label": "The Raseshvara System §12",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.13",
+      "label": "The Raseshvara System §13",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.14",
+      "label": "The Raseshvara System §14",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.15",
+      "label": "The Raseshvara System §15",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.16",
+      "label": "The Raseshvara System §16",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.17",
+      "label": "The Raseshvara System §17",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.18",
+      "label": "The Raseshvara System §18",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.19",
+      "label": "The Raseshvara System §19",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.20",
+      "label": "The Raseshvara System §20",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.21",
+      "label": "The Raseshvara System §21",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.22",
+      "label": "The Raseshvara System §22",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.23",
+      "label": "The Raseshvara System §23",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.24",
+      "label": "The Raseshvara System §24",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.25",
+      "label": "The Raseshvara System §25",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.26",
+      "label": "The Raseshvara System §26",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.27",
+      "label": "The Raseshvara System §27",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.28",
+      "label": "The Raseshvara System §28",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.29",
+      "label": "The Raseshvara System §29",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.30",
+      "label": "The Raseshvara System §30",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.31",
+      "label": "The Raseshvara System §31",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.32",
+      "label": "The Raseshvara System §32",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.33",
+      "label": "The Raseshvara System §33",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.34",
+      "label": "The Raseshvara System §34",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.35",
+      "label": "The Raseshvara System §35",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.36",
+      "label": "The Raseshvara System §36",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.37",
+      "label": "The Raseshvara System §37",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.38",
+      "label": "The Raseshvara System §38",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.39",
+      "label": "The Raseshvara System §39",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.40",
+      "label": "The Raseshvara System §40",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.41",
+      "label": "The Raseshvara System §41",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.42",
+      "label": "The Raseshvara System §42",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.43",
+      "label": "The Raseshvara System §43",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.44",
+      "label": "The Raseshvara System §44",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.45",
+      "label": "The Raseshvara System §45",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.46",
+      "label": "The Raseshvara System §46",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.47",
+      "label": "The Raseshvara System §47",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.48",
+      "label": "The Raseshvara System §48",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.49",
+      "label": "The Raseshvara System §49",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.50",
+      "label": "The Raseshvara System §50",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.51",
+      "label": "The Raseshvara System §51",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.52",
+      "label": "The Raseshvara System §52",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.53",
+      "label": "The Raseshvara System §53",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.54",
+      "label": "The Raseshvara System §54",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.55",
+      "label": "The Raseshvara System §55",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.56",
+      "label": "The Raseshvara System §56",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.57",
+      "label": "The Raseshvara System §57",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.58",
+      "label": "The Raseshvara System §58",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.59",
+      "label": "The Raseshvara System §59",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.60",
+      "label": "The Raseshvara System §60",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.61",
+      "label": "The Raseshvara System §61",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.62",
+      "label": "The Raseshvara System §62",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.63",
+      "label": "The Raseshvara System §63",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.64",
+      "label": "The Raseshvara System §64",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.65",
+      "label": "The Raseshvara System §65",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.66",
+      "label": "The Raseshvara System §66",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.67",
+      "label": "The Raseshvara System §67",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.68",
+      "label": "The Raseshvara System §68",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.69",
+      "label": "The Raseshvara System §69",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.70",
+      "label": "The Raseshvara System §70",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.71",
+      "label": "The Raseshvara System §71",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.72",
+      "label": "The Raseshvara System §72",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.73",
+      "label": "The Raseshvara System §73",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.74",
+      "label": "The Raseshvara System §74",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.75",
+      "label": "The Raseshvara System §75",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.76",
+      "label": "The Raseshvara System §76",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.77",
+      "label": "The Raseshvara System §77",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.78",
+      "label": "The Raseshvara System §78",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.79",
+      "label": "The Raseshvara System §79",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.80",
+      "label": "The Raseshvara System §80",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.81",
+      "label": "The Raseshvara System §81",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.82",
+      "label": "The Raseshvara System §82",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.83",
+      "label": "The Raseshvara System §83",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.84",
+      "label": "The Raseshvara System §84",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.85",
+      "label": "The Raseshvara System §85",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.86",
+      "label": "The Raseshvara System §86",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.87",
+      "label": "The Raseshvara System §87",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.88",
+      "label": "The Raseshvara System §88",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.89",
+      "label": "The Raseshvara System §89",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.90",
+      "label": "The Raseshvara System §90",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.91",
+      "label": "The Raseshvara System §91",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.92",
+      "label": "The Raseshvara System §92",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.93",
+      "label": "The Raseshvara System §93",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.94",
+      "label": "The Raseshvara System §94",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.95",
+      "label": "The Raseshvara System §95",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "10.1",
+      "label": "The Vaisheshika System §1",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.2",
+      "label": "The Vaisheshika System §2",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.3",
+      "label": "The Vaisheshika System §3",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.4",
+      "label": "The Vaisheshika System §4",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.5",
+      "label": "The Vaisheshika System §5",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.6",
+      "label": "The Vaisheshika System §6",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.7",
+      "label": "The Vaisheshika System §7",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.8",
+      "label": "The Vaisheshika System §8",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.9",
+      "label": "The Vaisheshika System §9",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.10",
+      "label": "The Vaisheshika System §10",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.11",
+      "label": "The Vaisheshika System §11",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.12",
+      "label": "The Vaisheshika System §12",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.13",
+      "label": "The Vaisheshika System §13",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.14",
+      "label": "The Vaisheshika System §14",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.15",
+      "label": "The Vaisheshika System §15",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.16",
+      "label": "The Vaisheshika System §16",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.17",
+      "label": "The Vaisheshika System §17",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.18",
+      "label": "The Vaisheshika System §18",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.19",
+      "label": "The Vaisheshika System §19",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.20",
+      "label": "The Vaisheshika System §20",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.21",
+      "label": "The Vaisheshika System §21",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.22",
+      "label": "The Vaisheshika System §22",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.23",
+      "label": "The Vaisheshika System §23",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.24",
+      "label": "The Vaisheshika System §24",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.25",
+      "label": "The Vaisheshika System §25",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.26",
+      "label": "The Vaisheshika System §26",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.27",
+      "label": "The Vaisheshika System §27",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.28",
+      "label": "The Vaisheshika System §28",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.29",
+      "label": "The Vaisheshika System §29",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.30",
+      "label": "The Vaisheshika System §30",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.31",
+      "label": "The Vaisheshika System §31",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.32",
+      "label": "The Vaisheshika System §32",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.33",
+      "label": "The Vaisheshika System §33",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.34",
+      "label": "The Vaisheshika System §34",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "11.1",
+      "label": "The Nyaya System §1",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.2",
+      "label": "The Nyaya System §2",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.3",
+      "label": "The Nyaya System §3",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.4",
+      "label": "The Nyaya System §4",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.5",
+      "label": "The Nyaya System §5",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.6",
+      "label": "The Nyaya System §6",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.7",
+      "label": "The Nyaya System §7",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.8",
+      "label": "The Nyaya System §8",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.9",
+      "label": "The Nyaya System §9",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.10",
+      "label": "The Nyaya System §10",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.11",
+      "label": "The Nyaya System §11",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.12",
+      "label": "The Nyaya System §12",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.13",
+      "label": "The Nyaya System §13",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.14",
+      "label": "The Nyaya System §14",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.15",
+      "label": "The Nyaya System §15",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.16",
+      "label": "The Nyaya System §16",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.17",
+      "label": "The Nyaya System §17",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.18",
+      "label": "The Nyaya System §18",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.19",
+      "label": "The Nyaya System §19",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.20",
+      "label": "The Nyaya System §20",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.21",
+      "label": "The Nyaya System §21",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.22",
+      "label": "The Nyaya System §22",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.23",
+      "label": "The Nyaya System §23",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.24",
+      "label": "The Nyaya System §24",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.25",
+      "label": "The Nyaya System §25",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.26",
+      "label": "The Nyaya System §26",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.27",
+      "label": "The Nyaya System §27",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.28",
+      "label": "The Nyaya System §28",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.29",
+      "label": "The Nyaya System §29",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.30",
+      "label": "The Nyaya System §30",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.31",
+      "label": "The Nyaya System §31",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.32",
+      "label": "The Nyaya System §32",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.33",
+      "label": "The Nyaya System §33",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.34",
+      "label": "The Nyaya System §34",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.35",
+      "label": "The Nyaya System §35",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "12.1",
+      "label": "The Mimamsa System §1",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.2",
+      "label": "The Mimamsa System §2",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.3",
+      "label": "The Mimamsa System §3",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.4",
+      "label": "The Mimamsa System §4",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.5",
+      "label": "The Mimamsa System §5",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.6",
+      "label": "The Mimamsa System §6",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.7",
+      "label": "The Mimamsa System §7",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.8",
+      "label": "The Mimamsa System §8",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.9",
+      "label": "The Mimamsa System §9",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.10",
+      "label": "The Mimamsa System §10",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.11",
+      "label": "The Mimamsa System §11",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.12",
+      "label": "The Mimamsa System §12",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.13",
+      "label": "The Mimamsa System §13",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.14",
+      "label": "The Mimamsa System §14",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.15",
+      "label": "The Mimamsa System §15",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.16",
+      "label": "The Mimamsa System §16",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.17",
+      "label": "The Mimamsa System §17",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.18",
+      "label": "The Mimamsa System §18",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.19",
+      "label": "The Mimamsa System §19",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.20",
+      "label": "The Mimamsa System §20",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.21",
+      "label": "The Mimamsa System §21",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.22",
+      "label": "The Mimamsa System §22",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.23",
+      "label": "The Mimamsa System §23",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.24",
+      "label": "The Mimamsa System §24",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.25",
+      "label": "The Mimamsa System §25",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.26",
+      "label": "The Mimamsa System §26",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.27",
+      "label": "The Mimamsa System §27",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.28",
+      "label": "The Mimamsa System §28",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.29",
+      "label": "The Mimamsa System §29",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.30",
+      "label": "The Mimamsa System §30",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.31",
+      "label": "The Mimamsa System §31",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.32",
+      "label": "The Mimamsa System §32",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.33",
+      "label": "The Mimamsa System §33",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.34",
+      "label": "The Mimamsa System §34",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.35",
+      "label": "The Mimamsa System §35",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.36",
+      "label": "The Mimamsa System §36",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.37",
+      "label": "The Mimamsa System §37",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.38",
+      "label": "The Mimamsa System §38",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.39",
+      "label": "The Mimamsa System §39",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.40",
+      "label": "The Mimamsa System §40",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.41",
+      "label": "The Mimamsa System §41",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.42",
+      "label": "The Mimamsa System §42",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.43",
+      "label": "The Mimamsa System §43",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.44",
+      "label": "The Mimamsa System §44",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "13.1",
+      "label": "The Sankhya System §1",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.2",
+      "label": "The Sankhya System §2",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.3",
+      "label": "The Sankhya System §3",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.4",
+      "label": "The Sankhya System §4",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.5",
+      "label": "The Sankhya System §5",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.6",
+      "label": "The Sankhya System §6",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.7",
+      "label": "The Sankhya System §7",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.8",
+      "label": "The Sankhya System §8",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.9",
+      "label": "The Sankhya System §9",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.10",
+      "label": "The Sankhya System §10",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.11",
+      "label": "The Sankhya System §11",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.12",
+      "label": "The Sankhya System §12",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.13",
+      "label": "The Sankhya System §13",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.14",
+      "label": "The Sankhya System §14",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.15",
+      "label": "The Sankhya System §15",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.16",
+      "label": "The Sankhya System §16",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.17",
+      "label": "The Sankhya System §17",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.18",
+      "label": "The Sankhya System §18",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.19",
+      "label": "The Sankhya System §19",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.20",
+      "label": "The Sankhya System §20",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.21",
+      "label": "The Sankhya System §21",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.22",
+      "label": "The Sankhya System §22",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.23",
+      "label": "The Sankhya System §23",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.24",
+      "label": "The Sankhya System §24",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.25",
+      "label": "The Sankhya System §25",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.26",
+      "label": "The Sankhya System §26",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.27",
+      "label": "The Sankhya System §27",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.28",
+      "label": "The Sankhya System §28",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.29",
+      "label": "The Sankhya System §29",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.30",
+      "label": "The Sankhya System §30",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.31",
+      "label": "The Sankhya System §31",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.32",
+      "label": "The Sankhya System §32",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.33",
+      "label": "The Sankhya System §33",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.34",
+      "label": "The Sankhya System §34",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.35",
+      "label": "The Sankhya System §35",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.36",
+      "label": "The Sankhya System §36",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.37",
+      "label": "The Sankhya System §37",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.38",
+      "label": "The Sankhya System §38",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.39",
+      "label": "The Sankhya System §39",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.40",
+      "label": "The Sankhya System §40",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.41",
+      "label": "The Sankhya System §41",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.42",
+      "label": "The Sankhya System §42",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.43",
+      "label": "The Sankhya System §43",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.44",
+      "label": "The Sankhya System §44",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.45",
+      "label": "The Sankhya System §45",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.46",
+      "label": "The Sankhya System §46",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.47",
+      "label": "The Sankhya System §47",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.48",
+      "label": "The Sankhya System §48",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.49",
+      "label": "The Sankhya System §49",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.50",
+      "label": "The Sankhya System §50",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.51",
+      "label": "The Sankhya System §51",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.52",
+      "label": "The Sankhya System §52",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.53",
+      "label": "The Sankhya System §53",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.54",
+      "label": "The Sankhya System §54",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.55",
+      "label": "The Sankhya System §55",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.56",
+      "label": "The Sankhya System §56",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.57",
+      "label": "The Sankhya System §57",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.58",
+      "label": "The Sankhya System §58",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.59",
+      "label": "The Sankhya System §59",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.60",
+      "label": "The Sankhya System §60",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.61",
+      "label": "The Sankhya System §61",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.62",
+      "label": "The Sankhya System §62",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.63",
+      "label": "The Sankhya System §63",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.64",
+      "label": "The Sankhya System §64",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.65",
+      "label": "The Sankhya System §65",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "14.1",
+      "label": "The Patanjala System §1",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.2",
+      "label": "The Patanjala System §2",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.3",
+      "label": "The Patanjala System §3",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.4",
+      "label": "The Patanjala System §4",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.5",
+      "label": "The Patanjala System §5",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.6",
+      "label": "The Patanjala System §6",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.7",
+      "label": "The Patanjala System §7",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.8",
+      "label": "The Patanjala System §8",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.9",
+      "label": "The Patanjala System §9",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.10",
+      "label": "The Patanjala System §10",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.11",
+      "label": "The Patanjala System §11",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.12",
+      "label": "The Patanjala System §12",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.13",
+      "label": "The Patanjala System §13",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.14",
+      "label": "The Patanjala System §14",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.15",
+      "label": "The Patanjala System §15",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.16",
+      "label": "The Patanjala System §16",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.17",
+      "label": "The Patanjala System §17",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.18",
+      "label": "The Patanjala System §18",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.19",
+      "label": "The Patanjala System §19",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.20",
+      "label": "The Patanjala System §20",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.21",
+      "label": "The Patanjala System §21",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.22",
+      "label": "The Patanjala System §22",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.23",
+      "label": "The Patanjala System §23",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.24",
+      "label": "The Patanjala System §24",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.25",
+      "label": "The Patanjala System §25",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "15.1",
+      "label": "The Vedanta System §1",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.2",
+      "label": "The Vedanta System §2",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.3",
+      "label": "The Vedanta System §3",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.4",
+      "label": "The Vedanta System §4",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.5",
+      "label": "The Vedanta System §5",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.6",
+      "label": "The Vedanta System §6",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.7",
+      "label": "The Vedanta System §7",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.8",
+      "label": "The Vedanta System §8",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.9",
+      "label": "The Vedanta System §9",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.10",
+      "label": "The Vedanta System §10",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.11",
+      "label": "The Vedanta System §11",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.12",
+      "label": "The Vedanta System §12",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.13",
+      "label": "The Vedanta System §13",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.14",
+      "label": "The Vedanta System §14",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.15",
+      "label": "The Vedanta System §15",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.16",
+      "label": "The Vedanta System §16",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.17",
+      "label": "The Vedanta System §17",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.18",
+      "label": "The Vedanta System §18",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.19",
+      "label": "The Vedanta System §19",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.20",
+      "label": "The Vedanta System §20",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.21",
+      "label": "The Vedanta System §21",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.22",
+      "label": "The Vedanta System §22",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.23",
+      "label": "The Vedanta System §23",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.24",
+      "label": "The Vedanta System §24",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.25",
+      "label": "The Vedanta System §25",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.26",
+      "label": "The Vedanta System §26",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.27",
+      "label": "The Vedanta System §27",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.28",
+      "label": "The Vedanta System §28",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.29",
+      "label": "The Vedanta System §29",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.30",
+      "label": "The Vedanta System §30",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.31",
+      "label": "The Vedanta System §31",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.32",
+      "label": "The Vedanta System §32",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.33",
+      "label": "The Vedanta System §33",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.34",
+      "label": "The Vedanta System §34",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.35",
+      "label": "The Vedanta System §35",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.36",
+      "label": "The Vedanta System §36",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.37",
+      "label": "The Vedanta System §37",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.38",
+      "label": "The Vedanta System §38",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.39",
+      "label": "The Vedanta System §39",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.40",
+      "label": "The Vedanta System §40",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.41",
+      "label": "The Vedanta System §41",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.42",
+      "label": "The Vedanta System §42",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.43",
+      "label": "The Vedanta System §43",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.44",
+      "label": "The Vedanta System §44",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.45",
+      "label": "The Vedanta System §45",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.46",
+      "label": "The Vedanta System §46",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.47",
+      "label": "The Vedanta System §47",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.48",
+      "label": "The Vedanta System §48",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.49",
+      "label": "The Vedanta System §49",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.50",
+      "label": "The Vedanta System §50",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.51",
+      "label": "The Vedanta System §51",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.52",
+      "label": "The Vedanta System §52",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.53",
+      "label": "The Vedanta System §53",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.54",
+      "label": "The Vedanta System §54",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.55",
+      "label": "The Vedanta System §55",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.56",
+      "label": "The Vedanta System §56",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.57",
+      "label": "The Vedanta System §57",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.58",
+      "label": "The Vedanta System §58",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.59",
+      "label": "The Vedanta System §59",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.60",
+      "label": "The Vedanta System §60",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.61",
+      "label": "The Vedanta System §61",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.62",
+      "label": "The Vedanta System §62",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.63",
+      "label": "The Vedanta System §63",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.64",
+      "label": "The Vedanta System §64",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.65",
+      "label": "The Vedanta System §65",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.66",
+      "label": "The Vedanta System §66",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.67",
+      "label": "The Vedanta System §67",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.68",
+      "label": "The Vedanta System §68",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.69",
+      "label": "The Vedanta System §69",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.70",
+      "label": "The Vedanta System §70",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.71",
+      "label": "The Vedanta System §71",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.72",
+      "label": "The Vedanta System §72",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.73",
+      "label": "The Vedanta System §73",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.74",
+      "label": "The Vedanta System §74",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.75",
+      "label": "The Vedanta System §75",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.76",
+      "label": "The Vedanta System §76",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.77",
+      "label": "The Vedanta System §77",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.78",
+      "label": "The Vedanta System §78",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.79",
+      "label": "The Vedanta System §79",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.80",
+      "label": "The Vedanta System §80",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.81",
+      "label": "The Vedanta System §81",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.82",
+      "label": "The Vedanta System §82",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.83",
+      "label": "The Vedanta System §83",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.84",
+      "label": "The Vedanta System §84",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.85",
+      "label": "The Vedanta System §85",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.86",
+      "label": "The Vedanta System §86",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.87",
+      "label": "The Vedanta System §87",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.88",
+      "label": "The Vedanta System §88",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.89",
+      "label": "The Vedanta System §89",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.90",
+      "label": "The Vedanta System §90",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.91",
+      "label": "The Vedanta System §91",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.92",
+      "label": "The Vedanta System §92",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.93",
+      "label": "The Vedanta System §93",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.94",
+      "label": "The Vedanta System §94",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.95",
+      "label": "The Vedanta System §95",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.96",
+      "label": "The Vedanta System §96",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.97",
+      "label": "The Vedanta System §97",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.98",
+      "label": "The Vedanta System §98",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.99",
+      "label": "The Vedanta System §99",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.100",
+      "label": "The Vedanta System §100",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.101",
+      "label": "The Vedanta System §101",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.102",
+      "label": "The Vedanta System §102",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.103",
+      "label": "The Vedanta System §103",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.104",
+      "label": "The Vedanta System §104",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.105",
+      "label": "The Vedanta System §105",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.106",
+      "label": "The Vedanta System §106",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.107",
+      "label": "The Vedanta System §107",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.108",
+      "label": "The Vedanta System §108",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.109",
+      "label": "The Vedanta System §109",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.110",
+      "label": "The Vedanta System §110",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.111",
+      "label": "The Vedanta System §111",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.112",
+      "label": "The Vedanta System §112",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.113",
+      "label": "The Vedanta System §113",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.114",
+      "label": "The Vedanta System §114",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.115",
+      "label": "The Vedanta System §115",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.116",
+      "label": "The Vedanta System §116",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.117",
+      "label": "The Vedanta System §117",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.118",
+      "label": "The Vedanta System §118",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.119",
+      "label": "The Vedanta System §119",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.120",
+      "label": "The Vedanta System §120",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.121",
+      "label": "The Vedanta System §121",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.122",
+      "label": "The Vedanta System §122",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.123",
+      "label": "The Vedanta System §123",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.124",
+      "label": "The Vedanta System §124",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.125",
+      "label": "The Vedanta System §125",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.126",
+      "label": "The Vedanta System §126",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.127",
+      "label": "The Vedanta System §127",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.128",
+      "label": "The Vedanta System §128",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.129",
+      "label": "The Vedanta System §129",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.130",
+      "label": "The Vedanta System §130",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.131",
+      "label": "The Vedanta System §131",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.132",
+      "label": "The Vedanta System §132",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.133",
+      "label": "The Vedanta System §133",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.134",
+      "label": "The Vedanta System §134",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.135",
+      "label": "The Vedanta System §135",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.136",
+      "label": "The Vedanta System §136",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.137",
+      "label": "The Vedanta System §137",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.138",
+      "label": "The Vedanta System §138",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.139",
+      "label": "The Vedanta System §139",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.140",
+      "label": "The Vedanta System §140",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.141",
+      "label": "The Vedanta System §141",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.142",
+      "label": "The Vedanta System §142",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.143",
+      "label": "The Vedanta System §143",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.144",
+      "label": "The Vedanta System §144",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.145",
+      "label": "The Vedanta System §145",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.146",
+      "label": "The Vedanta System §146",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.147",
+      "label": "The Vedanta System §147",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.148",
+      "label": "The Vedanta System §148",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.149",
+      "label": "The Vedanta System §149",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.150",
+      "label": "The Vedanta System §150",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.151",
+      "label": "The Vedanta System §151",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.152",
+      "label": "The Vedanta System §152",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.153",
+      "label": "The Vedanta System §153",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.154",
+      "label": "The Vedanta System §154",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.155",
+      "label": "The Vedanta System §155",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.156",
+      "label": "The Vedanta System §156",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.157",
+      "label": "The Vedanta System §157",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.158",
+      "label": "The Vedanta System §158",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.159",
+      "label": "The Vedanta System §159",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.160",
+      "label": "The Vedanta System §160",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.161",
+      "label": "The Vedanta System §161",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.162",
+      "label": "The Vedanta System §162",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.163",
+      "label": "The Vedanta System §163",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.164",
+      "label": "The Vedanta System §164",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.165",
+      "label": "The Vedanta System §165",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.166",
+      "label": "The Vedanta System §166",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.167",
+      "label": "The Vedanta System §167",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.168",
+      "label": "The Vedanta System §168",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.169",
+      "label": "The Vedanta System §169",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.170",
+      "label": "The Vedanta System §170",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.171",
+      "label": "The Vedanta System §171",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.172",
+      "label": "The Vedanta System §172",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.173",
+      "label": "The Vedanta System §173",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.174",
+      "label": "The Vedanta System §174",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.175",
+      "label": "The Vedanta System §175",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.176",
+      "label": "The Vedanta System §176",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.177",
+      "label": "The Vedanta System §177",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.178",
+      "label": "The Vedanta System §178",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.179",
+      "label": "The Vedanta System §179",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.180",
+      "label": "The Vedanta System §180",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.181",
+      "label": "The Vedanta System §181",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.182",
+      "label": "The Vedanta System §182",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.183",
+      "label": "The Vedanta System §183",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.184",
+      "label": "The Vedanta System §184",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.185",
+      "label": "The Vedanta System §185",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.186",
+      "label": "The Vedanta System §186",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.187",
+      "label": "The Vedanta System §187",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.188",
+      "label": "The Vedanta System §188",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.189",
+      "label": "The Vedanta System §189",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.190",
+      "label": "The Vedanta System §190",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.191",
+      "label": "The Vedanta System §191",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.192",
+      "label": "The Vedanta System §192",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.193",
+      "label": "The Vedanta System §193",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.194",
+      "label": "The Vedanta System §194",
+      "chapterRef": "15"
+    }
+  ],
+  "editions": [
+    {
+      "slug": "madhava-sarva-darsana-samgraha-en",
+      "language": "en",
+      "editionType": "translation",
+      "title": "Sarva-Darsana-Samgraha, or Review of the Different Systems of Hindu Philosophy",
+      "translator": "E. B. Cowell and A. E. Gough",
+      "publisher": "Project Gutenberg",
+      "publicationYear": 1882,
+      "source": "project-gutenberg",
+      "license": "public-domain",
+      "rightsStatus": "Public domain in the United States",
+      "attributionText": "Sarva-Darsana-Samgraha, or Review of the Different Systems of Hindu Philosophy, translated by E. B. Cowell and A. E. Gough (1882). Public domain in the United States. Digital text from Project Gutenberg.",
+      "structureScheme": "single plain-text edition, split at printed chapter headings",
+      "isSample": false,
+      "notes": "The chapter split is performed on the edition as served; the reader is told when the served text no longer matches the indexed paragraphs."
+    }
+  ]
+}

@@ -1,0 +1,3455 @@
+{
+  "slug": "bible-joshua",
+  "title": "Joshua (Christian Bible)",
+  "originalTitle": "יהושע",
+  "transliteration": "",
+  "altTitles": [
+    "Joshua",
+    "Joshua — King James Version"
+  ],
+  "tradition": "christianity",
+  "school": "early-christianity",
+  "genre": "Scripture",
+  "textType": "Biblical book",
+  "category": "Old Testament",
+  "subcategory": "Historical Books",
+  "originalLanguage": "he",
+  "dateStart": -1000,
+  "dateEnd": -400,
+  "dateDisplay": "Composed over several centuries in the first millennium BCE; the Masoretic text is attested from the 10th century CE",
+  "authorshipStatus": "traditional",
+  "author": "",
+  "attributionNote": "The text is anonymous or traditionally attributed; the attribution is part of the work's reception rather than a statement about the surviving author. The catalogue does not adjudicate it.",
+  "description": "The settlement of the land and its division among the tribes. This is the book as received in Christian Bibles: the Westminster Leningrad Codex Hebrew text beside the King James Version of 1611.",
+  "historicalContext": "Narratives of Israelite life in the land, the monarchy and the exile.",
+  "availabilityNote": "Streamed from the Bolls Bible API. Verse references follow the KJV; where the Hebrew counts a psalm superscription as verse 1, the original-language pane is one verse ahead.",
+  "featured": false,
+  "featuredNote": "",
+  "refScheme": "chapter.verse",
+  "isSample": false,
+  "textStorage": "streamed",
+  "chapters": [
+    {
+      "ref": "1",
+      "label": "Joshua 1"
+    },
+    {
+      "ref": "2",
+      "label": "Joshua 2"
+    },
+    {
+      "ref": "3",
+      "label": "Joshua 3"
+    },
+    {
+      "ref": "4",
+      "label": "Joshua 4"
+    },
+    {
+      "ref": "5",
+      "label": "Joshua 5"
+    },
+    {
+      "ref": "6",
+      "label": "Joshua 6"
+    },
+    {
+      "ref": "7",
+      "label": "Joshua 7"
+    },
+    {
+      "ref": "8",
+      "label": "Joshua 8"
+    },
+    {
+      "ref": "9",
+      "label": "Joshua 9"
+    },
+    {
+      "ref": "10",
+      "label": "Joshua 10"
+    },
+    {
+      "ref": "11",
+      "label": "Joshua 11"
+    },
+    {
+      "ref": "12",
+      "label": "Joshua 12"
+    },
+    {
+      "ref": "13",
+      "label": "Joshua 13"
+    },
+    {
+      "ref": "14",
+      "label": "Joshua 14"
+    },
+    {
+      "ref": "15",
+      "label": "Joshua 15"
+    },
+    {
+      "ref": "16",
+      "label": "Joshua 16"
+    },
+    {
+      "ref": "17",
+      "label": "Joshua 17"
+    },
+    {
+      "ref": "18",
+      "label": "Joshua 18"
+    },
+    {
+      "ref": "19",
+      "label": "Joshua 19"
+    },
+    {
+      "ref": "20",
+      "label": "Joshua 20"
+    },
+    {
+      "ref": "21",
+      "label": "Joshua 21"
+    },
+    {
+      "ref": "22",
+      "label": "Joshua 22"
+    },
+    {
+      "ref": "23",
+      "label": "Joshua 23"
+    },
+    {
+      "ref": "24",
+      "label": "Joshua 24"
+    }
+  ],
+  "passages": [
+    {
+      "reference": "1.1",
+      "label": "Joshua 1:1",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.2",
+      "label": "Joshua 1:2",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.3",
+      "label": "Joshua 1:3",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.4",
+      "label": "Joshua 1:4",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.5",
+      "label": "Joshua 1:5",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.6",
+      "label": "Joshua 1:6",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.7",
+      "label": "Joshua 1:7",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.8",
+      "label": "Joshua 1:8",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.9",
+      "label": "Joshua 1:9",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.10",
+      "label": "Joshua 1:10",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.11",
+      "label": "Joshua 1:11",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.12",
+      "label": "Joshua 1:12",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.13",
+      "label": "Joshua 1:13",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.14",
+      "label": "Joshua 1:14",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.15",
+      "label": "Joshua 1:15",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.16",
+      "label": "Joshua 1:16",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.17",
+      "label": "Joshua 1:17",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.18",
+      "label": "Joshua 1:18",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "2.1",
+      "label": "Joshua 2:1",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.2",
+      "label": "Joshua 2:2",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.3",
+      "label": "Joshua 2:3",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.4",
+      "label": "Joshua 2:4",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.5",
+      "label": "Joshua 2:5",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.6",
+      "label": "Joshua 2:6",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.7",
+      "label": "Joshua 2:7",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.8",
+      "label": "Joshua 2:8",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.9",
+      "label": "Joshua 2:9",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.10",
+      "label": "Joshua 2:10",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.11",
+      "label": "Joshua 2:11",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.12",
+      "label": "Joshua 2:12",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.13",
+      "label": "Joshua 2:13",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.14",
+      "label": "Joshua 2:14",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.15",
+      "label": "Joshua 2:15",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.16",
+      "label": "Joshua 2:16",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.17",
+      "label": "Joshua 2:17",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.18",
+      "label": "Joshua 2:18",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.19",
+      "label": "Joshua 2:19",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.20",
+      "label": "Joshua 2:20",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.21",
+      "label": "Joshua 2:21",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.22",
+      "label": "Joshua 2:22",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.23",
+      "label": "Joshua 2:23",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.24",
+      "label": "Joshua 2:24",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "3.1",
+      "label": "Joshua 3:1",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.2",
+      "label": "Joshua 3:2",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.3",
+      "label": "Joshua 3:3",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.4",
+      "label": "Joshua 3:4",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.5",
+      "label": "Joshua 3:5",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.6",
+      "label": "Joshua 3:6",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.7",
+      "label": "Joshua 3:7",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.8",
+      "label": "Joshua 3:8",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.9",
+      "label": "Joshua 3:9",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.10",
+      "label": "Joshua 3:10",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.11",
+      "label": "Joshua 3:11",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.12",
+      "label": "Joshua 3:12",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.13",
+      "label": "Joshua 3:13",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.14",
+      "label": "Joshua 3:14",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.15",
+      "label": "Joshua 3:15",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.16",
+      "label": "Joshua 3:16",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.17",
+      "label": "Joshua 3:17",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "4.1",
+      "label": "Joshua 4:1",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.2",
+      "label": "Joshua 4:2",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.3",
+      "label": "Joshua 4:3",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.4",
+      "label": "Joshua 4:4",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.5",
+      "label": "Joshua 4:5",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.6",
+      "label": "Joshua 4:6",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.7",
+      "label": "Joshua 4:7",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.8",
+      "label": "Joshua 4:8",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.9",
+      "label": "Joshua 4:9",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.10",
+      "label": "Joshua 4:10",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.11",
+      "label": "Joshua 4:11",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.12",
+      "label": "Joshua 4:12",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.13",
+      "label": "Joshua 4:13",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.14",
+      "label": "Joshua 4:14",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.15",
+      "label": "Joshua 4:15",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.16",
+      "label": "Joshua 4:16",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.17",
+      "label": "Joshua 4:17",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.18",
+      "label": "Joshua 4:18",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.19",
+      "label": "Joshua 4:19",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.20",
+      "label": "Joshua 4:20",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.21",
+      "label": "Joshua 4:21",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.22",
+      "label": "Joshua 4:22",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.23",
+      "label": "Joshua 4:23",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.24",
+      "label": "Joshua 4:24",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "5.1",
+      "label": "Joshua 5:1",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.2",
+      "label": "Joshua 5:2",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.3",
+      "label": "Joshua 5:3",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.4",
+      "label": "Joshua 5:4",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.5",
+      "label": "Joshua 5:5",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.6",
+      "label": "Joshua 5:6",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.7",
+      "label": "Joshua 5:7",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.8",
+      "label": "Joshua 5:8",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.9",
+      "label": "Joshua 5:9",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.10",
+      "label": "Joshua 5:10",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.11",
+      "label": "Joshua 5:11",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.12",
+      "label": "Joshua 5:12",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.13",
+      "label": "Joshua 5:13",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.14",
+      "label": "Joshua 5:14",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.15",
+      "label": "Joshua 5:15",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "6.1",
+      "label": "Joshua 6:1",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.2",
+      "label": "Joshua 6:2",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.3",
+      "label": "Joshua 6:3",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.4",
+      "label": "Joshua 6:4",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.5",
+      "label": "Joshua 6:5",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.6",
+      "label": "Joshua 6:6",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.7",
+      "label": "Joshua 6:7",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.8",
+      "label": "Joshua 6:8",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.9",
+      "label": "Joshua 6:9",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.10",
+      "label": "Joshua 6:10",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.11",
+      "label": "Joshua 6:11",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.12",
+      "label": "Joshua 6:12",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.13",
+      "label": "Joshua 6:13",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.14",
+      "label": "Joshua 6:14",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.15",
+      "label": "Joshua 6:15",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.16",
+      "label": "Joshua 6:16",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.17",
+      "label": "Joshua 6:17",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.18",
+      "label": "Joshua 6:18",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.19",
+      "label": "Joshua 6:19",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.20",
+      "label": "Joshua 6:20",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.21",
+      "label": "Joshua 6:21",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.22",
+      "label": "Joshua 6:22",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.23",
+      "label": "Joshua 6:23",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.24",
+      "label": "Joshua 6:24",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.25",
+      "label": "Joshua 6:25",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.26",
+      "label": "Joshua 6:26",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.27",
+      "label": "Joshua 6:27",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "7.1",
+      "label": "Joshua 7:1",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.2",
+      "label": "Joshua 7:2",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.3",
+      "label": "Joshua 7:3",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.4",
+      "label": "Joshua 7:4",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.5",
+      "label": "Joshua 7:5",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.6",
+      "label": "Joshua 7:6",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.7",
+      "label": "Joshua 7:7",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.8",
+      "label": "Joshua 7:8",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.9",
+      "label": "Joshua 7:9",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.10",
+      "label": "Joshua 7:10",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.11",
+      "label": "Joshua 7:11",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.12",
+      "label": "Joshua 7:12",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.13",
+      "label": "Joshua 7:13",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.14",
+      "label": "Joshua 7:14",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.15",
+      "label": "Joshua 7:15",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.16",
+      "label": "Joshua 7:16",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.17",
+      "label": "Joshua 7:17",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.18",
+      "label": "Joshua 7:18",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.19",
+      "label": "Joshua 7:19",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.20",
+      "label": "Joshua 7:20",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.21",
+      "label": "Joshua 7:21",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.22",
+      "label": "Joshua 7:22",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.23",
+      "label": "Joshua 7:23",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.24",
+      "label": "Joshua 7:24",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.25",
+      "label": "Joshua 7:25",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.26",
+      "label": "Joshua 7:26",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "8.1",
+      "label": "Joshua 8:1",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.2",
+      "label": "Joshua 8:2",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.3",
+      "label": "Joshua 8:3",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.4",
+      "label": "Joshua 8:4",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.5",
+      "label": "Joshua 8:5",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.6",
+      "label": "Joshua 8:6",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.7",
+      "label": "Joshua 8:7",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.8",
+      "label": "Joshua 8:8",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.9",
+      "label": "Joshua 8:9",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.10",
+      "label": "Joshua 8:10",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.11",
+      "label": "Joshua 8:11",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.12",
+      "label": "Joshua 8:12",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.13",
+      "label": "Joshua 8:13",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.14",
+      "label": "Joshua 8:14",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.15",
+      "label": "Joshua 8:15",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.16",
+      "label": "Joshua 8:16",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.17",
+      "label": "Joshua 8:17",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.18",
+      "label": "Joshua 8:18",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.19",
+      "label": "Joshua 8:19",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.20",
+      "label": "Joshua 8:20",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.21",
+      "label": "Joshua 8:21",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.22",
+      "label": "Joshua 8:22",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.23",
+      "label": "Joshua 8:23",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.24",
+      "label": "Joshua 8:24",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.25",
+      "label": "Joshua 8:25",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.26",
+      "label": "Joshua 8:26",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.27",
+      "label": "Joshua 8:27",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.28",
+      "label": "Joshua 8:28",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.29",
+      "label": "Joshua 8:29",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.30",
+      "label": "Joshua 8:30",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.31",
+      "label": "Joshua 8:31",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.32",
+      "label": "Joshua 8:32",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.33",
+      "label": "Joshua 8:33",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.34",
+      "label": "Joshua 8:34",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.35",
+      "label": "Joshua 8:35",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "9.1",
+      "label": "Joshua 9:1",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.2",
+      "label": "Joshua 9:2",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.3",
+      "label": "Joshua 9:3",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.4",
+      "label": "Joshua 9:4",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.5",
+      "label": "Joshua 9:5",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.6",
+      "label": "Joshua 9:6",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.7",
+      "label": "Joshua 9:7",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.8",
+      "label": "Joshua 9:8",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.9",
+      "label": "Joshua 9:9",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.10",
+      "label": "Joshua 9:10",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.11",
+      "label": "Joshua 9:11",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.12",
+      "label": "Joshua 9:12",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.13",
+      "label": "Joshua 9:13",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.14",
+      "label": "Joshua 9:14",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.15",
+      "label": "Joshua 9:15",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.16",
+      "label": "Joshua 9:16",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.17",
+      "label": "Joshua 9:17",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.18",
+      "label": "Joshua 9:18",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.19",
+      "label": "Joshua 9:19",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.20",
+      "label": "Joshua 9:20",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.21",
+      "label": "Joshua 9:21",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.22",
+      "label": "Joshua 9:22",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.23",
+      "label": "Joshua 9:23",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.24",
+      "label": "Joshua 9:24",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.25",
+      "label": "Joshua 9:25",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.26",
+      "label": "Joshua 9:26",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.27",
+      "label": "Joshua 9:27",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "10.1",
+      "label": "Joshua 10:1",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.2",
+      "label": "Joshua 10:2",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.3",
+      "label": "Joshua 10:3",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.4",
+      "label": "Joshua 10:4",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.5",
+      "label": "Joshua 10:5",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.6",
+      "label": "Joshua 10:6",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.7",
+      "label": "Joshua 10:7",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.8",
+      "label": "Joshua 10:8",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.9",
+      "label": "Joshua 10:9",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.10",
+      "label": "Joshua 10:10",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.11",
+      "label": "Joshua 10:11",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.12",
+      "label": "Joshua 10:12",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.13",
+      "label": "Joshua 10:13",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.14",
+      "label": "Joshua 10:14",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.15",
+      "label": "Joshua 10:15",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.16",
+      "label": "Joshua 10:16",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.17",
+      "label": "Joshua 10:17",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.18",
+      "label": "Joshua 10:18",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.19",
+      "label": "Joshua 10:19",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.20",
+      "label": "Joshua 10:20",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.21",
+      "label": "Joshua 10:21",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.22",
+      "label": "Joshua 10:22",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.23",
+      "label": "Joshua 10:23",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.24",
+      "label": "Joshua 10:24",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.25",
+      "label": "Joshua 10:25",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.26",
+      "label": "Joshua 10:26",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.27",
+      "label": "Joshua 10:27",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.28",
+      "label": "Joshua 10:28",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.29",
+      "label": "Joshua 10:29",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.30",
+      "label": "Joshua 10:30",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.31",
+      "label": "Joshua 10:31",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.32",
+      "label": "Joshua 10:32",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.33",
+      "label": "Joshua 10:33",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.34",
+      "label": "Joshua 10:34",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.35",
+      "label": "Joshua 10:35",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.36",
+      "label": "Joshua 10:36",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.37",
+      "label": "Joshua 10:37",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.38",
+      "label": "Joshua 10:38",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.39",
+      "label": "Joshua 10:39",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.40",
+      "label": "Joshua 10:40",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.41",
+      "label": "Joshua 10:41",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.42",
+      "label": "Joshua 10:42",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.43",
+      "label": "Joshua 10:43",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "11.1",
+      "label": "Joshua 11:1",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.2",
+      "label": "Joshua 11:2",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.3",
+      "label": "Joshua 11:3",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.4",
+      "label": "Joshua 11:4",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.5",
+      "label": "Joshua 11:5",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.6",
+      "label": "Joshua 11:6",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.7",
+      "label": "Joshua 11:7",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.8",
+      "label": "Joshua 11:8",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.9",
+      "label": "Joshua 11:9",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.10",
+      "label": "Joshua 11:10",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.11",
+      "label": "Joshua 11:11",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.12",
+      "label": "Joshua 11:12",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.13",
+      "label": "Joshua 11:13",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.14",
+      "label": "Joshua 11:14",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.15",
+      "label": "Joshua 11:15",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.16",
+      "label": "Joshua 11:16",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.17",
+      "label": "Joshua 11:17",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.18",
+      "label": "Joshua 11:18",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.19",
+      "label": "Joshua 11:19",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.20",
+      "label": "Joshua 11:20",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.21",
+      "label": "Joshua 11:21",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.22",
+      "label": "Joshua 11:22",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.23",
+      "label": "Joshua 11:23",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "12.1",
+      "label": "Joshua 12:1",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.2",
+      "label": "Joshua 12:2",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.3",
+      "label": "Joshua 12:3",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.4",
+      "label": "Joshua 12:4",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.5",
+      "label": "Joshua 12:5",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.6",
+      "label": "Joshua 12:6",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.7",
+      "label": "Joshua 12:7",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.8",
+      "label": "Joshua 12:8",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.9",
+      "label": "Joshua 12:9",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.10",
+      "label": "Joshua 12:10",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.11",
+      "label": "Joshua 12:11",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.12",
+      "label": "Joshua 12:12",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.13",
+      "label": "Joshua 12:13",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.14",
+      "label": "Joshua 12:14",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.15",
+      "label": "Joshua 12:15",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.16",
+      "label": "Joshua 12:16",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.17",
+      "label": "Joshua 12:17",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.18",
+      "label": "Joshua 12:18",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.19",
+      "label": "Joshua 12:19",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.20",
+      "label": "Joshua 12:20",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.21",
+      "label": "Joshua 12:21",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.22",
+      "label": "Joshua 12:22",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.23",
+      "label": "Joshua 12:23",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.24",
+      "label": "Joshua 12:24",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "13.1",
+      "label": "Joshua 13:1",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.2",
+      "label": "Joshua 13:2",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.3",
+      "label": "Joshua 13:3",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.4",
+      "label": "Joshua 13:4",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.5",
+      "label": "Joshua 13:5",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.6",
+      "label": "Joshua 13:6",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.7",
+      "label": "Joshua 13:7",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.8",
+      "label": "Joshua 13:8",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.9",
+      "label": "Joshua 13:9",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.10",
+      "label": "Joshua 13:10",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.11",
+      "label": "Joshua 13:11",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.12",
+      "label": "Joshua 13:12",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.13",
+      "label": "Joshua 13:13",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.14",
+      "label": "Joshua 13:14",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.15",
+      "label": "Joshua 13:15",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.16",
+      "label": "Joshua 13:16",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.17",
+      "label": "Joshua 13:17",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.18",
+      "label": "Joshua 13:18",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.19",
+      "label": "Joshua 13:19",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.20",
+      "label": "Joshua 13:20",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.21",
+      "label": "Joshua 13:21",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.22",
+      "label": "Joshua 13:22",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.23",
+      "label": "Joshua 13:23",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.24",
+      "label": "Joshua 13:24",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.25",
+      "label": "Joshua 13:25",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.26",
+      "label": "Joshua 13:26",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.27",
+      "label": "Joshua 13:27",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.28",
+      "label": "Joshua 13:28",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.29",
+      "label": "Joshua 13:29",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.30",
+      "label": "Joshua 13:30",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.31",
+      "label": "Joshua 13:31",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.32",
+      "label": "Joshua 13:32",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.33",
+      "label": "Joshua 13:33",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "14.1",
+      "label": "Joshua 14:1",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.2",
+      "label": "Joshua 14:2",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.3",
+      "label": "Joshua 14:3",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.4",
+      "label": "Joshua 14:4",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.5",
+      "label": "Joshua 14:5",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.6",
+      "label": "Joshua 14:6",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.7",
+      "label": "Joshua 14:7",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.8",
+      "label": "Joshua 14:8",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.9",
+      "label": "Joshua 14:9",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.10",
+      "label": "Joshua 14:10",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.11",
+      "label": "Joshua 14:11",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.12",
+      "label": "Joshua 14:12",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.13",
+      "label": "Joshua 14:13",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.14",
+      "label": "Joshua 14:14",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.15",
+      "label": "Joshua 14:15",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "15.1",
+      "label": "Joshua 15:1",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.2",
+      "label": "Joshua 15:2",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.3",
+      "label": "Joshua 15:3",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.4",
+      "label": "Joshua 15:4",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.5",
+      "label": "Joshua 15:5",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.6",
+      "label": "Joshua 15:6",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.7",
+      "label": "Joshua 15:7",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.8",
+      "label": "Joshua 15:8",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.9",
+      "label": "Joshua 15:9",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.10",
+      "label": "Joshua 15:10",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.11",
+      "label": "Joshua 15:11",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.12",
+      "label": "Joshua 15:12",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.13",
+      "label": "Joshua 15:13",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.14",
+      "label": "Joshua 15:14",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.15",
+      "label": "Joshua 15:15",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.16",
+      "label": "Joshua 15:16",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.17",
+      "label": "Joshua 15:17",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.18",
+      "label": "Joshua 15:18",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.19",
+      "label": "Joshua 15:19",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.20",
+      "label": "Joshua 15:20",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.21",
+      "label": "Joshua 15:21",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.22",
+      "label": "Joshua 15:22",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.23",
+      "label": "Joshua 15:23",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.24",
+      "label": "Joshua 15:24",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.25",
+      "label": "Joshua 15:25",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.26",
+      "label": "Joshua 15:26",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.27",
+      "label": "Joshua 15:27",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.28",
+      "label": "Joshua 15:28",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.29",
+      "label": "Joshua 15:29",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.30",
+      "label": "Joshua 15:30",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.31",
+      "label": "Joshua 15:31",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.32",
+      "label": "Joshua 15:32",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.33",
+      "label": "Joshua 15:33",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.34",
+      "label": "Joshua 15:34",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.35",
+      "label": "Joshua 15:35",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.36",
+      "label": "Joshua 15:36",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.37",
+      "label": "Joshua 15:37",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.38",
+      "label": "Joshua 15:38",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.39",
+      "label": "Joshua 15:39",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.40",
+      "label": "Joshua 15:40",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.41",
+      "label": "Joshua 15:41",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.42",
+      "label": "Joshua 15:42",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.43",
+      "label": "Joshua 15:43",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.44",
+      "label": "Joshua 15:44",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.45",
+      "label": "Joshua 15:45",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.46",
+      "label": "Joshua 15:46",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.47",
+      "label": "Joshua 15:47",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.48",
+      "label": "Joshua 15:48",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.49",
+      "label": "Joshua 15:49",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.50",
+      "label": "Joshua 15:50",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.51",
+      "label": "Joshua 15:51",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.52",
+      "label": "Joshua 15:52",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.53",
+      "label": "Joshua 15:53",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.54",
+      "label": "Joshua 15:54",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.55",
+      "label": "Joshua 15:55",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.56",
+      "label": "Joshua 15:56",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.57",
+      "label": "Joshua 15:57",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.58",
+      "label": "Joshua 15:58",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.59",
+      "label": "Joshua 15:59",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.60",
+      "label": "Joshua 15:60",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.61",
+      "label": "Joshua 15:61",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.62",
+      "label": "Joshua 15:62",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.63",
+      "label": "Joshua 15:63",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "16.1",
+      "label": "Joshua 16:1",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.2",
+      "label": "Joshua 16:2",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.3",
+      "label": "Joshua 16:3",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.4",
+      "label": "Joshua 16:4",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.5",
+      "label": "Joshua 16:5",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.6",
+      "label": "Joshua 16:6",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.7",
+      "label": "Joshua 16:7",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.8",
+      "label": "Joshua 16:8",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.9",
+      "label": "Joshua 16:9",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.10",
+      "label": "Joshua 16:10",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "17.1",
+      "label": "Joshua 17:1",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.2",
+      "label": "Joshua 17:2",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.3",
+      "label": "Joshua 17:3",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.4",
+      "label": "Joshua 17:4",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.5",
+      "label": "Joshua 17:5",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.6",
+      "label": "Joshua 17:6",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.7",
+      "label": "Joshua 17:7",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.8",
+      "label": "Joshua 17:8",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.9",
+      "label": "Joshua 17:9",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.10",
+      "label": "Joshua 17:10",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.11",
+      "label": "Joshua 17:11",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.12",
+      "label": "Joshua 17:12",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.13",
+      "label": "Joshua 17:13",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.14",
+      "label": "Joshua 17:14",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.15",
+      "label": "Joshua 17:15",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.16",
+      "label": "Joshua 17:16",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.17",
+      "label": "Joshua 17:17",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.18",
+      "label": "Joshua 17:18",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "18.1",
+      "label": "Joshua 18:1",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.2",
+      "label": "Joshua 18:2",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.3",
+      "label": "Joshua 18:3",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.4",
+      "label": "Joshua 18:4",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.5",
+      "label": "Joshua 18:5",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.6",
+      "label": "Joshua 18:6",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.7",
+      "label": "Joshua 18:7",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.8",
+      "label": "Joshua 18:8",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.9",
+      "label": "Joshua 18:9",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.10",
+      "label": "Joshua 18:10",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.11",
+      "label": "Joshua 18:11",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.12",
+      "label": "Joshua 18:12",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.13",
+      "label": "Joshua 18:13",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.14",
+      "label": "Joshua 18:14",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.15",
+      "label": "Joshua 18:15",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.16",
+      "label": "Joshua 18:16",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.17",
+      "label": "Joshua 18:17",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.18",
+      "label": "Joshua 18:18",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.19",
+      "label": "Joshua 18:19",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.20",
+      "label": "Joshua 18:20",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.21",
+      "label": "Joshua 18:21",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.22",
+      "label": "Joshua 18:22",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.23",
+      "label": "Joshua 18:23",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.24",
+      "label": "Joshua 18:24",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.25",
+      "label": "Joshua 18:25",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.26",
+      "label": "Joshua 18:26",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.27",
+      "label": "Joshua 18:27",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.28",
+      "label": "Joshua 18:28",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "19.1",
+      "label": "Joshua 19:1",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.2",
+      "label": "Joshua 19:2",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.3",
+      "label": "Joshua 19:3",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.4",
+      "label": "Joshua 19:4",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.5",
+      "label": "Joshua 19:5",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.6",
+      "label": "Joshua 19:6",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.7",
+      "label": "Joshua 19:7",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.8",
+      "label": "Joshua 19:8",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.9",
+      "label": "Joshua 19:9",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.10",
+      "label": "Joshua 19:10",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.11",
+      "label": "Joshua 19:11",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.12",
+      "label": "Joshua 19:12",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.13",
+      "label": "Joshua 19:13",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.14",
+      "label": "Joshua 19:14",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.15",
+      "label": "Joshua 19:15",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.16",
+      "label": "Joshua 19:16",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.17",
+      "label": "Joshua 19:17",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.18",
+      "label": "Joshua 19:18",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.19",
+      "label": "Joshua 19:19",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.20",
+      "label": "Joshua 19:20",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.21",
+      "label": "Joshua 19:21",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.22",
+      "label": "Joshua 19:22",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.23",
+      "label": "Joshua 19:23",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.24",
+      "label": "Joshua 19:24",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.25",
+      "label": "Joshua 19:25",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.26",
+      "label": "Joshua 19:26",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.27",
+      "label": "Joshua 19:27",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.28",
+      "label": "Joshua 19:28",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.29",
+      "label": "Joshua 19:29",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.30",
+      "label": "Joshua 19:30",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.31",
+      "label": "Joshua 19:31",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.32",
+      "label": "Joshua 19:32",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.33",
+      "label": "Joshua 19:33",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.34",
+      "label": "Joshua 19:34",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.35",
+      "label": "Joshua 19:35",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.36",
+      "label": "Joshua 19:36",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.37",
+      "label": "Joshua 19:37",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.38",
+      "label": "Joshua 19:38",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.39",
+      "label": "Joshua 19:39",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.40",
+      "label": "Joshua 19:40",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.41",
+      "label": "Joshua 19:41",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.42",
+      "label": "Joshua 19:42",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.43",
+      "label": "Joshua 19:43",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.44",
+      "label": "Joshua 19:44",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.45",
+      "label": "Joshua 19:45",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.46",
+      "label": "Joshua 19:46",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.47",
+      "label": "Joshua 19:47",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.48",
+      "label": "Joshua 19:48",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.49",
+      "label": "Joshua 19:49",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.50",
+      "label": "Joshua 19:50",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.51",
+      "label": "Joshua 19:51",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "20.1",
+      "label": "Joshua 20:1",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.2",
+      "label": "Joshua 20:2",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.3",
+      "label": "Joshua 20:3",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.4",
+      "label": "Joshua 20:4",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.5",
+      "label": "Joshua 20:5",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.6",
+      "label": "Joshua 20:6",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.7",
+      "label": "Joshua 20:7",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.8",
+      "label": "Joshua 20:8",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.9",
+      "label": "Joshua 20:9",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "21.1",
+      "label": "Joshua 21:1",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.2",
+      "label": "Joshua 21:2",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.3",
+      "label": "Joshua 21:3",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.4",
+      "label": "Joshua 21:4",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.5",
+      "label": "Joshua 21:5",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.6",
+      "label": "Joshua 21:6",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.7",
+      "label": "Joshua 21:7",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.8",
+      "label": "Joshua 21:8",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.9",
+      "label": "Joshua 21:9",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.10",
+      "label": "Joshua 21:10",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.11",
+      "label": "Joshua 21:11",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.12",
+      "label": "Joshua 21:12",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.13",
+      "label": "Joshua 21:13",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.14",
+      "label": "Joshua 21:14",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.15",
+      "label": "Joshua 21:15",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.16",
+      "label": "Joshua 21:16",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.17",
+      "label": "Joshua 21:17",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.18",
+      "label": "Joshua 21:18",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.19",
+      "label": "Joshua 21:19",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.20",
+      "label": "Joshua 21:20",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.21",
+      "label": "Joshua 21:21",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.22",
+      "label": "Joshua 21:22",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.23",
+      "label": "Joshua 21:23",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.24",
+      "label": "Joshua 21:24",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.25",
+      "label": "Joshua 21:25",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.26",
+      "label": "Joshua 21:26",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.27",
+      "label": "Joshua 21:27",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.28",
+      "label": "Joshua 21:28",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.29",
+      "label": "Joshua 21:29",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.30",
+      "label": "Joshua 21:30",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.31",
+      "label": "Joshua 21:31",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.32",
+      "label": "Joshua 21:32",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.33",
+      "label": "Joshua 21:33",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.34",
+      "label": "Joshua 21:34",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.35",
+      "label": "Joshua 21:35",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.36",
+      "label": "Joshua 21:36",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.37",
+      "label": "Joshua 21:37",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.38",
+      "label": "Joshua 21:38",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.39",
+      "label": "Joshua 21:39",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.40",
+      "label": "Joshua 21:40",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.41",
+      "label": "Joshua 21:41",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.42",
+      "label": "Joshua 21:42",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.43",
+      "label": "Joshua 21:43",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.44",
+      "label": "Joshua 21:44",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.45",
+      "label": "Joshua 21:45",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "22.1",
+      "label": "Joshua 22:1",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.2",
+      "label": "Joshua 22:2",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.3",
+      "label": "Joshua 22:3",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.4",
+      "label": "Joshua 22:4",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.5",
+      "label": "Joshua 22:5",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.6",
+      "label": "Joshua 22:6",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.7",
+      "label": "Joshua 22:7",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.8",
+      "label": "Joshua 22:8",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.9",
+      "label": "Joshua 22:9",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.10",
+      "label": "Joshua 22:10",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.11",
+      "label": "Joshua 22:11",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.12",
+      "label": "Joshua 22:12",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.13",
+      "label": "Joshua 22:13",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.14",
+      "label": "Joshua 22:14",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.15",
+      "label": "Joshua 22:15",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.16",
+      "label": "Joshua 22:16",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.17",
+      "label": "Joshua 22:17",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.18",
+      "label": "Joshua 22:18",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.19",
+      "label": "Joshua 22:19",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.20",
+      "label": "Joshua 22:20",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.21",
+      "label": "Joshua 22:21",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.22",
+      "label": "Joshua 22:22",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.23",
+      "label": "Joshua 22:23",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.24",
+      "label": "Joshua 22:24",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.25",
+      "label": "Joshua 22:25",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.26",
+      "label": "Joshua 22:26",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.27",
+      "label": "Joshua 22:27",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.28",
+      "label": "Joshua 22:28",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.29",
+      "label": "Joshua 22:29",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.30",
+      "label": "Joshua 22:30",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.31",
+      "label": "Joshua 22:31",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.32",
+      "label": "Joshua 22:32",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.33",
+      "label": "Joshua 22:33",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.34",
+      "label": "Joshua 22:34",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "23.1",
+      "label": "Joshua 23:1",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.2",
+      "label": "Joshua 23:2",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.3",
+      "label": "Joshua 23:3",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.4",
+      "label": "Joshua 23:4",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.5",
+      "label": "Joshua 23:5",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.6",
+      "label": "Joshua 23:6",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.7",
+      "label": "Joshua 23:7",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.8",
+      "label": "Joshua 23:8",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.9",
+      "label": "Joshua 23:9",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.10",
+      "label": "Joshua 23:10",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.11",
+      "label": "Joshua 23:11",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.12",
+      "label": "Joshua 23:12",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.13",
+      "label": "Joshua 23:13",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.14",
+      "label": "Joshua 23:14",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.15",
+      "label": "Joshua 23:15",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.16",
+      "label": "Joshua 23:16",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "24.1",
+      "label": "Joshua 24:1",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.2",
+      "label": "Joshua 24:2",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.3",
+      "label": "Joshua 24:3",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.4",
+      "label": "Joshua 24:4",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.5",
+      "label": "Joshua 24:5",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.6",
+      "label": "Joshua 24:6",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.7",
+      "label": "Joshua 24:7",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.8",
+      "label": "Joshua 24:8",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.9",
+      "label": "Joshua 24:9",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.10",
+      "label": "Joshua 24:10",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.11",
+      "label": "Joshua 24:11",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.12",
+      "label": "Joshua 24:12",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.13",
+      "label": "Joshua 24:13",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.14",
+      "label": "Joshua 24:14",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.15",
+      "label": "Joshua 24:15",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.16",
+      "label": "Joshua 24:16",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.17",
+      "label": "Joshua 24:17",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.18",
+      "label": "Joshua 24:18",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.19",
+      "label": "Joshua 24:19",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.20",
+      "label": "Joshua 24:20",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.21",
+      "label": "Joshua 24:21",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.22",
+      "label": "Joshua 24:22",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.23",
+      "label": "Joshua 24:23",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.24",
+      "label": "Joshua 24:24",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.25",
+      "label": "Joshua 24:25",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.26",
+      "label": "Joshua 24:26",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.27",
+      "label": "Joshua 24:27",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.28",
+      "label": "Joshua 24:28",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.29",
+      "label": "Joshua 24:29",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.30",
+      "label": "Joshua 24:30",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.31",
+      "label": "Joshua 24:31",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.32",
+      "label": "Joshua 24:32",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.33",
+      "label": "Joshua 24:33",
+      "chapterRef": "24"
+    }
+  ],
+  "editions": [
+    {
+      "slug": "bible-joshua-he",
+      "language": "he",
+      "editionType": "original",
+      "title": "Westminster Leningrad Codex (Hebrew)",
+      "translator": "",
+      "publisher": "Bolls Bible API",
+      "publicationYear": null,
+      "source": "bolls",
+      "license": "public-domain",
+      "rightsStatus": "Public domain",
+      "attributionText": "Westminster Leningrad Codex Hebrew text, served by the Bolls Bible API.",
+      "structureScheme": "book, chapter, verse",
+      "isSample": false,
+      "notes": "The Hebrew text is shown as the API serves it; this library does not collate it against critical editions."
+    },
+    {
+      "slug": "bible-joshua-en-kjv",
+      "language": "en",
+      "editionType": "translation",
+      "title": "King James Version (1611)",
+      "translator": "The King James Bible translators",
+      "publisher": "Bolls Bible API",
+      "publicationYear": 1611,
+      "source": "bolls",
+      "license": "public-domain",
+      "rightsStatus": "Public domain",
+      "attributionText": "The Holy Bible, King James Version (1611). Public domain. Served by the Bolls Bible API.",
+      "structureScheme": "book, chapter, verse",
+      "isSample": false,
+      "notes": "Strong's numbers included in the API's markup are not displayed; the verse wording is unchanged."
+    }
+  ]
+}

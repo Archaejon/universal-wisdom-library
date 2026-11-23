@@ -1,0 +1,169 @@
+[
+  {
+    "slug": "compassion",
+    "name": "Compassion and mercy",
+    "question": "What does it mean to show mercy, and to whom is it owed?",
+    "description": "Compassion appears across these traditions as an action, a disposition and sometimes a divine attribute. The passages gathered here do not say the same thing: some ground mercy in God's nature, others in the relief of suffering, others in the recognition of shared vulnerability.",
+    "sortOrder": 10,
+    "passages": [
+      { "passage": "matthew:5.7", "note": "The Beatitudes promise mercy to the merciful, linking human practice to divine response.", "relevance": "curated" },
+      { "passage": "quran:1.1", "note": "The opening invocation names God as the Compassionate and Merciful; the formula frames the whole surah.", "relevance": "curated" },
+      { "passage": "quran:1.3", "note": "Mercy is repeated as a divine attribute, not merely an occasional act.", "relevance": "curated" },
+      { "passage": "dhammapada:5", "note": "Hatred is ended by love, not by more hatred. The verse is about the cessation of a cycle, not a sentiment.", "relevance": "curated" },
+      { "passage": "psalms:23.6", "note": "Goodness and mercy 'follow' the psalmist; the Hebrew חֶסֶד carries covenantal steadfastness as well as tenderness.", "relevance": "curated" },
+      { "passage": "acaranga:1.1.2", "note": "Jain non-violence begins with attention to the harm one causes to other living beings.", "relevance": "related" }
+    ]
+  },
+  {
+    "slug": "justice",
+    "name": "Justice and righteousness",
+    "question": "What is owed to others, and what makes a society just?",
+    "description": "Justice is variously imagined as right relation, divine judgement, social fairness and inward integrity. These excerpts show different starting points: covenant, law, virtue, recognition and critique.",
+    "sortOrder": 20,
+    "passages": [
+      { "passage": "matthew:5.6", "note": "Hunger and thirst for righteousness: justice as a desire that can be satisfied.", "relevance": "curated" },
+      { "passage": "matthew:5.10", "note": "Those persecuted for righteousness are called blessed; the text does not promise that justice is easy or triumphant.", "relevance": "curated" },
+      { "passage": "quran:49.13", "note": "Human diversity is framed as a reason for mutual knowledge; the most honoured are the most God-conscious, not the most powerful.", "relevance": "curated" },
+      { "passage": "analects:1.12", "note": "Harmony is prized, but not at the expense of ritual restraint; social ease requires form.", "relevance": "curated" },
+      { "passage": "apology:38a", "note": "Socrates treats the examined life as a good worth dying for, raising the question of what a city owes its questioners.", "relevance": "related" }
+    ]
+  },
+  {
+    "slug": "wisdom",
+    "name": "Wisdom and knowledge",
+    "question": "What kind of knowledge changes the person who holds it?",
+    "description": "Wisdom is rarely mere information in these texts. It is a practised discernment, a way of seeing through appearances, or a form of attention to the real.",
+    "sortOrder": 30,
+    "passages": [
+      { "passage": "analects:1.1", "note": "Learning is pleasant when practised and shared; the passage joins study, friendship and equanimity.", "relevance": "curated" },
+      { "passage": "tao:1", "note": "The Way that can be spoken is not the enduring Way; language both discloses and limits.", "relevance": "curated" },
+      { "passage": "dhammapada:1", "note": "Mind precedes action; wisdom begins with the quality of intention.", "relevance": "curated" },
+      { "passage": "meditations:2.1", "note": "Philosophy is a daily practice of attention to one's own soul and mortality.", "relevance": "curated" },
+      { "passage": "gita:2.13", "note": "Right action is performed for its own sake, not for its fruits; equanimity is called yoga.", "relevance": "related" }
+    ]
+  },
+  {
+    "slug": "mortality",
+    "name": "Death and mortality",
+    "question": "How should the awareness of death shape a life?",
+    "description": "Mortality is confronted as enemy, teacher, transition and natural process. The selections are deliberately not harmonised: they disagree about what death means and what consolation is available.",
+    "sortOrder": 40,
+    "passages": [
+      { "passage": "psalms:23.4", "note": "The valley of the shadow of death is walked through, not avoided; the psalmist speaks of accompaniment.", "relevance": "curated" },
+      { "passage": "meditations:2.15", "note": "Life is a point, a stream and a pilgrimage; philosophy is what can be carried through it.", "relevance": "curated" },
+      { "passage": "apology:38a", "note": "Socrates refuses to trade the examined life for survival, while admitting uncertainty about death.", "relevance": "curated" },
+      { "passage": "quran:2.255", "note": "God is the Living and Eternal, unlike all that is contingent; the verse is a meditation on dependence.", "relevance": "related" }
+    ]
+  },
+  {
+    "slug": "love",
+    "name": "Love and devotion",
+    "question": "Is love a feeling, a command, a practice or a bond?",
+    "description": "These passages place love in ethics, worship and kinship. They do not share one concept of love; the notes identify the different vocabularies at work.",
+    "sortOrder": 50,
+    "passages": [
+      { "passage": "dhammapada:5", "note": "The Pali term is often rendered loving-kindness (mettā); it is an active practice, not mere warmth.", "relevance": "curated" },
+      { "passage": "matthew:5.7", "note": "Mercy is shown in practice and is promised in return.", "relevance": "curated" },
+      { "passage": "psalms:23.6", "note": "Covenantal mercy accompanies the speaker through life.", "relevance": "related" },
+      { "passage": "analects:1.2", "note": "Filial piety and fraternal respect are presented as the root of humaneness (ren).", "relevance": "related" }
+    ]
+  },
+  {
+    "slug": "self-discipline",
+    "name": "Desire and self-discipline",
+    "question": "How should a person train desire?",
+    "description": "Discipline appears as ascetic practice, philosophical attention, ritual cultivation and detachment. The comparison highlights different diagnoses of why desire is dangerous.",
+    "sortOrder": 60,
+    "passages": [
+      { "passage": "gita:2.16", "note": "A chain runs from dwelling on sense objects to desire, passion, recklessness and the ruin of judgement.", "relevance": "curated" },
+      { "passage": "analects:1.4", "note": "Daily self-examination is a practice of fidelity, sincerity and learning.", "relevance": "curated" },
+      { "passage": "acaranga:1.1.1", "note": "The Jain path begins with comprehending and renouncing the causes of harm.", "relevance": "curated" },
+      { "passage": "meditations:2.1", "note": "The Stoic works on his own judgements and desires as a daily discipline.", "relevance": "curated" },
+      { "passage": "dhammapada:1", "note": "The mind is the hinge of ethical action; disciplined intention shapes what follows.", "relevance": "related" }
+    ]
+  },
+  {
+    "slug": "ultimate-reality",
+    "name": "The divine and ultimate reality",
+    "question": "What is ultimately real, and how can it be named?",
+    "description": "These texts speak of God, the Dao, the Logos and the Eternal. Similar grammar does not establish that they mean the same thing. The notes keep the theological differences visible.",
+    "sortOrder": 70,
+    "passages": [
+      { "passage": "genesis:1.1", "note": "God creates the heavens and the earth; the text does not explicitly state creation from nothing.", "relevance": "curated" },
+      { "passage": "john:1.1", "note": "The Logos is with God and is God; the prologue identifies the Word with the light entering the world.", "relevance": "curated" },
+      { "passage": "quran:2.255", "note": "God is the Living, the Eternal, neither slumbering nor sleeping; sovereignty and knowledge are absolute.", "relevance": "curated" },
+      { "passage": "tao:1", "note": "The nameless is the origin of heaven and earth; the named is the mother of the ten thousand things.", "relevance": "curated" },
+      { "passage": "gita:2.13", "note": "The text calls the practitioner to act without attachment, a discipline rooted in a larger account of self and action.", "relevance": "related" }
+    ]
+  },
+  {
+    "slug": "suffering",
+    "name": "Suffering and resilience",
+    "question": "How do these traditions name suffering, and what do they offer in response?",
+    "description": "The passages range from diagnosis to lament to practical instruction. They should not be read as interchangeable consolation: some address the nature of mind, others the presence of God, others the fragility of life.",
+    "sortOrder": 80,
+    "passages": [
+      { "passage": "dhammapada:1", "note": "Suffering follows corrupt intention as the wheel follows the ox; the claim is causal and ethical.", "relevance": "curated" },
+      { "passage": "acaranga:1.1.2", "note": "The world is described as afflicted and full of pain; the response is non-harm and renunciation.", "relevance": "curated" },
+      { "passage": "psalms:23.4", "note": "Lament and trust coexist; the speaker does not deny the valley.", "relevance": "curated" },
+      { "passage": "meditations:2.15", "note": "The brevity and turbulence of life are met with a disciplined philosophical practice.", "relevance": "related" },
+      { "passage": "apology:38a", "note": "Socrates chooses a life of examination even when it leads to danger.", "relevance": "related" }
+    ]
+  },
+  {
+    "slug": "humility",
+    "name": "Humility and pride",
+    "question": "What is the difference between humility and self-erasure?",
+    "description": "Humility is sometimes epistemic (knowing what one does not know), sometimes social (not grasping for status), and sometimes theological (creatureliness before God).",
+    "sortOrder": 90,
+    "passages": [
+      { "passage": "analects:1.8", "note": "Gravity, faithfulness and readiness to correct one's faults are marks of the serious student.", "relevance": "curated" },
+      { "passage": "analects:1.16", "note": "The concern is not being unknown but failing to know others.", "relevance": "curated" },
+      { "passage": "tao:8", "note": "Highest excellence is like water: it benefits all things and does not contend.", "relevance": "curated" },
+      { "passage": "quran:49.13", "note": "Status is measured by God-consciousness, not lineage or power.", "relevance": "curated" },
+      { "passage": "matthew:5.5", "note": "The meek inherit the earth, a reversal of conventional status.", "relevance": "related" }
+    ]
+  },
+  {
+    "slug": "truth",
+    "name": "Truthfulness and speech",
+    "question": "When is speech truthful, and what makes a person trustworthy?",
+    "description": "Truth is treated as a quality of speech, of intention, of testimony and of reality itself. The notes distinguish these registers rather than collapsing them.",
+    "sortOrder": 100,
+    "passages": [
+      { "passage": "tao:81", "note": "Sincere words are not fine; fine words are not sincere. Truth and eloquence are set in tension.", "relevance": "curated" },
+      { "passage": "analects:1.8", "note": "Hold faithfulness and sincerity as first principles.", "relevance": "curated" },
+      { "passage": "dhammapada:1", "note": "The quality of intention determines the shape of action and consequence.", "relevance": "curated" },
+      { "passage": "john:1.5", "note": "The light shines in darkness; truth is figured as illumination that is not overcome.", "relevance": "curated" },
+      { "passage": "apology:38a", "note": "Socrates insists on speaking the truth even when it costs him his life.", "relevance": "related" }
+    ]
+  },
+  {
+    "slug": "human-nature",
+    "name": "Human nature",
+    "question": "What is a human being, and what can we become?",
+    "description": "These texts describe humans as created, as capable of virtue, as bundles of habit and intention, and as beings who suffer and learn. The differences are substantive.",
+    "sortOrder": 110,
+    "passages": [
+      { "passage": "matthew:5.3", "note": "The Beatitudes begin with the poor in spirit, reversing ordinary measures of worth.", "relevance": "curated" },
+      { "passage": "dhammapada:2", "note": "Pure intention produces happiness that follows like a shadow.", "relevance": "curated" },
+      { "passage": "analects:1.1", "note": "Human flourishing is social and practised: learning, friends, equanimity.", "relevance": "curated" },
+      { "passage": "gita:2.16", "note": "The mind can be captured by sense objects; discipline is the art of interrupting the chain.", "relevance": "curated" },
+      { "passage": "acaranga:1.1.1", "note": "The capacity to comprehend and renounce the causes of harm is central to Jain anthropology.", "relevance": "related" }
+    ]
+  },
+  {
+    "slug": "community",
+    "name": "Community and responsibility",
+    "question": "What do we owe the communities that form us?",
+    "description": "Community is imagined as family, covenant, congregation, monastic order and human family. The passages disagree about the boundaries of obligation.",
+    "sortOrder": 120,
+    "passages": [
+      { "passage": "analects:1.2", "note": "Filial piety and fraternal respect are the root of humaneness, grounding ethics in family relations.", "relevance": "curated" },
+      { "passage": "quran:49.13", "note": "Peoples and tribes are made for mutual knowledge, not for supremacy.", "relevance": "curated" },
+      { "passage": "matthew:5.9", "note": "Peacemakers are called children of God.", "relevance": "curated" },
+      { "passage": "acaranga:1.1.2", "note": "The monk's discipline extends responsibility to all living beings.", "relevance": "related" },
+      { "passage": "tao:81", "note": "The sage gives to others and does not contend; generosity is a way of being in the world.", "relevance": "related" }
+    ]
+  }
+]

@@ -1,0 +1,1430 @@
+{
+  "slug": "yang-chu",
+  "title": "Yang Chu's Garden of Pleasure",
+  "originalTitle": "楊朱",
+  "transliteration": "Yáng Zhū",
+  "altTitles": [
+    "Yang Chu",
+    "The Garden of Pleasure",
+    "Yang Zhu"
+  ],
+  "tradition": "taoism",
+  "school": "daoist",
+  "genre": "Philosophy",
+  "textType": "Ethical dialogues and anecdotes",
+  "category": "Philosophy",
+  "subcategory": "Daoist classics",
+  "originalLanguage": "zh",
+  "dateStart": -300,
+  "dateEnd": -200,
+  "dateDisplay": "c. 4th–3rd centuries BCE, as transmitted in the Liezi",
+  "authorshipStatus": "composite",
+  "author": "",
+  "attributionNote": "The chapters present the teaching of Yang Zhu (c. 440–360 BCE), whom Mencius attacked for refusing to sacrifice a hair of his body for the world. The text itself is the seventh book of the Liezi, compiled centuries later by followers; it is not a surviving work of Yang Zhu's own hand.",
+  "description": "Yang Chu's Garden of Pleasure is the Liezi's book on the individual life: the vanity of fame, the brevity of consciousness, death as the great leveller, false virtue, duty to the living and the dead, the art of life, the happy voluptuaries, the joys of Tuan-mu Shu and the folly of craving long life. Its hedonism is not licence but a consistent refusal to trade the present for reputation or for an imaginary future, and it preserves one of the sharpest alternatives to the Confucian and Mohist ethics of its time.",
+  "historicalContext": "Yang Zhu's position is known chiefly from his critics, Mencius above all; the Liezi chapter is the fullest surviving statement attributed to him, though its date and fidelity are disputed. Lionel Giles translated it for the Wisdom of the East series in 1912 as a companion to his Lieh-Tzü selection.",
+  "availabilityNote": "Complete. All nineteen chapters of Giles's translation are streamed from the Internet Sacred Text Archive at read time, one chapter per page. The volume's introduction and contents are not part of the work.",
+  "featured": false,
+  "featuredNote": "",
+  "refScheme": "chapter.paragraph",
+  "isSample": false,
+  "textStorage": "streamed",
+  "chapters": [
+    {
+      "ref": "1",
+      "label": "Chapter I — The Vanity of Fame"
+    },
+    {
+      "ref": "2",
+      "label": "Chapter II — Real and False Greatness"
+    },
+    {
+      "ref": "3",
+      "label": "Chapter III — The Brevity of Conscious Life"
+    },
+    {
+      "ref": "4",
+      "label": "Chapter IV — Death the Equaliser"
+    },
+    {
+      "ref": "5",
+      "label": "Chapter V — False Virtues"
+    },
+    {
+      "ref": "6",
+      "label": "Chapter VI — The Ideal Life"
+    },
+    {
+      "ref": "7",
+      "label": "Chapter VII — Duty to the Living and the Dead"
+    },
+    {
+      "ref": "8",
+      "label": "Chapter VIII — The Art of Life"
+    },
+    {
+      "ref": "9",
+      "label": "Chapter IX — The Happy Voluptuaries"
+    },
+    {
+      "ref": "10",
+      "label": "Chapter X — The Joyous Life of Tuan-mu Shu"
+    },
+    {
+      "ref": "11",
+      "label": "Chapter XI — The Folly of Desire for Long Life"
+    },
+    {
+      "ref": "12",
+      "label": "Chapter XII — Self-sacrifice and Self-aggrandisement"
+    },
+    {
+      "ref": "13",
+      "label": "Chapter XIII — The Vanity of Reputation"
+    },
+    {
+      "ref": "14",
+      "label": "Chapter XIV — Difficulty and Ease of Government"
+    },
+    {
+      "ref": "15",
+      "label": "Chapter XV — All Things Pass"
+    },
+    {
+      "ref": "16",
+      "label": "Chapter XVI — The Nature of Man"
+    },
+    {
+      "ref": "17",
+      "label": "Chapter XVII — The Four Chimeras"
+    },
+    {
+      "ref": "18",
+      "label": "Chapter XVIII — All Pleasures Are Relative"
+    },
+    {
+      "ref": "19",
+      "label": "Chapter XIX — The Wisdom of Contentment"
+    }
+  ],
+  "passages": [
+    {
+      "reference": "1.1",
+      "label": "Chapter I — The Vanity of Fame §1",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.2",
+      "label": "Chapter I — The Vanity of Fame §2",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.3",
+      "label": "Chapter I — The Vanity of Fame §3",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.4",
+      "label": "Chapter I — The Vanity of Fame §4",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.5",
+      "label": "Chapter I — The Vanity of Fame §5",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.6",
+      "label": "Chapter I — The Vanity of Fame §6",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.7",
+      "label": "Chapter I — The Vanity of Fame §7",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.8",
+      "label": "Chapter I — The Vanity of Fame §8",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.9",
+      "label": "Chapter I — The Vanity of Fame §9",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.10",
+      "label": "Chapter I — The Vanity of Fame §10",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.11",
+      "label": "Chapter I — The Vanity of Fame §11",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.12",
+      "label": "Chapter I — The Vanity of Fame §12",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.13",
+      "label": "Chapter I — The Vanity of Fame §13",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "2.1",
+      "label": "Chapter II — Real and False Greatness §1",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.2",
+      "label": "Chapter II — Real and False Greatness §2",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.3",
+      "label": "Chapter II — Real and False Greatness §3",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.4",
+      "label": "Chapter II — Real and False Greatness §4",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.5",
+      "label": "Chapter II — Real and False Greatness §5",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.6",
+      "label": "Chapter II — Real and False Greatness §6",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.7",
+      "label": "Chapter II — Real and False Greatness §7",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.8",
+      "label": "Chapter II — Real and False Greatness §8",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.9",
+      "label": "Chapter II — Real and False Greatness §9",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.10",
+      "label": "Chapter II — Real and False Greatness §10",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.11",
+      "label": "Chapter II — Real and False Greatness §11",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.12",
+      "label": "Chapter II — Real and False Greatness §12",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "3.1",
+      "label": "Chapter III — The Brevity of Conscious Life §1",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.2",
+      "label": "Chapter III — The Brevity of Conscious Life §2",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.3",
+      "label": "Chapter III — The Brevity of Conscious Life §3",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.4",
+      "label": "Chapter III — The Brevity of Conscious Life §4",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.5",
+      "label": "Chapter III — The Brevity of Conscious Life §5",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.6",
+      "label": "Chapter III — The Brevity of Conscious Life §6",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.7",
+      "label": "Chapter III — The Brevity of Conscious Life §7",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.8",
+      "label": "Chapter III — The Brevity of Conscious Life §8",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "4.1",
+      "label": "Chapter IV — Death the Equaliser §1",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.2",
+      "label": "Chapter IV — Death the Equaliser §2",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.3",
+      "label": "Chapter IV — Death the Equaliser §3",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.4",
+      "label": "Chapter IV — Death the Equaliser §4",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.5",
+      "label": "Chapter IV — Death the Equaliser §5",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.6",
+      "label": "Chapter IV — Death the Equaliser §6",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.7",
+      "label": "Chapter IV — Death the Equaliser §7",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "5.1",
+      "label": "Chapter V — False Virtues §1",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.2",
+      "label": "Chapter V — False Virtues §2",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.3",
+      "label": "Chapter V — False Virtues §3",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.4",
+      "label": "Chapter V — False Virtues §4",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.5",
+      "label": "Chapter V — False Virtues §5",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.6",
+      "label": "Chapter V — False Virtues §6",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "6.1",
+      "label": "Chapter VI — The Ideal Life §1",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.2",
+      "label": "Chapter VI — The Ideal Life §2",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.3",
+      "label": "Chapter VI — The Ideal Life §3",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.4",
+      "label": "Chapter VI — The Ideal Life §4",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.5",
+      "label": "Chapter VI — The Ideal Life §5",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.6",
+      "label": "Chapter VI — The Ideal Life §6",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.7",
+      "label": "Chapter VI — The Ideal Life §7",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.8",
+      "label": "Chapter VI — The Ideal Life §8",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "7.1",
+      "label": "Chapter VII — Duty to the Living and the Dead §1",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.2",
+      "label": "Chapter VII — Duty to the Living and the Dead §2",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.3",
+      "label": "Chapter VII — Duty to the Living and the Dead §3",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.4",
+      "label": "Chapter VII — Duty to the Living and the Dead §4",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "8.1",
+      "label": "Chapter VIII — The Art of Life §1",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.2",
+      "label": "Chapter VIII — The Art of Life §2",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.3",
+      "label": "Chapter VIII — The Art of Life §3",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.4",
+      "label": "Chapter VIII — The Art of Life §4",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.5",
+      "label": "Chapter VIII — The Art of Life §5",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.6",
+      "label": "Chapter VIII — The Art of Life §6",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.7",
+      "label": "Chapter VIII — The Art of Life §7",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.8",
+      "label": "Chapter VIII — The Art of Life §8",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.9",
+      "label": "Chapter VIII — The Art of Life §9",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.10",
+      "label": "Chapter VIII — The Art of Life §10",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.11",
+      "label": "Chapter VIII — The Art of Life §11",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.12",
+      "label": "Chapter VIII — The Art of Life §12",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.13",
+      "label": "Chapter VIII — The Art of Life §13",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.14",
+      "label": "Chapter VIII — The Art of Life §14",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.15",
+      "label": "Chapter VIII — The Art of Life §15",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.16",
+      "label": "Chapter VIII — The Art of Life §16",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.17",
+      "label": "Chapter VIII — The Art of Life §17",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.18",
+      "label": "Chapter VIII — The Art of Life §18",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.19",
+      "label": "Chapter VIII — The Art of Life §19",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.20",
+      "label": "Chapter VIII — The Art of Life §20",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.21",
+      "label": "Chapter VIII — The Art of Life §21",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.22",
+      "label": "Chapter VIII — The Art of Life §22",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.23",
+      "label": "Chapter VIII — The Art of Life §23",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.24",
+      "label": "Chapter VIII — The Art of Life §24",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.25",
+      "label": "Chapter VIII — The Art of Life §25",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.26",
+      "label": "Chapter VIII — The Art of Life §26",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "9.1",
+      "label": "Chapter IX — The Happy Voluptuaries §1",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.2",
+      "label": "Chapter IX — The Happy Voluptuaries §2",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.3",
+      "label": "Chapter IX — The Happy Voluptuaries §3",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.4",
+      "label": "Chapter IX — The Happy Voluptuaries §4",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.5",
+      "label": "Chapter IX — The Happy Voluptuaries §5",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.6",
+      "label": "Chapter IX — The Happy Voluptuaries §6",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.7",
+      "label": "Chapter IX — The Happy Voluptuaries §7",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.8",
+      "label": "Chapter IX — The Happy Voluptuaries §8",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.9",
+      "label": "Chapter IX — The Happy Voluptuaries §9",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.10",
+      "label": "Chapter IX — The Happy Voluptuaries §10",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.11",
+      "label": "Chapter IX — The Happy Voluptuaries §11",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.12",
+      "label": "Chapter IX — The Happy Voluptuaries §12",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.13",
+      "label": "Chapter IX — The Happy Voluptuaries §13",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.14",
+      "label": "Chapter IX — The Happy Voluptuaries §14",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.15",
+      "label": "Chapter IX — The Happy Voluptuaries §15",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.16",
+      "label": "Chapter IX — The Happy Voluptuaries §16",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.17",
+      "label": "Chapter IX — The Happy Voluptuaries §17",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.18",
+      "label": "Chapter IX — The Happy Voluptuaries §18",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.19",
+      "label": "Chapter IX — The Happy Voluptuaries §19",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.20",
+      "label": "Chapter IX — The Happy Voluptuaries §20",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.21",
+      "label": "Chapter IX — The Happy Voluptuaries §21",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.22",
+      "label": "Chapter IX — The Happy Voluptuaries §22",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.23",
+      "label": "Chapter IX — The Happy Voluptuaries §23",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.24",
+      "label": "Chapter IX — The Happy Voluptuaries §24",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.25",
+      "label": "Chapter IX — The Happy Voluptuaries §25",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.26",
+      "label": "Chapter IX — The Happy Voluptuaries §26",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.27",
+      "label": "Chapter IX — The Happy Voluptuaries §27",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.28",
+      "label": "Chapter IX — The Happy Voluptuaries §28",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.29",
+      "label": "Chapter IX — The Happy Voluptuaries §29",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.30",
+      "label": "Chapter IX — The Happy Voluptuaries §30",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.31",
+      "label": "Chapter IX — The Happy Voluptuaries §31",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.32",
+      "label": "Chapter IX — The Happy Voluptuaries §32",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.33",
+      "label": "Chapter IX — The Happy Voluptuaries §33",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.34",
+      "label": "Chapter IX — The Happy Voluptuaries §34",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.35",
+      "label": "Chapter IX — The Happy Voluptuaries §35",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.36",
+      "label": "Chapter IX — The Happy Voluptuaries §36",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.37",
+      "label": "Chapter IX — The Happy Voluptuaries §37",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "10.1",
+      "label": "Chapter X — The Joyous Life of Tuan-mu Shu §1",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.2",
+      "label": "Chapter X — The Joyous Life of Tuan-mu Shu §2",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.3",
+      "label": "Chapter X — The Joyous Life of Tuan-mu Shu §3",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.4",
+      "label": "Chapter X — The Joyous Life of Tuan-mu Shu §4",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.5",
+      "label": "Chapter X — The Joyous Life of Tuan-mu Shu §5",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.6",
+      "label": "Chapter X — The Joyous Life of Tuan-mu Shu §6",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.7",
+      "label": "Chapter X — The Joyous Life of Tuan-mu Shu §7",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.8",
+      "label": "Chapter X — The Joyous Life of Tuan-mu Shu §8",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.9",
+      "label": "Chapter X — The Joyous Life of Tuan-mu Shu §9",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.10",
+      "label": "Chapter X — The Joyous Life of Tuan-mu Shu §10",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.11",
+      "label": "Chapter X — The Joyous Life of Tuan-mu Shu §11",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.12",
+      "label": "Chapter X — The Joyous Life of Tuan-mu Shu §12",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.13",
+      "label": "Chapter X — The Joyous Life of Tuan-mu Shu §13",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.14",
+      "label": "Chapter X — The Joyous Life of Tuan-mu Shu §14",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "11.1",
+      "label": "Chapter XI — The Folly of Desire for Long Life §1",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.2",
+      "label": "Chapter XI — The Folly of Desire for Long Life §2",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.3",
+      "label": "Chapter XI — The Folly of Desire for Long Life §3",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.4",
+      "label": "Chapter XI — The Folly of Desire for Long Life §4",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.5",
+      "label": "Chapter XI — The Folly of Desire for Long Life §5",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.6",
+      "label": "Chapter XI — The Folly of Desire for Long Life §6",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.7",
+      "label": "Chapter XI — The Folly of Desire for Long Life §7",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.8",
+      "label": "Chapter XI — The Folly of Desire for Long Life §8",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.9",
+      "label": "Chapter XI — The Folly of Desire for Long Life §9",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.10",
+      "label": "Chapter XI — The Folly of Desire for Long Life §10",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.11",
+      "label": "Chapter XI — The Folly of Desire for Long Life §11",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.12",
+      "label": "Chapter XI — The Folly of Desire for Long Life §12",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "12.1",
+      "label": "Chapter XII — Self-sacrifice and Self-aggrandisement §1",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.2",
+      "label": "Chapter XII — Self-sacrifice and Self-aggrandisement §2",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.3",
+      "label": "Chapter XII — Self-sacrifice and Self-aggrandisement §3",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.4",
+      "label": "Chapter XII — Self-sacrifice and Self-aggrandisement §4",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.5",
+      "label": "Chapter XII — Self-sacrifice and Self-aggrandisement §5",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.6",
+      "label": "Chapter XII — Self-sacrifice and Self-aggrandisement §6",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.7",
+      "label": "Chapter XII — Self-sacrifice and Self-aggrandisement §7",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.8",
+      "label": "Chapter XII — Self-sacrifice and Self-aggrandisement §8",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.9",
+      "label": "Chapter XII — Self-sacrifice and Self-aggrandisement §9",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.10",
+      "label": "Chapter XII — Self-sacrifice and Self-aggrandisement §10",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.11",
+      "label": "Chapter XII — Self-sacrifice and Self-aggrandisement §11",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.12",
+      "label": "Chapter XII — Self-sacrifice and Self-aggrandisement §12",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.13",
+      "label": "Chapter XII — Self-sacrifice and Self-aggrandisement §13",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.14",
+      "label": "Chapter XII — Self-sacrifice and Self-aggrandisement §14",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.15",
+      "label": "Chapter XII — Self-sacrifice and Self-aggrandisement §15",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.16",
+      "label": "Chapter XII — Self-sacrifice and Self-aggrandisement §16",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.17",
+      "label": "Chapter XII — Self-sacrifice and Self-aggrandisement §17",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.18",
+      "label": "Chapter XII — Self-sacrifice and Self-aggrandisement §18",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.19",
+      "label": "Chapter XII — Self-sacrifice and Self-aggrandisement §19",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.20",
+      "label": "Chapter XII — Self-sacrifice and Self-aggrandisement §20",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.21",
+      "label": "Chapter XII — Self-sacrifice and Self-aggrandisement §21",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.22",
+      "label": "Chapter XII — Self-sacrifice and Self-aggrandisement §22",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.23",
+      "label": "Chapter XII — Self-sacrifice and Self-aggrandisement §23",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.24",
+      "label": "Chapter XII — Self-sacrifice and Self-aggrandisement §24",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.25",
+      "label": "Chapter XII — Self-sacrifice and Self-aggrandisement §25",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.26",
+      "label": "Chapter XII — Self-sacrifice and Self-aggrandisement §26",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.27",
+      "label": "Chapter XII — Self-sacrifice and Self-aggrandisement §27",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.28",
+      "label": "Chapter XII — Self-sacrifice and Self-aggrandisement §28",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "13.1",
+      "label": "Chapter XIII — The Vanity of Reputation §1",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.2",
+      "label": "Chapter XIII — The Vanity of Reputation §2",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.3",
+      "label": "Chapter XIII — The Vanity of Reputation §3",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.4",
+      "label": "Chapter XIII — The Vanity of Reputation §4",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.5",
+      "label": "Chapter XIII — The Vanity of Reputation §5",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.6",
+      "label": "Chapter XIII — The Vanity of Reputation §6",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.7",
+      "label": "Chapter XIII — The Vanity of Reputation §7",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.8",
+      "label": "Chapter XIII — The Vanity of Reputation §8",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.9",
+      "label": "Chapter XIII — The Vanity of Reputation §9",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.10",
+      "label": "Chapter XIII — The Vanity of Reputation §10",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.11",
+      "label": "Chapter XIII — The Vanity of Reputation §11",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.12",
+      "label": "Chapter XIII — The Vanity of Reputation §12",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.13",
+      "label": "Chapter XIII — The Vanity of Reputation §13",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.14",
+      "label": "Chapter XIII — The Vanity of Reputation §14",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.15",
+      "label": "Chapter XIII — The Vanity of Reputation §15",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.16",
+      "label": "Chapter XIII — The Vanity of Reputation §16",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.17",
+      "label": "Chapter XIII — The Vanity of Reputation §17",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.18",
+      "label": "Chapter XIII — The Vanity of Reputation §18",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.19",
+      "label": "Chapter XIII — The Vanity of Reputation §19",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.20",
+      "label": "Chapter XIII — The Vanity of Reputation §20",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.21",
+      "label": "Chapter XIII — The Vanity of Reputation §21",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.22",
+      "label": "Chapter XIII — The Vanity of Reputation §22",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.23",
+      "label": "Chapter XIII — The Vanity of Reputation §23",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.24",
+      "label": "Chapter XIII — The Vanity of Reputation §24",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.25",
+      "label": "Chapter XIII — The Vanity of Reputation §25",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.26",
+      "label": "Chapter XIII — The Vanity of Reputation §26",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.27",
+      "label": "Chapter XIII — The Vanity of Reputation §27",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.28",
+      "label": "Chapter XIII — The Vanity of Reputation §28",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "14.1",
+      "label": "Chapter XIV — Difficulty and Ease of Government §1",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.2",
+      "label": "Chapter XIV — Difficulty and Ease of Government §2",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.3",
+      "label": "Chapter XIV — Difficulty and Ease of Government §3",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.4",
+      "label": "Chapter XIV — Difficulty and Ease of Government §4",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.5",
+      "label": "Chapter XIV — Difficulty and Ease of Government §5",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.6",
+      "label": "Chapter XIV — Difficulty and Ease of Government §6",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.7",
+      "label": "Chapter XIV — Difficulty and Ease of Government §7",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "15.1",
+      "label": "Chapter XV — All Things Pass §1",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.2",
+      "label": "Chapter XV — All Things Pass §2",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.3",
+      "label": "Chapter XV — All Things Pass §3",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.4",
+      "label": "Chapter XV — All Things Pass §4",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.5",
+      "label": "Chapter XV — All Things Pass §5",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.6",
+      "label": "Chapter XV — All Things Pass §6",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.7",
+      "label": "Chapter XV — All Things Pass §7",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "16.1",
+      "label": "Chapter XVI — The Nature of Man §1",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.2",
+      "label": "Chapter XVI — The Nature of Man §2",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.3",
+      "label": "Chapter XVI — The Nature of Man §3",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.4",
+      "label": "Chapter XVI — The Nature of Man §4",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.5",
+      "label": "Chapter XVI — The Nature of Man §5",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.6",
+      "label": "Chapter XVI — The Nature of Man §6",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.7",
+      "label": "Chapter XVI — The Nature of Man §7",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.8",
+      "label": "Chapter XVI — The Nature of Man §8",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "17.1",
+      "label": "Chapter XVII — The Four Chimeras §1",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.2",
+      "label": "Chapter XVII — The Four Chimeras §2",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.3",
+      "label": "Chapter XVII — The Four Chimeras §3",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.4",
+      "label": "Chapter XVII — The Four Chimeras §4",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.5",
+      "label": "Chapter XVII — The Four Chimeras §5",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.6",
+      "label": "Chapter XVII — The Four Chimeras §6",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.7",
+      "label": "Chapter XVII — The Four Chimeras §7",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.8",
+      "label": "Chapter XVII — The Four Chimeras §8",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.9",
+      "label": "Chapter XVII — The Four Chimeras §9",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.10",
+      "label": "Chapter XVII — The Four Chimeras §10",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.11",
+      "label": "Chapter XVII — The Four Chimeras §11",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.12",
+      "label": "Chapter XVII — The Four Chimeras §12",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "18.1",
+      "label": "Chapter XVIII — All Pleasures Are Relative §1",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.2",
+      "label": "Chapter XVIII — All Pleasures Are Relative §2",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.3",
+      "label": "Chapter XVIII — All Pleasures Are Relative §3",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.4",
+      "label": "Chapter XVIII — All Pleasures Are Relative §4",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.5",
+      "label": "Chapter XVIII — All Pleasures Are Relative §5",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.6",
+      "label": "Chapter XVIII — All Pleasures Are Relative §6",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.7",
+      "label": "Chapter XVIII — All Pleasures Are Relative §7",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.8",
+      "label": "Chapter XVIII — All Pleasures Are Relative §8",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.9",
+      "label": "Chapter XVIII — All Pleasures Are Relative §9",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.10",
+      "label": "Chapter XVIII — All Pleasures Are Relative §10",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.11",
+      "label": "Chapter XVIII — All Pleasures Are Relative §11",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.12",
+      "label": "Chapter XVIII — All Pleasures Are Relative §12",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.13",
+      "label": "Chapter XVIII — All Pleasures Are Relative §13",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "19.1",
+      "label": "Chapter XIX — The Wisdom of Contentment §1",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.2",
+      "label": "Chapter XIX — The Wisdom of Contentment §2",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.3",
+      "label": "Chapter XIX — The Wisdom of Contentment §3",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.4",
+      "label": "Chapter XIX — The Wisdom of Contentment §4",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.5",
+      "label": "Chapter XIX — The Wisdom of Contentment §5",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.6",
+      "label": "Chapter XIX — The Wisdom of Contentment §6",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.7",
+      "label": "Chapter XIX — The Wisdom of Contentment §7",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.8",
+      "label": "Chapter XIX — The Wisdom of Contentment §8",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.9",
+      "label": "Chapter XIX — The Wisdom of Contentment §9",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.10",
+      "label": "Chapter XIX — The Wisdom of Contentment §10",
+      "chapterRef": "19"
+    }
+  ],
+  "editions": [
+    {
+      "slug": "yang-chu-en",
+      "language": "en",
+      "editionType": "translation",
+      "title": "Yang Chu's Garden of Pleasure",
+      "translator": "Lionel Giles",
+      "publisher": "Internet Sacred Text Archive",
+      "publicationYear": 1912,
+      "source": "sacred-texts",
+      "license": "public-domain",
+      "rightsStatus": "Public domain in the United States",
+      "attributionText": "Yang Chu's Garden of Pleasure, translated by Lionel Giles (1912). The Wisdom of the East Series, London. Public domain in the United States. Digital text from the Internet Sacred Text Archive.",
+      "structureScheme": "chapter and paragraph index; each chapter is one printed chapter",
+      "isSample": false,
+      "notes": "The import cache stores the exact segments that were validated. The reader re-fetches the chapter from the host and reports when the served count no longer matches the index."
+    }
+  ]
+}

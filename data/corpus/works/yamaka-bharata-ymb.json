@@ -1,0 +1,483 @@
+{
+  "slug": "yamaka-bharata-ymb",
+  "title": "Yamaka-bhārata",
+  "originalTitle": "यमकभारतम्",
+  "transliteration": "Yamaka-bhārata",
+  "altTitles": [],
+  "tradition": "hinduism",
+  "school": "",
+  "genre": "Scripture",
+  "textType": "Sanskrit verse (sloka)",
+  "category": "Khaṇḍakāvya",
+  "subcategory": "",
+  "originalLanguage": "sa",
+  "dateStart": null,
+  "dateEnd": null,
+  "dateDisplay": "",
+  "authorshipStatus": "traditional",
+  "author": "madhva",
+  "attributionNote": "Yamaka-bhārata, attributed to Madhvācārya (Ānandatīrtha), as Heritage IITKanpur's Scripture Server catalogues it (YMB), on its own shelf.",
+  "description": "The summary above is the one Heritage IITKanpur's Scripture Server publishes for the text; an editor's note for the work itself is still to be written.",
+  "historicalContext": "Read in the Heritage Scripture Server corpus, which continues the Gita Supersite built at IIT Kanpur: the text, its classical commentaries and the translations the server may serve are held together there.",
+  "availabilityNote": "The outline is held: 7 chapter(s) and 81 verse address(es), read from the server's own catalogue. The verses are not stored — the licence forbids bulk harvesting and database reconstruction — and are streamed from the API one verse at a time as the work is read, with the attribution HCAL-1.1 requires and the server's own quota and licence notice.",
+  "featured": false,
+  "featuredNote": "",
+  "refScheme": "chapter.verse",
+  "isSample": false,
+  "textStorage": "streamed",
+  "chapters": [
+    {
+      "ref": "1",
+      "label": "1. मङ्गलाचरणम्"
+    },
+    {
+      "ref": "2",
+      "label": "2. उपोद्घातः"
+    },
+    {
+      "ref": "3",
+      "label": "3. श्रीकृष्णकथा प्रद्युम्नादिप्रादुर्भावपर्यन्ता [हरिवंशनिर्णयः]"
+    },
+    {
+      "ref": "4",
+      "label": "4. भारतकथानिर्णयः"
+    },
+    {
+      "ref": "5",
+      "label": "5. अन्यभगवद्रूपाणां स्तुतिः"
+    },
+    {
+      "ref": "6",
+      "label": "6. भगवतः सर्ववर्णप्रतिपाद्यत्वसूचनम्"
+    },
+    {
+      "ref": "7",
+      "label": "7. उपसंहारः"
+    }
+  ],
+  "passages": [
+    {
+      "reference": "1.1",
+      "label": "1. मङ्गलाचरणम् · verse 1",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "2.1",
+      "label": "2. उपोद्घातः · verse 1",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.2",
+      "label": "2. उपोद्घातः · verse 2",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.3",
+      "label": "2. उपोद्घातः · verse 3",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "3.1",
+      "label": "3. श्रीकृष्णकथा प्रद्युम्नादिप्रादुर्भावपर्यन्ता [हरिवंशनिर्णयः] · verse 1",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.2",
+      "label": "3. श्रीकृष्णकथा प्रद्युम्नादिप्रादुर्भावपर्यन्ता [हरिवंशनिर्णयः] · verse 2",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.3",
+      "label": "3. श्रीकृष्णकथा प्रद्युम्नादिप्रादुर्भावपर्यन्ता [हरिवंशनिर्णयः] · verse 3",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.4",
+      "label": "3. श्रीकृष्णकथा प्रद्युम्नादिप्रादुर्भावपर्यन्ता [हरिवंशनिर्णयः] · verse 4",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.5",
+      "label": "3. श्रीकृष्णकथा प्रद्युम्नादिप्रादुर्भावपर्यन्ता [हरिवंशनिर्णयः] · verse 5",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.6",
+      "label": "3. श्रीकृष्णकथा प्रद्युम्नादिप्रादुर्भावपर्यन्ता [हरिवंशनिर्णयः] · verse 6",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.7",
+      "label": "3. श्रीकृष्णकथा प्रद्युम्नादिप्रादुर्भावपर्यन्ता [हरिवंशनिर्णयः] · verse 7",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.8",
+      "label": "3. श्रीकृष्णकथा प्रद्युम्नादिप्रादुर्भावपर्यन्ता [हरिवंशनिर्णयः] · verse 8",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.9",
+      "label": "3. श्रीकृष्णकथा प्रद्युम्नादिप्रादुर्भावपर्यन्ता [हरिवंशनिर्णयः] · verse 9",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.10",
+      "label": "3. श्रीकृष्णकथा प्रद्युम्नादिप्रादुर्भावपर्यन्ता [हरिवंशनिर्णयः] · verse 10",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.11",
+      "label": "3. श्रीकृष्णकथा प्रद्युम्नादिप्रादुर्भावपर्यन्ता [हरिवंशनिर्णयः] · verse 11",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.12",
+      "label": "3. श्रीकृष्णकथा प्रद्युम्नादिप्रादुर्भावपर्यन्ता [हरिवंशनिर्णयः] · verse 12",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.13",
+      "label": "3. श्रीकृष्णकथा प्रद्युम्नादिप्रादुर्भावपर्यन्ता [हरिवंशनिर्णयः] · verse 13",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.14",
+      "label": "3. श्रीकृष्णकथा प्रद्युम्नादिप्रादुर्भावपर्यन्ता [हरिवंशनिर्णयः] · verse 14",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.15",
+      "label": "3. श्रीकृष्णकथा प्रद्युम्नादिप्रादुर्भावपर्यन्ता [हरिवंशनिर्णयः] · verse 15",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.16",
+      "label": "3. श्रीकृष्णकथा प्रद्युम्नादिप्रादुर्भावपर्यन्ता [हरिवंशनिर्णयः] · verse 16",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.17",
+      "label": "3. श्रीकृष्णकथा प्रद्युम्नादिप्रादुर्भावपर्यन्ता [हरिवंशनिर्णयः] · verse 17",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.18",
+      "label": "3. श्रीकृष्णकथा प्रद्युम्नादिप्रादुर्भावपर्यन्ता [हरिवंशनिर्णयः] · verse 18",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.19",
+      "label": "3. श्रीकृष्णकथा प्रद्युम्नादिप्रादुर्भावपर्यन्ता [हरिवंशनिर्णयः] · verse 19",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.20",
+      "label": "3. श्रीकृष्णकथा प्रद्युम्नादिप्रादुर्भावपर्यन्ता [हरिवंशनिर्णयः] · verse 20",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.21",
+      "label": "3. श्रीकृष्णकथा प्रद्युम्नादिप्रादुर्भावपर्यन्ता [हरिवंशनिर्णयः] · verse 21",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.22",
+      "label": "3. श्रीकृष्णकथा प्रद्युम्नादिप्रादुर्भावपर्यन्ता [हरिवंशनिर्णयः] · verse 22",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.23",
+      "label": "3. श्रीकृष्णकथा प्रद्युम्नादिप्रादुर्भावपर्यन्ता [हरिवंशनिर्णयः] · verse 23",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.24",
+      "label": "3. श्रीकृष्णकथा प्रद्युम्नादिप्रादुर्भावपर्यन्ता [हरिवंशनिर्णयः] · verse 24",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.25",
+      "label": "3. श्रीकृष्णकथा प्रद्युम्नादिप्रादुर्भावपर्यन्ता [हरिवंशनिर्णयः] · verse 25",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "4.1",
+      "label": "4. भारतकथानिर्णयः · verse 1",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.2",
+      "label": "4. भारतकथानिर्णयः · verse 2",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.3",
+      "label": "4. भारतकथानिर्णयः · verse 3",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.4",
+      "label": "4. भारतकथानिर्णयः · verse 4",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.5",
+      "label": "4. भारतकथानिर्णयः · verse 5",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.6",
+      "label": "4. भारतकथानिर्णयः · verse 6",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.7",
+      "label": "4. भारतकथानिर्णयः · verse 7",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.8",
+      "label": "4. भारतकथानिर्णयः · verse 8",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.9",
+      "label": "4. भारतकथानिर्णयः · verse 9",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.10",
+      "label": "4. भारतकथानिर्णयः · verse 10",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.11",
+      "label": "4. भारतकथानिर्णयः · verse 11",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.12",
+      "label": "4. भारतकथानिर्णयः · verse 12",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.13",
+      "label": "4. भारतकथानिर्णयः · verse 13",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.14",
+      "label": "4. भारतकथानिर्णयः · verse 14",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.15",
+      "label": "4. भारतकथानिर्णयः · verse 15",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.16",
+      "label": "4. भारतकथानिर्णयः · verse 16",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.17",
+      "label": "4. भारतकथानिर्णयः · verse 17",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.18",
+      "label": "4. भारतकथानिर्णयः · verse 18",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.19",
+      "label": "4. भारतकथानिर्णयः · verse 19",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.20",
+      "label": "4. भारतकथानिर्णयः · verse 20",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.21",
+      "label": "4. भारतकथानिर्णयः · verse 21",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.22",
+      "label": "4. भारतकथानिर्णयः · verse 22",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.23",
+      "label": "4. भारतकथानिर्णयः · verse 23",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.24",
+      "label": "4. भारतकथानिर्णयः · verse 24",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.25",
+      "label": "4. भारतकथानिर्णयः · verse 25",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.26",
+      "label": "4. भारतकथानिर्णयः · verse 26",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.27",
+      "label": "4. भारतकथानिर्णयः · verse 27",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.28",
+      "label": "4. भारतकथानिर्णयः · verse 28",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.29",
+      "label": "4. भारतकथानिर्णयः · verse 29",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.30",
+      "label": "4. भारतकथानिर्णयः · verse 30",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.31",
+      "label": "4. भारतकथानिर्णयः · verse 31",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.32",
+      "label": "4. भारतकथानिर्णयः · verse 32",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.33",
+      "label": "4. भारतकथानिर्णयः · verse 33",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.34",
+      "label": "4. भारतकथानिर्णयः · verse 34",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.35",
+      "label": "4. भारतकथानिर्णयः · verse 35",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.36",
+      "label": "4. भारतकथानिर्णयः · verse 36",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.37",
+      "label": "4. भारतकथानिर्णयः · verse 37",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.38",
+      "label": "4. भारतकथानिर्णयः · verse 38",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.39",
+      "label": "4. भारतकथानिर्णयः · verse 39",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.40",
+      "label": "4. भारतकथानिर्णयः · verse 40",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "5.1",
+      "label": "5. अन्यभगवद्रूपाणां स्तुतिः · verse 1",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.2",
+      "label": "5. अन्यभगवद्रूपाणां स्तुतिः · verse 2",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.3",
+      "label": "5. अन्यभगवद्रूपाणां स्तुतिः · verse 3",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.4",
+      "label": "5. अन्यभगवद्रूपाणां स्तुतिः · verse 4",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.5",
+      "label": "5. अन्यभगवद्रूपाणां स्तुतिः · verse 5",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.6",
+      "label": "5. अन्यभगवद्रूपाणां स्तुतिः · verse 6",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.7",
+      "label": "5. अन्यभगवद्रूपाणां स्तुतिः · verse 7",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.8",
+      "label": "5. अन्यभगवद्रूपाणां स्तुतिः · verse 8",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "6.1",
+      "label": "6. भगवतः सर्ववर्णप्रतिपाद्यत्वसूचनम् · verse 1",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "7.1",
+      "label": "7. उपसंहारः · verse 1",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.2",
+      "label": "7. उपसंहारः · verse 2",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.3",
+      "label": "7. उपसंहारः · verse 3",
+      "chapterRef": "7"
+    }
+  ],
+  "editions": [
+    {
+      "slug": "yamaka-bharata-ymb-sa",
+      "language": "sa",
+      "editionType": "original",
+      "title": "Yamaka-bhārata (Heritage Scripture Server transcription)",
+      "translator": "",
+      "publisher": "Heritage IITKanpur, Heritage Scripture Server",
+      "publicationYear": null,
+      "source": "gita-supersite",
+      "license": "hcal-1-1",
+      "rightsStatus": "Tier A (the moolam and its transliterations): no modern copyright, freely redistributable. Where the API serves Tier B — the Sanskrit bhāṣya and the AI-generated, community and editorially authored translations — it is displayed non-commercially with attribution and is not relicensed here. Tier C, the authoritative modern-language translations and commentaries, is not served by the API and is not imported.",
+      "attributionText": "Yamaka-bhārata, Madhvācārya (Ānandatīrtha). Accessed via Heritage Scripture Server (heritage.iitk.ac.in), licence HCAL-1.1. Source: https://heritage.iitk.ac.in/YMB",
+      "structureScheme": "chapter and verse, as the server's own sections and verse addresses divide the text",
+      "isSample": false,
+      "notes": "The verse index was built from the server's published verse addresses. The verses themselves are fetched from the API at read time and are shown with the licence's attribution; the licence identifier and any watermark the server returns are left in place."
+    }
+  ]
+}

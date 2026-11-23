@@ -1,0 +1,930 @@
+{
+  "slug": "sutta-mn9",
+  "title": "Right View (MN9)",
+  "originalTitle": "Sammādiṭṭhisutta",
+  "transliteration": "",
+  "altTitles": [
+    "Right View"
+  ],
+  "tradition": "buddhism",
+  "school": "theravada",
+  "genre": "Scripture",
+  "textType": "Discourse",
+  "category": "Sutta",
+  "subcategory": "Majjhima Nikāya",
+  "originalLanguage": "pi",
+  "dateStart": -400,
+  "dateEnd": -100,
+  "dateDisplay": "Composed c. 4th–2nd centuries BCE; written down in the 1st century BCE",
+  "authorshipStatus": "anonymous",
+  "author": "buddha",
+  "attributionNote": "The discourse is presented in the canonical collection as the Buddha's teaching, transmitted by the early Buddhist community. Authorship of the surviving Pali text is collective and anonymous.",
+  "description": "Right View is sutta 9 of the Majjhima Nikāya (Middle Length Discourses). The Middle Length Discourses gather 152 suttas of the Pali canon, among them the Satipaṭṭhāna, the Alagaddūpama and the Cūḷamālukya suttas. They are preserved in Pali and translated here by Bhikkhu Sujato.",
+  "historicalContext": "The Majjhima Nikāya belongs to the Sutta Piṭaka of the Theravada canon. Its discourses are central to the study of early Buddhist doctrine and practice in every Buddhist tradition that preserves them.",
+  "availabilityNote": "",
+  "featured": false,
+  "featuredNote": "",
+  "refScheme": "chapter.paragraph",
+  "isSample": false,
+  "textStorage": "streamed",
+  "chapters": [
+    {
+      "ref": "mn9",
+      "label": "MN9 · Right View"
+    }
+  ],
+  "passages": [
+    {
+      "reference": "1",
+      "label": "mn9:1.1",
+      "chapterRef": "mn9"
+    },
+    {
+      "reference": "2",
+      "label": "mn9:1.2",
+      "chapterRef": "mn9"
+    },
+    {
+      "reference": "3",
+      "label": "mn9:1.3",
+      "chapterRef": "mn9"
+    },
+    {
+      "reference": "4",
+      "label": "mn9:1.4",
+      "chapterRef": "mn9"
+    },
+    {
+      "reference": "5",
+      "label": "mn9:1.5",
+      "chapterRef": "mn9"
+    },
+    {
+      "reference": "6",
+      "label": "mn9:1.6",
+      "chapterRef": "mn9"
+    },
+    {
+      "reference": "7",
+      "label": "mn9:2.1",
+      "chapterRef": "mn9"
+    },
+    {
+      "reference": "8",
+      "label": "mn9:2.2",
+      "chapterRef": "mn9"
+    },
+    {
+      "reference": "9",
+      "label": "mn9:2.3",
+      "chapterRef": "mn9"
+    },
+    {
+      "reference": "10",
+      "label": "mn9:2.4",
+      "chapterRef": "mn9"
+    },
+    {
+      "reference": "11",
+      "label": "mn9:2.5",
+      "chapterRef": "mn9"
+    },
+    {
+      "reference": "12",
+      "label": "mn9:2.6",
+      "chapterRef": "mn9"
+    },
+    {
+      "reference": "13",
+      "label": "mn9:2.7",
+      "chapterRef": "mn9"
+    },
+    {
+      "reference": "14",
+      "label": "mn9:2.8",
+      "chapterRef": "mn9"
+    },
+    {
+      "reference": "15",
+      "label": "mn9:3.1",
+      "chapterRef": "mn9"
+    },
+    {
+      "reference": "16",
+      "label": "mn9:3.2",
+      "chapterRef": "mn9"
+    },
+    {
+      "reference": "17",
+      "label": "mn9:4.1",
+      "chapterRef": "mn9"
+    },
+    {
+      "reference": "18",
+      "label": "mn9:4.2",
+      "chapterRef": "mn9"
+    },
+    {
+      "reference": "19",
+      "label": "mn9:4.3",
+      "chapterRef": "mn9"
+    },
+    {
+      "reference": "20",
+      "label": "mn9:5.1",
+      "chapterRef": "mn9"
+    },
+    {
+      "reference": "21",
+      "label": "mn9:5.2",
+      "chapterRef": "mn9"
+    },
+    {
+      "reference": "22",
+      "label": "mn9:5.3",
+      "chapterRef": "mn9"
+    },
+    {
+      "reference": "23",
+      "label": "mn9:6.1",
+      "chapterRef": "mn9"
+    },
+    {
+      "reference": "24",
+      "label": "mn9:6.2",
+      "chapterRef": "mn9"
+    },
+    {
+      "reference": "25",
+      "label": "mn9:6.3",
+      "chapterRef": "mn9"
+    },
+    {
+      "reference": "26",
+      "label": "mn9:7.1",
+      "chapterRef": "mn9"
+    },
+    {
+      "reference": "27",
+      "label": "mn9:7.2",
+      "chapterRef": "mn9"
+    },
+    {
+      "reference": "28",
+      "label": "mn9:7.3",
+      "chapterRef": "mn9"
+    },
+    {
+      "reference": "29",
+      "label": "mn9:8.1",
+      "chapterRef": "mn9"
+    },
+    {
+      "reference": "30",
+      "label": "mn9:8.2",
+      "chapterRef": "mn9"
+    },
+    {
+      "reference": "31",
+      "label": "mn9:9.1",
+      "chapterRef": "mn9"
+    },
+    {
+      "reference": "32",
+      "label": "mn9:9.2",
+      "chapterRef": "mn9"
+    },
+    {
+      "reference": "33",
+      "label": "mn9:10.1",
+      "chapterRef": "mn9"
+    },
+    {
+      "reference": "34",
+      "label": "mn9:10.2",
+      "chapterRef": "mn9"
+    },
+    {
+      "reference": "35",
+      "label": "mn9:10.3",
+      "chapterRef": "mn9"
+    },
+    {
+      "reference": "36",
+      "label": "mn9:11.1",
+      "chapterRef": "mn9"
+    },
+    {
+      "reference": "37",
+      "label": "mn9:11.2",
+      "chapterRef": "mn9"
+    },
+    {
+      "reference": "38",
+      "label": "mn9:11.3",
+      "chapterRef": "mn9"
+    },
+    {
+      "reference": "39",
+      "label": "mn9:11.4",
+      "chapterRef": "mn9"
+    },
+    {
+      "reference": "40",
+      "label": "mn9:11.5",
+      "chapterRef": "mn9"
+    },
+    {
+      "reference": "41",
+      "label": "mn9:11.6",
+      "chapterRef": "mn9"
+    },
+    {
+      "reference": "42",
+      "label": "mn9:12.1",
+      "chapterRef": "mn9"
+    },
+    {
+      "reference": "43",
+      "label": "mn9:12.2",
+      "chapterRef": "mn9"
+    },
+    {
+      "reference": "44",
+      "label": "mn9:13.1",
+      "chapterRef": "mn9"
+    },
+    {
+      "reference": "45",
+      "label": "mn9:13.2",
+      "chapterRef": "mn9"
+    },
+    {
+      "reference": "46",
+      "label": "mn9:14.1",
+      "chapterRef": "mn9"
+    },
+    {
+      "reference": "47",
+      "label": "mn9:14.2",
+      "chapterRef": "mn9"
+    },
+    {
+      "reference": "48",
+      "label": "mn9:14.3",
+      "chapterRef": "mn9"
+    },
+    {
+      "reference": "49",
+      "label": "mn9:15.1",
+      "chapterRef": "mn9"
+    },
+    {
+      "reference": "50",
+      "label": "mn9:15.2",
+      "chapterRef": "mn9"
+    },
+    {
+      "reference": "51",
+      "label": "mn9:15.3",
+      "chapterRef": "mn9"
+    },
+    {
+      "reference": "52",
+      "label": "mn9:16.1",
+      "chapterRef": "mn9"
+    },
+    {
+      "reference": "53",
+      "label": "mn9:16.2",
+      "chapterRef": "mn9"
+    },
+    {
+      "reference": "54",
+      "label": "mn9:16.3",
+      "chapterRef": "mn9"
+    },
+    {
+      "reference": "55",
+      "label": "mn9:16.4",
+      "chapterRef": "mn9"
+    },
+    {
+      "reference": "56",
+      "label": "mn9:17.1",
+      "chapterRef": "mn9"
+    },
+    {
+      "reference": "57",
+      "label": "mn9:17.2",
+      "chapterRef": "mn9"
+    },
+    {
+      "reference": "58",
+      "label": "mn9:17.3",
+      "chapterRef": "mn9"
+    },
+    {
+      "reference": "59",
+      "label": "mn9:18.1",
+      "chapterRef": "mn9"
+    },
+    {
+      "reference": "60",
+      "label": "mn9:18.2",
+      "chapterRef": "mn9"
+    },
+    {
+      "reference": "61",
+      "label": "mn9:18.3",
+      "chapterRef": "mn9"
+    },
+    {
+      "reference": "62",
+      "label": "mn9:18.4",
+      "chapterRef": "mn9"
+    },
+    {
+      "reference": "63",
+      "label": "mn9:19.1",
+      "chapterRef": "mn9"
+    },
+    {
+      "reference": "64",
+      "label": "mn9:19.2",
+      "chapterRef": "mn9"
+    },
+    {
+      "reference": "65",
+      "label": "mn9:20.1",
+      "chapterRef": "mn9"
+    },
+    {
+      "reference": "66",
+      "label": "mn9:20.2",
+      "chapterRef": "mn9"
+    },
+    {
+      "reference": "67",
+      "label": "mn9:21.1",
+      "chapterRef": "mn9"
+    },
+    {
+      "reference": "68",
+      "label": "mn9:21.2",
+      "chapterRef": "mn9"
+    },
+    {
+      "reference": "69",
+      "label": "mn9:22.1",
+      "chapterRef": "mn9"
+    },
+    {
+      "reference": "70",
+      "label": "mn9:22.2",
+      "chapterRef": "mn9"
+    },
+    {
+      "reference": "71",
+      "label": "mn9:22.3",
+      "chapterRef": "mn9"
+    },
+    {
+      "reference": "72",
+      "label": "mn9:22.4",
+      "chapterRef": "mn9"
+    },
+    {
+      "reference": "73",
+      "label": "mn9:22.5",
+      "chapterRef": "mn9"
+    },
+    {
+      "reference": "74",
+      "label": "mn9:22.6",
+      "chapterRef": "mn9"
+    },
+    {
+      "reference": "75",
+      "label": "mn9:22.7",
+      "chapterRef": "mn9"
+    },
+    {
+      "reference": "76",
+      "label": "mn9:22.8",
+      "chapterRef": "mn9"
+    },
+    {
+      "reference": "77",
+      "label": "mn9:22.9",
+      "chapterRef": "mn9"
+    },
+    {
+      "reference": "78",
+      "label": "mn9:24.2",
+      "chapterRef": "mn9"
+    },
+    {
+      "reference": "79",
+      "label": "mn9:25.1",
+      "chapterRef": "mn9"
+    },
+    {
+      "reference": "80",
+      "label": "mn9:25.2",
+      "chapterRef": "mn9"
+    },
+    {
+      "reference": "81",
+      "label": "mn9:26.1",
+      "chapterRef": "mn9"
+    },
+    {
+      "reference": "82",
+      "label": "mn9:26.2",
+      "chapterRef": "mn9"
+    },
+    {
+      "reference": "83",
+      "label": "mn9:26.3",
+      "chapterRef": "mn9"
+    },
+    {
+      "reference": "84",
+      "label": "mn9:26.4",
+      "chapterRef": "mn9"
+    },
+    {
+      "reference": "85",
+      "label": "mn9:28.2",
+      "chapterRef": "mn9"
+    },
+    {
+      "reference": "86",
+      "label": "mn9:29.1",
+      "chapterRef": "mn9"
+    },
+    {
+      "reference": "87",
+      "label": "mn9:29.2",
+      "chapterRef": "mn9"
+    },
+    {
+      "reference": "88",
+      "label": "mn9:30.1",
+      "chapterRef": "mn9"
+    },
+    {
+      "reference": "89",
+      "label": "mn9:30.2",
+      "chapterRef": "mn9"
+    },
+    {
+      "reference": "90",
+      "label": "mn9:30.3",
+      "chapterRef": "mn9"
+    },
+    {
+      "reference": "91",
+      "label": "mn9:30.4",
+      "chapterRef": "mn9"
+    },
+    {
+      "reference": "92",
+      "label": "mn9:32.2",
+      "chapterRef": "mn9"
+    },
+    {
+      "reference": "93",
+      "label": "mn9:33.1",
+      "chapterRef": "mn9"
+    },
+    {
+      "reference": "94",
+      "label": "mn9:33.2",
+      "chapterRef": "mn9"
+    },
+    {
+      "reference": "95",
+      "label": "mn9:34.1",
+      "chapterRef": "mn9"
+    },
+    {
+      "reference": "96",
+      "label": "mn9:34.2",
+      "chapterRef": "mn9"
+    },
+    {
+      "reference": "97",
+      "label": "mn9:34.3",
+      "chapterRef": "mn9"
+    },
+    {
+      "reference": "98",
+      "label": "mn9:34.4",
+      "chapterRef": "mn9"
+    },
+    {
+      "reference": "99",
+      "label": "mn9:36.2",
+      "chapterRef": "mn9"
+    },
+    {
+      "reference": "100",
+      "label": "mn9:37.1",
+      "chapterRef": "mn9"
+    },
+    {
+      "reference": "101",
+      "label": "mn9:37.2",
+      "chapterRef": "mn9"
+    },
+    {
+      "reference": "102",
+      "label": "mn9:38.1",
+      "chapterRef": "mn9"
+    },
+    {
+      "reference": "103",
+      "label": "mn9:38.2",
+      "chapterRef": "mn9"
+    },
+    {
+      "reference": "104",
+      "label": "mn9:38.3",
+      "chapterRef": "mn9"
+    },
+    {
+      "reference": "105",
+      "label": "mn9:38.4",
+      "chapterRef": "mn9"
+    },
+    {
+      "reference": "106",
+      "label": "mn9:40.2",
+      "chapterRef": "mn9"
+    },
+    {
+      "reference": "107",
+      "label": "mn9:41.1",
+      "chapterRef": "mn9"
+    },
+    {
+      "reference": "108",
+      "label": "mn9:41.2",
+      "chapterRef": "mn9"
+    },
+    {
+      "reference": "109",
+      "label": "mn9:42.1",
+      "chapterRef": "mn9"
+    },
+    {
+      "reference": "110",
+      "label": "mn9:42.2",
+      "chapterRef": "mn9"
+    },
+    {
+      "reference": "111",
+      "label": "mn9:42.3",
+      "chapterRef": "mn9"
+    },
+    {
+      "reference": "112",
+      "label": "mn9:42.4",
+      "chapterRef": "mn9"
+    },
+    {
+      "reference": "113",
+      "label": "mn9:44.2",
+      "chapterRef": "mn9"
+    },
+    {
+      "reference": "114",
+      "label": "mn9:45.1",
+      "chapterRef": "mn9"
+    },
+    {
+      "reference": "115",
+      "label": "mn9:45.2",
+      "chapterRef": "mn9"
+    },
+    {
+      "reference": "116",
+      "label": "mn9:46.1",
+      "chapterRef": "mn9"
+    },
+    {
+      "reference": "117",
+      "label": "mn9:46.2",
+      "chapterRef": "mn9"
+    },
+    {
+      "reference": "118",
+      "label": "mn9:46.3",
+      "chapterRef": "mn9"
+    },
+    {
+      "reference": "119",
+      "label": "mn9:46.4",
+      "chapterRef": "mn9"
+    },
+    {
+      "reference": "120",
+      "label": "mn9:48.2",
+      "chapterRef": "mn9"
+    },
+    {
+      "reference": "121",
+      "label": "mn9:49.1",
+      "chapterRef": "mn9"
+    },
+    {
+      "reference": "122",
+      "label": "mn9:49.2",
+      "chapterRef": "mn9"
+    },
+    {
+      "reference": "123",
+      "label": "mn9:50.1",
+      "chapterRef": "mn9"
+    },
+    {
+      "reference": "124",
+      "label": "mn9:50.2",
+      "chapterRef": "mn9"
+    },
+    {
+      "reference": "125",
+      "label": "mn9:50.3",
+      "chapterRef": "mn9"
+    },
+    {
+      "reference": "126",
+      "label": "mn9:50.4",
+      "chapterRef": "mn9"
+    },
+    {
+      "reference": "127",
+      "label": "mn9:52.2",
+      "chapterRef": "mn9"
+    },
+    {
+      "reference": "128",
+      "label": "mn9:53.1",
+      "chapterRef": "mn9"
+    },
+    {
+      "reference": "129",
+      "label": "mn9:53.2",
+      "chapterRef": "mn9"
+    },
+    {
+      "reference": "130",
+      "label": "mn9:54.1",
+      "chapterRef": "mn9"
+    },
+    {
+      "reference": "131",
+      "label": "mn9:54.2",
+      "chapterRef": "mn9"
+    },
+    {
+      "reference": "132",
+      "label": "mn9:54.3",
+      "chapterRef": "mn9"
+    },
+    {
+      "reference": "133",
+      "label": "mn9:54.4",
+      "chapterRef": "mn9"
+    },
+    {
+      "reference": "134",
+      "label": "mn9:54.5",
+      "chapterRef": "mn9"
+    },
+    {
+      "reference": "135",
+      "label": "mn9:54.6",
+      "chapterRef": "mn9"
+    },
+    {
+      "reference": "136",
+      "label": "mn9:54.7",
+      "chapterRef": "mn9"
+    },
+    {
+      "reference": "137",
+      "label": "mn9:54.8",
+      "chapterRef": "mn9"
+    },
+    {
+      "reference": "138",
+      "label": "mn9:56.2",
+      "chapterRef": "mn9"
+    },
+    {
+      "reference": "139",
+      "label": "mn9:57.1",
+      "chapterRef": "mn9"
+    },
+    {
+      "reference": "140",
+      "label": "mn9:57.2",
+      "chapterRef": "mn9"
+    },
+    {
+      "reference": "141",
+      "label": "mn9:58.1",
+      "chapterRef": "mn9"
+    },
+    {
+      "reference": "142",
+      "label": "mn9:58.2",
+      "chapterRef": "mn9"
+    },
+    {
+      "reference": "143",
+      "label": "mn9:58.3",
+      "chapterRef": "mn9"
+    },
+    {
+      "reference": "144",
+      "label": "mn9:58.4",
+      "chapterRef": "mn9"
+    },
+    {
+      "reference": "145",
+      "label": "mn9:60.2",
+      "chapterRef": "mn9"
+    },
+    {
+      "reference": "146",
+      "label": "mn9:61.1",
+      "chapterRef": "mn9"
+    },
+    {
+      "reference": "147",
+      "label": "mn9:61.2",
+      "chapterRef": "mn9"
+    },
+    {
+      "reference": "148",
+      "label": "mn9:62.1",
+      "chapterRef": "mn9"
+    },
+    {
+      "reference": "149",
+      "label": "mn9:62.2",
+      "chapterRef": "mn9"
+    },
+    {
+      "reference": "150",
+      "label": "mn9:62.3",
+      "chapterRef": "mn9"
+    },
+    {
+      "reference": "151",
+      "label": "mn9:62.4",
+      "chapterRef": "mn9"
+    },
+    {
+      "reference": "152",
+      "label": "mn9:64.2",
+      "chapterRef": "mn9"
+    },
+    {
+      "reference": "153",
+      "label": "mn9:64.3",
+      "chapterRef": "mn9"
+    },
+    {
+      "reference": "154",
+      "label": "mn9:65.1",
+      "chapterRef": "mn9"
+    },
+    {
+      "reference": "155",
+      "label": "mn9:65.3",
+      "chapterRef": "mn9"
+    },
+    {
+      "reference": "156",
+      "label": "mn9:65.4",
+      "chapterRef": "mn9"
+    },
+    {
+      "reference": "157",
+      "label": "mn9:65.5",
+      "chapterRef": "mn9"
+    },
+    {
+      "reference": "158",
+      "label": "mn9:66.1",
+      "chapterRef": "mn9"
+    },
+    {
+      "reference": "159",
+      "label": "mn9:68.1",
+      "chapterRef": "mn9"
+    },
+    {
+      "reference": "160",
+      "label": "mn9:68.2",
+      "chapterRef": "mn9"
+    },
+    {
+      "reference": "161",
+      "label": "mn9:69.1",
+      "chapterRef": "mn9"
+    },
+    {
+      "reference": "162",
+      "label": "mn9:69.2",
+      "chapterRef": "mn9"
+    },
+    {
+      "reference": "163",
+      "label": "mn9:69.3",
+      "chapterRef": "mn9"
+    },
+    {
+      "reference": "164",
+      "label": "mn9:70.1",
+      "chapterRef": "mn9"
+    },
+    {
+      "reference": "165",
+      "label": "mn9:70.2",
+      "chapterRef": "mn9"
+    },
+    {
+      "reference": "166",
+      "label": "mn9:70.3",
+      "chapterRef": "mn9"
+    },
+    {
+      "reference": "167",
+      "label": "mn9:70.4",
+      "chapterRef": "mn9"
+    },
+    {
+      "reference": "168",
+      "label": "mn9:70.5",
+      "chapterRef": "mn9"
+    },
+    {
+      "reference": "169",
+      "label": "mn9:71.1",
+      "chapterRef": "mn9"
+    },
+    {
+      "reference": "170",
+      "label": "mn9:71.2",
+      "chapterRef": "mn9"
+    },
+    {
+      "reference": "171",
+      "label": "mn9:71.3",
+      "chapterRef": "mn9"
+    },
+    {
+      "reference": "172",
+      "label": "mn9:71.4",
+      "chapterRef": "mn9"
+    }
+  ],
+  "editions": [
+    {
+      "slug": "sutta-mn9-pi-sc",
+      "language": "pi",
+      "editionType": "original",
+      "title": "Majjhima Nikāya 9 — Pali root text",
+      "translator": "",
+      "publisher": "SuttaCentral",
+      "publicationYear": null,
+      "source": "suttacentral",
+      "license": "cc0-1.0",
+      "rightsStatus": "CC0 1.0 public-domain dedication",
+      "attributionText": "Pali root text from SuttaCentral (Majjhima Nikāya 9).",
+      "structureScheme": "SuttaCentral segment ids",
+      "isSample": false
+    },
+    {
+      "slug": "sutta-mn9-en-sujato",
+      "language": "en",
+      "editionType": "translation",
+      "title": "Right View — Bhikkhu Sujato",
+      "translator": "Bhikkhu Sujato",
+      "publisher": "SuttaCentral",
+      "publicationYear": 2018,
+      "source": "suttacentral",
+      "license": "cc0-1.0",
+      "rightsStatus": "CC0 1.0 public-domain dedication",
+      "attributionText": "Translation by Bhikkhu Sujato, SuttaCentral (MN9), released under CC0 1.0.",
+      "structureScheme": "SuttaCentral segment ids",
+      "isSample": false
+    }
+  ]
+}

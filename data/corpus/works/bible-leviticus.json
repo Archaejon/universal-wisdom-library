@@ -1,0 +1,4472 @@
+{
+  "slug": "bible-leviticus",
+  "title": "Leviticus (Christian Bible)",
+  "originalTitle": "ויקרא",
+  "transliteration": "",
+  "altTitles": [
+    "Leviticus",
+    "Leviticus — King James Version"
+  ],
+  "tradition": "christianity",
+  "school": "early-christianity",
+  "genre": "Scripture",
+  "textType": "Biblical book",
+  "category": "Old Testament",
+  "subcategory": "Torah / Pentateuch",
+  "originalLanguage": "he",
+  "dateStart": -1000,
+  "dateEnd": -400,
+  "dateDisplay": "Composed over several centuries in the first millennium BCE; the Masoretic text is attested from the 10th century CE",
+  "authorshipStatus": "traditional",
+  "author": "",
+  "attributionNote": "The text is anonymous or traditionally attributed; the attribution is part of the work's reception rather than a statement about the surviving author. The catalogue does not adjudicate it.",
+  "description": "Priestly law: sacrifice, purity, holiness and the Day of Atonement. This is the book as received in Christian Bibles: the Westminster Leningrad Codex Hebrew text beside the King James Version of 1611.",
+  "historicalContext": "The five books traditionally ascribed to Moses, read as the foundation of Israelite law and covenant.",
+  "availabilityNote": "Streamed from the Bolls Bible API. Verse references follow the KJV; where the Hebrew counts a psalm superscription as verse 1, the original-language pane is one verse ahead.",
+  "featured": false,
+  "featuredNote": "",
+  "refScheme": "chapter.verse",
+  "isSample": false,
+  "textStorage": "streamed",
+  "chapters": [
+    {
+      "ref": "1",
+      "label": "Leviticus 1"
+    },
+    {
+      "ref": "2",
+      "label": "Leviticus 2"
+    },
+    {
+      "ref": "3",
+      "label": "Leviticus 3"
+    },
+    {
+      "ref": "4",
+      "label": "Leviticus 4"
+    },
+    {
+      "ref": "5",
+      "label": "Leviticus 5"
+    },
+    {
+      "ref": "6",
+      "label": "Leviticus 6"
+    },
+    {
+      "ref": "7",
+      "label": "Leviticus 7"
+    },
+    {
+      "ref": "8",
+      "label": "Leviticus 8"
+    },
+    {
+      "ref": "9",
+      "label": "Leviticus 9"
+    },
+    {
+      "ref": "10",
+      "label": "Leviticus 10"
+    },
+    {
+      "ref": "11",
+      "label": "Leviticus 11"
+    },
+    {
+      "ref": "12",
+      "label": "Leviticus 12"
+    },
+    {
+      "ref": "13",
+      "label": "Leviticus 13"
+    },
+    {
+      "ref": "14",
+      "label": "Leviticus 14"
+    },
+    {
+      "ref": "15",
+      "label": "Leviticus 15"
+    },
+    {
+      "ref": "16",
+      "label": "Leviticus 16"
+    },
+    {
+      "ref": "17",
+      "label": "Leviticus 17"
+    },
+    {
+      "ref": "18",
+      "label": "Leviticus 18"
+    },
+    {
+      "ref": "19",
+      "label": "Leviticus 19"
+    },
+    {
+      "ref": "20",
+      "label": "Leviticus 20"
+    },
+    {
+      "ref": "21",
+      "label": "Leviticus 21"
+    },
+    {
+      "ref": "22",
+      "label": "Leviticus 22"
+    },
+    {
+      "ref": "23",
+      "label": "Leviticus 23"
+    },
+    {
+      "ref": "24",
+      "label": "Leviticus 24"
+    },
+    {
+      "ref": "25",
+      "label": "Leviticus 25"
+    },
+    {
+      "ref": "26",
+      "label": "Leviticus 26"
+    },
+    {
+      "ref": "27",
+      "label": "Leviticus 27"
+    }
+  ],
+  "passages": [
+    {
+      "reference": "1.1",
+      "label": "Leviticus 1:1",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.2",
+      "label": "Leviticus 1:2",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.3",
+      "label": "Leviticus 1:3",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.4",
+      "label": "Leviticus 1:4",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.5",
+      "label": "Leviticus 1:5",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.6",
+      "label": "Leviticus 1:6",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.7",
+      "label": "Leviticus 1:7",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.8",
+      "label": "Leviticus 1:8",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.9",
+      "label": "Leviticus 1:9",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.10",
+      "label": "Leviticus 1:10",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.11",
+      "label": "Leviticus 1:11",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.12",
+      "label": "Leviticus 1:12",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.13",
+      "label": "Leviticus 1:13",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.14",
+      "label": "Leviticus 1:14",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.15",
+      "label": "Leviticus 1:15",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.16",
+      "label": "Leviticus 1:16",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.17",
+      "label": "Leviticus 1:17",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "2.1",
+      "label": "Leviticus 2:1",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.2",
+      "label": "Leviticus 2:2",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.3",
+      "label": "Leviticus 2:3",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.4",
+      "label": "Leviticus 2:4",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.5",
+      "label": "Leviticus 2:5",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.6",
+      "label": "Leviticus 2:6",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.7",
+      "label": "Leviticus 2:7",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.8",
+      "label": "Leviticus 2:8",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.9",
+      "label": "Leviticus 2:9",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.10",
+      "label": "Leviticus 2:10",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.11",
+      "label": "Leviticus 2:11",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.12",
+      "label": "Leviticus 2:12",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.13",
+      "label": "Leviticus 2:13",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.14",
+      "label": "Leviticus 2:14",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.15",
+      "label": "Leviticus 2:15",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.16",
+      "label": "Leviticus 2:16",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "3.1",
+      "label": "Leviticus 3:1",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.2",
+      "label": "Leviticus 3:2",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.3",
+      "label": "Leviticus 3:3",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.4",
+      "label": "Leviticus 3:4",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.5",
+      "label": "Leviticus 3:5",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.6",
+      "label": "Leviticus 3:6",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.7",
+      "label": "Leviticus 3:7",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.8",
+      "label": "Leviticus 3:8",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.9",
+      "label": "Leviticus 3:9",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.10",
+      "label": "Leviticus 3:10",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.11",
+      "label": "Leviticus 3:11",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.12",
+      "label": "Leviticus 3:12",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.13",
+      "label": "Leviticus 3:13",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.14",
+      "label": "Leviticus 3:14",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.15",
+      "label": "Leviticus 3:15",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.16",
+      "label": "Leviticus 3:16",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.17",
+      "label": "Leviticus 3:17",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "4.1",
+      "label": "Leviticus 4:1",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.2",
+      "label": "Leviticus 4:2",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.3",
+      "label": "Leviticus 4:3",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.4",
+      "label": "Leviticus 4:4",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.5",
+      "label": "Leviticus 4:5",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.6",
+      "label": "Leviticus 4:6",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.7",
+      "label": "Leviticus 4:7",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.8",
+      "label": "Leviticus 4:8",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.9",
+      "label": "Leviticus 4:9",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.10",
+      "label": "Leviticus 4:10",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.11",
+      "label": "Leviticus 4:11",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.12",
+      "label": "Leviticus 4:12",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.13",
+      "label": "Leviticus 4:13",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.14",
+      "label": "Leviticus 4:14",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.15",
+      "label": "Leviticus 4:15",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.16",
+      "label": "Leviticus 4:16",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.17",
+      "label": "Leviticus 4:17",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.18",
+      "label": "Leviticus 4:18",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.19",
+      "label": "Leviticus 4:19",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.20",
+      "label": "Leviticus 4:20",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.21",
+      "label": "Leviticus 4:21",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.22",
+      "label": "Leviticus 4:22",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.23",
+      "label": "Leviticus 4:23",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.24",
+      "label": "Leviticus 4:24",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.25",
+      "label": "Leviticus 4:25",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.26",
+      "label": "Leviticus 4:26",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.27",
+      "label": "Leviticus 4:27",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.28",
+      "label": "Leviticus 4:28",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.29",
+      "label": "Leviticus 4:29",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.30",
+      "label": "Leviticus 4:30",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.31",
+      "label": "Leviticus 4:31",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.32",
+      "label": "Leviticus 4:32",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.33",
+      "label": "Leviticus 4:33",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.34",
+      "label": "Leviticus 4:34",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.35",
+      "label": "Leviticus 4:35",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "5.1",
+      "label": "Leviticus 5:1",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.2",
+      "label": "Leviticus 5:2",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.3",
+      "label": "Leviticus 5:3",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.4",
+      "label": "Leviticus 5:4",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.5",
+      "label": "Leviticus 5:5",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.6",
+      "label": "Leviticus 5:6",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.7",
+      "label": "Leviticus 5:7",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.8",
+      "label": "Leviticus 5:8",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.9",
+      "label": "Leviticus 5:9",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.10",
+      "label": "Leviticus 5:10",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.11",
+      "label": "Leviticus 5:11",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.12",
+      "label": "Leviticus 5:12",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.13",
+      "label": "Leviticus 5:13",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.14",
+      "label": "Leviticus 5:14",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.15",
+      "label": "Leviticus 5:15",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.16",
+      "label": "Leviticus 5:16",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.17",
+      "label": "Leviticus 5:17",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.18",
+      "label": "Leviticus 5:18",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.19",
+      "label": "Leviticus 5:19",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "6.1",
+      "label": "Leviticus 6:1",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.2",
+      "label": "Leviticus 6:2",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.3",
+      "label": "Leviticus 6:3",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.4",
+      "label": "Leviticus 6:4",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.5",
+      "label": "Leviticus 6:5",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.6",
+      "label": "Leviticus 6:6",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.7",
+      "label": "Leviticus 6:7",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.8",
+      "label": "Leviticus 6:8",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.9",
+      "label": "Leviticus 6:9",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.10",
+      "label": "Leviticus 6:10",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.11",
+      "label": "Leviticus 6:11",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.12",
+      "label": "Leviticus 6:12",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.13",
+      "label": "Leviticus 6:13",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.14",
+      "label": "Leviticus 6:14",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.15",
+      "label": "Leviticus 6:15",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.16",
+      "label": "Leviticus 6:16",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.17",
+      "label": "Leviticus 6:17",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.18",
+      "label": "Leviticus 6:18",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.19",
+      "label": "Leviticus 6:19",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.20",
+      "label": "Leviticus 6:20",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.21",
+      "label": "Leviticus 6:21",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.22",
+      "label": "Leviticus 6:22",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.23",
+      "label": "Leviticus 6:23",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.24",
+      "label": "Leviticus 6:24",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.25",
+      "label": "Leviticus 6:25",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.26",
+      "label": "Leviticus 6:26",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.27",
+      "label": "Leviticus 6:27",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.28",
+      "label": "Leviticus 6:28",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.29",
+      "label": "Leviticus 6:29",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.30",
+      "label": "Leviticus 6:30",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "7.1",
+      "label": "Leviticus 7:1",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.2",
+      "label": "Leviticus 7:2",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.3",
+      "label": "Leviticus 7:3",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.4",
+      "label": "Leviticus 7:4",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.5",
+      "label": "Leviticus 7:5",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.6",
+      "label": "Leviticus 7:6",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.7",
+      "label": "Leviticus 7:7",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.8",
+      "label": "Leviticus 7:8",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.9",
+      "label": "Leviticus 7:9",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.10",
+      "label": "Leviticus 7:10",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.11",
+      "label": "Leviticus 7:11",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.12",
+      "label": "Leviticus 7:12",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.13",
+      "label": "Leviticus 7:13",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.14",
+      "label": "Leviticus 7:14",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.15",
+      "label": "Leviticus 7:15",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.16",
+      "label": "Leviticus 7:16",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.17",
+      "label": "Leviticus 7:17",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.18",
+      "label": "Leviticus 7:18",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.19",
+      "label": "Leviticus 7:19",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.20",
+      "label": "Leviticus 7:20",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.21",
+      "label": "Leviticus 7:21",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.22",
+      "label": "Leviticus 7:22",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.23",
+      "label": "Leviticus 7:23",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.24",
+      "label": "Leviticus 7:24",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.25",
+      "label": "Leviticus 7:25",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.26",
+      "label": "Leviticus 7:26",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.27",
+      "label": "Leviticus 7:27",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.28",
+      "label": "Leviticus 7:28",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.29",
+      "label": "Leviticus 7:29",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.30",
+      "label": "Leviticus 7:30",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.31",
+      "label": "Leviticus 7:31",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.32",
+      "label": "Leviticus 7:32",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.33",
+      "label": "Leviticus 7:33",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.34",
+      "label": "Leviticus 7:34",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.35",
+      "label": "Leviticus 7:35",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.36",
+      "label": "Leviticus 7:36",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.37",
+      "label": "Leviticus 7:37",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.38",
+      "label": "Leviticus 7:38",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "8.1",
+      "label": "Leviticus 8:1",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.2",
+      "label": "Leviticus 8:2",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.3",
+      "label": "Leviticus 8:3",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.4",
+      "label": "Leviticus 8:4",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.5",
+      "label": "Leviticus 8:5",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.6",
+      "label": "Leviticus 8:6",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.7",
+      "label": "Leviticus 8:7",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.8",
+      "label": "Leviticus 8:8",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.9",
+      "label": "Leviticus 8:9",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.10",
+      "label": "Leviticus 8:10",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.11",
+      "label": "Leviticus 8:11",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.12",
+      "label": "Leviticus 8:12",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.13",
+      "label": "Leviticus 8:13",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.14",
+      "label": "Leviticus 8:14",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.15",
+      "label": "Leviticus 8:15",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.16",
+      "label": "Leviticus 8:16",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.17",
+      "label": "Leviticus 8:17",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.18",
+      "label": "Leviticus 8:18",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.19",
+      "label": "Leviticus 8:19",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.20",
+      "label": "Leviticus 8:20",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.21",
+      "label": "Leviticus 8:21",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.22",
+      "label": "Leviticus 8:22",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.23",
+      "label": "Leviticus 8:23",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.24",
+      "label": "Leviticus 8:24",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.25",
+      "label": "Leviticus 8:25",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.26",
+      "label": "Leviticus 8:26",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.27",
+      "label": "Leviticus 8:27",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.28",
+      "label": "Leviticus 8:28",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.29",
+      "label": "Leviticus 8:29",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.30",
+      "label": "Leviticus 8:30",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.31",
+      "label": "Leviticus 8:31",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.32",
+      "label": "Leviticus 8:32",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.33",
+      "label": "Leviticus 8:33",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.34",
+      "label": "Leviticus 8:34",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.35",
+      "label": "Leviticus 8:35",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.36",
+      "label": "Leviticus 8:36",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "9.1",
+      "label": "Leviticus 9:1",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.2",
+      "label": "Leviticus 9:2",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.3",
+      "label": "Leviticus 9:3",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.4",
+      "label": "Leviticus 9:4",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.5",
+      "label": "Leviticus 9:5",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.6",
+      "label": "Leviticus 9:6",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.7",
+      "label": "Leviticus 9:7",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.8",
+      "label": "Leviticus 9:8",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.9",
+      "label": "Leviticus 9:9",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.10",
+      "label": "Leviticus 9:10",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.11",
+      "label": "Leviticus 9:11",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.12",
+      "label": "Leviticus 9:12",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.13",
+      "label": "Leviticus 9:13",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.14",
+      "label": "Leviticus 9:14",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.15",
+      "label": "Leviticus 9:15",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.16",
+      "label": "Leviticus 9:16",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.17",
+      "label": "Leviticus 9:17",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.18",
+      "label": "Leviticus 9:18",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.19",
+      "label": "Leviticus 9:19",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.20",
+      "label": "Leviticus 9:20",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.21",
+      "label": "Leviticus 9:21",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.22",
+      "label": "Leviticus 9:22",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.23",
+      "label": "Leviticus 9:23",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.24",
+      "label": "Leviticus 9:24",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "10.1",
+      "label": "Leviticus 10:1",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.2",
+      "label": "Leviticus 10:2",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.3",
+      "label": "Leviticus 10:3",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.4",
+      "label": "Leviticus 10:4",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.5",
+      "label": "Leviticus 10:5",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.6",
+      "label": "Leviticus 10:6",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.7",
+      "label": "Leviticus 10:7",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.8",
+      "label": "Leviticus 10:8",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.9",
+      "label": "Leviticus 10:9",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.10",
+      "label": "Leviticus 10:10",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.11",
+      "label": "Leviticus 10:11",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.12",
+      "label": "Leviticus 10:12",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.13",
+      "label": "Leviticus 10:13",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.14",
+      "label": "Leviticus 10:14",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.15",
+      "label": "Leviticus 10:15",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.16",
+      "label": "Leviticus 10:16",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.17",
+      "label": "Leviticus 10:17",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.18",
+      "label": "Leviticus 10:18",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.19",
+      "label": "Leviticus 10:19",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.20",
+      "label": "Leviticus 10:20",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "11.1",
+      "label": "Leviticus 11:1",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.2",
+      "label": "Leviticus 11:2",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.3",
+      "label": "Leviticus 11:3",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.4",
+      "label": "Leviticus 11:4",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.5",
+      "label": "Leviticus 11:5",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.6",
+      "label": "Leviticus 11:6",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.7",
+      "label": "Leviticus 11:7",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.8",
+      "label": "Leviticus 11:8",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.9",
+      "label": "Leviticus 11:9",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.10",
+      "label": "Leviticus 11:10",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.11",
+      "label": "Leviticus 11:11",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.12",
+      "label": "Leviticus 11:12",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.13",
+      "label": "Leviticus 11:13",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.14",
+      "label": "Leviticus 11:14",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.15",
+      "label": "Leviticus 11:15",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.16",
+      "label": "Leviticus 11:16",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.17",
+      "label": "Leviticus 11:17",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.18",
+      "label": "Leviticus 11:18",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.19",
+      "label": "Leviticus 11:19",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.20",
+      "label": "Leviticus 11:20",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.21",
+      "label": "Leviticus 11:21",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.22",
+      "label": "Leviticus 11:22",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.23",
+      "label": "Leviticus 11:23",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.24",
+      "label": "Leviticus 11:24",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.25",
+      "label": "Leviticus 11:25",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.26",
+      "label": "Leviticus 11:26",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.27",
+      "label": "Leviticus 11:27",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.28",
+      "label": "Leviticus 11:28",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.29",
+      "label": "Leviticus 11:29",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.30",
+      "label": "Leviticus 11:30",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.31",
+      "label": "Leviticus 11:31",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.32",
+      "label": "Leviticus 11:32",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.33",
+      "label": "Leviticus 11:33",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.34",
+      "label": "Leviticus 11:34",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.35",
+      "label": "Leviticus 11:35",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.36",
+      "label": "Leviticus 11:36",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.37",
+      "label": "Leviticus 11:37",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.38",
+      "label": "Leviticus 11:38",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.39",
+      "label": "Leviticus 11:39",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.40",
+      "label": "Leviticus 11:40",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.41",
+      "label": "Leviticus 11:41",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.42",
+      "label": "Leviticus 11:42",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.43",
+      "label": "Leviticus 11:43",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.44",
+      "label": "Leviticus 11:44",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.45",
+      "label": "Leviticus 11:45",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.46",
+      "label": "Leviticus 11:46",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.47",
+      "label": "Leviticus 11:47",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "12.1",
+      "label": "Leviticus 12:1",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.2",
+      "label": "Leviticus 12:2",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.3",
+      "label": "Leviticus 12:3",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.4",
+      "label": "Leviticus 12:4",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.5",
+      "label": "Leviticus 12:5",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.6",
+      "label": "Leviticus 12:6",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.7",
+      "label": "Leviticus 12:7",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.8",
+      "label": "Leviticus 12:8",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "13.1",
+      "label": "Leviticus 13:1",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.2",
+      "label": "Leviticus 13:2",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.3",
+      "label": "Leviticus 13:3",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.4",
+      "label": "Leviticus 13:4",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.5",
+      "label": "Leviticus 13:5",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.6",
+      "label": "Leviticus 13:6",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.7",
+      "label": "Leviticus 13:7",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.8",
+      "label": "Leviticus 13:8",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.9",
+      "label": "Leviticus 13:9",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.10",
+      "label": "Leviticus 13:10",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.11",
+      "label": "Leviticus 13:11",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.12",
+      "label": "Leviticus 13:12",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.13",
+      "label": "Leviticus 13:13",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.14",
+      "label": "Leviticus 13:14",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.15",
+      "label": "Leviticus 13:15",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.16",
+      "label": "Leviticus 13:16",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.17",
+      "label": "Leviticus 13:17",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.18",
+      "label": "Leviticus 13:18",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.19",
+      "label": "Leviticus 13:19",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.20",
+      "label": "Leviticus 13:20",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.21",
+      "label": "Leviticus 13:21",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.22",
+      "label": "Leviticus 13:22",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.23",
+      "label": "Leviticus 13:23",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.24",
+      "label": "Leviticus 13:24",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.25",
+      "label": "Leviticus 13:25",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.26",
+      "label": "Leviticus 13:26",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.27",
+      "label": "Leviticus 13:27",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.28",
+      "label": "Leviticus 13:28",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.29",
+      "label": "Leviticus 13:29",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.30",
+      "label": "Leviticus 13:30",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.31",
+      "label": "Leviticus 13:31",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.32",
+      "label": "Leviticus 13:32",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.33",
+      "label": "Leviticus 13:33",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.34",
+      "label": "Leviticus 13:34",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.35",
+      "label": "Leviticus 13:35",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.36",
+      "label": "Leviticus 13:36",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.37",
+      "label": "Leviticus 13:37",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.38",
+      "label": "Leviticus 13:38",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.39",
+      "label": "Leviticus 13:39",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.40",
+      "label": "Leviticus 13:40",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.41",
+      "label": "Leviticus 13:41",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.42",
+      "label": "Leviticus 13:42",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.43",
+      "label": "Leviticus 13:43",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.44",
+      "label": "Leviticus 13:44",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.45",
+      "label": "Leviticus 13:45",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.46",
+      "label": "Leviticus 13:46",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.47",
+      "label": "Leviticus 13:47",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.48",
+      "label": "Leviticus 13:48",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.49",
+      "label": "Leviticus 13:49",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.50",
+      "label": "Leviticus 13:50",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.51",
+      "label": "Leviticus 13:51",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.52",
+      "label": "Leviticus 13:52",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.53",
+      "label": "Leviticus 13:53",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.54",
+      "label": "Leviticus 13:54",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.55",
+      "label": "Leviticus 13:55",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.56",
+      "label": "Leviticus 13:56",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.57",
+      "label": "Leviticus 13:57",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.58",
+      "label": "Leviticus 13:58",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.59",
+      "label": "Leviticus 13:59",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "14.1",
+      "label": "Leviticus 14:1",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.2",
+      "label": "Leviticus 14:2",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.3",
+      "label": "Leviticus 14:3",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.4",
+      "label": "Leviticus 14:4",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.5",
+      "label": "Leviticus 14:5",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.6",
+      "label": "Leviticus 14:6",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.7",
+      "label": "Leviticus 14:7",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.8",
+      "label": "Leviticus 14:8",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.9",
+      "label": "Leviticus 14:9",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.10",
+      "label": "Leviticus 14:10",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.11",
+      "label": "Leviticus 14:11",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.12",
+      "label": "Leviticus 14:12",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.13",
+      "label": "Leviticus 14:13",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.14",
+      "label": "Leviticus 14:14",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.15",
+      "label": "Leviticus 14:15",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.16",
+      "label": "Leviticus 14:16",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.17",
+      "label": "Leviticus 14:17",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.18",
+      "label": "Leviticus 14:18",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.19",
+      "label": "Leviticus 14:19",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.20",
+      "label": "Leviticus 14:20",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.21",
+      "label": "Leviticus 14:21",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.22",
+      "label": "Leviticus 14:22",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.23",
+      "label": "Leviticus 14:23",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.24",
+      "label": "Leviticus 14:24",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.25",
+      "label": "Leviticus 14:25",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.26",
+      "label": "Leviticus 14:26",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.27",
+      "label": "Leviticus 14:27",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.28",
+      "label": "Leviticus 14:28",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.29",
+      "label": "Leviticus 14:29",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.30",
+      "label": "Leviticus 14:30",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.31",
+      "label": "Leviticus 14:31",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.32",
+      "label": "Leviticus 14:32",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.33",
+      "label": "Leviticus 14:33",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.34",
+      "label": "Leviticus 14:34",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.35",
+      "label": "Leviticus 14:35",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.36",
+      "label": "Leviticus 14:36",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.37",
+      "label": "Leviticus 14:37",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.38",
+      "label": "Leviticus 14:38",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.39",
+      "label": "Leviticus 14:39",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.40",
+      "label": "Leviticus 14:40",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.41",
+      "label": "Leviticus 14:41",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.42",
+      "label": "Leviticus 14:42",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.43",
+      "label": "Leviticus 14:43",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.44",
+      "label": "Leviticus 14:44",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.45",
+      "label": "Leviticus 14:45",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.46",
+      "label": "Leviticus 14:46",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.47",
+      "label": "Leviticus 14:47",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.48",
+      "label": "Leviticus 14:48",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.49",
+      "label": "Leviticus 14:49",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.50",
+      "label": "Leviticus 14:50",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.51",
+      "label": "Leviticus 14:51",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.52",
+      "label": "Leviticus 14:52",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.53",
+      "label": "Leviticus 14:53",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.54",
+      "label": "Leviticus 14:54",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.55",
+      "label": "Leviticus 14:55",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.56",
+      "label": "Leviticus 14:56",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.57",
+      "label": "Leviticus 14:57",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "15.1",
+      "label": "Leviticus 15:1",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.2",
+      "label": "Leviticus 15:2",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.3",
+      "label": "Leviticus 15:3",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.4",
+      "label": "Leviticus 15:4",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.5",
+      "label": "Leviticus 15:5",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.6",
+      "label": "Leviticus 15:6",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.7",
+      "label": "Leviticus 15:7",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.8",
+      "label": "Leviticus 15:8",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.9",
+      "label": "Leviticus 15:9",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.10",
+      "label": "Leviticus 15:10",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.11",
+      "label": "Leviticus 15:11",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.12",
+      "label": "Leviticus 15:12",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.13",
+      "label": "Leviticus 15:13",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.14",
+      "label": "Leviticus 15:14",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.15",
+      "label": "Leviticus 15:15",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.16",
+      "label": "Leviticus 15:16",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.17",
+      "label": "Leviticus 15:17",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.18",
+      "label": "Leviticus 15:18",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.19",
+      "label": "Leviticus 15:19",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.20",
+      "label": "Leviticus 15:20",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.21",
+      "label": "Leviticus 15:21",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.22",
+      "label": "Leviticus 15:22",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.23",
+      "label": "Leviticus 15:23",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.24",
+      "label": "Leviticus 15:24",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.25",
+      "label": "Leviticus 15:25",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.26",
+      "label": "Leviticus 15:26",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.27",
+      "label": "Leviticus 15:27",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.28",
+      "label": "Leviticus 15:28",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.29",
+      "label": "Leviticus 15:29",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.30",
+      "label": "Leviticus 15:30",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.31",
+      "label": "Leviticus 15:31",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.32",
+      "label": "Leviticus 15:32",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.33",
+      "label": "Leviticus 15:33",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "16.1",
+      "label": "Leviticus 16:1",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.2",
+      "label": "Leviticus 16:2",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.3",
+      "label": "Leviticus 16:3",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.4",
+      "label": "Leviticus 16:4",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.5",
+      "label": "Leviticus 16:5",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.6",
+      "label": "Leviticus 16:6",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.7",
+      "label": "Leviticus 16:7",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.8",
+      "label": "Leviticus 16:8",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.9",
+      "label": "Leviticus 16:9",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.10",
+      "label": "Leviticus 16:10",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.11",
+      "label": "Leviticus 16:11",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.12",
+      "label": "Leviticus 16:12",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.13",
+      "label": "Leviticus 16:13",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.14",
+      "label": "Leviticus 16:14",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.15",
+      "label": "Leviticus 16:15",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.16",
+      "label": "Leviticus 16:16",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.17",
+      "label": "Leviticus 16:17",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.18",
+      "label": "Leviticus 16:18",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.19",
+      "label": "Leviticus 16:19",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.20",
+      "label": "Leviticus 16:20",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.21",
+      "label": "Leviticus 16:21",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.22",
+      "label": "Leviticus 16:22",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.23",
+      "label": "Leviticus 16:23",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.24",
+      "label": "Leviticus 16:24",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.25",
+      "label": "Leviticus 16:25",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.26",
+      "label": "Leviticus 16:26",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.27",
+      "label": "Leviticus 16:27",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.28",
+      "label": "Leviticus 16:28",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.29",
+      "label": "Leviticus 16:29",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.30",
+      "label": "Leviticus 16:30",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.31",
+      "label": "Leviticus 16:31",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.32",
+      "label": "Leviticus 16:32",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.33",
+      "label": "Leviticus 16:33",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.34",
+      "label": "Leviticus 16:34",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "17.1",
+      "label": "Leviticus 17:1",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.2",
+      "label": "Leviticus 17:2",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.3",
+      "label": "Leviticus 17:3",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.4",
+      "label": "Leviticus 17:4",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.5",
+      "label": "Leviticus 17:5",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.6",
+      "label": "Leviticus 17:6",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.7",
+      "label": "Leviticus 17:7",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.8",
+      "label": "Leviticus 17:8",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.9",
+      "label": "Leviticus 17:9",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.10",
+      "label": "Leviticus 17:10",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.11",
+      "label": "Leviticus 17:11",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.12",
+      "label": "Leviticus 17:12",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.13",
+      "label": "Leviticus 17:13",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.14",
+      "label": "Leviticus 17:14",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.15",
+      "label": "Leviticus 17:15",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.16",
+      "label": "Leviticus 17:16",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "18.1",
+      "label": "Leviticus 18:1",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.2",
+      "label": "Leviticus 18:2",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.3",
+      "label": "Leviticus 18:3",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.4",
+      "label": "Leviticus 18:4",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.5",
+      "label": "Leviticus 18:5",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.6",
+      "label": "Leviticus 18:6",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.7",
+      "label": "Leviticus 18:7",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.8",
+      "label": "Leviticus 18:8",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.9",
+      "label": "Leviticus 18:9",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.10",
+      "label": "Leviticus 18:10",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.11",
+      "label": "Leviticus 18:11",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.12",
+      "label": "Leviticus 18:12",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.13",
+      "label": "Leviticus 18:13",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.14",
+      "label": "Leviticus 18:14",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.15",
+      "label": "Leviticus 18:15",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.16",
+      "label": "Leviticus 18:16",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.17",
+      "label": "Leviticus 18:17",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.18",
+      "label": "Leviticus 18:18",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.19",
+      "label": "Leviticus 18:19",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.20",
+      "label": "Leviticus 18:20",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.21",
+      "label": "Leviticus 18:21",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.22",
+      "label": "Leviticus 18:22",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.23",
+      "label": "Leviticus 18:23",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.24",
+      "label": "Leviticus 18:24",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.25",
+      "label": "Leviticus 18:25",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.26",
+      "label": "Leviticus 18:26",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.27",
+      "label": "Leviticus 18:27",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.28",
+      "label": "Leviticus 18:28",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.29",
+      "label": "Leviticus 18:29",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.30",
+      "label": "Leviticus 18:30",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "19.1",
+      "label": "Leviticus 19:1",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.2",
+      "label": "Leviticus 19:2",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.3",
+      "label": "Leviticus 19:3",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.4",
+      "label": "Leviticus 19:4",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.5",
+      "label": "Leviticus 19:5",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.6",
+      "label": "Leviticus 19:6",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.7",
+      "label": "Leviticus 19:7",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.8",
+      "label": "Leviticus 19:8",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.9",
+      "label": "Leviticus 19:9",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.10",
+      "label": "Leviticus 19:10",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.11",
+      "label": "Leviticus 19:11",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.12",
+      "label": "Leviticus 19:12",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.13",
+      "label": "Leviticus 19:13",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.14",
+      "label": "Leviticus 19:14",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.15",
+      "label": "Leviticus 19:15",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.16",
+      "label": "Leviticus 19:16",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.17",
+      "label": "Leviticus 19:17",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.18",
+      "label": "Leviticus 19:18",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.19",
+      "label": "Leviticus 19:19",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.20",
+      "label": "Leviticus 19:20",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.21",
+      "label": "Leviticus 19:21",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.22",
+      "label": "Leviticus 19:22",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.23",
+      "label": "Leviticus 19:23",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.24",
+      "label": "Leviticus 19:24",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.25",
+      "label": "Leviticus 19:25",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.26",
+      "label": "Leviticus 19:26",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.27",
+      "label": "Leviticus 19:27",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.28",
+      "label": "Leviticus 19:28",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.29",
+      "label": "Leviticus 19:29",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.30",
+      "label": "Leviticus 19:30",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.31",
+      "label": "Leviticus 19:31",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.32",
+      "label": "Leviticus 19:32",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.33",
+      "label": "Leviticus 19:33",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.34",
+      "label": "Leviticus 19:34",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.35",
+      "label": "Leviticus 19:35",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.36",
+      "label": "Leviticus 19:36",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.37",
+      "label": "Leviticus 19:37",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "20.1",
+      "label": "Leviticus 20:1",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.2",
+      "label": "Leviticus 20:2",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.3",
+      "label": "Leviticus 20:3",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.4",
+      "label": "Leviticus 20:4",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.5",
+      "label": "Leviticus 20:5",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.6",
+      "label": "Leviticus 20:6",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.7",
+      "label": "Leviticus 20:7",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.8",
+      "label": "Leviticus 20:8",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.9",
+      "label": "Leviticus 20:9",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.10",
+      "label": "Leviticus 20:10",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.11",
+      "label": "Leviticus 20:11",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.12",
+      "label": "Leviticus 20:12",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.13",
+      "label": "Leviticus 20:13",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.14",
+      "label": "Leviticus 20:14",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.15",
+      "label": "Leviticus 20:15",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.16",
+      "label": "Leviticus 20:16",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.17",
+      "label": "Leviticus 20:17",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.18",
+      "label": "Leviticus 20:18",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.19",
+      "label": "Leviticus 20:19",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.20",
+      "label": "Leviticus 20:20",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.21",
+      "label": "Leviticus 20:21",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.22",
+      "label": "Leviticus 20:22",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.23",
+      "label": "Leviticus 20:23",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.24",
+      "label": "Leviticus 20:24",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.25",
+      "label": "Leviticus 20:25",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.26",
+      "label": "Leviticus 20:26",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.27",
+      "label": "Leviticus 20:27",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "21.1",
+      "label": "Leviticus 21:1",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.2",
+      "label": "Leviticus 21:2",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.3",
+      "label": "Leviticus 21:3",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.4",
+      "label": "Leviticus 21:4",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.5",
+      "label": "Leviticus 21:5",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.6",
+      "label": "Leviticus 21:6",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.7",
+      "label": "Leviticus 21:7",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.8",
+      "label": "Leviticus 21:8",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.9",
+      "label": "Leviticus 21:9",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.10",
+      "label": "Leviticus 21:10",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.11",
+      "label": "Leviticus 21:11",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.12",
+      "label": "Leviticus 21:12",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.13",
+      "label": "Leviticus 21:13",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.14",
+      "label": "Leviticus 21:14",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.15",
+      "label": "Leviticus 21:15",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.16",
+      "label": "Leviticus 21:16",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.17",
+      "label": "Leviticus 21:17",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.18",
+      "label": "Leviticus 21:18",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.19",
+      "label": "Leviticus 21:19",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.20",
+      "label": "Leviticus 21:20",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.21",
+      "label": "Leviticus 21:21",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.22",
+      "label": "Leviticus 21:22",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.23",
+      "label": "Leviticus 21:23",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.24",
+      "label": "Leviticus 21:24",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "22.1",
+      "label": "Leviticus 22:1",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.2",
+      "label": "Leviticus 22:2",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.3",
+      "label": "Leviticus 22:3",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.4",
+      "label": "Leviticus 22:4",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.5",
+      "label": "Leviticus 22:5",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.6",
+      "label": "Leviticus 22:6",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.7",
+      "label": "Leviticus 22:7",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.8",
+      "label": "Leviticus 22:8",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.9",
+      "label": "Leviticus 22:9",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.10",
+      "label": "Leviticus 22:10",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.11",
+      "label": "Leviticus 22:11",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.12",
+      "label": "Leviticus 22:12",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.13",
+      "label": "Leviticus 22:13",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.14",
+      "label": "Leviticus 22:14",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.15",
+      "label": "Leviticus 22:15",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.16",
+      "label": "Leviticus 22:16",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.17",
+      "label": "Leviticus 22:17",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.18",
+      "label": "Leviticus 22:18",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.19",
+      "label": "Leviticus 22:19",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.20",
+      "label": "Leviticus 22:20",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.21",
+      "label": "Leviticus 22:21",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.22",
+      "label": "Leviticus 22:22",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.23",
+      "label": "Leviticus 22:23",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.24",
+      "label": "Leviticus 22:24",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.25",
+      "label": "Leviticus 22:25",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.26",
+      "label": "Leviticus 22:26",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.27",
+      "label": "Leviticus 22:27",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.28",
+      "label": "Leviticus 22:28",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.29",
+      "label": "Leviticus 22:29",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.30",
+      "label": "Leviticus 22:30",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.31",
+      "label": "Leviticus 22:31",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.32",
+      "label": "Leviticus 22:32",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.33",
+      "label": "Leviticus 22:33",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "23.1",
+      "label": "Leviticus 23:1",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.2",
+      "label": "Leviticus 23:2",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.3",
+      "label": "Leviticus 23:3",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.4",
+      "label": "Leviticus 23:4",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.5",
+      "label": "Leviticus 23:5",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.6",
+      "label": "Leviticus 23:6",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.7",
+      "label": "Leviticus 23:7",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.8",
+      "label": "Leviticus 23:8",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.9",
+      "label": "Leviticus 23:9",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.10",
+      "label": "Leviticus 23:10",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.11",
+      "label": "Leviticus 23:11",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.12",
+      "label": "Leviticus 23:12",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.13",
+      "label": "Leviticus 23:13",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.14",
+      "label": "Leviticus 23:14",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.15",
+      "label": "Leviticus 23:15",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.16",
+      "label": "Leviticus 23:16",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.17",
+      "label": "Leviticus 23:17",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.18",
+      "label": "Leviticus 23:18",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.19",
+      "label": "Leviticus 23:19",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.20",
+      "label": "Leviticus 23:20",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.21",
+      "label": "Leviticus 23:21",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.22",
+      "label": "Leviticus 23:22",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.23",
+      "label": "Leviticus 23:23",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.24",
+      "label": "Leviticus 23:24",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.25",
+      "label": "Leviticus 23:25",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.26",
+      "label": "Leviticus 23:26",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.27",
+      "label": "Leviticus 23:27",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.28",
+      "label": "Leviticus 23:28",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.29",
+      "label": "Leviticus 23:29",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.30",
+      "label": "Leviticus 23:30",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.31",
+      "label": "Leviticus 23:31",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.32",
+      "label": "Leviticus 23:32",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.33",
+      "label": "Leviticus 23:33",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.34",
+      "label": "Leviticus 23:34",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.35",
+      "label": "Leviticus 23:35",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.36",
+      "label": "Leviticus 23:36",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.37",
+      "label": "Leviticus 23:37",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.38",
+      "label": "Leviticus 23:38",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.39",
+      "label": "Leviticus 23:39",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.40",
+      "label": "Leviticus 23:40",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.41",
+      "label": "Leviticus 23:41",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.42",
+      "label": "Leviticus 23:42",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.43",
+      "label": "Leviticus 23:43",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.44",
+      "label": "Leviticus 23:44",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "24.1",
+      "label": "Leviticus 24:1",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.2",
+      "label": "Leviticus 24:2",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.3",
+      "label": "Leviticus 24:3",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.4",
+      "label": "Leviticus 24:4",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.5",
+      "label": "Leviticus 24:5",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.6",
+      "label": "Leviticus 24:6",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.7",
+      "label": "Leviticus 24:7",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.8",
+      "label": "Leviticus 24:8",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.9",
+      "label": "Leviticus 24:9",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.10",
+      "label": "Leviticus 24:10",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.11",
+      "label": "Leviticus 24:11",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.12",
+      "label": "Leviticus 24:12",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.13",
+      "label": "Leviticus 24:13",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.14",
+      "label": "Leviticus 24:14",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.15",
+      "label": "Leviticus 24:15",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.16",
+      "label": "Leviticus 24:16",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.17",
+      "label": "Leviticus 24:17",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.18",
+      "label": "Leviticus 24:18",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.19",
+      "label": "Leviticus 24:19",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.20",
+      "label": "Leviticus 24:20",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.21",
+      "label": "Leviticus 24:21",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.22",
+      "label": "Leviticus 24:22",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.23",
+      "label": "Leviticus 24:23",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "25.1",
+      "label": "Leviticus 25:1",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.2",
+      "label": "Leviticus 25:2",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.3",
+      "label": "Leviticus 25:3",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.4",
+      "label": "Leviticus 25:4",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.5",
+      "label": "Leviticus 25:5",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.6",
+      "label": "Leviticus 25:6",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.7",
+      "label": "Leviticus 25:7",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.8",
+      "label": "Leviticus 25:8",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.9",
+      "label": "Leviticus 25:9",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.10",
+      "label": "Leviticus 25:10",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.11",
+      "label": "Leviticus 25:11",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.12",
+      "label": "Leviticus 25:12",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.13",
+      "label": "Leviticus 25:13",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.14",
+      "label": "Leviticus 25:14",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.15",
+      "label": "Leviticus 25:15",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.16",
+      "label": "Leviticus 25:16",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.17",
+      "label": "Leviticus 25:17",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.18",
+      "label": "Leviticus 25:18",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.19",
+      "label": "Leviticus 25:19",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.20",
+      "label": "Leviticus 25:20",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.21",
+      "label": "Leviticus 25:21",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.22",
+      "label": "Leviticus 25:22",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.23",
+      "label": "Leviticus 25:23",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.24",
+      "label": "Leviticus 25:24",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.25",
+      "label": "Leviticus 25:25",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.26",
+      "label": "Leviticus 25:26",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.27",
+      "label": "Leviticus 25:27",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.28",
+      "label": "Leviticus 25:28",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.29",
+      "label": "Leviticus 25:29",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.30",
+      "label": "Leviticus 25:30",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.31",
+      "label": "Leviticus 25:31",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.32",
+      "label": "Leviticus 25:32",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.33",
+      "label": "Leviticus 25:33",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.34",
+      "label": "Leviticus 25:34",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.35",
+      "label": "Leviticus 25:35",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.36",
+      "label": "Leviticus 25:36",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.37",
+      "label": "Leviticus 25:37",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.38",
+      "label": "Leviticus 25:38",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.39",
+      "label": "Leviticus 25:39",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.40",
+      "label": "Leviticus 25:40",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.41",
+      "label": "Leviticus 25:41",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.42",
+      "label": "Leviticus 25:42",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.43",
+      "label": "Leviticus 25:43",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.44",
+      "label": "Leviticus 25:44",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.45",
+      "label": "Leviticus 25:45",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.46",
+      "label": "Leviticus 25:46",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.47",
+      "label": "Leviticus 25:47",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.48",
+      "label": "Leviticus 25:48",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.49",
+      "label": "Leviticus 25:49",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.50",
+      "label": "Leviticus 25:50",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.51",
+      "label": "Leviticus 25:51",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.52",
+      "label": "Leviticus 25:52",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.53",
+      "label": "Leviticus 25:53",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.54",
+      "label": "Leviticus 25:54",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.55",
+      "label": "Leviticus 25:55",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "26.1",
+      "label": "Leviticus 26:1",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.2",
+      "label": "Leviticus 26:2",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.3",
+      "label": "Leviticus 26:3",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.4",
+      "label": "Leviticus 26:4",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.5",
+      "label": "Leviticus 26:5",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.6",
+      "label": "Leviticus 26:6",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.7",
+      "label": "Leviticus 26:7",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.8",
+      "label": "Leviticus 26:8",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.9",
+      "label": "Leviticus 26:9",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.10",
+      "label": "Leviticus 26:10",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.11",
+      "label": "Leviticus 26:11",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.12",
+      "label": "Leviticus 26:12",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.13",
+      "label": "Leviticus 26:13",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.14",
+      "label": "Leviticus 26:14",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.15",
+      "label": "Leviticus 26:15",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.16",
+      "label": "Leviticus 26:16",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.17",
+      "label": "Leviticus 26:17",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.18",
+      "label": "Leviticus 26:18",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.19",
+      "label": "Leviticus 26:19",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.20",
+      "label": "Leviticus 26:20",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.21",
+      "label": "Leviticus 26:21",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.22",
+      "label": "Leviticus 26:22",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.23",
+      "label": "Leviticus 26:23",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.24",
+      "label": "Leviticus 26:24",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.25",
+      "label": "Leviticus 26:25",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.26",
+      "label": "Leviticus 26:26",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.27",
+      "label": "Leviticus 26:27",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.28",
+      "label": "Leviticus 26:28",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.29",
+      "label": "Leviticus 26:29",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.30",
+      "label": "Leviticus 26:30",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.31",
+      "label": "Leviticus 26:31",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.32",
+      "label": "Leviticus 26:32",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.33",
+      "label": "Leviticus 26:33",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.34",
+      "label": "Leviticus 26:34",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.35",
+      "label": "Leviticus 26:35",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.36",
+      "label": "Leviticus 26:36",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.37",
+      "label": "Leviticus 26:37",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.38",
+      "label": "Leviticus 26:38",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.39",
+      "label": "Leviticus 26:39",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.40",
+      "label": "Leviticus 26:40",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.41",
+      "label": "Leviticus 26:41",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.42",
+      "label": "Leviticus 26:42",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.43",
+      "label": "Leviticus 26:43",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.44",
+      "label": "Leviticus 26:44",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.45",
+      "label": "Leviticus 26:45",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.46",
+      "label": "Leviticus 26:46",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "27.1",
+      "label": "Leviticus 27:1",
+      "chapterRef": "27"
+    },
+    {
+      "reference": "27.2",
+      "label": "Leviticus 27:2",
+      "chapterRef": "27"
+    },
+    {
+      "reference": "27.3",
+      "label": "Leviticus 27:3",
+      "chapterRef": "27"
+    },
+    {
+      "reference": "27.4",
+      "label": "Leviticus 27:4",
+      "chapterRef": "27"
+    },
+    {
+      "reference": "27.5",
+      "label": "Leviticus 27:5",
+      "chapterRef": "27"
+    },
+    {
+      "reference": "27.6",
+      "label": "Leviticus 27:6",
+      "chapterRef": "27"
+    },
+    {
+      "reference": "27.7",
+      "label": "Leviticus 27:7",
+      "chapterRef": "27"
+    },
+    {
+      "reference": "27.8",
+      "label": "Leviticus 27:8",
+      "chapterRef": "27"
+    },
+    {
+      "reference": "27.9",
+      "label": "Leviticus 27:9",
+      "chapterRef": "27"
+    },
+    {
+      "reference": "27.10",
+      "label": "Leviticus 27:10",
+      "chapterRef": "27"
+    },
+    {
+      "reference": "27.11",
+      "label": "Leviticus 27:11",
+      "chapterRef": "27"
+    },
+    {
+      "reference": "27.12",
+      "label": "Leviticus 27:12",
+      "chapterRef": "27"
+    },
+    {
+      "reference": "27.13",
+      "label": "Leviticus 27:13",
+      "chapterRef": "27"
+    },
+    {
+      "reference": "27.14",
+      "label": "Leviticus 27:14",
+      "chapterRef": "27"
+    },
+    {
+      "reference": "27.15",
+      "label": "Leviticus 27:15",
+      "chapterRef": "27"
+    },
+    {
+      "reference": "27.16",
+      "label": "Leviticus 27:16",
+      "chapterRef": "27"
+    },
+    {
+      "reference": "27.17",
+      "label": "Leviticus 27:17",
+      "chapterRef": "27"
+    },
+    {
+      "reference": "27.18",
+      "label": "Leviticus 27:18",
+      "chapterRef": "27"
+    },
+    {
+      "reference": "27.19",
+      "label": "Leviticus 27:19",
+      "chapterRef": "27"
+    },
+    {
+      "reference": "27.20",
+      "label": "Leviticus 27:20",
+      "chapterRef": "27"
+    },
+    {
+      "reference": "27.21",
+      "label": "Leviticus 27:21",
+      "chapterRef": "27"
+    },
+    {
+      "reference": "27.22",
+      "label": "Leviticus 27:22",
+      "chapterRef": "27"
+    },
+    {
+      "reference": "27.23",
+      "label": "Leviticus 27:23",
+      "chapterRef": "27"
+    },
+    {
+      "reference": "27.24",
+      "label": "Leviticus 27:24",
+      "chapterRef": "27"
+    },
+    {
+      "reference": "27.25",
+      "label": "Leviticus 27:25",
+      "chapterRef": "27"
+    },
+    {
+      "reference": "27.26",
+      "label": "Leviticus 27:26",
+      "chapterRef": "27"
+    },
+    {
+      "reference": "27.27",
+      "label": "Leviticus 27:27",
+      "chapterRef": "27"
+    },
+    {
+      "reference": "27.28",
+      "label": "Leviticus 27:28",
+      "chapterRef": "27"
+    },
+    {
+      "reference": "27.29",
+      "label": "Leviticus 27:29",
+      "chapterRef": "27"
+    },
+    {
+      "reference": "27.30",
+      "label": "Leviticus 27:30",
+      "chapterRef": "27"
+    },
+    {
+      "reference": "27.31",
+      "label": "Leviticus 27:31",
+      "chapterRef": "27"
+    },
+    {
+      "reference": "27.32",
+      "label": "Leviticus 27:32",
+      "chapterRef": "27"
+    },
+    {
+      "reference": "27.33",
+      "label": "Leviticus 27:33",
+      "chapterRef": "27"
+    },
+    {
+      "reference": "27.34",
+      "label": "Leviticus 27:34",
+      "chapterRef": "27"
+    }
+  ],
+  "editions": [
+    {
+      "slug": "bible-leviticus-he",
+      "language": "he",
+      "editionType": "original",
+      "title": "Westminster Leningrad Codex (Hebrew)",
+      "translator": "",
+      "publisher": "Bolls Bible API",
+      "publicationYear": null,
+      "source": "bolls",
+      "license": "public-domain",
+      "rightsStatus": "Public domain",
+      "attributionText": "Westminster Leningrad Codex Hebrew text, served by the Bolls Bible API.",
+      "structureScheme": "book, chapter, verse",
+      "isSample": false,
+      "notes": "The Hebrew text is shown as the API serves it; this library does not collate it against critical editions."
+    },
+    {
+      "slug": "bible-leviticus-en-kjv",
+      "language": "en",
+      "editionType": "translation",
+      "title": "King James Version (1611)",
+      "translator": "The King James Bible translators",
+      "publisher": "Bolls Bible API",
+      "publicationYear": 1611,
+      "source": "bolls",
+      "license": "public-domain",
+      "rightsStatus": "Public domain",
+      "attributionText": "The Holy Bible, King James Version (1611). Public domain. Served by the Bolls Bible API.",
+      "structureScheme": "book, chapter, verse",
+      "isSample": false,
+      "notes": "Strong's numbers included in the API's markup are not displayed; the verse wording is unchanged."
+    }
+  ]
+}

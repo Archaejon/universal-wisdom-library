@@ -1,0 +1,114 @@
+{
+  "slug": "al-ghazali-short-creed",
+  "title": "A Short Creed",
+  "originalTitle": "العقيدة",
+  "transliteration": "al-ʿAqīda",
+  "altTitles": [],
+  "tradition": "islam",
+  "school": "kalam",
+  "genre": "Theology",
+  "textType": "Creed",
+  "category": "Theology (Kalam)",
+  "subcategory": "",
+  "originalLanguage": "ar",
+  "dateStart": 1095,
+  "dateEnd": 1111,
+  "dateDisplay": "late 11th–early 12th century CE",
+  "authorshipStatus": "established",
+  "author": "al-ghazali",
+  "attributionNote": "The attribution is the one the edition and the scholarly consensus give; the catalogue does not adjudicate disputed cases.",
+  "description": "A compact statement of Ash'ari belief, setting out what a Muslim is to affirm about God, prophecy and the last things. Al-Ghazali wrote it as a summary for ordinary believers rather than as a scholastic treatise, which makes it the clearest short statement of the theology behind his longer works.",
+  "historicalContext": "Translated by Duncan Black Macdonald in 1903 as an appendix to his study of Muslim theology, jurisprudence and constitutional theory. The translation is public domain and is reproduced by Wikisource.",
+  "availabilityNote": "Streamed from Wikisource page by page at read time. The 1903 translation by Duncan Black Macdonald is public domain; the page text is served by Wikisource under its own terms.",
+  "featured": false,
+  "featuredNote": "",
+  "refScheme": "chapter.paragraph",
+  "isSample": false,
+  "textStorage": "streamed",
+  "chapters": [
+    {
+      "ref": "1",
+      "label": "A Short Creed"
+    }
+  ],
+  "passages": [
+    {
+      "reference": "1.1",
+      "label": "A Short Creed §1",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.2",
+      "label": "A Short Creed §2",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.3",
+      "label": "A Short Creed §3",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.4",
+      "label": "A Short Creed §4",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.5",
+      "label": "A Short Creed §5",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.6",
+      "label": "A Short Creed §6",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.7",
+      "label": "A Short Creed §7",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.8",
+      "label": "A Short Creed §8",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.9",
+      "label": "A Short Creed §9",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.10",
+      "label": "A Short Creed §10",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.11",
+      "label": "A Short Creed §11",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.12",
+      "label": "A Short Creed §12",
+      "chapterRef": "1"
+    }
+  ],
+  "editions": [
+    {
+      "slug": "al-ghazali-short-creed-en",
+      "language": "en",
+      "editionType": "translation",
+      "title": "A Short Creed, by al-Ghazzali",
+      "translator": "Duncan Black Macdonald",
+      "publisher": "Wikisource",
+      "publicationYear": 1903,
+      "source": "wikisource",
+      "license": "public-domain",
+      "rightsStatus": "Public-domain translation",
+      "attributionText": "A Short Creed, by al-Ghazzali, translated by Duncan Black Macdonald (1903). Public domain. Digital text served by Wikisource.",
+      "structureScheme": "one Wikisource page per chapter",
+      "isSample": false,
+      "notes": "Only the English translation is hosted; the 1903 translation is public domain and is streamed page by page from Wikisource."
+    }
+  ]
+}

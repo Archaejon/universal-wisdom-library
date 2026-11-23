@@ -1,0 +1,159 @@
+{
+  "slug": "halakhah-shaar-hamayim-hakatzar",
+  "title": "Sha'ar HaMayim HaKatzar",
+  "originalTitle": "שער המים הקצר",
+  "transliteration": "",
+  "altTitles": [],
+  "tradition": "judaism",
+  "school": "rabbinic-judaism",
+  "genre": "Halakhah",
+  "textType": "Legal code and legal commentary",
+  "category": "Halakhah",
+  "subcategory": "Rishonim",
+  "originalLanguage": "he",
+  "dateStart": 200,
+  "dateEnd": 1600,
+  "dateDisplay": "Rabbinic legal literature, c. 200–1600 CE",
+  "authorshipStatus": "established",
+  "author": "",
+  "attributionNote": "Authorship follows the Sefaria catalogue record for this work. Where a text is traditionally attributed or collectively compiled, the library does not assert a single author beyond the source's own metadata.",
+  "description": "The Rashba’s abridgement of his Sha’ar HaMayim HaArokh. Complete Halakhah text imported from Sefaria; the exact edition and licence are shown with each version.",
+  "historicalContext": "Halakhah is the body of Jewish law and its literature: the codes that arrange it and the works that argue it. Codes compress centuries of debate, so they are presented as their own genre rather than as scripture.",
+  "availabilityNote": "Imported from Sefaria. Version, source and licence are recorded per edition.",
+  "featured": false,
+  "featuredNote": "",
+  "refScheme": "chapter.paragraph",
+  "isSample": false,
+  "textStorage": "streamed",
+  "chapters": [
+    {
+      "ref": "1",
+      "label": "Gate 1"
+    },
+    {
+      "ref": "2",
+      "label": "Gate 2"
+    },
+    {
+      "ref": "3",
+      "label": "Gate 3"
+    },
+    {
+      "ref": "4",
+      "label": "Gate 4"
+    },
+    {
+      "ref": "5",
+      "label": "Gate 5"
+    },
+    {
+      "ref": "6",
+      "label": "Gate 6"
+    },
+    {
+      "ref": "7",
+      "label": "Gate 7"
+    },
+    {
+      "ref": "8",
+      "label": "Gate 8"
+    },
+    {
+      "ref": "9",
+      "label": "Gate 9"
+    },
+    {
+      "ref": "10",
+      "label": "Gate 10"
+    },
+    {
+      "ref": "11",
+      "label": "Gate 11"
+    }
+  ],
+  "passages": [
+    {
+      "reference": "1.1",
+      "label": "1:1",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "2.1",
+      "label": "2:1",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "3.1",
+      "label": "3:1",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "4.1",
+      "label": "4:1",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "5.1",
+      "label": "5:1",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.2",
+      "label": "5:2",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.3",
+      "label": "5:3",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "6.1",
+      "label": "6:1",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "7.1",
+      "label": "7:1",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "8.1",
+      "label": "8:1",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "9.1",
+      "label": "9:1",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "10.1",
+      "label": "10:1",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "11.1",
+      "label": "11:1",
+      "chapterRef": "11"
+    }
+  ],
+  "editions": [
+    {
+      "slug": "halakhah-shaar-hamayim-hakatzar-hebrew-sefaria",
+      "language": "he",
+      "editionType": "original",
+      "title": "Gerlitz edition, published by Oraita",
+      "translator": "",
+      "publisher": "https://www.sefaria.org",
+      "publicationYear": null,
+      "source": "sefaria",
+      "license": "cc0-1.0",
+      "rightsStatus": "CC0",
+      "attributionText": "Gerlitz edition, published by Oraita; licence: CC0; source: https://www.sefaria.org. Retrieved via Sefaria on 2026-10-20.",
+      "structureScheme": "chapter and paragraph",
+      "isSample": false,
+      "notes": "Complete work imported from Sefaria. Text is displayed as supplied by the named edition; HTML markup has been removed."
+    }
+  ]
+}

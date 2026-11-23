@@ -1,0 +1,170 @@
+{
+  "slug": "second-temple-psalm-154",
+  "title": "Psalm 154",
+  "originalTitle": "תהלים קנ\"ד",
+  "transliteration": "",
+  "altTitles": [],
+  "tradition": "judaism",
+  "school": "rabbinic-judaism",
+  "genre": "Second Temple",
+  "textType": "Second Temple literature",
+  "category": "Second Temple",
+  "subcategory": "Apocrypha",
+  "originalLanguage": "he",
+  "dateStart": -300,
+  "dateEnd": 100,
+  "dateDisplay": "c. 300 BCE – 100 CE",
+  "authorshipStatus": "traditional",
+  "author": "",
+  "attributionNote": "Authorship follows the Sefaria catalogue record for this work. Where a text is traditionally attributed or collectively compiled, the library does not assert a single author beyond the source's own metadata.",
+  "description": "20-verse psalm of praise to God composed sometime before the 1st century CE. Complete Second Temple text imported from Sefaria; the exact edition and licence are shown with each version.",
+  "historicalContext": "Second Temple literature includes the Apocrypha and the works of Philo and Josephus, surviving mostly in Greek, Latin and other translations. Its texts are evidence for Jewish thought and practice in the period, not a later rabbinic canon.",
+  "availabilityNote": "Imported from Sefaria. Version, source and licence are recorded per edition.",
+  "featured": false,
+  "featuredNote": "",
+  "refScheme": "chapter.paragraph",
+  "isSample": false,
+  "textStorage": "streamed",
+  "chapters": [
+    {
+      "ref": "1",
+      "label": "Verse 1"
+    }
+  ],
+  "passages": [
+    {
+      "reference": "1.1",
+      "label": "1:1",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.2",
+      "label": "1:2",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.3",
+      "label": "1:3",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.4",
+      "label": "1:4",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.5",
+      "label": "1:5",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.6",
+      "label": "1:6",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.7",
+      "label": "1:7",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.8",
+      "label": "1:8",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.9",
+      "label": "1:9",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.10",
+      "label": "1:10",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.11",
+      "label": "1:11",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.12",
+      "label": "1:12",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.13",
+      "label": "1:13",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.14",
+      "label": "1:14",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.15",
+      "label": "1:15",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.16",
+      "label": "1:16",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.17",
+      "label": "1:17",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.18",
+      "label": "1:18",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.19",
+      "label": "1:19",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.20",
+      "label": "1:20",
+      "chapterRef": "1"
+    }
+  ],
+  "editions": [
+    {
+      "slug": "second-temple-psalm-154-hebrew-sefaria",
+      "language": "he",
+      "editionType": "original",
+      "title": "Qumran composition of Ps. 154; recon. by Hanan and Esther Eshel; vocalized by Isaac Mayer ",
+      "translator": "",
+      "publisher": "http://aleph.nli.org.il:80/F/?func=direct&doc_number=000077860&local_base=RMB01",
+      "publicationYear": null,
+      "source": "sefaria",
+      "license": "unknown",
+      "rightsStatus": "unknown",
+      "attributionText": "Qumran composition of Ps. 154; recon. by Hanan and Esther Eshel; vocalized by Isaac Mayer ; licence: unknown; source: http://aleph.nli.org.il:80/F/?func=direct&doc_number=000077860&local_base=RMB01. Retrieved via Sefaria on 2026-10-20.",
+      "structureScheme": "chapter and paragraph",
+      "isSample": false,
+      "notes": "Complete work imported from Sefaria. Text is displayed as supplied by the named edition; HTML markup has been removed."
+    },
+    {
+      "slug": "second-temple-psalm-154-english-sefaria-1",
+      "language": "en",
+      "editionType": "translation",
+      "title": "Translated by Hanan and Esther Eshel",
+      "translator": "",
+      "publisher": "the Journal of Biblical Literature",
+      "publicationYear": null,
+      "source": "sefaria",
+      "license": "unknown",
+      "rightsStatus": "unknown",
+      "attributionText": "Translated by Hanan and Esther Eshel; licence: unknown; source: the Journal of Biblical Literature. Retrieved via Sefaria on 2026-10-20.",
+      "structureScheme": "chapter and paragraph",
+      "isSample": false,
+      "notes": "Complete work imported from Sefaria. Text is displayed as supplied by the named edition; HTML markup has been removed."
+    }
+  ]
+}

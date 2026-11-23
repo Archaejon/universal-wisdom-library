@@ -1,0 +1,253 @@
+{
+  "slug": "aitareya-upanishad",
+  "title": "The Aitareya Upanishad, with Shankara's commentary",
+  "originalTitle": "ऐतरेयोपनिषद्",
+  "transliteration": "Aitareyopaniṣad",
+  "altTitles": [
+    "Aitareya Upanishad"
+  ],
+  "tradition": "hinduism",
+  "school": "vedanta",
+  "genre": "Upanishad",
+  "textType": "Prose Upanishad",
+  "category": "Upanishad",
+  "subcategory": "Principal Upanishads",
+  "originalLanguage": "sa",
+  "dateStart": -600,
+  "dateEnd": -400,
+  "dateDisplay": "c. 6th–4th century BCE",
+  "authorshipStatus": "composite",
+  "author": "",
+  "attributionNote": "Anonymous. It is the fourth book of the Aitareya Aranyaka of the Rigveda and is named after its traditional teacher, Mahidasa Aitareya. The commentary beside the text is ascribed to Shankara.",
+  "description": "In a few pages the Aitareya tells how the self first thought the worlds and the guardians of the worlds, and then entered in: the gods tried to eat and could not until he gave them the bodies they work through, and from the same self grew speech, sight, hearing, mind and breath and the food that sustains them. Its first verse, that all this was the self alone before creation, is the sentence of the Upanishad.",
+  "historicalContext": "Placed fourth among the principal Upanishads and read with the Rigveda, it is cited in the Vedanta literature for its account of the self as the maker and the knower. Being short, it is one of the Upanishads chanted most often at the close of study.",
+  "availabilityNote": "Complete: the three adhyayas of the GRETIL e-text, streamed at read time one khanda at a time, with the commentary ascribed to Shankara in a second pane.",
+  "featured": false,
+  "featuredNote": "",
+  "refScheme": "adhyaya.khanda.verse",
+  "isSample": false,
+  "textStorage": "streamed",
+  "chapters": [
+    {
+      "ref": "1.1",
+      "label": "Adhyāya 1, Khaṇḍa 1"
+    },
+    {
+      "ref": "1.2",
+      "label": "Adhyāya 1, Khaṇḍa 2"
+    },
+    {
+      "ref": "1.3",
+      "label": "Adhyāya 1, Khaṇḍa 3"
+    },
+    {
+      "ref": "2",
+      "label": "Adhyāya 2"
+    },
+    {
+      "ref": "3",
+      "label": "Adhyāya 3"
+    }
+  ],
+  "passages": [
+    {
+      "reference": "1.1.1",
+      "label": "Adhyāya 1, Khaṇḍa 1 §1",
+      "chapterRef": "1.1"
+    },
+    {
+      "reference": "1.1.2",
+      "label": "Adhyāya 1, Khaṇḍa 1 §2",
+      "chapterRef": "1.1"
+    },
+    {
+      "reference": "1.1.3",
+      "label": "Adhyāya 1, Khaṇḍa 1 §3",
+      "chapterRef": "1.1"
+    },
+    {
+      "reference": "1.1.4",
+      "label": "Adhyāya 1, Khaṇḍa 1 §4",
+      "chapterRef": "1.1"
+    },
+    {
+      "reference": "1.2.1",
+      "label": "Adhyāya 1, Khaṇḍa 2 §1",
+      "chapterRef": "1.2"
+    },
+    {
+      "reference": "1.2.2",
+      "label": "Adhyāya 1, Khaṇḍa 2 §2",
+      "chapterRef": "1.2"
+    },
+    {
+      "reference": "1.2.3",
+      "label": "Adhyāya 1, Khaṇḍa 2 §3",
+      "chapterRef": "1.2"
+    },
+    {
+      "reference": "1.2.4",
+      "label": "Adhyāya 1, Khaṇḍa 2 §4",
+      "chapterRef": "1.2"
+    },
+    {
+      "reference": "1.2.5",
+      "label": "Adhyāya 1, Khaṇḍa 2 §5",
+      "chapterRef": "1.2"
+    },
+    {
+      "reference": "1.3.1",
+      "label": "Adhyāya 1, Khaṇḍa 3 §1",
+      "chapterRef": "1.3"
+    },
+    {
+      "reference": "1.3.2",
+      "label": "Adhyāya 1, Khaṇḍa 3 §2",
+      "chapterRef": "1.3"
+    },
+    {
+      "reference": "1.3.3",
+      "label": "Adhyāya 1, Khaṇḍa 3 §3",
+      "chapterRef": "1.3"
+    },
+    {
+      "reference": "1.3.4",
+      "label": "Adhyāya 1, Khaṇḍa 3 §4",
+      "chapterRef": "1.3"
+    },
+    {
+      "reference": "1.3.5",
+      "label": "Adhyāya 1, Khaṇḍa 3 §5",
+      "chapterRef": "1.3"
+    },
+    {
+      "reference": "1.3.6",
+      "label": "Adhyāya 1, Khaṇḍa 3 §6",
+      "chapterRef": "1.3"
+    },
+    {
+      "reference": "1.3.7",
+      "label": "Adhyāya 1, Khaṇḍa 3 §7",
+      "chapterRef": "1.3"
+    },
+    {
+      "reference": "1.3.8",
+      "label": "Adhyāya 1, Khaṇḍa 3 §8",
+      "chapterRef": "1.3"
+    },
+    {
+      "reference": "1.3.9",
+      "label": "Adhyāya 1, Khaṇḍa 3 §9",
+      "chapterRef": "1.3"
+    },
+    {
+      "reference": "1.3.10",
+      "label": "Adhyāya 1, Khaṇḍa 3 §10",
+      "chapterRef": "1.3"
+    },
+    {
+      "reference": "1.3.11",
+      "label": "Adhyāya 1, Khaṇḍa 3 §11",
+      "chapterRef": "1.3"
+    },
+    {
+      "reference": "1.3.12",
+      "label": "Adhyāya 1, Khaṇḍa 3 §12",
+      "chapterRef": "1.3"
+    },
+    {
+      "reference": "1.3.13",
+      "label": "Adhyāya 1, Khaṇḍa 3 §13",
+      "chapterRef": "1.3"
+    },
+    {
+      "reference": "1.3.14",
+      "label": "Adhyāya 1, Khaṇḍa 3 §14",
+      "chapterRef": "1.3"
+    },
+    {
+      "reference": "2.1",
+      "label": "Adhyāya 2 §1",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.2",
+      "label": "Adhyāya 2 §2",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.3",
+      "label": "Adhyāya 2 §3",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.4",
+      "label": "Adhyāya 2 §4",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.5",
+      "label": "Adhyāya 2 §5",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.6",
+      "label": "Adhyāya 2 §6",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "3.1",
+      "label": "Adhyāya 3 §1",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.2",
+      "label": "Adhyāya 3 §2",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.3",
+      "label": "Adhyāya 3 §3",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.4",
+      "label": "Adhyāya 3 §4",
+      "chapterRef": "3"
+    }
+  ],
+  "editions": [
+    {
+      "slug": "aitareya-upanishad-sa",
+      "language": "sa",
+      "editionType": "original",
+      "title": "Aitareyopaniṣad (GRETIL e-text)",
+      "translator": "",
+      "publisher": "GRETIL, Göttingen State and University Library",
+      "publicationYear": 2020,
+      "source": "gretil",
+      "license": "cc-by-nc-sa-4.0",
+      "rightsStatus": "CC BY-NC-SA 4.0 as recorded in the e-text header",
+      "attributionText": "The Aitareya Upanishad, with Shankara's commentary. GRETIL e-text 2020-07-31, Göttingen Register of Electronic Texts in Indian Languages. Source edition: . Input by members of the Sansknet Project.",
+      "structureScheme": "reference index; each passage is one verse as GRETIL numbers it",
+      "isSample": false,
+      "notes": "This e-text was provided to GRETIL in good faith that no copyright rights have been infringed. If anyone wishes to assert copyright over this file, please contact the GRETIL management at gretil(at)sub(dot)uni-goettingen(dot)de. The file will be immediately removed pending resolution of the claim. Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. GRETIL describes the reference scheme as: A reference is assembled consisting of a pragmatic abbreviation of the title: Aitareyopaniṣad+comm = , the number of the  in arabic numerals, the number of the verse in arabic numerals.. The import cache stores the exact segments that were validated. The reader re-fetches the work from GRETIL and reports when the served count no longer matches the index."
+    },
+    {
+      "slug": "aitareya-upanishad-shankara-bhashya",
+      "language": "sa",
+      "editionType": "original",
+      "title": "Śaṅkarabhāṣya on the Aitareya Upaniṣad",
+      "translator": "",
+      "publisher": "GRETIL, Göttingen State and University Library",
+      "publicationYear": 2020,
+      "source": "gretil",
+      "license": "cc-by-nc-sa-4.0",
+      "rightsStatus": "CC BY-NC-SA 4.0 as recorded in the e-text header",
+      "attributionText": "Commentary ascribed to Shankara. GRETIL e-text 2020-07-31, Göttingen Register of Electronic Texts in Indian Languages. The two texts share one file on GRETIL and are indexed under their own reference markers. Source edition: . Input by members of the Sansknet Project.",
+      "structureScheme": "reference index; each passage is one verse as GRETIL numbers it",
+      "isSample": false,
+      "notes": "This e-text was provided to GRETIL in good faith that no copyright rights have been infringed. If anyone wishes to assert copyright over this file, please contact the GRETIL management at gretil(at)sub(dot)uni-goettingen(dot)de. The file will be immediately removed pending resolution of the claim. Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. GRETIL describes the reference scheme as: A reference is assembled consisting of a pragmatic abbreviation of the title: Aitareyopaniṣad+comm = , the number of the  in arabic numerals, the number of the verse in arabic numerals.. The import cache stores the exact segments that were validated. The reader re-fetches the work from GRETIL and reports when the served count no longer matches the index."
+    }
+  ]
+}

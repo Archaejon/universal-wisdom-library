@@ -1,0 +1,6805 @@
+{
+  "slug": "al-hujwiri-kashf-al-mahjub",
+  "title": "The Kashf al-Mahjub",
+  "originalTitle": "كشف المحجوب",
+  "transliteration": "Kashf al-Maḥjūb",
+  "altTitles": [],
+  "tradition": "islam",
+  "school": "sufi-tradition",
+  "genre": "Mysticism",
+  "textType": "Treatise",
+  "category": "Sufism",
+  "subcategory": "",
+  "originalLanguage": "fa",
+  "dateStart": 1045,
+  "dateEnd": 1075,
+  "dateDisplay": "mid-11th century CE",
+  "authorshipStatus": "established",
+  "author": "al-hujwiri",
+  "attributionNote": "The attribution is not disputed in the scholarship this catalogue follows.",
+  "description": "The oldest surviving Persian treatise on Sufism, written for a questioner who asked what the Sufis mean by their doctrines and practices. Al-Hujwiri answers with the lives of the early teachers, the rules of poverty and companionship, and eleven 'veils' that set out the path from knowledge to audition.",
+  "historicalContext": "Written at Lahore in the eleventh century by a Sufi who had travelled through Persia, Iraq and Central Asia. Nicholson's 1911 translation, made for the Gibb Memorial Series, is still the standard English text and the source of most later citation.",
+  "availabilityNote": "Streamed from Project Gutenberg at read time: the whole plain-text edition is fetched and split at the chapter headings it prints. The 1911 translation by Reynold A. Nicholson is public domain in the United States.",
+  "featured": false,
+  "featuredNote": "",
+  "refScheme": "chapter.paragraph",
+  "isSample": false,
+  "textStorage": "streamed",
+  "chapters": [
+    {
+      "ref": "1",
+      "label": "On the Affirmation of Knowledge"
+    },
+    {
+      "ref": "2",
+      "label": "On Poverty"
+    },
+    {
+      "ref": "3",
+      "label": "On Sufiism"
+    },
+    {
+      "ref": "4",
+      "label": "On the Wearing of Patched Frocks"
+    },
+    {
+      "ref": "5",
+      "label": "On the Opinions held concerning Poverty and Purity"
+    },
+    {
+      "ref": "6",
+      "label": "On Blame"
+    },
+    {
+      "ref": "7",
+      "label": "The Imams who belonged to the Companions"
+    },
+    {
+      "ref": "8",
+      "label": "The Imams who belonged to the House of the Prophet"
+    },
+    {
+      "ref": "9",
+      "label": "The People of the Veranda"
+    },
+    {
+      "ref": "10",
+      "label": "The Imams who belonged to the Followers"
+    },
+    {
+      "ref": "11",
+      "label": "The Imams after the Followers down to the Author's Day"
+    },
+    {
+      "ref": "12",
+      "label": "The Principal Sufis of Recent Times"
+    },
+    {
+      "ref": "13",
+      "label": "The Modern Sufis in Different Countries"
+    },
+    {
+      "ref": "14",
+      "label": "The Doctrines held by the Different Sects of Sufis"
+    },
+    {
+      "ref": "15",
+      "label": "The First Veil: the Gnosis of God"
+    },
+    {
+      "ref": "16",
+      "label": "The Second Veil: Unification"
+    },
+    {
+      "ref": "17",
+      "label": "The Third Veil: Faith"
+    },
+    {
+      "ref": "18",
+      "label": "The Fourth Veil: Purification from Foulness"
+    },
+    {
+      "ref": "19",
+      "label": "The Fifth Veil: Prayer"
+    },
+    {
+      "ref": "20",
+      "label": "The Sixth Veil: Alms"
+    },
+    {
+      "ref": "21",
+      "label": "The Seventh Veil: Fasting"
+    },
+    {
+      "ref": "22",
+      "label": "The Eighth Veil: Pilgrimage"
+    },
+    {
+      "ref": "23",
+      "label": "The Ninth Veil: Companionship and its Rules"
+    },
+    {
+      "ref": "24",
+      "label": "The Tenth Veil: the Sufi Vocabulary"
+    },
+    {
+      "ref": "25",
+      "label": "The Eleventh Veil: Audition"
+    }
+  ],
+  "passages": [
+    {
+      "reference": "1.1",
+      "label": "On the Affirmation of Knowledge §1",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.2",
+      "label": "On the Affirmation of Knowledge §2",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.3",
+      "label": "On the Affirmation of Knowledge §3",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.4",
+      "label": "On the Affirmation of Knowledge §4",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.5",
+      "label": "On the Affirmation of Knowledge §5",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.6",
+      "label": "On the Affirmation of Knowledge §6",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.7",
+      "label": "On the Affirmation of Knowledge §7",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.8",
+      "label": "On the Affirmation of Knowledge §8",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.9",
+      "label": "On the Affirmation of Knowledge §9",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.10",
+      "label": "On the Affirmation of Knowledge §10",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.11",
+      "label": "On the Affirmation of Knowledge §11",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.12",
+      "label": "On the Affirmation of Knowledge §12",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.13",
+      "label": "On the Affirmation of Knowledge §13",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.14",
+      "label": "On the Affirmation of Knowledge §14",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.15",
+      "label": "On the Affirmation of Knowledge §15",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.16",
+      "label": "On the Affirmation of Knowledge §16",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.17",
+      "label": "On the Affirmation of Knowledge §17",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.18",
+      "label": "On the Affirmation of Knowledge §18",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.19",
+      "label": "On the Affirmation of Knowledge §19",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.20",
+      "label": "On the Affirmation of Knowledge §20",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.21",
+      "label": "On the Affirmation of Knowledge §21",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.22",
+      "label": "On the Affirmation of Knowledge §22",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.23",
+      "label": "On the Affirmation of Knowledge §23",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.24",
+      "label": "On the Affirmation of Knowledge §24",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.25",
+      "label": "On the Affirmation of Knowledge §25",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.26",
+      "label": "On the Affirmation of Knowledge §26",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.27",
+      "label": "On the Affirmation of Knowledge §27",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.28",
+      "label": "On the Affirmation of Knowledge §28",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.29",
+      "label": "On the Affirmation of Knowledge §29",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.30",
+      "label": "On the Affirmation of Knowledge §30",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.31",
+      "label": "On the Affirmation of Knowledge §31",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.32",
+      "label": "On the Affirmation of Knowledge §32",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.33",
+      "label": "On the Affirmation of Knowledge §33",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.34",
+      "label": "On the Affirmation of Knowledge §34",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.35",
+      "label": "On the Affirmation of Knowledge §35",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.36",
+      "label": "On the Affirmation of Knowledge §36",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.37",
+      "label": "On the Affirmation of Knowledge §37",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "2.1",
+      "label": "On Poverty §1",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.2",
+      "label": "On Poverty §2",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.3",
+      "label": "On Poverty §3",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.4",
+      "label": "On Poverty §4",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.5",
+      "label": "On Poverty §5",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.6",
+      "label": "On Poverty §6",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.7",
+      "label": "On Poverty §7",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.8",
+      "label": "On Poverty §8",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.9",
+      "label": "On Poverty §9",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.10",
+      "label": "On Poverty §10",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.11",
+      "label": "On Poverty §11",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.12",
+      "label": "On Poverty §12",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.13",
+      "label": "On Poverty §13",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.14",
+      "label": "On Poverty §14",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.15",
+      "label": "On Poverty §15",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.16",
+      "label": "On Poverty §16",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.17",
+      "label": "On Poverty §17",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.18",
+      "label": "On Poverty §18",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.19",
+      "label": "On Poverty §19",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.20",
+      "label": "On Poverty §20",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.21",
+      "label": "On Poverty §21",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.22",
+      "label": "On Poverty §22",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.23",
+      "label": "On Poverty §23",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.24",
+      "label": "On Poverty §24",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.25",
+      "label": "On Poverty §25",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.26",
+      "label": "On Poverty §26",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.27",
+      "label": "On Poverty §27",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.28",
+      "label": "On Poverty §28",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.29",
+      "label": "On Poverty §29",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.30",
+      "label": "On Poverty §30",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "3.1",
+      "label": "On Sufiism §1",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.2",
+      "label": "On Sufiism §2",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.3",
+      "label": "On Sufiism §3",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.4",
+      "label": "On Sufiism §4",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.5",
+      "label": "On Sufiism §5",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.6",
+      "label": "On Sufiism §6",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.7",
+      "label": "On Sufiism §7",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.8",
+      "label": "On Sufiism §8",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.9",
+      "label": "On Sufiism §9",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.10",
+      "label": "On Sufiism §10",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.11",
+      "label": "On Sufiism §11",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.12",
+      "label": "On Sufiism §12",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.13",
+      "label": "On Sufiism §13",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.14",
+      "label": "On Sufiism §14",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.15",
+      "label": "On Sufiism §15",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.16",
+      "label": "On Sufiism §16",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.17",
+      "label": "On Sufiism §17",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.18",
+      "label": "On Sufiism §18",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.19",
+      "label": "On Sufiism §19",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.20",
+      "label": "On Sufiism §20",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.21",
+      "label": "On Sufiism §21",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.22",
+      "label": "On Sufiism §22",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.23",
+      "label": "On Sufiism §23",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.24",
+      "label": "On Sufiism §24",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.25",
+      "label": "On Sufiism §25",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.26",
+      "label": "On Sufiism §26",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.27",
+      "label": "On Sufiism §27",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.28",
+      "label": "On Sufiism §28",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.29",
+      "label": "On Sufiism §29",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.30",
+      "label": "On Sufiism §30",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.31",
+      "label": "On Sufiism §31",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.32",
+      "label": "On Sufiism §32",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.33",
+      "label": "On Sufiism §33",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.34",
+      "label": "On Sufiism §34",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.35",
+      "label": "On Sufiism §35",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.36",
+      "label": "On Sufiism §36",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.37",
+      "label": "On Sufiism §37",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.38",
+      "label": "On Sufiism §38",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.39",
+      "label": "On Sufiism §39",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.40",
+      "label": "On Sufiism §40",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "4.1",
+      "label": "On the Wearing of Patched Frocks §1",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.2",
+      "label": "On the Wearing of Patched Frocks §2",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.3",
+      "label": "On the Wearing of Patched Frocks §3",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.4",
+      "label": "On the Wearing of Patched Frocks §4",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.5",
+      "label": "On the Wearing of Patched Frocks §5",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.6",
+      "label": "On the Wearing of Patched Frocks §6",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.7",
+      "label": "On the Wearing of Patched Frocks §7",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.8",
+      "label": "On the Wearing of Patched Frocks §8",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.9",
+      "label": "On the Wearing of Patched Frocks §9",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.10",
+      "label": "On the Wearing of Patched Frocks §10",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.11",
+      "label": "On the Wearing of Patched Frocks §11",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.12",
+      "label": "On the Wearing of Patched Frocks §12",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.13",
+      "label": "On the Wearing of Patched Frocks §13",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.14",
+      "label": "On the Wearing of Patched Frocks §14",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.15",
+      "label": "On the Wearing of Patched Frocks §15",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.16",
+      "label": "On the Wearing of Patched Frocks §16",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.17",
+      "label": "On the Wearing of Patched Frocks §17",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.18",
+      "label": "On the Wearing of Patched Frocks §18",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.19",
+      "label": "On the Wearing of Patched Frocks §19",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.20",
+      "label": "On the Wearing of Patched Frocks §20",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.21",
+      "label": "On the Wearing of Patched Frocks §21",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.22",
+      "label": "On the Wearing of Patched Frocks §22",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.23",
+      "label": "On the Wearing of Patched Frocks §23",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.24",
+      "label": "On the Wearing of Patched Frocks §24",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.25",
+      "label": "On the Wearing of Patched Frocks §25",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.26",
+      "label": "On the Wearing of Patched Frocks §26",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.27",
+      "label": "On the Wearing of Patched Frocks §27",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.28",
+      "label": "On the Wearing of Patched Frocks §28",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.29",
+      "label": "On the Wearing of Patched Frocks §29",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.30",
+      "label": "On the Wearing of Patched Frocks §30",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.31",
+      "label": "On the Wearing of Patched Frocks §31",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.32",
+      "label": "On the Wearing of Patched Frocks §32",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.33",
+      "label": "On the Wearing of Patched Frocks §33",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.34",
+      "label": "On the Wearing of Patched Frocks §34",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "5.1",
+      "label": "On the Opinions held concerning Poverty and Purity §1",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.2",
+      "label": "On the Opinions held concerning Poverty and Purity §2",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.3",
+      "label": "On the Opinions held concerning Poverty and Purity §3",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.4",
+      "label": "On the Opinions held concerning Poverty and Purity §4",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "6.1",
+      "label": "On Blame §1",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.2",
+      "label": "On Blame §2",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.3",
+      "label": "On Blame §3",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.4",
+      "label": "On Blame §4",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.5",
+      "label": "On Blame §5",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.6",
+      "label": "On Blame §6",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.7",
+      "label": "On Blame §7",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.8",
+      "label": "On Blame §8",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.9",
+      "label": "On Blame §9",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.10",
+      "label": "On Blame §10",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.11",
+      "label": "On Blame §11",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.12",
+      "label": "On Blame §12",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.13",
+      "label": "On Blame §13",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.14",
+      "label": "On Blame §14",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.15",
+      "label": "On Blame §15",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.16",
+      "label": "On Blame §16",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.17",
+      "label": "On Blame §17",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.18",
+      "label": "On Blame §18",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "7.1",
+      "label": "The Imams who belonged to the Companions §1",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.2",
+      "label": "The Imams who belonged to the Companions §2",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.3",
+      "label": "The Imams who belonged to the Companions §3",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.4",
+      "label": "The Imams who belonged to the Companions §4",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.5",
+      "label": "The Imams who belonged to the Companions §5",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.6",
+      "label": "The Imams who belonged to the Companions §6",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.7",
+      "label": "The Imams who belonged to the Companions §7",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.8",
+      "label": "The Imams who belonged to the Companions §8",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.9",
+      "label": "The Imams who belonged to the Companions §9",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.10",
+      "label": "The Imams who belonged to the Companions §10",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.11",
+      "label": "The Imams who belonged to the Companions §11",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.12",
+      "label": "The Imams who belonged to the Companions §12",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.13",
+      "label": "The Imams who belonged to the Companions §13",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.14",
+      "label": "The Imams who belonged to the Companions §14",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.15",
+      "label": "The Imams who belonged to the Companions §15",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.16",
+      "label": "The Imams who belonged to the Companions §16",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.17",
+      "label": "The Imams who belonged to the Companions §17",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "8.1",
+      "label": "The Imams who belonged to the House of the Prophet §1",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.2",
+      "label": "The Imams who belonged to the House of the Prophet §2",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.3",
+      "label": "The Imams who belonged to the House of the Prophet §3",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.4",
+      "label": "The Imams who belonged to the House of the Prophet §4",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.5",
+      "label": "The Imams who belonged to the House of the Prophet §5",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.6",
+      "label": "The Imams who belonged to the House of the Prophet §6",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.7",
+      "label": "The Imams who belonged to the House of the Prophet §7",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.8",
+      "label": "The Imams who belonged to the House of the Prophet §8",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.9",
+      "label": "The Imams who belonged to the House of the Prophet §9",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.10",
+      "label": "The Imams who belonged to the House of the Prophet §10",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.11",
+      "label": "The Imams who belonged to the House of the Prophet §11",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.12",
+      "label": "The Imams who belonged to the House of the Prophet §12",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.13",
+      "label": "The Imams who belonged to the House of the Prophet §13",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.14",
+      "label": "The Imams who belonged to the House of the Prophet §14",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.15",
+      "label": "The Imams who belonged to the House of the Prophet §15",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.16",
+      "label": "The Imams who belonged to the House of the Prophet §16",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.17",
+      "label": "The Imams who belonged to the House of the Prophet §17",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "9.1",
+      "label": "The People of the Veranda §1",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.2",
+      "label": "The People of the Veranda §2",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.3",
+      "label": "The People of the Veranda §3",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.4",
+      "label": "The People of the Veranda §4",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.5",
+      "label": "The People of the Veranda §5",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.6",
+      "label": "The People of the Veranda §6",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.7",
+      "label": "The People of the Veranda §7",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "10.1",
+      "label": "The Imams who belonged to the Followers §1",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.2",
+      "label": "The Imams who belonged to the Followers §2",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.3",
+      "label": "The Imams who belonged to the Followers §3",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.4",
+      "label": "The Imams who belonged to the Followers §4",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.5",
+      "label": "The Imams who belonged to the Followers §5",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.6",
+      "label": "The Imams who belonged to the Followers §6",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.7",
+      "label": "The Imams who belonged to the Followers §7",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.8",
+      "label": "The Imams who belonged to the Followers §8",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.9",
+      "label": "The Imams who belonged to the Followers §9",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.10",
+      "label": "The Imams who belonged to the Followers §10",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "11.1",
+      "label": "The Imams after the Followers down to the Author's Day §1",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.2",
+      "label": "The Imams after the Followers down to the Author's Day §2",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.3",
+      "label": "The Imams after the Followers down to the Author's Day §3",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.4",
+      "label": "The Imams after the Followers down to the Author's Day §4",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.5",
+      "label": "The Imams after the Followers down to the Author's Day §5",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.6",
+      "label": "The Imams after the Followers down to the Author's Day §6",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.7",
+      "label": "The Imams after the Followers down to the Author's Day §7",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.8",
+      "label": "The Imams after the Followers down to the Author's Day §8",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.9",
+      "label": "The Imams after the Followers down to the Author's Day §9",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.10",
+      "label": "The Imams after the Followers down to the Author's Day §10",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.11",
+      "label": "The Imams after the Followers down to the Author's Day §11",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.12",
+      "label": "The Imams after the Followers down to the Author's Day §12",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.13",
+      "label": "The Imams after the Followers down to the Author's Day §13",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.14",
+      "label": "The Imams after the Followers down to the Author's Day §14",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.15",
+      "label": "The Imams after the Followers down to the Author's Day §15",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.16",
+      "label": "The Imams after the Followers down to the Author's Day §16",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.17",
+      "label": "The Imams after the Followers down to the Author's Day §17",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.18",
+      "label": "The Imams after the Followers down to the Author's Day §18",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.19",
+      "label": "The Imams after the Followers down to the Author's Day §19",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.20",
+      "label": "The Imams after the Followers down to the Author's Day §20",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.21",
+      "label": "The Imams after the Followers down to the Author's Day §21",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.22",
+      "label": "The Imams after the Followers down to the Author's Day §22",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.23",
+      "label": "The Imams after the Followers down to the Author's Day §23",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.24",
+      "label": "The Imams after the Followers down to the Author's Day §24",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.25",
+      "label": "The Imams after the Followers down to the Author's Day §25",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.26",
+      "label": "The Imams after the Followers down to the Author's Day §26",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.27",
+      "label": "The Imams after the Followers down to the Author's Day §27",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.28",
+      "label": "The Imams after the Followers down to the Author's Day §28",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.29",
+      "label": "The Imams after the Followers down to the Author's Day §29",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.30",
+      "label": "The Imams after the Followers down to the Author's Day §30",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.31",
+      "label": "The Imams after the Followers down to the Author's Day §31",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.32",
+      "label": "The Imams after the Followers down to the Author's Day §32",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.33",
+      "label": "The Imams after the Followers down to the Author's Day §33",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.34",
+      "label": "The Imams after the Followers down to the Author's Day §34",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.35",
+      "label": "The Imams after the Followers down to the Author's Day §35",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.36",
+      "label": "The Imams after the Followers down to the Author's Day §36",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.37",
+      "label": "The Imams after the Followers down to the Author's Day §37",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.38",
+      "label": "The Imams after the Followers down to the Author's Day §38",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.39",
+      "label": "The Imams after the Followers down to the Author's Day §39",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.40",
+      "label": "The Imams after the Followers down to the Author's Day §40",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.41",
+      "label": "The Imams after the Followers down to the Author's Day §41",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.42",
+      "label": "The Imams after the Followers down to the Author's Day §42",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.43",
+      "label": "The Imams after the Followers down to the Author's Day §43",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.44",
+      "label": "The Imams after the Followers down to the Author's Day §44",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.45",
+      "label": "The Imams after the Followers down to the Author's Day §45",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.46",
+      "label": "The Imams after the Followers down to the Author's Day §46",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.47",
+      "label": "The Imams after the Followers down to the Author's Day §47",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.48",
+      "label": "The Imams after the Followers down to the Author's Day §48",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.49",
+      "label": "The Imams after the Followers down to the Author's Day §49",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.50",
+      "label": "The Imams after the Followers down to the Author's Day §50",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.51",
+      "label": "The Imams after the Followers down to the Author's Day §51",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.52",
+      "label": "The Imams after the Followers down to the Author's Day §52",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.53",
+      "label": "The Imams after the Followers down to the Author's Day §53",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.54",
+      "label": "The Imams after the Followers down to the Author's Day §54",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.55",
+      "label": "The Imams after the Followers down to the Author's Day §55",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.56",
+      "label": "The Imams after the Followers down to the Author's Day §56",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.57",
+      "label": "The Imams after the Followers down to the Author's Day §57",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.58",
+      "label": "The Imams after the Followers down to the Author's Day §58",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.59",
+      "label": "The Imams after the Followers down to the Author's Day §59",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.60",
+      "label": "The Imams after the Followers down to the Author's Day §60",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.61",
+      "label": "The Imams after the Followers down to the Author's Day §61",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.62",
+      "label": "The Imams after the Followers down to the Author's Day §62",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.63",
+      "label": "The Imams after the Followers down to the Author's Day §63",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.64",
+      "label": "The Imams after the Followers down to the Author's Day §64",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.65",
+      "label": "The Imams after the Followers down to the Author's Day §65",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.66",
+      "label": "The Imams after the Followers down to the Author's Day §66",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.67",
+      "label": "The Imams after the Followers down to the Author's Day §67",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.68",
+      "label": "The Imams after the Followers down to the Author's Day §68",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.69",
+      "label": "The Imams after the Followers down to the Author's Day §69",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.70",
+      "label": "The Imams after the Followers down to the Author's Day §70",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.71",
+      "label": "The Imams after the Followers down to the Author's Day §71",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.72",
+      "label": "The Imams after the Followers down to the Author's Day §72",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.73",
+      "label": "The Imams after the Followers down to the Author's Day §73",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.74",
+      "label": "The Imams after the Followers down to the Author's Day §74",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.75",
+      "label": "The Imams after the Followers down to the Author's Day §75",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.76",
+      "label": "The Imams after the Followers down to the Author's Day §76",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.77",
+      "label": "The Imams after the Followers down to the Author's Day §77",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.78",
+      "label": "The Imams after the Followers down to the Author's Day §78",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.79",
+      "label": "The Imams after the Followers down to the Author's Day §79",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.80",
+      "label": "The Imams after the Followers down to the Author's Day §80",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.81",
+      "label": "The Imams after the Followers down to the Author's Day §81",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.82",
+      "label": "The Imams after the Followers down to the Author's Day §82",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.83",
+      "label": "The Imams after the Followers down to the Author's Day §83",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.84",
+      "label": "The Imams after the Followers down to the Author's Day §84",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.85",
+      "label": "The Imams after the Followers down to the Author's Day §85",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.86",
+      "label": "The Imams after the Followers down to the Author's Day §86",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.87",
+      "label": "The Imams after the Followers down to the Author's Day §87",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.88",
+      "label": "The Imams after the Followers down to the Author's Day §88",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.89",
+      "label": "The Imams after the Followers down to the Author's Day §89",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.90",
+      "label": "The Imams after the Followers down to the Author's Day §90",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.91",
+      "label": "The Imams after the Followers down to the Author's Day §91",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.92",
+      "label": "The Imams after the Followers down to the Author's Day §92",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.93",
+      "label": "The Imams after the Followers down to the Author's Day §93",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.94",
+      "label": "The Imams after the Followers down to the Author's Day §94",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.95",
+      "label": "The Imams after the Followers down to the Author's Day §95",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.96",
+      "label": "The Imams after the Followers down to the Author's Day §96",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.97",
+      "label": "The Imams after the Followers down to the Author's Day §97",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.98",
+      "label": "The Imams after the Followers down to the Author's Day §98",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.99",
+      "label": "The Imams after the Followers down to the Author's Day §99",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.100",
+      "label": "The Imams after the Followers down to the Author's Day §100",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.101",
+      "label": "The Imams after the Followers down to the Author's Day §101",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.102",
+      "label": "The Imams after the Followers down to the Author's Day §102",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.103",
+      "label": "The Imams after the Followers down to the Author's Day §103",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.104",
+      "label": "The Imams after the Followers down to the Author's Day §104",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.105",
+      "label": "The Imams after the Followers down to the Author's Day §105",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.106",
+      "label": "The Imams after the Followers down to the Author's Day §106",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.107",
+      "label": "The Imams after the Followers down to the Author's Day §107",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.108",
+      "label": "The Imams after the Followers down to the Author's Day §108",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.109",
+      "label": "The Imams after the Followers down to the Author's Day §109",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.110",
+      "label": "The Imams after the Followers down to the Author's Day §110",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.111",
+      "label": "The Imams after the Followers down to the Author's Day §111",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.112",
+      "label": "The Imams after the Followers down to the Author's Day §112",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.113",
+      "label": "The Imams after the Followers down to the Author's Day §113",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.114",
+      "label": "The Imams after the Followers down to the Author's Day §114",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.115",
+      "label": "The Imams after the Followers down to the Author's Day §115",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.116",
+      "label": "The Imams after the Followers down to the Author's Day §116",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.117",
+      "label": "The Imams after the Followers down to the Author's Day §117",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.118",
+      "label": "The Imams after the Followers down to the Author's Day §118",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.119",
+      "label": "The Imams after the Followers down to the Author's Day §119",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.120",
+      "label": "The Imams after the Followers down to the Author's Day §120",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.121",
+      "label": "The Imams after the Followers down to the Author's Day §121",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.122",
+      "label": "The Imams after the Followers down to the Author's Day §122",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.123",
+      "label": "The Imams after the Followers down to the Author's Day §123",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.124",
+      "label": "The Imams after the Followers down to the Author's Day §124",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.125",
+      "label": "The Imams after the Followers down to the Author's Day §125",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.126",
+      "label": "The Imams after the Followers down to the Author's Day §126",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.127",
+      "label": "The Imams after the Followers down to the Author's Day §127",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.128",
+      "label": "The Imams after the Followers down to the Author's Day §128",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.129",
+      "label": "The Imams after the Followers down to the Author's Day §129",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.130",
+      "label": "The Imams after the Followers down to the Author's Day §130",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.131",
+      "label": "The Imams after the Followers down to the Author's Day §131",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.132",
+      "label": "The Imams after the Followers down to the Author's Day §132",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.133",
+      "label": "The Imams after the Followers down to the Author's Day §133",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.134",
+      "label": "The Imams after the Followers down to the Author's Day §134",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.135",
+      "label": "The Imams after the Followers down to the Author's Day §135",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.136",
+      "label": "The Imams after the Followers down to the Author's Day §136",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.137",
+      "label": "The Imams after the Followers down to the Author's Day §137",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.138",
+      "label": "The Imams after the Followers down to the Author's Day §138",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.139",
+      "label": "The Imams after the Followers down to the Author's Day §139",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.140",
+      "label": "The Imams after the Followers down to the Author's Day §140",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.141",
+      "label": "The Imams after the Followers down to the Author's Day §141",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.142",
+      "label": "The Imams after the Followers down to the Author's Day §142",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.143",
+      "label": "The Imams after the Followers down to the Author's Day §143",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.144",
+      "label": "The Imams after the Followers down to the Author's Day §144",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.145",
+      "label": "The Imams after the Followers down to the Author's Day §145",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.146",
+      "label": "The Imams after the Followers down to the Author's Day §146",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.147",
+      "label": "The Imams after the Followers down to the Author's Day §147",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.148",
+      "label": "The Imams after the Followers down to the Author's Day §148",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.149",
+      "label": "The Imams after the Followers down to the Author's Day §149",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.150",
+      "label": "The Imams after the Followers down to the Author's Day §150",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.151",
+      "label": "The Imams after the Followers down to the Author's Day §151",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.152",
+      "label": "The Imams after the Followers down to the Author's Day §152",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.153",
+      "label": "The Imams after the Followers down to the Author's Day §153",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.154",
+      "label": "The Imams after the Followers down to the Author's Day §154",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.155",
+      "label": "The Imams after the Followers down to the Author's Day §155",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.156",
+      "label": "The Imams after the Followers down to the Author's Day §156",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.157",
+      "label": "The Imams after the Followers down to the Author's Day §157",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.158",
+      "label": "The Imams after the Followers down to the Author's Day §158",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.159",
+      "label": "The Imams after the Followers down to the Author's Day §159",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.160",
+      "label": "The Imams after the Followers down to the Author's Day §160",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.161",
+      "label": "The Imams after the Followers down to the Author's Day §161",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.162",
+      "label": "The Imams after the Followers down to the Author's Day §162",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.163",
+      "label": "The Imams after the Followers down to the Author's Day §163",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.164",
+      "label": "The Imams after the Followers down to the Author's Day §164",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.165",
+      "label": "The Imams after the Followers down to the Author's Day §165",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.166",
+      "label": "The Imams after the Followers down to the Author's Day §166",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.167",
+      "label": "The Imams after the Followers down to the Author's Day §167",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.168",
+      "label": "The Imams after the Followers down to the Author's Day §168",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.169",
+      "label": "The Imams after the Followers down to the Author's Day §169",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.170",
+      "label": "The Imams after the Followers down to the Author's Day §170",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.171",
+      "label": "The Imams after the Followers down to the Author's Day §171",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.172",
+      "label": "The Imams after the Followers down to the Author's Day §172",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.173",
+      "label": "The Imams after the Followers down to the Author's Day §173",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.174",
+      "label": "The Imams after the Followers down to the Author's Day §174",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.175",
+      "label": "The Imams after the Followers down to the Author's Day §175",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.176",
+      "label": "The Imams after the Followers down to the Author's Day §176",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.177",
+      "label": "The Imams after the Followers down to the Author's Day §177",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.178",
+      "label": "The Imams after the Followers down to the Author's Day §178",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.179",
+      "label": "The Imams after the Followers down to the Author's Day §179",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.180",
+      "label": "The Imams after the Followers down to the Author's Day §180",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.181",
+      "label": "The Imams after the Followers down to the Author's Day §181",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.182",
+      "label": "The Imams after the Followers down to the Author's Day §182",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.183",
+      "label": "The Imams after the Followers down to the Author's Day §183",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.184",
+      "label": "The Imams after the Followers down to the Author's Day §184",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.185",
+      "label": "The Imams after the Followers down to the Author's Day §185",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.186",
+      "label": "The Imams after the Followers down to the Author's Day §186",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.187",
+      "label": "The Imams after the Followers down to the Author's Day §187",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.188",
+      "label": "The Imams after the Followers down to the Author's Day §188",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.189",
+      "label": "The Imams after the Followers down to the Author's Day §189",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.190",
+      "label": "The Imams after the Followers down to the Author's Day §190",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.191",
+      "label": "The Imams after the Followers down to the Author's Day §191",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.192",
+      "label": "The Imams after the Followers down to the Author's Day §192",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.193",
+      "label": "The Imams after the Followers down to the Author's Day §193",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.194",
+      "label": "The Imams after the Followers down to the Author's Day §194",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.195",
+      "label": "The Imams after the Followers down to the Author's Day §195",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.196",
+      "label": "The Imams after the Followers down to the Author's Day §196",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.197",
+      "label": "The Imams after the Followers down to the Author's Day §197",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.198",
+      "label": "The Imams after the Followers down to the Author's Day §198",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.199",
+      "label": "The Imams after the Followers down to the Author's Day §199",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.200",
+      "label": "The Imams after the Followers down to the Author's Day §200",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.201",
+      "label": "The Imams after the Followers down to the Author's Day §201",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.202",
+      "label": "The Imams after the Followers down to the Author's Day §202",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.203",
+      "label": "The Imams after the Followers down to the Author's Day §203",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.204",
+      "label": "The Imams after the Followers down to the Author's Day §204",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.205",
+      "label": "The Imams after the Followers down to the Author's Day §205",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.206",
+      "label": "The Imams after the Followers down to the Author's Day §206",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.207",
+      "label": "The Imams after the Followers down to the Author's Day §207",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.208",
+      "label": "The Imams after the Followers down to the Author's Day §208",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.209",
+      "label": "The Imams after the Followers down to the Author's Day §209",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.210",
+      "label": "The Imams after the Followers down to the Author's Day §210",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.211",
+      "label": "The Imams after the Followers down to the Author's Day §211",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.212",
+      "label": "The Imams after the Followers down to the Author's Day §212",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.213",
+      "label": "The Imams after the Followers down to the Author's Day §213",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.214",
+      "label": "The Imams after the Followers down to the Author's Day §214",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.215",
+      "label": "The Imams after the Followers down to the Author's Day §215",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.216",
+      "label": "The Imams after the Followers down to the Author's Day §216",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.217",
+      "label": "The Imams after the Followers down to the Author's Day §217",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.218",
+      "label": "The Imams after the Followers down to the Author's Day §218",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.219",
+      "label": "The Imams after the Followers down to the Author's Day §219",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.220",
+      "label": "The Imams after the Followers down to the Author's Day §220",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.221",
+      "label": "The Imams after the Followers down to the Author's Day §221",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.222",
+      "label": "The Imams after the Followers down to the Author's Day §222",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.223",
+      "label": "The Imams after the Followers down to the Author's Day §223",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.224",
+      "label": "The Imams after the Followers down to the Author's Day §224",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.225",
+      "label": "The Imams after the Followers down to the Author's Day §225",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.226",
+      "label": "The Imams after the Followers down to the Author's Day §226",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.227",
+      "label": "The Imams after the Followers down to the Author's Day §227",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.228",
+      "label": "The Imams after the Followers down to the Author's Day §228",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.229",
+      "label": "The Imams after the Followers down to the Author's Day §229",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.230",
+      "label": "The Imams after the Followers down to the Author's Day §230",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.231",
+      "label": "The Imams after the Followers down to the Author's Day §231",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.232",
+      "label": "The Imams after the Followers down to the Author's Day §232",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.233",
+      "label": "The Imams after the Followers down to the Author's Day §233",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.234",
+      "label": "The Imams after the Followers down to the Author's Day §234",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.235",
+      "label": "The Imams after the Followers down to the Author's Day §235",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.236",
+      "label": "The Imams after the Followers down to the Author's Day §236",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.237",
+      "label": "The Imams after the Followers down to the Author's Day §237",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.238",
+      "label": "The Imams after the Followers down to the Author's Day §238",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.239",
+      "label": "The Imams after the Followers down to the Author's Day §239",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.240",
+      "label": "The Imams after the Followers down to the Author's Day §240",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.241",
+      "label": "The Imams after the Followers down to the Author's Day §241",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.242",
+      "label": "The Imams after the Followers down to the Author's Day §242",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.243",
+      "label": "The Imams after the Followers down to the Author's Day §243",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.244",
+      "label": "The Imams after the Followers down to the Author's Day §244",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.245",
+      "label": "The Imams after the Followers down to the Author's Day §245",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.246",
+      "label": "The Imams after the Followers down to the Author's Day §246",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.247",
+      "label": "The Imams after the Followers down to the Author's Day §247",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.248",
+      "label": "The Imams after the Followers down to the Author's Day §248",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "12.1",
+      "label": "The Principal Sufis of Recent Times §1",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.2",
+      "label": "The Principal Sufis of Recent Times §2",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.3",
+      "label": "The Principal Sufis of Recent Times §3",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.4",
+      "label": "The Principal Sufis of Recent Times §4",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.5",
+      "label": "The Principal Sufis of Recent Times §5",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.6",
+      "label": "The Principal Sufis of Recent Times §6",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.7",
+      "label": "The Principal Sufis of Recent Times §7",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.8",
+      "label": "The Principal Sufis of Recent Times §8",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.9",
+      "label": "The Principal Sufis of Recent Times §9",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.10",
+      "label": "The Principal Sufis of Recent Times §10",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.11",
+      "label": "The Principal Sufis of Recent Times §11",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.12",
+      "label": "The Principal Sufis of Recent Times §12",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.13",
+      "label": "The Principal Sufis of Recent Times §13",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.14",
+      "label": "The Principal Sufis of Recent Times §14",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.15",
+      "label": "The Principal Sufis of Recent Times §15",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.16",
+      "label": "The Principal Sufis of Recent Times §16",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.17",
+      "label": "The Principal Sufis of Recent Times §17",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.18",
+      "label": "The Principal Sufis of Recent Times §18",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.19",
+      "label": "The Principal Sufis of Recent Times §19",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.20",
+      "label": "The Principal Sufis of Recent Times §20",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.21",
+      "label": "The Principal Sufis of Recent Times §21",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.22",
+      "label": "The Principal Sufis of Recent Times §22",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.23",
+      "label": "The Principal Sufis of Recent Times §23",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.24",
+      "label": "The Principal Sufis of Recent Times §24",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.25",
+      "label": "The Principal Sufis of Recent Times §25",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.26",
+      "label": "The Principal Sufis of Recent Times §26",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.27",
+      "label": "The Principal Sufis of Recent Times §27",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.28",
+      "label": "The Principal Sufis of Recent Times §28",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.29",
+      "label": "The Principal Sufis of Recent Times §29",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.30",
+      "label": "The Principal Sufis of Recent Times §30",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.31",
+      "label": "The Principal Sufis of Recent Times §31",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.32",
+      "label": "The Principal Sufis of Recent Times §32",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.33",
+      "label": "The Principal Sufis of Recent Times §33",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.34",
+      "label": "The Principal Sufis of Recent Times §34",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.35",
+      "label": "The Principal Sufis of Recent Times §35",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.36",
+      "label": "The Principal Sufis of Recent Times §36",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.37",
+      "label": "The Principal Sufis of Recent Times §37",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.38",
+      "label": "The Principal Sufis of Recent Times §38",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "13.1",
+      "label": "The Modern Sufis in Different Countries §1",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.2",
+      "label": "The Modern Sufis in Different Countries §2",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.3",
+      "label": "The Modern Sufis in Different Countries §3",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.4",
+      "label": "The Modern Sufis in Different Countries §4",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.5",
+      "label": "The Modern Sufis in Different Countries §5",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.6",
+      "label": "The Modern Sufis in Different Countries §6",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.7",
+      "label": "The Modern Sufis in Different Countries §7",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.8",
+      "label": "The Modern Sufis in Different Countries §8",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.9",
+      "label": "The Modern Sufis in Different Countries §9",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.10",
+      "label": "The Modern Sufis in Different Countries §10",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.11",
+      "label": "The Modern Sufis in Different Countries §11",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.12",
+      "label": "The Modern Sufis in Different Countries §12",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.13",
+      "label": "The Modern Sufis in Different Countries §13",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.14",
+      "label": "The Modern Sufis in Different Countries §14",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.15",
+      "label": "The Modern Sufis in Different Countries §15",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.16",
+      "label": "The Modern Sufis in Different Countries §16",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.17",
+      "label": "The Modern Sufis in Different Countries §17",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.18",
+      "label": "The Modern Sufis in Different Countries §18",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.19",
+      "label": "The Modern Sufis in Different Countries §19",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.20",
+      "label": "The Modern Sufis in Different Countries §20",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.21",
+      "label": "The Modern Sufis in Different Countries §21",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.22",
+      "label": "The Modern Sufis in Different Countries §22",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.23",
+      "label": "The Modern Sufis in Different Countries §23",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.24",
+      "label": "The Modern Sufis in Different Countries §24",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.25",
+      "label": "The Modern Sufis in Different Countries §25",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.26",
+      "label": "The Modern Sufis in Different Countries §26",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.27",
+      "label": "The Modern Sufis in Different Countries §27",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.28",
+      "label": "The Modern Sufis in Different Countries §28",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.29",
+      "label": "The Modern Sufis in Different Countries §29",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.30",
+      "label": "The Modern Sufis in Different Countries §30",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.31",
+      "label": "The Modern Sufis in Different Countries §31",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.32",
+      "label": "The Modern Sufis in Different Countries §32",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.33",
+      "label": "The Modern Sufis in Different Countries §33",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.34",
+      "label": "The Modern Sufis in Different Countries §34",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.35",
+      "label": "The Modern Sufis in Different Countries §35",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.36",
+      "label": "The Modern Sufis in Different Countries §36",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.37",
+      "label": "The Modern Sufis in Different Countries §37",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.38",
+      "label": "The Modern Sufis in Different Countries §38",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.39",
+      "label": "The Modern Sufis in Different Countries §39",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.40",
+      "label": "The Modern Sufis in Different Countries §40",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.41",
+      "label": "The Modern Sufis in Different Countries §41",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.42",
+      "label": "The Modern Sufis in Different Countries §42",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.43",
+      "label": "The Modern Sufis in Different Countries §43",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.44",
+      "label": "The Modern Sufis in Different Countries §44",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.45",
+      "label": "The Modern Sufis in Different Countries §45",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.46",
+      "label": "The Modern Sufis in Different Countries §46",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.47",
+      "label": "The Modern Sufis in Different Countries §47",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.48",
+      "label": "The Modern Sufis in Different Countries §48",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.49",
+      "label": "The Modern Sufis in Different Countries §49",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.50",
+      "label": "The Modern Sufis in Different Countries §50",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.51",
+      "label": "The Modern Sufis in Different Countries §51",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.52",
+      "label": "The Modern Sufis in Different Countries §52",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.53",
+      "label": "The Modern Sufis in Different Countries §53",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.54",
+      "label": "The Modern Sufis in Different Countries §54",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.55",
+      "label": "The Modern Sufis in Different Countries §55",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.56",
+      "label": "The Modern Sufis in Different Countries §56",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.57",
+      "label": "The Modern Sufis in Different Countries §57",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.58",
+      "label": "The Modern Sufis in Different Countries §58",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.59",
+      "label": "The Modern Sufis in Different Countries §59",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.60",
+      "label": "The Modern Sufis in Different Countries §60",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.61",
+      "label": "The Modern Sufis in Different Countries §61",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.62",
+      "label": "The Modern Sufis in Different Countries §62",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.63",
+      "label": "The Modern Sufis in Different Countries §63",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.64",
+      "label": "The Modern Sufis in Different Countries §64",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.65",
+      "label": "The Modern Sufis in Different Countries §65",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "14.1",
+      "label": "The Doctrines held by the Different Sects of Sufis §1",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.2",
+      "label": "The Doctrines held by the Different Sects of Sufis §2",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.3",
+      "label": "The Doctrines held by the Different Sects of Sufis §3",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.4",
+      "label": "The Doctrines held by the Different Sects of Sufis §4",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.5",
+      "label": "The Doctrines held by the Different Sects of Sufis §5",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.6",
+      "label": "The Doctrines held by the Different Sects of Sufis §6",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.7",
+      "label": "The Doctrines held by the Different Sects of Sufis §7",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.8",
+      "label": "The Doctrines held by the Different Sects of Sufis §8",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.9",
+      "label": "The Doctrines held by the Different Sects of Sufis §9",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.10",
+      "label": "The Doctrines held by the Different Sects of Sufis §10",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.11",
+      "label": "The Doctrines held by the Different Sects of Sufis §11",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.12",
+      "label": "The Doctrines held by the Different Sects of Sufis §12",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.13",
+      "label": "The Doctrines held by the Different Sects of Sufis §13",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.14",
+      "label": "The Doctrines held by the Different Sects of Sufis §14",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.15",
+      "label": "The Doctrines held by the Different Sects of Sufis §15",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.16",
+      "label": "The Doctrines held by the Different Sects of Sufis §16",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.17",
+      "label": "The Doctrines held by the Different Sects of Sufis §17",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.18",
+      "label": "The Doctrines held by the Different Sects of Sufis §18",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.19",
+      "label": "The Doctrines held by the Different Sects of Sufis §19",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.20",
+      "label": "The Doctrines held by the Different Sects of Sufis §20",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.21",
+      "label": "The Doctrines held by the Different Sects of Sufis §21",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.22",
+      "label": "The Doctrines held by the Different Sects of Sufis §22",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.23",
+      "label": "The Doctrines held by the Different Sects of Sufis §23",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.24",
+      "label": "The Doctrines held by the Different Sects of Sufis §24",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.25",
+      "label": "The Doctrines held by the Different Sects of Sufis §25",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.26",
+      "label": "The Doctrines held by the Different Sects of Sufis §26",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.27",
+      "label": "The Doctrines held by the Different Sects of Sufis §27",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.28",
+      "label": "The Doctrines held by the Different Sects of Sufis §28",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.29",
+      "label": "The Doctrines held by the Different Sects of Sufis §29",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.30",
+      "label": "The Doctrines held by the Different Sects of Sufis §30",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.31",
+      "label": "The Doctrines held by the Different Sects of Sufis §31",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.32",
+      "label": "The Doctrines held by the Different Sects of Sufis §32",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.33",
+      "label": "The Doctrines held by the Different Sects of Sufis §33",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.34",
+      "label": "The Doctrines held by the Different Sects of Sufis §34",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.35",
+      "label": "The Doctrines held by the Different Sects of Sufis §35",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.36",
+      "label": "The Doctrines held by the Different Sects of Sufis §36",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.37",
+      "label": "The Doctrines held by the Different Sects of Sufis §37",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.38",
+      "label": "The Doctrines held by the Different Sects of Sufis §38",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.39",
+      "label": "The Doctrines held by the Different Sects of Sufis §39",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.40",
+      "label": "The Doctrines held by the Different Sects of Sufis §40",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.41",
+      "label": "The Doctrines held by the Different Sects of Sufis §41",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.42",
+      "label": "The Doctrines held by the Different Sects of Sufis §42",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.43",
+      "label": "The Doctrines held by the Different Sects of Sufis §43",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.44",
+      "label": "The Doctrines held by the Different Sects of Sufis §44",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.45",
+      "label": "The Doctrines held by the Different Sects of Sufis §45",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.46",
+      "label": "The Doctrines held by the Different Sects of Sufis §46",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.47",
+      "label": "The Doctrines held by the Different Sects of Sufis §47",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.48",
+      "label": "The Doctrines held by the Different Sects of Sufis §48",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.49",
+      "label": "The Doctrines held by the Different Sects of Sufis §49",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.50",
+      "label": "The Doctrines held by the Different Sects of Sufis §50",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.51",
+      "label": "The Doctrines held by the Different Sects of Sufis §51",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.52",
+      "label": "The Doctrines held by the Different Sects of Sufis §52",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.53",
+      "label": "The Doctrines held by the Different Sects of Sufis §53",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.54",
+      "label": "The Doctrines held by the Different Sects of Sufis §54",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.55",
+      "label": "The Doctrines held by the Different Sects of Sufis §55",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.56",
+      "label": "The Doctrines held by the Different Sects of Sufis §56",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.57",
+      "label": "The Doctrines held by the Different Sects of Sufis §57",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.58",
+      "label": "The Doctrines held by the Different Sects of Sufis §58",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.59",
+      "label": "The Doctrines held by the Different Sects of Sufis §59",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.60",
+      "label": "The Doctrines held by the Different Sects of Sufis §60",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.61",
+      "label": "The Doctrines held by the Different Sects of Sufis §61",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.62",
+      "label": "The Doctrines held by the Different Sects of Sufis §62",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.63",
+      "label": "The Doctrines held by the Different Sects of Sufis §63",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.64",
+      "label": "The Doctrines held by the Different Sects of Sufis §64",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.65",
+      "label": "The Doctrines held by the Different Sects of Sufis §65",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.66",
+      "label": "The Doctrines held by the Different Sects of Sufis §66",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.67",
+      "label": "The Doctrines held by the Different Sects of Sufis §67",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.68",
+      "label": "The Doctrines held by the Different Sects of Sufis §68",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.69",
+      "label": "The Doctrines held by the Different Sects of Sufis §69",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.70",
+      "label": "The Doctrines held by the Different Sects of Sufis §70",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.71",
+      "label": "The Doctrines held by the Different Sects of Sufis §71",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.72",
+      "label": "The Doctrines held by the Different Sects of Sufis §72",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.73",
+      "label": "The Doctrines held by the Different Sects of Sufis §73",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.74",
+      "label": "The Doctrines held by the Different Sects of Sufis §74",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.75",
+      "label": "The Doctrines held by the Different Sects of Sufis §75",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.76",
+      "label": "The Doctrines held by the Different Sects of Sufis §76",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.77",
+      "label": "The Doctrines held by the Different Sects of Sufis §77",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.78",
+      "label": "The Doctrines held by the Different Sects of Sufis §78",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.79",
+      "label": "The Doctrines held by the Different Sects of Sufis §79",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.80",
+      "label": "The Doctrines held by the Different Sects of Sufis §80",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.81",
+      "label": "The Doctrines held by the Different Sects of Sufis §81",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.82",
+      "label": "The Doctrines held by the Different Sects of Sufis §82",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.83",
+      "label": "The Doctrines held by the Different Sects of Sufis §83",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.84",
+      "label": "The Doctrines held by the Different Sects of Sufis §84",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.85",
+      "label": "The Doctrines held by the Different Sects of Sufis §85",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.86",
+      "label": "The Doctrines held by the Different Sects of Sufis §86",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.87",
+      "label": "The Doctrines held by the Different Sects of Sufis §87",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.88",
+      "label": "The Doctrines held by the Different Sects of Sufis §88",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.89",
+      "label": "The Doctrines held by the Different Sects of Sufis §89",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.90",
+      "label": "The Doctrines held by the Different Sects of Sufis §90",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.91",
+      "label": "The Doctrines held by the Different Sects of Sufis §91",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.92",
+      "label": "The Doctrines held by the Different Sects of Sufis §92",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.93",
+      "label": "The Doctrines held by the Different Sects of Sufis §93",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.94",
+      "label": "The Doctrines held by the Different Sects of Sufis §94",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.95",
+      "label": "The Doctrines held by the Different Sects of Sufis §95",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.96",
+      "label": "The Doctrines held by the Different Sects of Sufis §96",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.97",
+      "label": "The Doctrines held by the Different Sects of Sufis §97",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.98",
+      "label": "The Doctrines held by the Different Sects of Sufis §98",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.99",
+      "label": "The Doctrines held by the Different Sects of Sufis §99",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.100",
+      "label": "The Doctrines held by the Different Sects of Sufis §100",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.101",
+      "label": "The Doctrines held by the Different Sects of Sufis §101",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.102",
+      "label": "The Doctrines held by the Different Sects of Sufis §102",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.103",
+      "label": "The Doctrines held by the Different Sects of Sufis §103",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.104",
+      "label": "The Doctrines held by the Different Sects of Sufis §104",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.105",
+      "label": "The Doctrines held by the Different Sects of Sufis §105",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.106",
+      "label": "The Doctrines held by the Different Sects of Sufis §106",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.107",
+      "label": "The Doctrines held by the Different Sects of Sufis §107",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.108",
+      "label": "The Doctrines held by the Different Sects of Sufis §108",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.109",
+      "label": "The Doctrines held by the Different Sects of Sufis §109",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.110",
+      "label": "The Doctrines held by the Different Sects of Sufis §110",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.111",
+      "label": "The Doctrines held by the Different Sects of Sufis §111",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.112",
+      "label": "The Doctrines held by the Different Sects of Sufis §112",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.113",
+      "label": "The Doctrines held by the Different Sects of Sufis §113",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.114",
+      "label": "The Doctrines held by the Different Sects of Sufis §114",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.115",
+      "label": "The Doctrines held by the Different Sects of Sufis §115",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.116",
+      "label": "The Doctrines held by the Different Sects of Sufis §116",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.117",
+      "label": "The Doctrines held by the Different Sects of Sufis §117",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.118",
+      "label": "The Doctrines held by the Different Sects of Sufis §118",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.119",
+      "label": "The Doctrines held by the Different Sects of Sufis §119",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.120",
+      "label": "The Doctrines held by the Different Sects of Sufis §120",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.121",
+      "label": "The Doctrines held by the Different Sects of Sufis §121",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.122",
+      "label": "The Doctrines held by the Different Sects of Sufis §122",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.123",
+      "label": "The Doctrines held by the Different Sects of Sufis §123",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.124",
+      "label": "The Doctrines held by the Different Sects of Sufis §124",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.125",
+      "label": "The Doctrines held by the Different Sects of Sufis §125",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.126",
+      "label": "The Doctrines held by the Different Sects of Sufis §126",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.127",
+      "label": "The Doctrines held by the Different Sects of Sufis §127",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.128",
+      "label": "The Doctrines held by the Different Sects of Sufis §128",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.129",
+      "label": "The Doctrines held by the Different Sects of Sufis §129",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.130",
+      "label": "The Doctrines held by the Different Sects of Sufis §130",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.131",
+      "label": "The Doctrines held by the Different Sects of Sufis §131",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.132",
+      "label": "The Doctrines held by the Different Sects of Sufis §132",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.133",
+      "label": "The Doctrines held by the Different Sects of Sufis §133",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.134",
+      "label": "The Doctrines held by the Different Sects of Sufis §134",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.135",
+      "label": "The Doctrines held by the Different Sects of Sufis §135",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.136",
+      "label": "The Doctrines held by the Different Sects of Sufis §136",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.137",
+      "label": "The Doctrines held by the Different Sects of Sufis §137",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.138",
+      "label": "The Doctrines held by the Different Sects of Sufis §138",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.139",
+      "label": "The Doctrines held by the Different Sects of Sufis §139",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.140",
+      "label": "The Doctrines held by the Different Sects of Sufis §140",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.141",
+      "label": "The Doctrines held by the Different Sects of Sufis §141",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.142",
+      "label": "The Doctrines held by the Different Sects of Sufis §142",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.143",
+      "label": "The Doctrines held by the Different Sects of Sufis §143",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.144",
+      "label": "The Doctrines held by the Different Sects of Sufis §144",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.145",
+      "label": "The Doctrines held by the Different Sects of Sufis §145",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.146",
+      "label": "The Doctrines held by the Different Sects of Sufis §146",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.147",
+      "label": "The Doctrines held by the Different Sects of Sufis §147",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.148",
+      "label": "The Doctrines held by the Different Sects of Sufis §148",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.149",
+      "label": "The Doctrines held by the Different Sects of Sufis §149",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.150",
+      "label": "The Doctrines held by the Different Sects of Sufis §150",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.151",
+      "label": "The Doctrines held by the Different Sects of Sufis §151",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.152",
+      "label": "The Doctrines held by the Different Sects of Sufis §152",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.153",
+      "label": "The Doctrines held by the Different Sects of Sufis §153",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.154",
+      "label": "The Doctrines held by the Different Sects of Sufis §154",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.155",
+      "label": "The Doctrines held by the Different Sects of Sufis §155",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.156",
+      "label": "The Doctrines held by the Different Sects of Sufis §156",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.157",
+      "label": "The Doctrines held by the Different Sects of Sufis §157",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.158",
+      "label": "The Doctrines held by the Different Sects of Sufis §158",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.159",
+      "label": "The Doctrines held by the Different Sects of Sufis §159",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.160",
+      "label": "The Doctrines held by the Different Sects of Sufis §160",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.161",
+      "label": "The Doctrines held by the Different Sects of Sufis §161",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.162",
+      "label": "The Doctrines held by the Different Sects of Sufis §162",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.163",
+      "label": "The Doctrines held by the Different Sects of Sufis §163",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.164",
+      "label": "The Doctrines held by the Different Sects of Sufis §164",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.165",
+      "label": "The Doctrines held by the Different Sects of Sufis §165",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.166",
+      "label": "The Doctrines held by the Different Sects of Sufis §166",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.167",
+      "label": "The Doctrines held by the Different Sects of Sufis §167",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.168",
+      "label": "The Doctrines held by the Different Sects of Sufis §168",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.169",
+      "label": "The Doctrines held by the Different Sects of Sufis §169",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.170",
+      "label": "The Doctrines held by the Different Sects of Sufis §170",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.171",
+      "label": "The Doctrines held by the Different Sects of Sufis §171",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.172",
+      "label": "The Doctrines held by the Different Sects of Sufis §172",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.173",
+      "label": "The Doctrines held by the Different Sects of Sufis §173",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.174",
+      "label": "The Doctrines held by the Different Sects of Sufis §174",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.175",
+      "label": "The Doctrines held by the Different Sects of Sufis §175",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.176",
+      "label": "The Doctrines held by the Different Sects of Sufis §176",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.177",
+      "label": "The Doctrines held by the Different Sects of Sufis §177",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.178",
+      "label": "The Doctrines held by the Different Sects of Sufis §178",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.179",
+      "label": "The Doctrines held by the Different Sects of Sufis §179",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.180",
+      "label": "The Doctrines held by the Different Sects of Sufis §180",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.181",
+      "label": "The Doctrines held by the Different Sects of Sufis §181",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.182",
+      "label": "The Doctrines held by the Different Sects of Sufis §182",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.183",
+      "label": "The Doctrines held by the Different Sects of Sufis §183",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.184",
+      "label": "The Doctrines held by the Different Sects of Sufis §184",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.185",
+      "label": "The Doctrines held by the Different Sects of Sufis §185",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.186",
+      "label": "The Doctrines held by the Different Sects of Sufis §186",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.187",
+      "label": "The Doctrines held by the Different Sects of Sufis §187",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.188",
+      "label": "The Doctrines held by the Different Sects of Sufis §188",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.189",
+      "label": "The Doctrines held by the Different Sects of Sufis §189",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.190",
+      "label": "The Doctrines held by the Different Sects of Sufis §190",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.191",
+      "label": "The Doctrines held by the Different Sects of Sufis §191",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.192",
+      "label": "The Doctrines held by the Different Sects of Sufis §192",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.193",
+      "label": "The Doctrines held by the Different Sects of Sufis §193",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.194",
+      "label": "The Doctrines held by the Different Sects of Sufis §194",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.195",
+      "label": "The Doctrines held by the Different Sects of Sufis §195",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.196",
+      "label": "The Doctrines held by the Different Sects of Sufis §196",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.197",
+      "label": "The Doctrines held by the Different Sects of Sufis §197",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.198",
+      "label": "The Doctrines held by the Different Sects of Sufis §198",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.199",
+      "label": "The Doctrines held by the Different Sects of Sufis §199",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.200",
+      "label": "The Doctrines held by the Different Sects of Sufis §200",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.201",
+      "label": "The Doctrines held by the Different Sects of Sufis §201",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.202",
+      "label": "The Doctrines held by the Different Sects of Sufis §202",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.203",
+      "label": "The Doctrines held by the Different Sects of Sufis §203",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.204",
+      "label": "The Doctrines held by the Different Sects of Sufis §204",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.205",
+      "label": "The Doctrines held by the Different Sects of Sufis §205",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.206",
+      "label": "The Doctrines held by the Different Sects of Sufis §206",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.207",
+      "label": "The Doctrines held by the Different Sects of Sufis §207",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.208",
+      "label": "The Doctrines held by the Different Sects of Sufis §208",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.209",
+      "label": "The Doctrines held by the Different Sects of Sufis §209",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.210",
+      "label": "The Doctrines held by the Different Sects of Sufis §210",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.211",
+      "label": "The Doctrines held by the Different Sects of Sufis §211",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.212",
+      "label": "The Doctrines held by the Different Sects of Sufis §212",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.213",
+      "label": "The Doctrines held by the Different Sects of Sufis §213",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.214",
+      "label": "The Doctrines held by the Different Sects of Sufis §214",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.215",
+      "label": "The Doctrines held by the Different Sects of Sufis §215",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.216",
+      "label": "The Doctrines held by the Different Sects of Sufis §216",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.217",
+      "label": "The Doctrines held by the Different Sects of Sufis §217",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.218",
+      "label": "The Doctrines held by the Different Sects of Sufis §218",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.219",
+      "label": "The Doctrines held by the Different Sects of Sufis §219",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.220",
+      "label": "The Doctrines held by the Different Sects of Sufis §220",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.221",
+      "label": "The Doctrines held by the Different Sects of Sufis §221",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.222",
+      "label": "The Doctrines held by the Different Sects of Sufis §222",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.223",
+      "label": "The Doctrines held by the Different Sects of Sufis §223",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.224",
+      "label": "The Doctrines held by the Different Sects of Sufis §224",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.225",
+      "label": "The Doctrines held by the Different Sects of Sufis §225",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.226",
+      "label": "The Doctrines held by the Different Sects of Sufis §226",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.227",
+      "label": "The Doctrines held by the Different Sects of Sufis §227",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.228",
+      "label": "The Doctrines held by the Different Sects of Sufis §228",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "15.1",
+      "label": "The First Veil: the Gnosis of God §1",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.2",
+      "label": "The First Veil: the Gnosis of God §2",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.3",
+      "label": "The First Veil: the Gnosis of God §3",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.4",
+      "label": "The First Veil: the Gnosis of God §4",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.5",
+      "label": "The First Veil: the Gnosis of God §5",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.6",
+      "label": "The First Veil: the Gnosis of God §6",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.7",
+      "label": "The First Veil: the Gnosis of God §7",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.8",
+      "label": "The First Veil: the Gnosis of God §8",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.9",
+      "label": "The First Veil: the Gnosis of God §9",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.10",
+      "label": "The First Veil: the Gnosis of God §10",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.11",
+      "label": "The First Veil: the Gnosis of God §11",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.12",
+      "label": "The First Veil: the Gnosis of God §12",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.13",
+      "label": "The First Veil: the Gnosis of God §13",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.14",
+      "label": "The First Veil: the Gnosis of God §14",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.15",
+      "label": "The First Veil: the Gnosis of God §15",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.16",
+      "label": "The First Veil: the Gnosis of God §16",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.17",
+      "label": "The First Veil: the Gnosis of God §17",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.18",
+      "label": "The First Veil: the Gnosis of God §18",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "16.1",
+      "label": "The Second Veil: Unification §1",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.2",
+      "label": "The Second Veil: Unification §2",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.3",
+      "label": "The Second Veil: Unification §3",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.4",
+      "label": "The Second Veil: Unification §4",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.5",
+      "label": "The Second Veil: Unification §5",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.6",
+      "label": "The Second Veil: Unification §6",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.7",
+      "label": "The Second Veil: Unification §7",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.8",
+      "label": "The Second Veil: Unification §8",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.9",
+      "label": "The Second Veil: Unification §9",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.10",
+      "label": "The Second Veil: Unification §10",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.11",
+      "label": "The Second Veil: Unification §11",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.12",
+      "label": "The Second Veil: Unification §12",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.13",
+      "label": "The Second Veil: Unification §13",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.14",
+      "label": "The Second Veil: Unification §14",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "17.1",
+      "label": "The Third Veil: Faith §1",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.2",
+      "label": "The Third Veil: Faith §2",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.3",
+      "label": "The Third Veil: Faith §3",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.4",
+      "label": "The Third Veil: Faith §4",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.5",
+      "label": "The Third Veil: Faith §5",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.6",
+      "label": "The Third Veil: Faith §6",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "18.1",
+      "label": "The Fourth Veil: Purification from Foulness §1",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.2",
+      "label": "The Fourth Veil: Purification from Foulness §2",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.3",
+      "label": "The Fourth Veil: Purification from Foulness §3",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.4",
+      "label": "The Fourth Veil: Purification from Foulness §4",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.5",
+      "label": "The Fourth Veil: Purification from Foulness §5",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.6",
+      "label": "The Fourth Veil: Purification from Foulness §6",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.7",
+      "label": "The Fourth Veil: Purification from Foulness §7",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.8",
+      "label": "The Fourth Veil: Purification from Foulness §8",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.9",
+      "label": "The Fourth Veil: Purification from Foulness §9",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.10",
+      "label": "The Fourth Veil: Purification from Foulness §10",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.11",
+      "label": "The Fourth Veil: Purification from Foulness §11",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.12",
+      "label": "The Fourth Veil: Purification from Foulness §12",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.13",
+      "label": "The Fourth Veil: Purification from Foulness §13",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.14",
+      "label": "The Fourth Veil: Purification from Foulness §14",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.15",
+      "label": "The Fourth Veil: Purification from Foulness §15",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.16",
+      "label": "The Fourth Veil: Purification from Foulness §16",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.17",
+      "label": "The Fourth Veil: Purification from Foulness §17",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.18",
+      "label": "The Fourth Veil: Purification from Foulness §18",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.19",
+      "label": "The Fourth Veil: Purification from Foulness §19",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.20",
+      "label": "The Fourth Veil: Purification from Foulness §20",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.21",
+      "label": "The Fourth Veil: Purification from Foulness §21",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.22",
+      "label": "The Fourth Veil: Purification from Foulness §22",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.23",
+      "label": "The Fourth Veil: Purification from Foulness §23",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.24",
+      "label": "The Fourth Veil: Purification from Foulness §24",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.25",
+      "label": "The Fourth Veil: Purification from Foulness §25",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "19.1",
+      "label": "The Fifth Veil: Prayer §1",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.2",
+      "label": "The Fifth Veil: Prayer §2",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.3",
+      "label": "The Fifth Veil: Prayer §3",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.4",
+      "label": "The Fifth Veil: Prayer §4",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.5",
+      "label": "The Fifth Veil: Prayer §5",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.6",
+      "label": "The Fifth Veil: Prayer §6",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.7",
+      "label": "The Fifth Veil: Prayer §7",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.8",
+      "label": "The Fifth Veil: Prayer §8",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.9",
+      "label": "The Fifth Veil: Prayer §9",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.10",
+      "label": "The Fifth Veil: Prayer §10",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.11",
+      "label": "The Fifth Veil: Prayer §11",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.12",
+      "label": "The Fifth Veil: Prayer §12",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.13",
+      "label": "The Fifth Veil: Prayer §13",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.14",
+      "label": "The Fifth Veil: Prayer §14",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.15",
+      "label": "The Fifth Veil: Prayer §15",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.16",
+      "label": "The Fifth Veil: Prayer §16",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.17",
+      "label": "The Fifth Veil: Prayer §17",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.18",
+      "label": "The Fifth Veil: Prayer §18",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.19",
+      "label": "The Fifth Veil: Prayer §19",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.20",
+      "label": "The Fifth Veil: Prayer §20",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.21",
+      "label": "The Fifth Veil: Prayer §21",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.22",
+      "label": "The Fifth Veil: Prayer §22",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.23",
+      "label": "The Fifth Veil: Prayer §23",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.24",
+      "label": "The Fifth Veil: Prayer §24",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.25",
+      "label": "The Fifth Veil: Prayer §25",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.26",
+      "label": "The Fifth Veil: Prayer §26",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.27",
+      "label": "The Fifth Veil: Prayer §27",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.28",
+      "label": "The Fifth Veil: Prayer §28",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.29",
+      "label": "The Fifth Veil: Prayer §29",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.30",
+      "label": "The Fifth Veil: Prayer §30",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.31",
+      "label": "The Fifth Veil: Prayer §31",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.32",
+      "label": "The Fifth Veil: Prayer §32",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.33",
+      "label": "The Fifth Veil: Prayer §33",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.34",
+      "label": "The Fifth Veil: Prayer §34",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "20.1",
+      "label": "The Sixth Veil: Alms §1",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.2",
+      "label": "The Sixth Veil: Alms §2",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.3",
+      "label": "The Sixth Veil: Alms §3",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.4",
+      "label": "The Sixth Veil: Alms §4",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.5",
+      "label": "The Sixth Veil: Alms §5",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.6",
+      "label": "The Sixth Veil: Alms §6",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.7",
+      "label": "The Sixth Veil: Alms §7",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.8",
+      "label": "The Sixth Veil: Alms §8",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.9",
+      "label": "The Sixth Veil: Alms §9",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.10",
+      "label": "The Sixth Veil: Alms §10",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.11",
+      "label": "The Sixth Veil: Alms §11",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.12",
+      "label": "The Sixth Veil: Alms §12",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.13",
+      "label": "The Sixth Veil: Alms §13",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.14",
+      "label": "The Sixth Veil: Alms §14",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.15",
+      "label": "The Sixth Veil: Alms §15",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "21.1",
+      "label": "The Seventh Veil: Fasting §1",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.2",
+      "label": "The Seventh Veil: Fasting §2",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.3",
+      "label": "The Seventh Veil: Fasting §3",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.4",
+      "label": "The Seventh Veil: Fasting §4",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.5",
+      "label": "The Seventh Veil: Fasting §5",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.6",
+      "label": "The Seventh Veil: Fasting §6",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.7",
+      "label": "The Seventh Veil: Fasting §7",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.8",
+      "label": "The Seventh Veil: Fasting §8",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.9",
+      "label": "The Seventh Veil: Fasting §9",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.10",
+      "label": "The Seventh Veil: Fasting §10",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.11",
+      "label": "The Seventh Veil: Fasting §11",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.12",
+      "label": "The Seventh Veil: Fasting §12",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.13",
+      "label": "The Seventh Veil: Fasting §13",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.14",
+      "label": "The Seventh Veil: Fasting §14",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "22.1",
+      "label": "The Eighth Veil: Pilgrimage §1",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.2",
+      "label": "The Eighth Veil: Pilgrimage §2",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.3",
+      "label": "The Eighth Veil: Pilgrimage §3",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.4",
+      "label": "The Eighth Veil: Pilgrimage §4",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.5",
+      "label": "The Eighth Veil: Pilgrimage §5",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.6",
+      "label": "The Eighth Veil: Pilgrimage §6",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.7",
+      "label": "The Eighth Veil: Pilgrimage §7",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.8",
+      "label": "The Eighth Veil: Pilgrimage §8",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.9",
+      "label": "The Eighth Veil: Pilgrimage §9",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.10",
+      "label": "The Eighth Veil: Pilgrimage §10",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.11",
+      "label": "The Eighth Veil: Pilgrimage §11",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.12",
+      "label": "The Eighth Veil: Pilgrimage §12",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.13",
+      "label": "The Eighth Veil: Pilgrimage §13",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.14",
+      "label": "The Eighth Veil: Pilgrimage §14",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "23.1",
+      "label": "The Ninth Veil: Companionship and its Rules §1",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.2",
+      "label": "The Ninth Veil: Companionship and its Rules §2",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.3",
+      "label": "The Ninth Veil: Companionship and its Rules §3",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.4",
+      "label": "The Ninth Veil: Companionship and its Rules §4",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.5",
+      "label": "The Ninth Veil: Companionship and its Rules §5",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.6",
+      "label": "The Ninth Veil: Companionship and its Rules §6",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.7",
+      "label": "The Ninth Veil: Companionship and its Rules §7",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.8",
+      "label": "The Ninth Veil: Companionship and its Rules §8",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.9",
+      "label": "The Ninth Veil: Companionship and its Rules §9",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.10",
+      "label": "The Ninth Veil: Companionship and its Rules §10",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.11",
+      "label": "The Ninth Veil: Companionship and its Rules §11",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.12",
+      "label": "The Ninth Veil: Companionship and its Rules §12",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.13",
+      "label": "The Ninth Veil: Companionship and its Rules §13",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.14",
+      "label": "The Ninth Veil: Companionship and its Rules §14",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.15",
+      "label": "The Ninth Veil: Companionship and its Rules §15",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.16",
+      "label": "The Ninth Veil: Companionship and its Rules §16",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.17",
+      "label": "The Ninth Veil: Companionship and its Rules §17",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.18",
+      "label": "The Ninth Veil: Companionship and its Rules §18",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.19",
+      "label": "The Ninth Veil: Companionship and its Rules §19",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.20",
+      "label": "The Ninth Veil: Companionship and its Rules §20",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.21",
+      "label": "The Ninth Veil: Companionship and its Rules §21",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.22",
+      "label": "The Ninth Veil: Companionship and its Rules §22",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.23",
+      "label": "The Ninth Veil: Companionship and its Rules §23",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.24",
+      "label": "The Ninth Veil: Companionship and its Rules §24",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.25",
+      "label": "The Ninth Veil: Companionship and its Rules §25",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.26",
+      "label": "The Ninth Veil: Companionship and its Rules §26",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.27",
+      "label": "The Ninth Veil: Companionship and its Rules §27",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.28",
+      "label": "The Ninth Veil: Companionship and its Rules §28",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.29",
+      "label": "The Ninth Veil: Companionship and its Rules §29",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.30",
+      "label": "The Ninth Veil: Companionship and its Rules §30",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.31",
+      "label": "The Ninth Veil: Companionship and its Rules §31",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.32",
+      "label": "The Ninth Veil: Companionship and its Rules §32",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.33",
+      "label": "The Ninth Veil: Companionship and its Rules §33",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.34",
+      "label": "The Ninth Veil: Companionship and its Rules §34",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.35",
+      "label": "The Ninth Veil: Companionship and its Rules §35",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.36",
+      "label": "The Ninth Veil: Companionship and its Rules §36",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.37",
+      "label": "The Ninth Veil: Companionship and its Rules §37",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.38",
+      "label": "The Ninth Veil: Companionship and its Rules §38",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.39",
+      "label": "The Ninth Veil: Companionship and its Rules §39",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.40",
+      "label": "The Ninth Veil: Companionship and its Rules §40",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.41",
+      "label": "The Ninth Veil: Companionship and its Rules §41",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.42",
+      "label": "The Ninth Veil: Companionship and its Rules §42",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.43",
+      "label": "The Ninth Veil: Companionship and its Rules §43",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.44",
+      "label": "The Ninth Veil: Companionship and its Rules §44",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.45",
+      "label": "The Ninth Veil: Companionship and its Rules §45",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.46",
+      "label": "The Ninth Veil: Companionship and its Rules §46",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.47",
+      "label": "The Ninth Veil: Companionship and its Rules §47",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.48",
+      "label": "The Ninth Veil: Companionship and its Rules §48",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.49",
+      "label": "The Ninth Veil: Companionship and its Rules §49",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.50",
+      "label": "The Ninth Veil: Companionship and its Rules §50",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.51",
+      "label": "The Ninth Veil: Companionship and its Rules §51",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.52",
+      "label": "The Ninth Veil: Companionship and its Rules §52",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.53",
+      "label": "The Ninth Veil: Companionship and its Rules §53",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.54",
+      "label": "The Ninth Veil: Companionship and its Rules §54",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.55",
+      "label": "The Ninth Veil: Companionship and its Rules §55",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.56",
+      "label": "The Ninth Veil: Companionship and its Rules §56",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.57",
+      "label": "The Ninth Veil: Companionship and its Rules §57",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.58",
+      "label": "The Ninth Veil: Companionship and its Rules §58",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.59",
+      "label": "The Ninth Veil: Companionship and its Rules §59",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.60",
+      "label": "The Ninth Veil: Companionship and its Rules §60",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.61",
+      "label": "The Ninth Veil: Companionship and its Rules §61",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.62",
+      "label": "The Ninth Veil: Companionship and its Rules §62",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.63",
+      "label": "The Ninth Veil: Companionship and its Rules §63",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.64",
+      "label": "The Ninth Veil: Companionship and its Rules §64",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.65",
+      "label": "The Ninth Veil: Companionship and its Rules §65",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.66",
+      "label": "The Ninth Veil: Companionship and its Rules §66",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.67",
+      "label": "The Ninth Veil: Companionship and its Rules §67",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.68",
+      "label": "The Ninth Veil: Companionship and its Rules §68",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.69",
+      "label": "The Ninth Veil: Companionship and its Rules §69",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.70",
+      "label": "The Ninth Veil: Companionship and its Rules §70",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "24.1",
+      "label": "The Tenth Veil: the Sufi Vocabulary §1",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.2",
+      "label": "The Tenth Veil: the Sufi Vocabulary §2",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.3",
+      "label": "The Tenth Veil: the Sufi Vocabulary §3",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.4",
+      "label": "The Tenth Veil: the Sufi Vocabulary §4",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.5",
+      "label": "The Tenth Veil: the Sufi Vocabulary §5",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.6",
+      "label": "The Tenth Veil: the Sufi Vocabulary §6",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.7",
+      "label": "The Tenth Veil: the Sufi Vocabulary §7",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.8",
+      "label": "The Tenth Veil: the Sufi Vocabulary §8",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.9",
+      "label": "The Tenth Veil: the Sufi Vocabulary §9",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.10",
+      "label": "The Tenth Veil: the Sufi Vocabulary §10",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.11",
+      "label": "The Tenth Veil: the Sufi Vocabulary §11",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.12",
+      "label": "The Tenth Veil: the Sufi Vocabulary §12",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.13",
+      "label": "The Tenth Veil: the Sufi Vocabulary §13",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.14",
+      "label": "The Tenth Veil: the Sufi Vocabulary §14",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.15",
+      "label": "The Tenth Veil: the Sufi Vocabulary §15",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.16",
+      "label": "The Tenth Veil: the Sufi Vocabulary §16",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.17",
+      "label": "The Tenth Veil: the Sufi Vocabulary §17",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.18",
+      "label": "The Tenth Veil: the Sufi Vocabulary §18",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.19",
+      "label": "The Tenth Veil: the Sufi Vocabulary §19",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.20",
+      "label": "The Tenth Veil: the Sufi Vocabulary §20",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.21",
+      "label": "The Tenth Veil: the Sufi Vocabulary §21",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.22",
+      "label": "The Tenth Veil: the Sufi Vocabulary §22",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.23",
+      "label": "The Tenth Veil: the Sufi Vocabulary §23",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.24",
+      "label": "The Tenth Veil: the Sufi Vocabulary §24",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.25",
+      "label": "The Tenth Veil: the Sufi Vocabulary §25",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.26",
+      "label": "The Tenth Veil: the Sufi Vocabulary §26",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.27",
+      "label": "The Tenth Veil: the Sufi Vocabulary §27",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.28",
+      "label": "The Tenth Veil: the Sufi Vocabulary §28",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.29",
+      "label": "The Tenth Veil: the Sufi Vocabulary §29",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.30",
+      "label": "The Tenth Veil: the Sufi Vocabulary §30",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.31",
+      "label": "The Tenth Veil: the Sufi Vocabulary §31",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.32",
+      "label": "The Tenth Veil: the Sufi Vocabulary §32",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.33",
+      "label": "The Tenth Veil: the Sufi Vocabulary §33",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.34",
+      "label": "The Tenth Veil: the Sufi Vocabulary §34",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.35",
+      "label": "The Tenth Veil: the Sufi Vocabulary §35",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.36",
+      "label": "The Tenth Veil: the Sufi Vocabulary §36",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.37",
+      "label": "The Tenth Veil: the Sufi Vocabulary §37",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.38",
+      "label": "The Tenth Veil: the Sufi Vocabulary §38",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.39",
+      "label": "The Tenth Veil: the Sufi Vocabulary §39",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.40",
+      "label": "The Tenth Veil: the Sufi Vocabulary §40",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.41",
+      "label": "The Tenth Veil: the Sufi Vocabulary §41",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.42",
+      "label": "The Tenth Veil: the Sufi Vocabulary §42",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.43",
+      "label": "The Tenth Veil: the Sufi Vocabulary §43",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.44",
+      "label": "The Tenth Veil: the Sufi Vocabulary §44",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.45",
+      "label": "The Tenth Veil: the Sufi Vocabulary §45",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.46",
+      "label": "The Tenth Veil: the Sufi Vocabulary §46",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.47",
+      "label": "The Tenth Veil: the Sufi Vocabulary §47",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.48",
+      "label": "The Tenth Veil: the Sufi Vocabulary §48",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.49",
+      "label": "The Tenth Veil: the Sufi Vocabulary §49",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.50",
+      "label": "The Tenth Veil: the Sufi Vocabulary §50",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.51",
+      "label": "The Tenth Veil: the Sufi Vocabulary §51",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.52",
+      "label": "The Tenth Veil: the Sufi Vocabulary §52",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.53",
+      "label": "The Tenth Veil: the Sufi Vocabulary §53",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.54",
+      "label": "The Tenth Veil: the Sufi Vocabulary §54",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.55",
+      "label": "The Tenth Veil: the Sufi Vocabulary §55",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.56",
+      "label": "The Tenth Veil: the Sufi Vocabulary §56",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.57",
+      "label": "The Tenth Veil: the Sufi Vocabulary §57",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.58",
+      "label": "The Tenth Veil: the Sufi Vocabulary §58",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.59",
+      "label": "The Tenth Veil: the Sufi Vocabulary §59",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.60",
+      "label": "The Tenth Veil: the Sufi Vocabulary §60",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.61",
+      "label": "The Tenth Veil: the Sufi Vocabulary §61",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.62",
+      "label": "The Tenth Veil: the Sufi Vocabulary §62",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.63",
+      "label": "The Tenth Veil: the Sufi Vocabulary §63",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.64",
+      "label": "The Tenth Veil: the Sufi Vocabulary §64",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.65",
+      "label": "The Tenth Veil: the Sufi Vocabulary §65",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.66",
+      "label": "The Tenth Veil: the Sufi Vocabulary §66",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.67",
+      "label": "The Tenth Veil: the Sufi Vocabulary §67",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.68",
+      "label": "The Tenth Veil: the Sufi Vocabulary §68",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.69",
+      "label": "The Tenth Veil: the Sufi Vocabulary §69",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.70",
+      "label": "The Tenth Veil: the Sufi Vocabulary §70",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.71",
+      "label": "The Tenth Veil: the Sufi Vocabulary §71",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.72",
+      "label": "The Tenth Veil: the Sufi Vocabulary §72",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.73",
+      "label": "The Tenth Veil: the Sufi Vocabulary §73",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.74",
+      "label": "The Tenth Veil: the Sufi Vocabulary §74",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.75",
+      "label": "The Tenth Veil: the Sufi Vocabulary §75",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.76",
+      "label": "The Tenth Veil: the Sufi Vocabulary §76",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.77",
+      "label": "The Tenth Veil: the Sufi Vocabulary §77",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.78",
+      "label": "The Tenth Veil: the Sufi Vocabulary §78",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.79",
+      "label": "The Tenth Veil: the Sufi Vocabulary §79",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.80",
+      "label": "The Tenth Veil: the Sufi Vocabulary §80",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.81",
+      "label": "The Tenth Veil: the Sufi Vocabulary §81",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.82",
+      "label": "The Tenth Veil: the Sufi Vocabulary §82",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.83",
+      "label": "The Tenth Veil: the Sufi Vocabulary §83",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.84",
+      "label": "The Tenth Veil: the Sufi Vocabulary §84",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.85",
+      "label": "The Tenth Veil: the Sufi Vocabulary §85",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.86",
+      "label": "The Tenth Veil: the Sufi Vocabulary §86",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.87",
+      "label": "The Tenth Veil: the Sufi Vocabulary §87",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.88",
+      "label": "The Tenth Veil: the Sufi Vocabulary §88",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.89",
+      "label": "The Tenth Veil: the Sufi Vocabulary §89",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.90",
+      "label": "The Tenth Veil: the Sufi Vocabulary §90",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.91",
+      "label": "The Tenth Veil: the Sufi Vocabulary §91",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.92",
+      "label": "The Tenth Veil: the Sufi Vocabulary §92",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.93",
+      "label": "The Tenth Veil: the Sufi Vocabulary §93",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.94",
+      "label": "The Tenth Veil: the Sufi Vocabulary §94",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.95",
+      "label": "The Tenth Veil: the Sufi Vocabulary §95",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.96",
+      "label": "The Tenth Veil: the Sufi Vocabulary §96",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.97",
+      "label": "The Tenth Veil: the Sufi Vocabulary §97",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.98",
+      "label": "The Tenth Veil: the Sufi Vocabulary §98",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.99",
+      "label": "The Tenth Veil: the Sufi Vocabulary §99",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.100",
+      "label": "The Tenth Veil: the Sufi Vocabulary §100",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.101",
+      "label": "The Tenth Veil: the Sufi Vocabulary §101",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.102",
+      "label": "The Tenth Veil: the Sufi Vocabulary §102",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.103",
+      "label": "The Tenth Veil: the Sufi Vocabulary §103",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.104",
+      "label": "The Tenth Veil: the Sufi Vocabulary §104",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.105",
+      "label": "The Tenth Veil: the Sufi Vocabulary §105",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.106",
+      "label": "The Tenth Veil: the Sufi Vocabulary §106",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.107",
+      "label": "The Tenth Veil: the Sufi Vocabulary §107",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "25.1",
+      "label": "The Eleventh Veil: Audition §1",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.2",
+      "label": "The Eleventh Veil: Audition §2",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.3",
+      "label": "The Eleventh Veil: Audition §3",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.4",
+      "label": "The Eleventh Veil: Audition §4",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.5",
+      "label": "The Eleventh Veil: Audition §5",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.6",
+      "label": "The Eleventh Veil: Audition §6",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.7",
+      "label": "The Eleventh Veil: Audition §7",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.8",
+      "label": "The Eleventh Veil: Audition §8",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.9",
+      "label": "The Eleventh Veil: Audition §9",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.10",
+      "label": "The Eleventh Veil: Audition §10",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.11",
+      "label": "The Eleventh Veil: Audition §11",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.12",
+      "label": "The Eleventh Veil: Audition §12",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.13",
+      "label": "The Eleventh Veil: Audition §13",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.14",
+      "label": "The Eleventh Veil: Audition §14",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.15",
+      "label": "The Eleventh Veil: Audition §15",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.16",
+      "label": "The Eleventh Veil: Audition §16",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.17",
+      "label": "The Eleventh Veil: Audition §17",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.18",
+      "label": "The Eleventh Veil: Audition §18",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.19",
+      "label": "The Eleventh Veil: Audition §19",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.20",
+      "label": "The Eleventh Veil: Audition §20",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.21",
+      "label": "The Eleventh Veil: Audition §21",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.22",
+      "label": "The Eleventh Veil: Audition §22",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.23",
+      "label": "The Eleventh Veil: Audition §23",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.24",
+      "label": "The Eleventh Veil: Audition §24",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.25",
+      "label": "The Eleventh Veil: Audition §25",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.26",
+      "label": "The Eleventh Veil: Audition §26",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.27",
+      "label": "The Eleventh Veil: Audition §27",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.28",
+      "label": "The Eleventh Veil: Audition §28",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.29",
+      "label": "The Eleventh Veil: Audition §29",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.30",
+      "label": "The Eleventh Veil: Audition §30",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.31",
+      "label": "The Eleventh Veil: Audition §31",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.32",
+      "label": "The Eleventh Veil: Audition §32",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.33",
+      "label": "The Eleventh Veil: Audition §33",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.34",
+      "label": "The Eleventh Veil: Audition §34",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.35",
+      "label": "The Eleventh Veil: Audition §35",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.36",
+      "label": "The Eleventh Veil: Audition §36",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.37",
+      "label": "The Eleventh Veil: Audition §37",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.38",
+      "label": "The Eleventh Veil: Audition §38",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.39",
+      "label": "The Eleventh Veil: Audition §39",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.40",
+      "label": "The Eleventh Veil: Audition §40",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.41",
+      "label": "The Eleventh Veil: Audition §41",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.42",
+      "label": "The Eleventh Veil: Audition §42",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.43",
+      "label": "The Eleventh Veil: Audition §43",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.44",
+      "label": "The Eleventh Veil: Audition §44",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.45",
+      "label": "The Eleventh Veil: Audition §45",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.46",
+      "label": "The Eleventh Veil: Audition §46",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.47",
+      "label": "The Eleventh Veil: Audition §47",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.48",
+      "label": "The Eleventh Veil: Audition §48",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.49",
+      "label": "The Eleventh Veil: Audition §49",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.50",
+      "label": "The Eleventh Veil: Audition §50",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.51",
+      "label": "The Eleventh Veil: Audition §51",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.52",
+      "label": "The Eleventh Veil: Audition §52",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.53",
+      "label": "The Eleventh Veil: Audition §53",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.54",
+      "label": "The Eleventh Veil: Audition §54",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.55",
+      "label": "The Eleventh Veil: Audition §55",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.56",
+      "label": "The Eleventh Veil: Audition §56",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.57",
+      "label": "The Eleventh Veil: Audition §57",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.58",
+      "label": "The Eleventh Veil: Audition §58",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.59",
+      "label": "The Eleventh Veil: Audition §59",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.60",
+      "label": "The Eleventh Veil: Audition §60",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.61",
+      "label": "The Eleventh Veil: Audition §61",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.62",
+      "label": "The Eleventh Veil: Audition §62",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.63",
+      "label": "The Eleventh Veil: Audition §63",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.64",
+      "label": "The Eleventh Veil: Audition §64",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.65",
+      "label": "The Eleventh Veil: Audition §65",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.66",
+      "label": "The Eleventh Veil: Audition §66",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.67",
+      "label": "The Eleventh Veil: Audition §67",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.68",
+      "label": "The Eleventh Veil: Audition §68",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.69",
+      "label": "The Eleventh Veil: Audition §69",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.70",
+      "label": "The Eleventh Veil: Audition §70",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.71",
+      "label": "The Eleventh Veil: Audition §71",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.72",
+      "label": "The Eleventh Veil: Audition §72",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.73",
+      "label": "The Eleventh Veil: Audition §73",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.74",
+      "label": "The Eleventh Veil: Audition §74",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.75",
+      "label": "The Eleventh Veil: Audition §75",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.76",
+      "label": "The Eleventh Veil: Audition §76",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.77",
+      "label": "The Eleventh Veil: Audition §77",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.78",
+      "label": "The Eleventh Veil: Audition §78",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.79",
+      "label": "The Eleventh Veil: Audition §79",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.80",
+      "label": "The Eleventh Veil: Audition §80",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.81",
+      "label": "The Eleventh Veil: Audition §81",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.82",
+      "label": "The Eleventh Veil: Audition §82",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.83",
+      "label": "The Eleventh Veil: Audition §83",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.84",
+      "label": "The Eleventh Veil: Audition §84",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.85",
+      "label": "The Eleventh Veil: Audition §85",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.86",
+      "label": "The Eleventh Veil: Audition §86",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.87",
+      "label": "The Eleventh Veil: Audition §87",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.88",
+      "label": "The Eleventh Veil: Audition §88",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.89",
+      "label": "The Eleventh Veil: Audition §89",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.90",
+      "label": "The Eleventh Veil: Audition §90",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.91",
+      "label": "The Eleventh Veil: Audition §91",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.92",
+      "label": "The Eleventh Veil: Audition §92",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.93",
+      "label": "The Eleventh Veil: Audition §93",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.94",
+      "label": "The Eleventh Veil: Audition §94",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.95",
+      "label": "The Eleventh Veil: Audition §95",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.96",
+      "label": "The Eleventh Veil: Audition §96",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.97",
+      "label": "The Eleventh Veil: Audition §97",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.98",
+      "label": "The Eleventh Veil: Audition §98",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.99",
+      "label": "The Eleventh Veil: Audition §99",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.100",
+      "label": "The Eleventh Veil: Audition §100",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.101",
+      "label": "The Eleventh Veil: Audition §101",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.102",
+      "label": "The Eleventh Veil: Audition §102",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.103",
+      "label": "The Eleventh Veil: Audition §103",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.104",
+      "label": "The Eleventh Veil: Audition §104",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.105",
+      "label": "The Eleventh Veil: Audition §105",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.106",
+      "label": "The Eleventh Veil: Audition §106",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.107",
+      "label": "The Eleventh Veil: Audition §107",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.108",
+      "label": "The Eleventh Veil: Audition §108",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.109",
+      "label": "The Eleventh Veil: Audition §109",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.110",
+      "label": "The Eleventh Veil: Audition §110",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.111",
+      "label": "The Eleventh Veil: Audition §111",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.112",
+      "label": "The Eleventh Veil: Audition §112",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.113",
+      "label": "The Eleventh Veil: Audition §113",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.114",
+      "label": "The Eleventh Veil: Audition §114",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.115",
+      "label": "The Eleventh Veil: Audition §115",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.116",
+      "label": "The Eleventh Veil: Audition §116",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.117",
+      "label": "The Eleventh Veil: Audition §117",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.118",
+      "label": "The Eleventh Veil: Audition §118",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.119",
+      "label": "The Eleventh Veil: Audition §119",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.120",
+      "label": "The Eleventh Veil: Audition §120",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.121",
+      "label": "The Eleventh Veil: Audition §121",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.122",
+      "label": "The Eleventh Veil: Audition §122",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.123",
+      "label": "The Eleventh Veil: Audition §123",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.124",
+      "label": "The Eleventh Veil: Audition §124",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.125",
+      "label": "The Eleventh Veil: Audition §125",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.126",
+      "label": "The Eleventh Veil: Audition §126",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.127",
+      "label": "The Eleventh Veil: Audition §127",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.128",
+      "label": "The Eleventh Veil: Audition §128",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.129",
+      "label": "The Eleventh Veil: Audition §129",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.130",
+      "label": "The Eleventh Veil: Audition §130",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.131",
+      "label": "The Eleventh Veil: Audition §131",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.132",
+      "label": "The Eleventh Veil: Audition §132",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.133",
+      "label": "The Eleventh Veil: Audition §133",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.134",
+      "label": "The Eleventh Veil: Audition §134",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.135",
+      "label": "The Eleventh Veil: Audition §135",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.136",
+      "label": "The Eleventh Veil: Audition §136",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.137",
+      "label": "The Eleventh Veil: Audition §137",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.138",
+      "label": "The Eleventh Veil: Audition §138",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.139",
+      "label": "The Eleventh Veil: Audition §139",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.140",
+      "label": "The Eleventh Veil: Audition §140",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.141",
+      "label": "The Eleventh Veil: Audition §141",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.142",
+      "label": "The Eleventh Veil: Audition §142",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.143",
+      "label": "The Eleventh Veil: Audition §143",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.144",
+      "label": "The Eleventh Veil: Audition §144",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.145",
+      "label": "The Eleventh Veil: Audition §145",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.146",
+      "label": "The Eleventh Veil: Audition §146",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.147",
+      "label": "The Eleventh Veil: Audition §147",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.148",
+      "label": "The Eleventh Veil: Audition §148",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.149",
+      "label": "The Eleventh Veil: Audition §149",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.150",
+      "label": "The Eleventh Veil: Audition §150",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.151",
+      "label": "The Eleventh Veil: Audition §151",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.152",
+      "label": "The Eleventh Veil: Audition §152",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.153",
+      "label": "The Eleventh Veil: Audition §153",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.154",
+      "label": "The Eleventh Veil: Audition §154",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.155",
+      "label": "The Eleventh Veil: Audition §155",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.156",
+      "label": "The Eleventh Veil: Audition §156",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.157",
+      "label": "The Eleventh Veil: Audition §157",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.158",
+      "label": "The Eleventh Veil: Audition §158",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.159",
+      "label": "The Eleventh Veil: Audition §159",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.160",
+      "label": "The Eleventh Veil: Audition §160",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.161",
+      "label": "The Eleventh Veil: Audition §161",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.162",
+      "label": "The Eleventh Veil: Audition §162",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.163",
+      "label": "The Eleventh Veil: Audition §163",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.164",
+      "label": "The Eleventh Veil: Audition §164",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.165",
+      "label": "The Eleventh Veil: Audition §165",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.166",
+      "label": "The Eleventh Veil: Audition §166",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.167",
+      "label": "The Eleventh Veil: Audition §167",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.168",
+      "label": "The Eleventh Veil: Audition §168",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.169",
+      "label": "The Eleventh Veil: Audition §169",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.170",
+      "label": "The Eleventh Veil: Audition §170",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.171",
+      "label": "The Eleventh Veil: Audition §171",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.172",
+      "label": "The Eleventh Veil: Audition §172",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.173",
+      "label": "The Eleventh Veil: Audition §173",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.174",
+      "label": "The Eleventh Veil: Audition §174",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.175",
+      "label": "The Eleventh Veil: Audition §175",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.176",
+      "label": "The Eleventh Veil: Audition §176",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.177",
+      "label": "The Eleventh Veil: Audition §177",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.178",
+      "label": "The Eleventh Veil: Audition §178",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.179",
+      "label": "The Eleventh Veil: Audition §179",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.180",
+      "label": "The Eleventh Veil: Audition §180",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.181",
+      "label": "The Eleventh Veil: Audition §181",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.182",
+      "label": "The Eleventh Veil: Audition §182",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.183",
+      "label": "The Eleventh Veil: Audition §183",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.184",
+      "label": "The Eleventh Veil: Audition §184",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.185",
+      "label": "The Eleventh Veil: Audition §185",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.186",
+      "label": "The Eleventh Veil: Audition §186",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.187",
+      "label": "The Eleventh Veil: Audition §187",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.188",
+      "label": "The Eleventh Veil: Audition §188",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.189",
+      "label": "The Eleventh Veil: Audition §189",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.190",
+      "label": "The Eleventh Veil: Audition §190",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.191",
+      "label": "The Eleventh Veil: Audition §191",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.192",
+      "label": "The Eleventh Veil: Audition §192",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.193",
+      "label": "The Eleventh Veil: Audition §193",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.194",
+      "label": "The Eleventh Veil: Audition §194",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.195",
+      "label": "The Eleventh Veil: Audition §195",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.196",
+      "label": "The Eleventh Veil: Audition §196",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.197",
+      "label": "The Eleventh Veil: Audition §197",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.198",
+      "label": "The Eleventh Veil: Audition §198",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.199",
+      "label": "The Eleventh Veil: Audition §199",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.200",
+      "label": "The Eleventh Veil: Audition §200",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.201",
+      "label": "The Eleventh Veil: Audition §201",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.202",
+      "label": "The Eleventh Veil: Audition §202",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.203",
+      "label": "The Eleventh Veil: Audition §203",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.204",
+      "label": "The Eleventh Veil: Audition §204",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.205",
+      "label": "The Eleventh Veil: Audition §205",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.206",
+      "label": "The Eleventh Veil: Audition §206",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.207",
+      "label": "The Eleventh Veil: Audition §207",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.208",
+      "label": "The Eleventh Veil: Audition §208",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.209",
+      "label": "The Eleventh Veil: Audition §209",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.210",
+      "label": "The Eleventh Veil: Audition §210",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.211",
+      "label": "The Eleventh Veil: Audition §211",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.212",
+      "label": "The Eleventh Veil: Audition §212",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.213",
+      "label": "The Eleventh Veil: Audition §213",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.214",
+      "label": "The Eleventh Veil: Audition §214",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.215",
+      "label": "The Eleventh Veil: Audition §215",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.216",
+      "label": "The Eleventh Veil: Audition §216",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.217",
+      "label": "The Eleventh Veil: Audition §217",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.218",
+      "label": "The Eleventh Veil: Audition §218",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.219",
+      "label": "The Eleventh Veil: Audition §219",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.220",
+      "label": "The Eleventh Veil: Audition §220",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.221",
+      "label": "The Eleventh Veil: Audition §221",
+      "chapterRef": "25"
+    }
+  ],
+  "editions": [
+    {
+      "slug": "al-hujwiri-kashf-al-mahjub-en",
+      "language": "en",
+      "editionType": "translation",
+      "title": "The Kashf al-Mahjúb: The Oldest Persian Treatise on Ṣúfiism",
+      "translator": "Reynold A. Nicholson",
+      "publisher": "Project Gutenberg",
+      "publicationYear": 1911,
+      "source": "project-gutenberg",
+      "license": "public-domain",
+      "rightsStatus": "Public domain in the United States",
+      "attributionText": "The Kashf al-Mahjúb: The Oldest Persian Treatise on Ṣúfiism, translated by Reynold A. Nicholson (1911). Public domain in the United States. Digital text from Project Gutenberg.",
+      "structureScheme": "single plain-text edition, split at printed chapter headings",
+      "isSample": false,
+      "notes": "The chapter split is performed on the edition as served; the reader is told when the served text no longer matches the indexed paragraphs."
+    }
+  ]
+}

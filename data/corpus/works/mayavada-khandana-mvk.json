@@ -1,0 +1,141 @@
+{
+  "slug": "mayavada-khandana-mvk",
+  "title": "Māyāvāda-khaṇḍana",
+  "originalTitle": "मायावादखण्डनम्",
+  "transliteration": "Māyāvāda-khaṇḍana",
+  "altTitles": [],
+  "tradition": "hinduism",
+  "school": "vedanta",
+  "genre": "Philosophy",
+  "textType": "Sanskrit text (sloka)",
+  "category": "Dvaita Vedānta",
+  "subcategory": "",
+  "originalLanguage": "sa",
+  "dateStart": null,
+  "dateEnd": null,
+  "dateDisplay": "",
+  "authorshipStatus": "traditional",
+  "author": "madhva",
+  "attributionNote": "Māyāvāda-khaṇḍana, attributed to Madhvācārya (Ānandatīrtha), as Heritage IITKanpur's Scripture Server catalogues it (MVK), on its own shelf.",
+  "description": "The summary above is the one Heritage IITKanpur's Scripture Server publishes for the text; an editor's note for the work itself is still to be written.",
+  "historicalContext": "Read in the Heritage Scripture Server corpus, which continues the Gita Supersite built at IIT Kanpur: the text, its classical commentaries and the translations the server may serve are held together there.",
+  "availabilityNote": "The outline is held: 4 chapter(s) and 15 verse address(es), read from the server's own catalogue. The verses are not stored — the licence forbids bulk harvesting and database reconstruction — and are streamed from the API one verse at a time as the work is read, with the attribution HCAL-1.1 requires and the server's own quota and licence notice.",
+  "featured": false,
+  "featuredNote": "",
+  "refScheme": "chapter.verse",
+  "isSample": false,
+  "textStorage": "streamed",
+  "chapters": [
+    {
+      "ref": "1",
+      "label": "1. मङ्गलाचरणम्"
+    },
+    {
+      "ref": "2",
+      "label": "2. मायावादस्यानारम्भणीयत्वानुमानम्"
+    },
+    {
+      "ref": "3",
+      "label": "3. विष्णुसर्वोत्तमत्वस्यैव शास्त्रप्रतिपाद्यत्वसमर्थनम्"
+    },
+    {
+      "ref": "4",
+      "label": "4. उपसंहारः"
+    }
+  ],
+  "passages": [
+    {
+      "reference": "1.1",
+      "label": "1. मङ्गलाचरणम् · verse 1",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "2.1",
+      "label": "2. मायावादस्यानारम्भणीयत्वानुमानम् · verse 1",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.2",
+      "label": "2. मायावादस्यानारम्भणीयत्वानुमानम् · verse 2",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.3",
+      "label": "2. मायावादस्यानारम्भणीयत्वानुमानम् · verse 3",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "3.1",
+      "label": "3. विष्णुसर्वोत्तमत्वस्यैव शास्त्रप्रतिपाद्यत्वसमर्थनम् · verse 1",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.2",
+      "label": "3. विष्णुसर्वोत्तमत्वस्यैव शास्त्रप्रतिपाद्यत्वसमर्थनम् · verse 2",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.3",
+      "label": "3. विष्णुसर्वोत्तमत्वस्यैव शास्त्रप्रतिपाद्यत्वसमर्थनम् · verse 3",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.4",
+      "label": "3. विष्णुसर्वोत्तमत्वस्यैव शास्त्रप्रतिपाद्यत्वसमर्थनम् · verse 4",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.5",
+      "label": "3. विष्णुसर्वोत्तमत्वस्यैव शास्त्रप्रतिपाद्यत्वसमर्थनम् · verse 5",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.6",
+      "label": "3. विष्णुसर्वोत्तमत्वस्यैव शास्त्रप्रतिपाद्यत्वसमर्थनम् · verse 6",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.7",
+      "label": "3. विष्णुसर्वोत्तमत्वस्यैव शास्त्रप्रतिपाद्यत्वसमर्थनम् · verse 7",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.8",
+      "label": "3. विष्णुसर्वोत्तमत्वस्यैव शास्त्रप्रतिपाद्यत्वसमर्थनम् · verse 8",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.9",
+      "label": "3. विष्णुसर्वोत्तमत्वस्यैव शास्त्रप्रतिपाद्यत्वसमर्थनम् · verse 9",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "4.1",
+      "label": "4. उपसंहारः · verse 1",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.2",
+      "label": "4. उपसंहारः · verse 2",
+      "chapterRef": "4"
+    }
+  ],
+  "editions": [
+    {
+      "slug": "mayavada-khandana-mvk-sa",
+      "language": "sa",
+      "editionType": "original",
+      "title": "Māyāvāda-khaṇḍana (Heritage Scripture Server transcription)",
+      "translator": "",
+      "publisher": "Heritage IITKanpur, Heritage Scripture Server",
+      "publicationYear": null,
+      "source": "gita-supersite",
+      "license": "hcal-1-1",
+      "rightsStatus": "Tier A (the moolam and its transliterations): no modern copyright, freely redistributable. Where the API serves Tier B — the Sanskrit bhāṣya and the AI-generated, community and editorially authored translations — it is displayed non-commercially with attribution and is not relicensed here. Tier C, the authoritative modern-language translations and commentaries, is not served by the API and is not imported.",
+      "attributionText": "Māyāvāda-khaṇḍana, Madhvācārya (Ānandatīrtha). Accessed via Heritage Scripture Server (heritage.iitk.ac.in), licence HCAL-1.1. Source: https://heritage.iitk.ac.in/MVK",
+      "structureScheme": "chapter and verse, as the server's own sections and verse addresses divide the text",
+      "isSample": false,
+      "notes": "The verse index was built from the server's published verse addresses. The verses themselves are fetched from the API at read time and are shown with the licence's attribution; the licence identifier and any watermark the server returns are left in place."
+    }
+  ]
+}

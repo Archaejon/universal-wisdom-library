@@ -1,0 +1,1509 @@
+{
+  "slug": "bible-ezra",
+  "title": "Ezra (Christian Bible)",
+  "originalTitle": "עזרא",
+  "transliteration": "",
+  "altTitles": [
+    "Ezra",
+    "Ezra — King James Version"
+  ],
+  "tradition": "christianity",
+  "school": "early-christianity",
+  "genre": "Scripture",
+  "textType": "Biblical book",
+  "category": "Old Testament",
+  "subcategory": "Historical Books",
+  "originalLanguage": "he",
+  "dateStart": -1000,
+  "dateEnd": -400,
+  "dateDisplay": "Composed over several centuries in the first millennium BCE; the Masoretic text is attested from the 10th century CE",
+  "authorshipStatus": "traditional",
+  "author": "",
+  "attributionNote": "The text is anonymous or traditionally attributed; the attribution is part of the work's reception rather than a statement about the surviving author. The catalogue does not adjudicate it.",
+  "description": "The return from exile, the rebuilding of the temple and the reforming of the community. This is the book as received in Christian Bibles: the Westminster Leningrad Codex Hebrew text beside the King James Version of 1611.",
+  "historicalContext": "Narratives of Israelite life in the land, the monarchy and the exile.",
+  "availabilityNote": "Streamed from the Bolls Bible API. Verse references follow the KJV; where the Hebrew counts a psalm superscription as verse 1, the original-language pane is one verse ahead.",
+  "featured": false,
+  "featuredNote": "",
+  "refScheme": "chapter.verse",
+  "isSample": false,
+  "textStorage": "streamed",
+  "chapters": [
+    {
+      "ref": "1",
+      "label": "Ezra 1"
+    },
+    {
+      "ref": "2",
+      "label": "Ezra 2"
+    },
+    {
+      "ref": "3",
+      "label": "Ezra 3"
+    },
+    {
+      "ref": "4",
+      "label": "Ezra 4"
+    },
+    {
+      "ref": "5",
+      "label": "Ezra 5"
+    },
+    {
+      "ref": "6",
+      "label": "Ezra 6"
+    },
+    {
+      "ref": "7",
+      "label": "Ezra 7"
+    },
+    {
+      "ref": "8",
+      "label": "Ezra 8"
+    },
+    {
+      "ref": "9",
+      "label": "Ezra 9"
+    },
+    {
+      "ref": "10",
+      "label": "Ezra 10"
+    }
+  ],
+  "passages": [
+    {
+      "reference": "1.1",
+      "label": "Ezra 1:1",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.2",
+      "label": "Ezra 1:2",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.3",
+      "label": "Ezra 1:3",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.4",
+      "label": "Ezra 1:4",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.5",
+      "label": "Ezra 1:5",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.6",
+      "label": "Ezra 1:6",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.7",
+      "label": "Ezra 1:7",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.8",
+      "label": "Ezra 1:8",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.9",
+      "label": "Ezra 1:9",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.10",
+      "label": "Ezra 1:10",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.11",
+      "label": "Ezra 1:11",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "2.1",
+      "label": "Ezra 2:1",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.2",
+      "label": "Ezra 2:2",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.3",
+      "label": "Ezra 2:3",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.4",
+      "label": "Ezra 2:4",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.5",
+      "label": "Ezra 2:5",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.6",
+      "label": "Ezra 2:6",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.7",
+      "label": "Ezra 2:7",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.8",
+      "label": "Ezra 2:8",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.9",
+      "label": "Ezra 2:9",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.10",
+      "label": "Ezra 2:10",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.11",
+      "label": "Ezra 2:11",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.12",
+      "label": "Ezra 2:12",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.13",
+      "label": "Ezra 2:13",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.14",
+      "label": "Ezra 2:14",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.15",
+      "label": "Ezra 2:15",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.16",
+      "label": "Ezra 2:16",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.17",
+      "label": "Ezra 2:17",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.18",
+      "label": "Ezra 2:18",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.19",
+      "label": "Ezra 2:19",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.20",
+      "label": "Ezra 2:20",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.21",
+      "label": "Ezra 2:21",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.22",
+      "label": "Ezra 2:22",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.23",
+      "label": "Ezra 2:23",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.24",
+      "label": "Ezra 2:24",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.25",
+      "label": "Ezra 2:25",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.26",
+      "label": "Ezra 2:26",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.27",
+      "label": "Ezra 2:27",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.28",
+      "label": "Ezra 2:28",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.29",
+      "label": "Ezra 2:29",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.30",
+      "label": "Ezra 2:30",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.31",
+      "label": "Ezra 2:31",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.32",
+      "label": "Ezra 2:32",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.33",
+      "label": "Ezra 2:33",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.34",
+      "label": "Ezra 2:34",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.35",
+      "label": "Ezra 2:35",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.36",
+      "label": "Ezra 2:36",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.37",
+      "label": "Ezra 2:37",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.38",
+      "label": "Ezra 2:38",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.39",
+      "label": "Ezra 2:39",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.40",
+      "label": "Ezra 2:40",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.41",
+      "label": "Ezra 2:41",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.42",
+      "label": "Ezra 2:42",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.43",
+      "label": "Ezra 2:43",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.44",
+      "label": "Ezra 2:44",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.45",
+      "label": "Ezra 2:45",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.46",
+      "label": "Ezra 2:46",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.47",
+      "label": "Ezra 2:47",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.48",
+      "label": "Ezra 2:48",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.49",
+      "label": "Ezra 2:49",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.50",
+      "label": "Ezra 2:50",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.51",
+      "label": "Ezra 2:51",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.52",
+      "label": "Ezra 2:52",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.53",
+      "label": "Ezra 2:53",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.54",
+      "label": "Ezra 2:54",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.55",
+      "label": "Ezra 2:55",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.56",
+      "label": "Ezra 2:56",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.57",
+      "label": "Ezra 2:57",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.58",
+      "label": "Ezra 2:58",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.59",
+      "label": "Ezra 2:59",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.60",
+      "label": "Ezra 2:60",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.61",
+      "label": "Ezra 2:61",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.62",
+      "label": "Ezra 2:62",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.63",
+      "label": "Ezra 2:63",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.64",
+      "label": "Ezra 2:64",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.65",
+      "label": "Ezra 2:65",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.66",
+      "label": "Ezra 2:66",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.67",
+      "label": "Ezra 2:67",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.68",
+      "label": "Ezra 2:68",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.69",
+      "label": "Ezra 2:69",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.70",
+      "label": "Ezra 2:70",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "3.1",
+      "label": "Ezra 3:1",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.2",
+      "label": "Ezra 3:2",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.3",
+      "label": "Ezra 3:3",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.4",
+      "label": "Ezra 3:4",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.5",
+      "label": "Ezra 3:5",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.6",
+      "label": "Ezra 3:6",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.7",
+      "label": "Ezra 3:7",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.8",
+      "label": "Ezra 3:8",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.9",
+      "label": "Ezra 3:9",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.10",
+      "label": "Ezra 3:10",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.11",
+      "label": "Ezra 3:11",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.12",
+      "label": "Ezra 3:12",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.13",
+      "label": "Ezra 3:13",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "4.1",
+      "label": "Ezra 4:1",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.2",
+      "label": "Ezra 4:2",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.3",
+      "label": "Ezra 4:3",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.4",
+      "label": "Ezra 4:4",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.5",
+      "label": "Ezra 4:5",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.6",
+      "label": "Ezra 4:6",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.7",
+      "label": "Ezra 4:7",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.8",
+      "label": "Ezra 4:8",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.9",
+      "label": "Ezra 4:9",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.10",
+      "label": "Ezra 4:10",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.11",
+      "label": "Ezra 4:11",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.12",
+      "label": "Ezra 4:12",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.13",
+      "label": "Ezra 4:13",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.14",
+      "label": "Ezra 4:14",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.15",
+      "label": "Ezra 4:15",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.16",
+      "label": "Ezra 4:16",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.17",
+      "label": "Ezra 4:17",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.18",
+      "label": "Ezra 4:18",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.19",
+      "label": "Ezra 4:19",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.20",
+      "label": "Ezra 4:20",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.21",
+      "label": "Ezra 4:21",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.22",
+      "label": "Ezra 4:22",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.23",
+      "label": "Ezra 4:23",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.24",
+      "label": "Ezra 4:24",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "5.1",
+      "label": "Ezra 5:1",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.2",
+      "label": "Ezra 5:2",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.3",
+      "label": "Ezra 5:3",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.4",
+      "label": "Ezra 5:4",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.5",
+      "label": "Ezra 5:5",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.6",
+      "label": "Ezra 5:6",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.7",
+      "label": "Ezra 5:7",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.8",
+      "label": "Ezra 5:8",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.9",
+      "label": "Ezra 5:9",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.10",
+      "label": "Ezra 5:10",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.11",
+      "label": "Ezra 5:11",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.12",
+      "label": "Ezra 5:12",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.13",
+      "label": "Ezra 5:13",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.14",
+      "label": "Ezra 5:14",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.15",
+      "label": "Ezra 5:15",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.16",
+      "label": "Ezra 5:16",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.17",
+      "label": "Ezra 5:17",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "6.1",
+      "label": "Ezra 6:1",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.2",
+      "label": "Ezra 6:2",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.3",
+      "label": "Ezra 6:3",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.4",
+      "label": "Ezra 6:4",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.5",
+      "label": "Ezra 6:5",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.6",
+      "label": "Ezra 6:6",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.7",
+      "label": "Ezra 6:7",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.8",
+      "label": "Ezra 6:8",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.9",
+      "label": "Ezra 6:9",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.10",
+      "label": "Ezra 6:10",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.11",
+      "label": "Ezra 6:11",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.12",
+      "label": "Ezra 6:12",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.13",
+      "label": "Ezra 6:13",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.14",
+      "label": "Ezra 6:14",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.15",
+      "label": "Ezra 6:15",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.16",
+      "label": "Ezra 6:16",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.17",
+      "label": "Ezra 6:17",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.18",
+      "label": "Ezra 6:18",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.19",
+      "label": "Ezra 6:19",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.20",
+      "label": "Ezra 6:20",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.21",
+      "label": "Ezra 6:21",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.22",
+      "label": "Ezra 6:22",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "7.1",
+      "label": "Ezra 7:1",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.2",
+      "label": "Ezra 7:2",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.3",
+      "label": "Ezra 7:3",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.4",
+      "label": "Ezra 7:4",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.5",
+      "label": "Ezra 7:5",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.6",
+      "label": "Ezra 7:6",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.7",
+      "label": "Ezra 7:7",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.8",
+      "label": "Ezra 7:8",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.9",
+      "label": "Ezra 7:9",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.10",
+      "label": "Ezra 7:10",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.11",
+      "label": "Ezra 7:11",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.12",
+      "label": "Ezra 7:12",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.13",
+      "label": "Ezra 7:13",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.14",
+      "label": "Ezra 7:14",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.15",
+      "label": "Ezra 7:15",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.16",
+      "label": "Ezra 7:16",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.17",
+      "label": "Ezra 7:17",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.18",
+      "label": "Ezra 7:18",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.19",
+      "label": "Ezra 7:19",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.20",
+      "label": "Ezra 7:20",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.21",
+      "label": "Ezra 7:21",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.22",
+      "label": "Ezra 7:22",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.23",
+      "label": "Ezra 7:23",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.24",
+      "label": "Ezra 7:24",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.25",
+      "label": "Ezra 7:25",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.26",
+      "label": "Ezra 7:26",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.27",
+      "label": "Ezra 7:27",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.28",
+      "label": "Ezra 7:28",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "8.1",
+      "label": "Ezra 8:1",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.2",
+      "label": "Ezra 8:2",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.3",
+      "label": "Ezra 8:3",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.4",
+      "label": "Ezra 8:4",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.5",
+      "label": "Ezra 8:5",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.6",
+      "label": "Ezra 8:6",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.7",
+      "label": "Ezra 8:7",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.8",
+      "label": "Ezra 8:8",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.9",
+      "label": "Ezra 8:9",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.10",
+      "label": "Ezra 8:10",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.11",
+      "label": "Ezra 8:11",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.12",
+      "label": "Ezra 8:12",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.13",
+      "label": "Ezra 8:13",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.14",
+      "label": "Ezra 8:14",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.15",
+      "label": "Ezra 8:15",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.16",
+      "label": "Ezra 8:16",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.17",
+      "label": "Ezra 8:17",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.18",
+      "label": "Ezra 8:18",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.19",
+      "label": "Ezra 8:19",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.20",
+      "label": "Ezra 8:20",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.21",
+      "label": "Ezra 8:21",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.22",
+      "label": "Ezra 8:22",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.23",
+      "label": "Ezra 8:23",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.24",
+      "label": "Ezra 8:24",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.25",
+      "label": "Ezra 8:25",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.26",
+      "label": "Ezra 8:26",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.27",
+      "label": "Ezra 8:27",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.28",
+      "label": "Ezra 8:28",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.29",
+      "label": "Ezra 8:29",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.30",
+      "label": "Ezra 8:30",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.31",
+      "label": "Ezra 8:31",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.32",
+      "label": "Ezra 8:32",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.33",
+      "label": "Ezra 8:33",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.34",
+      "label": "Ezra 8:34",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.35",
+      "label": "Ezra 8:35",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.36",
+      "label": "Ezra 8:36",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "9.1",
+      "label": "Ezra 9:1",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.2",
+      "label": "Ezra 9:2",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.3",
+      "label": "Ezra 9:3",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.4",
+      "label": "Ezra 9:4",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.5",
+      "label": "Ezra 9:5",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.6",
+      "label": "Ezra 9:6",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.7",
+      "label": "Ezra 9:7",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.8",
+      "label": "Ezra 9:8",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.9",
+      "label": "Ezra 9:9",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.10",
+      "label": "Ezra 9:10",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.11",
+      "label": "Ezra 9:11",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.12",
+      "label": "Ezra 9:12",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.13",
+      "label": "Ezra 9:13",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.14",
+      "label": "Ezra 9:14",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.15",
+      "label": "Ezra 9:15",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "10.1",
+      "label": "Ezra 10:1",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.2",
+      "label": "Ezra 10:2",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.3",
+      "label": "Ezra 10:3",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.4",
+      "label": "Ezra 10:4",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.5",
+      "label": "Ezra 10:5",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.6",
+      "label": "Ezra 10:6",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.7",
+      "label": "Ezra 10:7",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.8",
+      "label": "Ezra 10:8",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.9",
+      "label": "Ezra 10:9",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.10",
+      "label": "Ezra 10:10",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.11",
+      "label": "Ezra 10:11",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.12",
+      "label": "Ezra 10:12",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.13",
+      "label": "Ezra 10:13",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.14",
+      "label": "Ezra 10:14",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.15",
+      "label": "Ezra 10:15",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.16",
+      "label": "Ezra 10:16",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.17",
+      "label": "Ezra 10:17",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.18",
+      "label": "Ezra 10:18",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.19",
+      "label": "Ezra 10:19",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.20",
+      "label": "Ezra 10:20",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.21",
+      "label": "Ezra 10:21",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.22",
+      "label": "Ezra 10:22",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.23",
+      "label": "Ezra 10:23",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.24",
+      "label": "Ezra 10:24",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.25",
+      "label": "Ezra 10:25",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.26",
+      "label": "Ezra 10:26",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.27",
+      "label": "Ezra 10:27",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.28",
+      "label": "Ezra 10:28",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.29",
+      "label": "Ezra 10:29",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.30",
+      "label": "Ezra 10:30",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.31",
+      "label": "Ezra 10:31",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.32",
+      "label": "Ezra 10:32",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.33",
+      "label": "Ezra 10:33",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.34",
+      "label": "Ezra 10:34",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.35",
+      "label": "Ezra 10:35",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.36",
+      "label": "Ezra 10:36",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.37",
+      "label": "Ezra 10:37",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.38",
+      "label": "Ezra 10:38",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.39",
+      "label": "Ezra 10:39",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.40",
+      "label": "Ezra 10:40",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.41",
+      "label": "Ezra 10:41",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.42",
+      "label": "Ezra 10:42",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.43",
+      "label": "Ezra 10:43",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.44",
+      "label": "Ezra 10:44",
+      "chapterRef": "10"
+    }
+  ],
+  "editions": [
+    {
+      "slug": "bible-ezra-he",
+      "language": "he",
+      "editionType": "original",
+      "title": "Westminster Leningrad Codex (Hebrew)",
+      "translator": "",
+      "publisher": "Bolls Bible API",
+      "publicationYear": null,
+      "source": "bolls",
+      "license": "public-domain",
+      "rightsStatus": "Public domain",
+      "attributionText": "Westminster Leningrad Codex Hebrew text, served by the Bolls Bible API.",
+      "structureScheme": "book, chapter, verse",
+      "isSample": false,
+      "notes": "The Hebrew text is shown as the API serves it; this library does not collate it against critical editions."
+    },
+    {
+      "slug": "bible-ezra-en-kjv",
+      "language": "en",
+      "editionType": "translation",
+      "title": "King James Version (1611)",
+      "translator": "The King James Bible translators",
+      "publisher": "Bolls Bible API",
+      "publicationYear": 1611,
+      "source": "bolls",
+      "license": "public-domain",
+      "rightsStatus": "Public domain",
+      "attributionText": "The Holy Bible, King James Version (1611). Public domain. Served by the Bolls Bible API.",
+      "structureScheme": "book, chapter, verse",
+      "isSample": false,
+      "notes": "Strong's numbers included in the API's markup are not displayed; the verse wording is unchanged."
+    }
+  ]
+}

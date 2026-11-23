@@ -1,0 +1,90 @@
+{
+  "slug": "responsa-mahari-bruna",
+  "title": "Mahari Bruna",
+  "originalTitle": "מהר\"י ברונא",
+  "transliteration": "",
+  "altTitles": [],
+  "tradition": "judaism",
+  "school": "rabbinic-judaism",
+  "genre": "Responsa",
+  "textType": "Responsa collection",
+  "category": "Responsa",
+  "subcategory": "Rishonim",
+  "originalLanguage": "he",
+  "dateStart": 700,
+  "dateEnd": 1950,
+  "dateDisplay": "Responsa literature, c. 700–1950 CE",
+  "authorshipStatus": "established",
+  "author": "",
+  "attributionNote": "Authorship follows the Sefaria catalogue record for this work. Where a text is traditionally attributed or collectively compiled, the library does not assert a single author beyond the source's own metadata.",
+  "description": "15th-century responsa by a student of the Mahari Weil; one of the main sources quoted in the Rema’s glosses on the Shulchan Arukh. Complete Responsa text imported from Sefaria; the exact edition and licence are shown with each version.",
+  "historicalContext": "Responsa are written answers to specific legal questions, addressed by a scholar to a community or an individual. A responsum is a dated, situated ruling and is presented with its collection rather than as a universal statute.",
+  "availabilityNote": "Imported from Sefaria. Version, source and licence are recorded per edition.",
+  "featured": false,
+  "featuredNote": "",
+  "refScheme": "chapter.paragraph",
+  "isSample": false,
+  "textStorage": "streamed",
+  "chapters": [
+    {
+      "ref": "111",
+      "label": "Teshuva 111"
+    }
+  ],
+  "passages": [
+    {
+      "reference": "111.1",
+      "label": "111:1",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.2",
+      "label": "111:2",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.3",
+      "label": "111:3",
+      "chapterRef": "111"
+    },
+    {
+      "reference": "111.4",
+      "label": "111:4",
+      "chapterRef": "111"
+    }
+  ],
+  "editions": [
+    {
+      "slug": "responsa-mahari-bruna-hebrew-sefaria",
+      "language": "he",
+      "editionType": "original",
+      "title": "Mahari Bruna, Jerusalem, 1960",
+      "translator": "",
+      "publisher": "https://www.nli.org.il/he/books/NNLALL",
+      "publicationYear": null,
+      "source": "sefaria",
+      "license": "unknown",
+      "rightsStatus": "unknown",
+      "attributionText": "Mahari Bruna, Jerusalem, 1960; licence: unknown; source: https://www.nli.org.il/he/books/NNLALL. Retrieved via Sefaria on 2026-10-20.",
+      "structureScheme": "chapter and paragraph",
+      "isSample": false,
+      "notes": "Complete work imported from Sefaria. Text is displayed as supplied by the named edition; HTML markup has been removed."
+    },
+    {
+      "slug": "responsa-mahari-bruna-english-sefaria-1",
+      "language": "en",
+      "editionType": "translation",
+      "title": "Sefaria Responsa Anthology",
+      "translator": "",
+      "publisher": "https://www.sefaria.org",
+      "publicationYear": null,
+      "source": "sefaria",
+      "license": "cc-by",
+      "rightsStatus": "CC-BY",
+      "attributionText": "Sefaria Responsa Anthology; licence: CC-BY; source: https://www.sefaria.org. Retrieved via Sefaria on 2026-10-20.",
+      "structureScheme": "chapter and paragraph",
+      "isSample": false,
+      "notes": "Complete work imported from Sefaria. Text is displayed as supplied by the named edition; HTML markup has been removed."
+    }
+  ]
+}

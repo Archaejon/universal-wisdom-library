@@ -1,0 +1,99 @@
+{
+  "slug": "abstract-chintan-pyaaz-acp",
+  "title": "Abstract Chintan Pyaaz",
+  "originalTitle": "अब्स्ट्र्याक्ट चिन्तन प्याज",
+  "transliteration": "Abstract Chintan Pyaaz",
+  "altTitles": [],
+  "tradition": "hinduism",
+  "school": "",
+  "genre": "Scripture",
+  "textType": "ne text (paragraph)",
+  "category": "Nepali literature",
+  "subcategory": "Nepali Heritage Literature",
+  "originalLanguage": "ne",
+  "dateStart": null,
+  "dateEnd": null,
+  "dateDisplay": "",
+  "authorshipStatus": "traditional",
+  "author": "bhairav-aryal",
+  "attributionNote": "Abstract Chintan Pyaaz, attributed to Bhairav Aryal, as Heritage IITKanpur's Scripture Server catalogues it (ACP), on its own shelf (Nepali Heritage Literature).",
+  "description": "The summary above is the one Heritage IITKanpur's Scripture Server publishes for the text; an editor's note for the work itself is still to be written.",
+  "historicalContext": "Read in the Heritage Scripture Server corpus, which continues the Gita Supersite built at IIT Kanpur: the text, its classical commentaries and the translations the server may serve are held together there.",
+  "availabilityNote": "The outline is held: 1 chapter(s) and 9 verse address(es), read from the server's own catalogue. The verses are not stored — the licence forbids bulk harvesting and database reconstruction — and are streamed from the API one verse at a time as the work is read, with the attribution HCAL-1.1 requires and the server's own quota and licence notice.",
+  "featured": false,
+  "featuredNote": "",
+  "refScheme": "chapter.verse",
+  "isSample": false,
+  "textStorage": "streamed",
+  "chapters": [
+    {
+      "ref": "1",
+      "label": "1. Abstract Chintan Pyaaz"
+    }
+  ],
+  "passages": [
+    {
+      "reference": "1.1",
+      "label": "1. Abstract Chintan Pyaaz · verse 1",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.2",
+      "label": "1. Abstract Chintan Pyaaz · verse 2",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.3",
+      "label": "1. Abstract Chintan Pyaaz · verse 3",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.4",
+      "label": "1. Abstract Chintan Pyaaz · verse 4",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.5",
+      "label": "1. Abstract Chintan Pyaaz · verse 5",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.6",
+      "label": "1. Abstract Chintan Pyaaz · verse 6",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.7",
+      "label": "1. Abstract Chintan Pyaaz · verse 7",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.8",
+      "label": "1. Abstract Chintan Pyaaz · verse 8",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.9",
+      "label": "1. Abstract Chintan Pyaaz · verse 9",
+      "chapterRef": "1"
+    }
+  ],
+  "editions": [
+    {
+      "slug": "abstract-chintan-pyaaz-acp-sa",
+      "language": "ne",
+      "editionType": "original",
+      "title": "Abstract Chintan Pyaaz (Heritage Scripture Server transcription)",
+      "translator": "",
+      "publisher": "Heritage IITKanpur, Heritage Scripture Server",
+      "publicationYear": null,
+      "source": "gita-supersite",
+      "license": "hcal-1-1",
+      "rightsStatus": "Tier A (the moolam and its transliterations): no modern copyright, freely redistributable. Where the API serves Tier B — the Sanskrit bhāṣya and the AI-generated, community and editorially authored translations — it is displayed non-commercially with attribution and is not relicensed here. Tier C, the authoritative modern-language translations and commentaries, is not served by the API and is not imported.",
+      "attributionText": "Abstract Chintan Pyaaz, Bhairav Aryal. Accessed via Heritage Scripture Server (heritage.iitk.ac.in), licence HCAL-1.1. Source: https://heritage.iitk.ac.in/ACP",
+      "structureScheme": "chapter and verse, as the server's own sections and verse addresses divide the text",
+      "isSample": false,
+      "notes": "The verse index was built from the server's published verse addresses. The verses themselves are fetched from the API at read time and are shown with the licence's attribution; the licence identifier and any watermark the server returns are left in place."
+    }
+  ]
+}

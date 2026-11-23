@@ -1,0 +1,115 @@
+{
+  "slug": "responsa-mateh-levi",
+  "title": "Mateh Levi",
+  "originalTitle": "מטה לוי",
+  "transliteration": "",
+  "altTitles": [],
+  "tradition": "judaism",
+  "school": "rabbinic-judaism",
+  "genre": "Responsa",
+  "textType": "Responsa collection",
+  "category": "Responsa",
+  "subcategory": "Acharonim",
+  "originalLanguage": "he",
+  "dateStart": 700,
+  "dateEnd": 1950,
+  "dateDisplay": "Responsa literature, c. 700–1950 CE",
+  "authorshipStatus": "established",
+  "author": "",
+  "attributionNote": "Authorship follows the Sefaria catalogue record for this work. Where a text is traditionally attributed or collectively compiled, the library does not assert a single author beyond the source's own metadata.",
+  "description": "19th-century responsa of a leading rabbi in Frankfurt and son-in-law of the Arukh L’Ner. Complete Responsa text imported from Sefaria; the exact edition and licence are shown with each version.",
+  "historicalContext": "Responsa are written answers to specific legal questions, addressed by a scholar to a community or an individual. A responsum is a dated, situated ruling and is presented with its collection rather than as a universal statute.",
+  "availabilityNote": "Imported from Sefaria. Version, source and licence are recorded per edition.",
+  "featured": false,
+  "featuredNote": "",
+  "refScheme": "chapter.paragraph",
+  "isSample": false,
+  "textStorage": "streamed",
+  "chapters": [
+    {
+      "ref": "19",
+      "label": "Teshuva 19"
+    }
+  ],
+  "passages": [
+    {
+      "reference": "19.1",
+      "label": "19:1",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.2",
+      "label": "19:2",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.3",
+      "label": "19:3",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.4",
+      "label": "19:4",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.5",
+      "label": "19:5",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.6",
+      "label": "19:6",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.7",
+      "label": "19:7",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.8",
+      "label": "19:8",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.9",
+      "label": "19:9",
+      "chapterRef": "19"
+    }
+  ],
+  "editions": [
+    {
+      "slug": "responsa-mateh-levi-hebrew-sefaria",
+      "language": "he",
+      "editionType": "original",
+      "title": "Mateh Levi, Frankfurt, 1891",
+      "translator": "",
+      "publisher": "https://www.nli.org.il/he/books/NNL_ALEPH001880856 ",
+      "publicationYear": null,
+      "source": "sefaria",
+      "license": "public-domain",
+      "rightsStatus": "Public Domain",
+      "attributionText": "Mateh Levi, Frankfurt, 1891; licence: Public Domain; source: https://www.nli.org.il/he/books/NNL_ALEPH001880856 . Retrieved via Sefaria on 2026-10-20.",
+      "structureScheme": "chapter and paragraph",
+      "isSample": false,
+      "notes": "Complete work imported from Sefaria. Text is displayed as supplied by the named edition; HTML markup has been removed."
+    },
+    {
+      "slug": "responsa-mateh-levi-english-sefaria-1",
+      "language": "en",
+      "editionType": "translation",
+      "title": "Sefaria Responsa Anthology",
+      "translator": "",
+      "publisher": "https://www.sefaria.org",
+      "publicationYear": null,
+      "source": "sefaria",
+      "license": "cc-by",
+      "rightsStatus": "CC-BY",
+      "attributionText": "Sefaria Responsa Anthology; licence: CC-BY; source: https://www.sefaria.org. Retrieved via Sefaria on 2026-10-20.",
+      "structureScheme": "chapter and paragraph",
+      "isSample": false,
+      "notes": "Complete work imported from Sefaria. Text is displayed as supplied by the named edition; HTML markup has been removed."
+    }
+  ]
+}

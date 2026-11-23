@@ -1,0 +1,2402 @@
+{
+  "slug": "madhyamakakarika",
+  "title": "Nagarjuna's Verses on the Middle Way",
+  "originalTitle": "मूलमध्यमककारिका",
+  "transliteration": "Mūlamadhyamakakārikā",
+  "altTitles": [
+    "Madhyamakakārikā",
+    "Mūlamadhyamakakārikā",
+    "Fundamental Verses on the Middle Way"
+  ],
+  "tradition": "buddhism",
+  "school": "",
+  "genre": "Philosophy",
+  "textType": "Philosophical verses with a commentary",
+  "category": "Mahayana",
+  "subcategory": "Madhyamaka",
+  "originalLanguage": "sa",
+  "dateStart": 150,
+  "dateEnd": 250,
+  "dateDisplay": "c. 2nd–3rd century CE",
+  "authorshipStatus": "traditional",
+  "author": "nagarjuna",
+  "attributionNote": "Ascribed to Nāgārjuna, the philosopher of the Madhyamaka school and, in the Tibetan tradition, the founder of its lineage; the verses are the root text of the school and were commented on by Buddhapālita, Bhāviveka and Candrakīrti. GRETIL's e-text was input by the Digital Sanskrit Buddhist Canon Input Project.",
+  "description": "The Mūlamadhyamakakārikā examines what it is for anything to exist: causation and the four conditions, motion and rest, the senses and their objects, the arising and enduring of what is conditioned, agents and actions, fire and fuel, the self, the twelvefold chain of dependent arising, the tathāgata and the noble truths, and finally nirvana, which Nāgārjuna shows cannot be either an existing thing or a different one. Its twenty-seven chapters work by refutation rather than by proof, and its verses on emptiness as dependent arising became the standard of Buddhist philosophy in Tibet and East Asia.",
+  "historicalContext": "Nāgārjuna's verses reorganised the Buddha's teaching on dependent arising into a systematic critique of the schools of his own day; with the commentaries they founded the Madhyamaka and the whole Tibetan curriculum of Buddhist philosophy, and they are read in the West as one of the sharpest works of ancient dialectic.",
+  "availabilityNote": "Complete as GRETIL publishes it: the root verses of all twenty-seven chapters, 448 passages, streamed from GRETIL at read time, one chapter at a time. This is the original Sanskrit of the root text; the commentaries are not part of this file.",
+  "featured": false,
+  "featuredNote": "",
+  "refScheme": "chapter.verse",
+  "isSample": false,
+  "textStorage": "streamed",
+  "chapters": [
+    {
+      "ref": "1",
+      "label": "Chapter 1"
+    },
+    {
+      "ref": "2",
+      "label": "Chapter 2"
+    },
+    {
+      "ref": "3",
+      "label": "Chapter 3"
+    },
+    {
+      "ref": "4",
+      "label": "Chapter 4"
+    },
+    {
+      "ref": "5",
+      "label": "Chapter 5"
+    },
+    {
+      "ref": "6",
+      "label": "Chapter 6"
+    },
+    {
+      "ref": "7",
+      "label": "Chapter 7"
+    },
+    {
+      "ref": "8",
+      "label": "Chapter 8"
+    },
+    {
+      "ref": "9",
+      "label": "Chapter 9"
+    },
+    {
+      "ref": "10",
+      "label": "Chapter 10"
+    },
+    {
+      "ref": "11",
+      "label": "Chapter 11"
+    },
+    {
+      "ref": "12",
+      "label": "Chapter 12"
+    },
+    {
+      "ref": "13",
+      "label": "Chapter 13"
+    },
+    {
+      "ref": "14",
+      "label": "Chapter 14"
+    },
+    {
+      "ref": "15",
+      "label": "Chapter 15"
+    },
+    {
+      "ref": "16",
+      "label": "Chapter 16"
+    },
+    {
+      "ref": "17",
+      "label": "Chapter 17"
+    },
+    {
+      "ref": "18",
+      "label": "Chapter 18"
+    },
+    {
+      "ref": "19",
+      "label": "Chapter 19"
+    },
+    {
+      "ref": "20",
+      "label": "Chapter 20"
+    },
+    {
+      "ref": "21",
+      "label": "Chapter 21"
+    },
+    {
+      "ref": "22",
+      "label": "Chapter 22"
+    },
+    {
+      "ref": "23",
+      "label": "Chapter 23"
+    },
+    {
+      "ref": "24",
+      "label": "Chapter 24"
+    },
+    {
+      "ref": "25",
+      "label": "Chapter 25"
+    },
+    {
+      "ref": "26",
+      "label": "Chapter 26"
+    },
+    {
+      "ref": "27",
+      "label": "Chapter 27"
+    }
+  ],
+  "passages": [
+    {
+      "reference": "1.1",
+      "label": "Chapter 1 §1",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.2",
+      "label": "Chapter 1 §2",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.3",
+      "label": "Chapter 1 §3",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.4",
+      "label": "Chapter 1 §4",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.5",
+      "label": "Chapter 1 §5",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.6",
+      "label": "Chapter 1 §6",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.7",
+      "label": "Chapter 1 §7",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.8",
+      "label": "Chapter 1 §8",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.9",
+      "label": "Chapter 1 §9",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.10",
+      "label": "Chapter 1 §10",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.11",
+      "label": "Chapter 1 §11",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.12",
+      "label": "Chapter 1 §12",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.13",
+      "label": "Chapter 1 §13",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.14",
+      "label": "Chapter 1 §14",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "2.1",
+      "label": "Chapter 2 §1",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.2",
+      "label": "Chapter 2 §2",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.3",
+      "label": "Chapter 2 §3",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.4",
+      "label": "Chapter 2 §4",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.5",
+      "label": "Chapter 2 §5",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.6",
+      "label": "Chapter 2 §6",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.7",
+      "label": "Chapter 2 §7",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.8",
+      "label": "Chapter 2 §8",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.9",
+      "label": "Chapter 2 §9",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.10",
+      "label": "Chapter 2 §10",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.11",
+      "label": "Chapter 2 §11",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.12",
+      "label": "Chapter 2 §12",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.13",
+      "label": "Chapter 2 §13",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.14",
+      "label": "Chapter 2 §14",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.15",
+      "label": "Chapter 2 §15",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.16",
+      "label": "Chapter 2 §16",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.17",
+      "label": "Chapter 2 §17",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.18",
+      "label": "Chapter 2 §18",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.19",
+      "label": "Chapter 2 §19",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.20",
+      "label": "Chapter 2 §20",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.21",
+      "label": "Chapter 2 §21",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.22",
+      "label": "Chapter 2 §22",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.23",
+      "label": "Chapter 2 §23",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.24",
+      "label": "Chapter 2 §24",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.25",
+      "label": "Chapter 2 §25",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "3.1",
+      "label": "Chapter 3 §1",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.2",
+      "label": "Chapter 3 §2",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.3",
+      "label": "Chapter 3 §3",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.4",
+      "label": "Chapter 3 §4",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.5",
+      "label": "Chapter 3 §5",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.6",
+      "label": "Chapter 3 §6",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.7",
+      "label": "Chapter 3 §7",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.8",
+      "label": "Chapter 3 §8",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.9",
+      "label": "Chapter 3 §9",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "4.1",
+      "label": "Chapter 4 §1",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.2",
+      "label": "Chapter 4 §2",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.3",
+      "label": "Chapter 4 §3",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.4",
+      "label": "Chapter 4 §4",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.5",
+      "label": "Chapter 4 §5",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.6",
+      "label": "Chapter 4 §6",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.7",
+      "label": "Chapter 4 §7",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.8",
+      "label": "Chapter 4 §8",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.9",
+      "label": "Chapter 4 §9",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "5.1",
+      "label": "Chapter 5 §1",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.2",
+      "label": "Chapter 5 §2",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.3",
+      "label": "Chapter 5 §3",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.4",
+      "label": "Chapter 5 §4",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.5",
+      "label": "Chapter 5 §5",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.6",
+      "label": "Chapter 5 §6",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.7",
+      "label": "Chapter 5 §7",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.8",
+      "label": "Chapter 5 §8",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "6.1",
+      "label": "Chapter 6 §1",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.2",
+      "label": "Chapter 6 §2",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.3",
+      "label": "Chapter 6 §3",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.4",
+      "label": "Chapter 6 §4",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.5",
+      "label": "Chapter 6 §5",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.6",
+      "label": "Chapter 6 §6",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.7",
+      "label": "Chapter 6 §7",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.8",
+      "label": "Chapter 6 §8",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.9",
+      "label": "Chapter 6 §9",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.10",
+      "label": "Chapter 6 §10",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "7.1",
+      "label": "Chapter 7 §1",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.2",
+      "label": "Chapter 7 §2",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.3",
+      "label": "Chapter 7 §3",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.4",
+      "label": "Chapter 7 §4",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.5",
+      "label": "Chapter 7 §5",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.6",
+      "label": "Chapter 7 §6",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.7",
+      "label": "Chapter 7 §7",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.8",
+      "label": "Chapter 7 §8",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.9",
+      "label": "Chapter 7 §9",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.10",
+      "label": "Chapter 7 §10",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.11",
+      "label": "Chapter 7 §11",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.12",
+      "label": "Chapter 7 §12",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.13",
+      "label": "Chapter 7 §13",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.14",
+      "label": "Chapter 7 §14",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.15",
+      "label": "Chapter 7 §15",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.16",
+      "label": "Chapter 7 §16",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.17",
+      "label": "Chapter 7 §17",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.18",
+      "label": "Chapter 7 §18",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.19",
+      "label": "Chapter 7 §19",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.20",
+      "label": "Chapter 7 §20",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.21",
+      "label": "Chapter 7 §21",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.22",
+      "label": "Chapter 7 §22",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.23",
+      "label": "Chapter 7 §23",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.24",
+      "label": "Chapter 7 §24",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.25",
+      "label": "Chapter 7 §25",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.26",
+      "label": "Chapter 7 §26",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.27",
+      "label": "Chapter 7 §27",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.28",
+      "label": "Chapter 7 §28",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.29",
+      "label": "Chapter 7 §29",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.30",
+      "label": "Chapter 7 §30",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.31",
+      "label": "Chapter 7 §31",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.32",
+      "label": "Chapter 7 §32",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.33",
+      "label": "Chapter 7 §33",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.34",
+      "label": "Chapter 7 §34",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "8.1",
+      "label": "Chapter 8 §1",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.2",
+      "label": "Chapter 8 §2",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.3",
+      "label": "Chapter 8 §3",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.4",
+      "label": "Chapter 8 §4",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.5",
+      "label": "Chapter 8 §5",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.6",
+      "label": "Chapter 8 §6",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.7",
+      "label": "Chapter 8 §7",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.8",
+      "label": "Chapter 8 §8",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.9",
+      "label": "Chapter 8 §9",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.10",
+      "label": "Chapter 8 §10",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.11",
+      "label": "Chapter 8 §11",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.12",
+      "label": "Chapter 8 §12",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.13",
+      "label": "Chapter 8 §13",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "9.1",
+      "label": "Chapter 9 §1",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.2",
+      "label": "Chapter 9 §2",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.3",
+      "label": "Chapter 9 §3",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.4",
+      "label": "Chapter 9 §4",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.5",
+      "label": "Chapter 9 §5",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.6",
+      "label": "Chapter 9 §6",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.7",
+      "label": "Chapter 9 §7",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.8",
+      "label": "Chapter 9 §8",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.9",
+      "label": "Chapter 9 §9",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.10",
+      "label": "Chapter 9 §10",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.11",
+      "label": "Chapter 9 §11",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.12",
+      "label": "Chapter 9 §12",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "10.1",
+      "label": "Chapter 10 §1",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.2",
+      "label": "Chapter 10 §2",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.3",
+      "label": "Chapter 10 §3",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.4",
+      "label": "Chapter 10 §4",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.5",
+      "label": "Chapter 10 §5",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.6",
+      "label": "Chapter 10 §6",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.7",
+      "label": "Chapter 10 §7",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.8",
+      "label": "Chapter 10 §8",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.9",
+      "label": "Chapter 10 §9",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.10",
+      "label": "Chapter 10 §10",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.11",
+      "label": "Chapter 10 §11",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.12",
+      "label": "Chapter 10 §12",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.13",
+      "label": "Chapter 10 §13",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.14",
+      "label": "Chapter 10 §14",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.15",
+      "label": "Chapter 10 §15",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.16",
+      "label": "Chapter 10 §16",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "11.1",
+      "label": "Chapter 11 §1",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.2",
+      "label": "Chapter 11 §2",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.3",
+      "label": "Chapter 11 §3",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.4",
+      "label": "Chapter 11 §4",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.5",
+      "label": "Chapter 11 §5",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.6",
+      "label": "Chapter 11 §6",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.7",
+      "label": "Chapter 11 §7",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.8",
+      "label": "Chapter 11 §8",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "12.1",
+      "label": "Chapter 12 §1",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.2",
+      "label": "Chapter 12 §2",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.3",
+      "label": "Chapter 12 §3",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.4",
+      "label": "Chapter 12 §4",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.5",
+      "label": "Chapter 12 §5",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.6",
+      "label": "Chapter 12 §6",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.7",
+      "label": "Chapter 12 §7",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.8",
+      "label": "Chapter 12 §8",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.9",
+      "label": "Chapter 12 §9",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.10",
+      "label": "Chapter 12 §10",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "13.1",
+      "label": "Chapter 13 §1",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.2",
+      "label": "Chapter 13 §2",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.3",
+      "label": "Chapter 13 §3",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.4",
+      "label": "Chapter 13 §4",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.5",
+      "label": "Chapter 13 §5",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.6",
+      "label": "Chapter 13 §6",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.7",
+      "label": "Chapter 13 §7",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.8",
+      "label": "Chapter 13 §8",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "14.1",
+      "label": "Chapter 14 §1",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.2",
+      "label": "Chapter 14 §2",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.3",
+      "label": "Chapter 14 §3",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.4",
+      "label": "Chapter 14 §4",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.5",
+      "label": "Chapter 14 §5",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.6",
+      "label": "Chapter 14 §6",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.7",
+      "label": "Chapter 14 §7",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.8",
+      "label": "Chapter 14 §8",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "15.1",
+      "label": "Chapter 15 §1",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.2",
+      "label": "Chapter 15 §2",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.3",
+      "label": "Chapter 15 §3",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.4",
+      "label": "Chapter 15 §4",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.5",
+      "label": "Chapter 15 §5",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.6",
+      "label": "Chapter 15 §6",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.7",
+      "label": "Chapter 15 §7",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.8",
+      "label": "Chapter 15 §8",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.9",
+      "label": "Chapter 15 §9",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.10",
+      "label": "Chapter 15 §10",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.11",
+      "label": "Chapter 15 §11",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "16.1",
+      "label": "Chapter 16 §1",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.2",
+      "label": "Chapter 16 §2",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.3",
+      "label": "Chapter 16 §3",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.4",
+      "label": "Chapter 16 §4",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.5",
+      "label": "Chapter 16 §5",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.6",
+      "label": "Chapter 16 §6",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.7",
+      "label": "Chapter 16 §7",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.8",
+      "label": "Chapter 16 §8",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.9",
+      "label": "Chapter 16 §9",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.10",
+      "label": "Chapter 16 §10",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "17.1",
+      "label": "Chapter 17 §1",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.2",
+      "label": "Chapter 17 §2",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.3",
+      "label": "Chapter 17 §3",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.4",
+      "label": "Chapter 17 §4",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.5",
+      "label": "Chapter 17 §5",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.6",
+      "label": "Chapter 17 §6",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.7",
+      "label": "Chapter 17 §7",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.8",
+      "label": "Chapter 17 §8",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.9",
+      "label": "Chapter 17 §9",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.10",
+      "label": "Chapter 17 §10",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.11",
+      "label": "Chapter 17 §11",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.12",
+      "label": "Chapter 17 §12",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.13",
+      "label": "Chapter 17 §13",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.14",
+      "label": "Chapter 17 §14",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.15",
+      "label": "Chapter 17 §15",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.16",
+      "label": "Chapter 17 §16",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.17",
+      "label": "Chapter 17 §17",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.18",
+      "label": "Chapter 17 §18",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.19",
+      "label": "Chapter 17 §19",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.20",
+      "label": "Chapter 17 §20",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.21",
+      "label": "Chapter 17 §21",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.22",
+      "label": "Chapter 17 §22",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.23",
+      "label": "Chapter 17 §23",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.24",
+      "label": "Chapter 17 §24",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.25",
+      "label": "Chapter 17 §25",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.26",
+      "label": "Chapter 17 §26",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.27",
+      "label": "Chapter 17 §27",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.28",
+      "label": "Chapter 17 §28",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.29",
+      "label": "Chapter 17 §29",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.30",
+      "label": "Chapter 17 §30",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.31",
+      "label": "Chapter 17 §31",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.32",
+      "label": "Chapter 17 §32",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "17.33",
+      "label": "Chapter 17 §33",
+      "chapterRef": "17"
+    },
+    {
+      "reference": "18.1",
+      "label": "Chapter 18 §1",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.2",
+      "label": "Chapter 18 §2",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.3",
+      "label": "Chapter 18 §3",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.4",
+      "label": "Chapter 18 §4",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.5",
+      "label": "Chapter 18 §5",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.6",
+      "label": "Chapter 18 §6",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.7",
+      "label": "Chapter 18 §7",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.8",
+      "label": "Chapter 18 §8",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.9",
+      "label": "Chapter 18 §9",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.10",
+      "label": "Chapter 18 §10",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.11",
+      "label": "Chapter 18 §11",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "18.12",
+      "label": "Chapter 18 §12",
+      "chapterRef": "18"
+    },
+    {
+      "reference": "19.1",
+      "label": "Chapter 19 §1",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.2",
+      "label": "Chapter 19 §2",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.3",
+      "label": "Chapter 19 §3",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.4",
+      "label": "Chapter 19 §4",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.5",
+      "label": "Chapter 19 §5",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "19.6",
+      "label": "Chapter 19 §6",
+      "chapterRef": "19"
+    },
+    {
+      "reference": "20.1",
+      "label": "Chapter 20 §1",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.2",
+      "label": "Chapter 20 §2",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.3",
+      "label": "Chapter 20 §3",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.4",
+      "label": "Chapter 20 §4",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.5",
+      "label": "Chapter 20 §5",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.6",
+      "label": "Chapter 20 §6",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.7",
+      "label": "Chapter 20 §7",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.8",
+      "label": "Chapter 20 §8",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.9",
+      "label": "Chapter 20 §9",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.10",
+      "label": "Chapter 20 §10",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.11",
+      "label": "Chapter 20 §11",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.12",
+      "label": "Chapter 20 §12",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.13",
+      "label": "Chapter 20 §13",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.14",
+      "label": "Chapter 20 §14",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.15",
+      "label": "Chapter 20 §15",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.16",
+      "label": "Chapter 20 §16",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.17",
+      "label": "Chapter 20 §17",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.18",
+      "label": "Chapter 20 §18",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.19",
+      "label": "Chapter 20 §19",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.20",
+      "label": "Chapter 20 §20",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.21",
+      "label": "Chapter 20 §21",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.22",
+      "label": "Chapter 20 §22",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.23",
+      "label": "Chapter 20 §23",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "20.24",
+      "label": "Chapter 20 §24",
+      "chapterRef": "20"
+    },
+    {
+      "reference": "21.1",
+      "label": "Chapter 21 §1",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.2",
+      "label": "Chapter 21 §2",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.3",
+      "label": "Chapter 21 §3",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.4",
+      "label": "Chapter 21 §4",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.5",
+      "label": "Chapter 21 §5",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.6",
+      "label": "Chapter 21 §6",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.7",
+      "label": "Chapter 21 §7",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.8",
+      "label": "Chapter 21 §8",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.9",
+      "label": "Chapter 21 §9",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.10",
+      "label": "Chapter 21 §10",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.11",
+      "label": "Chapter 21 §11",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.12",
+      "label": "Chapter 21 §12",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.13",
+      "label": "Chapter 21 §13",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.14",
+      "label": "Chapter 21 §14",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.15",
+      "label": "Chapter 21 §15",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.16",
+      "label": "Chapter 21 §16",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.17",
+      "label": "Chapter 21 §17",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.18",
+      "label": "Chapter 21 §18",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.19",
+      "label": "Chapter 21 §19",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.20",
+      "label": "Chapter 21 §20",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "21.21",
+      "label": "Chapter 21 §21",
+      "chapterRef": "21"
+    },
+    {
+      "reference": "22.1",
+      "label": "Chapter 22 §1",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.2",
+      "label": "Chapter 22 §2",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.3",
+      "label": "Chapter 22 §3",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.4",
+      "label": "Chapter 22 §4",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.5",
+      "label": "Chapter 22 §5",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.6",
+      "label": "Chapter 22 §6",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.7",
+      "label": "Chapter 22 §7",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.8",
+      "label": "Chapter 22 §8",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.9",
+      "label": "Chapter 22 §9",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.10",
+      "label": "Chapter 22 §10",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.11",
+      "label": "Chapter 22 §11",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.12",
+      "label": "Chapter 22 §12",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.13",
+      "label": "Chapter 22 §13",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.14",
+      "label": "Chapter 22 §14",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.15",
+      "label": "Chapter 22 §15",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "22.16",
+      "label": "Chapter 22 §16",
+      "chapterRef": "22"
+    },
+    {
+      "reference": "23.1",
+      "label": "Chapter 23 §1",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.2",
+      "label": "Chapter 23 §2",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.3",
+      "label": "Chapter 23 §3",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.4",
+      "label": "Chapter 23 §4",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.5",
+      "label": "Chapter 23 §5",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.6",
+      "label": "Chapter 23 §6",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.7",
+      "label": "Chapter 23 §7",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.8",
+      "label": "Chapter 23 §8",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.9",
+      "label": "Chapter 23 §9",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.10",
+      "label": "Chapter 23 §10",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.11",
+      "label": "Chapter 23 §11",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.12",
+      "label": "Chapter 23 §12",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.13",
+      "label": "Chapter 23 §13",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.14",
+      "label": "Chapter 23 §14",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.15",
+      "label": "Chapter 23 §15",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.16",
+      "label": "Chapter 23 §16",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.17",
+      "label": "Chapter 23 §17",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.18",
+      "label": "Chapter 23 §18",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.19",
+      "label": "Chapter 23 §19",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.20",
+      "label": "Chapter 23 §20",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.21",
+      "label": "Chapter 23 §21",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.22",
+      "label": "Chapter 23 §22",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.23",
+      "label": "Chapter 23 §23",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.24",
+      "label": "Chapter 23 §24",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "23.25",
+      "label": "Chapter 23 §25",
+      "chapterRef": "23"
+    },
+    {
+      "reference": "24.1",
+      "label": "Chapter 24 §1",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.2",
+      "label": "Chapter 24 §2",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.3",
+      "label": "Chapter 24 §3",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.4",
+      "label": "Chapter 24 §4",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.5",
+      "label": "Chapter 24 §5",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.6",
+      "label": "Chapter 24 §6",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.7",
+      "label": "Chapter 24 §7",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.8",
+      "label": "Chapter 24 §8",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.9",
+      "label": "Chapter 24 §9",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.10",
+      "label": "Chapter 24 §10",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.11",
+      "label": "Chapter 24 §11",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.12",
+      "label": "Chapter 24 §12",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.13",
+      "label": "Chapter 24 §13",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.14",
+      "label": "Chapter 24 §14",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.15",
+      "label": "Chapter 24 §15",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.16",
+      "label": "Chapter 24 §16",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.17",
+      "label": "Chapter 24 §17",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.18",
+      "label": "Chapter 24 §18",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.19",
+      "label": "Chapter 24 §19",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.20",
+      "label": "Chapter 24 §20",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.21",
+      "label": "Chapter 24 §21",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.22",
+      "label": "Chapter 24 §22",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.23",
+      "label": "Chapter 24 §23",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.24",
+      "label": "Chapter 24 §24",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.25",
+      "label": "Chapter 24 §25",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.26",
+      "label": "Chapter 24 §26",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.27",
+      "label": "Chapter 24 §27",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.28",
+      "label": "Chapter 24 §28",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.29",
+      "label": "Chapter 24 §29",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.30",
+      "label": "Chapter 24 §30",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.31",
+      "label": "Chapter 24 §31",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.32",
+      "label": "Chapter 24 §32",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.33",
+      "label": "Chapter 24 §33",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.34",
+      "label": "Chapter 24 §34",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.35",
+      "label": "Chapter 24 §35",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.36",
+      "label": "Chapter 24 §36",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.37",
+      "label": "Chapter 24 §37",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.38",
+      "label": "Chapter 24 §38",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.39",
+      "label": "Chapter 24 §39",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "24.40",
+      "label": "Chapter 24 §40",
+      "chapterRef": "24"
+    },
+    {
+      "reference": "25.1",
+      "label": "Chapter 25 §1",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.2",
+      "label": "Chapter 25 §2",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.3",
+      "label": "Chapter 25 §3",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.4",
+      "label": "Chapter 25 §4",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.5",
+      "label": "Chapter 25 §5",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.6",
+      "label": "Chapter 25 §6",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.7",
+      "label": "Chapter 25 §7",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.8",
+      "label": "Chapter 25 §8",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.9",
+      "label": "Chapter 25 §9",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.10",
+      "label": "Chapter 25 §10",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.11",
+      "label": "Chapter 25 §11",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.12",
+      "label": "Chapter 25 §12",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.13",
+      "label": "Chapter 25 §13",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.14",
+      "label": "Chapter 25 §14",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.15",
+      "label": "Chapter 25 §15",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.16",
+      "label": "Chapter 25 §16",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.17",
+      "label": "Chapter 25 §17",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.18",
+      "label": "Chapter 25 §18",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.19",
+      "label": "Chapter 25 §19",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.20",
+      "label": "Chapter 25 §20",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.21",
+      "label": "Chapter 25 §21",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.22",
+      "label": "Chapter 25 §22",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.23",
+      "label": "Chapter 25 §23",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "25.24",
+      "label": "Chapter 25 §24",
+      "chapterRef": "25"
+    },
+    {
+      "reference": "26.1",
+      "label": "Chapter 26 §1",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.2",
+      "label": "Chapter 26 §2",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.3",
+      "label": "Chapter 26 §3",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.4",
+      "label": "Chapter 26 §4",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.5",
+      "label": "Chapter 26 §5",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.6",
+      "label": "Chapter 26 §6",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.7",
+      "label": "Chapter 26 §7",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.8",
+      "label": "Chapter 26 §8",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.9",
+      "label": "Chapter 26 §9",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.10",
+      "label": "Chapter 26 §10",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.11",
+      "label": "Chapter 26 §11",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "26.12",
+      "label": "Chapter 26 §12",
+      "chapterRef": "26"
+    },
+    {
+      "reference": "27.1",
+      "label": "Chapter 27 §1",
+      "chapterRef": "27"
+    },
+    {
+      "reference": "27.2",
+      "label": "Chapter 27 §2",
+      "chapterRef": "27"
+    },
+    {
+      "reference": "27.3",
+      "label": "Chapter 27 §3",
+      "chapterRef": "27"
+    },
+    {
+      "reference": "27.4",
+      "label": "Chapter 27 §4",
+      "chapterRef": "27"
+    },
+    {
+      "reference": "27.5",
+      "label": "Chapter 27 §5",
+      "chapterRef": "27"
+    },
+    {
+      "reference": "27.6",
+      "label": "Chapter 27 §6",
+      "chapterRef": "27"
+    },
+    {
+      "reference": "27.7",
+      "label": "Chapter 27 §7",
+      "chapterRef": "27"
+    },
+    {
+      "reference": "27.8",
+      "label": "Chapter 27 §8",
+      "chapterRef": "27"
+    },
+    {
+      "reference": "27.9",
+      "label": "Chapter 27 §9",
+      "chapterRef": "27"
+    },
+    {
+      "reference": "27.10",
+      "label": "Chapter 27 §10",
+      "chapterRef": "27"
+    },
+    {
+      "reference": "27.11",
+      "label": "Chapter 27 §11",
+      "chapterRef": "27"
+    },
+    {
+      "reference": "27.12",
+      "label": "Chapter 27 §12",
+      "chapterRef": "27"
+    },
+    {
+      "reference": "27.13",
+      "label": "Chapter 27 §13",
+      "chapterRef": "27"
+    },
+    {
+      "reference": "27.14",
+      "label": "Chapter 27 §14",
+      "chapterRef": "27"
+    },
+    {
+      "reference": "27.15",
+      "label": "Chapter 27 §15",
+      "chapterRef": "27"
+    },
+    {
+      "reference": "27.16",
+      "label": "Chapter 27 §16",
+      "chapterRef": "27"
+    },
+    {
+      "reference": "27.17",
+      "label": "Chapter 27 §17",
+      "chapterRef": "27"
+    },
+    {
+      "reference": "27.18",
+      "label": "Chapter 27 §18",
+      "chapterRef": "27"
+    },
+    {
+      "reference": "27.19",
+      "label": "Chapter 27 §19",
+      "chapterRef": "27"
+    },
+    {
+      "reference": "27.20",
+      "label": "Chapter 27 §20",
+      "chapterRef": "27"
+    },
+    {
+      "reference": "27.21",
+      "label": "Chapter 27 §21",
+      "chapterRef": "27"
+    },
+    {
+      "reference": "27.22",
+      "label": "Chapter 27 §22",
+      "chapterRef": "27"
+    },
+    {
+      "reference": "27.23",
+      "label": "Chapter 27 §23",
+      "chapterRef": "27"
+    },
+    {
+      "reference": "27.24",
+      "label": "Chapter 27 §24",
+      "chapterRef": "27"
+    },
+    {
+      "reference": "27.25",
+      "label": "Chapter 27 §25",
+      "chapterRef": "27"
+    },
+    {
+      "reference": "27.26",
+      "label": "Chapter 27 §26",
+      "chapterRef": "27"
+    },
+    {
+      "reference": "27.27",
+      "label": "Chapter 27 §27",
+      "chapterRef": "27"
+    },
+    {
+      "reference": "27.28",
+      "label": "Chapter 27 §28",
+      "chapterRef": "27"
+    },
+    {
+      "reference": "27.29",
+      "label": "Chapter 27 §29",
+      "chapterRef": "27"
+    },
+    {
+      "reference": "27.30",
+      "label": "Chapter 27 §30",
+      "chapterRef": "27"
+    }
+  ],
+  "editions": [
+    {
+      "slug": "madhyamakakarika-sa",
+      "language": "sa",
+      "editionType": "original",
+      "title": "Mūlamadhyamakakārikā (GRETIL e-text)",
+      "translator": "",
+      "publisher": "GRETIL, Göttingen State and University Library",
+      "publicationYear": 2020,
+      "source": "gretil",
+      "license": "cc-by-nc-sa-4.0",
+      "rightsStatus": "CC BY-NC-SA 4.0 as recorded in the e-text header",
+      "attributionText": "Nagarjuna's Verses on the Middle Way. GRETIL e-text 2020-07-31, Göttingen Register of Electronic Texts in Indian Languages. Source edition: . Input by Douglas Bachman.",
+      "structureScheme": "reference index; each passage is one verse as GRETIL numbers it",
+      "isSample": false,
+      "notes": "This e-text was provided to GRETIL in good faith that no copyright rights have been infringed. If anyone wishes to assert copyright over this file, please contact the GRETIL management at gretil(at)sub(dot)uni-goettingen(dot)de. The file will be immediately removed pending resolution of the claim. Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. GRETIL describes the reference scheme as: A reference is assembled consisting of a pragmatic abbreviation of the title: Mūlamadhyamakakārikā = , the number of the  in arabic numerals, the number of the verse in arabic numerals.. The import cache stores the exact segments that were validated. The reader re-fetches the work from GRETIL and reports when the served count no longer matches the index."
+    }
+  ]
+}

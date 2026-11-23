@@ -1,0 +1,616 @@
+{
+  "slug": "responsa-toratan-shel-rishonim",
+  "title": "Toratan shel Rishonim",
+  "originalTitle": "תורתן של ראשונים",
+  "transliteration": "",
+  "altTitles": [],
+  "tradition": "judaism",
+  "school": "rabbinic-judaism",
+  "genre": "Responsa",
+  "textType": "Responsa collection",
+  "category": "Responsa",
+  "subcategory": "Geonim",
+  "originalLanguage": "he",
+  "dateStart": 700,
+  "dateEnd": 1950,
+  "dateDisplay": "Responsa literature, c. 700–1950 CE",
+  "authorshipStatus": "established",
+  "author": "",
+  "attributionNote": "Authorship follows the Sefaria catalogue record for this work. Where a text is traditionally attributed or collectively compiled, the library does not assert a single author beyond the source's own metadata.",
+  "description": "Collection of responsa and a range of other geonic writings, published from manuscripts in the 19th-century. Complete Responsa text imported from Sefaria; the exact edition and licence are shown with each version.",
+  "historicalContext": "Responsa are written answers to specific legal questions, addressed by a scholar to a community or an individual. A responsum is a dated, situated ruling and is presented with its collection rather than as a universal statute.",
+  "availabilityNote": "Imported from Sefaria. Version, source and licence are recorded per edition.",
+  "featured": false,
+  "featuredNote": "",
+  "refScheme": "chapter.paragraph",
+  "isSample": false,
+  "textStorage": "streamed",
+  "chapters": [
+    {
+      "ref": "1",
+      "label": "Title Page"
+    },
+    {
+      "ref": "2",
+      "label": "Introduction"
+    },
+    {
+      "ref": "3",
+      "label": "Foreword"
+    },
+    {
+      "ref": "4",
+      "label": "Halakhot Ketzuvot"
+    },
+    {
+      "ref": "5",
+      "label": "Summary of Festival Readings"
+    },
+    {
+      "ref": "6",
+      "label": "Geonic Responsa"
+    },
+    {
+      "ref": "7",
+      "label": "Addenda"
+    },
+    {
+      "ref": "8",
+      "label": "Ten Questions of Rav Saadia Gaon"
+    },
+    {
+      "ref": "9",
+      "label": "The Sciences of the Talmudists"
+    }
+  ],
+  "passages": [
+    {
+      "reference": "1.1",
+      "label": "1:1",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.2",
+      "label": "1:2",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.3",
+      "label": "1:3",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.4",
+      "label": "1:4",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.5",
+      "label": "1:5",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.6",
+      "label": "1:6",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.7",
+      "label": "1:7",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.8",
+      "label": "1:8",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.9",
+      "label": "1:9",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.10",
+      "label": "1:10",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.11",
+      "label": "1:11",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.12",
+      "label": "1:12",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.13",
+      "label": "1:13",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.14",
+      "label": "1:14",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.15",
+      "label": "1:15",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.16",
+      "label": "1:16",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "2.1",
+      "label": "2:1",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.2",
+      "label": "2:2",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.3",
+      "label": "2:3",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.4",
+      "label": "2:4",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.5",
+      "label": "2:5",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "3.1",
+      "label": "3:1",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.2",
+      "label": "3:2",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.3",
+      "label": "3:3",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.4",
+      "label": "3:4",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.5",
+      "label": "3:5",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "4.1",
+      "label": "4:1",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.2",
+      "label": "4:2",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.3",
+      "label": "4:3",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.4",
+      "label": "4:4",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.5",
+      "label": "4:5",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.6",
+      "label": "4:6",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.7",
+      "label": "4:7",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.8",
+      "label": "4:8",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.9",
+      "label": "4:9",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.10",
+      "label": "4:10",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.11",
+      "label": "4:11",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.12",
+      "label": "4:12",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.13",
+      "label": "4:13",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.14",
+      "label": "4:14",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.15",
+      "label": "4:15",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.16",
+      "label": "4:16",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.17",
+      "label": "4:17",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.18",
+      "label": "4:18",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.19",
+      "label": "4:19",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.20",
+      "label": "4:20",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.21",
+      "label": "4:21",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.22",
+      "label": "4:22",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "5.1",
+      "label": "5:1",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.2",
+      "label": "5:2",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.3",
+      "label": "5:3",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.4",
+      "label": "5:4",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "6.1",
+      "label": "6:1",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.2",
+      "label": "6:2",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.3",
+      "label": "6:3",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.4",
+      "label": "6:4",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.5",
+      "label": "6:5",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.6",
+      "label": "6:6",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.7",
+      "label": "6:7",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.8",
+      "label": "6:8",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.9",
+      "label": "6:9",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.10",
+      "label": "6:10",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.11",
+      "label": "6:11",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.12",
+      "label": "6:12",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.13",
+      "label": "6:13",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.14",
+      "label": "6:14",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.15",
+      "label": "6:15",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.16",
+      "label": "6:16",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.17",
+      "label": "6:17",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.18",
+      "label": "6:18",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.19",
+      "label": "6:19",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.20",
+      "label": "6:20",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.21",
+      "label": "6:21",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.22",
+      "label": "6:22",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.23",
+      "label": "6:23",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.24",
+      "label": "6:24",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.25",
+      "label": "6:25",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.26",
+      "label": "6:26",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.27",
+      "label": "6:27",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "7.1",
+      "label": "7:1",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.2",
+      "label": "7:2",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.3",
+      "label": "7:3",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.4",
+      "label": "7:4",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.5",
+      "label": "7:5",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.6",
+      "label": "7:6",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.7",
+      "label": "7:7",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "8.1",
+      "label": "8:1",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.2",
+      "label": "8:2",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.3",
+      "label": "8:3",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.4",
+      "label": "8:4",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.5",
+      "label": "8:5",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.6",
+      "label": "8:6",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.7",
+      "label": "8:7",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.8",
+      "label": "8:8",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.9",
+      "label": "8:9",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.10",
+      "label": "8:10",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "9.1",
+      "label": "9:1",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.2",
+      "label": "9:2",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.3",
+      "label": "9:3",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.4",
+      "label": "9:4",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.5",
+      "label": "9:5",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.6",
+      "label": "9:6",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.7",
+      "label": "9:7",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.8",
+      "label": "9:8",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.9",
+      "label": "9:9",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.10",
+      "label": "9:10",
+      "chapterRef": "9"
+    }
+  ],
+  "editions": [
+    {
+      "slug": "responsa-toratan-shel-rishonim-hebrew-sefaria",
+      "language": "he",
+      "editionType": "original",
+      "title": "Toratan shel Rishonim, Frankfurt am Main, 1881",
+      "translator": "",
+      "publisher": "http://www.gutenberg.org/ebooks/43740",
+      "publicationYear": null,
+      "source": "sefaria",
+      "license": "public-domain",
+      "rightsStatus": "Public Domain",
+      "attributionText": "Toratan shel Rishonim, Frankfurt am Main, 1881; licence: Public Domain; source: http://www.gutenberg.org/ebooks/43740. Retrieved via Sefaria on 2026-10-20.",
+      "structureScheme": "chapter and paragraph",
+      "isSample": false,
+      "notes": "Complete work imported from Sefaria. Text is displayed as supplied by the named edition; HTML markup has been removed."
+    }
+  ]
+}

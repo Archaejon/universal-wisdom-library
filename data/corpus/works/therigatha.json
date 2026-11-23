@@ -1,0 +1,3418 @@
+{
+  "slug": "therigatha",
+  "title": "Psalms of the Sisters (Therīgāthā)",
+  "originalTitle": "थेरीगाथा",
+  "transliteration": "Therīgāthā",
+  "altTitles": [
+    "Therigatha",
+    "Psalms of the Sisters",
+    "Verses of the Elder Nuns"
+  ],
+  "tradition": "buddhism",
+  "school": "theravada",
+  "genre": "Scripture",
+  "textType": "Verses of the elder nuns",
+  "category": "Sutta",
+  "subcategory": "Khuddaka Nikāya",
+  "originalLanguage": "pi",
+  "dateStart": -300,
+  "dateEnd": -100,
+  "dateDisplay": "Verses c. 3rd–2nd century BCE; commentary c. 5th century CE",
+  "authorshipStatus": "composite",
+  "author": "",
+  "attributionNote": "The Therīgāthā is a collection of verses by many named nuns, from the Buddha's wife and his former nurses to women who joined the order late in life. The poems were transmitted orally and gathered by the community; the prose introductions that frame each poem in this edition come from the commentarial tradition.",
+  "description": "The Therīgāthā is the earliest surviving anthology of women's religious poetry in any language: seventy-three poems, arranged by length from single verses to the long songs of the great chapter, in which the first Buddhist nuns describe their going forth, their struggles with grief, family and desire, and the freedom they found. The voices are distinct — Paṭācārā who lost her family, Kisāgotamī with the mustard seed, the former courtesan Ambapālī, the aged Sundarī — and the collection is the principal source for the religious lives of women in early Buddhism.",
+  "historicalContext": "The verses belong to the Khuddaka Nikāya and are traditionally paired with the Theragāthā, the poems of the monks. Caroline Rhys Davids translated them for the Pali Text Society in 1909 under the title Psalms of the Sisters, with an introduction on the position of women in early Buddhism; her translation, and the commentary she drew on, remain the standard English access to the collection.",
+  "availabilityNote": "Complete. All sixteen cantos of Rhys Davids's translation are streamed from the Internet Sacred Text Archive at read time, one canto per chapter. The cantos group the poems by the number of verses they contain, so a chapter holds many nuns' poems; the volume's dedication, contents, introduction and index are not part of the work.",
+  "featured": false,
+  "featuredNote": "",
+  "refScheme": "chapter.paragraph",
+  "isSample": false,
+  "textStorage": "streamed",
+  "chapters": [
+    {
+      "ref": "1",
+      "label": "Canto I. Psalms of Single Verses"
+    },
+    {
+      "ref": "2",
+      "label": "Canto II. Psalms of Two Verses"
+    },
+    {
+      "ref": "3",
+      "label": "Canto III. Psalms of Three Verses"
+    },
+    {
+      "ref": "4",
+      "label": "Canto IV. Psalms of Four Verses"
+    },
+    {
+      "ref": "5",
+      "label": "Canto V. Psalms of Five Verses"
+    },
+    {
+      "ref": "6",
+      "label": "Canto VI. Psalms of Six Verses"
+    },
+    {
+      "ref": "7",
+      "label": "Canto VII. Psalms of Seven Verses"
+    },
+    {
+      "ref": "8",
+      "label": "Canto VIII. Psalms of Eight Verses"
+    },
+    {
+      "ref": "9",
+      "label": "Canto IX. Psalms of Nine Verses"
+    },
+    {
+      "ref": "10",
+      "label": "Canto X. Psalms of Eleven Verses"
+    },
+    {
+      "ref": "11",
+      "label": "Canto XI. Psalms of Twelve Verses"
+    },
+    {
+      "ref": "12",
+      "label": "Canto XII. Psalms of Sixteen Verses"
+    },
+    {
+      "ref": "13",
+      "label": "Canto XIII. Psalms of About Twenty Verses"
+    },
+    {
+      "ref": "14",
+      "label": "Canto XIV. Psalms of About Thirty Verses"
+    },
+    {
+      "ref": "15",
+      "label": "Canto XV. Psalms of Over Forty Verses"
+    },
+    {
+      "ref": "16",
+      "label": "Canto XVI. Psalms of The Great Chapter"
+    }
+  ],
+  "passages": [
+    {
+      "reference": "1.1",
+      "label": "Canto I. Psalms of Single Verses §1",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.2",
+      "label": "Canto I. Psalms of Single Verses §2",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.3",
+      "label": "Canto I. Psalms of Single Verses §3",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.4",
+      "label": "Canto I. Psalms of Single Verses §4",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.5",
+      "label": "Canto I. Psalms of Single Verses §5",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.6",
+      "label": "Canto I. Psalms of Single Verses §6",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.7",
+      "label": "Canto I. Psalms of Single Verses §7",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.8",
+      "label": "Canto I. Psalms of Single Verses §8",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.9",
+      "label": "Canto I. Psalms of Single Verses §9",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.10",
+      "label": "Canto I. Psalms of Single Verses §10",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.11",
+      "label": "Canto I. Psalms of Single Verses §11",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.12",
+      "label": "Canto I. Psalms of Single Verses §12",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.13",
+      "label": "Canto I. Psalms of Single Verses §13",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.14",
+      "label": "Canto I. Psalms of Single Verses §14",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.15",
+      "label": "Canto I. Psalms of Single Verses §15",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.16",
+      "label": "Canto I. Psalms of Single Verses §16",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.17",
+      "label": "Canto I. Psalms of Single Verses §17",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.18",
+      "label": "Canto I. Psalms of Single Verses §18",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.19",
+      "label": "Canto I. Psalms of Single Verses §19",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.20",
+      "label": "Canto I. Psalms of Single Verses §20",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.21",
+      "label": "Canto I. Psalms of Single Verses §21",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.22",
+      "label": "Canto I. Psalms of Single Verses §22",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.23",
+      "label": "Canto I. Psalms of Single Verses §23",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.24",
+      "label": "Canto I. Psalms of Single Verses §24",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.25",
+      "label": "Canto I. Psalms of Single Verses §25",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.26",
+      "label": "Canto I. Psalms of Single Verses §26",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.27",
+      "label": "Canto I. Psalms of Single Verses §27",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.28",
+      "label": "Canto I. Psalms of Single Verses §28",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.29",
+      "label": "Canto I. Psalms of Single Verses §29",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.30",
+      "label": "Canto I. Psalms of Single Verses §30",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.31",
+      "label": "Canto I. Psalms of Single Verses §31",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.32",
+      "label": "Canto I. Psalms of Single Verses §32",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.33",
+      "label": "Canto I. Psalms of Single Verses §33",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.34",
+      "label": "Canto I. Psalms of Single Verses §34",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.35",
+      "label": "Canto I. Psalms of Single Verses §35",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.36",
+      "label": "Canto I. Psalms of Single Verses §36",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.37",
+      "label": "Canto I. Psalms of Single Verses §37",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.38",
+      "label": "Canto I. Psalms of Single Verses §38",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.39",
+      "label": "Canto I. Psalms of Single Verses §39",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.40",
+      "label": "Canto I. Psalms of Single Verses §40",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.41",
+      "label": "Canto I. Psalms of Single Verses §41",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.42",
+      "label": "Canto I. Psalms of Single Verses §42",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.43",
+      "label": "Canto I. Psalms of Single Verses §43",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.44",
+      "label": "Canto I. Psalms of Single Verses §44",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.45",
+      "label": "Canto I. Psalms of Single Verses §45",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.46",
+      "label": "Canto I. Psalms of Single Verses §46",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.47",
+      "label": "Canto I. Psalms of Single Verses §47",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.48",
+      "label": "Canto I. Psalms of Single Verses §48",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.49",
+      "label": "Canto I. Psalms of Single Verses §49",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.50",
+      "label": "Canto I. Psalms of Single Verses §50",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.51",
+      "label": "Canto I. Psalms of Single Verses §51",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.52",
+      "label": "Canto I. Psalms of Single Verses §52",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.53",
+      "label": "Canto I. Psalms of Single Verses §53",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.54",
+      "label": "Canto I. Psalms of Single Verses §54",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.55",
+      "label": "Canto I. Psalms of Single Verses §55",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.56",
+      "label": "Canto I. Psalms of Single Verses §56",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.57",
+      "label": "Canto I. Psalms of Single Verses §57",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.58",
+      "label": "Canto I. Psalms of Single Verses §58",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.59",
+      "label": "Canto I. Psalms of Single Verses §59",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.60",
+      "label": "Canto I. Psalms of Single Verses §60",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.61",
+      "label": "Canto I. Psalms of Single Verses §61",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.62",
+      "label": "Canto I. Psalms of Single Verses §62",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.63",
+      "label": "Canto I. Psalms of Single Verses §63",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.64",
+      "label": "Canto I. Psalms of Single Verses §64",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.65",
+      "label": "Canto I. Psalms of Single Verses §65",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.66",
+      "label": "Canto I. Psalms of Single Verses §66",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.67",
+      "label": "Canto I. Psalms of Single Verses §67",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.68",
+      "label": "Canto I. Psalms of Single Verses §68",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.69",
+      "label": "Canto I. Psalms of Single Verses §69",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.70",
+      "label": "Canto I. Psalms of Single Verses §70",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.71",
+      "label": "Canto I. Psalms of Single Verses §71",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.72",
+      "label": "Canto I. Psalms of Single Verses §72",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.73",
+      "label": "Canto I. Psalms of Single Verses §73",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.74",
+      "label": "Canto I. Psalms of Single Verses §74",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.75",
+      "label": "Canto I. Psalms of Single Verses §75",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.76",
+      "label": "Canto I. Psalms of Single Verses §76",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.77",
+      "label": "Canto I. Psalms of Single Verses §77",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.78",
+      "label": "Canto I. Psalms of Single Verses §78",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.79",
+      "label": "Canto I. Psalms of Single Verses §79",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "2.1",
+      "label": "Canto II. Psalms of Two Verses §1",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.2",
+      "label": "Canto II. Psalms of Two Verses §2",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.3",
+      "label": "Canto II. Psalms of Two Verses §3",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.4",
+      "label": "Canto II. Psalms of Two Verses §4",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.5",
+      "label": "Canto II. Psalms of Two Verses §5",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.6",
+      "label": "Canto II. Psalms of Two Verses §6",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.7",
+      "label": "Canto II. Psalms of Two Verses §7",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.8",
+      "label": "Canto II. Psalms of Two Verses §8",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.9",
+      "label": "Canto II. Psalms of Two Verses §9",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.10",
+      "label": "Canto II. Psalms of Two Verses §10",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.11",
+      "label": "Canto II. Psalms of Two Verses §11",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.12",
+      "label": "Canto II. Psalms of Two Verses §12",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.13",
+      "label": "Canto II. Psalms of Two Verses §13",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.14",
+      "label": "Canto II. Psalms of Two Verses §14",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.15",
+      "label": "Canto II. Psalms of Two Verses §15",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.16",
+      "label": "Canto II. Psalms of Two Verses §16",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.17",
+      "label": "Canto II. Psalms of Two Verses §17",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.18",
+      "label": "Canto II. Psalms of Two Verses §18",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.19",
+      "label": "Canto II. Psalms of Two Verses §19",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.20",
+      "label": "Canto II. Psalms of Two Verses §20",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.21",
+      "label": "Canto II. Psalms of Two Verses §21",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.22",
+      "label": "Canto II. Psalms of Two Verses §22",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.23",
+      "label": "Canto II. Psalms of Two Verses §23",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.24",
+      "label": "Canto II. Psalms of Two Verses §24",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.25",
+      "label": "Canto II. Psalms of Two Verses §25",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.26",
+      "label": "Canto II. Psalms of Two Verses §26",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.27",
+      "label": "Canto II. Psalms of Two Verses §27",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.28",
+      "label": "Canto II. Psalms of Two Verses §28",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.29",
+      "label": "Canto II. Psalms of Two Verses §29",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.30",
+      "label": "Canto II. Psalms of Two Verses §30",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.31",
+      "label": "Canto II. Psalms of Two Verses §31",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.32",
+      "label": "Canto II. Psalms of Two Verses §32",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.33",
+      "label": "Canto II. Psalms of Two Verses §33",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.34",
+      "label": "Canto II. Psalms of Two Verses §34",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.35",
+      "label": "Canto II. Psalms of Two Verses §35",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.36",
+      "label": "Canto II. Psalms of Two Verses §36",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.37",
+      "label": "Canto II. Psalms of Two Verses §37",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.38",
+      "label": "Canto II. Psalms of Two Verses §38",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.39",
+      "label": "Canto II. Psalms of Two Verses §39",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.40",
+      "label": "Canto II. Psalms of Two Verses §40",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.41",
+      "label": "Canto II. Psalms of Two Verses §41",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.42",
+      "label": "Canto II. Psalms of Two Verses §42",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.43",
+      "label": "Canto II. Psalms of Two Verses §43",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.44",
+      "label": "Canto II. Psalms of Two Verses §44",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.45",
+      "label": "Canto II. Psalms of Two Verses §45",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.46",
+      "label": "Canto II. Psalms of Two Verses §46",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.47",
+      "label": "Canto II. Psalms of Two Verses §47",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.48",
+      "label": "Canto II. Psalms of Two Verses §48",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.49",
+      "label": "Canto II. Psalms of Two Verses §49",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.50",
+      "label": "Canto II. Psalms of Two Verses §50",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.51",
+      "label": "Canto II. Psalms of Two Verses §51",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.52",
+      "label": "Canto II. Psalms of Two Verses §52",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.53",
+      "label": "Canto II. Psalms of Two Verses §53",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.54",
+      "label": "Canto II. Psalms of Two Verses §54",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.55",
+      "label": "Canto II. Psalms of Two Verses §55",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.56",
+      "label": "Canto II. Psalms of Two Verses §56",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "3.1",
+      "label": "Canto III. Psalms of Three Verses §1",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.2",
+      "label": "Canto III. Psalms of Three Verses §2",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.3",
+      "label": "Canto III. Psalms of Three Verses §3",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.4",
+      "label": "Canto III. Psalms of Three Verses §4",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.5",
+      "label": "Canto III. Psalms of Three Verses §5",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.6",
+      "label": "Canto III. Psalms of Three Verses §6",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.7",
+      "label": "Canto III. Psalms of Three Verses §7",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.8",
+      "label": "Canto III. Psalms of Three Verses §8",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.9",
+      "label": "Canto III. Psalms of Three Verses §9",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.10",
+      "label": "Canto III. Psalms of Three Verses §10",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.11",
+      "label": "Canto III. Psalms of Three Verses §11",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.12",
+      "label": "Canto III. Psalms of Three Verses §12",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.13",
+      "label": "Canto III. Psalms of Three Verses §13",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.14",
+      "label": "Canto III. Psalms of Three Verses §14",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.15",
+      "label": "Canto III. Psalms of Three Verses §15",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.16",
+      "label": "Canto III. Psalms of Three Verses §16",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.17",
+      "label": "Canto III. Psalms of Three Verses §17",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.18",
+      "label": "Canto III. Psalms of Three Verses §18",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.19",
+      "label": "Canto III. Psalms of Three Verses §19",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.20",
+      "label": "Canto III. Psalms of Three Verses §20",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.21",
+      "label": "Canto III. Psalms of Three Verses §21",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.22",
+      "label": "Canto III. Psalms of Three Verses §22",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.23",
+      "label": "Canto III. Psalms of Three Verses §23",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.24",
+      "label": "Canto III. Psalms of Three Verses §24",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.25",
+      "label": "Canto III. Psalms of Three Verses §25",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.26",
+      "label": "Canto III. Psalms of Three Verses §26",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.27",
+      "label": "Canto III. Psalms of Three Verses §27",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.28",
+      "label": "Canto III. Psalms of Three Verses §28",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.29",
+      "label": "Canto III. Psalms of Three Verses §29",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.30",
+      "label": "Canto III. Psalms of Three Verses §30",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.31",
+      "label": "Canto III. Psalms of Three Verses §31",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.32",
+      "label": "Canto III. Psalms of Three Verses §32",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.33",
+      "label": "Canto III. Psalms of Three Verses §33",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.34",
+      "label": "Canto III. Psalms of Three Verses §34",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.35",
+      "label": "Canto III. Psalms of Three Verses §35",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.36",
+      "label": "Canto III. Psalms of Three Verses §36",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.37",
+      "label": "Canto III. Psalms of Three Verses §37",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.38",
+      "label": "Canto III. Psalms of Three Verses §38",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.39",
+      "label": "Canto III. Psalms of Three Verses §39",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.40",
+      "label": "Canto III. Psalms of Three Verses §40",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.41",
+      "label": "Canto III. Psalms of Three Verses §41",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.42",
+      "label": "Canto III. Psalms of Three Verses §42",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.43",
+      "label": "Canto III. Psalms of Three Verses §43",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.44",
+      "label": "Canto III. Psalms of Three Verses §44",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.45",
+      "label": "Canto III. Psalms of Three Verses §45",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.46",
+      "label": "Canto III. Psalms of Three Verses §46",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.47",
+      "label": "Canto III. Psalms of Three Verses §47",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.48",
+      "label": "Canto III. Psalms of Three Verses §48",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.49",
+      "label": "Canto III. Psalms of Three Verses §49",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.50",
+      "label": "Canto III. Psalms of Three Verses §50",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.51",
+      "label": "Canto III. Psalms of Three Verses §51",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.52",
+      "label": "Canto III. Psalms of Three Verses §52",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.53",
+      "label": "Canto III. Psalms of Three Verses §53",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.54",
+      "label": "Canto III. Psalms of Three Verses §54",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.55",
+      "label": "Canto III. Psalms of Three Verses §55",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.56",
+      "label": "Canto III. Psalms of Three Verses §56",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.57",
+      "label": "Canto III. Psalms of Three Verses §57",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.58",
+      "label": "Canto III. Psalms of Three Verses §58",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.59",
+      "label": "Canto III. Psalms of Three Verses §59",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.60",
+      "label": "Canto III. Psalms of Three Verses §60",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.61",
+      "label": "Canto III. Psalms of Three Verses §61",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.62",
+      "label": "Canto III. Psalms of Three Verses §62",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.63",
+      "label": "Canto III. Psalms of Three Verses §63",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.64",
+      "label": "Canto III. Psalms of Three Verses §64",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.65",
+      "label": "Canto III. Psalms of Three Verses §65",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.66",
+      "label": "Canto III. Psalms of Three Verses §66",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.67",
+      "label": "Canto III. Psalms of Three Verses §67",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.68",
+      "label": "Canto III. Psalms of Three Verses §68",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.69",
+      "label": "Canto III. Psalms of Three Verses §69",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "4.1",
+      "label": "Canto IV. Psalms of Four Verses §1",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.2",
+      "label": "Canto IV. Psalms of Four Verses §2",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.3",
+      "label": "Canto IV. Psalms of Four Verses §3",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.4",
+      "label": "Canto IV. Psalms of Four Verses §4",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.5",
+      "label": "Canto IV. Psalms of Four Verses §5",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.6",
+      "label": "Canto IV. Psalms of Four Verses §6",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.7",
+      "label": "Canto IV. Psalms of Four Verses §7",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.8",
+      "label": "Canto IV. Psalms of Four Verses §8",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.9",
+      "label": "Canto IV. Psalms of Four Verses §9",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.10",
+      "label": "Canto IV. Psalms of Four Verses §10",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.11",
+      "label": "Canto IV. Psalms of Four Verses §11",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "5.1",
+      "label": "Canto V. Psalms of Five Verses §1",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.2",
+      "label": "Canto V. Psalms of Five Verses §2",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.3",
+      "label": "Canto V. Psalms of Five Verses §3",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.4",
+      "label": "Canto V. Psalms of Five Verses §4",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.5",
+      "label": "Canto V. Psalms of Five Verses §5",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.6",
+      "label": "Canto V. Psalms of Five Verses §6",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.7",
+      "label": "Canto V. Psalms of Five Verses §7",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.8",
+      "label": "Canto V. Psalms of Five Verses §8",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.9",
+      "label": "Canto V. Psalms of Five Verses §9",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.10",
+      "label": "Canto V. Psalms of Five Verses §10",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.11",
+      "label": "Canto V. Psalms of Five Verses §11",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.12",
+      "label": "Canto V. Psalms of Five Verses §12",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.13",
+      "label": "Canto V. Psalms of Five Verses §13",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.14",
+      "label": "Canto V. Psalms of Five Verses §14",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.15",
+      "label": "Canto V. Psalms of Five Verses §15",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.16",
+      "label": "Canto V. Psalms of Five Verses §16",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.17",
+      "label": "Canto V. Psalms of Five Verses §17",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.18",
+      "label": "Canto V. Psalms of Five Verses §18",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.19",
+      "label": "Canto V. Psalms of Five Verses §19",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.20",
+      "label": "Canto V. Psalms of Five Verses §20",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.21",
+      "label": "Canto V. Psalms of Five Verses §21",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.22",
+      "label": "Canto V. Psalms of Five Verses §22",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.23",
+      "label": "Canto V. Psalms of Five Verses §23",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.24",
+      "label": "Canto V. Psalms of Five Verses §24",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.25",
+      "label": "Canto V. Psalms of Five Verses §25",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.26",
+      "label": "Canto V. Psalms of Five Verses §26",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.27",
+      "label": "Canto V. Psalms of Five Verses §27",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.28",
+      "label": "Canto V. Psalms of Five Verses §28",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.29",
+      "label": "Canto V. Psalms of Five Verses §29",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.30",
+      "label": "Canto V. Psalms of Five Verses §30",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.31",
+      "label": "Canto V. Psalms of Five Verses §31",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.32",
+      "label": "Canto V. Psalms of Five Verses §32",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.33",
+      "label": "Canto V. Psalms of Five Verses §33",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.34",
+      "label": "Canto V. Psalms of Five Verses §34",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.35",
+      "label": "Canto V. Psalms of Five Verses §35",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.36",
+      "label": "Canto V. Psalms of Five Verses §36",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.37",
+      "label": "Canto V. Psalms of Five Verses §37",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.38",
+      "label": "Canto V. Psalms of Five Verses §38",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.39",
+      "label": "Canto V. Psalms of Five Verses §39",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.40",
+      "label": "Canto V. Psalms of Five Verses §40",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.41",
+      "label": "Canto V. Psalms of Five Verses §41",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.42",
+      "label": "Canto V. Psalms of Five Verses §42",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.43",
+      "label": "Canto V. Psalms of Five Verses §43",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.44",
+      "label": "Canto V. Psalms of Five Verses §44",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.45",
+      "label": "Canto V. Psalms of Five Verses §45",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.46",
+      "label": "Canto V. Psalms of Five Verses §46",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.47",
+      "label": "Canto V. Psalms of Five Verses §47",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.48",
+      "label": "Canto V. Psalms of Five Verses §48",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.49",
+      "label": "Canto V. Psalms of Five Verses §49",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.50",
+      "label": "Canto V. Psalms of Five Verses §50",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.51",
+      "label": "Canto V. Psalms of Five Verses §51",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.52",
+      "label": "Canto V. Psalms of Five Verses §52",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.53",
+      "label": "Canto V. Psalms of Five Verses §53",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.54",
+      "label": "Canto V. Psalms of Five Verses §54",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.55",
+      "label": "Canto V. Psalms of Five Verses §55",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.56",
+      "label": "Canto V. Psalms of Five Verses §56",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.57",
+      "label": "Canto V. Psalms of Five Verses §57",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.58",
+      "label": "Canto V. Psalms of Five Verses §58",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.59",
+      "label": "Canto V. Psalms of Five Verses §59",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.60",
+      "label": "Canto V. Psalms of Five Verses §60",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.61",
+      "label": "Canto V. Psalms of Five Verses §61",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.62",
+      "label": "Canto V. Psalms of Five Verses §62",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.63",
+      "label": "Canto V. Psalms of Five Verses §63",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.64",
+      "label": "Canto V. Psalms of Five Verses §64",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.65",
+      "label": "Canto V. Psalms of Five Verses §65",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.66",
+      "label": "Canto V. Psalms of Five Verses §66",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.67",
+      "label": "Canto V. Psalms of Five Verses §67",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.68",
+      "label": "Canto V. Psalms of Five Verses §68",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.69",
+      "label": "Canto V. Psalms of Five Verses §69",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.70",
+      "label": "Canto V. Psalms of Five Verses §70",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.71",
+      "label": "Canto V. Psalms of Five Verses §71",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.72",
+      "label": "Canto V. Psalms of Five Verses §72",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.73",
+      "label": "Canto V. Psalms of Five Verses §73",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.74",
+      "label": "Canto V. Psalms of Five Verses §74",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.75",
+      "label": "Canto V. Psalms of Five Verses §75",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.76",
+      "label": "Canto V. Psalms of Five Verses §76",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.77",
+      "label": "Canto V. Psalms of Five Verses §77",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.78",
+      "label": "Canto V. Psalms of Five Verses §78",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.79",
+      "label": "Canto V. Psalms of Five Verses §79",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.80",
+      "label": "Canto V. Psalms of Five Verses §80",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.81",
+      "label": "Canto V. Psalms of Five Verses §81",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.82",
+      "label": "Canto V. Psalms of Five Verses §82",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.83",
+      "label": "Canto V. Psalms of Five Verses §83",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.84",
+      "label": "Canto V. Psalms of Five Verses §84",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.85",
+      "label": "Canto V. Psalms of Five Verses §85",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.86",
+      "label": "Canto V. Psalms of Five Verses §86",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.87",
+      "label": "Canto V. Psalms of Five Verses §87",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.88",
+      "label": "Canto V. Psalms of Five Verses §88",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.89",
+      "label": "Canto V. Psalms of Five Verses §89",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.90",
+      "label": "Canto V. Psalms of Five Verses §90",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.91",
+      "label": "Canto V. Psalms of Five Verses §91",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.92",
+      "label": "Canto V. Psalms of Five Verses §92",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.93",
+      "label": "Canto V. Psalms of Five Verses §93",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.94",
+      "label": "Canto V. Psalms of Five Verses §94",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.95",
+      "label": "Canto V. Psalms of Five Verses §95",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.96",
+      "label": "Canto V. Psalms of Five Verses §96",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.97",
+      "label": "Canto V. Psalms of Five Verses §97",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.98",
+      "label": "Canto V. Psalms of Five Verses §98",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.99",
+      "label": "Canto V. Psalms of Five Verses §99",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.100",
+      "label": "Canto V. Psalms of Five Verses §100",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.101",
+      "label": "Canto V. Psalms of Five Verses §101",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.102",
+      "label": "Canto V. Psalms of Five Verses §102",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "5.103",
+      "label": "Canto V. Psalms of Five Verses §103",
+      "chapterRef": "5"
+    },
+    {
+      "reference": "6.1",
+      "label": "Canto VI. Psalms of Six Verses §1",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.2",
+      "label": "Canto VI. Psalms of Six Verses §2",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.3",
+      "label": "Canto VI. Psalms of Six Verses §3",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.4",
+      "label": "Canto VI. Psalms of Six Verses §4",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.5",
+      "label": "Canto VI. Psalms of Six Verses §5",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.6",
+      "label": "Canto VI. Psalms of Six Verses §6",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.7",
+      "label": "Canto VI. Psalms of Six Verses §7",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.8",
+      "label": "Canto VI. Psalms of Six Verses §8",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.9",
+      "label": "Canto VI. Psalms of Six Verses §9",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.10",
+      "label": "Canto VI. Psalms of Six Verses §10",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.11",
+      "label": "Canto VI. Psalms of Six Verses §11",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.12",
+      "label": "Canto VI. Psalms of Six Verses §12",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.13",
+      "label": "Canto VI. Psalms of Six Verses §13",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.14",
+      "label": "Canto VI. Psalms of Six Verses §14",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.15",
+      "label": "Canto VI. Psalms of Six Verses §15",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.16",
+      "label": "Canto VI. Psalms of Six Verses §16",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.17",
+      "label": "Canto VI. Psalms of Six Verses §17",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.18",
+      "label": "Canto VI. Psalms of Six Verses §18",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.19",
+      "label": "Canto VI. Psalms of Six Verses §19",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.20",
+      "label": "Canto VI. Psalms of Six Verses §20",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.21",
+      "label": "Canto VI. Psalms of Six Verses §21",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.22",
+      "label": "Canto VI. Psalms of Six Verses §22",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.23",
+      "label": "Canto VI. Psalms of Six Verses §23",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.24",
+      "label": "Canto VI. Psalms of Six Verses §24",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.25",
+      "label": "Canto VI. Psalms of Six Verses §25",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.26",
+      "label": "Canto VI. Psalms of Six Verses §26",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.27",
+      "label": "Canto VI. Psalms of Six Verses §27",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.28",
+      "label": "Canto VI. Psalms of Six Verses §28",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.29",
+      "label": "Canto VI. Psalms of Six Verses §29",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.30",
+      "label": "Canto VI. Psalms of Six Verses §30",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.31",
+      "label": "Canto VI. Psalms of Six Verses §31",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.32",
+      "label": "Canto VI. Psalms of Six Verses §32",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.33",
+      "label": "Canto VI. Psalms of Six Verses §33",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.34",
+      "label": "Canto VI. Psalms of Six Verses §34",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.35",
+      "label": "Canto VI. Psalms of Six Verses §35",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.36",
+      "label": "Canto VI. Psalms of Six Verses §36",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.37",
+      "label": "Canto VI. Psalms of Six Verses §37",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.38",
+      "label": "Canto VI. Psalms of Six Verses §38",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.39",
+      "label": "Canto VI. Psalms of Six Verses §39",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.40",
+      "label": "Canto VI. Psalms of Six Verses §40",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.41",
+      "label": "Canto VI. Psalms of Six Verses §41",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.42",
+      "label": "Canto VI. Psalms of Six Verses §42",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.43",
+      "label": "Canto VI. Psalms of Six Verses §43",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.44",
+      "label": "Canto VI. Psalms of Six Verses §44",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.45",
+      "label": "Canto VI. Psalms of Six Verses §45",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.46",
+      "label": "Canto VI. Psalms of Six Verses §46",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.47",
+      "label": "Canto VI. Psalms of Six Verses §47",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.48",
+      "label": "Canto VI. Psalms of Six Verses §48",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.49",
+      "label": "Canto VI. Psalms of Six Verses §49",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.50",
+      "label": "Canto VI. Psalms of Six Verses §50",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.51",
+      "label": "Canto VI. Psalms of Six Verses §51",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.52",
+      "label": "Canto VI. Psalms of Six Verses §52",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.53",
+      "label": "Canto VI. Psalms of Six Verses §53",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.54",
+      "label": "Canto VI. Psalms of Six Verses §54",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.55",
+      "label": "Canto VI. Psalms of Six Verses §55",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.56",
+      "label": "Canto VI. Psalms of Six Verses §56",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.57",
+      "label": "Canto VI. Psalms of Six Verses §57",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.58",
+      "label": "Canto VI. Psalms of Six Verses §58",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.59",
+      "label": "Canto VI. Psalms of Six Verses §59",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.60",
+      "label": "Canto VI. Psalms of Six Verses §60",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.61",
+      "label": "Canto VI. Psalms of Six Verses §61",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.62",
+      "label": "Canto VI. Psalms of Six Verses §62",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "6.63",
+      "label": "Canto VI. Psalms of Six Verses §63",
+      "chapterRef": "6"
+    },
+    {
+      "reference": "7.1",
+      "label": "Canto VII. Psalms of Seven Verses §1",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.2",
+      "label": "Canto VII. Psalms of Seven Verses §2",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.3",
+      "label": "Canto VII. Psalms of Seven Verses §3",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.4",
+      "label": "Canto VII. Psalms of Seven Verses §4",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.5",
+      "label": "Canto VII. Psalms of Seven Verses §5",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.6",
+      "label": "Canto VII. Psalms of Seven Verses §6",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.7",
+      "label": "Canto VII. Psalms of Seven Verses §7",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.8",
+      "label": "Canto VII. Psalms of Seven Verses §8",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.9",
+      "label": "Canto VII. Psalms of Seven Verses §9",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.10",
+      "label": "Canto VII. Psalms of Seven Verses §10",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.11",
+      "label": "Canto VII. Psalms of Seven Verses §11",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.12",
+      "label": "Canto VII. Psalms of Seven Verses §12",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.13",
+      "label": "Canto VII. Psalms of Seven Verses §13",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.14",
+      "label": "Canto VII. Psalms of Seven Verses §14",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.15",
+      "label": "Canto VII. Psalms of Seven Verses §15",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.16",
+      "label": "Canto VII. Psalms of Seven Verses §16",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.17",
+      "label": "Canto VII. Psalms of Seven Verses §17",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.18",
+      "label": "Canto VII. Psalms of Seven Verses §18",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.19",
+      "label": "Canto VII. Psalms of Seven Verses §19",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.20",
+      "label": "Canto VII. Psalms of Seven Verses §20",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.21",
+      "label": "Canto VII. Psalms of Seven Verses §21",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.22",
+      "label": "Canto VII. Psalms of Seven Verses §22",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.23",
+      "label": "Canto VII. Psalms of Seven Verses §23",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.24",
+      "label": "Canto VII. Psalms of Seven Verses §24",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.25",
+      "label": "Canto VII. Psalms of Seven Verses §25",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.26",
+      "label": "Canto VII. Psalms of Seven Verses §26",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.27",
+      "label": "Canto VII. Psalms of Seven Verses §27",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.28",
+      "label": "Canto VII. Psalms of Seven Verses §28",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "7.29",
+      "label": "Canto VII. Psalms of Seven Verses §29",
+      "chapterRef": "7"
+    },
+    {
+      "reference": "8.1",
+      "label": "Canto VIII. Psalms of Eight Verses §1",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.2",
+      "label": "Canto VIII. Psalms of Eight Verses §2",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.3",
+      "label": "Canto VIII. Psalms of Eight Verses §3",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.4",
+      "label": "Canto VIII. Psalms of Eight Verses §4",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.5",
+      "label": "Canto VIII. Psalms of Eight Verses §5",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.6",
+      "label": "Canto VIII. Psalms of Eight Verses §6",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.7",
+      "label": "Canto VIII. Psalms of Eight Verses §7",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.8",
+      "label": "Canto VIII. Psalms of Eight Verses §8",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.9",
+      "label": "Canto VIII. Psalms of Eight Verses §9",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.10",
+      "label": "Canto VIII. Psalms of Eight Verses §10",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "8.11",
+      "label": "Canto VIII. Psalms of Eight Verses §11",
+      "chapterRef": "8"
+    },
+    {
+      "reference": "9.1",
+      "label": "Canto IX. Psalms of Nine Verses §1",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.2",
+      "label": "Canto IX. Psalms of Nine Verses §2",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.3",
+      "label": "Canto IX. Psalms of Nine Verses §3",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.4",
+      "label": "Canto IX. Psalms of Nine Verses §4",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.5",
+      "label": "Canto IX. Psalms of Nine Verses §5",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.6",
+      "label": "Canto IX. Psalms of Nine Verses §6",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.7",
+      "label": "Canto IX. Psalms of Nine Verses §7",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.8",
+      "label": "Canto IX. Psalms of Nine Verses §8",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.9",
+      "label": "Canto IX. Psalms of Nine Verses §9",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.10",
+      "label": "Canto IX. Psalms of Nine Verses §10",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.11",
+      "label": "Canto IX. Psalms of Nine Verses §11",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "9.12",
+      "label": "Canto IX. Psalms of Nine Verses §12",
+      "chapterRef": "9"
+    },
+    {
+      "reference": "10.1",
+      "label": "Canto X. Psalms of Eleven Verses §1",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.2",
+      "label": "Canto X. Psalms of Eleven Verses §2",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.3",
+      "label": "Canto X. Psalms of Eleven Verses §3",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.4",
+      "label": "Canto X. Psalms of Eleven Verses §4",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.5",
+      "label": "Canto X. Psalms of Eleven Verses §5",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.6",
+      "label": "Canto X. Psalms of Eleven Verses §6",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.7",
+      "label": "Canto X. Psalms of Eleven Verses §7",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.8",
+      "label": "Canto X. Psalms of Eleven Verses §8",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.9",
+      "label": "Canto X. Psalms of Eleven Verses §9",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.10",
+      "label": "Canto X. Psalms of Eleven Verses §10",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.11",
+      "label": "Canto X. Psalms of Eleven Verses §11",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.12",
+      "label": "Canto X. Psalms of Eleven Verses §12",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.13",
+      "label": "Canto X. Psalms of Eleven Verses §13",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.14",
+      "label": "Canto X. Psalms of Eleven Verses §14",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.15",
+      "label": "Canto X. Psalms of Eleven Verses §15",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "10.16",
+      "label": "Canto X. Psalms of Eleven Verses §16",
+      "chapterRef": "10"
+    },
+    {
+      "reference": "11.1",
+      "label": "Canto XI. Psalms of Twelve Verses §1",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.2",
+      "label": "Canto XI. Psalms of Twelve Verses §2",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.3",
+      "label": "Canto XI. Psalms of Twelve Verses §3",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.4",
+      "label": "Canto XI. Psalms of Twelve Verses §4",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.5",
+      "label": "Canto XI. Psalms of Twelve Verses §5",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.6",
+      "label": "Canto XI. Psalms of Twelve Verses §6",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.7",
+      "label": "Canto XI. Psalms of Twelve Verses §7",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.8",
+      "label": "Canto XI. Psalms of Twelve Verses §8",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.9",
+      "label": "Canto XI. Psalms of Twelve Verses §9",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.10",
+      "label": "Canto XI. Psalms of Twelve Verses §10",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.11",
+      "label": "Canto XI. Psalms of Twelve Verses §11",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.12",
+      "label": "Canto XI. Psalms of Twelve Verses §12",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.13",
+      "label": "Canto XI. Psalms of Twelve Verses §13",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.14",
+      "label": "Canto XI. Psalms of Twelve Verses §14",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.15",
+      "label": "Canto XI. Psalms of Twelve Verses §15",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.16",
+      "label": "Canto XI. Psalms of Twelve Verses §16",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.17",
+      "label": "Canto XI. Psalms of Twelve Verses §17",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.18",
+      "label": "Canto XI. Psalms of Twelve Verses §18",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.19",
+      "label": "Canto XI. Psalms of Twelve Verses §19",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.20",
+      "label": "Canto XI. Psalms of Twelve Verses §20",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.21",
+      "label": "Canto XI. Psalms of Twelve Verses §21",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.22",
+      "label": "Canto XI. Psalms of Twelve Verses §22",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.23",
+      "label": "Canto XI. Psalms of Twelve Verses §23",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.24",
+      "label": "Canto XI. Psalms of Twelve Verses §24",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.25",
+      "label": "Canto XI. Psalms of Twelve Verses §25",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.26",
+      "label": "Canto XI. Psalms of Twelve Verses §26",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.27",
+      "label": "Canto XI. Psalms of Twelve Verses §27",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.28",
+      "label": "Canto XI. Psalms of Twelve Verses §28",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.29",
+      "label": "Canto XI. Psalms of Twelve Verses §29",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "11.30",
+      "label": "Canto XI. Psalms of Twelve Verses §30",
+      "chapterRef": "11"
+    },
+    {
+      "reference": "12.1",
+      "label": "Canto XII. Psalms of Sixteen Verses §1",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.2",
+      "label": "Canto XII. Psalms of Sixteen Verses §2",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.3",
+      "label": "Canto XII. Psalms of Sixteen Verses §3",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.4",
+      "label": "Canto XII. Psalms of Sixteen Verses §4",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.5",
+      "label": "Canto XII. Psalms of Sixteen Verses §5",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.6",
+      "label": "Canto XII. Psalms of Sixteen Verses §6",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.7",
+      "label": "Canto XII. Psalms of Sixteen Verses §7",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.8",
+      "label": "Canto XII. Psalms of Sixteen Verses §8",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.9",
+      "label": "Canto XII. Psalms of Sixteen Verses §9",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.10",
+      "label": "Canto XII. Psalms of Sixteen Verses §10",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "12.11",
+      "label": "Canto XII. Psalms of Sixteen Verses §11",
+      "chapterRef": "12"
+    },
+    {
+      "reference": "13.1",
+      "label": "Canto XIII. Psalms of About Twenty Verses §1",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.2",
+      "label": "Canto XIII. Psalms of About Twenty Verses §2",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.3",
+      "label": "Canto XIII. Psalms of About Twenty Verses §3",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.4",
+      "label": "Canto XIII. Psalms of About Twenty Verses §4",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.5",
+      "label": "Canto XIII. Psalms of About Twenty Verses §5",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.6",
+      "label": "Canto XIII. Psalms of About Twenty Verses §6",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.7",
+      "label": "Canto XIII. Psalms of About Twenty Verses §7",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.8",
+      "label": "Canto XIII. Psalms of About Twenty Verses §8",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.9",
+      "label": "Canto XIII. Psalms of About Twenty Verses §9",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.10",
+      "label": "Canto XIII. Psalms of About Twenty Verses §10",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.11",
+      "label": "Canto XIII. Psalms of About Twenty Verses §11",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.12",
+      "label": "Canto XIII. Psalms of About Twenty Verses §12",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.13",
+      "label": "Canto XIII. Psalms of About Twenty Verses §13",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.14",
+      "label": "Canto XIII. Psalms of About Twenty Verses §14",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.15",
+      "label": "Canto XIII. Psalms of About Twenty Verses §15",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.16",
+      "label": "Canto XIII. Psalms of About Twenty Verses §16",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.17",
+      "label": "Canto XIII. Psalms of About Twenty Verses §17",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.18",
+      "label": "Canto XIII. Psalms of About Twenty Verses §18",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.19",
+      "label": "Canto XIII. Psalms of About Twenty Verses §19",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.20",
+      "label": "Canto XIII. Psalms of About Twenty Verses §20",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.21",
+      "label": "Canto XIII. Psalms of About Twenty Verses §21",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.22",
+      "label": "Canto XIII. Psalms of About Twenty Verses §22",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.23",
+      "label": "Canto XIII. Psalms of About Twenty Verses §23",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.24",
+      "label": "Canto XIII. Psalms of About Twenty Verses §24",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.25",
+      "label": "Canto XIII. Psalms of About Twenty Verses §25",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.26",
+      "label": "Canto XIII. Psalms of About Twenty Verses §26",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.27",
+      "label": "Canto XIII. Psalms of About Twenty Verses §27",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.28",
+      "label": "Canto XIII. Psalms of About Twenty Verses §28",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.29",
+      "label": "Canto XIII. Psalms of About Twenty Verses §29",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.30",
+      "label": "Canto XIII. Psalms of About Twenty Verses §30",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.31",
+      "label": "Canto XIII. Psalms of About Twenty Verses §31",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.32",
+      "label": "Canto XIII. Psalms of About Twenty Verses §32",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.33",
+      "label": "Canto XIII. Psalms of About Twenty Verses §33",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.34",
+      "label": "Canto XIII. Psalms of About Twenty Verses §34",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.35",
+      "label": "Canto XIII. Psalms of About Twenty Verses §35",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.36",
+      "label": "Canto XIII. Psalms of About Twenty Verses §36",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.37",
+      "label": "Canto XIII. Psalms of About Twenty Verses §37",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.38",
+      "label": "Canto XIII. Psalms of About Twenty Verses §38",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.39",
+      "label": "Canto XIII. Psalms of About Twenty Verses §39",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.40",
+      "label": "Canto XIII. Psalms of About Twenty Verses §40",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.41",
+      "label": "Canto XIII. Psalms of About Twenty Verses §41",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.42",
+      "label": "Canto XIII. Psalms of About Twenty Verses §42",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.43",
+      "label": "Canto XIII. Psalms of About Twenty Verses §43",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.44",
+      "label": "Canto XIII. Psalms of About Twenty Verses §44",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.45",
+      "label": "Canto XIII. Psalms of About Twenty Verses §45",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.46",
+      "label": "Canto XIII. Psalms of About Twenty Verses §46",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.47",
+      "label": "Canto XIII. Psalms of About Twenty Verses §47",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.48",
+      "label": "Canto XIII. Psalms of About Twenty Verses §48",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.49",
+      "label": "Canto XIII. Psalms of About Twenty Verses §49",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.50",
+      "label": "Canto XIII. Psalms of About Twenty Verses §50",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.51",
+      "label": "Canto XIII. Psalms of About Twenty Verses §51",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.52",
+      "label": "Canto XIII. Psalms of About Twenty Verses §52",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.53",
+      "label": "Canto XIII. Psalms of About Twenty Verses §53",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.54",
+      "label": "Canto XIII. Psalms of About Twenty Verses §54",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.55",
+      "label": "Canto XIII. Psalms of About Twenty Verses §55",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.56",
+      "label": "Canto XIII. Psalms of About Twenty Verses §56",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.57",
+      "label": "Canto XIII. Psalms of About Twenty Verses §57",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.58",
+      "label": "Canto XIII. Psalms of About Twenty Verses §58",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.59",
+      "label": "Canto XIII. Psalms of About Twenty Verses §59",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.60",
+      "label": "Canto XIII. Psalms of About Twenty Verses §60",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.61",
+      "label": "Canto XIII. Psalms of About Twenty Verses §61",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.62",
+      "label": "Canto XIII. Psalms of About Twenty Verses §62",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.63",
+      "label": "Canto XIII. Psalms of About Twenty Verses §63",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.64",
+      "label": "Canto XIII. Psalms of About Twenty Verses §64",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.65",
+      "label": "Canto XIII. Psalms of About Twenty Verses §65",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.66",
+      "label": "Canto XIII. Psalms of About Twenty Verses §66",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.67",
+      "label": "Canto XIII. Psalms of About Twenty Verses §67",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.68",
+      "label": "Canto XIII. Psalms of About Twenty Verses §68",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.69",
+      "label": "Canto XIII. Psalms of About Twenty Verses §69",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.70",
+      "label": "Canto XIII. Psalms of About Twenty Verses §70",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.71",
+      "label": "Canto XIII. Psalms of About Twenty Verses §71",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.72",
+      "label": "Canto XIII. Psalms of About Twenty Verses §72",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.73",
+      "label": "Canto XIII. Psalms of About Twenty Verses §73",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.74",
+      "label": "Canto XIII. Psalms of About Twenty Verses §74",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.75",
+      "label": "Canto XIII. Psalms of About Twenty Verses §75",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.76",
+      "label": "Canto XIII. Psalms of About Twenty Verses §76",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.77",
+      "label": "Canto XIII. Psalms of About Twenty Verses §77",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.78",
+      "label": "Canto XIII. Psalms of About Twenty Verses §78",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.79",
+      "label": "Canto XIII. Psalms of About Twenty Verses §79",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.80",
+      "label": "Canto XIII. Psalms of About Twenty Verses §80",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.81",
+      "label": "Canto XIII. Psalms of About Twenty Verses §81",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.82",
+      "label": "Canto XIII. Psalms of About Twenty Verses §82",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.83",
+      "label": "Canto XIII. Psalms of About Twenty Verses §83",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.84",
+      "label": "Canto XIII. Psalms of About Twenty Verses §84",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.85",
+      "label": "Canto XIII. Psalms of About Twenty Verses §85",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.86",
+      "label": "Canto XIII. Psalms of About Twenty Verses §86",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.87",
+      "label": "Canto XIII. Psalms of About Twenty Verses §87",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.88",
+      "label": "Canto XIII. Psalms of About Twenty Verses §88",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.89",
+      "label": "Canto XIII. Psalms of About Twenty Verses §89",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "13.90",
+      "label": "Canto XIII. Psalms of About Twenty Verses §90",
+      "chapterRef": "13"
+    },
+    {
+      "reference": "14.1",
+      "label": "Canto XIV. Psalms of About Thirty Verses §1",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.2",
+      "label": "Canto XIV. Psalms of About Thirty Verses §2",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.3",
+      "label": "Canto XIV. Psalms of About Thirty Verses §3",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.4",
+      "label": "Canto XIV. Psalms of About Thirty Verses §4",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.5",
+      "label": "Canto XIV. Psalms of About Thirty Verses §5",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.6",
+      "label": "Canto XIV. Psalms of About Thirty Verses §6",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.7",
+      "label": "Canto XIV. Psalms of About Thirty Verses §7",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.8",
+      "label": "Canto XIV. Psalms of About Thirty Verses §8",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.9",
+      "label": "Canto XIV. Psalms of About Thirty Verses §9",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.10",
+      "label": "Canto XIV. Psalms of About Thirty Verses §10",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.11",
+      "label": "Canto XIV. Psalms of About Thirty Verses §11",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "14.12",
+      "label": "Canto XIV. Psalms of About Thirty Verses §12",
+      "chapterRef": "14"
+    },
+    {
+      "reference": "15.1",
+      "label": "Canto XV. Psalms of Over Forty Verses §1",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.2",
+      "label": "Canto XV. Psalms of Over Forty Verses §2",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.3",
+      "label": "Canto XV. Psalms of Over Forty Verses §3",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.4",
+      "label": "Canto XV. Psalms of Over Forty Verses §4",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.5",
+      "label": "Canto XV. Psalms of Over Forty Verses §5",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.6",
+      "label": "Canto XV. Psalms of Over Forty Verses §6",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.7",
+      "label": "Canto XV. Psalms of Over Forty Verses §7",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.8",
+      "label": "Canto XV. Psalms of Over Forty Verses §8",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.9",
+      "label": "Canto XV. Psalms of Over Forty Verses §9",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.10",
+      "label": "Canto XV. Psalms of Over Forty Verses §10",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.11",
+      "label": "Canto XV. Psalms of Over Forty Verses §11",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.12",
+      "label": "Canto XV. Psalms of Over Forty Verses §12",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.13",
+      "label": "Canto XV. Psalms of Over Forty Verses §13",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.14",
+      "label": "Canto XV. Psalms of Over Forty Verses §14",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.15",
+      "label": "Canto XV. Psalms of Over Forty Verses §15",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.16",
+      "label": "Canto XV. Psalms of Over Forty Verses §16",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "15.17",
+      "label": "Canto XV. Psalms of Over Forty Verses §17",
+      "chapterRef": "15"
+    },
+    {
+      "reference": "16.1",
+      "label": "Canto XVI. Psalms of The Great Chapter §1",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.2",
+      "label": "Canto XVI. Psalms of The Great Chapter §2",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.3",
+      "label": "Canto XVI. Psalms of The Great Chapter §3",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.4",
+      "label": "Canto XVI. Psalms of The Great Chapter §4",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.5",
+      "label": "Canto XVI. Psalms of The Great Chapter §5",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.6",
+      "label": "Canto XVI. Psalms of The Great Chapter §6",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.7",
+      "label": "Canto XVI. Psalms of The Great Chapter §7",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.8",
+      "label": "Canto XVI. Psalms of The Great Chapter §8",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.9",
+      "label": "Canto XVI. Psalms of The Great Chapter §9",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.10",
+      "label": "Canto XVI. Psalms of The Great Chapter §10",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.11",
+      "label": "Canto XVI. Psalms of The Great Chapter §11",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.12",
+      "label": "Canto XVI. Psalms of The Great Chapter §12",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.13",
+      "label": "Canto XVI. Psalms of The Great Chapter §13",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.14",
+      "label": "Canto XVI. Psalms of The Great Chapter §14",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.15",
+      "label": "Canto XVI. Psalms of The Great Chapter §15",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.16",
+      "label": "Canto XVI. Psalms of The Great Chapter §16",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.17",
+      "label": "Canto XVI. Psalms of The Great Chapter §17",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.18",
+      "label": "Canto XVI. Psalms of The Great Chapter §18",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.19",
+      "label": "Canto XVI. Psalms of The Great Chapter §19",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.20",
+      "label": "Canto XVI. Psalms of The Great Chapter §20",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.21",
+      "label": "Canto XVI. Psalms of The Great Chapter §21",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.22",
+      "label": "Canto XVI. Psalms of The Great Chapter §22",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.23",
+      "label": "Canto XVI. Psalms of The Great Chapter §23",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.24",
+      "label": "Canto XVI. Psalms of The Great Chapter §24",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.25",
+      "label": "Canto XVI. Psalms of The Great Chapter §25",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.26",
+      "label": "Canto XVI. Psalms of The Great Chapter §26",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.27",
+      "label": "Canto XVI. Psalms of The Great Chapter §27",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.28",
+      "label": "Canto XVI. Psalms of The Great Chapter §28",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.29",
+      "label": "Canto XVI. Psalms of The Great Chapter §29",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.30",
+      "label": "Canto XVI. Psalms of The Great Chapter §30",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.31",
+      "label": "Canto XVI. Psalms of The Great Chapter §31",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.32",
+      "label": "Canto XVI. Psalms of The Great Chapter §32",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.33",
+      "label": "Canto XVI. Psalms of The Great Chapter §33",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.34",
+      "label": "Canto XVI. Psalms of The Great Chapter §34",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.35",
+      "label": "Canto XVI. Psalms of The Great Chapter §35",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.36",
+      "label": "Canto XVI. Psalms of The Great Chapter §36",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.37",
+      "label": "Canto XVI. Psalms of The Great Chapter §37",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.38",
+      "label": "Canto XVI. Psalms of The Great Chapter §38",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.39",
+      "label": "Canto XVI. Psalms of The Great Chapter §39",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.40",
+      "label": "Canto XVI. Psalms of The Great Chapter §40",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.41",
+      "label": "Canto XVI. Psalms of The Great Chapter §41",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.42",
+      "label": "Canto XVI. Psalms of The Great Chapter §42",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.43",
+      "label": "Canto XVI. Psalms of The Great Chapter §43",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.44",
+      "label": "Canto XVI. Psalms of The Great Chapter §44",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.45",
+      "label": "Canto XVI. Psalms of The Great Chapter §45",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.46",
+      "label": "Canto XVI. Psalms of The Great Chapter §46",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.47",
+      "label": "Canto XVI. Psalms of The Great Chapter §47",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.48",
+      "label": "Canto XVI. Psalms of The Great Chapter §48",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.49",
+      "label": "Canto XVI. Psalms of The Great Chapter §49",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.50",
+      "label": "Canto XVI. Psalms of The Great Chapter §50",
+      "chapterRef": "16"
+    },
+    {
+      "reference": "16.51",
+      "label": "Canto XVI. Psalms of The Great Chapter §51",
+      "chapterRef": "16"
+    }
+  ],
+  "editions": [
+    {
+      "slug": "therigatha-en",
+      "language": "en",
+      "editionType": "translation",
+      "title": "Psalms of the Sisters",
+      "translator": "C. A. F. Rhys Davids",
+      "publisher": "Internet Sacred Text Archive",
+      "publicationYear": 1909,
+      "source": "sacred-texts",
+      "license": "public-domain",
+      "rightsStatus": "Public domain in the United States",
+      "attributionText": "Psalms of the Sisters, translated by C. A. F. Rhys Davids (1909). Pali Text Society. Public domain in the United States. Digital text from the Internet Sacred Text Archive.",
+      "structureScheme": "canto and paragraph index; each chapter is one printed canto",
+      "isSample": false,
+      "notes": "The import cache stores the exact segments that were validated. The reader re-fetches the chapter from the host and reports when the served count no longer matches the index."
+    }
+  ]
+}

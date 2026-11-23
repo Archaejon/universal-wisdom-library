@@ -1,0 +1,2467 @@
+{
+  "slug": "brihadaranyaka-upanishad",
+  "title": "The Brihadaranyaka Upanishad, with Shankara's commentary",
+  "originalTitle": "बृहदारण्यकोपनिषद्",
+  "transliteration": "Bṛhadāraṇyakopaniṣad",
+  "altTitles": [
+    "Brhadaranyaka Upanishad",
+    "Brihadaranyaka Upanisad"
+  ],
+  "tradition": "hinduism",
+  "school": "vedanta",
+  "genre": "Upanishad",
+  "textType": "Prose and verse Upanishad",
+  "category": "Upanishad",
+  "subcategory": "Principal Upanishads",
+  "originalLanguage": "sa",
+  "dateStart": -700,
+  "dateEnd": -500,
+  "dateDisplay": "c. 7th–6th century BCE",
+  "authorshipStatus": "composite",
+  "author": "",
+  "attributionNote": "The Upanishad is anonymous; its central teaching is placed in the mouth of the sage Yajnavalkya at the court of king Janaka, and the text preserves that dialogue rather than claiming a single author. The commentary carried beside the text is ascribed to Shankara.",
+  "description": "The longest and oldest of the principal Upanishads, the Brihadaranyaka opens with the sacrifice of the horse as a figure of the cosmos and then pursues the self: in Yajnavalkya's answers to his wife Maitreyi and to the assembly at Janaka's court, being is described as the one to be heard, reflected on and known — not this, not this, the self that is the light of every act of knowing. It ends with the prayer to lead the reader from darkness to light.",
+  "historicalContext": "Its teaching is the basis of the Advaita Vedanta the commentaries elaborate and of much of later Indian thought about consciousness. Shankara's Bhashya is the commentary through which the Upanishad was read in the monastic schools, and the Kanva recension printed here is the one the commentary follows.",
+  "availabilityNote": "Complete: the six adhyayas of the Kanva recension from the GRETIL e-text, streamed at read time one brahmana at a time, with the commentary ascribed to Shankara in a second pane. Both texts are read from the same GRETIL file under their own reference markers.",
+  "featured": false,
+  "featuredNote": "",
+  "refScheme": "adhyaya.brahmana.verse",
+  "isSample": false,
+  "textStorage": "streamed",
+  "chapters": [
+    {
+      "ref": "1.1",
+      "label": "Adhyāya 1, Brāhmaṇa 1"
+    },
+    {
+      "ref": "1.2",
+      "label": "Adhyāya 1, Brāhmaṇa 2"
+    },
+    {
+      "ref": "1.3",
+      "label": "Adhyāya 1, Brāhmaṇa 3"
+    },
+    {
+      "ref": "1.4",
+      "label": "Adhyāya 1, Brāhmaṇa 4"
+    },
+    {
+      "ref": "1.5",
+      "label": "Adhyāya 1, Brāhmaṇa 5"
+    },
+    {
+      "ref": "1.6",
+      "label": "Adhyāya 1, Brāhmaṇa 6"
+    },
+    {
+      "ref": "2.1",
+      "label": "Adhyāya 2, Brāhmaṇa 1"
+    },
+    {
+      "ref": "2.2",
+      "label": "Adhyāya 2, Brāhmaṇa 2"
+    },
+    {
+      "ref": "2.3",
+      "label": "Adhyāya 2, Brāhmaṇa 3"
+    },
+    {
+      "ref": "2.4",
+      "label": "Adhyāya 2, Brāhmaṇa 4"
+    },
+    {
+      "ref": "2.5",
+      "label": "Adhyāya 2, Brāhmaṇa 5"
+    },
+    {
+      "ref": "2.6",
+      "label": "Adhyāya 2, Brāhmaṇa 6"
+    },
+    {
+      "ref": "3.1",
+      "label": "Adhyāya 3, Brāhmaṇa 1"
+    },
+    {
+      "ref": "3.2",
+      "label": "Adhyāya 3, Brāhmaṇa 2"
+    },
+    {
+      "ref": "3.3",
+      "label": "Adhyāya 3, Brāhmaṇa 3"
+    },
+    {
+      "ref": "3.4",
+      "label": "Adhyāya 3, Brāhmaṇa 4"
+    },
+    {
+      "ref": "3.5",
+      "label": "Adhyāya 3, Brāhmaṇa 5"
+    },
+    {
+      "ref": "3.6",
+      "label": "Adhyāya 3, Brāhmaṇa 6"
+    },
+    {
+      "ref": "3.7",
+      "label": "Adhyāya 3, Brāhmaṇa 7"
+    },
+    {
+      "ref": "3.8",
+      "label": "Adhyāya 3, Brāhmaṇa 8"
+    },
+    {
+      "ref": "3.9",
+      "label": "Adhyāya 3, Brāhmaṇa 9"
+    },
+    {
+      "ref": "4.1",
+      "label": "Adhyāya 4, Brāhmaṇa 1"
+    },
+    {
+      "ref": "4.2",
+      "label": "Adhyāya 4, Brāhmaṇa 2"
+    },
+    {
+      "ref": "4.3",
+      "label": "Adhyāya 4, Brāhmaṇa 3"
+    },
+    {
+      "ref": "4.4",
+      "label": "Adhyāya 4, Brāhmaṇa 4"
+    },
+    {
+      "ref": "4.5",
+      "label": "Adhyāya 4, Brāhmaṇa 5"
+    },
+    {
+      "ref": "4.6",
+      "label": "Adhyāya 4, Brāhmaṇa 6"
+    },
+    {
+      "ref": "5.1",
+      "label": "Adhyāya 5, Brāhmaṇa 1"
+    },
+    {
+      "ref": "5.2",
+      "label": "Adhyāya 5, Brāhmaṇa 2"
+    },
+    {
+      "ref": "5.3",
+      "label": "Adhyāya 5, Brāhmaṇa 3"
+    },
+    {
+      "ref": "5.4",
+      "label": "Adhyāya 5, Brāhmaṇa 4"
+    },
+    {
+      "ref": "5.5",
+      "label": "Adhyāya 5, Brāhmaṇa 5"
+    },
+    {
+      "ref": "5.6",
+      "label": "Adhyāya 5, Brāhmaṇa 6"
+    },
+    {
+      "ref": "5.7",
+      "label": "Adhyāya 5, Brāhmaṇa 7"
+    },
+    {
+      "ref": "5.8",
+      "label": "Adhyāya 5, Brāhmaṇa 8"
+    },
+    {
+      "ref": "5.9",
+      "label": "Adhyāya 5, Brāhmaṇa 9"
+    },
+    {
+      "ref": "5.10",
+      "label": "Adhyāya 5, Brāhmaṇa 10"
+    },
+    {
+      "ref": "5.11",
+      "label": "Adhyāya 5, Brāhmaṇa 11"
+    },
+    {
+      "ref": "5.12",
+      "label": "Adhyāya 5, Brāhmaṇa 12"
+    },
+    {
+      "ref": "5.13",
+      "label": "Adhyāya 5, Brāhmaṇa 13"
+    },
+    {
+      "ref": "5.14",
+      "label": "Adhyāya 5, Brāhmaṇa 14"
+    },
+    {
+      "ref": "5.15",
+      "label": "Adhyāya 5, Brāhmaṇa 15"
+    },
+    {
+      "ref": "6.1",
+      "label": "Adhyāya 6, Brāhmaṇa 1"
+    },
+    {
+      "ref": "6.2",
+      "label": "Adhyāya 6, Brāhmaṇa 2"
+    },
+    {
+      "ref": "6.3",
+      "label": "Adhyāya 6, Brāhmaṇa 3"
+    },
+    {
+      "ref": "6.4",
+      "label": "Adhyāya 6, Brāhmaṇa 4"
+    },
+    {
+      "ref": "6.5",
+      "label": "Adhyāya 6, Brāhmaṇa 5"
+    }
+  ],
+  "passages": [
+    {
+      "reference": "1.1.1",
+      "label": "Adhyāya 1, Brāhmaṇa 1 §1",
+      "chapterRef": "1.1"
+    },
+    {
+      "reference": "1.1.2",
+      "label": "Adhyāya 1, Brāhmaṇa 1 §2",
+      "chapterRef": "1.1"
+    },
+    {
+      "reference": "1.2.1",
+      "label": "Adhyāya 1, Brāhmaṇa 2 §1",
+      "chapterRef": "1.2"
+    },
+    {
+      "reference": "1.2.2",
+      "label": "Adhyāya 1, Brāhmaṇa 2 §2",
+      "chapterRef": "1.2"
+    },
+    {
+      "reference": "1.2.3",
+      "label": "Adhyāya 1, Brāhmaṇa 2 §3",
+      "chapterRef": "1.2"
+    },
+    {
+      "reference": "1.2.4",
+      "label": "Adhyāya 1, Brāhmaṇa 2 §4",
+      "chapterRef": "1.2"
+    },
+    {
+      "reference": "1.2.5",
+      "label": "Adhyāya 1, Brāhmaṇa 2 §5",
+      "chapterRef": "1.2"
+    },
+    {
+      "reference": "1.2.6",
+      "label": "Adhyāya 1, Brāhmaṇa 2 §6",
+      "chapterRef": "1.2"
+    },
+    {
+      "reference": "1.2.7",
+      "label": "Adhyāya 1, Brāhmaṇa 2 §7",
+      "chapterRef": "1.2"
+    },
+    {
+      "reference": "1.3.1",
+      "label": "Adhyāya 1, Brāhmaṇa 3 §1",
+      "chapterRef": "1.3"
+    },
+    {
+      "reference": "1.3.2",
+      "label": "Adhyāya 1, Brāhmaṇa 3 §2",
+      "chapterRef": "1.3"
+    },
+    {
+      "reference": "1.3.3",
+      "label": "Adhyāya 1, Brāhmaṇa 3 §3",
+      "chapterRef": "1.3"
+    },
+    {
+      "reference": "1.3.4",
+      "label": "Adhyāya 1, Brāhmaṇa 3 §4",
+      "chapterRef": "1.3"
+    },
+    {
+      "reference": "1.3.5",
+      "label": "Adhyāya 1, Brāhmaṇa 3 §5",
+      "chapterRef": "1.3"
+    },
+    {
+      "reference": "1.3.6",
+      "label": "Adhyāya 1, Brāhmaṇa 3 §6",
+      "chapterRef": "1.3"
+    },
+    {
+      "reference": "1.3.7",
+      "label": "Adhyāya 1, Brāhmaṇa 3 §7",
+      "chapterRef": "1.3"
+    },
+    {
+      "reference": "1.3.8",
+      "label": "Adhyāya 1, Brāhmaṇa 3 §8",
+      "chapterRef": "1.3"
+    },
+    {
+      "reference": "1.3.9",
+      "label": "Adhyāya 1, Brāhmaṇa 3 §9",
+      "chapterRef": "1.3"
+    },
+    {
+      "reference": "1.3.10",
+      "label": "Adhyāya 1, Brāhmaṇa 3 §10",
+      "chapterRef": "1.3"
+    },
+    {
+      "reference": "1.3.11",
+      "label": "Adhyāya 1, Brāhmaṇa 3 §11",
+      "chapterRef": "1.3"
+    },
+    {
+      "reference": "1.3.12",
+      "label": "Adhyāya 1, Brāhmaṇa 3 §12",
+      "chapterRef": "1.3"
+    },
+    {
+      "reference": "1.3.13",
+      "label": "Adhyāya 1, Brāhmaṇa 3 §13",
+      "chapterRef": "1.3"
+    },
+    {
+      "reference": "1.3.14",
+      "label": "Adhyāya 1, Brāhmaṇa 3 §14",
+      "chapterRef": "1.3"
+    },
+    {
+      "reference": "1.3.15",
+      "label": "Adhyāya 1, Brāhmaṇa 3 §15",
+      "chapterRef": "1.3"
+    },
+    {
+      "reference": "1.3.16",
+      "label": "Adhyāya 1, Brāhmaṇa 3 §16",
+      "chapterRef": "1.3"
+    },
+    {
+      "reference": "1.3.17",
+      "label": "Adhyāya 1, Brāhmaṇa 3 §17",
+      "chapterRef": "1.3"
+    },
+    {
+      "reference": "1.3.18",
+      "label": "Adhyāya 1, Brāhmaṇa 3 §18",
+      "chapterRef": "1.3"
+    },
+    {
+      "reference": "1.3.19",
+      "label": "Adhyāya 1, Brāhmaṇa 3 §19",
+      "chapterRef": "1.3"
+    },
+    {
+      "reference": "1.3.20",
+      "label": "Adhyāya 1, Brāhmaṇa 3 §20",
+      "chapterRef": "1.3"
+    },
+    {
+      "reference": "1.3.21",
+      "label": "Adhyāya 1, Brāhmaṇa 3 §21",
+      "chapterRef": "1.3"
+    },
+    {
+      "reference": "1.3.22",
+      "label": "Adhyāya 1, Brāhmaṇa 3 §22",
+      "chapterRef": "1.3"
+    },
+    {
+      "reference": "1.3.23",
+      "label": "Adhyāya 1, Brāhmaṇa 3 §23",
+      "chapterRef": "1.3"
+    },
+    {
+      "reference": "1.3.24",
+      "label": "Adhyāya 1, Brāhmaṇa 3 §24",
+      "chapterRef": "1.3"
+    },
+    {
+      "reference": "1.3.25",
+      "label": "Adhyāya 1, Brāhmaṇa 3 §25",
+      "chapterRef": "1.3"
+    },
+    {
+      "reference": "1.3.26",
+      "label": "Adhyāya 1, Brāhmaṇa 3 §26",
+      "chapterRef": "1.3"
+    },
+    {
+      "reference": "1.3.27",
+      "label": "Adhyāya 1, Brāhmaṇa 3 §27",
+      "chapterRef": "1.3"
+    },
+    {
+      "reference": "1.3.28",
+      "label": "Adhyāya 1, Brāhmaṇa 3 §28",
+      "chapterRef": "1.3"
+    },
+    {
+      "reference": "1.4.1",
+      "label": "Adhyāya 1, Brāhmaṇa 4 §1",
+      "chapterRef": "1.4"
+    },
+    {
+      "reference": "1.4.2",
+      "label": "Adhyāya 1, Brāhmaṇa 4 §2",
+      "chapterRef": "1.4"
+    },
+    {
+      "reference": "1.4.3",
+      "label": "Adhyāya 1, Brāhmaṇa 4 §3",
+      "chapterRef": "1.4"
+    },
+    {
+      "reference": "1.4.4",
+      "label": "Adhyāya 1, Brāhmaṇa 4 §4",
+      "chapterRef": "1.4"
+    },
+    {
+      "reference": "1.4.5",
+      "label": "Adhyāya 1, Brāhmaṇa 4 §5",
+      "chapterRef": "1.4"
+    },
+    {
+      "reference": "1.4.6",
+      "label": "Adhyāya 1, Brāhmaṇa 4 §6",
+      "chapterRef": "1.4"
+    },
+    {
+      "reference": "1.4.7",
+      "label": "Adhyāya 1, Brāhmaṇa 4 §7",
+      "chapterRef": "1.4"
+    },
+    {
+      "reference": "1.4.8",
+      "label": "Adhyāya 1, Brāhmaṇa 4 §8",
+      "chapterRef": "1.4"
+    },
+    {
+      "reference": "1.4.9",
+      "label": "Adhyāya 1, Brāhmaṇa 4 §9",
+      "chapterRef": "1.4"
+    },
+    {
+      "reference": "1.4.10",
+      "label": "Adhyāya 1, Brāhmaṇa 4 §10",
+      "chapterRef": "1.4"
+    },
+    {
+      "reference": "1.4.11",
+      "label": "Adhyāya 1, Brāhmaṇa 4 §11",
+      "chapterRef": "1.4"
+    },
+    {
+      "reference": "1.4.12",
+      "label": "Adhyāya 1, Brāhmaṇa 4 §12",
+      "chapterRef": "1.4"
+    },
+    {
+      "reference": "1.4.13",
+      "label": "Adhyāya 1, Brāhmaṇa 4 §13",
+      "chapterRef": "1.4"
+    },
+    {
+      "reference": "1.4.14",
+      "label": "Adhyāya 1, Brāhmaṇa 4 §14",
+      "chapterRef": "1.4"
+    },
+    {
+      "reference": "1.4.15",
+      "label": "Adhyāya 1, Brāhmaṇa 4 §15",
+      "chapterRef": "1.4"
+    },
+    {
+      "reference": "1.4.16",
+      "label": "Adhyāya 1, Brāhmaṇa 4 §16",
+      "chapterRef": "1.4"
+    },
+    {
+      "reference": "1.4.17",
+      "label": "Adhyāya 1, Brāhmaṇa 4 §17",
+      "chapterRef": "1.4"
+    },
+    {
+      "reference": "1.5.1",
+      "label": "Adhyāya 1, Brāhmaṇa 5 §1",
+      "chapterRef": "1.5"
+    },
+    {
+      "reference": "1.5.2",
+      "label": "Adhyāya 1, Brāhmaṇa 5 §2",
+      "chapterRef": "1.5"
+    },
+    {
+      "reference": "1.5.3",
+      "label": "Adhyāya 1, Brāhmaṇa 5 §3",
+      "chapterRef": "1.5"
+    },
+    {
+      "reference": "1.5.4",
+      "label": "Adhyāya 1, Brāhmaṇa 5 §4",
+      "chapterRef": "1.5"
+    },
+    {
+      "reference": "1.5.5",
+      "label": "Adhyāya 1, Brāhmaṇa 5 §5",
+      "chapterRef": "1.5"
+    },
+    {
+      "reference": "1.5.6",
+      "label": "Adhyāya 1, Brāhmaṇa 5 §6",
+      "chapterRef": "1.5"
+    },
+    {
+      "reference": "1.5.7",
+      "label": "Adhyāya 1, Brāhmaṇa 5 §7",
+      "chapterRef": "1.5"
+    },
+    {
+      "reference": "1.5.8",
+      "label": "Adhyāya 1, Brāhmaṇa 5 §8",
+      "chapterRef": "1.5"
+    },
+    {
+      "reference": "1.5.9",
+      "label": "Adhyāya 1, Brāhmaṇa 5 §9",
+      "chapterRef": "1.5"
+    },
+    {
+      "reference": "1.5.10",
+      "label": "Adhyāya 1, Brāhmaṇa 5 §10",
+      "chapterRef": "1.5"
+    },
+    {
+      "reference": "1.5.11",
+      "label": "Adhyāya 1, Brāhmaṇa 5 §11",
+      "chapterRef": "1.5"
+    },
+    {
+      "reference": "1.5.12",
+      "label": "Adhyāya 1, Brāhmaṇa 5 §12",
+      "chapterRef": "1.5"
+    },
+    {
+      "reference": "1.5.13",
+      "label": "Adhyāya 1, Brāhmaṇa 5 §13",
+      "chapterRef": "1.5"
+    },
+    {
+      "reference": "1.5.14",
+      "label": "Adhyāya 1, Brāhmaṇa 5 §14",
+      "chapterRef": "1.5"
+    },
+    {
+      "reference": "1.5.15",
+      "label": "Adhyāya 1, Brāhmaṇa 5 §15",
+      "chapterRef": "1.5"
+    },
+    {
+      "reference": "1.5.16",
+      "label": "Adhyāya 1, Brāhmaṇa 5 §16",
+      "chapterRef": "1.5"
+    },
+    {
+      "reference": "1.5.17",
+      "label": "Adhyāya 1, Brāhmaṇa 5 §17",
+      "chapterRef": "1.5"
+    },
+    {
+      "reference": "1.5.18",
+      "label": "Adhyāya 1, Brāhmaṇa 5 §18",
+      "chapterRef": "1.5"
+    },
+    {
+      "reference": "1.5.19",
+      "label": "Adhyāya 1, Brāhmaṇa 5 §19",
+      "chapterRef": "1.5"
+    },
+    {
+      "reference": "1.5.20",
+      "label": "Adhyāya 1, Brāhmaṇa 5 §20",
+      "chapterRef": "1.5"
+    },
+    {
+      "reference": "1.5.21",
+      "label": "Adhyāya 1, Brāhmaṇa 5 §21",
+      "chapterRef": "1.5"
+    },
+    {
+      "reference": "1.5.22",
+      "label": "Adhyāya 1, Brāhmaṇa 5 §22",
+      "chapterRef": "1.5"
+    },
+    {
+      "reference": "1.5.23",
+      "label": "Adhyāya 1, Brāhmaṇa 5 §23",
+      "chapterRef": "1.5"
+    },
+    {
+      "reference": "1.6.1",
+      "label": "Adhyāya 1, Brāhmaṇa 6 §1",
+      "chapterRef": "1.6"
+    },
+    {
+      "reference": "1.6.2",
+      "label": "Adhyāya 1, Brāhmaṇa 6 §2",
+      "chapterRef": "1.6"
+    },
+    {
+      "reference": "1.6.3",
+      "label": "Adhyāya 1, Brāhmaṇa 6 §3",
+      "chapterRef": "1.6"
+    },
+    {
+      "reference": "2.1.1",
+      "label": "Adhyāya 2, Brāhmaṇa 1 §1",
+      "chapterRef": "2.1"
+    },
+    {
+      "reference": "2.1.2",
+      "label": "Adhyāya 2, Brāhmaṇa 1 §2",
+      "chapterRef": "2.1"
+    },
+    {
+      "reference": "2.1.3",
+      "label": "Adhyāya 2, Brāhmaṇa 1 §3",
+      "chapterRef": "2.1"
+    },
+    {
+      "reference": "2.1.4",
+      "label": "Adhyāya 2, Brāhmaṇa 1 §4",
+      "chapterRef": "2.1"
+    },
+    {
+      "reference": "2.1.5",
+      "label": "Adhyāya 2, Brāhmaṇa 1 §5",
+      "chapterRef": "2.1"
+    },
+    {
+      "reference": "2.1.6",
+      "label": "Adhyāya 2, Brāhmaṇa 1 §6",
+      "chapterRef": "2.1"
+    },
+    {
+      "reference": "2.1.7",
+      "label": "Adhyāya 2, Brāhmaṇa 1 §7",
+      "chapterRef": "2.1"
+    },
+    {
+      "reference": "2.1.8",
+      "label": "Adhyāya 2, Brāhmaṇa 1 §8",
+      "chapterRef": "2.1"
+    },
+    {
+      "reference": "2.1.9",
+      "label": "Adhyāya 2, Brāhmaṇa 1 §9",
+      "chapterRef": "2.1"
+    },
+    {
+      "reference": "2.1.10",
+      "label": "Adhyāya 2, Brāhmaṇa 1 §10",
+      "chapterRef": "2.1"
+    },
+    {
+      "reference": "2.1.11",
+      "label": "Adhyāya 2, Brāhmaṇa 1 §11",
+      "chapterRef": "2.1"
+    },
+    {
+      "reference": "2.1.12",
+      "label": "Adhyāya 2, Brāhmaṇa 1 §12",
+      "chapterRef": "2.1"
+    },
+    {
+      "reference": "2.1.13",
+      "label": "Adhyāya 2, Brāhmaṇa 1 §13",
+      "chapterRef": "2.1"
+    },
+    {
+      "reference": "2.1.14",
+      "label": "Adhyāya 2, Brāhmaṇa 1 §14",
+      "chapterRef": "2.1"
+    },
+    {
+      "reference": "2.1.15",
+      "label": "Adhyāya 2, Brāhmaṇa 1 §15",
+      "chapterRef": "2.1"
+    },
+    {
+      "reference": "2.1.16",
+      "label": "Adhyāya 2, Brāhmaṇa 1 §16",
+      "chapterRef": "2.1"
+    },
+    {
+      "reference": "2.1.17",
+      "label": "Adhyāya 2, Brāhmaṇa 1 §17",
+      "chapterRef": "2.1"
+    },
+    {
+      "reference": "2.1.18",
+      "label": "Adhyāya 2, Brāhmaṇa 1 §18",
+      "chapterRef": "2.1"
+    },
+    {
+      "reference": "2.1.19",
+      "label": "Adhyāya 2, Brāhmaṇa 1 §19",
+      "chapterRef": "2.1"
+    },
+    {
+      "reference": "2.1.20",
+      "label": "Adhyāya 2, Brāhmaṇa 1 §20",
+      "chapterRef": "2.1"
+    },
+    {
+      "reference": "2.2.1",
+      "label": "Adhyāya 2, Brāhmaṇa 2 §1",
+      "chapterRef": "2.2"
+    },
+    {
+      "reference": "2.2.2",
+      "label": "Adhyāya 2, Brāhmaṇa 2 §2",
+      "chapterRef": "2.2"
+    },
+    {
+      "reference": "2.2.3",
+      "label": "Adhyāya 2, Brāhmaṇa 2 §3",
+      "chapterRef": "2.2"
+    },
+    {
+      "reference": "2.2.4",
+      "label": "Adhyāya 2, Brāhmaṇa 2 §4",
+      "chapterRef": "2.2"
+    },
+    {
+      "reference": "2.3.1",
+      "label": "Adhyāya 2, Brāhmaṇa 3 §1",
+      "chapterRef": "2.3"
+    },
+    {
+      "reference": "2.3.2",
+      "label": "Adhyāya 2, Brāhmaṇa 3 §2",
+      "chapterRef": "2.3"
+    },
+    {
+      "reference": "2.3.3",
+      "label": "Adhyāya 2, Brāhmaṇa 3 §3",
+      "chapterRef": "2.3"
+    },
+    {
+      "reference": "2.3.4",
+      "label": "Adhyāya 2, Brāhmaṇa 3 §4",
+      "chapterRef": "2.3"
+    },
+    {
+      "reference": "2.3.5",
+      "label": "Adhyāya 2, Brāhmaṇa 3 §5",
+      "chapterRef": "2.3"
+    },
+    {
+      "reference": "2.3.6",
+      "label": "Adhyāya 2, Brāhmaṇa 3 §6",
+      "chapterRef": "2.3"
+    },
+    {
+      "reference": "2.4.1",
+      "label": "Adhyāya 2, Brāhmaṇa 4 §1",
+      "chapterRef": "2.4"
+    },
+    {
+      "reference": "2.4.2",
+      "label": "Adhyāya 2, Brāhmaṇa 4 §2",
+      "chapterRef": "2.4"
+    },
+    {
+      "reference": "2.4.3",
+      "label": "Adhyāya 2, Brāhmaṇa 4 §3",
+      "chapterRef": "2.4"
+    },
+    {
+      "reference": "2.4.4",
+      "label": "Adhyāya 2, Brāhmaṇa 4 §4",
+      "chapterRef": "2.4"
+    },
+    {
+      "reference": "2.4.5",
+      "label": "Adhyāya 2, Brāhmaṇa 4 §5",
+      "chapterRef": "2.4"
+    },
+    {
+      "reference": "2.4.6",
+      "label": "Adhyāya 2, Brāhmaṇa 4 §6",
+      "chapterRef": "2.4"
+    },
+    {
+      "reference": "2.4.7",
+      "label": "Adhyāya 2, Brāhmaṇa 4 §7",
+      "chapterRef": "2.4"
+    },
+    {
+      "reference": "2.4.8",
+      "label": "Adhyāya 2, Brāhmaṇa 4 §8",
+      "chapterRef": "2.4"
+    },
+    {
+      "reference": "2.4.9",
+      "label": "Adhyāya 2, Brāhmaṇa 4 §9",
+      "chapterRef": "2.4"
+    },
+    {
+      "reference": "2.4.10",
+      "label": "Adhyāya 2, Brāhmaṇa 4 §10",
+      "chapterRef": "2.4"
+    },
+    {
+      "reference": "2.4.11",
+      "label": "Adhyāya 2, Brāhmaṇa 4 §11",
+      "chapterRef": "2.4"
+    },
+    {
+      "reference": "2.4.12",
+      "label": "Adhyāya 2, Brāhmaṇa 4 §12",
+      "chapterRef": "2.4"
+    },
+    {
+      "reference": "2.4.13",
+      "label": "Adhyāya 2, Brāhmaṇa 4 §13",
+      "chapterRef": "2.4"
+    },
+    {
+      "reference": "2.4.14",
+      "label": "Adhyāya 2, Brāhmaṇa 4 §14",
+      "chapterRef": "2.4"
+    },
+    {
+      "reference": "2.5.1",
+      "label": "Adhyāya 2, Brāhmaṇa 5 §1",
+      "chapterRef": "2.5"
+    },
+    {
+      "reference": "2.5.2",
+      "label": "Adhyāya 2, Brāhmaṇa 5 §2",
+      "chapterRef": "2.5"
+    },
+    {
+      "reference": "2.5.3",
+      "label": "Adhyāya 2, Brāhmaṇa 5 §3",
+      "chapterRef": "2.5"
+    },
+    {
+      "reference": "2.5.4",
+      "label": "Adhyāya 2, Brāhmaṇa 5 §4",
+      "chapterRef": "2.5"
+    },
+    {
+      "reference": "2.5.5",
+      "label": "Adhyāya 2, Brāhmaṇa 5 §5",
+      "chapterRef": "2.5"
+    },
+    {
+      "reference": "2.5.6",
+      "label": "Adhyāya 2, Brāhmaṇa 5 §6",
+      "chapterRef": "2.5"
+    },
+    {
+      "reference": "2.5.7",
+      "label": "Adhyāya 2, Brāhmaṇa 5 §7",
+      "chapterRef": "2.5"
+    },
+    {
+      "reference": "2.5.8",
+      "label": "Adhyāya 2, Brāhmaṇa 5 §8",
+      "chapterRef": "2.5"
+    },
+    {
+      "reference": "2.5.9",
+      "label": "Adhyāya 2, Brāhmaṇa 5 §9",
+      "chapterRef": "2.5"
+    },
+    {
+      "reference": "2.5.10",
+      "label": "Adhyāya 2, Brāhmaṇa 5 §10",
+      "chapterRef": "2.5"
+    },
+    {
+      "reference": "2.5.11",
+      "label": "Adhyāya 2, Brāhmaṇa 5 §11",
+      "chapterRef": "2.5"
+    },
+    {
+      "reference": "2.5.12",
+      "label": "Adhyāya 2, Brāhmaṇa 5 §12",
+      "chapterRef": "2.5"
+    },
+    {
+      "reference": "2.5.13",
+      "label": "Adhyāya 2, Brāhmaṇa 5 §13",
+      "chapterRef": "2.5"
+    },
+    {
+      "reference": "2.5.14",
+      "label": "Adhyāya 2, Brāhmaṇa 5 §14",
+      "chapterRef": "2.5"
+    },
+    {
+      "reference": "2.5.15",
+      "label": "Adhyāya 2, Brāhmaṇa 5 §15",
+      "chapterRef": "2.5"
+    },
+    {
+      "reference": "2.5.16",
+      "label": "Adhyāya 2, Brāhmaṇa 5 §16",
+      "chapterRef": "2.5"
+    },
+    {
+      "reference": "2.5.17",
+      "label": "Adhyāya 2, Brāhmaṇa 5 §17",
+      "chapterRef": "2.5"
+    },
+    {
+      "reference": "2.5.18",
+      "label": "Adhyāya 2, Brāhmaṇa 5 §18",
+      "chapterRef": "2.5"
+    },
+    {
+      "reference": "2.5.19",
+      "label": "Adhyāya 2, Brāhmaṇa 5 §19",
+      "chapterRef": "2.5"
+    },
+    {
+      "reference": "2.6.1",
+      "label": "Adhyāya 2, Brāhmaṇa 6 §1",
+      "chapterRef": "2.6"
+    },
+    {
+      "reference": "2.6.2",
+      "label": "Adhyāya 2, Brāhmaṇa 6 §2",
+      "chapterRef": "2.6"
+    },
+    {
+      "reference": "2.6.3",
+      "label": "Adhyāya 2, Brāhmaṇa 6 §3",
+      "chapterRef": "2.6"
+    },
+    {
+      "reference": "3.1.1",
+      "label": "Adhyāya 3, Brāhmaṇa 1 §1",
+      "chapterRef": "3.1"
+    },
+    {
+      "reference": "3.1.2",
+      "label": "Adhyāya 3, Brāhmaṇa 1 §2",
+      "chapterRef": "3.1"
+    },
+    {
+      "reference": "3.1.3",
+      "label": "Adhyāya 3, Brāhmaṇa 1 §3",
+      "chapterRef": "3.1"
+    },
+    {
+      "reference": "3.1.4",
+      "label": "Adhyāya 3, Brāhmaṇa 1 §4",
+      "chapterRef": "3.1"
+    },
+    {
+      "reference": "3.1.5",
+      "label": "Adhyāya 3, Brāhmaṇa 1 §5",
+      "chapterRef": "3.1"
+    },
+    {
+      "reference": "3.1.6",
+      "label": "Adhyāya 3, Brāhmaṇa 1 §6",
+      "chapterRef": "3.1"
+    },
+    {
+      "reference": "3.1.7",
+      "label": "Adhyāya 3, Brāhmaṇa 1 §7",
+      "chapterRef": "3.1"
+    },
+    {
+      "reference": "3.1.8",
+      "label": "Adhyāya 3, Brāhmaṇa 1 §8",
+      "chapterRef": "3.1"
+    },
+    {
+      "reference": "3.1.9",
+      "label": "Adhyāya 3, Brāhmaṇa 1 §9",
+      "chapterRef": "3.1"
+    },
+    {
+      "reference": "3.1.10",
+      "label": "Adhyāya 3, Brāhmaṇa 1 §10",
+      "chapterRef": "3.1"
+    },
+    {
+      "reference": "3.2.1",
+      "label": "Adhyāya 3, Brāhmaṇa 2 §1",
+      "chapterRef": "3.2"
+    },
+    {
+      "reference": "3.2.2",
+      "label": "Adhyāya 3, Brāhmaṇa 2 §2",
+      "chapterRef": "3.2"
+    },
+    {
+      "reference": "3.2.3",
+      "label": "Adhyāya 3, Brāhmaṇa 2 §3",
+      "chapterRef": "3.2"
+    },
+    {
+      "reference": "3.2.4",
+      "label": "Adhyāya 3, Brāhmaṇa 2 §4",
+      "chapterRef": "3.2"
+    },
+    {
+      "reference": "3.2.5",
+      "label": "Adhyāya 3, Brāhmaṇa 2 §5",
+      "chapterRef": "3.2"
+    },
+    {
+      "reference": "3.2.6",
+      "label": "Adhyāya 3, Brāhmaṇa 2 §6",
+      "chapterRef": "3.2"
+    },
+    {
+      "reference": "3.2.7",
+      "label": "Adhyāya 3, Brāhmaṇa 2 §7",
+      "chapterRef": "3.2"
+    },
+    {
+      "reference": "3.2.8",
+      "label": "Adhyāya 3, Brāhmaṇa 2 §8",
+      "chapterRef": "3.2"
+    },
+    {
+      "reference": "3.2.9",
+      "label": "Adhyāya 3, Brāhmaṇa 2 §9",
+      "chapterRef": "3.2"
+    },
+    {
+      "reference": "3.2.10",
+      "label": "Adhyāya 3, Brāhmaṇa 2 §10",
+      "chapterRef": "3.2"
+    },
+    {
+      "reference": "3.2.11",
+      "label": "Adhyāya 3, Brāhmaṇa 2 §11",
+      "chapterRef": "3.2"
+    },
+    {
+      "reference": "3.2.12",
+      "label": "Adhyāya 3, Brāhmaṇa 2 §12",
+      "chapterRef": "3.2"
+    },
+    {
+      "reference": "3.2.13",
+      "label": "Adhyāya 3, Brāhmaṇa 2 §13",
+      "chapterRef": "3.2"
+    },
+    {
+      "reference": "3.3.1",
+      "label": "Adhyāya 3, Brāhmaṇa 3 §1",
+      "chapterRef": "3.3"
+    },
+    {
+      "reference": "3.3.2",
+      "label": "Adhyāya 3, Brāhmaṇa 3 §2",
+      "chapterRef": "3.3"
+    },
+    {
+      "reference": "3.4.1",
+      "label": "Adhyāya 3, Brāhmaṇa 4 §1",
+      "chapterRef": "3.4"
+    },
+    {
+      "reference": "3.4.2",
+      "label": "Adhyāya 3, Brāhmaṇa 4 §2",
+      "chapterRef": "3.4"
+    },
+    {
+      "reference": "3.5.1",
+      "label": "Adhyāya 3, Brāhmaṇa 5 §1",
+      "chapterRef": "3.5"
+    },
+    {
+      "reference": "3.6.1",
+      "label": "Adhyāya 3, Brāhmaṇa 6 §1",
+      "chapterRef": "3.6"
+    },
+    {
+      "reference": "3.7.1",
+      "label": "Adhyāya 3, Brāhmaṇa 7 §1",
+      "chapterRef": "3.7"
+    },
+    {
+      "reference": "3.7.2",
+      "label": "Adhyāya 3, Brāhmaṇa 7 §2",
+      "chapterRef": "3.7"
+    },
+    {
+      "reference": "3.7.3",
+      "label": "Adhyāya 3, Brāhmaṇa 7 §3",
+      "chapterRef": "3.7"
+    },
+    {
+      "reference": "3.7.4",
+      "label": "Adhyāya 3, Brāhmaṇa 7 §4",
+      "chapterRef": "3.7"
+    },
+    {
+      "reference": "3.7.5",
+      "label": "Adhyāya 3, Brāhmaṇa 7 §5",
+      "chapterRef": "3.7"
+    },
+    {
+      "reference": "3.7.6",
+      "label": "Adhyāya 3, Brāhmaṇa 7 §6",
+      "chapterRef": "3.7"
+    },
+    {
+      "reference": "3.7.7",
+      "label": "Adhyāya 3, Brāhmaṇa 7 §7",
+      "chapterRef": "3.7"
+    },
+    {
+      "reference": "3.7.8",
+      "label": "Adhyāya 3, Brāhmaṇa 7 §8",
+      "chapterRef": "3.7"
+    },
+    {
+      "reference": "3.7.9",
+      "label": "Adhyāya 3, Brāhmaṇa 7 §9",
+      "chapterRef": "3.7"
+    },
+    {
+      "reference": "3.7.10",
+      "label": "Adhyāya 3, Brāhmaṇa 7 §10",
+      "chapterRef": "3.7"
+    },
+    {
+      "reference": "3.7.11",
+      "label": "Adhyāya 3, Brāhmaṇa 7 §11",
+      "chapterRef": "3.7"
+    },
+    {
+      "reference": "3.7.12",
+      "label": "Adhyāya 3, Brāhmaṇa 7 §12",
+      "chapterRef": "3.7"
+    },
+    {
+      "reference": "3.7.13",
+      "label": "Adhyāya 3, Brāhmaṇa 7 §13",
+      "chapterRef": "3.7"
+    },
+    {
+      "reference": "3.7.14",
+      "label": "Adhyāya 3, Brāhmaṇa 7 §14",
+      "chapterRef": "3.7"
+    },
+    {
+      "reference": "3.7.15",
+      "label": "Adhyāya 3, Brāhmaṇa 7 §15",
+      "chapterRef": "3.7"
+    },
+    {
+      "reference": "3.7.16",
+      "label": "Adhyāya 3, Brāhmaṇa 7 §16",
+      "chapterRef": "3.7"
+    },
+    {
+      "reference": "3.7.17",
+      "label": "Adhyāya 3, Brāhmaṇa 7 §17",
+      "chapterRef": "3.7"
+    },
+    {
+      "reference": "3.7.18",
+      "label": "Adhyāya 3, Brāhmaṇa 7 §18",
+      "chapterRef": "3.7"
+    },
+    {
+      "reference": "3.7.19",
+      "label": "Adhyāya 3, Brāhmaṇa 7 §19",
+      "chapterRef": "3.7"
+    },
+    {
+      "reference": "3.7.20",
+      "label": "Adhyāya 3, Brāhmaṇa 7 §20",
+      "chapterRef": "3.7"
+    },
+    {
+      "reference": "3.7.21",
+      "label": "Adhyāya 3, Brāhmaṇa 7 §21",
+      "chapterRef": "3.7"
+    },
+    {
+      "reference": "3.7.22",
+      "label": "Adhyāya 3, Brāhmaṇa 7 §22",
+      "chapterRef": "3.7"
+    },
+    {
+      "reference": "3.7.23",
+      "label": "Adhyāya 3, Brāhmaṇa 7 §23",
+      "chapterRef": "3.7"
+    },
+    {
+      "reference": "3.8.1",
+      "label": "Adhyāya 3, Brāhmaṇa 8 §1",
+      "chapterRef": "3.8"
+    },
+    {
+      "reference": "3.8.2",
+      "label": "Adhyāya 3, Brāhmaṇa 8 §2",
+      "chapterRef": "3.8"
+    },
+    {
+      "reference": "3.8.3",
+      "label": "Adhyāya 3, Brāhmaṇa 8 §3",
+      "chapterRef": "3.8"
+    },
+    {
+      "reference": "3.8.4",
+      "label": "Adhyāya 3, Brāhmaṇa 8 §4",
+      "chapterRef": "3.8"
+    },
+    {
+      "reference": "3.8.5",
+      "label": "Adhyāya 3, Brāhmaṇa 8 §5",
+      "chapterRef": "3.8"
+    },
+    {
+      "reference": "3.8.6",
+      "label": "Adhyāya 3, Brāhmaṇa 8 §6",
+      "chapterRef": "3.8"
+    },
+    {
+      "reference": "3.8.7",
+      "label": "Adhyāya 3, Brāhmaṇa 8 §7",
+      "chapterRef": "3.8"
+    },
+    {
+      "reference": "3.8.8",
+      "label": "Adhyāya 3, Brāhmaṇa 8 §8",
+      "chapterRef": "3.8"
+    },
+    {
+      "reference": "3.8.9",
+      "label": "Adhyāya 3, Brāhmaṇa 8 §9",
+      "chapterRef": "3.8"
+    },
+    {
+      "reference": "3.8.10",
+      "label": "Adhyāya 3, Brāhmaṇa 8 §10",
+      "chapterRef": "3.8"
+    },
+    {
+      "reference": "3.8.11",
+      "label": "Adhyāya 3, Brāhmaṇa 8 §11",
+      "chapterRef": "3.8"
+    },
+    {
+      "reference": "3.8.12",
+      "label": "Adhyāya 3, Brāhmaṇa 8 §12",
+      "chapterRef": "3.8"
+    },
+    {
+      "reference": "3.9.1",
+      "label": "Adhyāya 3, Brāhmaṇa 9 §1",
+      "chapterRef": "3.9"
+    },
+    {
+      "reference": "3.9.2",
+      "label": "Adhyāya 3, Brāhmaṇa 9 §2",
+      "chapterRef": "3.9"
+    },
+    {
+      "reference": "3.9.3",
+      "label": "Adhyāya 3, Brāhmaṇa 9 §3",
+      "chapterRef": "3.9"
+    },
+    {
+      "reference": "3.9.4",
+      "label": "Adhyāya 3, Brāhmaṇa 9 §4",
+      "chapterRef": "3.9"
+    },
+    {
+      "reference": "3.9.5",
+      "label": "Adhyāya 3, Brāhmaṇa 9 §5",
+      "chapterRef": "3.9"
+    },
+    {
+      "reference": "3.9.6",
+      "label": "Adhyāya 3, Brāhmaṇa 9 §6",
+      "chapterRef": "3.9"
+    },
+    {
+      "reference": "3.9.7",
+      "label": "Adhyāya 3, Brāhmaṇa 9 §7",
+      "chapterRef": "3.9"
+    },
+    {
+      "reference": "3.9.8",
+      "label": "Adhyāya 3, Brāhmaṇa 9 §8",
+      "chapterRef": "3.9"
+    },
+    {
+      "reference": "3.9.9",
+      "label": "Adhyāya 3, Brāhmaṇa 9 §9",
+      "chapterRef": "3.9"
+    },
+    {
+      "reference": "3.9.10",
+      "label": "Adhyāya 3, Brāhmaṇa 9 §10",
+      "chapterRef": "3.9"
+    },
+    {
+      "reference": "3.9.11",
+      "label": "Adhyāya 3, Brāhmaṇa 9 §11",
+      "chapterRef": "3.9"
+    },
+    {
+      "reference": "3.9.12",
+      "label": "Adhyāya 3, Brāhmaṇa 9 §12",
+      "chapterRef": "3.9"
+    },
+    {
+      "reference": "3.9.13",
+      "label": "Adhyāya 3, Brāhmaṇa 9 §13",
+      "chapterRef": "3.9"
+    },
+    {
+      "reference": "3.9.14",
+      "label": "Adhyāya 3, Brāhmaṇa 9 §14",
+      "chapterRef": "3.9"
+    },
+    {
+      "reference": "3.9.15",
+      "label": "Adhyāya 3, Brāhmaṇa 9 §15",
+      "chapterRef": "3.9"
+    },
+    {
+      "reference": "3.9.16",
+      "label": "Adhyāya 3, Brāhmaṇa 9 §16",
+      "chapterRef": "3.9"
+    },
+    {
+      "reference": "3.9.17",
+      "label": "Adhyāya 3, Brāhmaṇa 9 §17",
+      "chapterRef": "3.9"
+    },
+    {
+      "reference": "3.9.18",
+      "label": "Adhyāya 3, Brāhmaṇa 9 §18",
+      "chapterRef": "3.9"
+    },
+    {
+      "reference": "3.9.19",
+      "label": "Adhyāya 3, Brāhmaṇa 9 §19",
+      "chapterRef": "3.9"
+    },
+    {
+      "reference": "3.9.20",
+      "label": "Adhyāya 3, Brāhmaṇa 9 §20",
+      "chapterRef": "3.9"
+    },
+    {
+      "reference": "3.9.21",
+      "label": "Adhyāya 3, Brāhmaṇa 9 §21",
+      "chapterRef": "3.9"
+    },
+    {
+      "reference": "3.9.22",
+      "label": "Adhyāya 3, Brāhmaṇa 9 §22",
+      "chapterRef": "3.9"
+    },
+    {
+      "reference": "3.9.23",
+      "label": "Adhyāya 3, Brāhmaṇa 9 §23",
+      "chapterRef": "3.9"
+    },
+    {
+      "reference": "3.9.24",
+      "label": "Adhyāya 3, Brāhmaṇa 9 §24",
+      "chapterRef": "3.9"
+    },
+    {
+      "reference": "3.9.25",
+      "label": "Adhyāya 3, Brāhmaṇa 9 §25",
+      "chapterRef": "3.9"
+    },
+    {
+      "reference": "3.9.26",
+      "label": "Adhyāya 3, Brāhmaṇa 9 §26",
+      "chapterRef": "3.9"
+    },
+    {
+      "reference": "3.9.27",
+      "label": "Adhyāya 3, Brāhmaṇa 9 §27",
+      "chapterRef": "3.9"
+    },
+    {
+      "reference": "3.9.28",
+      "label": "Adhyāya 3, Brāhmaṇa 9 §28",
+      "chapterRef": "3.9"
+    },
+    {
+      "reference": "3.9.28#2",
+      "label": "Adhyāya 3, Brāhmaṇa 9 §28",
+      "chapterRef": "3.9"
+    },
+    {
+      "reference": "3.9.28#3",
+      "label": "Adhyāya 3, Brāhmaṇa 9 §28",
+      "chapterRef": "3.9"
+    },
+    {
+      "reference": "3.9.28#4",
+      "label": "Adhyāya 3, Brāhmaṇa 9 §28",
+      "chapterRef": "3.9"
+    },
+    {
+      "reference": "3.9.28#5",
+      "label": "Adhyāya 3, Brāhmaṇa 9 §28",
+      "chapterRef": "3.9"
+    },
+    {
+      "reference": "3.9.28#6",
+      "label": "Adhyāya 3, Brāhmaṇa 9 §28",
+      "chapterRef": "3.9"
+    },
+    {
+      "reference": "3.9.28#7",
+      "label": "Adhyāya 3, Brāhmaṇa 9 §28",
+      "chapterRef": "3.9"
+    },
+    {
+      "reference": "3.9.28#8",
+      "label": "Adhyāya 3, Brāhmaṇa 9 §28",
+      "chapterRef": "3.9"
+    },
+    {
+      "reference": "4.1.1",
+      "label": "Adhyāya 4, Brāhmaṇa 1 §1",
+      "chapterRef": "4.1"
+    },
+    {
+      "reference": "4.1.2",
+      "label": "Adhyāya 4, Brāhmaṇa 1 §2",
+      "chapterRef": "4.1"
+    },
+    {
+      "reference": "4.1.3",
+      "label": "Adhyāya 4, Brāhmaṇa 1 §3",
+      "chapterRef": "4.1"
+    },
+    {
+      "reference": "4.1.4",
+      "label": "Adhyāya 4, Brāhmaṇa 1 §4",
+      "chapterRef": "4.1"
+    },
+    {
+      "reference": "4.1.5",
+      "label": "Adhyāya 4, Brāhmaṇa 1 §5",
+      "chapterRef": "4.1"
+    },
+    {
+      "reference": "4.1.6",
+      "label": "Adhyāya 4, Brāhmaṇa 1 §6",
+      "chapterRef": "4.1"
+    },
+    {
+      "reference": "4.1.7",
+      "label": "Adhyāya 4, Brāhmaṇa 1 §7",
+      "chapterRef": "4.1"
+    },
+    {
+      "reference": "4.2.1",
+      "label": "Adhyāya 4, Brāhmaṇa 2 §1",
+      "chapterRef": "4.2"
+    },
+    {
+      "reference": "4.2.2",
+      "label": "Adhyāya 4, Brāhmaṇa 2 §2",
+      "chapterRef": "4.2"
+    },
+    {
+      "reference": "4.2.3",
+      "label": "Adhyāya 4, Brāhmaṇa 2 §3",
+      "chapterRef": "4.2"
+    },
+    {
+      "reference": "4.2.4",
+      "label": "Adhyāya 4, Brāhmaṇa 2 §4",
+      "chapterRef": "4.2"
+    },
+    {
+      "reference": "4.3.1",
+      "label": "Adhyāya 4, Brāhmaṇa 3 §1",
+      "chapterRef": "4.3"
+    },
+    {
+      "reference": "4.3.2",
+      "label": "Adhyāya 4, Brāhmaṇa 3 §2",
+      "chapterRef": "4.3"
+    },
+    {
+      "reference": "4.3.3",
+      "label": "Adhyāya 4, Brāhmaṇa 3 §3",
+      "chapterRef": "4.3"
+    },
+    {
+      "reference": "4.3.4",
+      "label": "Adhyāya 4, Brāhmaṇa 3 §4",
+      "chapterRef": "4.3"
+    },
+    {
+      "reference": "4.3.5",
+      "label": "Adhyāya 4, Brāhmaṇa 3 §5",
+      "chapterRef": "4.3"
+    },
+    {
+      "reference": "4.3.6",
+      "label": "Adhyāya 4, Brāhmaṇa 3 §6",
+      "chapterRef": "4.3"
+    },
+    {
+      "reference": "4.3.7",
+      "label": "Adhyāya 4, Brāhmaṇa 3 §7",
+      "chapterRef": "4.3"
+    },
+    {
+      "reference": "4.3.8",
+      "label": "Adhyāya 4, Brāhmaṇa 3 §8",
+      "chapterRef": "4.3"
+    },
+    {
+      "reference": "4.3.9",
+      "label": "Adhyāya 4, Brāhmaṇa 3 §9",
+      "chapterRef": "4.3"
+    },
+    {
+      "reference": "4.3.10",
+      "label": "Adhyāya 4, Brāhmaṇa 3 §10",
+      "chapterRef": "4.3"
+    },
+    {
+      "reference": "4.3.11",
+      "label": "Adhyāya 4, Brāhmaṇa 3 §11",
+      "chapterRef": "4.3"
+    },
+    {
+      "reference": "4.3.12",
+      "label": "Adhyāya 4, Brāhmaṇa 3 §12",
+      "chapterRef": "4.3"
+    },
+    {
+      "reference": "4.3.13",
+      "label": "Adhyāya 4, Brāhmaṇa 3 §13",
+      "chapterRef": "4.3"
+    },
+    {
+      "reference": "4.3.14",
+      "label": "Adhyāya 4, Brāhmaṇa 3 §14",
+      "chapterRef": "4.3"
+    },
+    {
+      "reference": "4.3.15",
+      "label": "Adhyāya 4, Brāhmaṇa 3 §15",
+      "chapterRef": "4.3"
+    },
+    {
+      "reference": "4.3.16",
+      "label": "Adhyāya 4, Brāhmaṇa 3 §16",
+      "chapterRef": "4.3"
+    },
+    {
+      "reference": "4.3.17",
+      "label": "Adhyāya 4, Brāhmaṇa 3 §17",
+      "chapterRef": "4.3"
+    },
+    {
+      "reference": "4.3.18",
+      "label": "Adhyāya 4, Brāhmaṇa 3 §18",
+      "chapterRef": "4.3"
+    },
+    {
+      "reference": "4.3.19",
+      "label": "Adhyāya 4, Brāhmaṇa 3 §19",
+      "chapterRef": "4.3"
+    },
+    {
+      "reference": "4.3.20",
+      "label": "Adhyāya 4, Brāhmaṇa 3 §20",
+      "chapterRef": "4.3"
+    },
+    {
+      "reference": "4.3.21",
+      "label": "Adhyāya 4, Brāhmaṇa 3 §21",
+      "chapterRef": "4.3"
+    },
+    {
+      "reference": "4.3.22",
+      "label": "Adhyāya 4, Brāhmaṇa 3 §22",
+      "chapterRef": "4.3"
+    },
+    {
+      "reference": "4.3.23",
+      "label": "Adhyāya 4, Brāhmaṇa 3 §23",
+      "chapterRef": "4.3"
+    },
+    {
+      "reference": "4.3.24",
+      "label": "Adhyāya 4, Brāhmaṇa 3 §24",
+      "chapterRef": "4.3"
+    },
+    {
+      "reference": "4.3.25",
+      "label": "Adhyāya 4, Brāhmaṇa 3 §25",
+      "chapterRef": "4.3"
+    },
+    {
+      "reference": "4.3.26",
+      "label": "Adhyāya 4, Brāhmaṇa 3 §26",
+      "chapterRef": "4.3"
+    },
+    {
+      "reference": "4.3.27",
+      "label": "Adhyāya 4, Brāhmaṇa 3 §27",
+      "chapterRef": "4.3"
+    },
+    {
+      "reference": "4.3.28",
+      "label": "Adhyāya 4, Brāhmaṇa 3 §28",
+      "chapterRef": "4.3"
+    },
+    {
+      "reference": "4.3.29",
+      "label": "Adhyāya 4, Brāhmaṇa 3 §29",
+      "chapterRef": "4.3"
+    },
+    {
+      "reference": "4.3.30",
+      "label": "Adhyāya 4, Brāhmaṇa 3 §30",
+      "chapterRef": "4.3"
+    },
+    {
+      "reference": "4.3.31",
+      "label": "Adhyāya 4, Brāhmaṇa 3 §31",
+      "chapterRef": "4.3"
+    },
+    {
+      "reference": "4.3.32",
+      "label": "Adhyāya 4, Brāhmaṇa 3 §32",
+      "chapterRef": "4.3"
+    },
+    {
+      "reference": "4.3.33",
+      "label": "Adhyāya 4, Brāhmaṇa 3 §33",
+      "chapterRef": "4.3"
+    },
+    {
+      "reference": "4.3.34",
+      "label": "Adhyāya 4, Brāhmaṇa 3 §34",
+      "chapterRef": "4.3"
+    },
+    {
+      "reference": "4.3.35",
+      "label": "Adhyāya 4, Brāhmaṇa 3 §35",
+      "chapterRef": "4.3"
+    },
+    {
+      "reference": "4.3.36",
+      "label": "Adhyāya 4, Brāhmaṇa 3 §36",
+      "chapterRef": "4.3"
+    },
+    {
+      "reference": "4.3.37",
+      "label": "Adhyāya 4, Brāhmaṇa 3 §37",
+      "chapterRef": "4.3"
+    },
+    {
+      "reference": "4.3.38",
+      "label": "Adhyāya 4, Brāhmaṇa 3 §38",
+      "chapterRef": "4.3"
+    },
+    {
+      "reference": "4.4.1",
+      "label": "Adhyāya 4, Brāhmaṇa 4 §1",
+      "chapterRef": "4.4"
+    },
+    {
+      "reference": "4.4.2",
+      "label": "Adhyāya 4, Brāhmaṇa 4 §2",
+      "chapterRef": "4.4"
+    },
+    {
+      "reference": "4.4.3",
+      "label": "Adhyāya 4, Brāhmaṇa 4 §3",
+      "chapterRef": "4.4"
+    },
+    {
+      "reference": "4.4.4",
+      "label": "Adhyāya 4, Brāhmaṇa 4 §4",
+      "chapterRef": "4.4"
+    },
+    {
+      "reference": "4.4.5",
+      "label": "Adhyāya 4, Brāhmaṇa 4 §5",
+      "chapterRef": "4.4"
+    },
+    {
+      "reference": "4.4.6",
+      "label": "Adhyāya 4, Brāhmaṇa 4 §6",
+      "chapterRef": "4.4"
+    },
+    {
+      "reference": "4.4.7",
+      "label": "Adhyāya 4, Brāhmaṇa 4 §7",
+      "chapterRef": "4.4"
+    },
+    {
+      "reference": "4.4.8",
+      "label": "Adhyāya 4, Brāhmaṇa 4 §8",
+      "chapterRef": "4.4"
+    },
+    {
+      "reference": "4.4.9",
+      "label": "Adhyāya 4, Brāhmaṇa 4 §9",
+      "chapterRef": "4.4"
+    },
+    {
+      "reference": "4.4.10",
+      "label": "Adhyāya 4, Brāhmaṇa 4 §10",
+      "chapterRef": "4.4"
+    },
+    {
+      "reference": "4.4.11",
+      "label": "Adhyāya 4, Brāhmaṇa 4 §11",
+      "chapterRef": "4.4"
+    },
+    {
+      "reference": "4.4.12",
+      "label": "Adhyāya 4, Brāhmaṇa 4 §12",
+      "chapterRef": "4.4"
+    },
+    {
+      "reference": "4.4.13",
+      "label": "Adhyāya 4, Brāhmaṇa 4 §13",
+      "chapterRef": "4.4"
+    },
+    {
+      "reference": "4.4.14",
+      "label": "Adhyāya 4, Brāhmaṇa 4 §14",
+      "chapterRef": "4.4"
+    },
+    {
+      "reference": "4.4.15",
+      "label": "Adhyāya 4, Brāhmaṇa 4 §15",
+      "chapterRef": "4.4"
+    },
+    {
+      "reference": "4.4.16",
+      "label": "Adhyāya 4, Brāhmaṇa 4 §16",
+      "chapterRef": "4.4"
+    },
+    {
+      "reference": "4.4.17",
+      "label": "Adhyāya 4, Brāhmaṇa 4 §17",
+      "chapterRef": "4.4"
+    },
+    {
+      "reference": "4.4.18",
+      "label": "Adhyāya 4, Brāhmaṇa 4 §18",
+      "chapterRef": "4.4"
+    },
+    {
+      "reference": "4.4.19",
+      "label": "Adhyāya 4, Brāhmaṇa 4 §19",
+      "chapterRef": "4.4"
+    },
+    {
+      "reference": "4.4.20",
+      "label": "Adhyāya 4, Brāhmaṇa 4 §20",
+      "chapterRef": "4.4"
+    },
+    {
+      "reference": "4.4.21",
+      "label": "Adhyāya 4, Brāhmaṇa 4 §21",
+      "chapterRef": "4.4"
+    },
+    {
+      "reference": "4.4.22",
+      "label": "Adhyāya 4, Brāhmaṇa 4 §22",
+      "chapterRef": "4.4"
+    },
+    {
+      "reference": "4.4.23",
+      "label": "Adhyāya 4, Brāhmaṇa 4 §23",
+      "chapterRef": "4.4"
+    },
+    {
+      "reference": "4.4.24",
+      "label": "Adhyāya 4, Brāhmaṇa 4 §24",
+      "chapterRef": "4.4"
+    },
+    {
+      "reference": "4.4.25",
+      "label": "Adhyāya 4, Brāhmaṇa 4 §25",
+      "chapterRef": "4.4"
+    },
+    {
+      "reference": "4.5.1",
+      "label": "Adhyāya 4, Brāhmaṇa 5 §1",
+      "chapterRef": "4.5"
+    },
+    {
+      "reference": "4.5.2",
+      "label": "Adhyāya 4, Brāhmaṇa 5 §2",
+      "chapterRef": "4.5"
+    },
+    {
+      "reference": "4.5.3",
+      "label": "Adhyāya 4, Brāhmaṇa 5 §3",
+      "chapterRef": "4.5"
+    },
+    {
+      "reference": "4.5.4",
+      "label": "Adhyāya 4, Brāhmaṇa 5 §4",
+      "chapterRef": "4.5"
+    },
+    {
+      "reference": "4.5.5",
+      "label": "Adhyāya 4, Brāhmaṇa 5 §5",
+      "chapterRef": "4.5"
+    },
+    {
+      "reference": "4.5.6",
+      "label": "Adhyāya 4, Brāhmaṇa 5 §6",
+      "chapterRef": "4.5"
+    },
+    {
+      "reference": "4.5.7",
+      "label": "Adhyāya 4, Brāhmaṇa 5 §7",
+      "chapterRef": "4.5"
+    },
+    {
+      "reference": "4.5.8",
+      "label": "Adhyāya 4, Brāhmaṇa 5 §8",
+      "chapterRef": "4.5"
+    },
+    {
+      "reference": "4.5.9",
+      "label": "Adhyāya 4, Brāhmaṇa 5 §9",
+      "chapterRef": "4.5"
+    },
+    {
+      "reference": "4.5.10",
+      "label": "Adhyāya 4, Brāhmaṇa 5 §10",
+      "chapterRef": "4.5"
+    },
+    {
+      "reference": "4.5.11",
+      "label": "Adhyāya 4, Brāhmaṇa 5 §11",
+      "chapterRef": "4.5"
+    },
+    {
+      "reference": "4.5.12",
+      "label": "Adhyāya 4, Brāhmaṇa 5 §12",
+      "chapterRef": "4.5"
+    },
+    {
+      "reference": "4.5.13",
+      "label": "Adhyāya 4, Brāhmaṇa 5 §13",
+      "chapterRef": "4.5"
+    },
+    {
+      "reference": "4.5.14",
+      "label": "Adhyāya 4, Brāhmaṇa 5 §14",
+      "chapterRef": "4.5"
+    },
+    {
+      "reference": "4.5.15",
+      "label": "Adhyāya 4, Brāhmaṇa 5 §15",
+      "chapterRef": "4.5"
+    },
+    {
+      "reference": "4.6.1",
+      "label": "Adhyāya 4, Brāhmaṇa 6 §1",
+      "chapterRef": "4.6"
+    },
+    {
+      "reference": "4.6.2",
+      "label": "Adhyāya 4, Brāhmaṇa 6 §2",
+      "chapterRef": "4.6"
+    },
+    {
+      "reference": "4.6.3",
+      "label": "Adhyāya 4, Brāhmaṇa 6 §3",
+      "chapterRef": "4.6"
+    },
+    {
+      "reference": "5.1.1",
+      "label": "Adhyāya 5, Brāhmaṇa 1 §1",
+      "chapterRef": "5.1"
+    },
+    {
+      "reference": "5.2.1",
+      "label": "Adhyāya 5, Brāhmaṇa 2 §1",
+      "chapterRef": "5.2"
+    },
+    {
+      "reference": "5.2.2",
+      "label": "Adhyāya 5, Brāhmaṇa 2 §2",
+      "chapterRef": "5.2"
+    },
+    {
+      "reference": "5.2.3",
+      "label": "Adhyāya 5, Brāhmaṇa 2 §3",
+      "chapterRef": "5.2"
+    },
+    {
+      "reference": "5.3.1",
+      "label": "Adhyāya 5, Brāhmaṇa 3 §1",
+      "chapterRef": "5.3"
+    },
+    {
+      "reference": "5.4.1",
+      "label": "Adhyāya 5, Brāhmaṇa 4 §1",
+      "chapterRef": "5.4"
+    },
+    {
+      "reference": "5.5.1",
+      "label": "Adhyāya 5, Brāhmaṇa 5 §1",
+      "chapterRef": "5.5"
+    },
+    {
+      "reference": "5.5.2",
+      "label": "Adhyāya 5, Brāhmaṇa 5 §2",
+      "chapterRef": "5.5"
+    },
+    {
+      "reference": "5.5.3",
+      "label": "Adhyāya 5, Brāhmaṇa 5 §3",
+      "chapterRef": "5.5"
+    },
+    {
+      "reference": "5.5.4",
+      "label": "Adhyāya 5, Brāhmaṇa 5 §4",
+      "chapterRef": "5.5"
+    },
+    {
+      "reference": "5.6.1",
+      "label": "Adhyāya 5, Brāhmaṇa 6 §1",
+      "chapterRef": "5.6"
+    },
+    {
+      "reference": "5.7.1",
+      "label": "Adhyāya 5, Brāhmaṇa 7 §1",
+      "chapterRef": "5.7"
+    },
+    {
+      "reference": "5.8.1",
+      "label": "Adhyāya 5, Brāhmaṇa 8 §1",
+      "chapterRef": "5.8"
+    },
+    {
+      "reference": "5.9.1",
+      "label": "Adhyāya 5, Brāhmaṇa 9 §1",
+      "chapterRef": "5.9"
+    },
+    {
+      "reference": "5.10.1",
+      "label": "Adhyāya 5, Brāhmaṇa 10 §1",
+      "chapterRef": "5.10"
+    },
+    {
+      "reference": "5.11.1",
+      "label": "Adhyāya 5, Brāhmaṇa 11 §1",
+      "chapterRef": "5.11"
+    },
+    {
+      "reference": "5.12.1",
+      "label": "Adhyāya 5, Brāhmaṇa 12 §1",
+      "chapterRef": "5.12"
+    },
+    {
+      "reference": "5.13.1",
+      "label": "Adhyāya 5, Brāhmaṇa 13 §1",
+      "chapterRef": "5.13"
+    },
+    {
+      "reference": "5.13.2",
+      "label": "Adhyāya 5, Brāhmaṇa 13 §2",
+      "chapterRef": "5.13"
+    },
+    {
+      "reference": "5.13.3",
+      "label": "Adhyāya 5, Brāhmaṇa 13 §3",
+      "chapterRef": "5.13"
+    },
+    {
+      "reference": "5.13.4",
+      "label": "Adhyāya 5, Brāhmaṇa 13 §4",
+      "chapterRef": "5.13"
+    },
+    {
+      "reference": "5.14.1",
+      "label": "Adhyāya 5, Brāhmaṇa 14 §1",
+      "chapterRef": "5.14"
+    },
+    {
+      "reference": "5.14.2",
+      "label": "Adhyāya 5, Brāhmaṇa 14 §2",
+      "chapterRef": "5.14"
+    },
+    {
+      "reference": "5.14.3",
+      "label": "Adhyāya 5, Brāhmaṇa 14 §3",
+      "chapterRef": "5.14"
+    },
+    {
+      "reference": "5.14.4",
+      "label": "Adhyāya 5, Brāhmaṇa 14 §4",
+      "chapterRef": "5.14"
+    },
+    {
+      "reference": "5.14.5",
+      "label": "Adhyāya 5, Brāhmaṇa 14 §5",
+      "chapterRef": "5.14"
+    },
+    {
+      "reference": "5.14.6",
+      "label": "Adhyāya 5, Brāhmaṇa 14 §6",
+      "chapterRef": "5.14"
+    },
+    {
+      "reference": "5.14.7",
+      "label": "Adhyāya 5, Brāhmaṇa 14 §7",
+      "chapterRef": "5.14"
+    },
+    {
+      "reference": "5.14.8",
+      "label": "Adhyāya 5, Brāhmaṇa 14 §8",
+      "chapterRef": "5.14"
+    },
+    {
+      "reference": "5.15.1",
+      "label": "Adhyāya 5, Brāhmaṇa 15 §1",
+      "chapterRef": "5.15"
+    },
+    {
+      "reference": "6.1.1",
+      "label": "Adhyāya 6, Brāhmaṇa 1 §1",
+      "chapterRef": "6.1"
+    },
+    {
+      "reference": "6.1.2",
+      "label": "Adhyāya 6, Brāhmaṇa 1 §2",
+      "chapterRef": "6.1"
+    },
+    {
+      "reference": "6.1.3",
+      "label": "Adhyāya 6, Brāhmaṇa 1 §3",
+      "chapterRef": "6.1"
+    },
+    {
+      "reference": "6.1.4",
+      "label": "Adhyāya 6, Brāhmaṇa 1 §4",
+      "chapterRef": "6.1"
+    },
+    {
+      "reference": "6.1.5",
+      "label": "Adhyāya 6, Brāhmaṇa 1 §5",
+      "chapterRef": "6.1"
+    },
+    {
+      "reference": "6.1.6",
+      "label": "Adhyāya 6, Brāhmaṇa 1 §6",
+      "chapterRef": "6.1"
+    },
+    {
+      "reference": "6.1.7",
+      "label": "Adhyāya 6, Brāhmaṇa 1 §7",
+      "chapterRef": "6.1"
+    },
+    {
+      "reference": "6.1.8",
+      "label": "Adhyāya 6, Brāhmaṇa 1 §8",
+      "chapterRef": "6.1"
+    },
+    {
+      "reference": "6.1.9",
+      "label": "Adhyāya 6, Brāhmaṇa 1 §9",
+      "chapterRef": "6.1"
+    },
+    {
+      "reference": "6.1.10",
+      "label": "Adhyāya 6, Brāhmaṇa 1 §10",
+      "chapterRef": "6.1"
+    },
+    {
+      "reference": "6.1.11",
+      "label": "Adhyāya 6, Brāhmaṇa 1 §11",
+      "chapterRef": "6.1"
+    },
+    {
+      "reference": "6.1.12",
+      "label": "Adhyāya 6, Brāhmaṇa 1 §12",
+      "chapterRef": "6.1"
+    },
+    {
+      "reference": "6.1.13",
+      "label": "Adhyāya 6, Brāhmaṇa 1 §13",
+      "chapterRef": "6.1"
+    },
+    {
+      "reference": "6.1.14",
+      "label": "Adhyāya 6, Brāhmaṇa 1 §14",
+      "chapterRef": "6.1"
+    },
+    {
+      "reference": "6.2.1",
+      "label": "Adhyāya 6, Brāhmaṇa 2 §1",
+      "chapterRef": "6.2"
+    },
+    {
+      "reference": "6.2.2",
+      "label": "Adhyāya 6, Brāhmaṇa 2 §2",
+      "chapterRef": "6.2"
+    },
+    {
+      "reference": "6.2.3",
+      "label": "Adhyāya 6, Brāhmaṇa 2 §3",
+      "chapterRef": "6.2"
+    },
+    {
+      "reference": "6.2.4",
+      "label": "Adhyāya 6, Brāhmaṇa 2 §4",
+      "chapterRef": "6.2"
+    },
+    {
+      "reference": "6.2.5",
+      "label": "Adhyāya 6, Brāhmaṇa 2 §5",
+      "chapterRef": "6.2"
+    },
+    {
+      "reference": "6.2.6",
+      "label": "Adhyāya 6, Brāhmaṇa 2 §6",
+      "chapterRef": "6.2"
+    },
+    {
+      "reference": "6.2.7",
+      "label": "Adhyāya 6, Brāhmaṇa 2 §7",
+      "chapterRef": "6.2"
+    },
+    {
+      "reference": "6.2.8",
+      "label": "Adhyāya 6, Brāhmaṇa 2 §8",
+      "chapterRef": "6.2"
+    },
+    {
+      "reference": "6.2.9",
+      "label": "Adhyāya 6, Brāhmaṇa 2 §9",
+      "chapterRef": "6.2"
+    },
+    {
+      "reference": "6.2.10",
+      "label": "Adhyāya 6, Brāhmaṇa 2 §10",
+      "chapterRef": "6.2"
+    },
+    {
+      "reference": "6.2.11",
+      "label": "Adhyāya 6, Brāhmaṇa 2 §11",
+      "chapterRef": "6.2"
+    },
+    {
+      "reference": "6.2.12",
+      "label": "Adhyāya 6, Brāhmaṇa 2 §12",
+      "chapterRef": "6.2"
+    },
+    {
+      "reference": "6.2.13",
+      "label": "Adhyāya 6, Brāhmaṇa 2 §13",
+      "chapterRef": "6.2"
+    },
+    {
+      "reference": "6.2.14",
+      "label": "Adhyāya 6, Brāhmaṇa 2 §14",
+      "chapterRef": "6.2"
+    },
+    {
+      "reference": "6.2.15",
+      "label": "Adhyāya 6, Brāhmaṇa 2 §15",
+      "chapterRef": "6.2"
+    },
+    {
+      "reference": "6.2.16",
+      "label": "Adhyāya 6, Brāhmaṇa 2 §16",
+      "chapterRef": "6.2"
+    },
+    {
+      "reference": "6.3.1",
+      "label": "Adhyāya 6, Brāhmaṇa 3 §1",
+      "chapterRef": "6.3"
+    },
+    {
+      "reference": "6.3.2",
+      "label": "Adhyāya 6, Brāhmaṇa 3 §2",
+      "chapterRef": "6.3"
+    },
+    {
+      "reference": "6.3.3",
+      "label": "Adhyāya 6, Brāhmaṇa 3 §3",
+      "chapterRef": "6.3"
+    },
+    {
+      "reference": "6.3.4",
+      "label": "Adhyāya 6, Brāhmaṇa 3 §4",
+      "chapterRef": "6.3"
+    },
+    {
+      "reference": "6.3.5",
+      "label": "Adhyāya 6, Brāhmaṇa 3 §5",
+      "chapterRef": "6.3"
+    },
+    {
+      "reference": "6.3.6",
+      "label": "Adhyāya 6, Brāhmaṇa 3 §6",
+      "chapterRef": "6.3"
+    },
+    {
+      "reference": "6.3.7",
+      "label": "Adhyāya 6, Brāhmaṇa 3 §7",
+      "chapterRef": "6.3"
+    },
+    {
+      "reference": "6.3.8",
+      "label": "Adhyāya 6, Brāhmaṇa 3 §8",
+      "chapterRef": "6.3"
+    },
+    {
+      "reference": "6.3.9",
+      "label": "Adhyāya 6, Brāhmaṇa 3 §9",
+      "chapterRef": "6.3"
+    },
+    {
+      "reference": "6.3.10",
+      "label": "Adhyāya 6, Brāhmaṇa 3 §10",
+      "chapterRef": "6.3"
+    },
+    {
+      "reference": "6.3.11",
+      "label": "Adhyāya 6, Brāhmaṇa 3 §11",
+      "chapterRef": "6.3"
+    },
+    {
+      "reference": "6.3.12",
+      "label": "Adhyāya 6, Brāhmaṇa 3 §12",
+      "chapterRef": "6.3"
+    },
+    {
+      "reference": "6.3.13",
+      "label": "Adhyāya 6, Brāhmaṇa 3 §13",
+      "chapterRef": "6.3"
+    },
+    {
+      "reference": "6.4.1",
+      "label": "Adhyāya 6, Brāhmaṇa 4 §1",
+      "chapterRef": "6.4"
+    },
+    {
+      "reference": "6.4.2",
+      "label": "Adhyāya 6, Brāhmaṇa 4 §2",
+      "chapterRef": "6.4"
+    },
+    {
+      "reference": "6.4.3",
+      "label": "Adhyāya 6, Brāhmaṇa 4 §3",
+      "chapterRef": "6.4"
+    },
+    {
+      "reference": "6.4.4",
+      "label": "Adhyāya 6, Brāhmaṇa 4 §4",
+      "chapterRef": "6.4"
+    },
+    {
+      "reference": "6.4.5",
+      "label": "Adhyāya 6, Brāhmaṇa 4 §5",
+      "chapterRef": "6.4"
+    },
+    {
+      "reference": "6.4.6",
+      "label": "Adhyāya 6, Brāhmaṇa 4 §6",
+      "chapterRef": "6.4"
+    },
+    {
+      "reference": "6.4.7",
+      "label": "Adhyāya 6, Brāhmaṇa 4 §7",
+      "chapterRef": "6.4"
+    },
+    {
+      "reference": "6.4.8",
+      "label": "Adhyāya 6, Brāhmaṇa 4 §8",
+      "chapterRef": "6.4"
+    },
+    {
+      "reference": "6.4.9",
+      "label": "Adhyāya 6, Brāhmaṇa 4 §9",
+      "chapterRef": "6.4"
+    },
+    {
+      "reference": "6.4.10",
+      "label": "Adhyāya 6, Brāhmaṇa 4 §10",
+      "chapterRef": "6.4"
+    },
+    {
+      "reference": "6.4.11",
+      "label": "Adhyāya 6, Brāhmaṇa 4 §11",
+      "chapterRef": "6.4"
+    },
+    {
+      "reference": "6.4.12",
+      "label": "Adhyāya 6, Brāhmaṇa 4 §12",
+      "chapterRef": "6.4"
+    },
+    {
+      "reference": "6.4.13",
+      "label": "Adhyāya 6, Brāhmaṇa 4 §13",
+      "chapterRef": "6.4"
+    },
+    {
+      "reference": "6.4.14",
+      "label": "Adhyāya 6, Brāhmaṇa 4 §14",
+      "chapterRef": "6.4"
+    },
+    {
+      "reference": "6.4.15",
+      "label": "Adhyāya 6, Brāhmaṇa 4 §15",
+      "chapterRef": "6.4"
+    },
+    {
+      "reference": "6.4.16",
+      "label": "Adhyāya 6, Brāhmaṇa 4 §16",
+      "chapterRef": "6.4"
+    },
+    {
+      "reference": "6.4.17",
+      "label": "Adhyāya 6, Brāhmaṇa 4 §17",
+      "chapterRef": "6.4"
+    },
+    {
+      "reference": "6.4.18",
+      "label": "Adhyāya 6, Brāhmaṇa 4 §18",
+      "chapterRef": "6.4"
+    },
+    {
+      "reference": "6.4.19",
+      "label": "Adhyāya 6, Brāhmaṇa 4 §19",
+      "chapterRef": "6.4"
+    },
+    {
+      "reference": "6.4.20",
+      "label": "Adhyāya 6, Brāhmaṇa 4 §20",
+      "chapterRef": "6.4"
+    },
+    {
+      "reference": "6.4.21",
+      "label": "Adhyāya 6, Brāhmaṇa 4 §21",
+      "chapterRef": "6.4"
+    },
+    {
+      "reference": "6.4.22",
+      "label": "Adhyāya 6, Brāhmaṇa 4 §22",
+      "chapterRef": "6.4"
+    },
+    {
+      "reference": "6.4.23",
+      "label": "Adhyāya 6, Brāhmaṇa 4 §23",
+      "chapterRef": "6.4"
+    },
+    {
+      "reference": "6.4.24",
+      "label": "Adhyāya 6, Brāhmaṇa 4 §24",
+      "chapterRef": "6.4"
+    },
+    {
+      "reference": "6.4.25",
+      "label": "Adhyāya 6, Brāhmaṇa 4 §25",
+      "chapterRef": "6.4"
+    },
+    {
+      "reference": "6.4.26",
+      "label": "Adhyāya 6, Brāhmaṇa 4 §26",
+      "chapterRef": "6.4"
+    },
+    {
+      "reference": "6.4.27",
+      "label": "Adhyāya 6, Brāhmaṇa 4 §27",
+      "chapterRef": "6.4"
+    },
+    {
+      "reference": "6.4.28",
+      "label": "Adhyāya 6, Brāhmaṇa 4 §28",
+      "chapterRef": "6.4"
+    },
+    {
+      "reference": "6.5.1",
+      "label": "Adhyāya 6, Brāhmaṇa 5 §1",
+      "chapterRef": "6.5"
+    },
+    {
+      "reference": "6.5.2",
+      "label": "Adhyāya 6, Brāhmaṇa 5 §2",
+      "chapterRef": "6.5"
+    },
+    {
+      "reference": "6.5.3",
+      "label": "Adhyāya 6, Brāhmaṇa 5 §3",
+      "chapterRef": "6.5"
+    },
+    {
+      "reference": "6.5.4",
+      "label": "Adhyāya 6, Brāhmaṇa 5 §4",
+      "chapterRef": "6.5"
+    }
+  ],
+  "editions": [
+    {
+      "slug": "brihadaranyaka-upanishad-sa",
+      "language": "sa",
+      "editionType": "original",
+      "title": "Bṛhadāraṇyakopaniṣad (Kanva recension, GRETIL e-text)",
+      "translator": "",
+      "publisher": "GRETIL, Göttingen State and University Library",
+      "publicationYear": 2020,
+      "source": "gretil",
+      "license": "cc-by-nc-sa-4.0",
+      "rightsStatus": "CC BY-NC-SA 4.0 as recorded in the e-text header",
+      "attributionText": "The Brihadaranyaka Upanishad, with Shankara's commentary. GRETIL e-text 2020-07-31, Göttingen Register of Electronic Texts in Indian Languages. Source edition: . Input by members of the Sansknet Project.",
+      "structureScheme": "reference index; each passage is one verse as GRETIL numbers it",
+      "isSample": false,
+      "notes": "This e-text was provided to GRETIL in good faith that no copyright rights have been infringed. If anyone wishes to assert copyright over this file, please contact the GRETIL management at gretil(at)sub(dot)uni-goettingen(dot)de. The file will be immediately removed pending resolution of the claim. Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. GRETIL describes the reference scheme as: A reference is assembled consisting of a pragmatic abbreviation of the title: Bṛhadāraṇyakopaniṣad, Kāṇva recension+comm = , the number of the  in arabic numerals, the number of the verse in arabic numerals.. The import cache stores the exact segments that were validated. The reader re-fetches the work from GRETIL and reports when the served count no longer matches the index."
+    },
+    {
+      "slug": "brihadaranyaka-upanishad-shankara-bhashya",
+      "language": "sa",
+      "editionType": "original",
+      "title": "Śaṅkarabhāṣya on the Bṛhadāraṇyaka Upaniṣad",
+      "translator": "",
+      "publisher": "GRETIL, Göttingen State and University Library",
+      "publicationYear": 2020,
+      "source": "gretil",
+      "license": "cc-by-nc-sa-4.0",
+      "rightsStatus": "CC BY-NC-SA 4.0 as recorded in the e-text header",
+      "attributionText": "Commentary ascribed to Shankara. GRETIL e-text 2020-07-31, Göttingen Register of Electronic Texts in Indian Languages. The two texts share one file on GRETIL and are indexed under their own reference markers. Source edition: . Input by members of the Sansknet Project.",
+      "structureScheme": "reference index; each passage is one verse as GRETIL numbers it",
+      "isSample": false,
+      "notes": "This e-text was provided to GRETIL in good faith that no copyright rights have been infringed. If anyone wishes to assert copyright over this file, please contact the GRETIL management at gretil(at)sub(dot)uni-goettingen(dot)de. The file will be immediately removed pending resolution of the claim. Distributed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. GRETIL describes the reference scheme as: A reference is assembled consisting of a pragmatic abbreviation of the title: Bṛhadāraṇyakopaniṣad, Kāṇva recension+comm = , the number of the  in arabic numerals, the number of the verse in arabic numerals.. The import cache stores the exact segments that were validated. The reader re-fetches the work from GRETIL and reports when the served count no longer matches the index."
+    }
+  ]
+}

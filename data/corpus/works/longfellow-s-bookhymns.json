@@ -1,0 +1,110 @@
+{
+  "slug": "longfellow-s-bookhymns",
+  "title": "A Book of Hymns for Public and Private Devotion (fifteenth edition)",
+  "originalTitle": "",
+  "transliteration": "",
+  "altTitles": [
+    "Book of Hymns for Public and Private Devotion (fifteenth edition)"
+  ],
+  "tradition": "christianity",
+  "school": "",
+  "genre": "Hymns and liturgy",
+  "textType": "Christian text in English translation",
+  "category": "Hymns and liturgy",
+  "subcategory": "Hymns",
+  "originalLanguage": "en",
+  "dateStart": null,
+  "dateEnd": null,
+  "dateDisplay": "",
+  "authorshipStatus": "traditional",
+  "author": "longfellow-s",
+  "attributionNote": "Recorded in the Christian Classics Ethereal Library under Samuel Longfellow (1819-1892). The site catalogues the work at https://ccel.org/ccel/longfellow_s/bookhymns, whose own card names the print edition transcribed here; where the site carries a title by a publisher's permission rather than in public domain, this library does not take it.",
+  "description": "A Book of Hymns for Public and Private Devotion (fifteenth edition) — the English text the Christian Classics Ethereal Library publishes for this work, on the site's Hymns shelf. The record was created by the CCEL import from the site's own catalogue and plain text; an editor's note for the work itself is still to be written.",
+  "historicalContext": "Read in the Christian Classics Ethereal Library's catalogue, whose shelves follow the site's own division of Christian literature, and whose transcription follows the print edition Edinburgh and London: Oliphant, Anderson, & Ferrier, 1910.",
+  "availabilityNote": "Complete in the Christian Classics Ethereal Library's plain-text edition: 2 chapter(s), 8 paragraph(s), 147 words. The divisions are the headings of the site's own text, which the library stores rather than asking the site for again when the work is read. The text is public domain and is displayed with the library's credit.",
+  "featured": false,
+  "featuredNote": "",
+  "refScheme": "chapter.paragraph",
+  "isSample": false,
+  "textStorage": "local",
+  "chapters": [
+    {
+      "ref": "1",
+      "label": "A BOOK"
+    },
+    {
+      "ref": "2",
+      "label": "A BOOK, FIFTEENTH EDITION"
+    }
+  ],
+  "passages": [
+    {
+      "reference": "1.1",
+      "label": "A BOOK §1",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "2.1",
+      "label": "A BOOK, FIFTEENTH EDITION §1",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.2",
+      "label": "A BOOK, FIFTEENTH EDITION §2",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.3",
+      "label": "A BOOK, FIFTEENTH EDITION §3",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.4",
+      "label": "A BOOK, FIFTEENTH EDITION §4",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.5",
+      "label": "A BOOK, FIFTEENTH EDITION §5",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.6",
+      "label": "A BOOK, FIFTEENTH EDITION §6",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.7",
+      "label": "A BOOK, FIFTEENTH EDITION §7",
+      "chapterRef": "2"
+    }
+  ],
+  "editions": [
+    {
+      "slug": "longfellow-s-bookhymns-en",
+      "language": "en",
+      "editionType": "translation",
+      "title": "A Book of Hymns for Public and Private Devotion (fifteenth edition)",
+      "translator": "",
+      "publisher": "Christian Classics Ethereal Library",
+      "publicationYear": null,
+      "source": "ccel",
+      "license": "public-domain",
+      "rightsStatus": "Public domain., as the Christian Classics Ethereal Library states for this work on its own card",
+      "attributionText": "Text from the Christian Classics Ethereal Library (ccel.org), which transcribed and published this edition from Edinburgh and London: Oliphant, Anderson, & Ferrier, 1910. The translation is public domain; the transcription is credited to the library.",
+      "structureScheme": "chapter and paragraph, the chapters being the divisions of the site's plain text",
+      "isSample": false,
+      "notes": "Imported from the plain-text file the CCEL publishes for this work; its headings divide the work, its blank lines separate the paragraphs, and nothing is fetched from ccel.org when the work is read.",
+      "texts": {
+        "1.1": "OF HYMNS FOR PUBLIC AND PRIVATE DEVOTION.",
+        "2.1": "BOSTON: TICKNOR AND FIELDS. M DCCC LXVI.",
+        "2.2": "Entered according to Act of Congress, in the year 1848, BY WM. D. TICKNOR & COMPANY, In the Clerk's Office of the District Court of Massachusetts.",
+        "2.3": "PREFACE.",
+        "2.4": "Among the Hymns in the following collection will be found many which are not of the commonly recognized metres. Some of these are already set to music of their own. Others can readily be adapted by the choir-leader to the simple chants which are now generally found in our collections of Sacred Music.",
+        "2.5": "An asterisk prefixed to the author's name indicates that some change has been made in the hymn by the present compilers.",
+        "2.6": "The titles of the Supplementary Hymns in the present edition have been introduced within the original table of contents, instead of forming a separate series at the end.",
+        "2.7": "Boston, April 22, 1848."
+      }
+    }
+  ]
+}

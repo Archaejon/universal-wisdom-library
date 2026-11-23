@@ -1,0 +1,1046 @@
+{
+  "slug": "yoga-sutras-ygs",
+  "title": "Yoga Sutras",
+  "originalTitle": "योगसूत्राणि",
+  "transliteration": "Yoga Sūtrāṇi",
+  "altTitles": [],
+  "tradition": "hinduism",
+  "school": "yoga",
+  "genre": "Philosophy",
+  "textType": "Sanskrit text (sutra)",
+  "category": "Yoga (Darśana)",
+  "subcategory": "",
+  "originalLanguage": "sa",
+  "dateStart": null,
+  "dateEnd": null,
+  "dateDisplay": "",
+  "authorshipStatus": "traditional",
+  "author": "patanjali",
+  "attributionNote": "Yoga Sutras, attributed to Patañjali, as Heritage IITKanpur's Scripture Server catalogues it (YGS), on its own shelf.",
+  "description": "The Yoga Sūtras, compiled by Patañjali in Sanskrit, are some 195 terse aphorisms in four chapters (pādas) that found the Yoga school of Indian philosophy. Their subject is the mind: the second sūtra defines yoga as the stilling of its movements, and the rest sets out the obstacles, the eight limbs of practice, the powers that arise on the way, and freedom (kaivalya), which is the text's purpose. The sūtras assume the Sāṃkhya analysis of spirit and nature, and are so compressed that they have always been read with a commentary, first the Yoga-bhāṣya ascribed to Vyāsa. They are for the practitioner willing to train attention, and are best read slowly, a few at a time. The summary above is the one Heritage IITKanpur's Scripture Server publishes for the text, and the server's own metadata records it as AI-assisted (claude-opus-5-5); an editor's note for the work itself is still to be written.",
+  "historicalContext": "Read in the Heritage Scripture Server corpus, which continues the Gita Supersite built at IIT Kanpur: the text, its classical commentaries and the translations the server may serve are held together there.",
+  "availabilityNote": "The outline is held: 4 chapter(s) and 196 verse address(es), read from the server's own catalogue. The verses are not stored — the licence forbids bulk harvesting and database reconstruction — and are streamed from the API one verse at a time as the work is read, with the attribution HCAL-1.1 requires and the server's own quota and licence notice.",
+  "featured": false,
+  "featuredNote": "",
+  "refScheme": "chapter.verse",
+  "isSample": false,
+  "textStorage": "streamed",
+  "chapters": [
+    {
+      "ref": "1",
+      "label": "1. Samādhi-pādaḥ"
+    },
+    {
+      "ref": "2",
+      "label": "2. Sādhana-pādaḥ"
+    },
+    {
+      "ref": "3",
+      "label": "3. Vibhūti-pādaḥ"
+    },
+    {
+      "ref": "4",
+      "label": "4. Kaivalya-pādaḥ"
+    }
+  ],
+  "passages": [
+    {
+      "reference": "1.1",
+      "label": "1. Samādhi-pādaḥ · verse 1",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.2",
+      "label": "1. Samādhi-pādaḥ · verse 2",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.3",
+      "label": "1. Samādhi-pādaḥ · verse 3",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.4",
+      "label": "1. Samādhi-pādaḥ · verse 4",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.5",
+      "label": "1. Samādhi-pādaḥ · verse 5",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.6",
+      "label": "1. Samādhi-pādaḥ · verse 6",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.7",
+      "label": "1. Samādhi-pādaḥ · verse 7",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.8",
+      "label": "1. Samādhi-pādaḥ · verse 8",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.9",
+      "label": "1. Samādhi-pādaḥ · verse 9",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.10",
+      "label": "1. Samādhi-pādaḥ · verse 10",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.11",
+      "label": "1. Samādhi-pādaḥ · verse 11",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.12",
+      "label": "1. Samādhi-pādaḥ · verse 12",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.13",
+      "label": "1. Samādhi-pādaḥ · verse 13",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.14",
+      "label": "1. Samādhi-pādaḥ · verse 14",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.15",
+      "label": "1. Samādhi-pādaḥ · verse 15",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.16",
+      "label": "1. Samādhi-pādaḥ · verse 16",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.17",
+      "label": "1. Samādhi-pādaḥ · verse 17",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.18",
+      "label": "1. Samādhi-pādaḥ · verse 18",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.19",
+      "label": "1. Samādhi-pādaḥ · verse 19",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.20",
+      "label": "1. Samādhi-pādaḥ · verse 20",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.21",
+      "label": "1. Samādhi-pādaḥ · verse 21",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.22",
+      "label": "1. Samādhi-pādaḥ · verse 22",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.23",
+      "label": "1. Samādhi-pādaḥ · verse 23",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.24",
+      "label": "1. Samādhi-pādaḥ · verse 24",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.25",
+      "label": "1. Samādhi-pādaḥ · verse 25",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.26",
+      "label": "1. Samādhi-pādaḥ · verse 26",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.27",
+      "label": "1. Samādhi-pādaḥ · verse 27",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.28",
+      "label": "1. Samādhi-pādaḥ · verse 28",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.29",
+      "label": "1. Samādhi-pādaḥ · verse 29",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.30",
+      "label": "1. Samādhi-pādaḥ · verse 30",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.31",
+      "label": "1. Samādhi-pādaḥ · verse 31",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.32",
+      "label": "1. Samādhi-pādaḥ · verse 32",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.33",
+      "label": "1. Samādhi-pādaḥ · verse 33",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.34",
+      "label": "1. Samādhi-pādaḥ · verse 34",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.35",
+      "label": "1. Samādhi-pādaḥ · verse 35",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.36",
+      "label": "1. Samādhi-pādaḥ · verse 36",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.37",
+      "label": "1. Samādhi-pādaḥ · verse 37",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.38",
+      "label": "1. Samādhi-pādaḥ · verse 38",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.39",
+      "label": "1. Samādhi-pādaḥ · verse 39",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.40",
+      "label": "1. Samādhi-pādaḥ · verse 40",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.41",
+      "label": "1. Samādhi-pādaḥ · verse 41",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.42",
+      "label": "1. Samādhi-pādaḥ · verse 42",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.43",
+      "label": "1. Samādhi-pādaḥ · verse 43",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.44",
+      "label": "1. Samādhi-pādaḥ · verse 44",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.45",
+      "label": "1. Samādhi-pādaḥ · verse 45",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.46",
+      "label": "1. Samādhi-pādaḥ · verse 46",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.47",
+      "label": "1. Samādhi-pādaḥ · verse 47",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.48",
+      "label": "1. Samādhi-pādaḥ · verse 48",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.49",
+      "label": "1. Samādhi-pādaḥ · verse 49",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.50",
+      "label": "1. Samādhi-pādaḥ · verse 50",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "1.51",
+      "label": "1. Samādhi-pādaḥ · verse 51",
+      "chapterRef": "1"
+    },
+    {
+      "reference": "2.1",
+      "label": "2. Sādhana-pādaḥ · verse 1",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.2",
+      "label": "2. Sādhana-pādaḥ · verse 2",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.3",
+      "label": "2. Sādhana-pādaḥ · verse 3",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.4",
+      "label": "2. Sādhana-pādaḥ · verse 4",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.5",
+      "label": "2. Sādhana-pādaḥ · verse 5",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.6",
+      "label": "2. Sādhana-pādaḥ · verse 6",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.7",
+      "label": "2. Sādhana-pādaḥ · verse 7",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.8",
+      "label": "2. Sādhana-pādaḥ · verse 8",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.9",
+      "label": "2. Sādhana-pādaḥ · verse 9",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.10",
+      "label": "2. Sādhana-pādaḥ · verse 10",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.11",
+      "label": "2. Sādhana-pādaḥ · verse 11",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.12",
+      "label": "2. Sādhana-pādaḥ · verse 12",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.13",
+      "label": "2. Sādhana-pādaḥ · verse 13",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.14",
+      "label": "2. Sādhana-pādaḥ · verse 14",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.15",
+      "label": "2. Sādhana-pādaḥ · verse 15",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.16",
+      "label": "2. Sādhana-pādaḥ · verse 16",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.17",
+      "label": "2. Sādhana-pādaḥ · verse 17",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.18",
+      "label": "2. Sādhana-pādaḥ · verse 18",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.19",
+      "label": "2. Sādhana-pādaḥ · verse 19",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.20",
+      "label": "2. Sādhana-pādaḥ · verse 20",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.21",
+      "label": "2. Sādhana-pādaḥ · verse 21",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.22",
+      "label": "2. Sādhana-pādaḥ · verse 22",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.23",
+      "label": "2. Sādhana-pādaḥ · verse 23",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.24",
+      "label": "2. Sādhana-pādaḥ · verse 24",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.25",
+      "label": "2. Sādhana-pādaḥ · verse 25",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.26",
+      "label": "2. Sādhana-pādaḥ · verse 26",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.27",
+      "label": "2. Sādhana-pādaḥ · verse 27",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.28",
+      "label": "2. Sādhana-pādaḥ · verse 28",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.29",
+      "label": "2. Sādhana-pādaḥ · verse 29",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.30",
+      "label": "2. Sādhana-pādaḥ · verse 30",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.31",
+      "label": "2. Sādhana-pādaḥ · verse 31",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.32",
+      "label": "2. Sādhana-pādaḥ · verse 32",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.33",
+      "label": "2. Sādhana-pādaḥ · verse 33",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.34",
+      "label": "2. Sādhana-pādaḥ · verse 34",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.35",
+      "label": "2. Sādhana-pādaḥ · verse 35",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.36",
+      "label": "2. Sādhana-pādaḥ · verse 36",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.37",
+      "label": "2. Sādhana-pādaḥ · verse 37",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.38",
+      "label": "2. Sādhana-pādaḥ · verse 38",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.39",
+      "label": "2. Sādhana-pādaḥ · verse 39",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.40",
+      "label": "2. Sādhana-pādaḥ · verse 40",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.41",
+      "label": "2. Sādhana-pādaḥ · verse 41",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.42",
+      "label": "2. Sādhana-pādaḥ · verse 42",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.43",
+      "label": "2. Sādhana-pādaḥ · verse 43",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.44",
+      "label": "2. Sādhana-pādaḥ · verse 44",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.45",
+      "label": "2. Sādhana-pādaḥ · verse 45",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.46",
+      "label": "2. Sādhana-pādaḥ · verse 46",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.47",
+      "label": "2. Sādhana-pādaḥ · verse 47",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.48",
+      "label": "2. Sādhana-pādaḥ · verse 48",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.49",
+      "label": "2. Sādhana-pādaḥ · verse 49",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.50",
+      "label": "2. Sādhana-pādaḥ · verse 50",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.51",
+      "label": "2. Sādhana-pādaḥ · verse 51",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.52",
+      "label": "2. Sādhana-pādaḥ · verse 52",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.53",
+      "label": "2. Sādhana-pādaḥ · verse 53",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.54",
+      "label": "2. Sādhana-pādaḥ · verse 54",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "2.55",
+      "label": "2. Sādhana-pādaḥ · verse 55",
+      "chapterRef": "2"
+    },
+    {
+      "reference": "3.1",
+      "label": "3. Vibhūti-pādaḥ · verse 1",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.2",
+      "label": "3. Vibhūti-pādaḥ · verse 2",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.3",
+      "label": "3. Vibhūti-pādaḥ · verse 3",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.4",
+      "label": "3. Vibhūti-pādaḥ · verse 4",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.5",
+      "label": "3. Vibhūti-pādaḥ · verse 5",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.6",
+      "label": "3. Vibhūti-pādaḥ · verse 6",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.7",
+      "label": "3. Vibhūti-pādaḥ · verse 7",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.8",
+      "label": "3. Vibhūti-pādaḥ · verse 8",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.9",
+      "label": "3. Vibhūti-pādaḥ · verse 9",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.10",
+      "label": "3. Vibhūti-pādaḥ · verse 10",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.11",
+      "label": "3. Vibhūti-pādaḥ · verse 11",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.12",
+      "label": "3. Vibhūti-pādaḥ · verse 12",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.13",
+      "label": "3. Vibhūti-pādaḥ · verse 13",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.14",
+      "label": "3. Vibhūti-pādaḥ · verse 14",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.15",
+      "label": "3. Vibhūti-pādaḥ · verse 15",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.16",
+      "label": "3. Vibhūti-pādaḥ · verse 16",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.17",
+      "label": "3. Vibhūti-pādaḥ · verse 17",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.18",
+      "label": "3. Vibhūti-pādaḥ · verse 18",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.19",
+      "label": "3. Vibhūti-pādaḥ · verse 19",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.20",
+      "label": "3. Vibhūti-pādaḥ · verse 20",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.21",
+      "label": "3. Vibhūti-pādaḥ · verse 21",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.22",
+      "label": "3. Vibhūti-pādaḥ · verse 22",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.23",
+      "label": "3. Vibhūti-pādaḥ · verse 23",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.24",
+      "label": "3. Vibhūti-pādaḥ · verse 24",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.25",
+      "label": "3. Vibhūti-pādaḥ · verse 25",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.26",
+      "label": "3. Vibhūti-pādaḥ · verse 26",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.27",
+      "label": "3. Vibhūti-pādaḥ · verse 27",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.28",
+      "label": "3. Vibhūti-pādaḥ · verse 28",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.29",
+      "label": "3. Vibhūti-pādaḥ · verse 29",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.30",
+      "label": "3. Vibhūti-pādaḥ · verse 30",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.31",
+      "label": "3. Vibhūti-pādaḥ · verse 31",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.32",
+      "label": "3. Vibhūti-pādaḥ · verse 32",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.33",
+      "label": "3. Vibhūti-pādaḥ · verse 33",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.34",
+      "label": "3. Vibhūti-pādaḥ · verse 34",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.35",
+      "label": "3. Vibhūti-pādaḥ · verse 35",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.36",
+      "label": "3. Vibhūti-pādaḥ · verse 36",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.37",
+      "label": "3. Vibhūti-pādaḥ · verse 37",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.38",
+      "label": "3. Vibhūti-pādaḥ · verse 38",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.39",
+      "label": "3. Vibhūti-pādaḥ · verse 39",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.40",
+      "label": "3. Vibhūti-pādaḥ · verse 40",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.41",
+      "label": "3. Vibhūti-pādaḥ · verse 41",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.42",
+      "label": "3. Vibhūti-pādaḥ · verse 42",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.43",
+      "label": "3. Vibhūti-pādaḥ · verse 43",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.44",
+      "label": "3. Vibhūti-pādaḥ · verse 44",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.45",
+      "label": "3. Vibhūti-pādaḥ · verse 45",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.46",
+      "label": "3. Vibhūti-pādaḥ · verse 46",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.47",
+      "label": "3. Vibhūti-pādaḥ · verse 47",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.48",
+      "label": "3. Vibhūti-pādaḥ · verse 48",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.49",
+      "label": "3. Vibhūti-pādaḥ · verse 49",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.50",
+      "label": "3. Vibhūti-pādaḥ · verse 50",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.51",
+      "label": "3. Vibhūti-pādaḥ · verse 51",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.52",
+      "label": "3. Vibhūti-pādaḥ · verse 52",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.53",
+      "label": "3. Vibhūti-pādaḥ · verse 53",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.54",
+      "label": "3. Vibhūti-pādaḥ · verse 54",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.55",
+      "label": "3. Vibhūti-pādaḥ · verse 55",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "3.56",
+      "label": "3. Vibhūti-pādaḥ · verse 56",
+      "chapterRef": "3"
+    },
+    {
+      "reference": "4.1",
+      "label": "4. Kaivalya-pādaḥ · verse 1",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.2",
+      "label": "4. Kaivalya-pādaḥ · verse 2",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.3",
+      "label": "4. Kaivalya-pādaḥ · verse 3",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.4",
+      "label": "4. Kaivalya-pādaḥ · verse 4",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.5",
+      "label": "4. Kaivalya-pādaḥ · verse 5",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.6",
+      "label": "4. Kaivalya-pādaḥ · verse 6",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.7",
+      "label": "4. Kaivalya-pādaḥ · verse 7",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.8",
+      "label": "4. Kaivalya-pādaḥ · verse 8",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.9",
+      "label": "4. Kaivalya-pādaḥ · verse 9",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.10",
+      "label": "4. Kaivalya-pādaḥ · verse 10",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.11",
+      "label": "4. Kaivalya-pādaḥ · verse 11",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.12",
+      "label": "4. Kaivalya-pādaḥ · verse 12",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.13",
+      "label": "4. Kaivalya-pādaḥ · verse 13",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.14",
+      "label": "4. Kaivalya-pādaḥ · verse 14",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.15",
+      "label": "4. Kaivalya-pādaḥ · verse 15",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.16",
+      "label": "4. Kaivalya-pādaḥ · verse 16",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.17",
+      "label": "4. Kaivalya-pādaḥ · verse 17",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.18",
+      "label": "4. Kaivalya-pādaḥ · verse 18",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.19",
+      "label": "4. Kaivalya-pādaḥ · verse 19",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.20",
+      "label": "4. Kaivalya-pādaḥ · verse 20",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.21",
+      "label": "4. Kaivalya-pādaḥ · verse 21",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.22",
+      "label": "4. Kaivalya-pādaḥ · verse 22",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.23",
+      "label": "4. Kaivalya-pādaḥ · verse 23",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.24",
+      "label": "4. Kaivalya-pādaḥ · verse 24",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.25",
+      "label": "4. Kaivalya-pādaḥ · verse 25",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.26",
+      "label": "4. Kaivalya-pādaḥ · verse 26",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.27",
+      "label": "4. Kaivalya-pādaḥ · verse 27",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.28",
+      "label": "4. Kaivalya-pādaḥ · verse 28",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.29",
+      "label": "4. Kaivalya-pādaḥ · verse 29",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.30",
+      "label": "4. Kaivalya-pādaḥ · verse 30",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.31",
+      "label": "4. Kaivalya-pādaḥ · verse 31",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.32",
+      "label": "4. Kaivalya-pādaḥ · verse 32",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.33",
+      "label": "4. Kaivalya-pādaḥ · verse 33",
+      "chapterRef": "4"
+    },
+    {
+      "reference": "4.34",
+      "label": "4. Kaivalya-pādaḥ · verse 34",
+      "chapterRef": "4"
+    }
+  ],
+  "editions": [
+    {
+      "slug": "yoga-sutras-ygs-sa",
+      "language": "sa",
+      "editionType": "original",
+      "title": "Yoga Sutras (Heritage Scripture Server transcription)",
+      "translator": "",
+      "publisher": "Heritage IITKanpur, Heritage Scripture Server",
+      "publicationYear": null,
+      "source": "gita-supersite",
+      "license": "hcal-1-1",
+      "rightsStatus": "Tier A (the moolam and its transliterations): no modern copyright, freely redistributable. Where the API serves Tier B — the Sanskrit bhāṣya and the AI-generated, community and editorially authored translations — it is displayed non-commercially with attribution and is not relicensed here. Tier C, the authoritative modern-language translations and commentaries, is not served by the API and is not imported.",
+      "attributionText": "Yoga Sutras, Patañjali. Accessed via Heritage Scripture Server (heritage.iitk.ac.in), licence HCAL-1.1. Source: https://heritage.iitk.ac.in/YGS",
+      "structureScheme": "chapter and verse, as the server's own sections and verse addresses divide the text",
+      "isSample": false,
+      "notes": "The verse index was built from the server's published verse addresses. The verses themselves are fetched from the API at read time and are shown with the licence's attribution; the licence identifier and any watermark the server returns are left in place."
+    }
+  ]
+}

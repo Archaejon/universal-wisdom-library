@@ -1,0 +1,74 @@
+{
+  "slug": "responsa-musafia-teshuvot-hageonim",
+  "title": "Musafia Teshuvot HaGeonim",
+  "originalTitle": "מוספיה תשובות הגאונים",
+  "transliteration": "",
+  "altTitles": [],
+  "tradition": "judaism",
+  "school": "rabbinic-judaism",
+  "genre": "Responsa",
+  "textType": "Responsa collection",
+  "category": "Responsa",
+  "subcategory": "Geonim",
+  "originalLanguage": "en",
+  "dateStart": 700,
+  "dateEnd": 1950,
+  "dateDisplay": "Responsa literature, c. 700–1950 CE",
+  "authorshipStatus": "established",
+  "author": "",
+  "attributionNote": "Authorship follows the Sefaria catalogue record for this work. Where a text is traditionally attributed or collectively compiled, the library does not assert a single author beyond the source's own metadata.",
+  "description": "Collection of responsa and talmudic commentary published from manuscript in the 19th century. Complete Responsa text imported from Sefaria; the exact edition and licence are shown with each version.",
+  "historicalContext": "Responsa are written answers to specific legal questions, addressed by a scholar to a community or an individual. A responsum is a dated, situated ruling and is presented with its collection rather than as a universal statute.",
+  "availabilityNote": "Imported from Sefaria. Version, source and licence are recorded per edition.",
+  "featured": false,
+  "featuredNote": "",
+  "refScheme": "chapter.paragraph",
+  "isSample": false,
+  "textStorage": "streamed",
+  "chapters": [
+    {
+      "ref": "95",
+      "label": "Teshuva 95"
+    }
+  ],
+  "passages": [
+    {
+      "reference": "95.1",
+      "label": "95:1",
+      "chapterRef": "95"
+    },
+    {
+      "reference": "95.2",
+      "label": "95:2",
+      "chapterRef": "95"
+    },
+    {
+      "reference": "95.3",
+      "label": "95:3",
+      "chapterRef": "95"
+    },
+    {
+      "reference": "95.4",
+      "label": "95:4",
+      "chapterRef": "95"
+    }
+  ],
+  "editions": [
+    {
+      "slug": "responsa-musafia-teshuvot-hageonim-english-sefaria",
+      "language": "en",
+      "editionType": "original",
+      "title": "Sefaria Responsa Anthology",
+      "translator": "",
+      "publisher": "https://www.sefaria.org",
+      "publicationYear": null,
+      "source": "sefaria",
+      "license": "cc-by",
+      "rightsStatus": "CC-BY",
+      "attributionText": "Sefaria Responsa Anthology; licence: CC-BY; source: https://www.sefaria.org. Retrieved via Sefaria on 2026-10-20.",
+      "structureScheme": "chapter and paragraph",
+      "isSample": false,
+      "notes": "Complete work imported from Sefaria. Text is displayed as supplied by the named edition; HTML markup has been removed."
+    }
+  ]
+}
