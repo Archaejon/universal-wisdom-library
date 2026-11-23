@@ -1,0 +1,15 @@
+{
+  "hooks": {
+    "SessionStart": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "f=\"$CLAUDE_PROJECT_DIR/JOURNAL.md\"; if [ -f \"$f\" ]; then echo \"=== JOURNAL.md (read at session start; add an entry before finishing) ===\"; cat \"$f\"; fi 2>/dev/null || true",
+            "statusMessage": "Loading project journal"
+          }
+        ]
+      }
+    ]
+  }
+}
