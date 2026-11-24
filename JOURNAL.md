@@ -10,6 +10,34 @@ and where things stand (commits, branch, anything not pushed or not verified).
 
 ---
 
+## 2026-11-24: options for non-technical users
+
+**Done (investigation only; no code changed)**
+- Tried `bun build --compile scripts/start.ts`: it builds a single 110 MB
+  Linux executable in under a second, but it fails at startup because
+  `server/db.ts` reads `schema.sql` from `import.meta.dir`, which is a virtual
+  path inside a compiled binary. `scripts/serve.ts` serves `public/` the same
+  way, so the client files would be missing too. Both can be fixed by embedding
+  the files (a text import for the schema, embedded assets for the client). The
+  trial binary was deleted.
+
+**Findings**
+- The repo is private, so nobody else can download the release at all. Any
+  public download means making the repo public or hosting files elsewhere.
+- A GitHub release file can be at most 2 GB, and the database is 9.4 GB. A
+  desktop download would have to ship the corpus (about 400 MB compressed) and
+  build the database on first run, or ship a much smaller database.
+- Unsigned downloads trigger Windows SmartScreen and macOS Gatekeeper warnings.
+  Signing costs money (Apple developer account).
+
+**Recommended to the user:** host it as a website (one URL, nothing to
+install). A desktop download is second choice: compiled executables per OS plus
+a first-run data download. No decision yet.
+
+**Git:** this entry committed and pushed.
+
+---
+
 ## 2026-11-24: first release, v0.1.0
 
 **Done**
