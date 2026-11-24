@@ -202,6 +202,12 @@ CREATE INDEX IF NOT EXISTS idx_passage_texts_edition ON passage_texts(edition_id
 
 -- FTS: original orthography is indexed, but with a normalised copy so that
 -- vowel points and Arabic short vowels do not defeat matching.
+--
+-- Both local indexes are contentless: they keep the search index and the small
+-- ID columns, but not a second copy of the text, which passage_texts already
+-- holds (that copy was about 2 GB). `text` and `variants` read back as NULL;
+-- search only matches and ranks on them. server/db.ts rebuilds an index made
+-- in the older layout.
 CREATE VIRTUAL TABLE IF NOT EXISTS passage_fts USING fts5(
   passage_id UNINDEXED,
   edition_id UNINDEXED,
@@ -210,6 +216,9 @@ CREATE VIRTUAL TABLE IF NOT EXISTS passage_fts USING fts5(
   reference UNINDEXED,
   text,
   variants,
+  content = '',
+  contentless_delete = 1,
+  contentless_unindexed = 1,
   tokenize = 'unicode61 remove_diacritics 2'
 );
 
@@ -245,6 +254,9 @@ CREATE VIRTUAL TABLE IF NOT EXISTS passage_trigram USING fts5(
   passage_id UNINDEXED,
   edition_id UNINDEXED,
   text,
+  content = '',
+  contentless_delete = 1,
+  contentless_unindexed = 1,
   tokenize = 'trigram'
 );
 

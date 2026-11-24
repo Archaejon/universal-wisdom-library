@@ -9,13 +9,15 @@
 //
 //   bun run backfill:cjk
 //
-// The scan is a full pass over both search tables (about half a minute on the
-// full corpus). Run it once per database; new seeds and `bun run index:streams`
-// write the characters themselves.
+// Only the streamed index (stream_fts) needs it now. The local index is
+// contentless, so its text can't be read back, and `migrate()` rebuilds any
+// local index made in an older layout with the current indexing, characters
+// included. Run it once per database; `bun run index:streams` writes the
+// characters itself.
 import { getDb, migrate } from "../../server/db";
 import { cjkChars } from "../../server/text";
 
-type Table = "passage_fts" | "stream_fts";
+type Table = "stream_fts";
 
 const CJK_GLOB = "*[\u4e00-\u9fff]*";
 const KANA_GLOB = "*[\u3040-\u30ff]*";
@@ -53,8 +55,7 @@ function addCharacters(table: Table) {
 }
 
 migrate();
-console.log("Backfilling CJK characters into the search indexes…");
-const local = addCharacters("passage_fts");
+console.log("Backfilling CJK characters into the streamed search index…");
 const streamed = addCharacters("stream_fts");
-if (!local && !streamed) console.log("  nothing to add: both indexes already hold their characters.");
-else console.log(`Done: ${local + streamed} index row(s) updated.`);
+if (!streamed) console.log("  nothing to add: the index already holds its characters.");
+else console.log(`Done: ${streamed} index row(s) updated.`);
