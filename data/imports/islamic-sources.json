@@ -1,0 +1,240 @@
+{
+  "source": "islamic-sources",
+  "retrieved_at": "2026-10-20",
+  "note": "Catalogue records, chapter outlines and passage indexes only. Hadith, Sufi, kalam and falsafa texts are streamed from their hosts at read time and are not stored in this corpus.",
+  "hosts": [
+    {
+      "id": "hadith-api",
+      "name": "Hadith API (fawazahmed0)",
+      "url": "https://github.com/fawazahmed0/hadith-api",
+      "licence": "Unlicense for the repository; translations mixed"
+    },
+    {
+      "id": "wikisource",
+      "name": "Wikisource",
+      "url": "https://en.wikisource.org/",
+      "licence": "public-domain translations"
+    },
+    {
+      "id": "project-gutenberg",
+      "name": "Project Gutenberg",
+      "url": "https://www.gutenberg.org/",
+      "licence": "public-domain in the United States"
+    },
+    {
+      "id": "internet-archive",
+      "name": "Internet Archive",
+      "url": "https://archive.org/",
+      "licence": "public-domain editions; per-item status recorded"
+    }
+  ],
+  "works": [
+    {
+      "slug": "hadith-bukhari",
+      "host": "hadith-api",
+      "upstream": "eng-bukhari",
+      "chapters": 98,
+      "passages": 7580,
+      "translator": "Muhsin Khan"
+    },
+    {
+      "slug": "hadith-muslim",
+      "host": "hadith-api",
+      "upstream": "eng-muslim",
+      "chapters": 57,
+      "passages": 7360,
+      "translator": "Abdul Hamid Siddiqui"
+    },
+    {
+      "slug": "hadith-abu-dawud",
+      "host": "hadith-api",
+      "upstream": "eng-abudawud",
+      "chapters": 43,
+      "passages": 5272,
+      "translator": "Not stated by the host"
+    },
+    {
+      "slug": "hadith-tirmidhi",
+      "host": "hadith-api",
+      "upstream": "eng-tirmidhi",
+      "chapters": 49,
+      "passages": 3926,
+      "translator": "Not stated by the host"
+    },
+    {
+      "slug": "hadith-nasai",
+      "host": "hadith-api",
+      "upstream": "eng-nasai",
+      "chapters": 51,
+      "passages": 5679,
+      "translator": "Not stated by the host"
+    },
+    {
+      "slug": "hadith-ibn-majah",
+      "host": "hadith-api",
+      "upstream": "eng-ibnmajah",
+      "chapters": 38,
+      "passages": 4340,
+      "translator": "Not stated by the host"
+    },
+    {
+      "slug": "muwatta-malik",
+      "host": "hadith-api",
+      "upstream": "eng-malik",
+      "chapters": 61,
+      "passages": 1818,
+      "translator": "Not stated by the host"
+    },
+    {
+      "slug": "al-ghazali-alchemy-of-happiness",
+      "host": "wikisource",
+      "upstream": "The Alchemy of Happiness",
+      "chapters": 6,
+      "passages": 195,
+      "translator": "Henry A. Homes"
+    },
+    {
+      "slug": "al-ghazali-confessions",
+      "host": "project-gutenberg",
+      "upstream": "https://www.gutenberg.org/ebooks/58977",
+      "chapters": 9,
+      "passages": 120,
+      "translator": "Claud Field"
+    },
+    {
+      "slug": "ibn-sina-compendium-on-the-soul",
+      "host": "project-gutenberg",
+      "upstream": "https://www.gutenberg.org/ebooks/58186",
+      "chapters": 12,
+      "passages": 172,
+      "translator": "Edward Abbott van Dyck"
+    },
+    {
+      "slug": "averroes-philosophy-and-theology",
+      "host": "project-gutenberg",
+      "upstream": "https://www.gutenberg.org/ebooks/65708",
+      "chapters": 3,
+      "passages": 147,
+      "translator": "Mohammad Jamil-ur-Rehman"
+    },
+    {
+      "slug": "ibn-arabi-tarjuman-al-ashwaq",
+      "host": "wikisource",
+      "upstream": "The Tarjumán al-Ashwáq",
+      "chapters": 63,
+      "passages": 1324,
+      "translator": "Reynold A. Nicholson"
+    },
+    {
+      "slug": "rumi-masnavi",
+      "host": "wikisource",
+      "upstream": "Masnavi i Ma'navi",
+      "chapters": 6,
+      "passages": 7767,
+      "translator": "E. H. Whinfield"
+    },
+    {
+      "slug": "al-ghazali-short-creed",
+      "host": "wikisource",
+      "upstream": "A Short Creed",
+      "chapters": 1,
+      "passages": 12,
+      "translator": "Duncan Black Macdonald"
+    },
+    {
+      "slug": "al-hujwiri-kashf-al-mahjub",
+      "host": "project-gutenberg",
+      "upstream": "https://www.gutenberg.org/ebooks/64786",
+      "chapters": 25,
+      "passages": 1331,
+      "translator": "Reynold A. Nicholson"
+    },
+    {
+      "slug": "saadi-gulistan",
+      "host": "project-gutenberg",
+      "upstream": "https://www.gutenberg.org/ebooks/13060",
+      "chapters": 8,
+      "passages": 622,
+      "translator": "James Ross"
+    },
+    {
+      "slug": "hafiz-divan",
+      "host": "project-gutenberg",
+      "upstream": "https://www.gutenberg.org/ebooks/74883",
+      "chapters": 1,
+      "passages": 2343,
+      "translator": "Gertrude Lowthian Bell"
+    },
+    {
+      "slug": "jami-salaman-and-absal",
+      "host": "project-gutenberg",
+      "upstream": "https://www.gutenberg.org/ebooks/22535",
+      "chapters": 1,
+      "passages": 1956,
+      "translator": "Edward FitzGerald"
+    },
+    {
+      "slug": "al-ghazali-moral-teachings",
+      "host": "project-gutenberg",
+      "upstream": "https://www.gutenberg.org/ebooks/73140",
+      "chapters": 8,
+      "passages": 139,
+      "translator": "Syed Nawab Ali"
+    },
+    {
+      "slug": "ibn-tufail-hayy-ibn-yaqzan",
+      "host": "project-gutenberg",
+      "upstream": "https://www.gutenberg.org/ebooks/34572",
+      "chapters": 1,
+      "passages": 235,
+      "translator": "Paul Brönnle"
+    },
+    {
+      "slug": "attar-bird-parliament",
+      "host": "internet-archive",
+      "upstream": "https://archive.org/details/BirdParliamentEnglishFareeduddinAttaarFitzgerald",
+      "chapters": 1,
+      "passages": 1438,
+      "translator": "Edward FitzGerald"
+    },
+    {
+      "slug": "tafsir-al-tabari",
+      "host": "quran-com-tafsir",
+      "upstream": "https://quran.com/tafsirs/15",
+      "chapters": 114,
+      "passages": 6236,
+      "translator": ""
+    },
+    {
+      "slug": "tafsir-ibn-kathir",
+      "host": "quran-com-tafsir",
+      "upstream": "https://quran.com/tafsirs/14",
+      "chapters": 114,
+      "passages": 6236,
+      "translator": ""
+    },
+    {
+      "slug": "tafsir-al-qurtubi",
+      "host": "quran-com-tafsir",
+      "upstream": "https://quran.com/tafsirs/90",
+      "chapters": 114,
+      "passages": 6236,
+      "translator": ""
+    },
+    {
+      "slug": "nawawi-forty",
+      "host": "hadith-api",
+      "upstream": "eng-nawawi",
+      "chapters": 1,
+      "passages": 42,
+      "translator": "Not stated by the host"
+    }
+  ],
+  "catalogueOnly": [],
+  "failures": [],
+  "totals": {
+    "works": 25,
+    "chapters": 885,
+    "passages": 72526
+  }
+}

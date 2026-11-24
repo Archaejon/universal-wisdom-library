@@ -204,7 +204,10 @@ describe("Jainism: the four works of Jacobi's Jaina Sutras", () => {
     expect(work.chapters.at(-1)!.label).toBe("Book II, Lecture 7 — Nâlandâ");
   });
 
-  test.each(WORKS)("%s is indexed exactly as the views were reviewed", (slug, chapters) => {
+  // The import cache (data/imports/cache) is not in git, so these comparisons
+  // run only where the importer has been run.
+  const hasCache = existsSync(join(ROOT, "data/imports/cache/sacred-texts-json"));
+  test.skipIf(!hasCache).each(WORKS)("%s is indexed exactly as the views were reviewed", (slug, chapters) => {
     const work = readJson(`data/corpus/works/${slug}.json`) as Work;
     const cache = readJson(`data/imports/cache/sacred-texts-json/${slug}.json`) as {
       provider: string;

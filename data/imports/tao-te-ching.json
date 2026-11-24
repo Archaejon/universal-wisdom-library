@@ -1,0 +1,41 @@
+{
+  "source": "project-gutenberg + wikisource",
+  "retrieved_at": "2026-10-23",
+  "note": "The complete Daodejing: Legge's translation from Project Gutenberg eBook #216 and the Chinese text of Wang Bi's recension from Wikisource. Both are public domain. The work file holds the text locally because the two editions are read in parallel and the corpus cites the book by chapter.",
+  "works": [
+    {
+      "slug": "tao-te-ching",
+      "title": "Tao Te Ching",
+      "chapters": 81,
+      "passages": 81,
+      "editions": [
+        {
+          "slug": "tao-zh-wangbi",
+          "language": "zh",
+          "source": "wikisource",
+          "source_url": "https://zh.wikisource.org/wiki/%E9%81%93%E5%BE%B7%E7%B6%93%20(%E7%8E%8B%E5%BC%BC%E6%9C%AC)",
+          "page": "道德經 (王弼本)",
+          "characters": 6457,
+          "checksum": "e1daac8374bc3acd9fd70aa7492dc48fc8ac872bf4e1a4a9da15e4f3bcd52e4b"
+        },
+        {
+          "slug": "tao-en-legge",
+          "language": "en",
+          "source": "project-gutenberg",
+          "source_url": "https://www.gutenberg.org/ebooks/216.txt.utf-8",
+          "ebook": 216,
+          "words": 10557,
+          "checksum": "1498ff1419ab4dd97810c57a50c73adb19888b46f1e8532a235060fa26fc2a87"
+        }
+      ],
+      "validation": "aligned"
+    }
+  ],
+  "totals": {
+    "works": 1,
+    "chapters": 81,
+    "passages": 81,
+    "words": 10557,
+    "characters": 6457
+  }
+}

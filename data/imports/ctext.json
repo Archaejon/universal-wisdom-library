@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "source": "ctext",
+  "generatedAt": "2026-10-27T11:03:05.038Z",
+  "works": [
+    {
+      "slug": "analects-zh",
+      "title": "Analects — the Chinese text",
+      "path": "analects",
+      "url": "https://ctext.org/analects/zh",
+      "tradition": "confucianism",
+      "category": "Confucian classics",
+      "chapters": 20,
+      "passages": 503,
+      "words": 21503,
+      "validation": "aligned",
+      "retrieved_at": "2026-10-27T11:03:05.038Z"
+    },
+    {
+      "slug": "liji-zh",
+      "title": "Book of Rites — the Chinese text",
+      "path": "liji",
+      "url": "https://ctext.org/liji/zh",
+      "tradition": "confucianism",
+      "category": "Confucian classics",
+      "chapters": 38,
+      "passages": 1761,
+      "words": 111508,
+      "validation": "aligned",
+      "retrieved_at": "2026-10-27T11:03:05.038Z"
+    },
+    {
+      "slug": "mengzi-zh",
+      "title": "Mengzi — the Chinese text",
+      "path": "mengzi",
+      "url": "https://ctext.org/mengzi/zh",
+      "tradition": "confucianism",
+      "category": "Confucian classics",
+      "chapters": 14,
+      "passages": 690,
+      "words": 44845,
+      "validation": "aligned",
+      "retrieved_at": "2026-10-27T11:03:05.038Z"
+    }
+  ],
+  "totals": {
+    "works": 3,
+    "chapters": 72,
+    "passages": 2954,
+    "words": 177856
+  }
+}

@@ -1,0 +1,796 @@
+{
+  "source": "christian-sources",
+  "retrieved_at": "2026-10-20",
+  "note": "Catalogue records, chapter outlines and passage indexes only. Bible verses, patristic sections and Summa articles are streamed from their hosts at read time and are not stored in this corpus.",
+  "hosts": [
+    {
+      "id": "bolls",
+      "name": "Bolls Bible API",
+      "url": "https://bolls.life/",
+      "licence": "public-domain"
+    },
+    {
+      "id": "ccel",
+      "name": "Christian Classics Ethereal Library",
+      "url": "https://ccel.org/",
+      "licence": "public-domain"
+    },
+    {
+      "id": "newadvent",
+      "name": "New Advent",
+      "url": "https://www.newadvent.org/",
+      "licence": "public-domain"
+    }
+  ],
+  "works": [
+    {
+      "slug": "augustine-city-of-god",
+      "host": "newadvent",
+      "upstream": "The City of God, books I–XXII",
+      "chapters": 22,
+      "passages": 687,
+      "translator": "Marcus Dods"
+    },
+    {
+      "slug": "apocryphal-acts-and-apocalypses",
+      "host": "ccel",
+      "upstream": "schaff/anf08",
+      "chapters": 201,
+      "passages": 1575,
+      "translator": "Alexander Roberts and James Donaldson"
+    },
+    {
+      "slug": "excerpts-of-theodotus",
+      "host": "ccel",
+      "upstream": "schaff/anf08",
+      "chapters": 2,
+      "passages": 78,
+      "translator": "William Wilson"
+    },
+    {
+      "slug": "aquinas-summa-theologica",
+      "host": "newadvent",
+      "upstream": "Summa Theologica",
+      "chapters": 611,
+      "passages": 3115,
+      "translator": "Fathers of the English Dominican Province"
+    },
+    {
+      "slug": "bible-genesis",
+      "host": "bolls",
+      "upstream": "book 1",
+      "chapters": 50,
+      "passages": 1533,
+      "originalEdition": "WLC",
+      "englishEdition": "KJV"
+    },
+    {
+      "slug": "bible-exodus",
+      "host": "bolls",
+      "upstream": "book 2",
+      "chapters": 40,
+      "passages": 1213,
+      "originalEdition": "WLC",
+      "englishEdition": "KJV"
+    },
+    {
+      "slug": "bible-leviticus",
+      "host": "bolls",
+      "upstream": "book 3",
+      "chapters": 27,
+      "passages": 859,
+      "originalEdition": "WLC",
+      "englishEdition": "KJV"
+    },
+    {
+      "slug": "bible-numbers",
+      "host": "bolls",
+      "upstream": "book 4",
+      "chapters": 36,
+      "passages": 1288,
+      "originalEdition": "WLC",
+      "englishEdition": "KJV"
+    },
+    {
+      "slug": "bible-deuteronomy",
+      "host": "bolls",
+      "upstream": "book 5",
+      "chapters": 34,
+      "passages": 959,
+      "originalEdition": "WLC",
+      "englishEdition": "KJV"
+    },
+    {
+      "slug": "bible-joshua",
+      "host": "bolls",
+      "upstream": "book 6",
+      "chapters": 24,
+      "passages": 658,
+      "originalEdition": "WLC",
+      "englishEdition": "KJV"
+    },
+    {
+      "slug": "bible-judges",
+      "host": "bolls",
+      "upstream": "book 7",
+      "chapters": 21,
+      "passages": 618,
+      "originalEdition": "WLC",
+      "englishEdition": "KJV"
+    },
+    {
+      "slug": "bible-ruth",
+      "host": "bolls",
+      "upstream": "book 8",
+      "chapters": 4,
+      "passages": 85,
+      "originalEdition": "WLC",
+      "englishEdition": "KJV"
+    },
+    {
+      "slug": "bible-1-samuel",
+      "host": "bolls",
+      "upstream": "book 9",
+      "chapters": 31,
+      "passages": 810,
+      "originalEdition": "WLC",
+      "englishEdition": "KJV"
+    },
+    {
+      "slug": "bible-2-samuel",
+      "host": "bolls",
+      "upstream": "book 10",
+      "chapters": 24,
+      "passages": 695,
+      "originalEdition": "WLC",
+      "englishEdition": "KJV"
+    },
+    {
+      "slug": "bible-1-kings",
+      "host": "bolls",
+      "upstream": "book 11",
+      "chapters": 22,
+      "passages": 816,
+      "originalEdition": "WLC",
+      "englishEdition": "KJV"
+    },
+    {
+      "slug": "bible-2-kings",
+      "host": "bolls",
+      "upstream": "book 12",
+      "chapters": 25,
+      "passages": 719,
+      "originalEdition": "WLC",
+      "englishEdition": "KJV"
+    },
+    {
+      "slug": "bible-1-chronicles",
+      "host": "bolls",
+      "upstream": "book 13",
+      "chapters": 29,
+      "passages": 942,
+      "originalEdition": "WLC",
+      "englishEdition": "KJV"
+    },
+    {
+      "slug": "bible-2-chronicles",
+      "host": "bolls",
+      "upstream": "book 14",
+      "chapters": 36,
+      "passages": 822,
+      "originalEdition": "WLC",
+      "englishEdition": "KJV"
+    },
+    {
+      "slug": "bible-ezra",
+      "host": "bolls",
+      "upstream": "book 15",
+      "chapters": 10,
+      "passages": 280,
+      "originalEdition": "WLC",
+      "englishEdition": "KJV"
+    },
+    {
+      "slug": "bible-nehemiah",
+      "host": "bolls",
+      "upstream": "book 16",
+      "chapters": 13,
+      "passages": 406,
+      "originalEdition": "WLC",
+      "englishEdition": "KJV"
+    },
+    {
+      "slug": "bible-esther",
+      "host": "bolls",
+      "upstream": "book 17",
+      "chapters": 16,
+      "passages": 272,
+      "originalEdition": "WLC",
+      "englishEdition": "KJV"
+    },
+    {
+      "slug": "bible-job",
+      "host": "bolls",
+      "upstream": "book 18",
+      "chapters": 42,
+      "passages": 1070,
+      "originalEdition": "WLC",
+      "englishEdition": "KJV"
+    },
+    {
+      "slug": "bible-psalms",
+      "host": "bolls",
+      "upstream": "book 19",
+      "chapters": 150,
+      "passages": 2461,
+      "originalEdition": "WLC",
+      "englishEdition": "KJV"
+    },
+    {
+      "slug": "bible-proverbs",
+      "host": "bolls",
+      "upstream": "book 20",
+      "chapters": 31,
+      "passages": 915,
+      "originalEdition": "WLC",
+      "englishEdition": "KJV"
+    },
+    {
+      "slug": "bible-ecclesiastes",
+      "host": "bolls",
+      "upstream": "book 21",
+      "chapters": 12,
+      "passages": 222,
+      "originalEdition": "WLC",
+      "englishEdition": "KJV"
+    },
+    {
+      "slug": "bible-song-of-solomon",
+      "host": "bolls",
+      "upstream": "book 22",
+      "chapters": 8,
+      "passages": 117,
+      "originalEdition": "WLC",
+      "englishEdition": "KJV"
+    },
+    {
+      "slug": "bible-isaiah",
+      "host": "bolls",
+      "upstream": "book 23",
+      "chapters": 66,
+      "passages": 1292,
+      "originalEdition": "WLC",
+      "englishEdition": "KJV"
+    },
+    {
+      "slug": "bible-jeremiah",
+      "host": "bolls",
+      "upstream": "book 24",
+      "chapters": 52,
+      "passages": 1364,
+      "originalEdition": "WLC",
+      "englishEdition": "KJV"
+    },
+    {
+      "slug": "bible-lamentations",
+      "host": "bolls",
+      "upstream": "book 25",
+      "chapters": 5,
+      "passages": 154,
+      "originalEdition": "WLC",
+      "englishEdition": "KJV"
+    },
+    {
+      "slug": "bible-ezekiel",
+      "host": "bolls",
+      "upstream": "book 26",
+      "chapters": 48,
+      "passages": 1273,
+      "originalEdition": "WLC",
+      "englishEdition": "KJV"
+    },
+    {
+      "slug": "bible-daniel",
+      "host": "bolls",
+      "upstream": "book 27",
+      "chapters": 12,
+      "passages": 357,
+      "originalEdition": "WLC",
+      "englishEdition": "KJV"
+    },
+    {
+      "slug": "bible-hosea",
+      "host": "bolls",
+      "upstream": "book 28",
+      "chapters": 14,
+      "passages": 197,
+      "originalEdition": "WLC",
+      "englishEdition": "KJV"
+    },
+    {
+      "slug": "bible-joel",
+      "host": "bolls",
+      "upstream": "book 29",
+      "chapters": 3,
+      "passages": 73,
+      "originalEdition": "WLC",
+      "englishEdition": "KJV"
+    },
+    {
+      "slug": "bible-amos",
+      "host": "bolls",
+      "upstream": "book 30",
+      "chapters": 9,
+      "passages": 146,
+      "originalEdition": "WLC",
+      "englishEdition": "KJV"
+    },
+    {
+      "slug": "bible-obadiah",
+      "host": "bolls",
+      "upstream": "book 31",
+      "chapters": 1,
+      "passages": 21,
+      "originalEdition": "WLC",
+      "englishEdition": "KJV"
+    },
+    {
+      "slug": "bible-jonah",
+      "host": "bolls",
+      "upstream": "book 32",
+      "chapters": 4,
+      "passages": 48,
+      "originalEdition": "WLC",
+      "englishEdition": "KJV"
+    },
+    {
+      "slug": "bible-micah",
+      "host": "bolls",
+      "upstream": "book 33",
+      "chapters": 7,
+      "passages": 105,
+      "originalEdition": "WLC",
+      "englishEdition": "KJV"
+    },
+    {
+      "slug": "bible-nahum",
+      "host": "bolls",
+      "upstream": "book 34",
+      "chapters": 3,
+      "passages": 47,
+      "originalEdition": "WLC",
+      "englishEdition": "KJV"
+    },
+    {
+      "slug": "bible-habakkuk",
+      "host": "bolls",
+      "upstream": "book 35",
+      "chapters": 3,
+      "passages": 56,
+      "originalEdition": "WLC",
+      "englishEdition": "KJV"
+    },
+    {
+      "slug": "bible-zephaniah",
+      "host": "bolls",
+      "upstream": "book 36",
+      "chapters": 3,
+      "passages": 53,
+      "originalEdition": "WLC",
+      "englishEdition": "KJV"
+    },
+    {
+      "slug": "bible-haggai",
+      "host": "bolls",
+      "upstream": "book 37",
+      "chapters": 2,
+      "passages": 38,
+      "originalEdition": "WLC",
+      "englishEdition": "KJV"
+    },
+    {
+      "slug": "bible-zechariah",
+      "host": "bolls",
+      "upstream": "book 38",
+      "chapters": 14,
+      "passages": 211,
+      "originalEdition": "WLC",
+      "englishEdition": "KJV"
+    },
+    {
+      "slug": "bible-malachi",
+      "host": "bolls",
+      "upstream": "book 39",
+      "chapters": 4,
+      "passages": 55,
+      "originalEdition": "WLC",
+      "englishEdition": "KJV"
+    },
+    {
+      "slug": "bible-matthew",
+      "host": "bolls",
+      "upstream": "book 40",
+      "chapters": 28,
+      "passages": 1071,
+      "originalEdition": "TR",
+      "englishEdition": "KJV"
+    },
+    {
+      "slug": "bible-mark",
+      "host": "bolls",
+      "upstream": "book 41",
+      "chapters": 16,
+      "passages": 678,
+      "originalEdition": "TR",
+      "englishEdition": "KJV"
+    },
+    {
+      "slug": "bible-luke",
+      "host": "bolls",
+      "upstream": "book 42",
+      "chapters": 24,
+      "passages": 1151,
+      "originalEdition": "TR",
+      "englishEdition": "KJV"
+    },
+    {
+      "slug": "bible-john",
+      "host": "bolls",
+      "upstream": "book 43",
+      "chapters": 21,
+      "passages": 879,
+      "originalEdition": "TR",
+      "englishEdition": "KJV"
+    },
+    {
+      "slug": "bible-acts",
+      "host": "bolls",
+      "upstream": "book 44",
+      "chapters": 28,
+      "passages": 1007,
+      "originalEdition": "TR",
+      "englishEdition": "KJV"
+    },
+    {
+      "slug": "bible-romans",
+      "host": "bolls",
+      "upstream": "book 45",
+      "chapters": 16,
+      "passages": 433,
+      "originalEdition": "TR",
+      "englishEdition": "KJV"
+    },
+    {
+      "slug": "bible-1-corinthians",
+      "host": "bolls",
+      "upstream": "book 46",
+      "chapters": 16,
+      "passages": 437,
+      "originalEdition": "TR",
+      "englishEdition": "KJV"
+    },
+    {
+      "slug": "bible-2-corinthians",
+      "host": "bolls",
+      "upstream": "book 47",
+      "chapters": 13,
+      "passages": 257,
+      "originalEdition": "TR",
+      "englishEdition": "KJV"
+    },
+    {
+      "slug": "bible-galatians",
+      "host": "bolls",
+      "upstream": "book 48",
+      "chapters": 6,
+      "passages": 149,
+      "originalEdition": "TR",
+      "englishEdition": "KJV"
+    },
+    {
+      "slug": "bible-ephesians",
+      "host": "bolls",
+      "upstream": "book 49",
+      "chapters": 6,
+      "passages": 155,
+      "originalEdition": "TR",
+      "englishEdition": "KJV"
+    },
+    {
+      "slug": "bible-philippians",
+      "host": "bolls",
+      "upstream": "book 50",
+      "chapters": 4,
+      "passages": 104,
+      "originalEdition": "TR",
+      "englishEdition": "KJV"
+    },
+    {
+      "slug": "bible-colossians",
+      "host": "bolls",
+      "upstream": "book 51",
+      "chapters": 4,
+      "passages": 95,
+      "originalEdition": "TR",
+      "englishEdition": "KJV"
+    },
+    {
+      "slug": "bible-1-thessalonians",
+      "host": "bolls",
+      "upstream": "book 52",
+      "chapters": 5,
+      "passages": 89,
+      "originalEdition": "TR",
+      "englishEdition": "KJV"
+    },
+    {
+      "slug": "bible-2-thessalonians",
+      "host": "bolls",
+      "upstream": "book 53",
+      "chapters": 3,
+      "passages": 47,
+      "originalEdition": "TR",
+      "englishEdition": "KJV"
+    },
+    {
+      "slug": "bible-1-timothy",
+      "host": "bolls",
+      "upstream": "book 54",
+      "chapters": 6,
+      "passages": 113,
+      "originalEdition": "TR",
+      "englishEdition": "KJV"
+    },
+    {
+      "slug": "bible-2-timothy",
+      "host": "bolls",
+      "upstream": "book 55",
+      "chapters": 4,
+      "passages": 83,
+      "originalEdition": "TR",
+      "englishEdition": "KJV"
+    },
+    {
+      "slug": "bible-titus",
+      "host": "bolls",
+      "upstream": "book 56",
+      "chapters": 3,
+      "passages": 46,
+      "originalEdition": "TR",
+      "englishEdition": "KJV"
+    },
+    {
+      "slug": "bible-philemon",
+      "host": "bolls",
+      "upstream": "book 57",
+      "chapters": 1,
+      "passages": 25,
+      "originalEdition": "TR",
+      "englishEdition": "KJV"
+    },
+    {
+      "slug": "bible-hebrews",
+      "host": "bolls",
+      "upstream": "book 58",
+      "chapters": 13,
+      "passages": 303,
+      "originalEdition": "TR",
+      "englishEdition": "KJV"
+    },
+    {
+      "slug": "bible-james",
+      "host": "bolls",
+      "upstream": "book 59",
+      "chapters": 5,
+      "passages": 108,
+      "originalEdition": "TR",
+      "englishEdition": "KJV"
+    },
+    {
+      "slug": "bible-1-peter",
+      "host": "bolls",
+      "upstream": "book 60",
+      "chapters": 5,
+      "passages": 105,
+      "originalEdition": "TR",
+      "englishEdition": "KJV"
+    },
+    {
+      "slug": "bible-2-peter",
+      "host": "bolls",
+      "upstream": "book 61",
+      "chapters": 3,
+      "passages": 61,
+      "originalEdition": "TR",
+      "englishEdition": "KJV"
+    },
+    {
+      "slug": "bible-1-john",
+      "host": "bolls",
+      "upstream": "book 62",
+      "chapters": 5,
+      "passages": 105,
+      "originalEdition": "TR",
+      "englishEdition": "KJV"
+    },
+    {
+      "slug": "bible-2-john",
+      "host": "bolls",
+      "upstream": "book 63",
+      "chapters": 1,
+      "passages": 13,
+      "originalEdition": "TR",
+      "englishEdition": "KJV"
+    },
+    {
+      "slug": "bible-3-john",
+      "host": "bolls",
+      "upstream": "book 64",
+      "chapters": 1,
+      "passages": 14,
+      "originalEdition": "TR",
+      "englishEdition": "KJV"
+    },
+    {
+      "slug": "bible-jude",
+      "host": "bolls",
+      "upstream": "book 65",
+      "chapters": 1,
+      "passages": 25,
+      "originalEdition": "TR",
+      "englishEdition": "KJV"
+    },
+    {
+      "slug": "bible-revelation",
+      "host": "bolls",
+      "upstream": "book 66",
+      "chapters": 22,
+      "passages": 404,
+      "originalEdition": "TR",
+      "englishEdition": "KJV"
+    },
+    {
+      "slug": "augustine-confessions",
+      "host": "ccel",
+      "upstream": "augustine/confess",
+      "chapters": 276,
+      "passages": 476,
+      "translator": "Edward Bouverie Pusey"
+    },
+    {
+      "slug": "augustine-on-christian-doctrine",
+      "host": "ccel",
+      "upstream": "augustine/doctrine",
+      "chapters": 157,
+      "passages": 264,
+      "translator": "J. F. Shaw"
+    },
+    {
+      "slug": "aquinas-summa-contra-gentiles",
+      "host": "ccel",
+      "upstream": "aquinas/gentiles",
+      "chapters": 387,
+      "passages": 2283,
+      "translator": "Joseph Rickaby"
+    },
+    {
+      "slug": "irenaeus-against-heresies",
+      "host": "ccel",
+      "upstream": "irenaeus/against_heresies_i",
+      "chapters": 174,
+      "passages": 773,
+      "translator": "Alexander Roberts and W. H. Rambaut"
+    },
+    {
+      "slug": "athanasius-on-the-incarnation",
+      "host": "ccel",
+      "upstream": "athanasius/incarnation",
+      "chapters": 10,
+      "passages": 145,
+      "translator": "Archibald Robertson"
+    },
+    {
+      "slug": "athanasius-against-the-arians",
+      "host": "ccel",
+      "upstream": "schaff/npnf204",
+      "chapters": 42,
+      "passages": 407,
+      "translator": "Archibald Robertson"
+    },
+    {
+      "slug": "socrates-scholasticus-church-history",
+      "host": "ccel",
+      "upstream": "schaff/npnf202",
+      "chapters": 255,
+      "passages": 811,
+      "translator": "A. C. Zenos"
+    },
+    {
+      "slug": "sozomen-church-history",
+      "host": "ccel",
+      "upstream": "schaff/npnf202",
+      "chapters": 256,
+      "passages": 1543,
+      "translator": "A. C. Zenos"
+    },
+    {
+      "slug": "origen-against-celsus",
+      "host": "ccel",
+      "upstream": "origen/against_celsus",
+      "chapters": 623,
+      "passages": 1425,
+      "translator": "Frederick Crombie"
+    },
+    {
+      "slug": "tertullian-apology",
+      "host": "ccel",
+      "upstream": "tertullian/apology",
+      "chapters": 51,
+      "passages": 176,
+      "translator": "S. Thelwall"
+    },
+    {
+      "slug": "tertullian-against-marcion",
+      "host": "ccel",
+      "upstream": "tertullian/against_marcion",
+      "chapters": 151,
+      "passages": 397,
+      "translator": "Peter Holmes"
+    },
+    {
+      "slug": "tertullian-against-the-valentinians",
+      "host": "ccel",
+      "upstream": "tertullian/against_valentinians",
+      "chapters": 39,
+      "passages": 83,
+      "translator": "Peter Holmes"
+    },
+    {
+      "slug": "hippolytus-refutation-of-all-heresies",
+      "host": "ccel",
+      "upstream": "hippolytus/refutation",
+      "chapters": 376,
+      "passages": 1875,
+      "translator": "J. H. MacMahon"
+    },
+    {
+      "slug": "cyprian-treatises",
+      "host": "ccel",
+      "upstream": "cyprian/treatises",
+      "chapters": 205,
+      "passages": 944,
+      "translator": "Robert Ernest Wallis"
+    },
+    {
+      "slug": "justin-martyr-first-apology",
+      "host": "ccel",
+      "upstream": "justin_martyr/first_apology",
+      "chapters": 71,
+      "passages": 73,
+      "translator": "Marcus Dods"
+    }
+  ],
+  "catalogueOnly": [
+    {
+      "slug": "gospel-of-thomas",
+      "title": "The Gospel of Thomas",
+      "note": "Catalogue record only. The standard English translations (Lambdin; Patterson and Meyer) are in copyright, and no public-domain translation of the complete Coptic text has been verified. The text is not reproduced here."
+    },
+    {
+      "slug": "pistis-sophia",
+      "title": "Pistis Sophia",
+      "note": "Catalogue record only. The 1896 translation by G. R. S. Mead is public domain, but the digital editions this project could verify are presented through interfaces that do not permit text retrieval. Nothing is reproduced."
+    },
+    {
+      "slug": "arius-thalia",
+      "title": "Thalia and Letters of Arius",
+      "note": "Catalogue record only. The surviving text is fragmentary and is quoted inside the works of Athanasius and Socrates Scholasticus, which are streamed here. A separate edition of the fragments has not been imported."
+    }
+  ],
+  "failures": [],
+  "totals": {
+    "works": 85,
+    "chapters": 5104,
+    "passages": 48337
+  }
+}

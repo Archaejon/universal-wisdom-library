@@ -1,0 +1,452 @@
+{
+  "source": "sefaria",
+  "source_url": "https://www.sefaria.org/",
+  "fetched_at": "2026-10-20T09:59:57.677Z",
+  "versions": {
+    "hebrew": {
+      "title": "Miqra according to the Masorah",
+      "licence": "CC-BY-SA"
+    },
+    "english": {
+      "title": "The Holy Scriptures: A New Translation (JPS 1917)",
+      "licence": "Public Domain"
+    }
+  },
+  "books": [
+    {
+      "title": "Genesis",
+      "slug": "genesis",
+      "division": "Torah",
+      "chapters": 50,
+      "hebrewVerses": 1533,
+      "englishVerses": 1533,
+      "sha256": "a13a779cf415a8b4202dcd091fb56d18cf3e925f8560e5f59693f1cece8fb677",
+      "hebrew_licence": "CC-BY-SA",
+      "english_licence": "Public Domain"
+    },
+    {
+      "title": "Exodus",
+      "slug": "exodus",
+      "division": "Torah",
+      "chapters": 40,
+      "hebrewVerses": 1210,
+      "englishVerses": 1210,
+      "sha256": "b5a62cedcf9ce6b1f142e88ebd155564545b6bbbfac65479872cb5a51e0f79b4",
+      "hebrew_licence": "CC-BY-SA",
+      "english_licence": "Public Domain"
+    },
+    {
+      "title": "Leviticus",
+      "slug": "leviticus",
+      "division": "Torah",
+      "chapters": 27,
+      "hebrewVerses": 859,
+      "englishVerses": 859,
+      "sha256": "71f1046ee591d15e8924354221b366247ef18fd49f1280a55af74e9d3fd4f20c",
+      "hebrew_licence": "CC-BY-SA",
+      "english_licence": "Public Domain"
+    },
+    {
+      "title": "Numbers",
+      "slug": "numbers",
+      "division": "Torah",
+      "chapters": 36,
+      "hebrewVerses": 1288,
+      "englishVerses": 1288,
+      "sha256": "2228eaa8c5833636c1f19c2d8c8ae2a93625e874d7d6e70e65cb58c6f9a3e61f",
+      "hebrew_licence": "CC-BY-SA",
+      "english_licence": "Public Domain"
+    },
+    {
+      "title": "Deuteronomy",
+      "slug": "deuteronomy",
+      "division": "Torah",
+      "chapters": 34,
+      "hebrewVerses": 956,
+      "englishVerses": 956,
+      "sha256": "f1112aa2362f92599afae1c6437916392ceb62932cab02165c33d9dea9cfe9a7",
+      "hebrew_licence": "CC-BY-SA",
+      "english_licence": "Public Domain"
+    },
+    {
+      "title": "Joshua",
+      "slug": "joshua",
+      "division": "Prophets",
+      "chapters": 24,
+      "hebrewVerses": 658,
+      "englishVerses": 658,
+      "sha256": "d551d54d4204c192a7d863cae1bb73d2469814d917bfdd3124daf8240d151440",
+      "hebrew_licence": "CC-BY-SA",
+      "english_licence": "Public Domain"
+    },
+    {
+      "title": "Judges",
+      "slug": "judges",
+      "division": "Prophets",
+      "chapters": 21,
+      "hebrewVerses": 618,
+      "englishVerses": 618,
+      "sha256": "c214c1868ade6bef7b5cea4b7b74d8c995445e9f7ee0bf3c7605ba821fb42415",
+      "hebrew_licence": "CC-BY-SA",
+      "english_licence": "Public Domain"
+    },
+    {
+      "title": "I Samuel",
+      "slug": "i-samuel",
+      "division": "Prophets",
+      "chapters": 31,
+      "hebrewVerses": 811,
+      "englishVerses": 811,
+      "sha256": "1e098990236f12e6570e769674314e63525dc58746287634fe14e9d70e894a5d",
+      "hebrew_licence": "CC-BY-SA",
+      "english_licence": "Public Domain"
+    },
+    {
+      "title": "II Samuel",
+      "slug": "ii-samuel",
+      "division": "Prophets",
+      "chapters": 24,
+      "hebrewVerses": 695,
+      "englishVerses": 695,
+      "sha256": "9571fdd418768fecc3f538f77768876a679d826a303a064360b5aaefdd2f73a6",
+      "hebrew_licence": "CC-BY-SA",
+      "english_licence": "Public Domain"
+    },
+    {
+      "title": "I Kings",
+      "slug": "i-kings",
+      "division": "Prophets",
+      "chapters": 22,
+      "hebrewVerses": 817,
+      "englishVerses": 817,
+      "sha256": "7db291f4d93d4379af703b68c4d32e6e25d6e990a7fbe6ed74e78c259ff7513c",
+      "hebrew_licence": "CC-BY-SA",
+      "english_licence": "Public Domain"
+    },
+    {
+      "title": "II Kings",
+      "slug": "ii-kings",
+      "division": "Prophets",
+      "chapters": 25,
+      "hebrewVerses": 719,
+      "englishVerses": 719,
+      "sha256": "6e17137b9b1cafc03fbc3f59986b5239e2ddbcffc8ad074c2b9d4ea248d001be",
+      "hebrew_licence": "CC-BY-SA",
+      "english_licence": "Public Domain"
+    },
+    {
+      "title": "Isaiah",
+      "slug": "isaiah",
+      "division": "Prophets",
+      "chapters": 66,
+      "hebrewVerses": 1291,
+      "englishVerses": 1291,
+      "sha256": "c014cb70f4b13a6162889941849dae5dfcf92300556b8af1dc0fc9913fcb08a4",
+      "hebrew_licence": "CC-BY-SA",
+      "english_licence": "Public Domain"
+    },
+    {
+      "title": "Jeremiah",
+      "slug": "jeremiah",
+      "division": "Prophets",
+      "chapters": 52,
+      "hebrewVerses": 1364,
+      "englishVerses": 1364,
+      "sha256": "c611e2a34e3b329b08eb5aca9ea3fbbfc0ba5bde300b1be06b47c5187579e51c",
+      "hebrew_licence": "CC-BY-SA",
+      "english_licence": "Public Domain"
+    },
+    {
+      "title": "Ezekiel",
+      "slug": "ezekiel",
+      "division": "Prophets",
+      "chapters": 48,
+      "hebrewVerses": 1273,
+      "englishVerses": 1273,
+      "sha256": "45e3d992ee3da4c89776ab4065fa52186455c9b8041b7922714fd41eae6e9418",
+      "hebrew_licence": "CC-BY-SA",
+      "english_licence": "Public Domain"
+    },
+    {
+      "title": "Hosea",
+      "slug": "hosea",
+      "division": "Prophets",
+      "chapters": 14,
+      "hebrewVerses": 197,
+      "englishVerses": 197,
+      "sha256": "0f243f45d25a92fe33a002afe9335760555021ea8e3eab189c0871bde421e6ae",
+      "hebrew_licence": "CC-BY-SA",
+      "english_licence": "Public Domain"
+    },
+    {
+      "title": "Joel",
+      "slug": "joel",
+      "division": "Prophets",
+      "chapters": 4,
+      "hebrewVerses": 73,
+      "englishVerses": 73,
+      "sha256": "fbadf80145ba8c463d5f1844288dfd583a005e9a78423eab54b168dc51c71734",
+      "hebrew_licence": "CC-BY-SA",
+      "english_licence": "Public Domain"
+    },
+    {
+      "title": "Amos",
+      "slug": "amos",
+      "division": "Prophets",
+      "chapters": 9,
+      "hebrewVerses": 146,
+      "englishVerses": 146,
+      "sha256": "f89d22345d1bd9b010f8315977caa81b5f82112a8607a70898a8109bea0a9498",
+      "hebrew_licence": "CC-BY-SA",
+      "english_licence": "Public Domain"
+    },
+    {
+      "title": "Obadiah",
+      "slug": "obadiah",
+      "division": "Prophets",
+      "chapters": 1,
+      "hebrewVerses": 21,
+      "englishVerses": 21,
+      "sha256": "0018f8c415389c2899481d36978fb829b691aceee53c851d2eddd7c31bd47c43",
+      "hebrew_licence": "CC-BY-SA",
+      "english_licence": "Public Domain"
+    },
+    {
+      "title": "Jonah",
+      "slug": "jonah",
+      "division": "Prophets",
+      "chapters": 4,
+      "hebrewVerses": 48,
+      "englishVerses": 48,
+      "sha256": "ac3ff90ead87b2d690c8675675ab5f71ab5154754432bcd0a16507ced8e5e38e",
+      "hebrew_licence": "CC-BY-SA",
+      "english_licence": "Public Domain"
+    },
+    {
+      "title": "Micah",
+      "slug": "micah",
+      "division": "Prophets",
+      "chapters": 7,
+      "hebrewVerses": 105,
+      "englishVerses": 105,
+      "sha256": "fa0ef6a4f36ea189e332dd99dc3f972e73a6092d69be74225b65bb7d40b21e6f",
+      "hebrew_licence": "CC-BY-SA",
+      "english_licence": "Public Domain"
+    },
+    {
+      "title": "Nahum",
+      "slug": "nahum",
+      "division": "Prophets",
+      "chapters": 3,
+      "hebrewVerses": 47,
+      "englishVerses": 47,
+      "sha256": "284a933d1ce62bfc51d0667a724bf5d17b8fc63ff523e0971382b5dff62ab0d3",
+      "hebrew_licence": "CC-BY-SA",
+      "english_licence": "Public Domain"
+    },
+    {
+      "title": "Habakkuk",
+      "slug": "habakkuk",
+      "division": "Prophets",
+      "chapters": 3,
+      "hebrewVerses": 56,
+      "englishVerses": 56,
+      "sha256": "6b9d04dcdebfa52eea8355d4f9b6defc1e192f2ef1c9cc4f165c2e03b35e38a1",
+      "hebrew_licence": "CC-BY-SA",
+      "english_licence": "Public Domain"
+    },
+    {
+      "title": "Zephaniah",
+      "slug": "zephaniah",
+      "division": "Prophets",
+      "chapters": 3,
+      "hebrewVerses": 53,
+      "englishVerses": 53,
+      "sha256": "57c868372c228ded21020a29a2b935b3c0c372d76a516a2f147aa625aa561451",
+      "hebrew_licence": "CC-BY-SA",
+      "english_licence": "Public Domain"
+    },
+    {
+      "title": "Haggai",
+      "slug": "haggai",
+      "division": "Prophets",
+      "chapters": 2,
+      "hebrewVerses": 38,
+      "englishVerses": 38,
+      "sha256": "8bd9a3f932e2a384e3b7a0889ef3f96a178d47eebbf238f189a82d50146535f5",
+      "hebrew_licence": "CC-BY-SA",
+      "english_licence": "Public Domain"
+    },
+    {
+      "title": "Zechariah",
+      "slug": "zechariah",
+      "division": "Prophets",
+      "chapters": 14,
+      "hebrewVerses": 211,
+      "englishVerses": 211,
+      "sha256": "09c04c62e6367e886a7b2cdef6acdd2ea03843e80badaec80a870fd8230d7b7a",
+      "hebrew_licence": "CC-BY-SA",
+      "english_licence": "Public Domain"
+    },
+    {
+      "title": "Malachi",
+      "slug": "malachi",
+      "division": "Prophets",
+      "chapters": 3,
+      "hebrewVerses": 55,
+      "englishVerses": 55,
+      "sha256": "33c88b332a529cb78974084fb455f5edab1c327f66a6c70900d2f75cd4780307",
+      "hebrew_licence": "CC-BY-SA",
+      "english_licence": "Public Domain"
+    },
+    {
+      "title": "Psalms",
+      "slug": "psalms",
+      "division": "Writings",
+      "chapters": 150,
+      "hebrewVerses": 2527,
+      "englishVerses": 2527,
+      "sha256": "e96cd59e84b51c9ce06f79cf61991cd58f890671f631c9c447fc12c1e12f692e",
+      "hebrew_licence": "CC-BY-SA",
+      "english_licence": "Public Domain"
+    },
+    {
+      "title": "Proverbs",
+      "slug": "proverbs",
+      "division": "Writings",
+      "chapters": 31,
+      "hebrewVerses": 915,
+      "englishVerses": 915,
+      "sha256": "9d33bdc900e1eeabe504583925ca27667244eceba1ee334eca8f4fd72b33ca23",
+      "hebrew_licence": "CC-BY-SA",
+      "english_licence": "Public Domain"
+    },
+    {
+      "title": "Job",
+      "slug": "job",
+      "division": "Writings",
+      "chapters": 42,
+      "hebrewVerses": 1070,
+      "englishVerses": 1070,
+      "sha256": "48ede17932cb065a6b3a2610db83929830735dd202ece8e44c94706a3beb51de",
+      "hebrew_licence": "CC-BY-SA",
+      "english_licence": "Public Domain"
+    },
+    {
+      "title": "Song of Songs",
+      "slug": "song-of-songs",
+      "division": "Writings",
+      "chapters": 8,
+      "hebrewVerses": 117,
+      "englishVerses": 117,
+      "sha256": "52d9db1a7482b9a18f4232c8f73223e8b7f393948a0b180bf25bcbe7a451e477",
+      "hebrew_licence": "CC-BY-SA",
+      "english_licence": "Public Domain"
+    },
+    {
+      "title": "Ruth",
+      "slug": "ruth",
+      "division": "Writings",
+      "chapters": 4,
+      "hebrewVerses": 85,
+      "englishVerses": 85,
+      "sha256": "717a416d104dd1a090b5d181acb5894a193b67696af78b6b16d2263d99c4d66a",
+      "hebrew_licence": "CC-BY-SA",
+      "english_licence": "Public Domain"
+    },
+    {
+      "title": "Lamentations",
+      "slug": "lamentations",
+      "division": "Writings",
+      "chapters": 5,
+      "hebrewVerses": 154,
+      "englishVerses": 154,
+      "sha256": "c5304505bdb8b1a5d4b0e7a9e81a2f358a4f7b2f5f4819fee40e53c68dc6a790",
+      "hebrew_licence": "CC-BY-SA",
+      "english_licence": "Public Domain"
+    },
+    {
+      "title": "Ecclesiastes",
+      "slug": "ecclesiastes",
+      "division": "Writings",
+      "chapters": 12,
+      "hebrewVerses": 222,
+      "englishVerses": 222,
+      "sha256": "26747ee3f31943df62a566483fa56a2e865d56e844f1dbc820ab2252294b9aca",
+      "hebrew_licence": "CC-BY-SA",
+      "english_licence": "Public Domain"
+    },
+    {
+      "title": "Esther",
+      "slug": "esther",
+      "division": "Writings",
+      "chapters": 10,
+      "hebrewVerses": 167,
+      "englishVerses": 167,
+      "sha256": "9e8f1b89aab3967f825da926fe74fa3d457e94ddbad9e0391da7aeb9c2c8792a",
+      "hebrew_licence": "CC-BY-SA",
+      "english_licence": "Public Domain"
+    },
+    {
+      "title": "Daniel",
+      "slug": "daniel",
+      "division": "Writings",
+      "chapters": 12,
+      "hebrewVerses": 357,
+      "englishVerses": 357,
+      "sha256": "f840d0c1d15bef26f2be2794bfcac4b823c03678d5ba57f6ebe6325c03085adb",
+      "hebrew_licence": "CC-BY-SA",
+      "english_licence": "Public Domain"
+    },
+    {
+      "title": "Ezra",
+      "slug": "ezra",
+      "division": "Writings",
+      "chapters": 10,
+      "hebrewVerses": 280,
+      "englishVerses": 280,
+      "sha256": "c7ef5c52a47b03d45cd2df8993e8eaf154dc9418cb1e14bf38df593ab65c3dc7",
+      "hebrew_licence": "CC-BY-SA",
+      "english_licence": "Public Domain"
+    },
+    {
+      "title": "Nehemiah",
+      "slug": "nehemiah",
+      "division": "Writings",
+      "chapters": 13,
+      "hebrewVerses": 405,
+      "englishVerses": 405,
+      "sha256": "cdfda79be6972ef0d46e42585b0664dae59eacf869471b9d884be24309828503",
+      "hebrew_licence": "CC-BY-SA",
+      "english_licence": "Public Domain"
+    },
+    {
+      "title": "I Chronicles",
+      "slug": "i-chronicles",
+      "division": "Writings",
+      "chapters": 29,
+      "hebrewVerses": 943,
+      "englishVerses": 943,
+      "sha256": "671ec58634a55a24e3ec507fd2d2e0c89945ef699dcfed9e361751791a32b908",
+      "hebrew_licence": "CC-BY-SA",
+      "english_licence": "Public Domain"
+    },
+    {
+      "title": "II Chronicles",
+      "slug": "ii-chronicles",
+      "division": "Writings",
+      "chapters": 36,
+      "hebrewVerses": 822,
+      "englishVerses": 822,
+      "sha256": "8c9cd1e385bb3ec1e127b20ed15f1adb2e8e3eb5c3b288f3adf4ffc5dc55efa6",
+      "hebrew_licence": "CC-BY-SA",
+      "english_licence": "Public Domain"
+    }
+  ],
+  "totals": {
+    "books": 39,
+    "chapters": 929,
+    "hebrewVerses": 23206,
+    "englishVerses": 23206
+  }
+}

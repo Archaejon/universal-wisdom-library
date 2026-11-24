@@ -1,0 +1,8605 @@
+{
+  "source": "srigranth",
+  "work": "guru-granth-sahib",
+  "generated_at": "2026-10-23T10:19:54.852Z",
+  "retrieved_at": "2026-10-23",
+  "file": {
+    "name": "Gurmukhi to English translation & transliterat of SGGS, SBS (Uni).docx",
+    "url": "https://www.gurbanifiles.net/translations/",
+    "bytes": 6102645,
+    "sha256": "79f77d71d97e1ed540b88f5120363ce1050131f2f4523e9cd2d82c831c57f561"
+  },
+  "permission": "Acquired under written permission from the rights holders (Kulbir S. Thind / Gurbani-CD and Sant Singh Khalsa). The permission letter is held by the project owner and is not stored in this repository.",
+  "editions": [
+    "guru-granth-sahib-pa (Gurmukhi)",
+    "guru-granth-sahib-en (Sant Singh Khalsa)"
+  ],
+  "totals": {
+    "angs": 1430,
+    "passages": 60477,
+    "gurmukhiWords": 465556,
+    "englishWords": 810556
+  },
+  "angs": [
+    {
+      "ang": 1,
+      "sentences": 23,
+      "gurmukhiWords": 179,
+      "englishWords": 314
+    },
+    {
+      "ang": 2,
+      "sentences": 48,
+      "gurmukhiWords": 343,
+      "englishWords": 584
+    },
+    {
+      "ang": 3,
+      "sentences": 65,
+      "gurmukhiWords": 370,
+      "englishWords": 546
+    },
+    {
+      "ang": 4,
+      "sentences": 60,
+      "gurmukhiWords": 368,
+      "englishWords": 569
+    },
+    {
+      "ang": 5,
+      "sentences": 58,
+      "gurmukhiWords": 356,
+      "englishWords": 585
+    },
+    {
+      "ang": 6,
+      "sentences": 43,
+      "gurmukhiWords": 341,
+      "englishWords": 615
+    },
+    {
+      "ang": 7,
+      "sentences": 50,
+      "gurmukhiWords": 345,
+      "englishWords": 602
+    },
+    {
+      "ang": 8,
+      "sentences": 48,
+      "gurmukhiWords": 325,
+      "englishWords": 579
+    },
+    {
+      "ang": 9,
+      "sentences": 49,
+      "gurmukhiWords": 354,
+      "englishWords": 588
+    },
+    {
+      "ang": 10,
+      "sentences": 32,
+      "gurmukhiWords": 305,
+      "englishWords": 559
+    },
+    {
+      "ang": 11,
+      "sentences": 35,
+      "gurmukhiWords": 353,
+      "englishWords": 495
+    },
+    {
+      "ang": 12,
+      "sentences": 41,
+      "gurmukhiWords": 296,
+      "englishWords": 487
+    },
+    {
+      "ang": 13,
+      "sentences": 35,
+      "gurmukhiWords": 345,
+      "englishWords": 651
+    },
+    {
+      "ang": 14,
+      "sentences": 28,
+      "gurmukhiWords": 240,
+      "englishWords": 432
+    },
+    {
+      "ang": 15,
+      "sentences": 39,
+      "gurmukhiWords": 333,
+      "englishWords": 615
+    },
+    {
+      "ang": 16,
+      "sentences": 40,
+      "gurmukhiWords": 330,
+      "englishWords": 593
+    },
+    {
+      "ang": 17,
+      "sentences": 42,
+      "gurmukhiWords": 343,
+      "englishWords": 637
+    },
+    {
+      "ang": 18,
+      "sentences": 41,
+      "gurmukhiWords": 324,
+      "englishWords": 612
+    },
+    {
+      "ang": 19,
+      "sentences": 41,
+      "gurmukhiWords": 340,
+      "englishWords": 638
+    },
+    {
+      "ang": 20,
+      "sentences": 41,
+      "gurmukhiWords": 335,
+      "englishWords": 635
+    },
+    {
+      "ang": 21,
+      "sentences": 39,
+      "gurmukhiWords": 330,
+      "englishWords": 633
+    },
+    {
+      "ang": 22,
+      "sentences": 39,
+      "gurmukhiWords": 328,
+      "englishWords": 615
+    },
+    {
+      "ang": 23,
+      "sentences": 39,
+      "gurmukhiWords": 333,
+      "englishWords": 615
+    },
+    {
+      "ang": 24,
+      "sentences": 46,
+      "gurmukhiWords": 344,
+      "englishWords": 600
+    },
+    {
+      "ang": 25,
+      "sentences": 57,
+      "gurmukhiWords": 373,
+      "englishWords": 608
+    },
+    {
+      "ang": 26,
+      "sentences": 37,
+      "gurmukhiWords": 306,
+      "englishWords": 550
+    },
+    {
+      "ang": 27,
+      "sentences": 38,
+      "gurmukhiWords": 337,
+      "englishWords": 560
+    },
+    {
+      "ang": 28,
+      "sentences": 36,
+      "gurmukhiWords": 334,
+      "englishWords": 564
+    },
+    {
+      "ang": 29,
+      "sentences": 37,
+      "gurmukhiWords": 307,
+      "englishWords": 629
+    },
+    {
+      "ang": 30,
+      "sentences": 40,
+      "gurmukhiWords": 339,
+      "englishWords": 623
+    },
+    {
+      "ang": 31,
+      "sentences": 39,
+      "gurmukhiWords": 334,
+      "englishWords": 580
+    },
+    {
+      "ang": 32,
+      "sentences": 38,
+      "gurmukhiWords": 338,
+      "englishWords": 629
+    },
+    {
+      "ang": 33,
+      "sentences": 39,
+      "gurmukhiWords": 342,
+      "englishWords": 633
+    },
+    {
+      "ang": 34,
+      "sentences": 40,
+      "gurmukhiWords": 330,
+      "englishWords": 626
+    },
+    {
+      "ang": 35,
+      "sentences": 39,
+      "gurmukhiWords": 331,
+      "englishWords": 587
+    },
+    {
+      "ang": 36,
+      "sentences": 41,
+      "gurmukhiWords": 340,
+      "englishWords": 592
+    },
+    {
+      "ang": 37,
+      "sentences": 40,
+      "gurmukhiWords": 343,
+      "englishWords": 629
+    },
+    {
+      "ang": 38,
+      "sentences": 39,
+      "gurmukhiWords": 330,
+      "englishWords": 590
+    },
+    {
+      "ang": 39,
+      "sentences": 38,
+      "gurmukhiWords": 348,
+      "englishWords": 591
+    },
+    {
+      "ang": 40,
+      "sentences": 35,
+      "gurmukhiWords": 328,
+      "englishWords": 608
+    },
+    {
+      "ang": 41,
+      "sentences": 37,
+      "gurmukhiWords": 350,
+      "englishWords": 602
+    },
+    {
+      "ang": 42,
+      "sentences": 38,
+      "gurmukhiWords": 322,
+      "englishWords": 566
+    },
+    {
+      "ang": 43,
+      "sentences": 42,
+      "gurmukhiWords": 336,
+      "englishWords": 561
+    },
+    {
+      "ang": 44,
+      "sentences": 41,
+      "gurmukhiWords": 348,
+      "englishWords": 613
+    },
+    {
+      "ang": 45,
+      "sentences": 41,
+      "gurmukhiWords": 342,
+      "englishWords": 597
+    },
+    {
+      "ang": 46,
+      "sentences": 40,
+      "gurmukhiWords": 315,
+      "englishWords": 616
+    },
+    {
+      "ang": 47,
+      "sentences": 39,
+      "gurmukhiWords": 332,
+      "englishWords": 562
+    },
+    {
+      "ang": 48,
+      "sentences": 39,
+      "gurmukhiWords": 322,
+      "englishWords": 591
+    },
+    {
+      "ang": 49,
+      "sentences": 40,
+      "gurmukhiWords": 336,
+      "englishWords": 611
+    },
+    {
+      "ang": 50,
+      "sentences": 40,
+      "gurmukhiWords": 327,
+      "englishWords": 577
+    },
+    {
+      "ang": 51,
+      "sentences": 42,
+      "gurmukhiWords": 324,
+      "englishWords": 566
+    },
+    {
+      "ang": 52,
+      "sentences": 41,
+      "gurmukhiWords": 327,
+      "englishWords": 620
+    },
+    {
+      "ang": 53,
+      "sentences": 38,
+      "gurmukhiWords": 312,
+      "englishWords": 547
+    },
+    {
+      "ang": 54,
+      "sentences": 40,
+      "gurmukhiWords": 327,
+      "englishWords": 675
+    },
+    {
+      "ang": 55,
+      "sentences": 41,
+      "gurmukhiWords": 336,
+      "englishWords": 632
+    },
+    {
+      "ang": 56,
+      "sentences": 42,
+      "gurmukhiWords": 335,
+      "englishWords": 625
+    },
+    {
+      "ang": 57,
+      "sentences": 41,
+      "gurmukhiWords": 348,
+      "englishWords": 668
+    },
+    {
+      "ang": 58,
+      "sentences": 40,
+      "gurmukhiWords": 355,
+      "englishWords": 617
+    },
+    {
+      "ang": 59,
+      "sentences": 41,
+      "gurmukhiWords": 324,
+      "englishWords": 588
+    },
+    {
+      "ang": 60,
+      "sentences": 39,
+      "gurmukhiWords": 342,
+      "englishWords": 613
+    },
+    {
+      "ang": 61,
+      "sentences": 41,
+      "gurmukhiWords": 349,
+      "englishWords": 632
+    },
+    {
+      "ang": 62,
+      "sentences": 42,
+      "gurmukhiWords": 352,
+      "englishWords": 652
+    },
+    {
+      "ang": 63,
+      "sentences": 40,
+      "gurmukhiWords": 323,
+      "englishWords": 645
+    },
+    {
+      "ang": 64,
+      "sentences": 36,
+      "gurmukhiWords": 301,
+      "englishWords": 550
+    },
+    {
+      "ang": 65,
+      "sentences": 36,
+      "gurmukhiWords": 329,
+      "englishWords": 620
+    },
+    {
+      "ang": 66,
+      "sentences": 40,
+      "gurmukhiWords": 338,
+      "englishWords": 648
+    },
+    {
+      "ang": 67,
+      "sentences": 36,
+      "gurmukhiWords": 334,
+      "englishWords": 597
+    },
+    {
+      "ang": 68,
+      "sentences": 38,
+      "gurmukhiWords": 329,
+      "englishWords": 599
+    },
+    {
+      "ang": 69,
+      "sentences": 37,
+      "gurmukhiWords": 315,
+      "englishWords": 623
+    },
+    {
+      "ang": 70,
+      "sentences": 39,
+      "gurmukhiWords": 333,
+      "englishWords": 643
+    },
+    {
+      "ang": 71,
+      "sentences": 49,
+      "gurmukhiWords": 290,
+      "englishWords": 505
+    },
+    {
+      "ang": 72,
+      "sentences": 46,
+      "gurmukhiWords": 307,
+      "englishWords": 488
+    },
+    {
+      "ang": 73,
+      "sentences": 47,
+      "gurmukhiWords": 325,
+      "englishWords": 537
+    },
+    {
+      "ang": 74,
+      "sentences": 41,
+      "gurmukhiWords": 299,
+      "englishWords": 514
+    },
+    {
+      "ang": 75,
+      "sentences": 32,
+      "gurmukhiWords": 321,
+      "englishWords": 577
+    },
+    {
+      "ang": 76,
+      "sentences": 32,
+      "gurmukhiWords": 330,
+      "englishWords": 618
+    },
+    {
+      "ang": 77,
+      "sentences": 31,
+      "gurmukhiWords": 317,
+      "englishWords": 557
+    },
+    {
+      "ang": 78,
+      "sentences": 30,
+      "gurmukhiWords": 283,
+      "englishWords": 586
+    },
+    {
+      "ang": 79,
+      "sentences": 34,
+      "gurmukhiWords": 322,
+      "englishWords": 602
+    },
+    {
+      "ang": 80,
+      "sentences": 37,
+      "gurmukhiWords": 298,
+      "englishWords": 594
+    },
+    {
+      "ang": 81,
+      "sentences": 33,
+      "gurmukhiWords": 290,
+      "englishWords": 524
+    },
+    {
+      "ang": 82,
+      "sentences": 35,
+      "gurmukhiWords": 334,
+      "englishWords": 573
+    },
+    {
+      "ang": 83,
+      "sentences": 47,
+      "gurmukhiWords": 342,
+      "englishWords": 522
+    },
+    {
+      "ang": 84,
+      "sentences": 47,
+      "gurmukhiWords": 362,
+      "englishWords": 560
+    },
+    {
+      "ang": 85,
+      "sentences": 44,
+      "gurmukhiWords": 347,
+      "englishWords": 586
+    },
+    {
+      "ang": 86,
+      "sentences": 42,
+      "gurmukhiWords": 333,
+      "englishWords": 573
+    },
+    {
+      "ang": 87,
+      "sentences": 38,
+      "gurmukhiWords": 337,
+      "englishWords": 591
+    },
+    {
+      "ang": 88,
+      "sentences": 45,
+      "gurmukhiWords": 346,
+      "englishWords": 576
+    },
+    {
+      "ang": 89,
+      "sentences": 39,
+      "gurmukhiWords": 330,
+      "englishWords": 541
+    },
+    {
+      "ang": 90,
+      "sentences": 42,
+      "gurmukhiWords": 317,
+      "englishWords": 535
+    },
+    {
+      "ang": 91,
+      "sentences": 37,
+      "gurmukhiWords": 307,
+      "englishWords": 527
+    },
+    {
+      "ang": 92,
+      "sentences": 35,
+      "gurmukhiWords": 321,
+      "englishWords": 551
+    },
+    {
+      "ang": 93,
+      "sentences": 34,
+      "gurmukhiWords": 304,
+      "englishWords": 591
+    },
+    {
+      "ang": 94,
+      "sentences": 27,
+      "gurmukhiWords": 237,
+      "englishWords": 397
+    },
+    {
+      "ang": 95,
+      "sentences": 43,
+      "gurmukhiWords": 345,
+      "englishWords": 637
+    },
+    {
+      "ang": 96,
+      "sentences": 34,
+      "gurmukhiWords": 288,
+      "englishWords": 498
+    },
+    {
+      "ang": 97,
+      "sentences": 44,
+      "gurmukhiWords": 335,
+      "englishWords": 526
+    },
+    {
+      "ang": 98,
+      "sentences": 45,
+      "gurmukhiWords": 317,
+      "englishWords": 576
+    },
+    {
+      "ang": 99,
+      "sentences": 44,
+      "gurmukhiWords": 321,
+      "englishWords": 527
+    },
+    {
+      "ang": 100,
+      "sentences": 45,
+      "gurmukhiWords": 347,
+      "englishWords": 569
+    },
+    {
+      "ang": 101,
+      "sentences": 43,
+      "gurmukhiWords": 321,
+      "englishWords": 521
+    },
+    {
+      "ang": 102,
+      "sentences": 44,
+      "gurmukhiWords": 334,
+      "englishWords": 596
+    },
+    {
+      "ang": 103,
+      "sentences": 45,
+      "gurmukhiWords": 334,
+      "englishWords": 534
+    },
+    {
+      "ang": 104,
+      "sentences": 45,
+      "gurmukhiWords": 323,
+      "englishWords": 498
+    },
+    {
+      "ang": 105,
+      "sentences": 47,
+      "gurmukhiWords": 331,
+      "englishWords": 553
+    },
+    {
+      "ang": 106,
+      "sentences": 45,
+      "gurmukhiWords": 325,
+      "englishWords": 523
+    },
+    {
+      "ang": 107,
+      "sentences": 47,
+      "gurmukhiWords": 341,
+      "englishWords": 565
+    },
+    {
+      "ang": 108,
+      "sentences": 44,
+      "gurmukhiWords": 312,
+      "englishWords": 564
+    },
+    {
+      "ang": 109,
+      "sentences": 43,
+      "gurmukhiWords": 293,
+      "englishWords": 556
+    },
+    {
+      "ang": 110,
+      "sentences": 43,
+      "gurmukhiWords": 312,
+      "englishWords": 573
+    },
+    {
+      "ang": 111,
+      "sentences": 44,
+      "gurmukhiWords": 325,
+      "englishWords": 609
+    },
+    {
+      "ang": 112,
+      "sentences": 45,
+      "gurmukhiWords": 320,
+      "englishWords": 598
+    },
+    {
+      "ang": 113,
+      "sentences": 45,
+      "gurmukhiWords": 332,
+      "englishWords": 577
+    },
+    {
+      "ang": 114,
+      "sentences": 43,
+      "gurmukhiWords": 318,
+      "englishWords": 604
+    },
+    {
+      "ang": 115,
+      "sentences": 42,
+      "gurmukhiWords": 317,
+      "englishWords": 599
+    },
+    {
+      "ang": 116,
+      "sentences": 44,
+      "gurmukhiWords": 325,
+      "englishWords": 587
+    },
+    {
+      "ang": 117,
+      "sentences": 45,
+      "gurmukhiWords": 319,
+      "englishWords": 635
+    },
+    {
+      "ang": 118,
+      "sentences": 43,
+      "gurmukhiWords": 319,
+      "englishWords": 585
+    },
+    {
+      "ang": 119,
+      "sentences": 45,
+      "gurmukhiWords": 326,
+      "englishWords": 565
+    },
+    {
+      "ang": 120,
+      "sentences": 44,
+      "gurmukhiWords": 323,
+      "englishWords": 603
+    },
+    {
+      "ang": 121,
+      "sentences": 42,
+      "gurmukhiWords": 312,
+      "englishWords": 628
+    },
+    {
+      "ang": 122,
+      "sentences": 44,
+      "gurmukhiWords": 322,
+      "englishWords": 604
+    },
+    {
+      "ang": 123,
+      "sentences": 41,
+      "gurmukhiWords": 312,
+      "englishWords": 564
+    },
+    {
+      "ang": 124,
+      "sentences": 42,
+      "gurmukhiWords": 326,
+      "englishWords": 587
+    },
+    {
+      "ang": 125,
+      "sentences": 45,
+      "gurmukhiWords": 312,
+      "englishWords": 563
+    },
+    {
+      "ang": 126,
+      "sentences": 42,
+      "gurmukhiWords": 306,
+      "englishWords": 613
+    },
+    {
+      "ang": 127,
+      "sentences": 45,
+      "gurmukhiWords": 328,
+      "englishWords": 628
+    },
+    {
+      "ang": 128,
+      "sentences": 44,
+      "gurmukhiWords": 323,
+      "englishWords": 644
+    },
+    {
+      "ang": 129,
+      "sentences": 42,
+      "gurmukhiWords": 307,
+      "englishWords": 589
+    },
+    {
+      "ang": 130,
+      "sentences": 46,
+      "gurmukhiWords": 338,
+      "englishWords": 609
+    },
+    {
+      "ang": 131,
+      "sentences": 43,
+      "gurmukhiWords": 315,
+      "englishWords": 567
+    },
+    {
+      "ang": 132,
+      "sentences": 47,
+      "gurmukhiWords": 324,
+      "englishWords": 561
+    },
+    {
+      "ang": 133,
+      "sentences": 34,
+      "gurmukhiWords": 292,
+      "englishWords": 542
+    },
+    {
+      "ang": 134,
+      "sentences": 39,
+      "gurmukhiWords": 335,
+      "englishWords": 642
+    },
+    {
+      "ang": 135,
+      "sentences": 38,
+      "gurmukhiWords": 329,
+      "englishWords": 603
+    },
+    {
+      "ang": 136,
+      "sentences": 37,
+      "gurmukhiWords": 313,
+      "englishWords": 570
+    },
+    {
+      "ang": 137,
+      "sentences": 43,
+      "gurmukhiWords": 330,
+      "englishWords": 562
+    },
+    {
+      "ang": 138,
+      "sentences": 42,
+      "gurmukhiWords": 349,
+      "englishWords": 607
+    },
+    {
+      "ang": 139,
+      "sentences": 45,
+      "gurmukhiWords": 334,
+      "englishWords": 565
+    },
+    {
+      "ang": 140,
+      "sentences": 44,
+      "gurmukhiWords": 349,
+      "englishWords": 646
+    },
+    {
+      "ang": 141,
+      "sentences": 44,
+      "gurmukhiWords": 336,
+      "englishWords": 611
+    },
+    {
+      "ang": 142,
+      "sentences": 55,
+      "gurmukhiWords": 358,
+      "englishWords": 651
+    },
+    {
+      "ang": 143,
+      "sentences": 54,
+      "gurmukhiWords": 343,
+      "englishWords": 655
+    },
+    {
+      "ang": 144,
+      "sentences": 61,
+      "gurmukhiWords": 349,
+      "englishWords": 582
+    },
+    {
+      "ang": 145,
+      "sentences": 47,
+      "gurmukhiWords": 348,
+      "englishWords": 606
+    },
+    {
+      "ang": 146,
+      "sentences": 48,
+      "gurmukhiWords": 342,
+      "englishWords": 679
+    },
+    {
+      "ang": 147,
+      "sentences": 50,
+      "gurmukhiWords": 357,
+      "englishWords": 686
+    },
+    {
+      "ang": 148,
+      "sentences": 50,
+      "gurmukhiWords": 332,
+      "englishWords": 650
+    },
+    {
+      "ang": 149,
+      "sentences": 46,
+      "gurmukhiWords": 338,
+      "englishWords": 634
+    },
+    {
+      "ang": 150,
+      "sentences": 48,
+      "gurmukhiWords": 336,
+      "englishWords": 640
+    },
+    {
+      "ang": 151,
+      "sentences": 40,
+      "gurmukhiWords": 256,
+      "englishWords": 463
+    },
+    {
+      "ang": 152,
+      "sentences": 56,
+      "gurmukhiWords": 334,
+      "englishWords": 636
+    },
+    {
+      "ang": 153,
+      "sentences": 57,
+      "gurmukhiWords": 339,
+      "englishWords": 660
+    },
+    {
+      "ang": 154,
+      "sentences": 54,
+      "gurmukhiWords": 339,
+      "englishWords": 600
+    },
+    {
+      "ang": 155,
+      "sentences": 37,
+      "gurmukhiWords": 336,
+      "englishWords": 576
+    },
+    {
+      "ang": 156,
+      "sentences": 39,
+      "gurmukhiWords": 347,
+      "englishWords": 578
+    },
+    {
+      "ang": 157,
+      "sentences": 40,
+      "gurmukhiWords": 290,
+      "englishWords": 549
+    },
+    {
+      "ang": 158,
+      "sentences": 55,
+      "gurmukhiWords": 343,
+      "englishWords": 576
+    },
+    {
+      "ang": 159,
+      "sentences": 53,
+      "gurmukhiWords": 334,
+      "englishWords": 565
+    },
+    {
+      "ang": 160,
+      "sentences": 49,
+      "gurmukhiWords": 329,
+      "englishWords": 548
+    },
+    {
+      "ang": 161,
+      "sentences": 53,
+      "gurmukhiWords": 346,
+      "englishWords": 593
+    },
+    {
+      "ang": 162,
+      "sentences": 41,
+      "gurmukhiWords": 325,
+      "englishWords": 587
+    },
+    {
+      "ang": 163,
+      "sentences": 38,
+      "gurmukhiWords": 310,
+      "englishWords": 577
+    },
+    {
+      "ang": 164,
+      "sentences": 53,
+      "gurmukhiWords": 347,
+      "englishWords": 576
+    },
+    {
+      "ang": 165,
+      "sentences": 44,
+      "gurmukhiWords": 331,
+      "englishWords": 574
+    },
+    {
+      "ang": 166,
+      "sentences": 38,
+      "gurmukhiWords": 347,
+      "englishWords": 589
+    },
+    {
+      "ang": 167,
+      "sentences": 33,
+      "gurmukhiWords": 349,
+      "englishWords": 579
+    },
+    {
+      "ang": 168,
+      "sentences": 33,
+      "gurmukhiWords": 343,
+      "englishWords": 543
+    },
+    {
+      "ang": 169,
+      "sentences": 32,
+      "gurmukhiWords": 348,
+      "englishWords": 605
+    },
+    {
+      "ang": 170,
+      "sentences": 31,
+      "gurmukhiWords": 343,
+      "englishWords": 608
+    },
+    {
+      "ang": 171,
+      "sentences": 33,
+      "gurmukhiWords": 331,
+      "englishWords": 608
+    },
+    {
+      "ang": 172,
+      "sentences": 32,
+      "gurmukhiWords": 310,
+      "englishWords": 579
+    },
+    {
+      "ang": 173,
+      "sentences": 37,
+      "gurmukhiWords": 329,
+      "englishWords": 596
+    },
+    {
+      "ang": 174,
+      "sentences": 26,
+      "gurmukhiWords": 321,
+      "englishWords": 572
+    },
+    {
+      "ang": 175,
+      "sentences": 42,
+      "gurmukhiWords": 319,
+      "englishWords": 542
+    },
+    {
+      "ang": 176,
+      "sentences": 54,
+      "gurmukhiWords": 337,
+      "englishWords": 545
+    },
+    {
+      "ang": 177,
+      "sentences": 55,
+      "gurmukhiWords": 363,
+      "englishWords": 493
+    },
+    {
+      "ang": 178,
+      "sentences": 57,
+      "gurmukhiWords": 344,
+      "englishWords": 529
+    },
+    {
+      "ang": 179,
+      "sentences": 55,
+      "gurmukhiWords": 342,
+      "englishWords": 555
+    },
+    {
+      "ang": 180,
+      "sentences": 56,
+      "gurmukhiWords": 355,
+      "englishWords": 566
+    },
+    {
+      "ang": 181,
+      "sentences": 56,
+      "gurmukhiWords": 356,
+      "englishWords": 544
+    },
+    {
+      "ang": 182,
+      "sentences": 56,
+      "gurmukhiWords": 347,
+      "englishWords": 542
+    },
+    {
+      "ang": 183,
+      "sentences": 52,
+      "gurmukhiWords": 328,
+      "englishWords": 606
+    },
+    {
+      "ang": 184,
+      "sentences": 57,
+      "gurmukhiWords": 337,
+      "englishWords": 533
+    },
+    {
+      "ang": 185,
+      "sentences": 52,
+      "gurmukhiWords": 320,
+      "englishWords": 568
+    },
+    {
+      "ang": 186,
+      "sentences": 54,
+      "gurmukhiWords": 348,
+      "englishWords": 508
+    },
+    {
+      "ang": 187,
+      "sentences": 52,
+      "gurmukhiWords": 339,
+      "englishWords": 500
+    },
+    {
+      "ang": 188,
+      "sentences": 56,
+      "gurmukhiWords": 332,
+      "englishWords": 521
+    },
+    {
+      "ang": 189,
+      "sentences": 55,
+      "gurmukhiWords": 337,
+      "englishWords": 555
+    },
+    {
+      "ang": 190,
+      "sentences": 54,
+      "gurmukhiWords": 325,
+      "englishWords": 535
+    },
+    {
+      "ang": 191,
+      "sentences": 54,
+      "gurmukhiWords": 330,
+      "englishWords": 543
+    },
+    {
+      "ang": 192,
+      "sentences": 55,
+      "gurmukhiWords": 334,
+      "englishWords": 516
+    },
+    {
+      "ang": 193,
+      "sentences": 55,
+      "gurmukhiWords": 334,
+      "englishWords": 561
+    },
+    {
+      "ang": 194,
+      "sentences": 54,
+      "gurmukhiWords": 330,
+      "englishWords": 584
+    },
+    {
+      "ang": 195,
+      "sentences": 52,
+      "gurmukhiWords": 320,
+      "englishWords": 536
+    },
+    {
+      "ang": 196,
+      "sentences": 53,
+      "gurmukhiWords": 324,
+      "englishWords": 532
+    },
+    {
+      "ang": 197,
+      "sentences": 54,
+      "gurmukhiWords": 331,
+      "englishWords": 569
+    },
+    {
+      "ang": 198,
+      "sentences": 55,
+      "gurmukhiWords": 332,
+      "englishWords": 561
+    },
+    {
+      "ang": 199,
+      "sentences": 53,
+      "gurmukhiWords": 321,
+      "englishWords": 514
+    },
+    {
+      "ang": 200,
+      "sentences": 55,
+      "gurmukhiWords": 320,
+      "englishWords": 547
+    },
+    {
+      "ang": 201,
+      "sentences": 53,
+      "gurmukhiWords": 335,
+      "englishWords": 597
+    },
+    {
+      "ang": 202,
+      "sentences": 54,
+      "gurmukhiWords": 326,
+      "englishWords": 572
+    },
+    {
+      "ang": 203,
+      "sentences": 34,
+      "gurmukhiWords": 252,
+      "englishWords": 466
+    },
+    {
+      "ang": 204,
+      "sentences": 32,
+      "gurmukhiWords": 295,
+      "englishWords": 519
+    },
+    {
+      "ang": 205,
+      "sentences": 37,
+      "gurmukhiWords": 337,
+      "englishWords": 591
+    },
+    {
+      "ang": 206,
+      "sentences": 35,
+      "gurmukhiWords": 326,
+      "englishWords": 545
+    },
+    {
+      "ang": 207,
+      "sentences": 35,
+      "gurmukhiWords": 311,
+      "englishWords": 544
+    },
+    {
+      "ang": 208,
+      "sentences": 33,
+      "gurmukhiWords": 322,
+      "englishWords": 584
+    },
+    {
+      "ang": 209,
+      "sentences": 33,
+      "gurmukhiWords": 313,
+      "englishWords": 513
+    },
+    {
+      "ang": 210,
+      "sentences": 43,
+      "gurmukhiWords": 282,
+      "englishWords": 481
+    },
+    {
+      "ang": 211,
+      "sentences": 53,
+      "gurmukhiWords": 338,
+      "englishWords": 558
+    },
+    {
+      "ang": 212,
+      "sentences": 50,
+      "gurmukhiWords": 340,
+      "englishWords": 564
+    },
+    {
+      "ang": 213,
+      "sentences": 41,
+      "gurmukhiWords": 330,
+      "englishWords": 578
+    },
+    {
+      "ang": 214,
+      "sentences": 36,
+      "gurmukhiWords": 289,
+      "englishWords": 494
+    },
+    {
+      "ang": 215,
+      "sentences": 36,
+      "gurmukhiWords": 322,
+      "englishWords": 559
+    },
+    {
+      "ang": 216,
+      "sentences": 39,
+      "gurmukhiWords": 314,
+      "englishWords": 489
+    },
+    {
+      "ang": 217,
+      "sentences": 47,
+      "gurmukhiWords": 329,
+      "englishWords": 490
+    },
+    {
+      "ang": 218,
+      "sentences": 38,
+      "gurmukhiWords": 315,
+      "englishWords": 564
+    },
+    {
+      "ang": 219,
+      "sentences": 38,
+      "gurmukhiWords": 325,
+      "englishWords": 494
+    },
+    {
+      "ang": 220,
+      "sentences": 34,
+      "gurmukhiWords": 329,
+      "englishWords": 525
+    },
+    {
+      "ang": 221,
+      "sentences": 55,
+      "gurmukhiWords": 335,
+      "englishWords": 634
+    },
+    {
+      "ang": 222,
+      "sentences": 61,
+      "gurmukhiWords": 354,
+      "englishWords": 629
+    },
+    {
+      "ang": 223,
+      "sentences": 58,
+      "gurmukhiWords": 338,
+      "englishWords": 604
+    },
+    {
+      "ang": 224,
+      "sentences": 58,
+      "gurmukhiWords": 330,
+      "englishWords": 582
+    },
+    {
+      "ang": 225,
+      "sentences": 56,
+      "gurmukhiWords": 326,
+      "englishWords": 602
+    },
+    {
+      "ang": 226,
+      "sentences": 55,
+      "gurmukhiWords": 351,
+      "englishWords": 639
+    },
+    {
+      "ang": 227,
+      "sentences": 54,
+      "gurmukhiWords": 339,
+      "englishWords": 611
+    },
+    {
+      "ang": 228,
+      "sentences": 46,
+      "gurmukhiWords": 321,
+      "englishWords": 590
+    },
+    {
+      "ang": 229,
+      "sentences": 47,
+      "gurmukhiWords": 325,
+      "englishWords": 586
+    },
+    {
+      "ang": 230,
+      "sentences": 56,
+      "gurmukhiWords": 340,
+      "englishWords": 576
+    },
+    {
+      "ang": 231,
+      "sentences": 53,
+      "gurmukhiWords": 342,
+      "englishWords": 630
+    },
+    {
+      "ang": 232,
+      "sentences": 57,
+      "gurmukhiWords": 341,
+      "englishWords": 601
+    },
+    {
+      "ang": 233,
+      "sentences": 42,
+      "gurmukhiWords": 323,
+      "englishWords": 587
+    },
+    {
+      "ang": 234,
+      "sentences": 35,
+      "gurmukhiWords": 299,
+      "englishWords": 552
+    },
+    {
+      "ang": 235,
+      "sentences": 45,
+      "gurmukhiWords": 322,
+      "englishWords": 512
+    },
+    {
+      "ang": 236,
+      "sentences": 59,
+      "gurmukhiWords": 356,
+      "englishWords": 553
+    },
+    {
+      "ang": 237,
+      "sentences": 56,
+      "gurmukhiWords": 336,
+      "englishWords": 544
+    },
+    {
+      "ang": 238,
+      "sentences": 60,
+      "gurmukhiWords": 414,
+      "englishWords": 547
+    },
+    {
+      "ang": 239,
+      "sentences": 53,
+      "gurmukhiWords": 347,
+      "englishWords": 552
+    },
+    {
+      "ang": 240,
+      "sentences": 48,
+      "gurmukhiWords": 313,
+      "englishWords": 515
+    },
+    {
+      "ang": 241,
+      "sentences": 43,
+      "gurmukhiWords": 288,
+      "englishWords": 572
+    },
+    {
+      "ang": 242,
+      "sentences": 35,
+      "gurmukhiWords": 305,
+      "englishWords": 574
+    },
+    {
+      "ang": 243,
+      "sentences": 37,
+      "gurmukhiWords": 338,
+      "englishWords": 594
+    },
+    {
+      "ang": 244,
+      "sentences": 36,
+      "gurmukhiWords": 344,
+      "englishWords": 652
+    },
+    {
+      "ang": 245,
+      "sentences": 35,
+      "gurmukhiWords": 319,
+      "englishWords": 569
+    },
+    {
+      "ang": 246,
+      "sentences": 35,
+      "gurmukhiWords": 337,
+      "englishWords": 633
+    },
+    {
+      "ang": 247,
+      "sentences": 34,
+      "gurmukhiWords": 312,
+      "englishWords": 558
+    },
+    {
+      "ang": 248,
+      "sentences": 38,
+      "gurmukhiWords": 311,
+      "englishWords": 570
+    },
+    {
+      "ang": 249,
+      "sentences": 33,
+      "gurmukhiWords": 304,
+      "englishWords": 593
+    },
+    {
+      "ang": 250,
+      "sentences": 52,
+      "gurmukhiWords": 320,
+      "englishWords": 623
+    },
+    {
+      "ang": 251,
+      "sentences": 61,
+      "gurmukhiWords": 366,
+      "englishWords": 601
+    },
+    {
+      "ang": 252,
+      "sentences": 60,
+      "gurmukhiWords": 378,
+      "englishWords": 638
+    },
+    {
+      "ang": 253,
+      "sentences": 57,
+      "gurmukhiWords": 358,
+      "englishWords": 621
+    },
+    {
+      "ang": 254,
+      "sentences": 55,
+      "gurmukhiWords": 350,
+      "englishWords": 638
+    },
+    {
+      "ang": 255,
+      "sentences": 56,
+      "gurmukhiWords": 367,
+      "englishWords": 637
+    },
+    {
+      "ang": 256,
+      "sentences": 51,
+      "gurmukhiWords": 346,
+      "englishWords": 634
+    },
+    {
+      "ang": 257,
+      "sentences": 52,
+      "gurmukhiWords": 348,
+      "englishWords": 596
+    },
+    {
+      "ang": 258,
+      "sentences": 62,
+      "gurmukhiWords": 352,
+      "englishWords": 611
+    },
+    {
+      "ang": 259,
+      "sentences": 61,
+      "gurmukhiWords": 354,
+      "englishWords": 583
+    },
+    {
+      "ang": 260,
+      "sentences": 59,
+      "gurmukhiWords": 338,
+      "englishWords": 579
+    },
+    {
+      "ang": 261,
+      "sentences": 51,
+      "gurmukhiWords": 337,
+      "englishWords": 587
+    },
+    {
+      "ang": 262,
+      "sentences": 51,
+      "gurmukhiWords": 328,
+      "englishWords": 603
+    },
+    {
+      "ang": 263,
+      "sentences": 54,
+      "gurmukhiWords": 351,
+      "englishWords": 501
+    },
+    {
+      "ang": 264,
+      "sentences": 57,
+      "gurmukhiWords": 372,
+      "englishWords": 611
+    },
+    {
+      "ang": 265,
+      "sentences": 59,
+      "gurmukhiWords": 378,
+      "englishWords": 631
+    },
+    {
+      "ang": 266,
+      "sentences": 60,
+      "gurmukhiWords": 363,
+      "englishWords": 556
+    },
+    {
+      "ang": 267,
+      "sentences": 61,
+      "gurmukhiWords": 367,
+      "englishWords": 574
+    },
+    {
+      "ang": 268,
+      "sentences": 58,
+      "gurmukhiWords": 355,
+      "englishWords": 517
+    },
+    {
+      "ang": 269,
+      "sentences": 57,
+      "gurmukhiWords": 352,
+      "englishWords": 540
+    },
+    {
+      "ang": 270,
+      "sentences": 57,
+      "gurmukhiWords": 364,
+      "englishWords": 489
+    },
+    {
+      "ang": 271,
+      "sentences": 63,
+      "gurmukhiWords": 384,
+      "englishWords": 635
+    },
+    {
+      "ang": 272,
+      "sentences": 61,
+      "gurmukhiWords": 375,
+      "englishWords": 584
+    },
+    {
+      "ang": 273,
+      "sentences": 52,
+      "gurmukhiWords": 333,
+      "englishWords": 463
+    },
+    {
+      "ang": 274,
+      "sentences": 60,
+      "gurmukhiWords": 367,
+      "englishWords": 601
+    },
+    {
+      "ang": 275,
+      "sentences": 60,
+      "gurmukhiWords": 348,
+      "englishWords": 499
+    },
+    {
+      "ang": 276,
+      "sentences": 60,
+      "gurmukhiWords": 360,
+      "englishWords": 529
+    },
+    {
+      "ang": 277,
+      "sentences": 63,
+      "gurmukhiWords": 368,
+      "englishWords": 577
+    },
+    {
+      "ang": 278,
+      "sentences": 59,
+      "gurmukhiWords": 362,
+      "englishWords": 517
+    },
+    {
+      "ang": 279,
+      "sentences": 62,
+      "gurmukhiWords": 379,
+      "englishWords": 533
+    },
+    {
+      "ang": 280,
+      "sentences": 59,
+      "gurmukhiWords": 402,
+      "englishWords": 551
+    },
+    {
+      "ang": 281,
+      "sentences": 60,
+      "gurmukhiWords": 365,
+      "englishWords": 547
+    },
+    {
+      "ang": 282,
+      "sentences": 61,
+      "gurmukhiWords": 366,
+      "englishWords": 530
+    },
+    {
+      "ang": 283,
+      "sentences": 62,
+      "gurmukhiWords": 368,
+      "englishWords": 553
+    },
+    {
+      "ang": 284,
+      "sentences": 57,
+      "gurmukhiWords": 363,
+      "englishWords": 543
+    },
+    {
+      "ang": 285,
+      "sentences": 61,
+      "gurmukhiWords": 366,
+      "englishWords": 591
+    },
+    {
+      "ang": 286,
+      "sentences": 59,
+      "gurmukhiWords": 375,
+      "englishWords": 515
+    },
+    {
+      "ang": 287,
+      "sentences": 60,
+      "gurmukhiWords": 364,
+      "englishWords": 555
+    },
+    {
+      "ang": 288,
+      "sentences": 61,
+      "gurmukhiWords": 369,
+      "englishWords": 575
+    },
+    {
+      "ang": 289,
+      "sentences": 61,
+      "gurmukhiWords": 360,
+      "englishWords": 582
+    },
+    {
+      "ang": 290,
+      "sentences": 60,
+      "gurmukhiWords": 360,
+      "englishWords": 552
+    },
+    {
+      "ang": 291,
+      "sentences": 55,
+      "gurmukhiWords": 343,
+      "englishWords": 499
+    },
+    {
+      "ang": 292,
+      "sentences": 60,
+      "gurmukhiWords": 348,
+      "englishWords": 527
+    },
+    {
+      "ang": 293,
+      "sentences": 59,
+      "gurmukhiWords": 344,
+      "englishWords": 543
+    },
+    {
+      "ang": 294,
+      "sentences": 61,
+      "gurmukhiWords": 367,
+      "englishWords": 542
+    },
+    {
+      "ang": 295,
+      "sentences": 62,
+      "gurmukhiWords": 358,
+      "englishWords": 574
+    },
+    {
+      "ang": 296,
+      "sentences": 51,
+      "gurmukhiWords": 341,
+      "englishWords": 599
+    },
+    {
+      "ang": 297,
+      "sentences": 45,
+      "gurmukhiWords": 329,
+      "englishWords": 639
+    },
+    {
+      "ang": 298,
+      "sentences": 53,
+      "gurmukhiWords": 345,
+      "englishWords": 641
+    },
+    {
+      "ang": 299,
+      "sentences": 57,
+      "gurmukhiWords": 332,
+      "englishWords": 610
+    },
+    {
+      "ang": 300,
+      "sentences": 42,
+      "gurmukhiWords": 324,
+      "englishWords": 566
+    },
+    {
+      "ang": 301,
+      "sentences": 45,
+      "gurmukhiWords": 355,
+      "englishWords": 573
+    },
+    {
+      "ang": 302,
+      "sentences": 41,
+      "gurmukhiWords": 360,
+      "englishWords": 546
+    },
+    {
+      "ang": 303,
+      "sentences": 34,
+      "gurmukhiWords": 347,
+      "englishWords": 559
+    },
+    {
+      "ang": 304,
+      "sentences": 36,
+      "gurmukhiWords": 343,
+      "englishWords": 593
+    },
+    {
+      "ang": 305,
+      "sentences": 33,
+      "gurmukhiWords": 361,
+      "englishWords": 584
+    },
+    {
+      "ang": 306,
+      "sentences": 36,
+      "gurmukhiWords": 353,
+      "englishWords": 562
+    },
+    {
+      "ang": 307,
+      "sentences": 35,
+      "gurmukhiWords": 351,
+      "englishWords": 568
+    },
+    {
+      "ang": 308,
+      "sentences": 34,
+      "gurmukhiWords": 364,
+      "englishWords": 590
+    },
+    {
+      "ang": 309,
+      "sentences": 36,
+      "gurmukhiWords": 343,
+      "englishWords": 530
+    },
+    {
+      "ang": 310,
+      "sentences": 38,
+      "gurmukhiWords": 351,
+      "englishWords": 557
+    },
+    {
+      "ang": 311,
+      "sentences": 39,
+      "gurmukhiWords": 341,
+      "englishWords": 611
+    },
+    {
+      "ang": 312,
+      "sentences": 37,
+      "gurmukhiWords": 337,
+      "englishWords": 558
+    },
+    {
+      "ang": 313,
+      "sentences": 43,
+      "gurmukhiWords": 340,
+      "englishWords": 606
+    },
+    {
+      "ang": 314,
+      "sentences": 44,
+      "gurmukhiWords": 344,
+      "englishWords": 585
+    },
+    {
+      "ang": 315,
+      "sentences": 46,
+      "gurmukhiWords": 359,
+      "englishWords": 597
+    },
+    {
+      "ang": 316,
+      "sentences": 40,
+      "gurmukhiWords": 352,
+      "englishWords": 571
+    },
+    {
+      "ang": 317,
+      "sentences": 43,
+      "gurmukhiWords": 365,
+      "englishWords": 601
+    },
+    {
+      "ang": 318,
+      "sentences": 46,
+      "gurmukhiWords": 334,
+      "englishWords": 589
+    },
+    {
+      "ang": 319,
+      "sentences": 51,
+      "gurmukhiWords": 354,
+      "englishWords": 621
+    },
+    {
+      "ang": 320,
+      "sentences": 49,
+      "gurmukhiWords": 332,
+      "englishWords": 557
+    },
+    {
+      "ang": 321,
+      "sentences": 50,
+      "gurmukhiWords": 331,
+      "englishWords": 597
+    },
+    {
+      "ang": 322,
+      "sentences": 49,
+      "gurmukhiWords": 352,
+      "englishWords": 625
+    },
+    {
+      "ang": 323,
+      "sentences": 49,
+      "gurmukhiWords": 330,
+      "englishWords": 559
+    },
+    {
+      "ang": 324,
+      "sentences": 57,
+      "gurmukhiWords": 356,
+      "englishWords": 539
+    },
+    {
+      "ang": 325,
+      "sentences": 58,
+      "gurmukhiWords": 352,
+      "englishWords": 551
+    },
+    {
+      "ang": 326,
+      "sentences": 54,
+      "gurmukhiWords": 344,
+      "englishWords": 557
+    },
+    {
+      "ang": 327,
+      "sentences": 54,
+      "gurmukhiWords": 340,
+      "englishWords": 612
+    },
+    {
+      "ang": 328,
+      "sentences": 53,
+      "gurmukhiWords": 344,
+      "englishWords": 549
+    },
+    {
+      "ang": 329,
+      "sentences": 55,
+      "gurmukhiWords": 345,
+      "englishWords": 538
+    },
+    {
+      "ang": 330,
+      "sentences": 53,
+      "gurmukhiWords": 347,
+      "englishWords": 524
+    },
+    {
+      "ang": 331,
+      "sentences": 48,
+      "gurmukhiWords": 332,
+      "englishWords": 536
+    },
+    {
+      "ang": 332,
+      "sentences": 38,
+      "gurmukhiWords": 288,
+      "englishWords": 499
+    },
+    {
+      "ang": 333,
+      "sentences": 38,
+      "gurmukhiWords": 320,
+      "englishWords": 590
+    },
+    {
+      "ang": 334,
+      "sentences": 36,
+      "gurmukhiWords": 317,
+      "englishWords": 573
+    },
+    {
+      "ang": 335,
+      "sentences": 39,
+      "gurmukhiWords": 340,
+      "englishWords": 628
+    },
+    {
+      "ang": 336,
+      "sentences": 36,
+      "gurmukhiWords": 341,
+      "englishWords": 586
+    },
+    {
+      "ang": 337,
+      "sentences": 47,
+      "gurmukhiWords": 323,
+      "englishWords": 550
+    },
+    {
+      "ang": 338,
+      "sentences": 39,
+      "gurmukhiWords": 338,
+      "englishWords": 526
+    },
+    {
+      "ang": 339,
+      "sentences": 42,
+      "gurmukhiWords": 344,
+      "englishWords": 556
+    },
+    {
+      "ang": 340,
+      "sentences": 49,
+      "gurmukhiWords": 340,
+      "englishWords": 557
+    },
+    {
+      "ang": 341,
+      "sentences": 57,
+      "gurmukhiWords": 354,
+      "englishWords": 596
+    },
+    {
+      "ang": 342,
+      "sentences": 54,
+      "gurmukhiWords": 377,
+      "englishWords": 616
+    },
+    {
+      "ang": 343,
+      "sentences": 57,
+      "gurmukhiWords": 325,
+      "englishWords": 626
+    },
+    {
+      "ang": 344,
+      "sentences": 56,
+      "gurmukhiWords": 333,
+      "englishWords": 576
+    },
+    {
+      "ang": 345,
+      "sentences": 42,
+      "gurmukhiWords": 291,
+      "englishWords": 472
+    },
+    {
+      "ang": 346,
+      "sentences": 36,
+      "gurmukhiWords": 296,
+      "englishWords": 549
+    },
+    {
+      "ang": 347,
+      "sentences": 23,
+      "gurmukhiWords": 236,
+      "englishWords": 433
+    },
+    {
+      "ang": 348,
+      "sentences": 31,
+      "gurmukhiWords": 337,
+      "englishWords": 491
+    },
+    {
+      "ang": 349,
+      "sentences": 58,
+      "gurmukhiWords": 362,
+      "englishWords": 594
+    },
+    {
+      "ang": 350,
+      "sentences": 50,
+      "gurmukhiWords": 357,
+      "englishWords": 649
+    },
+    {
+      "ang": 351,
+      "sentences": 46,
+      "gurmukhiWords": 337,
+      "englishWords": 588
+    },
+    {
+      "ang": 352,
+      "sentences": 58,
+      "gurmukhiWords": 341,
+      "englishWords": 616
+    },
+    {
+      "ang": 353,
+      "sentences": 46,
+      "gurmukhiWords": 337,
+      "englishWords": 640
+    },
+    {
+      "ang": 354,
+      "sentences": 52,
+      "gurmukhiWords": 352,
+      "englishWords": 627
+    },
+    {
+      "ang": 355,
+      "sentences": 53,
+      "gurmukhiWords": 355,
+      "englishWords": 649
+    },
+    {
+      "ang": 356,
+      "sentences": 50,
+      "gurmukhiWords": 335,
+      "englishWords": 565
+    },
+    {
+      "ang": 357,
+      "sentences": 48,
+      "gurmukhiWords": 326,
+      "englishWords": 546
+    },
+    {
+      "ang": 358,
+      "sentences": 36,
+      "gurmukhiWords": 308,
+      "englishWords": 581
+    },
+    {
+      "ang": 359,
+      "sentences": 38,
+      "gurmukhiWords": 294,
+      "englishWords": 530
+    },
+    {
+      "ang": 360,
+      "sentences": 36,
+      "gurmukhiWords": 308,
+      "englishWords": 585
+    },
+    {
+      "ang": 361,
+      "sentences": 58,
+      "gurmukhiWords": 347,
+      "englishWords": 561
+    },
+    {
+      "ang": 362,
+      "sentences": 54,
+      "gurmukhiWords": 334,
+      "englishWords": 604
+    },
+    {
+      "ang": 363,
+      "sentences": 58,
+      "gurmukhiWords": 350,
+      "englishWords": 582
+    },
+    {
+      "ang": 364,
+      "sentences": 53,
+      "gurmukhiWords": 348,
+      "englishWords": 600
+    },
+    {
+      "ang": 365,
+      "sentences": 40,
+      "gurmukhiWords": 292,
+      "englishWords": 473
+    },
+    {
+      "ang": 366,
+      "sentences": 44,
+      "gurmukhiWords": 320,
+      "englishWords": 517
+    },
+    {
+      "ang": 367,
+      "sentences": 46,
+      "gurmukhiWords": 308,
+      "englishWords": 550
+    },
+    {
+      "ang": 368,
+      "sentences": 34,
+      "gurmukhiWords": 345,
+      "englishWords": 599
+    },
+    {
+      "ang": 369,
+      "sentences": 36,
+      "gurmukhiWords": 300,
+      "englishWords": 497
+    },
+    {
+      "ang": 370,
+      "sentences": 47,
+      "gurmukhiWords": 311,
+      "englishWords": 519
+    },
+    {
+      "ang": 371,
+      "sentences": 52,
+      "gurmukhiWords": 337,
+      "englishWords": 560
+    },
+    {
+      "ang": 372,
+      "sentences": 58,
+      "gurmukhiWords": 341,
+      "englishWords": 562
+    },
+    {
+      "ang": 373,
+      "sentences": 45,
+      "gurmukhiWords": 339,
+      "englishWords": 539
+    },
+    {
+      "ang": 374,
+      "sentences": 54,
+      "gurmukhiWords": 340,
+      "englishWords": 520
+    },
+    {
+      "ang": 375,
+      "sentences": 49,
+      "gurmukhiWords": 343,
+      "englishWords": 566
+    },
+    {
+      "ang": 376,
+      "sentences": 55,
+      "gurmukhiWords": 343,
+      "englishWords": 515
+    },
+    {
+      "ang": 377,
+      "sentences": 47,
+      "gurmukhiWords": 331,
+      "englishWords": 549
+    },
+    {
+      "ang": 378,
+      "sentences": 49,
+      "gurmukhiWords": 332,
+      "englishWords": 555
+    },
+    {
+      "ang": 379,
+      "sentences": 35,
+      "gurmukhiWords": 307,
+      "englishWords": 519
+    },
+    {
+      "ang": 380,
+      "sentences": 37,
+      "gurmukhiWords": 300,
+      "englishWords": 573
+    },
+    {
+      "ang": 381,
+      "sentences": 35,
+      "gurmukhiWords": 317,
+      "englishWords": 519
+    },
+    {
+      "ang": 382,
+      "sentences": 35,
+      "gurmukhiWords": 333,
+      "englishWords": 602
+    },
+    {
+      "ang": 383,
+      "sentences": 36,
+      "gurmukhiWords": 327,
+      "englishWords": 542
+    },
+    {
+      "ang": 384,
+      "sentences": 43,
+      "gurmukhiWords": 300,
+      "englishWords": 492
+    },
+    {
+      "ang": 385,
+      "sentences": 52,
+      "gurmukhiWords": 317,
+      "englishWords": 530
+    },
+    {
+      "ang": 386,
+      "sentences": 54,
+      "gurmukhiWords": 343,
+      "englishWords": 574
+    },
+    {
+      "ang": 387,
+      "sentences": 54,
+      "gurmukhiWords": 333,
+      "englishWords": 556
+    },
+    {
+      "ang": 388,
+      "sentences": 53,
+      "gurmukhiWords": 343,
+      "englishWords": 530
+    },
+    {
+      "ang": 389,
+      "sentences": 54,
+      "gurmukhiWords": 328,
+      "englishWords": 507
+    },
+    {
+      "ang": 390,
+      "sentences": 54,
+      "gurmukhiWords": 344,
+      "englishWords": 512
+    },
+    {
+      "ang": 391,
+      "sentences": 59,
+      "gurmukhiWords": 376,
+      "englishWords": 585
+    },
+    {
+      "ang": 392,
+      "sentences": 58,
+      "gurmukhiWords": 349,
+      "englishWords": 558
+    },
+    {
+      "ang": 393,
+      "sentences": 54,
+      "gurmukhiWords": 340,
+      "englishWords": 544
+    },
+    {
+      "ang": 394,
+      "sentences": 56,
+      "gurmukhiWords": 334,
+      "englishWords": 568
+    },
+    {
+      "ang": 395,
+      "sentences": 53,
+      "gurmukhiWords": 352,
+      "englishWords": 520
+    },
+    {
+      "ang": 396,
+      "sentences": 47,
+      "gurmukhiWords": 325,
+      "englishWords": 515
+    },
+    {
+      "ang": 397,
+      "sentences": 45,
+      "gurmukhiWords": 332,
+      "englishWords": 580
+    },
+    {
+      "ang": 398,
+      "sentences": 45,
+      "gurmukhiWords": 323,
+      "englishWords": 548
+    },
+    {
+      "ang": 399,
+      "sentences": 42,
+      "gurmukhiWords": 322,
+      "englishWords": 600
+    },
+    {
+      "ang": 400,
+      "sentences": 42,
+      "gurmukhiWords": 349,
+      "englishWords": 554
+    },
+    {
+      "ang": 401,
+      "sentences": 33,
+      "gurmukhiWords": 289,
+      "englishWords": 566
+    },
+    {
+      "ang": 402,
+      "sentences": 37,
+      "gurmukhiWords": 330,
+      "englishWords": 567
+    },
+    {
+      "ang": 403,
+      "sentences": 36,
+      "gurmukhiWords": 318,
+      "englishWords": 494
+    },
+    {
+      "ang": 404,
+      "sentences": 33,
+      "gurmukhiWords": 325,
+      "englishWords": 563
+    },
+    {
+      "ang": 405,
+      "sentences": 40,
+      "gurmukhiWords": 327,
+      "englishWords": 596
+    },
+    {
+      "ang": 406,
+      "sentences": 34,
+      "gurmukhiWords": 287,
+      "englishWords": 521
+    },
+    {
+      "ang": 407,
+      "sentences": 44,
+      "gurmukhiWords": 299,
+      "englishWords": 553
+    },
+    {
+      "ang": 408,
+      "sentences": 40,
+      "gurmukhiWords": 307,
+      "englishWords": 592
+    },
+    {
+      "ang": 409,
+      "sentences": 57,
+      "gurmukhiWords": 343,
+      "englishWords": 546
+    },
+    {
+      "ang": 410,
+      "sentences": 75,
+      "gurmukhiWords": 409,
+      "englishWords": 542
+    },
+    {
+      "ang": 411,
+      "sentences": 50,
+      "gurmukhiWords": 311,
+      "englishWords": 554
+    },
+    {
+      "ang": 412,
+      "sentences": 59,
+      "gurmukhiWords": 343,
+      "englishWords": 593
+    },
+    {
+      "ang": 413,
+      "sentences": 61,
+      "gurmukhiWords": 352,
+      "englishWords": 674
+    },
+    {
+      "ang": 414,
+      "sentences": 58,
+      "gurmukhiWords": 340,
+      "englishWords": 607
+    },
+    {
+      "ang": 415,
+      "sentences": 56,
+      "gurmukhiWords": 338,
+      "englishWords": 580
+    },
+    {
+      "ang": 416,
+      "sentences": 54,
+      "gurmukhiWords": 331,
+      "englishWords": 571
+    },
+    {
+      "ang": 417,
+      "sentences": 38,
+      "gurmukhiWords": 319,
+      "englishWords": 532
+    },
+    {
+      "ang": 418,
+      "sentences": 41,
+      "gurmukhiWords": 330,
+      "englishWords": 593
+    },
+    {
+      "ang": 419,
+      "sentences": 42,
+      "gurmukhiWords": 314,
+      "englishWords": 581
+    },
+    {
+      "ang": 420,
+      "sentences": 44,
+      "gurmukhiWords": 323,
+      "englishWords": 576
+    },
+    {
+      "ang": 421,
+      "sentences": 45,
+      "gurmukhiWords": 340,
+      "englishWords": 642
+    },
+    {
+      "ang": 422,
+      "sentences": 41,
+      "gurmukhiWords": 318,
+      "englishWords": 602
+    },
+    {
+      "ang": 423,
+      "sentences": 46,
+      "gurmukhiWords": 335,
+      "englishWords": 553
+    },
+    {
+      "ang": 424,
+      "sentences": 47,
+      "gurmukhiWords": 314,
+      "englishWords": 551
+    },
+    {
+      "ang": 425,
+      "sentences": 40,
+      "gurmukhiWords": 334,
+      "englishWords": 599
+    },
+    {
+      "ang": 426,
+      "sentences": 41,
+      "gurmukhiWords": 332,
+      "englishWords": 618
+    },
+    {
+      "ang": 427,
+      "sentences": 37,
+      "gurmukhiWords": 339,
+      "englishWords": 602
+    },
+    {
+      "ang": 428,
+      "sentences": 38,
+      "gurmukhiWords": 319,
+      "englishWords": 577
+    },
+    {
+      "ang": 429,
+      "sentences": 38,
+      "gurmukhiWords": 342,
+      "englishWords": 608
+    },
+    {
+      "ang": 430,
+      "sentences": 41,
+      "gurmukhiWords": 308,
+      "englishWords": 580
+    },
+    {
+      "ang": 431,
+      "sentences": 36,
+      "gurmukhiWords": 320,
+      "englishWords": 590
+    },
+    {
+      "ang": 432,
+      "sentences": 32,
+      "gurmukhiWords": 312,
+      "englishWords": 500
+    },
+    {
+      "ang": 433,
+      "sentences": 33,
+      "gurmukhiWords": 344,
+      "englishWords": 528
+    },
+    {
+      "ang": 434,
+      "sentences": 32,
+      "gurmukhiWords": 306,
+      "englishWords": 525
+    },
+    {
+      "ang": 435,
+      "sentences": 31,
+      "gurmukhiWords": 314,
+      "englishWords": 539
+    },
+    {
+      "ang": 436,
+      "sentences": 36,
+      "gurmukhiWords": 333,
+      "englishWords": 637
+    },
+    {
+      "ang": 437,
+      "sentences": 36,
+      "gurmukhiWords": 322,
+      "englishWords": 601
+    },
+    {
+      "ang": 438,
+      "sentences": 31,
+      "gurmukhiWords": 328,
+      "englishWords": 510
+    },
+    {
+      "ang": 439,
+      "sentences": 35,
+      "gurmukhiWords": 314,
+      "englishWords": 575
+    },
+    {
+      "ang": 440,
+      "sentences": 34,
+      "gurmukhiWords": 331,
+      "englishWords": 569
+    },
+    {
+      "ang": 441,
+      "sentences": 34,
+      "gurmukhiWords": 346,
+      "englishWords": 574
+    },
+    {
+      "ang": 442,
+      "sentences": 34,
+      "gurmukhiWords": 312,
+      "englishWords": 566
+    },
+    {
+      "ang": 443,
+      "sentences": 33,
+      "gurmukhiWords": 332,
+      "englishWords": 614
+    },
+    {
+      "ang": 444,
+      "sentences": 30,
+      "gurmukhiWords": 319,
+      "englishWords": 587
+    },
+    {
+      "ang": 445,
+      "sentences": 29,
+      "gurmukhiWords": 331,
+      "englishWords": 587
+    },
+    {
+      "ang": 446,
+      "sentences": 28,
+      "gurmukhiWords": 332,
+      "englishWords": 640
+    },
+    {
+      "ang": 447,
+      "sentences": 28,
+      "gurmukhiWords": 337,
+      "englishWords": 674
+    },
+    {
+      "ang": 448,
+      "sentences": 30,
+      "gurmukhiWords": 303,
+      "englishWords": 458
+    },
+    {
+      "ang": 449,
+      "sentences": 38,
+      "gurmukhiWords": 348,
+      "englishWords": 654
+    },
+    {
+      "ang": 450,
+      "sentences": 36,
+      "gurmukhiWords": 357,
+      "englishWords": 635
+    },
+    {
+      "ang": 451,
+      "sentences": 34,
+      "gurmukhiWords": 322,
+      "englishWords": 526
+    },
+    {
+      "ang": 452,
+      "sentences": 37,
+      "gurmukhiWords": 330,
+      "englishWords": 592
+    },
+    {
+      "ang": 453,
+      "sentences": 36,
+      "gurmukhiWords": 322,
+      "englishWords": 593
+    },
+    {
+      "ang": 454,
+      "sentences": 33,
+      "gurmukhiWords": 314,
+      "englishWords": 594
+    },
+    {
+      "ang": 455,
+      "sentences": 35,
+      "gurmukhiWords": 331,
+      "englishWords": 663
+    },
+    {
+      "ang": 456,
+      "sentences": 38,
+      "gurmukhiWords": 320,
+      "englishWords": 639
+    },
+    {
+      "ang": 457,
+      "sentences": 38,
+      "gurmukhiWords": 333,
+      "englishWords": 604
+    },
+    {
+      "ang": 458,
+      "sentences": 38,
+      "gurmukhiWords": 327,
+      "englishWords": 646
+    },
+    {
+      "ang": 459,
+      "sentences": 39,
+      "gurmukhiWords": 312,
+      "englishWords": 588
+    },
+    {
+      "ang": 460,
+      "sentences": 39,
+      "gurmukhiWords": 309,
+      "englishWords": 598
+    },
+    {
+      "ang": 461,
+      "sentences": 36,
+      "gurmukhiWords": 300,
+      "englishWords": 546
+    },
+    {
+      "ang": 462,
+      "sentences": 27,
+      "gurmukhiWords": 310,
+      "englishWords": 546
+    },
+    {
+      "ang": 463,
+      "sentences": 54,
+      "gurmukhiWords": 348,
+      "englishWords": 559
+    },
+    {
+      "ang": 464,
+      "sentences": 51,
+      "gurmukhiWords": 327,
+      "englishWords": 607
+    },
+    {
+      "ang": 465,
+      "sentences": 52,
+      "gurmukhiWords": 334,
+      "englishWords": 576
+    },
+    {
+      "ang": 466,
+      "sentences": 49,
+      "gurmukhiWords": 351,
+      "englishWords": 547
+    },
+    {
+      "ang": 467,
+      "sentences": 53,
+      "gurmukhiWords": 339,
+      "englishWords": 596
+    },
+    {
+      "ang": 468,
+      "sentences": 49,
+      "gurmukhiWords": 376,
+      "englishWords": 605
+    },
+    {
+      "ang": 469,
+      "sentences": 43,
+      "gurmukhiWords": 356,
+      "englishWords": 557
+    },
+    {
+      "ang": 470,
+      "sentences": 50,
+      "gurmukhiWords": 346,
+      "englishWords": 573
+    },
+    {
+      "ang": 471,
+      "sentences": 54,
+      "gurmukhiWords": 351,
+      "englishWords": 610
+    },
+    {
+      "ang": 472,
+      "sentences": 50,
+      "gurmukhiWords": 349,
+      "englishWords": 579
+    },
+    {
+      "ang": 473,
+      "sentences": 46,
+      "gurmukhiWords": 342,
+      "englishWords": 586
+    },
+    {
+      "ang": 474,
+      "sentences": 49,
+      "gurmukhiWords": 355,
+      "englishWords": 544
+    },
+    {
+      "ang": 475,
+      "sentences": 39,
+      "gurmukhiWords": 321,
+      "englishWords": 515
+    },
+    {
+      "ang": 476,
+      "sentences": 47,
+      "gurmukhiWords": 348,
+      "englishWords": 580
+    },
+    {
+      "ang": 477,
+      "sentences": 40,
+      "gurmukhiWords": 337,
+      "englishWords": 570
+    },
+    {
+      "ang": 478,
+      "sentences": 47,
+      "gurmukhiWords": 324,
+      "englishWords": 516
+    },
+    {
+      "ang": 479,
+      "sentences": 41,
+      "gurmukhiWords": 328,
+      "englishWords": 564
+    },
+    {
+      "ang": 480,
+      "sentences": 39,
+      "gurmukhiWords": 332,
+      "englishWords": 578
+    },
+    {
+      "ang": 481,
+      "sentences": 51,
+      "gurmukhiWords": 338,
+      "englishWords": 520
+    },
+    {
+      "ang": 482,
+      "sentences": 39,
+      "gurmukhiWords": 330,
+      "englishWords": 589
+    },
+    {
+      "ang": 483,
+      "sentences": 41,
+      "gurmukhiWords": 332,
+      "englishWords": 549
+    },
+    {
+      "ang": 484,
+      "sentences": 51,
+      "gurmukhiWords": 343,
+      "englishWords": 550
+    },
+    {
+      "ang": 485,
+      "sentences": 42,
+      "gurmukhiWords": 321,
+      "englishWords": 529
+    },
+    {
+      "ang": 486,
+      "sentences": 44,
+      "gurmukhiWords": 322,
+      "englishWords": 587
+    },
+    {
+      "ang": 487,
+      "sentences": 41,
+      "gurmukhiWords": 317,
+      "englishWords": 541
+    },
+    {
+      "ang": 488,
+      "sentences": 40,
+      "gurmukhiWords": 307,
+      "englishWords": 581
+    },
+    {
+      "ang": 489,
+      "sentences": 22,
+      "gurmukhiWords": 204,
+      "englishWords": 379
+    },
+    {
+      "ang": 490,
+      "sentences": 33,
+      "gurmukhiWords": 341,
+      "englishWords": 540
+    },
+    {
+      "ang": 491,
+      "sentences": 36,
+      "gurmukhiWords": 347,
+      "englishWords": 584
+    },
+    {
+      "ang": 492,
+      "sentences": 32,
+      "gurmukhiWords": 323,
+      "englishWords": 619
+    },
+    {
+      "ang": 493,
+      "sentences": 31,
+      "gurmukhiWords": 337,
+      "englishWords": 623
+    },
+    {
+      "ang": 494,
+      "sentences": 31,
+      "gurmukhiWords": 306,
+      "englishWords": 526
+    },
+    {
+      "ang": 495,
+      "sentences": 31,
+      "gurmukhiWords": 286,
+      "englishWords": 533
+    },
+    {
+      "ang": 496,
+      "sentences": 36,
+      "gurmukhiWords": 332,
+      "englishWords": 590
+    },
+    {
+      "ang": 497,
+      "sentences": 32,
+      "gurmukhiWords": 296,
+      "englishWords": 478
+    },
+    {
+      "ang": 498,
+      "sentences": 36,
+      "gurmukhiWords": 306,
+      "englishWords": 482
+    },
+    {
+      "ang": 499,
+      "sentences": 39,
+      "gurmukhiWords": 341,
+      "englishWords": 540
+    },
+    {
+      "ang": 500,
+      "sentences": 37,
+      "gurmukhiWords": 324,
+      "englishWords": 514
+    },
+    {
+      "ang": 501,
+      "sentences": 37,
+      "gurmukhiWords": 300,
+      "englishWords": 544
+    },
+    {
+      "ang": 502,
+      "sentences": 36,
+      "gurmukhiWords": 300,
+      "englishWords": 582
+    },
+    {
+      "ang": 503,
+      "sentences": 34,
+      "gurmukhiWords": 308,
+      "englishWords": 598
+    },
+    {
+      "ang": 504,
+      "sentences": 33,
+      "gurmukhiWords": 335,
+      "englishWords": 590
+    },
+    {
+      "ang": 505,
+      "sentences": 32,
+      "gurmukhiWords": 312,
+      "englishWords": 592
+    },
+    {
+      "ang": 506,
+      "sentences": 34,
+      "gurmukhiWords": 317,
+      "englishWords": 540
+    },
+    {
+      "ang": 507,
+      "sentences": 32,
+      "gurmukhiWords": 289,
+      "englishWords": 513
+    },
+    {
+      "ang": 508,
+      "sentences": 33,
+      "gurmukhiWords": 280,
+      "englishWords": 560
+    },
+    {
+      "ang": 509,
+      "sentences": 46,
+      "gurmukhiWords": 347,
+      "englishWords": 566
+    },
+    {
+      "ang": 510,
+      "sentences": 44,
+      "gurmukhiWords": 346,
+      "englishWords": 553
+    },
+    {
+      "ang": 511,
+      "sentences": 40,
+      "gurmukhiWords": 345,
+      "englishWords": 541
+    },
+    {
+      "ang": 512,
+      "sentences": 39,
+      "gurmukhiWords": 332,
+      "englishWords": 581
+    },
+    {
+      "ang": 513,
+      "sentences": 38,
+      "gurmukhiWords": 331,
+      "englishWords": 602
+    },
+    {
+      "ang": 514,
+      "sentences": 45,
+      "gurmukhiWords": 338,
+      "englishWords": 544
+    },
+    {
+      "ang": 515,
+      "sentences": 40,
+      "gurmukhiWords": 360,
+      "englishWords": 559
+    },
+    {
+      "ang": 516,
+      "sentences": 45,
+      "gurmukhiWords": 351,
+      "englishWords": 607
+    },
+    {
+      "ang": 517,
+      "sentences": 45,
+      "gurmukhiWords": 315,
+      "englishWords": 535
+    },
+    {
+      "ang": 518,
+      "sentences": 52,
+      "gurmukhiWords": 351,
+      "englishWords": 604
+    },
+    {
+      "ang": 519,
+      "sentences": 50,
+      "gurmukhiWords": 355,
+      "englishWords": 594
+    },
+    {
+      "ang": 520,
+      "sentences": 48,
+      "gurmukhiWords": 342,
+      "englishWords": 560
+    },
+    {
+      "ang": 521,
+      "sentences": 52,
+      "gurmukhiWords": 357,
+      "englishWords": 609
+    },
+    {
+      "ang": 522,
+      "sentences": 48,
+      "gurmukhiWords": 334,
+      "englishWords": 545
+    },
+    {
+      "ang": 523,
+      "sentences": 50,
+      "gurmukhiWords": 335,
+      "englishWords": 600
+    },
+    {
+      "ang": 524,
+      "sentences": 42,
+      "gurmukhiWords": 305,
+      "englishWords": 528
+    },
+    {
+      "ang": 525,
+      "sentences": 40,
+      "gurmukhiWords": 277,
+      "englishWords": 459
+    },
+    {
+      "ang": 526,
+      "sentences": 35,
+      "gurmukhiWords": 279,
+      "englishWords": 512
+    },
+    {
+      "ang": 527,
+      "sentences": 25,
+      "gurmukhiWords": 232,
+      "englishWords": 374
+    },
+    {
+      "ang": 528,
+      "sentences": 33,
+      "gurmukhiWords": 302,
+      "englishWords": 513
+    },
+    {
+      "ang": 529,
+      "sentences": 40,
+      "gurmukhiWords": 322,
+      "englishWords": 532
+    },
+    {
+      "ang": 530,
+      "sentences": 37,
+      "gurmukhiWords": 316,
+      "englishWords": 541
+    },
+    {
+      "ang": 531,
+      "sentences": 36,
+      "gurmukhiWords": 307,
+      "englishWords": 530
+    },
+    {
+      "ang": 532,
+      "sentences": 33,
+      "gurmukhiWords": 288,
+      "englishWords": 556
+    },
+    {
+      "ang": 533,
+      "sentences": 38,
+      "gurmukhiWords": 282,
+      "englishWords": 526
+    },
+    {
+      "ang": 534,
+      "sentences": 32,
+      "gurmukhiWords": 275,
+      "englishWords": 525
+    },
+    {
+      "ang": 535,
+      "sentences": 39,
+      "gurmukhiWords": 319,
+      "englishWords": 514
+    },
+    {
+      "ang": 536,
+      "sentences": 30,
+      "gurmukhiWords": 274,
+      "englishWords": 421
+    },
+    {
+      "ang": 537,
+      "sentences": 29,
+      "gurmukhiWords": 195,
+      "englishWords": 332
+    },
+    {
+      "ang": 538,
+      "sentences": 26,
+      "gurmukhiWords": 318,
+      "englishWords": 503
+    },
+    {
+      "ang": 539,
+      "sentences": 26,
+      "gurmukhiWords": 315,
+      "englishWords": 538
+    },
+    {
+      "ang": 540,
+      "sentences": 25,
+      "gurmukhiWords": 341,
+      "englishWords": 513
+    },
+    {
+      "ang": 541,
+      "sentences": 26,
+      "gurmukhiWords": 311,
+      "englishWords": 478
+    },
+    {
+      "ang": 542,
+      "sentences": 32,
+      "gurmukhiWords": 324,
+      "englishWords": 557
+    },
+    {
+      "ang": 543,
+      "sentences": 35,
+      "gurmukhiWords": 332,
+      "englishWords": 618
+    },
+    {
+      "ang": 544,
+      "sentences": 33,
+      "gurmukhiWords": 288,
+      "englishWords": 537
+    },
+    {
+      "ang": 545,
+      "sentences": 36,
+      "gurmukhiWords": 328,
+      "englishWords": 604
+    },
+    {
+      "ang": 546,
+      "sentences": 36,
+      "gurmukhiWords": 315,
+      "englishWords": 580
+    },
+    {
+      "ang": 547,
+      "sentences": 39,
+      "gurmukhiWords": 329,
+      "englishWords": 565
+    },
+    {
+      "ang": 548,
+      "sentences": 39,
+      "gurmukhiWords": 332,
+      "englishWords": 578
+    },
+    {
+      "ang": 549,
+      "sentences": 39,
+      "gurmukhiWords": 342,
+      "englishWords": 565
+    },
+    {
+      "ang": 550,
+      "sentences": 39,
+      "gurmukhiWords": 360,
+      "englishWords": 590
+    },
+    {
+      "ang": 551,
+      "sentences": 42,
+      "gurmukhiWords": 339,
+      "englishWords": 577
+    },
+    {
+      "ang": 552,
+      "sentences": 41,
+      "gurmukhiWords": 355,
+      "englishWords": 613
+    },
+    {
+      "ang": 553,
+      "sentences": 39,
+      "gurmukhiWords": 330,
+      "englishWords": 603
+    },
+    {
+      "ang": 554,
+      "sentences": 43,
+      "gurmukhiWords": 359,
+      "englishWords": 572
+    },
+    {
+      "ang": 555,
+      "sentences": 40,
+      "gurmukhiWords": 350,
+      "englishWords": 513
+    },
+    {
+      "ang": 556,
+      "sentences": 44,
+      "gurmukhiWords": 327,
+      "englishWords": 556
+    },
+    {
+      "ang": 557,
+      "sentences": 28,
+      "gurmukhiWords": 251,
+      "englishWords": 418
+    },
+    {
+      "ang": 558,
+      "sentences": 37,
+      "gurmukhiWords": 337,
+      "englishWords": 570
+    },
+    {
+      "ang": 559,
+      "sentences": 38,
+      "gurmukhiWords": 306,
+      "englishWords": 531
+    },
+    {
+      "ang": 560,
+      "sentences": 46,
+      "gurmukhiWords": 322,
+      "englishWords": 544
+    },
+    {
+      "ang": 561,
+      "sentences": 37,
+      "gurmukhiWords": 339,
+      "englishWords": 517
+    },
+    {
+      "ang": 562,
+      "sentences": 43,
+      "gurmukhiWords": 310,
+      "englishWords": 501
+    },
+    {
+      "ang": 563,
+      "sentences": 55,
+      "gurmukhiWords": 338,
+      "englishWords": 556
+    },
+    {
+      "ang": 564,
+      "sentences": 32,
+      "gurmukhiWords": 302,
+      "englishWords": 503
+    },
+    {
+      "ang": 565,
+      "sentences": 38,
+      "gurmukhiWords": 322,
+      "englishWords": 611
+    },
+    {
+      "ang": 566,
+      "sentences": 42,
+      "gurmukhiWords": 334,
+      "englishWords": 564
+    },
+    {
+      "ang": 567,
+      "sentences": 42,
+      "gurmukhiWords": 325,
+      "englishWords": 557
+    },
+    {
+      "ang": 568,
+      "sentences": 34,
+      "gurmukhiWords": 322,
+      "englishWords": 630
+    },
+    {
+      "ang": 569,
+      "sentences": 35,
+      "gurmukhiWords": 321,
+      "englishWords": 587
+    },
+    {
+      "ang": 570,
+      "sentences": 36,
+      "gurmukhiWords": 345,
+      "englishWords": 607
+    },
+    {
+      "ang": 571,
+      "sentences": 34,
+      "gurmukhiWords": 343,
+      "englishWords": 607
+    },
+    {
+      "ang": 572,
+      "sentences": 33,
+      "gurmukhiWords": 321,
+      "englishWords": 618
+    },
+    {
+      "ang": 573,
+      "sentences": 33,
+      "gurmukhiWords": 341,
+      "englishWords": 603
+    },
+    {
+      "ang": 574,
+      "sentences": 31,
+      "gurmukhiWords": 320,
+      "englishWords": 585
+    },
+    {
+      "ang": 575,
+      "sentences": 35,
+      "gurmukhiWords": 308,
+      "englishWords": 568
+    },
+    {
+      "ang": 576,
+      "sentences": 35,
+      "gurmukhiWords": 325,
+      "englishWords": 599
+    },
+    {
+      "ang": 577,
+      "sentences": 42,
+      "gurmukhiWords": 347,
+      "englishWords": 587
+    },
+    {
+      "ang": 578,
+      "sentences": 40,
+      "gurmukhiWords": 313,
+      "englishWords": 526
+    },
+    {
+      "ang": 579,
+      "sentences": 36,
+      "gurmukhiWords": 328,
+      "englishWords": 582
+    },
+    {
+      "ang": 580,
+      "sentences": 38,
+      "gurmukhiWords": 321,
+      "englishWords": 648
+    },
+    {
+      "ang": 581,
+      "sentences": 39,
+      "gurmukhiWords": 333,
+      "englishWords": 680
+    },
+    {
+      "ang": 582,
+      "sentences": 33,
+      "gurmukhiWords": 307,
+      "englishWords": 589
+    },
+    {
+      "ang": 583,
+      "sentences": 34,
+      "gurmukhiWords": 331,
+      "englishWords": 634
+    },
+    {
+      "ang": 584,
+      "sentences": 35,
+      "gurmukhiWords": 343,
+      "englishWords": 624
+    },
+    {
+      "ang": 585,
+      "sentences": 36,
+      "gurmukhiWords": 315,
+      "englishWords": 544
+    },
+    {
+      "ang": 586,
+      "sentences": 40,
+      "gurmukhiWords": 344,
+      "englishWords": 580
+    },
+    {
+      "ang": 587,
+      "sentences": 40,
+      "gurmukhiWords": 353,
+      "englishWords": 581
+    },
+    {
+      "ang": 588,
+      "sentences": 38,
+      "gurmukhiWords": 353,
+      "englishWords": 562
+    },
+    {
+      "ang": 589,
+      "sentences": 41,
+      "gurmukhiWords": 346,
+      "englishWords": 544
+    },
+    {
+      "ang": 590,
+      "sentences": 38,
+      "gurmukhiWords": 325,
+      "englishWords": 561
+    },
+    {
+      "ang": 591,
+      "sentences": 39,
+      "gurmukhiWords": 337,
+      "englishWords": 563
+    },
+    {
+      "ang": 592,
+      "sentences": 38,
+      "gurmukhiWords": 356,
+      "englishWords": 562
+    },
+    {
+      "ang": 593,
+      "sentences": 35,
+      "gurmukhiWords": 335,
+      "englishWords": 570
+    },
+    {
+      "ang": 594,
+      "sentences": 38,
+      "gurmukhiWords": 329,
+      "englishWords": 528
+    },
+    {
+      "ang": 595,
+      "sentences": 29,
+      "gurmukhiWords": 243,
+      "englishWords": 421
+    },
+    {
+      "ang": 596,
+      "sentences": 38,
+      "gurmukhiWords": 347,
+      "englishWords": 680
+    },
+    {
+      "ang": 597,
+      "sentences": 36,
+      "gurmukhiWords": 329,
+      "englishWords": 619
+    },
+    {
+      "ang": 598,
+      "sentences": 33,
+      "gurmukhiWords": 335,
+      "englishWords": 601
+    },
+    {
+      "ang": 599,
+      "sentences": 39,
+      "gurmukhiWords": 290,
+      "englishWords": 498
+    },
+    {
+      "ang": 600,
+      "sentences": 35,
+      "gurmukhiWords": 332,
+      "englishWords": 598
+    },
+    {
+      "ang": 601,
+      "sentences": 35,
+      "gurmukhiWords": 344,
+      "englishWords": 625
+    },
+    {
+      "ang": 602,
+      "sentences": 34,
+      "gurmukhiWords": 336,
+      "englishWords": 657
+    },
+    {
+      "ang": 603,
+      "sentences": 35,
+      "gurmukhiWords": 338,
+      "englishWords": 663
+    },
+    {
+      "ang": 604,
+      "sentences": 34,
+      "gurmukhiWords": 303,
+      "englishWords": 529
+    },
+    {
+      "ang": 605,
+      "sentences": 36,
+      "gurmukhiWords": 341,
+      "englishWords": 558
+    },
+    {
+      "ang": 606,
+      "sentences": 34,
+      "gurmukhiWords": 303,
+      "englishWords": 519
+    },
+    {
+      "ang": 607,
+      "sentences": 33,
+      "gurmukhiWords": 327,
+      "englishWords": 590
+    },
+    {
+      "ang": 608,
+      "sentences": 33,
+      "gurmukhiWords": 315,
+      "englishWords": 558
+    },
+    {
+      "ang": 609,
+      "sentences": 37,
+      "gurmukhiWords": 324,
+      "englishWords": 594
+    },
+    {
+      "ang": 610,
+      "sentences": 36,
+      "gurmukhiWords": 345,
+      "englishWords": 549
+    },
+    {
+      "ang": 611,
+      "sentences": 34,
+      "gurmukhiWords": 303,
+      "englishWords": 551
+    },
+    {
+      "ang": 612,
+      "sentences": 36,
+      "gurmukhiWords": 342,
+      "englishWords": 557
+    },
+    {
+      "ang": 613,
+      "sentences": 37,
+      "gurmukhiWords": 336,
+      "englishWords": 590
+    },
+    {
+      "ang": 614,
+      "sentences": 38,
+      "gurmukhiWords": 331,
+      "englishWords": 548
+    },
+    {
+      "ang": 615,
+      "sentences": 37,
+      "gurmukhiWords": 326,
+      "englishWords": 553
+    },
+    {
+      "ang": 616,
+      "sentences": 35,
+      "gurmukhiWords": 313,
+      "englishWords": 533
+    },
+    {
+      "ang": 617,
+      "sentences": 35,
+      "gurmukhiWords": 299,
+      "englishWords": 486
+    },
+    {
+      "ang": 618,
+      "sentences": 40,
+      "gurmukhiWords": 321,
+      "englishWords": 565
+    },
+    {
+      "ang": 619,
+      "sentences": 38,
+      "gurmukhiWords": 315,
+      "englishWords": 553
+    },
+    {
+      "ang": 620,
+      "sentences": 36,
+      "gurmukhiWords": 299,
+      "englishWords": 522
+    },
+    {
+      "ang": 621,
+      "sentences": 54,
+      "gurmukhiWords": 308,
+      "englishWords": 518
+    },
+    {
+      "ang": 622,
+      "sentences": 58,
+      "gurmukhiWords": 335,
+      "englishWords": 549
+    },
+    {
+      "ang": 623,
+      "sentences": 61,
+      "gurmukhiWords": 335,
+      "englishWords": 585
+    },
+    {
+      "ang": 624,
+      "sentences": 45,
+      "gurmukhiWords": 322,
+      "englishWords": 579
+    },
+    {
+      "ang": 625,
+      "sentences": 47,
+      "gurmukhiWords": 301,
+      "englishWords": 495
+    },
+    {
+      "ang": 626,
+      "sentences": 60,
+      "gurmukhiWords": 338,
+      "englishWords": 493
+    },
+    {
+      "ang": 627,
+      "sentences": 62,
+      "gurmukhiWords": 340,
+      "englishWords": 513
+    },
+    {
+      "ang": 628,
+      "sentences": 53,
+      "gurmukhiWords": 321,
+      "englishWords": 507
+    },
+    {
+      "ang": 629,
+      "sentences": 61,
+      "gurmukhiWords": 335,
+      "englishWords": 507
+    },
+    {
+      "ang": 630,
+      "sentences": 45,
+      "gurmukhiWords": 327,
+      "englishWords": 543
+    },
+    {
+      "ang": 631,
+      "sentences": 39,
+      "gurmukhiWords": 300,
+      "englishWords": 477
+    },
+    {
+      "ang": 632,
+      "sentences": 37,
+      "gurmukhiWords": 343,
+      "englishWords": 558
+    },
+    {
+      "ang": 633,
+      "sentences": 36,
+      "gurmukhiWords": 329,
+      "englishWords": 496
+    },
+    {
+      "ang": 634,
+      "sentences": 33,
+      "gurmukhiWords": 317,
+      "englishWords": 596
+    },
+    {
+      "ang": 635,
+      "sentences": 35,
+      "gurmukhiWords": 333,
+      "englishWords": 650
+    },
+    {
+      "ang": 636,
+      "sentences": 36,
+      "gurmukhiWords": 320,
+      "englishWords": 625
+    },
+    {
+      "ang": 637,
+      "sentences": 33,
+      "gurmukhiWords": 317,
+      "englishWords": 621
+    },
+    {
+      "ang": 638,
+      "sentences": 32,
+      "gurmukhiWords": 318,
+      "englishWords": 590
+    },
+    {
+      "ang": 639,
+      "sentences": 35,
+      "gurmukhiWords": 321,
+      "englishWords": 650
+    },
+    {
+      "ang": 640,
+      "sentences": 34,
+      "gurmukhiWords": 312,
+      "englishWords": 662
+    },
+    {
+      "ang": 641,
+      "sentences": 33,
+      "gurmukhiWords": 302,
+      "englishWords": 560
+    },
+    {
+      "ang": 642,
+      "sentences": 37,
+      "gurmukhiWords": 316,
+      "englishWords": 606
+    },
+    {
+      "ang": 643,
+      "sentences": 42,
+      "gurmukhiWords": 329,
+      "englishWords": 550
+    },
+    {
+      "ang": 644,
+      "sentences": 43,
+      "gurmukhiWords": 337,
+      "englishWords": 605
+    },
+    {
+      "ang": 645,
+      "sentences": 44,
+      "gurmukhiWords": 338,
+      "englishWords": 603
+    },
+    {
+      "ang": 646,
+      "sentences": 49,
+      "gurmukhiWords": 348,
+      "englishWords": 585
+    },
+    {
+      "ang": 647,
+      "sentences": 43,
+      "gurmukhiWords": 351,
+      "englishWords": 616
+    },
+    {
+      "ang": 648,
+      "sentences": 40,
+      "gurmukhiWords": 332,
+      "englishWords": 564
+    },
+    {
+      "ang": 649,
+      "sentences": 39,
+      "gurmukhiWords": 347,
+      "englishWords": 584
+    },
+    {
+      "ang": 650,
+      "sentences": 40,
+      "gurmukhiWords": 355,
+      "englishWords": 607
+    },
+    {
+      "ang": 651,
+      "sentences": 40,
+      "gurmukhiWords": 345,
+      "englishWords": 603
+    },
+    {
+      "ang": 652,
+      "sentences": 42,
+      "gurmukhiWords": 348,
+      "englishWords": 557
+    },
+    {
+      "ang": 653,
+      "sentences": 44,
+      "gurmukhiWords": 351,
+      "englishWords": 548
+    },
+    {
+      "ang": 654,
+      "sentences": 35,
+      "gurmukhiWords": 335,
+      "englishWords": 561
+    },
+    {
+      "ang": 655,
+      "sentences": 62,
+      "gurmukhiWords": 353,
+      "englishWords": 557
+    },
+    {
+      "ang": 656,
+      "sentences": 58,
+      "gurmukhiWords": 317,
+      "englishWords": 534
+    },
+    {
+      "ang": 657,
+      "sentences": 48,
+      "gurmukhiWords": 320,
+      "englishWords": 501
+    },
+    {
+      "ang": 658,
+      "sentences": 36,
+      "gurmukhiWords": 333,
+      "englishWords": 612
+    },
+    {
+      "ang": 659,
+      "sentences": 42,
+      "gurmukhiWords": 303,
+      "englishWords": 528
+    },
+    {
+      "ang": 660,
+      "sentences": 27,
+      "gurmukhiWords": 239,
+      "englishWords": 363
+    },
+    {
+      "ang": 661,
+      "sentences": 54,
+      "gurmukhiWords": 333,
+      "englishWords": 545
+    },
+    {
+      "ang": 662,
+      "sentences": 57,
+      "gurmukhiWords": 338,
+      "englishWords": 552
+    },
+    {
+      "ang": 663,
+      "sentences": 38,
+      "gurmukhiWords": 296,
+      "englishWords": 514
+    },
+    {
+      "ang": 664,
+      "sentences": 56,
+      "gurmukhiWords": 355,
+      "englishWords": 602
+    },
+    {
+      "ang": 665,
+      "sentences": 58,
+      "gurmukhiWords": 349,
+      "englishWords": 595
+    },
+    {
+      "ang": 666,
+      "sentences": 40,
+      "gurmukhiWords": 309,
+      "englishWords": 526
+    },
+    {
+      "ang": 667,
+      "sentences": 35,
+      "gurmukhiWords": 354,
+      "englishWords": 603
+    },
+    {
+      "ang": 668,
+      "sentences": 31,
+      "gurmukhiWords": 302,
+      "englishWords": 509
+    },
+    {
+      "ang": 669,
+      "sentences": 31,
+      "gurmukhiWords": 344,
+      "englishWords": 595
+    },
+    {
+      "ang": 670,
+      "sentences": 32,
+      "gurmukhiWords": 324,
+      "englishWords": 503
+    },
+    {
+      "ang": 671,
+      "sentences": 36,
+      "gurmukhiWords": 339,
+      "englishWords": 579
+    },
+    {
+      "ang": 672,
+      "sentences": 35,
+      "gurmukhiWords": 336,
+      "englishWords": 565
+    },
+    {
+      "ang": 673,
+      "sentences": 37,
+      "gurmukhiWords": 338,
+      "englishWords": 605
+    },
+    {
+      "ang": 674,
+      "sentences": 37,
+      "gurmukhiWords": 328,
+      "englishWords": 561
+    },
+    {
+      "ang": 675,
+      "sentences": 38,
+      "gurmukhiWords": 293,
+      "englishWords": 523
+    },
+    {
+      "ang": 676,
+      "sentences": 49,
+      "gurmukhiWords": 315,
+      "englishWords": 547
+    },
+    {
+      "ang": 677,
+      "sentences": 44,
+      "gurmukhiWords": 321,
+      "englishWords": 527
+    },
+    {
+      "ang": 678,
+      "sentences": 29,
+      "gurmukhiWords": 315,
+      "englishWords": 540
+    },
+    {
+      "ang": 679,
+      "sentences": 33,
+      "gurmukhiWords": 278,
+      "englishWords": 517
+    },
+    {
+      "ang": 680,
+      "sentences": 37,
+      "gurmukhiWords": 316,
+      "englishWords": 546
+    },
+    {
+      "ang": 681,
+      "sentences": 37,
+      "gurmukhiWords": 322,
+      "englishWords": 518
+    },
+    {
+      "ang": 682,
+      "sentences": 38,
+      "gurmukhiWords": 324,
+      "englishWords": 538
+    },
+    {
+      "ang": 683,
+      "sentences": 31,
+      "gurmukhiWords": 283,
+      "englishWords": 522
+    },
+    {
+      "ang": 684,
+      "sentences": 44,
+      "gurmukhiWords": 292,
+      "englishWords": 485
+    },
+    {
+      "ang": 685,
+      "sentences": 43,
+      "gurmukhiWords": 315,
+      "englishWords": 535
+    },
+    {
+      "ang": 686,
+      "sentences": 52,
+      "gurmukhiWords": 340,
+      "englishWords": 622
+    },
+    {
+      "ang": 687,
+      "sentences": 30,
+      "gurmukhiWords": 317,
+      "englishWords": 658
+    },
+    {
+      "ang": 688,
+      "sentences": 37,
+      "gurmukhiWords": 311,
+      "englishWords": 621
+    },
+    {
+      "ang": 689,
+      "sentences": 36,
+      "gurmukhiWords": 316,
+      "englishWords": 634
+    },
+    {
+      "ang": 690,
+      "sentences": 32,
+      "gurmukhiWords": 291,
+      "englishWords": 533
+    },
+    {
+      "ang": 691,
+      "sentences": 33,
+      "gurmukhiWords": 281,
+      "englishWords": 534
+    },
+    {
+      "ang": 692,
+      "sentences": 40,
+      "gurmukhiWords": 334,
+      "englishWords": 523
+    },
+    {
+      "ang": 693,
+      "sentences": 39,
+      "gurmukhiWords": 325,
+      "englishWords": 572
+    },
+    {
+      "ang": 694,
+      "sentences": 35,
+      "gurmukhiWords": 317,
+      "englishWords": 585
+    },
+    {
+      "ang": 695,
+      "sentences": 44,
+      "gurmukhiWords": 313,
+      "englishWords": 575
+    },
+    {
+      "ang": 696,
+      "sentences": 23,
+      "gurmukhiWords": 227,
+      "englishWords": 403
+    },
+    {
+      "ang": 697,
+      "sentences": 31,
+      "gurmukhiWords": 320,
+      "englishWords": 580
+    },
+    {
+      "ang": 698,
+      "sentences": 36,
+      "gurmukhiWords": 308,
+      "englishWords": 563
+    },
+    {
+      "ang": 699,
+      "sentences": 43,
+      "gurmukhiWords": 323,
+      "englishWords": 642
+    },
+    {
+      "ang": 700,
+      "sentences": 32,
+      "gurmukhiWords": 297,
+      "englishWords": 486
+    },
+    {
+      "ang": 701,
+      "sentences": 35,
+      "gurmukhiWords": 308,
+      "englishWords": 541
+    },
+    {
+      "ang": 702,
+      "sentences": 35,
+      "gurmukhiWords": 303,
+      "englishWords": 557
+    },
+    {
+      "ang": 703,
+      "sentences": 37,
+      "gurmukhiWords": 328,
+      "englishWords": 557
+    },
+    {
+      "ang": 704,
+      "sentences": 43,
+      "gurmukhiWords": 333,
+      "englishWords": 588
+    },
+    {
+      "ang": 705,
+      "sentences": 40,
+      "gurmukhiWords": 309,
+      "englishWords": 608
+    },
+    {
+      "ang": 706,
+      "sentences": 45,
+      "gurmukhiWords": 333,
+      "englishWords": 574
+    },
+    {
+      "ang": 707,
+      "sentences": 48,
+      "gurmukhiWords": 340,
+      "englishWords": 591
+    },
+    {
+      "ang": 708,
+      "sentences": 46,
+      "gurmukhiWords": 330,
+      "englishWords": 614
+    },
+    {
+      "ang": 709,
+      "sentences": 49,
+      "gurmukhiWords": 331,
+      "englishWords": 598
+    },
+    {
+      "ang": 710,
+      "sentences": 46,
+      "gurmukhiWords": 307,
+      "englishWords": 546
+    },
+    {
+      "ang": 711,
+      "sentences": 23,
+      "gurmukhiWords": 219,
+      "englishWords": 368
+    },
+    {
+      "ang": 712,
+      "sentences": 34,
+      "gurmukhiWords": 308,
+      "englishWords": 578
+    },
+    {
+      "ang": 713,
+      "sentences": 38,
+      "gurmukhiWords": 331,
+      "englishWords": 545
+    },
+    {
+      "ang": 714,
+      "sentences": 37,
+      "gurmukhiWords": 319,
+      "englishWords": 559
+    },
+    {
+      "ang": 715,
+      "sentences": 41,
+      "gurmukhiWords": 293,
+      "englishWords": 497
+    },
+    {
+      "ang": 716,
+      "sentences": 35,
+      "gurmukhiWords": 335,
+      "englishWords": 580
+    },
+    {
+      "ang": 717,
+      "sentences": 36,
+      "gurmukhiWords": 330,
+      "englishWords": 641
+    },
+    {
+      "ang": 718,
+      "sentences": 38,
+      "gurmukhiWords": 309,
+      "englishWords": 521
+    },
+    {
+      "ang": 719,
+      "sentences": 20,
+      "gurmukhiWords": 190,
+      "englishWords": 323
+    },
+    {
+      "ang": 720,
+      "sentences": 31,
+      "gurmukhiWords": 278,
+      "englishWords": 444
+    },
+    {
+      "ang": 721,
+      "sentences": 29,
+      "gurmukhiWords": 216,
+      "englishWords": 380
+    },
+    {
+      "ang": 722,
+      "sentences": 38,
+      "gurmukhiWords": 358,
+      "englishWords": 620
+    },
+    {
+      "ang": 723,
+      "sentences": 41,
+      "gurmukhiWords": 315,
+      "englishWords": 547
+    },
+    {
+      "ang": 724,
+      "sentences": 45,
+      "gurmukhiWords": 317,
+      "englishWords": 536
+    },
+    {
+      "ang": 725,
+      "sentences": 40,
+      "gurmukhiWords": 347,
+      "englishWords": 588
+    },
+    {
+      "ang": 726,
+      "sentences": 39,
+      "gurmukhiWords": 335,
+      "englishWords": 575
+    },
+    {
+      "ang": 727,
+      "sentences": 43,
+      "gurmukhiWords": 337,
+      "englishWords": 575
+    },
+    {
+      "ang": 728,
+      "sentences": 24,
+      "gurmukhiWords": 186,
+      "englishWords": 321
+    },
+    {
+      "ang": 729,
+      "sentences": 41,
+      "gurmukhiWords": 304,
+      "englishWords": 565
+    },
+    {
+      "ang": 730,
+      "sentences": 41,
+      "gurmukhiWords": 328,
+      "englishWords": 567
+    },
+    {
+      "ang": 731,
+      "sentences": 34,
+      "gurmukhiWords": 334,
+      "englishWords": 616
+    },
+    {
+      "ang": 732,
+      "sentences": 39,
+      "gurmukhiWords": 310,
+      "englishWords": 585
+    },
+    {
+      "ang": 733,
+      "sentences": 37,
+      "gurmukhiWords": 325,
+      "englishWords": 587
+    },
+    {
+      "ang": 734,
+      "sentences": 24,
+      "gurmukhiWords": 319,
+      "englishWords": 535
+    },
+    {
+      "ang": 735,
+      "sentences": 31,
+      "gurmukhiWords": 336,
+      "englishWords": 528
+    },
+    {
+      "ang": 736,
+      "sentences": 45,
+      "gurmukhiWords": 334,
+      "englishWords": 512
+    },
+    {
+      "ang": 737,
+      "sentences": 55,
+      "gurmukhiWords": 337,
+      "englishWords": 595
+    },
+    {
+      "ang": 738,
+      "sentences": 46,
+      "gurmukhiWords": 328,
+      "englishWords": 594
+    },
+    {
+      "ang": 739,
+      "sentences": 58,
+      "gurmukhiWords": 359,
+      "englishWords": 568
+    },
+    {
+      "ang": 740,
+      "sentences": 55,
+      "gurmukhiWords": 324,
+      "englishWords": 551
+    },
+    {
+      "ang": 741,
+      "sentences": 55,
+      "gurmukhiWords": 335,
+      "englishWords": 557
+    },
+    {
+      "ang": 742,
+      "sentences": 54,
+      "gurmukhiWords": 330,
+      "englishWords": 534
+    },
+    {
+      "ang": 743,
+      "sentences": 54,
+      "gurmukhiWords": 324,
+      "englishWords": 550
+    },
+    {
+      "ang": 744,
+      "sentences": 55,
+      "gurmukhiWords": 338,
+      "englishWords": 584
+    },
+    {
+      "ang": 745,
+      "sentences": 43,
+      "gurmukhiWords": 322,
+      "englishWords": 554
+    },
+    {
+      "ang": 746,
+      "sentences": 47,
+      "gurmukhiWords": 278,
+      "englishWords": 487
+    },
+    {
+      "ang": 747,
+      "sentences": 35,
+      "gurmukhiWords": 316,
+      "englishWords": 544
+    },
+    {
+      "ang": 748,
+      "sentences": 35,
+      "gurmukhiWords": 323,
+      "englishWords": 535
+    },
+    {
+      "ang": 749,
+      "sentences": 36,
+      "gurmukhiWords": 343,
+      "englishWords": 585
+    },
+    {
+      "ang": 750,
+      "sentences": 38,
+      "gurmukhiWords": 298,
+      "englishWords": 521
+    },
+    {
+      "ang": 751,
+      "sentences": 35,
+      "gurmukhiWords": 302,
+      "englishWords": 562
+    },
+    {
+      "ang": 752,
+      "sentences": 44,
+      "gurmukhiWords": 317,
+      "englishWords": 625
+    },
+    {
+      "ang": 753,
+      "sentences": 35,
+      "gurmukhiWords": 315,
+      "englishWords": 598
+    },
+    {
+      "ang": 754,
+      "sentences": 35,
+      "gurmukhiWords": 323,
+      "englishWords": 548
+    },
+    {
+      "ang": 755,
+      "sentences": 38,
+      "gurmukhiWords": 301,
+      "englishWords": 572
+    },
+    {
+      "ang": 756,
+      "sentences": 38,
+      "gurmukhiWords": 338,
+      "englishWords": 643
+    },
+    {
+      "ang": 757,
+      "sentences": 34,
+      "gurmukhiWords": 328,
+      "englishWords": 595
+    },
+    {
+      "ang": 758,
+      "sentences": 31,
+      "gurmukhiWords": 300,
+      "englishWords": 518
+    },
+    {
+      "ang": 759,
+      "sentences": 39,
+      "gurmukhiWords": 297,
+      "englishWords": 525
+    },
+    {
+      "ang": 760,
+      "sentences": 39,
+      "gurmukhiWords": 291,
+      "englishWords": 561
+    },
+    {
+      "ang": 761,
+      "sentences": 40,
+      "gurmukhiWords": 327,
+      "englishWords": 586
+    },
+    {
+      "ang": 762,
+      "sentences": 37,
+      "gurmukhiWords": 332,
+      "englishWords": 582
+    },
+    {
+      "ang": 763,
+      "sentences": 34,
+      "gurmukhiWords": 338,
+      "englishWords": 621
+    },
+    {
+      "ang": 764,
+      "sentences": 37,
+      "gurmukhiWords": 298,
+      "englishWords": 577
+    },
+    {
+      "ang": 765,
+      "sentences": 36,
+      "gurmukhiWords": 312,
+      "englishWords": 595
+    },
+    {
+      "ang": 766,
+      "sentences": 38,
+      "gurmukhiWords": 341,
+      "englishWords": 634
+    },
+    {
+      "ang": 767,
+      "sentences": 37,
+      "gurmukhiWords": 320,
+      "englishWords": 607
+    },
+    {
+      "ang": 768,
+      "sentences": 33,
+      "gurmukhiWords": 318,
+      "englishWords": 550
+    },
+    {
+      "ang": 769,
+      "sentences": 35,
+      "gurmukhiWords": 345,
+      "englishWords": 617
+    },
+    {
+      "ang": 770,
+      "sentences": 34,
+      "gurmukhiWords": 345,
+      "englishWords": 601
+    },
+    {
+      "ang": 771,
+      "sentences": 32,
+      "gurmukhiWords": 334,
+      "englishWords": 608
+    },
+    {
+      "ang": 772,
+      "sentences": 32,
+      "gurmukhiWords": 311,
+      "englishWords": 584
+    },
+    {
+      "ang": 773,
+      "sentences": 32,
+      "gurmukhiWords": 303,
+      "englishWords": 546
+    },
+    {
+      "ang": 774,
+      "sentences": 31,
+      "gurmukhiWords": 294,
+      "englishWords": 585
+    },
+    {
+      "ang": 775,
+      "sentences": 35,
+      "gurmukhiWords": 313,
+      "englishWords": 568
+    },
+    {
+      "ang": 776,
+      "sentences": 32,
+      "gurmukhiWords": 309,
+      "englishWords": 530
+    },
+    {
+      "ang": 777,
+      "sentences": 34,
+      "gurmukhiWords": 314,
+      "englishWords": 572
+    },
+    {
+      "ang": 778,
+      "sentences": 35,
+      "gurmukhiWords": 319,
+      "englishWords": 596
+    },
+    {
+      "ang": 779,
+      "sentences": 36,
+      "gurmukhiWords": 323,
+      "englishWords": 562
+    },
+    {
+      "ang": 780,
+      "sentences": 35,
+      "gurmukhiWords": 341,
+      "englishWords": 605
+    },
+    {
+      "ang": 781,
+      "sentences": 35,
+      "gurmukhiWords": 350,
+      "englishWords": 597
+    },
+    {
+      "ang": 782,
+      "sentences": 33,
+      "gurmukhiWords": 322,
+      "englishWords": 596
+    },
+    {
+      "ang": 783,
+      "sentences": 34,
+      "gurmukhiWords": 324,
+      "englishWords": 568
+    },
+    {
+      "ang": 784,
+      "sentences": 35,
+      "gurmukhiWords": 323,
+      "englishWords": 593
+    },
+    {
+      "ang": 785,
+      "sentences": 38,
+      "gurmukhiWords": 312,
+      "englishWords": 556
+    },
+    {
+      "ang": 786,
+      "sentences": 44,
+      "gurmukhiWords": 346,
+      "englishWords": 587
+    },
+    {
+      "ang": 787,
+      "sentences": 48,
+      "gurmukhiWords": 343,
+      "englishWords": 611
+    },
+    {
+      "ang": 788,
+      "sentences": 45,
+      "gurmukhiWords": 337,
+      "englishWords": 591
+    },
+    {
+      "ang": 789,
+      "sentences": 52,
+      "gurmukhiWords": 349,
+      "englishWords": 614
+    },
+    {
+      "ang": 790,
+      "sentences": 48,
+      "gurmukhiWords": 332,
+      "englishWords": 597
+    },
+    {
+      "ang": 791,
+      "sentences": 51,
+      "gurmukhiWords": 342,
+      "englishWords": 560
+    },
+    {
+      "ang": 792,
+      "sentences": 50,
+      "gurmukhiWords": 321,
+      "englishWords": 567
+    },
+    {
+      "ang": 793,
+      "sentences": 43,
+      "gurmukhiWords": 336,
+      "englishWords": 540
+    },
+    {
+      "ang": 794,
+      "sentences": 48,
+      "gurmukhiWords": 318,
+      "englishWords": 510
+    },
+    {
+      "ang": 795,
+      "sentences": 29,
+      "gurmukhiWords": 248,
+      "englishWords": 413
+    },
+    {
+      "ang": 796,
+      "sentences": 44,
+      "gurmukhiWords": 324,
+      "englishWords": 588
+    },
+    {
+      "ang": 797,
+      "sentences": 42,
+      "gurmukhiWords": 350,
+      "englishWords": 611
+    },
+    {
+      "ang": 798,
+      "sentences": 48,
+      "gurmukhiWords": 323,
+      "englishWords": 582
+    },
+    {
+      "ang": 799,
+      "sentences": 35,
+      "gurmukhiWords": 339,
+      "englishWords": 600
+    },
+    {
+      "ang": 800,
+      "sentences": 32,
+      "gurmukhiWords": 297,
+      "englishWords": 555
+    },
+    {
+      "ang": 801,
+      "sentences": 55,
+      "gurmukhiWords": 326,
+      "englishWords": 541
+    },
+    {
+      "ang": 802,
+      "sentences": 41,
+      "gurmukhiWords": 327,
+      "englishWords": 564
+    },
+    {
+      "ang": 803,
+      "sentences": 41,
+      "gurmukhiWords": 301,
+      "englishWords": 531
+    },
+    {
+      "ang": 804,
+      "sentences": 52,
+      "gurmukhiWords": 313,
+      "englishWords": 543
+    },
+    {
+      "ang": 805,
+      "sentences": 50,
+      "gurmukhiWords": 322,
+      "englishWords": 535
+    },
+    {
+      "ang": 806,
+      "sentences": 46,
+      "gurmukhiWords": 301,
+      "englishWords": 494
+    },
+    {
+      "ang": 807,
+      "sentences": 45,
+      "gurmukhiWords": 323,
+      "englishWords": 518
+    },
+    {
+      "ang": 808,
+      "sentences": 37,
+      "gurmukhiWords": 298,
+      "englishWords": 478
+    },
+    {
+      "ang": 809,
+      "sentences": 42,
+      "gurmukhiWords": 329,
+      "englishWords": 545
+    },
+    {
+      "ang": 810,
+      "sentences": 41,
+      "gurmukhiWords": 322,
+      "englishWords": 571
+    },
+    {
+      "ang": 811,
+      "sentences": 41,
+      "gurmukhiWords": 328,
+      "englishWords": 573
+    },
+    {
+      "ang": 812,
+      "sentences": 39,
+      "gurmukhiWords": 313,
+      "englishWords": 542
+    },
+    {
+      "ang": 813,
+      "sentences": 41,
+      "gurmukhiWords": 326,
+      "englishWords": 581
+    },
+    {
+      "ang": 814,
+      "sentences": 40,
+      "gurmukhiWords": 328,
+      "englishWords": 585
+    },
+    {
+      "ang": 815,
+      "sentences": 41,
+      "gurmukhiWords": 325,
+      "englishWords": 543
+    },
+    {
+      "ang": 816,
+      "sentences": 42,
+      "gurmukhiWords": 336,
+      "englishWords": 569
+    },
+    {
+      "ang": 817,
+      "sentences": 39,
+      "gurmukhiWords": 297,
+      "englishWords": 515
+    },
+    {
+      "ang": 818,
+      "sentences": 42,
+      "gurmukhiWords": 333,
+      "englishWords": 562
+    },
+    {
+      "ang": 819,
+      "sentences": 41,
+      "gurmukhiWords": 312,
+      "englishWords": 564
+    },
+    {
+      "ang": 820,
+      "sentences": 34,
+      "gurmukhiWords": 313,
+      "englishWords": 518
+    },
+    {
+      "ang": 821,
+      "sentences": 36,
+      "gurmukhiWords": 309,
+      "englishWords": 577
+    },
+    {
+      "ang": 822,
+      "sentences": 35,
+      "gurmukhiWords": 326,
+      "englishWords": 526
+    },
+    {
+      "ang": 823,
+      "sentences": 35,
+      "gurmukhiWords": 326,
+      "englishWords": 533
+    },
+    {
+      "ang": 824,
+      "sentences": 35,
+      "gurmukhiWords": 328,
+      "englishWords": 532
+    },
+    {
+      "ang": 825,
+      "sentences": 35,
+      "gurmukhiWords": 323,
+      "englishWords": 541
+    },
+    {
+      "ang": 826,
+      "sentences": 38,
+      "gurmukhiWords": 313,
+      "englishWords": 517
+    },
+    {
+      "ang": 827,
+      "sentences": 31,
+      "gurmukhiWords": 295,
+      "englishWords": 513
+    },
+    {
+      "ang": 828,
+      "sentences": 35,
+      "gurmukhiWords": 326,
+      "englishWords": 558
+    },
+    {
+      "ang": 829,
+      "sentences": 34,
+      "gurmukhiWords": 299,
+      "englishWords": 496
+    },
+    {
+      "ang": 830,
+      "sentences": 43,
+      "gurmukhiWords": 300,
+      "englishWords": 528
+    },
+    {
+      "ang": 831,
+      "sentences": 48,
+      "gurmukhiWords": 331,
+      "englishWords": 546
+    },
+    {
+      "ang": 832,
+      "sentences": 51,
+      "gurmukhiWords": 319,
+      "englishWords": 600
+    },
+    {
+      "ang": 833,
+      "sentences": 34,
+      "gurmukhiWords": 297,
+      "englishWords": 558
+    },
+    {
+      "ang": 834,
+      "sentences": 29,
+      "gurmukhiWords": 313,
+      "englishWords": 578
+    },
+    {
+      "ang": 835,
+      "sentences": 28,
+      "gurmukhiWords": 307,
+      "englishWords": 553
+    },
+    {
+      "ang": 836,
+      "sentences": 28,
+      "gurmukhiWords": 345,
+      "englishWords": 591
+    },
+    {
+      "ang": 837,
+      "sentences": 47,
+      "gurmukhiWords": 314,
+      "englishWords": 557
+    },
+    {
+      "ang": 838,
+      "sentences": 66,
+      "gurmukhiWords": 334,
+      "englishWords": 624
+    },
+    {
+      "ang": 839,
+      "sentences": 59,
+      "gurmukhiWords": 356,
+      "englishWords": 639
+    },
+    {
+      "ang": 840,
+      "sentences": 56,
+      "gurmukhiWords": 338,
+      "englishWords": 625
+    },
+    {
+      "ang": 841,
+      "sentences": 54,
+      "gurmukhiWords": 324,
+      "englishWords": 565
+    },
+    {
+      "ang": 842,
+      "sentences": 63,
+      "gurmukhiWords": 368,
+      "englishWords": 638
+    },
+    {
+      "ang": 843,
+      "sentences": 40,
+      "gurmukhiWords": 300,
+      "englishWords": 559
+    },
+    {
+      "ang": 844,
+      "sentences": 35,
+      "gurmukhiWords": 313,
+      "englishWords": 571
+    },
+    {
+      "ang": 845,
+      "sentences": 37,
+      "gurmukhiWords": 319,
+      "englishWords": 561
+    },
+    {
+      "ang": 846,
+      "sentences": 37,
+      "gurmukhiWords": 316,
+      "englishWords": 560
+    },
+    {
+      "ang": 847,
+      "sentences": 36,
+      "gurmukhiWords": 307,
+      "englishWords": 594
+    },
+    {
+      "ang": 848,
+      "sentences": 35,
+      "gurmukhiWords": 314,
+      "englishWords": 531
+    },
+    {
+      "ang": 849,
+      "sentences": 39,
+      "gurmukhiWords": 318,
+      "englishWords": 533
+    },
+    {
+      "ang": 850,
+      "sentences": 40,
+      "gurmukhiWords": 359,
+      "englishWords": 586
+    },
+    {
+      "ang": 851,
+      "sentences": 38,
+      "gurmukhiWords": 346,
+      "englishWords": 552
+    },
+    {
+      "ang": 852,
+      "sentences": 37,
+      "gurmukhiWords": 336,
+      "englishWords": 565
+    },
+    {
+      "ang": 853,
+      "sentences": 32,
+      "gurmukhiWords": 340,
+      "englishWords": 542
+    },
+    {
+      "ang": 854,
+      "sentences": 45,
+      "gurmukhiWords": 334,
+      "englishWords": 597
+    },
+    {
+      "ang": 855,
+      "sentences": 39,
+      "gurmukhiWords": 331,
+      "englishWords": 513
+    },
+    {
+      "ang": 856,
+      "sentences": 39,
+      "gurmukhiWords": 329,
+      "englishWords": 556
+    },
+    {
+      "ang": 857,
+      "sentences": 38,
+      "gurmukhiWords": 313,
+      "englishWords": 535
+    },
+    {
+      "ang": 858,
+      "sentences": 36,
+      "gurmukhiWords": 294,
+      "englishWords": 501
+    },
+    {
+      "ang": 859,
+      "sentences": 14,
+      "gurmukhiWords": 194,
+      "englishWords": 295
+    },
+    {
+      "ang": 860,
+      "sentences": 26,
+      "gurmukhiWords": 332,
+      "englishWords": 483
+    },
+    {
+      "ang": 861,
+      "sentences": 29,
+      "gurmukhiWords": 339,
+      "englishWords": 513
+    },
+    {
+      "ang": 862,
+      "sentences": 38,
+      "gurmukhiWords": 281,
+      "englishWords": 496
+    },
+    {
+      "ang": 863,
+      "sentences": 61,
+      "gurmukhiWords": 373,
+      "englishWords": 581
+    },
+    {
+      "ang": 864,
+      "sentences": 59,
+      "gurmukhiWords": 371,
+      "englishWords": 559
+    },
+    {
+      "ang": 865,
+      "sentences": 58,
+      "gurmukhiWords": 351,
+      "englishWords": 525
+    },
+    {
+      "ang": 866,
+      "sentences": 58,
+      "gurmukhiWords": 342,
+      "englishWords": 576
+    },
+    {
+      "ang": 867,
+      "sentences": 58,
+      "gurmukhiWords": 344,
+      "englishWords": 543
+    },
+    {
+      "ang": 868,
+      "sentences": 56,
+      "gurmukhiWords": 335,
+      "englishWords": 505
+    },
+    {
+      "ang": 869,
+      "sentences": 55,
+      "gurmukhiWords": 323,
+      "englishWords": 533
+    },
+    {
+      "ang": 870,
+      "sentences": 48,
+      "gurmukhiWords": 316,
+      "englishWords": 506
+    },
+    {
+      "ang": 871,
+      "sentences": 60,
+      "gurmukhiWords": 356,
+      "englishWords": 541
+    },
+    {
+      "ang": 872,
+      "sentences": 61,
+      "gurmukhiWords": 359,
+      "englishWords": 576
+    },
+    {
+      "ang": 873,
+      "sentences": 54,
+      "gurmukhiWords": 322,
+      "englishWords": 513
+    },
+    {
+      "ang": 874,
+      "sentences": 52,
+      "gurmukhiWords": 314,
+      "englishWords": 497
+    },
+    {
+      "ang": 875,
+      "sentences": 45,
+      "gurmukhiWords": 265,
+      "englishWords": 414
+    },
+    {
+      "ang": 876,
+      "sentences": 23,
+      "gurmukhiWords": 198,
+      "englishWords": 315
+    },
+    {
+      "ang": 877,
+      "sentences": 45,
+      "gurmukhiWords": 330,
+      "englishWords": 584
+    },
+    {
+      "ang": 878,
+      "sentences": 52,
+      "gurmukhiWords": 339,
+      "englishWords": 537
+    },
+    {
+      "ang": 879,
+      "sentences": 46,
+      "gurmukhiWords": 308,
+      "englishWords": 558
+    },
+    {
+      "ang": 880,
+      "sentences": 43,
+      "gurmukhiWords": 306,
+      "englishWords": 570
+    },
+    {
+      "ang": 881,
+      "sentences": 32,
+      "gurmukhiWords": 339,
+      "englishWords": 594
+    },
+    {
+      "ang": 882,
+      "sentences": 32,
+      "gurmukhiWords": 324,
+      "englishWords": 558
+    },
+    {
+      "ang": 883,
+      "sentences": 35,
+      "gurmukhiWords": 323,
+      "englishWords": 556
+    },
+    {
+      "ang": 884,
+      "sentences": 38,
+      "gurmukhiWords": 325,
+      "englishWords": 520
+    },
+    {
+      "ang": 885,
+      "sentences": 54,
+      "gurmukhiWords": 344,
+      "englishWords": 585
+    },
+    {
+      "ang": 886,
+      "sentences": 54,
+      "gurmukhiWords": 316,
+      "englishWords": 545
+    },
+    {
+      "ang": 887,
+      "sentences": 57,
+      "gurmukhiWords": 348,
+      "englishWords": 512
+    },
+    {
+      "ang": 888,
+      "sentences": 59,
+      "gurmukhiWords": 343,
+      "englishWords": 562
+    },
+    {
+      "ang": 889,
+      "sentences": 58,
+      "gurmukhiWords": 353,
+      "englishWords": 571
+    },
+    {
+      "ang": 890,
+      "sentences": 56,
+      "gurmukhiWords": 331,
+      "englishWords": 584
+    },
+    {
+      "ang": 891,
+      "sentences": 56,
+      "gurmukhiWords": 349,
+      "englishWords": 572
+    },
+    {
+      "ang": 892,
+      "sentences": 56,
+      "gurmukhiWords": 346,
+      "englishWords": 549
+    },
+    {
+      "ang": 893,
+      "sentences": 58,
+      "gurmukhiWords": 345,
+      "englishWords": 584
+    },
+    {
+      "ang": 894,
+      "sentences": 59,
+      "gurmukhiWords": 339,
+      "englishWords": 498
+    },
+    {
+      "ang": 895,
+      "sentences": 63,
+      "gurmukhiWords": 343,
+      "englishWords": 531
+    },
+    {
+      "ang": 896,
+      "sentences": 62,
+      "gurmukhiWords": 348,
+      "englishWords": 543
+    },
+    {
+      "ang": 897,
+      "sentences": 56,
+      "gurmukhiWords": 330,
+      "englishWords": 576
+    },
+    {
+      "ang": 898,
+      "sentences": 58,
+      "gurmukhiWords": 342,
+      "englishWords": 520
+    },
+    {
+      "ang": 899,
+      "sentences": 56,
+      "gurmukhiWords": 343,
+      "englishWords": 588
+    },
+    {
+      "ang": 900,
+      "sentences": 49,
+      "gurmukhiWords": 328,
+      "englishWords": 527
+    },
+    {
+      "ang": 901,
+      "sentences": 39,
+      "gurmukhiWords": 269,
+      "englishWords": 435
+    },
+    {
+      "ang": 902,
+      "sentences": 34,
+      "gurmukhiWords": 306,
+      "englishWords": 499
+    },
+    {
+      "ang": 903,
+      "sentences": 54,
+      "gurmukhiWords": 339,
+      "englishWords": 663
+    },
+    {
+      "ang": 904,
+      "sentences": 57,
+      "gurmukhiWords": 339,
+      "englishWords": 636
+    },
+    {
+      "ang": 905,
+      "sentences": 54,
+      "gurmukhiWords": 341,
+      "englishWords": 606
+    },
+    {
+      "ang": 906,
+      "sentences": 39,
+      "gurmukhiWords": 330,
+      "englishWords": 589
+    },
+    {
+      "ang": 907,
+      "sentences": 32,
+      "gurmukhiWords": 296,
+      "englishWords": 568
+    },
+    {
+      "ang": 908,
+      "sentences": 32,
+      "gurmukhiWords": 297,
+      "englishWords": 537
+    },
+    {
+      "ang": 909,
+      "sentences": 33,
+      "gurmukhiWords": 317,
+      "englishWords": 565
+    },
+    {
+      "ang": 910,
+      "sentences": 34,
+      "gurmukhiWords": 303,
+      "englishWords": 548
+    },
+    {
+      "ang": 911,
+      "sentences": 32,
+      "gurmukhiWords": 302,
+      "englishWords": 566
+    },
+    {
+      "ang": 912,
+      "sentences": 38,
+      "gurmukhiWords": 295,
+      "englishWords": 508
+    },
+    {
+      "ang": 913,
+      "sentences": 56,
+      "gurmukhiWords": 339,
+      "englishWords": 506
+    },
+    {
+      "ang": 914,
+      "sentences": 59,
+      "gurmukhiWords": 356,
+      "englishWords": 568
+    },
+    {
+      "ang": 915,
+      "sentences": 36,
+      "gurmukhiWords": 292,
+      "englishWords": 525
+    },
+    {
+      "ang": 916,
+      "sentences": 32,
+      "gurmukhiWords": 294,
+      "englishWords": 537
+    },
+    {
+      "ang": 917,
+      "sentences": 38,
+      "gurmukhiWords": 322,
+      "englishWords": 515
+    },
+    {
+      "ang": 918,
+      "sentences": 36,
+      "gurmukhiWords": 327,
+      "englishWords": 490
+    },
+    {
+      "ang": 919,
+      "sentences": 36,
+      "gurmukhiWords": 330,
+      "englishWords": 556
+    },
+    {
+      "ang": 920,
+      "sentences": 35,
+      "gurmukhiWords": 339,
+      "englishWords": 560
+    },
+    {
+      "ang": 921,
+      "sentences": 33,
+      "gurmukhiWords": 337,
+      "englishWords": 562
+    },
+    {
+      "ang": 922,
+      "sentences": 32,
+      "gurmukhiWords": 330,
+      "englishWords": 538
+    },
+    {
+      "ang": 923,
+      "sentences": 32,
+      "gurmukhiWords": 303,
+      "englishWords": 561
+    },
+    {
+      "ang": 924,
+      "sentences": 32,
+      "gurmukhiWords": 292,
+      "englishWords": 510
+    },
+    {
+      "ang": 925,
+      "sentences": 37,
+      "gurmukhiWords": 317,
+      "englishWords": 584
+    },
+    {
+      "ang": 926,
+      "sentences": 40,
+      "gurmukhiWords": 330,
+      "englishWords": 573
+    },
+    {
+      "ang": 927,
+      "sentences": 39,
+      "gurmukhiWords": 309,
+      "englishWords": 563
+    },
+    {
+      "ang": 928,
+      "sentences": 42,
+      "gurmukhiWords": 332,
+      "englishWords": 614
+    },
+    {
+      "ang": 929,
+      "sentences": 39,
+      "gurmukhiWords": 298,
+      "englishWords": 548
+    },
+    {
+      "ang": 930,
+      "sentences": 46,
+      "gurmukhiWords": 329,
+      "englishWords": 636
+    },
+    {
+      "ang": 931,
+      "sentences": 57,
+      "gurmukhiWords": 354,
+      "englishWords": 639
+    },
+    {
+      "ang": 932,
+      "sentences": 59,
+      "gurmukhiWords": 345,
+      "englishWords": 613
+    },
+    {
+      "ang": 933,
+      "sentences": 55,
+      "gurmukhiWords": 350,
+      "englishWords": 655
+    },
+    {
+      "ang": 934,
+      "sentences": 41,
+      "gurmukhiWords": 349,
+      "englishWords": 674
+    },
+    {
+      "ang": 935,
+      "sentences": 43,
+      "gurmukhiWords": 342,
+      "englishWords": 631
+    },
+    {
+      "ang": 936,
+      "sentences": 43,
+      "gurmukhiWords": 356,
+      "englishWords": 602
+    },
+    {
+      "ang": 937,
+      "sentences": 42,
+      "gurmukhiWords": 336,
+      "englishWords": 613
+    },
+    {
+      "ang": 938,
+      "sentences": 37,
+      "gurmukhiWords": 318,
+      "englishWords": 618
+    },
+    {
+      "ang": 939,
+      "sentences": 48,
+      "gurmukhiWords": 332,
+      "englishWords": 598
+    },
+    {
+      "ang": 940,
+      "sentences": 38,
+      "gurmukhiWords": 330,
+      "englishWords": 610
+    },
+    {
+      "ang": 941,
+      "sentences": 54,
+      "gurmukhiWords": 326,
+      "englishWords": 597
+    },
+    {
+      "ang": 942,
+      "sentences": 56,
+      "gurmukhiWords": 322,
+      "englishWords": 550
+    },
+    {
+      "ang": 943,
+      "sentences": 57,
+      "gurmukhiWords": 354,
+      "englishWords": 654
+    },
+    {
+      "ang": 944,
+      "sentences": 46,
+      "gurmukhiWords": 346,
+      "englishWords": 642
+    },
+    {
+      "ang": 945,
+      "sentences": 38,
+      "gurmukhiWords": 352,
+      "englishWords": 636
+    },
+    {
+      "ang": 946,
+      "sentences": 38,
+      "gurmukhiWords": 311,
+      "englishWords": 540
+    },
+    {
+      "ang": 947,
+      "sentences": 45,
+      "gurmukhiWords": 339,
+      "englishWords": 540
+    },
+    {
+      "ang": 948,
+      "sentences": 49,
+      "gurmukhiWords": 351,
+      "englishWords": 612
+    },
+    {
+      "ang": 949,
+      "sentences": 44,
+      "gurmukhiWords": 353,
+      "englishWords": 558
+    },
+    {
+      "ang": 950,
+      "sentences": 40,
+      "gurmukhiWords": 349,
+      "englishWords": 587
+    },
+    {
+      "ang": 951,
+      "sentences": 53,
+      "gurmukhiWords": 348,
+      "englishWords": 547
+    },
+    {
+      "ang": 952,
+      "sentences": 56,
+      "gurmukhiWords": 370,
+      "englishWords": 595
+    },
+    {
+      "ang": 953,
+      "sentences": 55,
+      "gurmukhiWords": 369,
+      "englishWords": 581
+    },
+    {
+      "ang": 954,
+      "sentences": 53,
+      "gurmukhiWords": 346,
+      "englishWords": 569
+    },
+    {
+      "ang": 955,
+      "sentences": 48,
+      "gurmukhiWords": 351,
+      "englishWords": 617
+    },
+    {
+      "ang": 956,
+      "sentences": 50,
+      "gurmukhiWords": 339,
+      "englishWords": 582
+    },
+    {
+      "ang": 957,
+      "sentences": 45,
+      "gurmukhiWords": 322,
+      "englishWords": 540
+    },
+    {
+      "ang": 958,
+      "sentences": 46,
+      "gurmukhiWords": 362,
+      "englishWords": 615
+    },
+    {
+      "ang": 959,
+      "sentences": 42,
+      "gurmukhiWords": 342,
+      "englishWords": 599
+    },
+    {
+      "ang": 960,
+      "sentences": 39,
+      "gurmukhiWords": 359,
+      "englishWords": 600
+    },
+    {
+      "ang": 961,
+      "sentences": 47,
+      "gurmukhiWords": 356,
+      "englishWords": 586
+    },
+    {
+      "ang": 962,
+      "sentences": 54,
+      "gurmukhiWords": 372,
+      "englishWords": 630
+    },
+    {
+      "ang": 963,
+      "sentences": 46,
+      "gurmukhiWords": 356,
+      "englishWords": 603
+    },
+    {
+      "ang": 964,
+      "sentences": 51,
+      "gurmukhiWords": 355,
+      "englishWords": 614
+    },
+    {
+      "ang": 965,
+      "sentences": 50,
+      "gurmukhiWords": 331,
+      "englishWords": 525
+    },
+    {
+      "ang": 966,
+      "sentences": 46,
+      "gurmukhiWords": 338,
+      "englishWords": 568
+    },
+    {
+      "ang": 967,
+      "sentences": 39,
+      "gurmukhiWords": 326,
+      "englishWords": 573
+    },
+    {
+      "ang": 968,
+      "sentences": 42,
+      "gurmukhiWords": 318,
+      "englishWords": 558
+    },
+    {
+      "ang": 969,
+      "sentences": 35,
+      "gurmukhiWords": 340,
+      "englishWords": 584
+    },
+    {
+      "ang": 970,
+      "sentences": 34,
+      "gurmukhiWords": 330,
+      "englishWords": 583
+    },
+    {
+      "ang": 971,
+      "sentences": 48,
+      "gurmukhiWords": 325,
+      "englishWords": 537
+    },
+    {
+      "ang": 972,
+      "sentences": 41,
+      "gurmukhiWords": 280,
+      "englishWords": 529
+    },
+    {
+      "ang": 973,
+      "sentences": 32,
+      "gurmukhiWords": 319,
+      "englishWords": 574
+    },
+    {
+      "ang": 974,
+      "sentences": 47,
+      "gurmukhiWords": 302,
+      "englishWords": 528
+    },
+    {
+      "ang": 975,
+      "sentences": 25,
+      "gurmukhiWords": 239,
+      "englishWords": 418
+    },
+    {
+      "ang": 976,
+      "sentences": 34,
+      "gurmukhiWords": 339,
+      "englishWords": 605
+    },
+    {
+      "ang": 977,
+      "sentences": 31,
+      "gurmukhiWords": 298,
+      "englishWords": 469
+    },
+    {
+      "ang": 978,
+      "sentences": 30,
+      "gurmukhiWords": 279,
+      "englishWords": 467
+    },
+    {
+      "ang": 979,
+      "sentences": 37,
+      "gurmukhiWords": 322,
+      "englishWords": 576
+    },
+    {
+      "ang": 980,
+      "sentences": 36,
+      "gurmukhiWords": 295,
+      "englishWords": 557
+    },
+    {
+      "ang": 981,
+      "sentences": 33,
+      "gurmukhiWords": 314,
+      "englishWords": 603
+    },
+    {
+      "ang": 982,
+      "sentences": 33,
+      "gurmukhiWords": 328,
+      "englishWords": 585
+    },
+    {
+      "ang": 983,
+      "sentences": 30,
+      "gurmukhiWords": 311,
+      "englishWords": 587
+    },
+    {
+      "ang": 984,
+      "sentences": 23,
+      "gurmukhiWords": 225,
+      "englishWords": 430
+    },
+    {
+      "ang": 985,
+      "sentences": 34,
+      "gurmukhiWords": 324,
+      "englishWords": 614
+    },
+    {
+      "ang": 986,
+      "sentences": 45,
+      "gurmukhiWords": 344,
+      "englishWords": 562
+    },
+    {
+      "ang": 987,
+      "sentences": 59,
+      "gurmukhiWords": 342,
+      "englishWords": 557
+    },
+    {
+      "ang": 988,
+      "sentences": 39,
+      "gurmukhiWords": 304,
+      "englishWords": 487
+    },
+    {
+      "ang": 989,
+      "sentences": 33,
+      "gurmukhiWords": 213,
+      "englishWords": 390
+    },
+    {
+      "ang": 990,
+      "sentences": 42,
+      "gurmukhiWords": 334,
+      "englishWords": 572
+    },
+    {
+      "ang": 991,
+      "sentences": 42,
+      "gurmukhiWords": 341,
+      "englishWords": 573
+    },
+    {
+      "ang": 992,
+      "sentences": 34,
+      "gurmukhiWords": 312,
+      "englishWords": 647
+    },
+    {
+      "ang": 993,
+      "sentences": 40,
+      "gurmukhiWords": 313,
+      "englishWords": 542
+    },
+    {
+      "ang": 994,
+      "sentences": 39,
+      "gurmukhiWords": 328,
+      "englishWords": 567
+    },
+    {
+      "ang": 995,
+      "sentences": 33,
+      "gurmukhiWords": 298,
+      "englishWords": 546
+    },
+    {
+      "ang": 996,
+      "sentences": 34,
+      "gurmukhiWords": 316,
+      "englishWords": 590
+    },
+    {
+      "ang": 997,
+      "sentences": 35,
+      "gurmukhiWords": 314,
+      "englishWords": 603
+    },
+    {
+      "ang": 998,
+      "sentences": 39,
+      "gurmukhiWords": 320,
+      "englishWords": 552
+    },
+    {
+      "ang": 999,
+      "sentences": 37,
+      "gurmukhiWords": 334,
+      "englishWords": 575
+    },
+    {
+      "ang": 1000,
+      "sentences": 36,
+      "gurmukhiWords": 338,
+      "englishWords": 574
+    },
+    {
+      "ang": 1001,
+      "sentences": 38,
+      "gurmukhiWords": 307,
+      "englishWords": 531
+    },
+    {
+      "ang": 1002,
+      "sentences": 37,
+      "gurmukhiWords": 323,
+      "englishWords": 547
+    },
+    {
+      "ang": 1003,
+      "sentences": 41,
+      "gurmukhiWords": 322,
+      "englishWords": 550
+    },
+    {
+      "ang": 1004,
+      "sentences": 56,
+      "gurmukhiWords": 345,
+      "englishWords": 560
+    },
+    {
+      "ang": 1005,
+      "sentences": 54,
+      "gurmukhiWords": 340,
+      "englishWords": 565
+    },
+    {
+      "ang": 1006,
+      "sentences": 46,
+      "gurmukhiWords": 311,
+      "englishWords": 560
+    },
+    {
+      "ang": 1007,
+      "sentences": 39,
+      "gurmukhiWords": 306,
+      "englishWords": 542
+    },
+    {
+      "ang": 1008,
+      "sentences": 37,
+      "gurmukhiWords": 315,
+      "englishWords": 518
+    },
+    {
+      "ang": 1009,
+      "sentences": 41,
+      "gurmukhiWords": 329,
+      "englishWords": 618
+    },
+    {
+      "ang": 1010,
+      "sentences": 41,
+      "gurmukhiWords": 349,
+      "englishWords": 614
+    },
+    {
+      "ang": 1011,
+      "sentences": 42,
+      "gurmukhiWords": 343,
+      "englishWords": 634
+    },
+    {
+      "ang": 1012,
+      "sentences": 42,
+      "gurmukhiWords": 348,
+      "englishWords": 664
+    },
+    {
+      "ang": 1013,
+      "sentences": 36,
+      "gurmukhiWords": 341,
+      "englishWords": 638
+    },
+    {
+      "ang": 1014,
+      "sentences": 31,
+      "gurmukhiWords": 306,
+      "englishWords": 598
+    },
+    {
+      "ang": 1015,
+      "sentences": 40,
+      "gurmukhiWords": 324,
+      "englishWords": 606
+    },
+    {
+      "ang": 1016,
+      "sentences": 39,
+      "gurmukhiWords": 286,
+      "englishWords": 507
+    },
+    {
+      "ang": 1017,
+      "sentences": 36,
+      "gurmukhiWords": 307,
+      "englishWords": 558
+    },
+    {
+      "ang": 1018,
+      "sentences": 34,
+      "gurmukhiWords": 302,
+      "englishWords": 545
+    },
+    {
+      "ang": 1019,
+      "sentences": 42,
+      "gurmukhiWords": 324,
+      "englishWords": 587
+    },
+    {
+      "ang": 1020,
+      "sentences": 43,
+      "gurmukhiWords": 310,
+      "englishWords": 582
+    },
+    {
+      "ang": 1021,
+      "sentences": 50,
+      "gurmukhiWords": 356,
+      "englishWords": 632
+    },
+    {
+      "ang": 1022,
+      "sentences": 48,
+      "gurmukhiWords": 344,
+      "englishWords": 603
+    },
+    {
+      "ang": 1023,
+      "sentences": 48,
+      "gurmukhiWords": 337,
+      "englishWords": 651
+    },
+    {
+      "ang": 1024,
+      "sentences": 48,
+      "gurmukhiWords": 348,
+      "englishWords": 601
+    },
+    {
+      "ang": 1025,
+      "sentences": 46,
+      "gurmukhiWords": 345,
+      "englishWords": 584
+    },
+    {
+      "ang": 1026,
+      "sentences": 46,
+      "gurmukhiWords": 335,
+      "englishWords": 615
+    },
+    {
+      "ang": 1027,
+      "sentences": 46,
+      "gurmukhiWords": 339,
+      "englishWords": 634
+    },
+    {
+      "ang": 1028,
+      "sentences": 44,
+      "gurmukhiWords": 336,
+      "englishWords": 587
+    },
+    {
+      "ang": 1029,
+      "sentences": 44,
+      "gurmukhiWords": 326,
+      "englishWords": 582
+    },
+    {
+      "ang": 1030,
+      "sentences": 46,
+      "gurmukhiWords": 362,
+      "englishWords": 641
+    },
+    {
+      "ang": 1031,
+      "sentences": 46,
+      "gurmukhiWords": 342,
+      "englishWords": 586
+    },
+    {
+      "ang": 1032,
+      "sentences": 46,
+      "gurmukhiWords": 340,
+      "englishWords": 578
+    },
+    {
+      "ang": 1033,
+      "sentences": 46,
+      "gurmukhiWords": 330,
+      "englishWords": 602
+    },
+    {
+      "ang": 1034,
+      "sentences": 49,
+      "gurmukhiWords": 332,
+      "englishWords": 574
+    },
+    {
+      "ang": 1035,
+      "sentences": 49,
+      "gurmukhiWords": 348,
+      "englishWords": 591
+    },
+    {
+      "ang": 1036,
+      "sentences": 47,
+      "gurmukhiWords": 317,
+      "englishWords": 562
+    },
+    {
+      "ang": 1037,
+      "sentences": 46,
+      "gurmukhiWords": 315,
+      "englishWords": 644
+    },
+    {
+      "ang": 1038,
+      "sentences": 44,
+      "gurmukhiWords": 321,
+      "englishWords": 601
+    },
+    {
+      "ang": 1039,
+      "sentences": 45,
+      "gurmukhiWords": 320,
+      "englishWords": 606
+    },
+    {
+      "ang": 1040,
+      "sentences": 46,
+      "gurmukhiWords": 321,
+      "englishWords": 608
+    },
+    {
+      "ang": 1041,
+      "sentences": 44,
+      "gurmukhiWords": 309,
+      "englishWords": 585
+    },
+    {
+      "ang": 1042,
+      "sentences": 44,
+      "gurmukhiWords": 315,
+      "englishWords": 620
+    },
+    {
+      "ang": 1043,
+      "sentences": 42,
+      "gurmukhiWords": 303,
+      "englishWords": 586
+    },
+    {
+      "ang": 1044,
+      "sentences": 47,
+      "gurmukhiWords": 334,
+      "englishWords": 594
+    },
+    {
+      "ang": 1045,
+      "sentences": 47,
+      "gurmukhiWords": 347,
+      "englishWords": 609
+    },
+    {
+      "ang": 1046,
+      "sentences": 44,
+      "gurmukhiWords": 338,
+      "englishWords": 615
+    },
+    {
+      "ang": 1047,
+      "sentences": 46,
+      "gurmukhiWords": 345,
+      "englishWords": 604
+    },
+    {
+      "ang": 1048,
+      "sentences": 46,
+      "gurmukhiWords": 356,
+      "englishWords": 611
+    },
+    {
+      "ang": 1049,
+      "sentences": 47,
+      "gurmukhiWords": 342,
+      "englishWords": 618
+    },
+    {
+      "ang": 1050,
+      "sentences": 47,
+      "gurmukhiWords": 348,
+      "englishWords": 654
+    },
+    {
+      "ang": 1051,
+      "sentences": 46,
+      "gurmukhiWords": 346,
+      "englishWords": 592
+    },
+    {
+      "ang": 1052,
+      "sentences": 47,
+      "gurmukhiWords": 357,
+      "englishWords": 610
+    },
+    {
+      "ang": 1053,
+      "sentences": 46,
+      "gurmukhiWords": 340,
+      "englishWords": 587
+    },
+    {
+      "ang": 1054,
+      "sentences": 47,
+      "gurmukhiWords": 345,
+      "englishWords": 618
+    },
+    {
+      "ang": 1055,
+      "sentences": 47,
+      "gurmukhiWords": 328,
+      "englishWords": 594
+    },
+    {
+      "ang": 1056,
+      "sentences": 45,
+      "gurmukhiWords": 335,
+      "englishWords": 561
+    },
+    {
+      "ang": 1057,
+      "sentences": 47,
+      "gurmukhiWords": 350,
+      "englishWords": 588
+    },
+    {
+      "ang": 1058,
+      "sentences": 47,
+      "gurmukhiWords": 345,
+      "englishWords": 614
+    },
+    {
+      "ang": 1059,
+      "sentences": 48,
+      "gurmukhiWords": 329,
+      "englishWords": 567
+    },
+    {
+      "ang": 1060,
+      "sentences": 45,
+      "gurmukhiWords": 317,
+      "englishWords": 547
+    },
+    {
+      "ang": 1061,
+      "sentences": 47,
+      "gurmukhiWords": 323,
+      "englishWords": 585
+    },
+    {
+      "ang": 1062,
+      "sentences": 46,
+      "gurmukhiWords": 331,
+      "englishWords": 544
+    },
+    {
+      "ang": 1063,
+      "sentences": 47,
+      "gurmukhiWords": 332,
+      "englishWords": 573
+    },
+    {
+      "ang": 1064,
+      "sentences": 45,
+      "gurmukhiWords": 339,
+      "englishWords": 604
+    },
+    {
+      "ang": 1065,
+      "sentences": 44,
+      "gurmukhiWords": 334,
+      "englishWords": 645
+    },
+    {
+      "ang": 1066,
+      "sentences": 46,
+      "gurmukhiWords": 322,
+      "englishWords": 552
+    },
+    {
+      "ang": 1067,
+      "sentences": 47,
+      "gurmukhiWords": 332,
+      "englishWords": 560
+    },
+    {
+      "ang": 1068,
+      "sentences": 48,
+      "gurmukhiWords": 330,
+      "englishWords": 615
+    },
+    {
+      "ang": 1069,
+      "sentences": 43,
+      "gurmukhiWords": 312,
+      "englishWords": 548
+    },
+    {
+      "ang": 1070,
+      "sentences": 43,
+      "gurmukhiWords": 353,
+      "englishWords": 554
+    },
+    {
+      "ang": 1071,
+      "sentences": 42,
+      "gurmukhiWords": 328,
+      "englishWords": 498
+    },
+    {
+      "ang": 1072,
+      "sentences": 43,
+      "gurmukhiWords": 323,
+      "englishWords": 552
+    },
+    {
+      "ang": 1073,
+      "sentences": 43,
+      "gurmukhiWords": 330,
+      "englishWords": 528
+    },
+    {
+      "ang": 1074,
+      "sentences": 45,
+      "gurmukhiWords": 325,
+      "englishWords": 577
+    },
+    {
+      "ang": 1075,
+      "sentences": 42,
+      "gurmukhiWords": 313,
+      "englishWords": 554
+    },
+    {
+      "ang": 1076,
+      "sentences": 41,
+      "gurmukhiWords": 301,
+      "englishWords": 520
+    },
+    {
+      "ang": 1077,
+      "sentences": 47,
+      "gurmukhiWords": 333,
+      "englishWords": 580
+    },
+    {
+      "ang": 1078,
+      "sentences": 44,
+      "gurmukhiWords": 312,
+      "englishWords": 575
+    },
+    {
+      "ang": 1079,
+      "sentences": 42,
+      "gurmukhiWords": 326,
+      "englishWords": 564
+    },
+    {
+      "ang": 1080,
+      "sentences": 44,
+      "gurmukhiWords": 322,
+      "englishWords": 634
+    },
+    {
+      "ang": 1081,
+      "sentences": 45,
+      "gurmukhiWords": 317,
+      "englishWords": 535
+    },
+    {
+      "ang": 1082,
+      "sentences": 47,
+      "gurmukhiWords": 312,
+      "englishWords": 609
+    },
+    {
+      "ang": 1083,
+      "sentences": 44,
+      "gurmukhiWords": 323,
+      "englishWords": 624
+    },
+    {
+      "ang": 1084,
+      "sentences": 45,
+      "gurmukhiWords": 322,
+      "englishWords": 594
+    },
+    {
+      "ang": 1085,
+      "sentences": 43,
+      "gurmukhiWords": 297,
+      "englishWords": 552
+    },
+    {
+      "ang": 1086,
+      "sentences": 42,
+      "gurmukhiWords": 305,
+      "englishWords": 524
+    },
+    {
+      "ang": 1087,
+      "sentences": 47,
+      "gurmukhiWords": 350,
+      "englishWords": 630
+    },
+    {
+      "ang": 1088,
+      "sentences": 48,
+      "gurmukhiWords": 341,
+      "englishWords": 623
+    },
+    {
+      "ang": 1089,
+      "sentences": 46,
+      "gurmukhiWords": 354,
+      "englishWords": 620
+    },
+    {
+      "ang": 1090,
+      "sentences": 50,
+      "gurmukhiWords": 344,
+      "englishWords": 653
+    },
+    {
+      "ang": 1091,
+      "sentences": 47,
+      "gurmukhiWords": 354,
+      "englishWords": 618
+    },
+    {
+      "ang": 1092,
+      "sentences": 43,
+      "gurmukhiWords": 351,
+      "englishWords": 562
+    },
+    {
+      "ang": 1093,
+      "sentences": 48,
+      "gurmukhiWords": 350,
+      "englishWords": 639
+    },
+    {
+      "ang": 1094,
+      "sentences": 45,
+      "gurmukhiWords": 332,
+      "englishWords": 552
+    },
+    {
+      "ang": 1095,
+      "sentences": 49,
+      "gurmukhiWords": 355,
+      "englishWords": 573
+    },
+    {
+      "ang": 1096,
+      "sentences": 48,
+      "gurmukhiWords": 344,
+      "englishWords": 534
+    },
+    {
+      "ang": 1097,
+      "sentences": 48,
+      "gurmukhiWords": 362,
+      "englishWords": 565
+    },
+    {
+      "ang": 1098,
+      "sentences": 50,
+      "gurmukhiWords": 360,
+      "englishWords": 623
+    },
+    {
+      "ang": 1099,
+      "sentences": 51,
+      "gurmukhiWords": 352,
+      "englishWords": 621
+    },
+    {
+      "ang": 1100,
+      "sentences": 49,
+      "gurmukhiWords": 352,
+      "englishWords": 618
+    },
+    {
+      "ang": 1101,
+      "sentences": 49,
+      "gurmukhiWords": 335,
+      "englishWords": 622
+    },
+    {
+      "ang": 1102,
+      "sentences": 45,
+      "gurmukhiWords": 332,
+      "englishWords": 569
+    },
+    {
+      "ang": 1103,
+      "sentences": 36,
+      "gurmukhiWords": 334,
+      "englishWords": 564
+    },
+    {
+      "ang": 1104,
+      "sentences": 38,
+      "gurmukhiWords": 311,
+      "englishWords": 528
+    },
+    {
+      "ang": 1105,
+      "sentences": 34,
+      "gurmukhiWords": 304,
+      "englishWords": 539
+    },
+    {
+      "ang": 1106,
+      "sentences": 34,
+      "gurmukhiWords": 295,
+      "englishWords": 558
+    },
+    {
+      "ang": 1107,
+      "sentences": 27,
+      "gurmukhiWords": 239,
+      "englishWords": 463
+    },
+    {
+      "ang": 1108,
+      "sentences": 38,
+      "gurmukhiWords": 353,
+      "englishWords": 693
+    },
+    {
+      "ang": 1109,
+      "sentences": 38,
+      "gurmukhiWords": 344,
+      "englishWords": 742
+    },
+    {
+      "ang": 1110,
+      "sentences": 38,
+      "gurmukhiWords": 330,
+      "englishWords": 618
+    },
+    {
+      "ang": 1111,
+      "sentences": 39,
+      "gurmukhiWords": 331,
+      "englishWords": 657
+    },
+    {
+      "ang": 1112,
+      "sentences": 39,
+      "gurmukhiWords": 329,
+      "englishWords": 624
+    },
+    {
+      "ang": 1113,
+      "sentences": 31,
+      "gurmukhiWords": 299,
+      "englishWords": 575
+    },
+    {
+      "ang": 1114,
+      "sentences": 33,
+      "gurmukhiWords": 330,
+      "englishWords": 606
+    },
+    {
+      "ang": 1115,
+      "sentences": 31,
+      "gurmukhiWords": 349,
+      "englishWords": 597
+    },
+    {
+      "ang": 1116,
+      "sentences": 32,
+      "gurmukhiWords": 310,
+      "englishWords": 571
+    },
+    {
+      "ang": 1117,
+      "sentences": 34,
+      "gurmukhiWords": 294,
+      "englishWords": 568
+    },
+    {
+      "ang": 1118,
+      "sentences": 18,
+      "gurmukhiWords": 207,
+      "englishWords": 315
+    },
+    {
+      "ang": 1119,
+      "sentences": 36,
+      "gurmukhiWords": 260,
+      "englishWords": 483
+    },
+    {
+      "ang": 1120,
+      "sentences": 36,
+      "gurmukhiWords": 302,
+      "englishWords": 563
+    },
+    {
+      "ang": 1121,
+      "sentences": 39,
+      "gurmukhiWords": 316,
+      "englishWords": 579
+    },
+    {
+      "ang": 1122,
+      "sentences": 33,
+      "gurmukhiWords": 305,
+      "englishWords": 596
+    },
+    {
+      "ang": 1123,
+      "sentences": 34,
+      "gurmukhiWords": 306,
+      "englishWords": 574
+    },
+    {
+      "ang": 1124,
+      "sentences": 31,
+      "gurmukhiWords": 278,
+      "englishWords": 490
+    },
+    {
+      "ang": 1125,
+      "sentences": 28,
+      "gurmukhiWords": 221,
+      "englishWords": 399
+    },
+    {
+      "ang": 1126,
+      "sentences": 36,
+      "gurmukhiWords": 335,
+      "englishWords": 654
+    },
+    {
+      "ang": 1127,
+      "sentences": 33,
+      "gurmukhiWords": 314,
+      "englishWords": 609
+    },
+    {
+      "ang": 1128,
+      "sentences": 55,
+      "gurmukhiWords": 344,
+      "englishWords": 550
+    },
+    {
+      "ang": 1129,
+      "sentences": 57,
+      "gurmukhiWords": 331,
+      "englishWords": 553
+    },
+    {
+      "ang": 1130,
+      "sentences": 35,
+      "gurmukhiWords": 316,
+      "englishWords": 535
+    },
+    {
+      "ang": 1131,
+      "sentences": 35,
+      "gurmukhiWords": 331,
+      "englishWords": 603
+    },
+    {
+      "ang": 1132,
+      "sentences": 35,
+      "gurmukhiWords": 324,
+      "englishWords": 575
+    },
+    {
+      "ang": 1133,
+      "sentences": 40,
+      "gurmukhiWords": 307,
+      "englishWords": 528
+    },
+    {
+      "ang": 1134,
+      "sentences": 46,
+      "gurmukhiWords": 321,
+      "englishWords": 565
+    },
+    {
+      "ang": 1135,
+      "sentences": 30,
+      "gurmukhiWords": 322,
+      "englishWords": 549
+    },
+    {
+      "ang": 1136,
+      "sentences": 52,
+      "gurmukhiWords": 313,
+      "englishWords": 555
+    },
+    {
+      "ang": 1137,
+      "sentences": 54,
+      "gurmukhiWords": 329,
+      "englishWords": 550
+    },
+    {
+      "ang": 1138,
+      "sentences": 46,
+      "gurmukhiWords": 301,
+      "englishWords": 483
+    },
+    {
+      "ang": 1139,
+      "sentences": 49,
+      "gurmukhiWords": 335,
+      "englishWords": 636
+    },
+    {
+      "ang": 1140,
+      "sentences": 58,
+      "gurmukhiWords": 356,
+      "englishWords": 564
+    },
+    {
+      "ang": 1141,
+      "sentences": 59,
+      "gurmukhiWords": 352,
+      "englishWords": 579
+    },
+    {
+      "ang": 1142,
+      "sentences": 57,
+      "gurmukhiWords": 332,
+      "englishWords": 526
+    },
+    {
+      "ang": 1143,
+      "sentences": 55,
+      "gurmukhiWords": 337,
+      "englishWords": 569
+    },
+    {
+      "ang": 1144,
+      "sentences": 60,
+      "gurmukhiWords": 360,
+      "englishWords": 548
+    },
+    {
+      "ang": 1145,
+      "sentences": 60,
+      "gurmukhiWords": 350,
+      "englishWords": 539
+    },
+    {
+      "ang": 1146,
+      "sentences": 56,
+      "gurmukhiWords": 349,
+      "englishWords": 575
+    },
+    {
+      "ang": 1147,
+      "sentences": 60,
+      "gurmukhiWords": 349,
+      "englishWords": 574
+    },
+    {
+      "ang": 1148,
+      "sentences": 59,
+      "gurmukhiWords": 342,
+      "englishWords": 578
+    },
+    {
+      "ang": 1149,
+      "sentences": 55,
+      "gurmukhiWords": 333,
+      "englishWords": 593
+    },
+    {
+      "ang": 1150,
+      "sentences": 58,
+      "gurmukhiWords": 358,
+      "englishWords": 601
+    },
+    {
+      "ang": 1151,
+      "sentences": 49,
+      "gurmukhiWords": 337,
+      "englishWords": 573
+    },
+    {
+      "ang": 1152,
+      "sentences": 50,
+      "gurmukhiWords": 312,
+      "englishWords": 468
+    },
+    {
+      "ang": 1153,
+      "sentences": 30,
+      "gurmukhiWords": 279,
+      "englishWords": 499
+    },
+    {
+      "ang": 1154,
+      "sentences": 47,
+      "gurmukhiWords": 300,
+      "englishWords": 491
+    },
+    {
+      "ang": 1155,
+      "sentences": 38,
+      "gurmukhiWords": 316,
+      "englishWords": 531
+    },
+    {
+      "ang": 1156,
+      "sentences": 56,
+      "gurmukhiWords": 350,
+      "englishWords": 567
+    },
+    {
+      "ang": 1157,
+      "sentences": 53,
+      "gurmukhiWords": 319,
+      "englishWords": 500
+    },
+    {
+      "ang": 1158,
+      "sentences": 53,
+      "gurmukhiWords": 335,
+      "englishWords": 542
+    },
+    {
+      "ang": 1159,
+      "sentences": 57,
+      "gurmukhiWords": 364,
+      "englishWords": 610
+    },
+    {
+      "ang": 1160,
+      "sentences": 58,
+      "gurmukhiWords": 348,
+      "englishWords": 512
+    },
+    {
+      "ang": 1161,
+      "sentences": 51,
+      "gurmukhiWords": 346,
+      "englishWords": 565
+    },
+    {
+      "ang": 1162,
+      "sentences": 53,
+      "gurmukhiWords": 330,
+      "englishWords": 522
+    },
+    {
+      "ang": 1163,
+      "sentences": 54,
+      "gurmukhiWords": 332,
+      "englishWords": 504
+    },
+    {
+      "ang": 1164,
+      "sentences": 51,
+      "gurmukhiWords": 305,
+      "englishWords": 507
+    },
+    {
+      "ang": 1165,
+      "sentences": 51,
+      "gurmukhiWords": 338,
+      "englishWords": 565
+    },
+    {
+      "ang": 1166,
+      "sentences": 58,
+      "gurmukhiWords": 339,
+      "englishWords": 608
+    },
+    {
+      "ang": 1167,
+      "sentences": 49,
+      "gurmukhiWords": 305,
+      "englishWords": 624
+    },
+    {
+      "ang": 1168,
+      "sentences": 36,
+      "gurmukhiWords": 247,
+      "englishWords": 427
+    },
+    {
+      "ang": 1169,
+      "sentences": 59,
+      "gurmukhiWords": 353,
+      "englishWords": 629
+    },
+    {
+      "ang": 1170,
+      "sentences": 49,
+      "gurmukhiWords": 326,
+      "englishWords": 596
+    },
+    {
+      "ang": 1171,
+      "sentences": 37,
+      "gurmukhiWords": 329,
+      "englishWords": 644
+    },
+    {
+      "ang": 1172,
+      "sentences": 52,
+      "gurmukhiWords": 333,
+      "englishWords": 547
+    },
+    {
+      "ang": 1173,
+      "sentences": 59,
+      "gurmukhiWords": 354,
+      "englishWords": 638
+    },
+    {
+      "ang": 1174,
+      "sentences": 57,
+      "gurmukhiWords": 348,
+      "englishWords": 616
+    },
+    {
+      "ang": 1175,
+      "sentences": 56,
+      "gurmukhiWords": 347,
+      "englishWords": 646
+    },
+    {
+      "ang": 1176,
+      "sentences": 54,
+      "gurmukhiWords": 336,
+      "englishWords": 564
+    },
+    {
+      "ang": 1177,
+      "sentences": 38,
+      "gurmukhiWords": 291,
+      "englishWords": 543
+    },
+    {
+      "ang": 1178,
+      "sentences": 33,
+      "gurmukhiWords": 304,
+      "englishWords": 602
+    },
+    {
+      "ang": 1179,
+      "sentences": 28,
+      "gurmukhiWords": 292,
+      "englishWords": 580
+    },
+    {
+      "ang": 1180,
+      "sentences": 58,
+      "gurmukhiWords": 333,
+      "englishWords": 584
+    },
+    {
+      "ang": 1181,
+      "sentences": 63,
+      "gurmukhiWords": 369,
+      "englishWords": 584
+    },
+    {
+      "ang": 1182,
+      "sentences": 58,
+      "gurmukhiWords": 361,
+      "englishWords": 551
+    },
+    {
+      "ang": 1183,
+      "sentences": 57,
+      "gurmukhiWords": 350,
+      "englishWords": 563
+    },
+    {
+      "ang": 1184,
+      "sentences": 51,
+      "gurmukhiWords": 314,
+      "englishWords": 557
+    },
+    {
+      "ang": 1185,
+      "sentences": 42,
+      "gurmukhiWords": 290,
+      "englishWords": 498
+    },
+    {
+      "ang": 1186,
+      "sentences": 41,
+      "gurmukhiWords": 330,
+      "englishWords": 515
+    },
+    {
+      "ang": 1187,
+      "sentences": 57,
+      "gurmukhiWords": 341,
+      "englishWords": 602
+    },
+    {
+      "ang": 1188,
+      "sentences": 58,
+      "gurmukhiWords": 346,
+      "englishWords": 677
+    },
+    {
+      "ang": 1189,
+      "sentences": 57,
+      "gurmukhiWords": 352,
+      "englishWords": 634
+    },
+    {
+      "ang": 1190,
+      "sentences": 52,
+      "gurmukhiWords": 311,
+      "englishWords": 594
+    },
+    {
+      "ang": 1191,
+      "sentences": 31,
+      "gurmukhiWords": 290,
+      "englishWords": 555
+    },
+    {
+      "ang": 1192,
+      "sentences": 57,
+      "gurmukhiWords": 336,
+      "englishWords": 573
+    },
+    {
+      "ang": 1193,
+      "sentences": 49,
+      "gurmukhiWords": 309,
+      "englishWords": 529
+    },
+    {
+      "ang": 1194,
+      "sentences": 61,
+      "gurmukhiWords": 364,
+      "englishWords": 565
+    },
+    {
+      "ang": 1195,
+      "sentences": 46,
+      "gurmukhiWords": 308,
+      "englishWords": 512
+    },
+    {
+      "ang": 1196,
+      "sentences": 51,
+      "gurmukhiWords": 312,
+      "englishWords": 472
+    },
+    {
+      "ang": 1197,
+      "sentences": 26,
+      "gurmukhiWords": 238,
+      "englishWords": 441
+    },
+    {
+      "ang": 1198,
+      "sentences": 31,
+      "gurmukhiWords": 291,
+      "englishWords": 545
+    },
+    {
+      "ang": 1199,
+      "sentences": 34,
+      "gurmukhiWords": 321,
+      "englishWords": 584
+    },
+    {
+      "ang": 1200,
+      "sentences": 29,
+      "gurmukhiWords": 316,
+      "englishWords": 540
+    },
+    {
+      "ang": 1201,
+      "sentences": 28,
+      "gurmukhiWords": 341,
+      "englishWords": 613
+    },
+    {
+      "ang": 1202,
+      "sentences": 32,
+      "gurmukhiWords": 326,
+      "englishWords": 563
+    },
+    {
+      "ang": 1203,
+      "sentences": 35,
+      "gurmukhiWords": 328,
+      "englishWords": 573
+    },
+    {
+      "ang": 1204,
+      "sentences": 34,
+      "gurmukhiWords": 308,
+      "englishWords": 619
+    },
+    {
+      "ang": 1205,
+      "sentences": 36,
+      "gurmukhiWords": 327,
+      "englishWords": 586
+    },
+    {
+      "ang": 1206,
+      "sentences": 39,
+      "gurmukhiWords": 322,
+      "englishWords": 591
+    },
+    {
+      "ang": 1207,
+      "sentences": 35,
+      "gurmukhiWords": 324,
+      "englishWords": 558
+    },
+    {
+      "ang": 1208,
+      "sentences": 34,
+      "gurmukhiWords": 319,
+      "englishWords": 554
+    },
+    {
+      "ang": 1209,
+      "sentences": 34,
+      "gurmukhiWords": 306,
+      "englishWords": 514
+    },
+    {
+      "ang": 1210,
+      "sentences": 36,
+      "gurmukhiWords": 324,
+      "englishWords": 583
+    },
+    {
+      "ang": 1211,
+      "sentences": 35,
+      "gurmukhiWords": 317,
+      "englishWords": 544
+    },
+    {
+      "ang": 1212,
+      "sentences": 35,
+      "gurmukhiWords": 320,
+      "englishWords": 615
+    },
+    {
+      "ang": 1213,
+      "sentences": 35,
+      "gurmukhiWords": 315,
+      "englishWords": 537
+    },
+    {
+      "ang": 1214,
+      "sentences": 36,
+      "gurmukhiWords": 315,
+      "englishWords": 530
+    },
+    {
+      "ang": 1215,
+      "sentences": 39,
+      "gurmukhiWords": 328,
+      "englishWords": 536
+    },
+    {
+      "ang": 1216,
+      "sentences": 36,
+      "gurmukhiWords": 323,
+      "englishWords": 571
+    },
+    {
+      "ang": 1217,
+      "sentences": 37,
+      "gurmukhiWords": 322,
+      "englishWords": 571
+    },
+    {
+      "ang": 1218,
+      "sentences": 35,
+      "gurmukhiWords": 304,
+      "englishWords": 498
+    },
+    {
+      "ang": 1219,
+      "sentences": 38,
+      "gurmukhiWords": 328,
+      "englishWords": 570
+    },
+    {
+      "ang": 1220,
+      "sentences": 37,
+      "gurmukhiWords": 308,
+      "englishWords": 571
+    },
+    {
+      "ang": 1221,
+      "sentences": 37,
+      "gurmukhiWords": 323,
+      "englishWords": 596
+    },
+    {
+      "ang": 1222,
+      "sentences": 38,
+      "gurmukhiWords": 327,
+      "englishWords": 585
+    },
+    {
+      "ang": 1223,
+      "sentences": 38,
+      "gurmukhiWords": 325,
+      "englishWords": 590
+    },
+    {
+      "ang": 1224,
+      "sentences": 38,
+      "gurmukhiWords": 308,
+      "englishWords": 534
+    },
+    {
+      "ang": 1225,
+      "sentences": 37,
+      "gurmukhiWords": 315,
+      "englishWords": 572
+    },
+    {
+      "ang": 1226,
+      "sentences": 38,
+      "gurmukhiWords": 323,
+      "englishWords": 593
+    },
+    {
+      "ang": 1227,
+      "sentences": 38,
+      "gurmukhiWords": 329,
+      "englishWords": 582
+    },
+    {
+      "ang": 1228,
+      "sentences": 39,
+      "gurmukhiWords": 322,
+      "englishWords": 643
+    },
+    {
+      "ang": 1229,
+      "sentences": 47,
+      "gurmukhiWords": 295,
+      "englishWords": 536
+    },
+    {
+      "ang": 1230,
+      "sentences": 38,
+      "gurmukhiWords": 321,
+      "englishWords": 621
+    },
+    {
+      "ang": 1231,
+      "sentences": 36,
+      "gurmukhiWords": 314,
+      "englishWords": 496
+    },
+    {
+      "ang": 1232,
+      "sentences": 33,
+      "gurmukhiWords": 314,
+      "englishWords": 578
+    },
+    {
+      "ang": 1233,
+      "sentences": 33,
+      "gurmukhiWords": 304,
+      "englishWords": 595
+    },
+    {
+      "ang": 1234,
+      "sentences": 33,
+      "gurmukhiWords": 323,
+      "englishWords": 619
+    },
+    {
+      "ang": 1235,
+      "sentences": 37,
+      "gurmukhiWords": 296,
+      "englishWords": 496
+    },
+    {
+      "ang": 1236,
+      "sentences": 51,
+      "gurmukhiWords": 314,
+      "englishWords": 471
+    },
+    {
+      "ang": 1237,
+      "sentences": 45,
+      "gurmukhiWords": 323,
+      "englishWords": 566
+    },
+    {
+      "ang": 1238,
+      "sentences": 45,
+      "gurmukhiWords": 333,
+      "englishWords": 588
+    },
+    {
+      "ang": 1239,
+      "sentences": 49,
+      "gurmukhiWords": 341,
+      "englishWords": 566
+    },
+    {
+      "ang": 1240,
+      "sentences": 50,
+      "gurmukhiWords": 352,
+      "englishWords": 598
+    },
+    {
+      "ang": 1241,
+      "sentences": 49,
+      "gurmukhiWords": 358,
+      "englishWords": 576
+    },
+    {
+      "ang": 1242,
+      "sentences": 48,
+      "gurmukhiWords": 342,
+      "englishWords": 618
+    },
+    {
+      "ang": 1243,
+      "sentences": 51,
+      "gurmukhiWords": 353,
+      "englishWords": 618
+    },
+    {
+      "ang": 1244,
+      "sentences": 47,
+      "gurmukhiWords": 341,
+      "englishWords": 569
+    },
+    {
+      "ang": 1245,
+      "sentences": 49,
+      "gurmukhiWords": 342,
+      "englishWords": 613
+    },
+    {
+      "ang": 1246,
+      "sentences": 43,
+      "gurmukhiWords": 354,
+      "englishWords": 602
+    },
+    {
+      "ang": 1247,
+      "sentences": 49,
+      "gurmukhiWords": 347,
+      "englishWords": 592
+    },
+    {
+      "ang": 1248,
+      "sentences": 45,
+      "gurmukhiWords": 339,
+      "englishWords": 580
+    },
+    {
+      "ang": 1249,
+      "sentences": 40,
+      "gurmukhiWords": 343,
+      "englishWords": 595
+    },
+    {
+      "ang": 1250,
+      "sentences": 42,
+      "gurmukhiWords": 340,
+      "englishWords": 568
+    },
+    {
+      "ang": 1251,
+      "sentences": 43,
+      "gurmukhiWords": 318,
+      "englishWords": 539
+    },
+    {
+      "ang": 1252,
+      "sentences": 43,
+      "gurmukhiWords": 338,
+      "englishWords": 574
+    },
+    {
+      "ang": 1253,
+      "sentences": 30,
+      "gurmukhiWords": 263,
+      "englishWords": 454
+    },
+    {
+      "ang": 1254,
+      "sentences": 25,
+      "gurmukhiWords": 228,
+      "englishWords": 399
+    },
+    {
+      "ang": 1255,
+      "sentences": 35,
+      "gurmukhiWords": 334,
+      "englishWords": 616
+    },
+    {
+      "ang": 1256,
+      "sentences": 50,
+      "gurmukhiWords": 315,
+      "englishWords": 519
+    },
+    {
+      "ang": 1257,
+      "sentences": 47,
+      "gurmukhiWords": 323,
+      "englishWords": 548
+    },
+    {
+      "ang": 1258,
+      "sentences": 38,
+      "gurmukhiWords": 333,
+      "englishWords": 589
+    },
+    {
+      "ang": 1259,
+      "sentences": 36,
+      "gurmukhiWords": 333,
+      "englishWords": 612
+    },
+    {
+      "ang": 1260,
+      "sentences": 35,
+      "gurmukhiWords": 332,
+      "englishWords": 564
+    },
+    {
+      "ang": 1261,
+      "sentences": 47,
+      "gurmukhiWords": 306,
+      "englishWords": 523
+    },
+    {
+      "ang": 1262,
+      "sentences": 49,
+      "gurmukhiWords": 316,
+      "englishWords": 569
+    },
+    {
+      "ang": 1263,
+      "sentences": 32,
+      "gurmukhiWords": 338,
+      "englishWords": 548
+    },
+    {
+      "ang": 1264,
+      "sentences": 30,
+      "gurmukhiWords": 340,
+      "englishWords": 534
+    },
+    {
+      "ang": 1265,
+      "sentences": 31,
+      "gurmukhiWords": 294,
+      "englishWords": 519
+    },
+    {
+      "ang": 1266,
+      "sentences": 33,
+      "gurmukhiWords": 308,
+      "englishWords": 536
+    },
+    {
+      "ang": 1267,
+      "sentences": 32,
+      "gurmukhiWords": 300,
+      "englishWords": 491
+    },
+    {
+      "ang": 1268,
+      "sentences": 36,
+      "gurmukhiWords": 310,
+      "englishWords": 543
+    },
+    {
+      "ang": 1269,
+      "sentences": 37,
+      "gurmukhiWords": 330,
+      "englishWords": 615
+    },
+    {
+      "ang": 1270,
+      "sentences": 45,
+      "gurmukhiWords": 309,
+      "englishWords": 502
+    },
+    {
+      "ang": 1271,
+      "sentences": 50,
+      "gurmukhiWords": 321,
+      "englishWords": 509
+    },
+    {
+      "ang": 1272,
+      "sentences": 49,
+      "gurmukhiWords": 319,
+      "englishWords": 544
+    },
+    {
+      "ang": 1273,
+      "sentences": 34,
+      "gurmukhiWords": 314,
+      "englishWords": 584
+    },
+    {
+      "ang": 1274,
+      "sentences": 32,
+      "gurmukhiWords": 285,
+      "englishWords": 534
+    },
+    {
+      "ang": 1275,
+      "sentences": 48,
+      "gurmukhiWords": 338,
+      "englishWords": 652
+    },
+    {
+      "ang": 1276,
+      "sentences": 34,
+      "gurmukhiWords": 305,
+      "englishWords": 579
+    },
+    {
+      "ang": 1277,
+      "sentences": 43,
+      "gurmukhiWords": 312,
+      "englishWords": 552
+    },
+    {
+      "ang": 1278,
+      "sentences": 38,
+      "gurmukhiWords": 281,
+      "englishWords": 555
+    },
+    {
+      "ang": 1279,
+      "sentences": 50,
+      "gurmukhiWords": 333,
+      "englishWords": 585
+    },
+    {
+      "ang": 1280,
+      "sentences": 46,
+      "gurmukhiWords": 325,
+      "englishWords": 580
+    },
+    {
+      "ang": 1281,
+      "sentences": 40,
+      "gurmukhiWords": 343,
+      "englishWords": 529
+    },
+    {
+      "ang": 1282,
+      "sentences": 45,
+      "gurmukhiWords": 354,
+      "englishWords": 559
+    },
+    {
+      "ang": 1283,
+      "sentences": 46,
+      "gurmukhiWords": 356,
+      "englishWords": 581
+    },
+    {
+      "ang": 1284,
+      "sentences": 44,
+      "gurmukhiWords": 323,
+      "englishWords": 600
+    },
+    {
+      "ang": 1285,
+      "sentences": 47,
+      "gurmukhiWords": 344,
+      "englishWords": 601
+    },
+    {
+      "ang": 1286,
+      "sentences": 46,
+      "gurmukhiWords": 348,
+      "englishWords": 635
+    },
+    {
+      "ang": 1287,
+      "sentences": 50,
+      "gurmukhiWords": 364,
+      "englishWords": 598
+    },
+    {
+      "ang": 1288,
+      "sentences": 50,
+      "gurmukhiWords": 341,
+      "englishWords": 633
+    },
+    {
+      "ang": 1289,
+      "sentences": 48,
+      "gurmukhiWords": 353,
+      "englishWords": 622
+    },
+    {
+      "ang": 1290,
+      "sentences": 42,
+      "gurmukhiWords": 334,
+      "englishWords": 603
+    },
+    {
+      "ang": 1291,
+      "sentences": 44,
+      "gurmukhiWords": 321,
+      "englishWords": 602
+    },
+    {
+      "ang": 1292,
+      "sentences": 38,
+      "gurmukhiWords": 321,
+      "englishWords": 503
+    },
+    {
+      "ang": 1293,
+      "sentences": 29,
+      "gurmukhiWords": 258,
+      "englishWords": 414
+    },
+    {
+      "ang": 1294,
+      "sentences": 20,
+      "gurmukhiWords": 213,
+      "englishWords": 377
+    },
+    {
+      "ang": 1295,
+      "sentences": 32,
+      "gurmukhiWords": 337,
+      "englishWords": 602
+    },
+    {
+      "ang": 1296,
+      "sentences": 32,
+      "gurmukhiWords": 333,
+      "englishWords": 648
+    },
+    {
+      "ang": 1297,
+      "sentences": 34,
+      "gurmukhiWords": 342,
+      "englishWords": 619
+    },
+    {
+      "ang": 1298,
+      "sentences": 44,
+      "gurmukhiWords": 329,
+      "englishWords": 545
+    },
+    {
+      "ang": 1299,
+      "sentences": 41,
+      "gurmukhiWords": 314,
+      "englishWords": 514
+    },
+    {
+      "ang": 1300,
+      "sentences": 38,
+      "gurmukhiWords": 293,
+      "englishWords": 545
+    },
+    {
+      "ang": 1301,
+      "sentences": 38,
+      "gurmukhiWords": 288,
+      "englishWords": 544
+    },
+    {
+      "ang": 1302,
+      "sentences": 36,
+      "gurmukhiWords": 330,
+      "englishWords": 556
+    },
+    {
+      "ang": 1303,
+      "sentences": 39,
+      "gurmukhiWords": 303,
+      "englishWords": 529
+    },
+    {
+      "ang": 1304,
+      "sentences": 43,
+      "gurmukhiWords": 288,
+      "englishWords": 499
+    },
+    {
+      "ang": 1305,
+      "sentences": 41,
+      "gurmukhiWords": 288,
+      "englishWords": 529
+    },
+    {
+      "ang": 1306,
+      "sentences": 39,
+      "gurmukhiWords": 305,
+      "englishWords": 622
+    },
+    {
+      "ang": 1307,
+      "sentences": 37,
+      "gurmukhiWords": 261,
+      "englishWords": 498
+    },
+    {
+      "ang": 1308,
+      "sentences": 31,
+      "gurmukhiWords": 290,
+      "englishWords": 513
+    },
+    {
+      "ang": 1309,
+      "sentences": 31,
+      "gurmukhiWords": 309,
+      "englishWords": 619
+    },
+    {
+      "ang": 1310,
+      "sentences": 32,
+      "gurmukhiWords": 312,
+      "englishWords": 619
+    },
+    {
+      "ang": 1311,
+      "sentences": 29,
+      "gurmukhiWords": 291,
+      "englishWords": 583
+    },
+    {
+      "ang": 1312,
+      "sentences": 36,
+      "gurmukhiWords": 273,
+      "englishWords": 554
+    },
+    {
+      "ang": 1313,
+      "sentences": 37,
+      "gurmukhiWords": 330,
+      "englishWords": 534
+    },
+    {
+      "ang": 1314,
+      "sentences": 36,
+      "gurmukhiWords": 337,
+      "englishWords": 598
+    },
+    {
+      "ang": 1315,
+      "sentences": 37,
+      "gurmukhiWords": 347,
+      "englishWords": 645
+    },
+    {
+      "ang": 1316,
+      "sentences": 36,
+      "gurmukhiWords": 331,
+      "englishWords": 578
+    },
+    {
+      "ang": 1317,
+      "sentences": 41,
+      "gurmukhiWords": 336,
+      "englishWords": 604
+    },
+    {
+      "ang": 1318,
+      "sentences": 44,
+      "gurmukhiWords": 316,
+      "englishWords": 541
+    },
+    {
+      "ang": 1319,
+      "sentences": 24,
+      "gurmukhiWords": 242,
+      "englishWords": 442
+    },
+    {
+      "ang": 1320,
+      "sentences": 32,
+      "gurmukhiWords": 356,
+      "englishWords": 607
+    },
+    {
+      "ang": 1321,
+      "sentences": 31,
+      "gurmukhiWords": 261,
+      "englishWords": 467
+    },
+    {
+      "ang": 1322,
+      "sentences": 42,
+      "gurmukhiWords": 313,
+      "englishWords": 601
+    },
+    {
+      "ang": 1323,
+      "sentences": 33,
+      "gurmukhiWords": 301,
+      "englishWords": 597
+    },
+    {
+      "ang": 1324,
+      "sentences": 33,
+      "gurmukhiWords": 332,
+      "englishWords": 592
+    },
+    {
+      "ang": 1325,
+      "sentences": 33,
+      "gurmukhiWords": 337,
+      "englishWords": 594
+    },
+    {
+      "ang": 1326,
+      "sentences": 30,
+      "gurmukhiWords": 310,
+      "englishWords": 580
+    },
+    {
+      "ang": 1327,
+      "sentences": 27,
+      "gurmukhiWords": 192,
+      "englishWords": 316
+    },
+    {
+      "ang": 1328,
+      "sentences": 42,
+      "gurmukhiWords": 335,
+      "englishWords": 552
+    },
+    {
+      "ang": 1329,
+      "sentences": 36,
+      "gurmukhiWords": 326,
+      "englishWords": 558
+    },
+    {
+      "ang": 1330,
+      "sentences": 47,
+      "gurmukhiWords": 332,
+      "englishWords": 643
+    },
+    {
+      "ang": 1331,
+      "sentences": 50,
+      "gurmukhiWords": 332,
+      "englishWords": 638
+    },
+    {
+      "ang": 1332,
+      "sentences": 32,
+      "gurmukhiWords": 277,
+      "englishWords": 560
+    },
+    {
+      "ang": 1333,
+      "sentences": 36,
+      "gurmukhiWords": 337,
+      "englishWords": 561
+    },
+    {
+      "ang": 1334,
+      "sentences": 35,
+      "gurmukhiWords": 339,
+      "englishWords": 595
+    },
+    {
+      "ang": 1335,
+      "sentences": 38,
+      "gurmukhiWords": 318,
+      "englishWords": 584
+    },
+    {
+      "ang": 1336,
+      "sentences": 31,
+      "gurmukhiWords": 333,
+      "englishWords": 615
+    },
+    {
+      "ang": 1337,
+      "sentences": 38,
+      "gurmukhiWords": 281,
+      "englishWords": 540
+    },
+    {
+      "ang": 1338,
+      "sentences": 51,
+      "gurmukhiWords": 333,
+      "englishWords": 542
+    },
+    {
+      "ang": 1339,
+      "sentences": 53,
+      "gurmukhiWords": 336,
+      "englishWords": 556
+    },
+    {
+      "ang": 1340,
+      "sentences": 54,
+      "gurmukhiWords": 336,
+      "englishWords": 567
+    },
+    {
+      "ang": 1341,
+      "sentences": 36,
+      "gurmukhiWords": 254,
+      "englishWords": 464
+    },
+    {
+      "ang": 1342,
+      "sentences": 53,
+      "gurmukhiWords": 317,
+      "englishWords": 583
+    },
+    {
+      "ang": 1343,
+      "sentences": 53,
+      "gurmukhiWords": 347,
+      "englishWords": 635
+    },
+    {
+      "ang": 1344,
+      "sentences": 46,
+      "gurmukhiWords": 334,
+      "englishWords": 586
+    },
+    {
+      "ang": 1345,
+      "sentences": 46,
+      "gurmukhiWords": 340,
+      "englishWords": 619
+    },
+    {
+      "ang": 1346,
+      "sentences": 35,
+      "gurmukhiWords": 306,
+      "englishWords": 558
+    },
+    {
+      "ang": 1347,
+      "sentences": 47,
+      "gurmukhiWords": 323,
+      "englishWords": 539
+    },
+    {
+      "ang": 1348,
+      "sentences": 56,
+      "gurmukhiWords": 345,
+      "englishWords": 589
+    },
+    {
+      "ang": 1349,
+      "sentences": 45,
+      "gurmukhiWords": 307,
+      "englishWords": 580
+    },
+    {
+      "ang": 1350,
+      "sentences": 37,
+      "gurmukhiWords": 315,
+      "englishWords": 576
+    },
+    {
+      "ang": 1351,
+      "sentences": 47,
+      "gurmukhiWords": 290,
+      "englishWords": 540
+    },
+    {
+      "ang": 1352,
+      "sentences": 29,
+      "gurmukhiWords": 255,
+      "englishWords": 370
+    },
+    {
+      "ang": 1353,
+      "sentences": 32,
+      "gurmukhiWords": 259,
+      "englishWords": 447
+    },
+    {
+      "ang": 1354,
+      "sentences": 45,
+      "gurmukhiWords": 315,
+      "englishWords": 667
+    },
+    {
+      "ang": 1355,
+      "sentences": 36,
+      "gurmukhiWords": 298,
+      "englishWords": 656
+    },
+    {
+      "ang": 1356,
+      "sentences": 35,
+      "gurmukhiWords": 289,
+      "englishWords": 614
+    },
+    {
+      "ang": 1357,
+      "sentences": 36,
+      "gurmukhiWords": 303,
+      "englishWords": 625
+    },
+    {
+      "ang": 1358,
+      "sentences": 35,
+      "gurmukhiWords": 315,
+      "englishWords": 647
+    },
+    {
+      "ang": 1359,
+      "sentences": 39,
+      "gurmukhiWords": 303,
+      "englishWords": 602
+    },
+    {
+      "ang": 1360,
+      "sentences": 37,
+      "gurmukhiWords": 288,
+      "englishWords": 594
+    },
+    {
+      "ang": 1361,
+      "sentences": 46,
+      "gurmukhiWords": 296,
+      "englishWords": 577
+    },
+    {
+      "ang": 1362,
+      "sentences": 42,
+      "gurmukhiWords": 324,
+      "englishWords": 621
+    },
+    {
+      "ang": 1363,
+      "sentences": 40,
+      "gurmukhiWords": 296,
+      "englishWords": 515
+    },
+    {
+      "ang": 1364,
+      "sentences": 38,
+      "gurmukhiWords": 332,
+      "englishWords": 545
+    },
+    {
+      "ang": 1365,
+      "sentences": 38,
+      "gurmukhiWords": 334,
+      "englishWords": 539
+    },
+    {
+      "ang": 1366,
+      "sentences": 39,
+      "gurmukhiWords": 349,
+      "englishWords": 582
+    },
+    {
+      "ang": 1367,
+      "sentences": 37,
+      "gurmukhiWords": 338,
+      "englishWords": 523
+    },
+    {
+      "ang": 1368,
+      "sentences": 37,
+      "gurmukhiWords": 332,
+      "englishWords": 539
+    },
+    {
+      "ang": 1369,
+      "sentences": 37,
+      "gurmukhiWords": 344,
+      "englishWords": 577
+    },
+    {
+      "ang": 1370,
+      "sentences": 37,
+      "gurmukhiWords": 338,
+      "englishWords": 556
+    },
+    {
+      "ang": 1371,
+      "sentences": 36,
+      "gurmukhiWords": 324,
+      "englishWords": 552
+    },
+    {
+      "ang": 1372,
+      "sentences": 36,
+      "gurmukhiWords": 335,
+      "englishWords": 576
+    },
+    {
+      "ang": 1373,
+      "sentences": 36,
+      "gurmukhiWords": 333,
+      "englishWords": 542
+    },
+    {
+      "ang": 1374,
+      "sentences": 36,
+      "gurmukhiWords": 323,
+      "englishWords": 553
+    },
+    {
+      "ang": 1375,
+      "sentences": 39,
+      "gurmukhiWords": 331,
+      "englishWords": 528
+    },
+    {
+      "ang": 1376,
+      "sentences": 39,
+      "gurmukhiWords": 328,
+      "englishWords": 554
+    },
+    {
+      "ang": 1377,
+      "sentences": 36,
+      "gurmukhiWords": 320,
+      "englishWords": 542
+    },
+    {
+      "ang": 1378,
+      "sentences": 42,
+      "gurmukhiWords": 344,
+      "englishWords": 612
+    },
+    {
+      "ang": 1379,
+      "sentences": 39,
+      "gurmukhiWords": 326,
+      "englishWords": 575
+    },
+    {
+      "ang": 1380,
+      "sentences": 40,
+      "gurmukhiWords": 345,
+      "englishWords": 599
+    },
+    {
+      "ang": 1381,
+      "sentences": 41,
+      "gurmukhiWords": 341,
+      "englishWords": 555
+    },
+    {
+      "ang": 1382,
+      "sentences": 40,
+      "gurmukhiWords": 330,
+      "englishWords": 514
+    },
+    {
+      "ang": 1383,
+      "sentences": 43,
+      "gurmukhiWords": 330,
+      "englishWords": 522
+    },
+    {
+      "ang": 1384,
+      "sentences": 41,
+      "gurmukhiWords": 328,
+      "englishWords": 597
+    },
+    {
+      "ang": 1385,
+      "sentences": 17,
+      "gurmukhiWords": 195,
+      "englishWords": 322
+    },
+    {
+      "ang": 1386,
+      "sentences": 35,
+      "gurmukhiWords": 343,
+      "englishWords": 601
+    },
+    {
+      "ang": 1387,
+      "sentences": 30,
+      "gurmukhiWords": 301,
+      "englishWords": 566
+    },
+    {
+      "ang": 1388,
+      "sentences": 30,
+      "gurmukhiWords": 349,
+      "englishWords": 619
+    },
+    {
+      "ang": 1389,
+      "sentences": 31,
+      "gurmukhiWords": 286,
+      "englishWords": 583
+    },
+    {
+      "ang": 1390,
+      "sentences": 34,
+      "gurmukhiWords": 295,
+      "englishWords": 543
+    },
+    {
+      "ang": 1391,
+      "sentences": 26,
+      "gurmukhiWords": 298,
+      "englishWords": 604
+    },
+    {
+      "ang": 1392,
+      "sentences": 34,
+      "gurmukhiWords": 305,
+      "englishWords": 590
+    },
+    {
+      "ang": 1393,
+      "sentences": 31,
+      "gurmukhiWords": 305,
+      "englishWords": 595
+    },
+    {
+      "ang": 1394,
+      "sentences": 36,
+      "gurmukhiWords": 336,
+      "englishWords": 557
+    },
+    {
+      "ang": 1395,
+      "sentences": 36,
+      "gurmukhiWords": 317,
+      "englishWords": 629
+    },
+    {
+      "ang": 1396,
+      "sentences": 33,
+      "gurmukhiWords": 297,
+      "englishWords": 582
+    },
+    {
+      "ang": 1397,
+      "sentences": 36,
+      "gurmukhiWords": 315,
+      "englishWords": 626
+    },
+    {
+      "ang": 1398,
+      "sentences": 31,
+      "gurmukhiWords": 341,
+      "englishWords": 683
+    },
+    {
+      "ang": 1399,
+      "sentences": 31,
+      "gurmukhiWords": 329,
+      "englishWords": 573
+    },
+    {
+      "ang": 1400,
+      "sentences": 30,
+      "gurmukhiWords": 344,
+      "englishWords": 618
+    },
+    {
+      "ang": 1401,
+      "sentences": 35,
+      "gurmukhiWords": 339,
+      "englishWords": 604
+    },
+    {
+      "ang": 1402,
+      "sentences": 27,
+      "gurmukhiWords": 323,
+      "englishWords": 577
+    },
+    {
+      "ang": 1403,
+      "sentences": 26,
+      "gurmukhiWords": 331,
+      "englishWords": 567
+    },
+    {
+      "ang": 1404,
+      "sentences": 28,
+      "gurmukhiWords": 316,
+      "englishWords": 553
+    },
+    {
+      "ang": 1405,
+      "sentences": 32,
+      "gurmukhiWords": 328,
+      "englishWords": 601
+    },
+    {
+      "ang": 1406,
+      "sentences": 31,
+      "gurmukhiWords": 299,
+      "englishWords": 562
+    },
+    {
+      "ang": 1407,
+      "sentences": 37,
+      "gurmukhiWords": 300,
+      "englishWords": 610
+    },
+    {
+      "ang": 1408,
+      "sentences": 33,
+      "gurmukhiWords": 299,
+      "englishWords": 571
+    },
+    {
+      "ang": 1409,
+      "sentences": 30,
+      "gurmukhiWords": 309,
+      "englishWords": 532
+    },
+    {
+      "ang": 1410,
+      "sentences": 32,
+      "gurmukhiWords": 236,
+      "englishWords": 406
+    },
+    {
+      "ang": 1411,
+      "sentences": 44,
+      "gurmukhiWords": 349,
+      "englishWords": 635
+    },
+    {
+      "ang": 1412,
+      "sentences": 42,
+      "gurmukhiWords": 320,
+      "englishWords": 518
+    },
+    {
+      "ang": 1413,
+      "sentences": 37,
+      "gurmukhiWords": 313,
+      "englishWords": 582
+    },
+    {
+      "ang": 1414,
+      "sentences": 36,
+      "gurmukhiWords": 327,
+      "englishWords": 640
+    },
+    {
+      "ang": 1415,
+      "sentences": 36,
+      "gurmukhiWords": 331,
+      "englishWords": 613
+    },
+    {
+      "ang": 1416,
+      "sentences": 35,
+      "gurmukhiWords": 326,
+      "englishWords": 643
+    },
+    {
+      "ang": 1417,
+      "sentences": 35,
+      "gurmukhiWords": 338,
+      "englishWords": 610
+    },
+    {
+      "ang": 1418,
+      "sentences": 40,
+      "gurmukhiWords": 333,
+      "englishWords": 610
+    },
+    {
+      "ang": 1419,
+      "sentences": 35,
+      "gurmukhiWords": 322,
+      "englishWords": 631
+    },
+    {
+      "ang": 1420,
+      "sentences": 38,
+      "gurmukhiWords": 344,
+      "englishWords": 616
+    },
+    {
+      "ang": 1421,
+      "sentences": 35,
+      "gurmukhiWords": 305,
+      "englishWords": 579
+    },
+    {
+      "ang": 1422,
+      "sentences": 38,
+      "gurmukhiWords": 326,
+      "englishWords": 563
+    },
+    {
+      "ang": 1423,
+      "sentences": 33,
+      "gurmukhiWords": 333,
+      "englishWords": 588
+    },
+    {
+      "ang": 1424,
+      "sentences": 31,
+      "gurmukhiWords": 283,
+      "englishWords": 543
+    },
+    {
+      "ang": 1425,
+      "sentences": 39,
+      "gurmukhiWords": 306,
+      "englishWords": 569
+    },
+    {
+      "ang": 1426,
+      "sentences": 35,
+      "gurmukhiWords": 297,
+      "englishWords": 520
+    },
+    {
+      "ang": 1427,
+      "sentences": 39,
+      "gurmukhiWords": 358,
+      "englishWords": 559
+    },
+    {
+      "ang": 1428,
+      "sentences": 37,
+      "gurmukhiWords": 348,
+      "englishWords": 586
+    },
+    {
+      "ang": 1429,
+      "sentences": 37,
+      "gurmukhiWords": 309,
+      "englishWords": 487
+    },
+    {
+      "ang": 1430,
+      "sentences": 57,
+      "gurmukhiWords": 310,
+      "englishWords": 378
+    }
+  ]
+}

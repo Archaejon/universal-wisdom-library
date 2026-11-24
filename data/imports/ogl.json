@@ -1,0 +1,532 @@
+{
+  "source": "open-greek-and-latin",
+  "retrieved_at": "2026-11-19",
+  "note": "Greek and Latin originals of early Christian texts, held locally under CC BY-SA 4.0. Each work records its repository file and the public-domain print edition it transcribes.",
+  "hosts": [
+    {
+      "id": "open-greek-and-latin",
+      "name": "Open Greek and Latin / Perseus Digital Library",
+      "url": "https://github.com/OpenGreekAndLatin",
+      "licence": "CC BY-SA 4.0"
+    }
+  ],
+  "works": [
+    {
+      "slug": "1-clement-greek",
+      "host": "open-greek-and-latin",
+      "upstream": "First1KGreek/tlg1271.tlg001.1st1K-grc1",
+      "language": "grc",
+      "edition": "Kirsopp Lake (1912)",
+      "chapters": 66,
+      "passages": 400,
+      "words": 9832
+    },
+    {
+      "slug": "ignatius-letters-greek",
+      "host": "open-greek-and-latin",
+      "upstream": "First1KGreek/tlg1443.tlg001.1st1K-grc1",
+      "language": "grc",
+      "edition": "Kirsopp Lake (1912)",
+      "chapters": 7,
+      "passages": 205,
+      "words": 7749
+    },
+    {
+      "slug": "polycarp-philippians-greek",
+      "host": "open-greek-and-latin",
+      "upstream": "First1KGreek/tlg1622.tlg001.1st1K-grc1",
+      "language": "grc",
+      "edition": "Kirsopp Lake (1912)",
+      "chapters": 15,
+      "passages": 38,
+      "words": 1589
+    },
+    {
+      "slug": "martyrdom-of-polycarp-greek",
+      "host": "open-greek-and-latin",
+      "upstream": "First1KGreek/tlg1484.tlg001.1st1K-grc1",
+      "language": "grc",
+      "edition": "Kirsopp Lake (1917)",
+      "chapters": 24,
+      "passages": 59,
+      "words": 2641
+    },
+    {
+      "slug": "epistle-of-barnabas-greek",
+      "host": "open-greek-and-latin",
+      "upstream": "First1KGreek/tlg1216.tlg001.opp-grc1",
+      "language": "grc",
+      "edition": "Kirsopp Lake (1912)",
+      "chapters": 21,
+      "passages": 194,
+      "words": 6715
+    },
+    {
+      "slug": "shepherd-of-hermas-greek",
+      "host": "open-greek-and-latin",
+      "upstream": "First1KGreek/tlg1419.tlg001.1st1K-grc1",
+      "language": "grc",
+      "edition": "Kirsopp Lake (1917)",
+      "chapters": 27,
+      "passages": 727,
+      "words": 28601
+    },
+    {
+      "slug": "justin-first-apology-greek",
+      "host": "open-greek-and-latin",
+      "upstream": "First1KGreek/tlg0645.tlg001.1st1K-grc1",
+      "language": "grc",
+      "edition": "Gerhard Rauschen (1911)",
+      "chapters": 68,
+      "passages": 68,
+      "words": 14440
+    },
+    {
+      "slug": "justin-second-apology-greek",
+      "host": "open-greek-and-latin",
+      "upstream": "First1KGreek/tlg0645.tlg002.perseus-grc2",
+      "language": "grc",
+      "edition": "Gerhard Rauschen (1911)",
+      "chapters": 15,
+      "passages": 15,
+      "words": 3293
+    },
+    {
+      "slug": "justin-dialogue-with-trypho-greek",
+      "host": "open-greek-and-latin",
+      "upstream": "First1KGreek/tlg0645.tlg003.perseus-grc2",
+      "language": "grc",
+      "edition": "Georges Archambault (1909)",
+      "chapters": 142,
+      "passages": 752,
+      "words": 54733
+    },
+    {
+      "slug": "athenagoras-legatio-greek",
+      "host": "open-greek-and-latin",
+      "upstream": "First1KGreek/tlg1205.tlg001.perseus-grc2",
+      "language": "grc",
+      "edition": "Francis Andrew March and William Baxter Owen (1876)",
+      "chapters": 38,
+      "passages": 174,
+      "words": 11308
+    },
+    {
+      "slug": "theophilus-ad-autolycum-greek",
+      "host": "open-greek-and-latin",
+      "upstream": "First1KGreek/tlg1725.tlg001.perseus-grc2",
+      "language": "grc",
+      "edition": "Johann Carl Theodor Otto (1861)",
+      "chapters": 3,
+      "passages": 83,
+      "words": 21590
+    },
+    {
+      "slug": "tatian-oratio-ad-graecos-greek",
+      "host": "open-greek-and-latin",
+      "upstream": "First1KGreek/tlg1766.tlg001.perseus-grc1",
+      "language": "grc",
+      "edition": "Johann Carl Theodor Otto (1851)",
+      "chapters": 42,
+      "passages": 42,
+      "words": 10227
+    },
+    {
+      "slug": "clement-protrepticus-greek",
+      "host": "open-greek-and-latin",
+      "upstream": "First1KGreek/tlg0555.tlg001.1st1K-grc1",
+      "language": "grc",
+      "edition": "Otto Stählin (1905)",
+      "chapters": 12,
+      "passages": 66,
+      "words": 23364
+    },
+    {
+      "slug": "clement-paedagogus-greek",
+      "host": "open-greek-and-latin",
+      "upstream": "First1KGreek/tlg0555.tlg002.1st1K-grc1",
+      "language": "grc",
+      "edition": "Otto Stählin (1905)",
+      "chapters": 3,
+      "passages": 180,
+      "words": 57016
+    },
+    {
+      "slug": "quis-dives-salvetur-greek",
+      "host": "open-greek-and-latin",
+      "upstream": "First1KGreek/tlg0555.tlg006.1st1K-grc1",
+      "language": "grc",
+      "edition": "Otto Stählin (1909)",
+      "chapters": 42,
+      "passages": 43,
+      "words": 9191
+    },
+    {
+      "slug": "origen-contra-celsum-greek",
+      "host": "open-greek-and-latin",
+      "upstream": "First1KGreek/tlg2042.tlg001.perseus-grc1",
+      "language": "grc",
+      "edition": "Paul Koetschau (1899)",
+      "chapters": 9,
+      "passages": 682,
+      "words": 164915
+    },
+    {
+      "slug": "origen-de-oratione-greek",
+      "host": "open-greek-and-latin",
+      "upstream": "First1KGreek/tlg2042.tlg008.perseus-grc1",
+      "language": "grc",
+      "edition": "Paul Koetschau (1899)",
+      "chapters": 34,
+      "passages": 157,
+      "words": 27950
+    },
+    {
+      "slug": "origen-exhortatio-ad-martyrium-greek",
+      "host": "open-greek-and-latin",
+      "upstream": "First1KGreek/tlg2042.tlg007.perseus-grc1",
+      "language": "grc",
+      "edition": "Paul Koetschau (1899)",
+      "chapters": 51,
+      "passages": 58,
+      "words": 12334
+    },
+    {
+      "slug": "hippolytus-refutatio-greek",
+      "host": "open-greek-and-latin",
+      "upstream": "First1KGreek/tlg2115.tlg060.perseus-grc1",
+      "language": "grc",
+      "edition": "Ludwig Duncker and F.G. Schneidewin (1859)",
+      "chapters": 8,
+      "passages": 327,
+      "words": 50283
+    },
+    {
+      "slug": "methodius-symposium-greek",
+      "host": "open-greek-and-latin",
+      "upstream": "First1KGreek/tlg2959.tlg001.opp-grc1",
+      "language": "grc",
+      "edition": "D.G. Nathanael Bonwetsch (1917)",
+      "chapters": 12,
+      "passages": 201,
+      "words": 28393
+    },
+    {
+      "slug": "athanasius-de-incarnatione-greek",
+      "host": "open-greek-and-latin",
+      "upstream": "First1KGreek/tlg2035.tlg002.1st1K-grc1",
+      "language": "grc",
+      "edition": "Archibald Robertson (1893)",
+      "chapters": 57,
+      "passages": 331,
+      "words": 19782
+    },
+    {
+      "slug": "athanasius-contra-arianos-greek",
+      "host": "open-greek-and-latin",
+      "upstream": "First1KGreek/tlg2035.tlg130.1st1K-grc1, First1KGreek/tlg2035.tlg131.1st1K-grc1, First1KGreek/tlg2035.tlg132.1st1K-grc1",
+      "language": "grc",
+      "edition": "William Bright (1884)",
+      "chapters": 3,
+      "passages": 213,
+      "words": 77130
+    },
+    {
+      "slug": "gregory-nazianzen-theological-orations-greek",
+      "host": "open-greek-and-latin",
+      "upstream": "First1KGreek/tlg2022.tlg007.1st1K-grc1, First1KGreek/tlg2022.tlg008.1st1K-grc1, First1KGreek/tlg2022.tlg009.1st1K-grc1, First1KGreek/tlg2022.tlg010.1st1K-grc1, First1KGreek/tlg2022.tlg011.1st1K-grc1",
+      "language": "grc",
+      "edition": "Arthur James Mason (1899)",
+      "chapters": 5,
+      "passages": 115,
+      "words": 25272
+    },
+    {
+      "slug": "eusebius-historia-ecclesiastica-greek",
+      "host": "open-greek-and-latin",
+      "upstream": "First1KGreek/tlg2018.tlg002.1st1K-grc2",
+      "language": "grc",
+      "edition": "Wilhelm Dindorf (1871)",
+      "chapters": 10,
+      "passages": 1870,
+      "words": 101036
+    },
+    {
+      "slug": "eusebius-vita-constantini-greek",
+      "host": "open-greek-and-latin",
+      "upstream": "First1KGreek/tlg2018.tlg020.1st1K-grc1",
+      "language": "grc",
+      "edition": "Ivar A. Heikel (1902)",
+      "chapters": 4,
+      "passages": 780,
+      "words": 38457
+    },
+    {
+      "slug": "socrates-historia-ecclesiastica-greek",
+      "host": "open-greek-and-latin",
+      "upstream": "First1KGreek/tlg2057.tlg002.1st1K-grc1",
+      "language": "grc",
+      "edition": "Robert Hussey and William Bright (1893)",
+      "chapters": 7,
+      "passages": 381,
+      "words": 102102
+    },
+    {
+      "slug": "sozomen-historia-ecclesiastica-greek",
+      "host": "open-greek-and-latin",
+      "upstream": "First1KGreek/tlg2048.tlg001.1st1K-grc1",
+      "language": "grc",
+      "edition": "Robert Hussey (1860)",
+      "chapters": 9,
+      "passages": 2366,
+      "words": 112510
+    },
+    {
+      "slug": "theodoret-historia-ecclesiastica-greek",
+      "host": "open-greek-and-latin",
+      "upstream": "First1KGreek/tlg4089.tlg003.1st1K-grc1",
+      "language": "grc",
+      "edition": "Johann Ludvig Schulze (1864)",
+      "chapters": 5,
+      "passages": 571,
+      "words": 68141
+    },
+    {
+      "slug": "acts-of-thomas-greek",
+      "host": "open-greek-and-latin",
+      "upstream": "First1KGreek/tlg2038.tlg001.1st1K-grc1",
+      "language": "grc",
+      "edition": "Maximilian Bonnet (1903)",
+      "chapters": 170,
+      "passages": 170,
+      "words": 28869
+    },
+    {
+      "slug": "passio-perpetuae-greek",
+      "host": "open-greek-and-latin",
+      "upstream": "First1KGreek/tlg2016.tlg001.1st1K-grc1",
+      "language": "grc",
+      "edition": "J. Armitage Robinson (1891)",
+      "chapters": 22,
+      "passages": 22,
+      "words": 3964
+    },
+    {
+      "slug": "augustine-confessiones-latin",
+      "host": "open-greek-and-latin",
+      "upstream": "csel-dev/stoa0040.stoa001.opp-lat1",
+      "language": "la",
+      "edition": "Pius Knöll (1896)",
+      "chapters": 13,
+      "passages": 453,
+      "words": 78641
+    },
+    {
+      "slug": "augustine-de-civitate-dei-latin",
+      "host": "open-greek-and-latin",
+      "upstream": "csel-dev/stoa0040.stoa003.opp-lat3",
+      "language": "la",
+      "edition": "Emmanuel Hoffmann (1899)",
+      "chapters": 22,
+      "passages": 1114,
+      "words": 294954
+    },
+    {
+      "slug": "augustine-de-spiritu-et-littera-latin",
+      "host": "open-greek-and-latin",
+      "upstream": "csel-dev/stoa0040.stoa062.opp-lat1",
+      "language": "la",
+      "edition": "Karl F. Urba and Joseph Zycha (1913)",
+      "chapters": 67,
+      "passages": 71,
+      "words": 17912
+    },
+    {
+      "slug": "augustine-de-natura-et-gratia-latin",
+      "host": "open-greek-and-latin",
+      "upstream": "csel-dev/stoa0040.stoa054.opp-lat1",
+      "language": "la",
+      "edition": "Karl F. Urba and Joseph Zycha (1913)",
+      "chapters": 85,
+      "passages": 86,
+      "words": 16635
+    },
+    {
+      "slug": "augustine-de-beata-vita-latin",
+      "host": "open-greek-and-latin",
+      "upstream": "csel-dev/stoa0040.stoa034.opp-lat1",
+      "language": "la",
+      "edition": "Pius Knöll (1922)",
+      "chapters": 37,
+      "passages": 37,
+      "words": 7247
+    },
+    {
+      "slug": "tertullian-adversus-marcionem-latin",
+      "host": "open-greek-and-latin",
+      "upstream": "canonical-latinLit/stoa0275.stoa006.opp-lat1",
+      "language": "la",
+      "edition": "Franz Oehler (1854)",
+      "chapters": 5,
+      "passages": 213,
+      "words": 82770
+    },
+    {
+      "slug": "tertullian-adversus-praxean-latin",
+      "host": "open-greek-and-latin",
+      "upstream": "canonical-latinLit/stoa0275.stoa007.opp-lat1",
+      "language": "la",
+      "edition": "Franz Oehler (1854)",
+      "chapters": 31,
+      "passages": 36,
+      "words": 14776
+    },
+    {
+      "slug": "tertullian-de-praescriptione-latin",
+      "host": "open-greek-and-latin",
+      "upstream": "canonical-latinLit/stoa0275.stoa024.opp-lat1",
+      "language": "la",
+      "edition": "Franz Oehler (1854)",
+      "chapters": 41,
+      "passages": 41,
+      "words": 8311
+    },
+    {
+      "slug": "tertullian-de-baptismo-latin",
+      "host": "open-greek-and-latin",
+      "upstream": "canonical-latinLit/stoa0275.stoa011.opp-lat1",
+      "language": "la",
+      "edition": "Franz Oehler (1853)",
+      "chapters": 20,
+      "passages": 20,
+      "words": 4272
+    },
+    {
+      "slug": "cyprian-de-unitate-latin",
+      "host": "open-greek-and-latin",
+      "upstream": "csel-dev/stoa0104a.stoa010.opp-lat1",
+      "language": "la",
+      "edition": "Wilhelm von Hartel (1868)",
+      "chapters": 27,
+      "passages": 27,
+      "words": 5048
+    },
+    {
+      "slug": "cyprian-de-lapsis-latin",
+      "host": "open-greek-and-latin",
+      "upstream": "csel-dev/stoa0104a.stoa007.opp-lat1",
+      "language": "la",
+      "edition": "Wilhelm von Hartel (1868)",
+      "chapters": 36,
+      "passages": 36,
+      "words": 5900
+    },
+    {
+      "slug": "cyprian-de-dominica-oratione-latin",
+      "host": "open-greek-and-latin",
+      "upstream": "csel-dev/stoa0104a.stoa015.opp-lat1",
+      "language": "la",
+      "edition": "Wilhelm von Hartel (1868)",
+      "chapters": 36,
+      "passages": 36,
+      "words": 6229
+    },
+    {
+      "slug": "lactantius-divinae-institutiones-latin",
+      "host": "open-greek-and-latin",
+      "upstream": "csel-dev/stoa0171.stoa009.opp-lat1",
+      "language": "la",
+      "edition": "Samuel Brandt and Georg Laubmann (1890)",
+      "chapters": 7,
+      "passages": 3277,
+      "words": 118292
+    },
+    {
+      "slug": "lactantius-de-mortibus-persecutorum-latin",
+      "host": "open-greek-and-latin",
+      "upstream": "csel-dev/stoa0171.stoa002.opp-lat1",
+      "language": "la",
+      "edition": "Samuel Brandt and Georg Laubmann (1897)",
+      "chapters": 52,
+      "passages": 365,
+      "words": 10920
+    },
+    {
+      "slug": "cassian-conlationes-latin",
+      "host": "open-greek-and-latin",
+      "upstream": "csel-dev/stoa0076c.stoa001.opp-lat2",
+      "language": "la",
+      "edition": "Michael Petschenig (1886)",
+      "chapters": 51,
+      "passages": 2269,
+      "words": 140151
+    },
+    {
+      "slug": "cassian-institutiones-latin",
+      "host": "open-greek-and-latin",
+      "upstream": "csel-dev/stoa0076c.stoa002.opp-lat2",
+      "language": "la",
+      "edition": "Michael Petschenig (1888)",
+      "chapters": 25,
+      "passages": 577,
+      "words": 47332
+    },
+    {
+      "slug": "salvian-de-gubernatione-dei-latin",
+      "host": "open-greek-and-latin",
+      "upstream": "csel-dev/stoa0249a.stoa002.opp-lat1",
+      "language": "la",
+      "edition": "Franz Pauly (1883)",
+      "chapters": 9,
+      "passages": 540,
+      "words": 44715
+    },
+    {
+      "slug": "orosius-historiae-latin",
+      "host": "open-greek-and-latin",
+      "upstream": "csel-dev/stoa0215c.stoa001.opp-lat1",
+      "language": "la",
+      "edition": "Karl Zangemeister (1882)",
+      "chapters": 7,
+      "passages": 2362,
+      "words": 74742
+    },
+    {
+      "slug": "sulpicius-vita-martini-latin",
+      "host": "open-greek-and-latin",
+      "upstream": "csel-dev/stoa0270.stoa002.opp-lat2",
+      "language": "la",
+      "edition": "Karl Halm (1866)",
+      "chapters": 28,
+      "passages": 190,
+      "words": 6647
+    },
+    {
+      "slug": "boethius-consolatio-latin",
+      "host": "open-greek-and-latin",
+      "upstream": "canonical-latinLit/stoa0058.stoa001.perseus-lat2",
+      "language": "la",
+      "edition": "H. F. Stewart and E. K. Rand (1918)",
+      "chapters": 5,
+      "passages": 159,
+      "words": 24644
+    },
+    {
+      "slug": "boethius-de-trinitate-latin",
+      "host": "open-greek-and-latin",
+      "upstream": "canonical-latinLit/stoa0058.stoa025.perseus-lat1",
+      "language": "la",
+      "edition": "H. F. Stewart and E. K. Rand (1918)",
+      "chapters": 7,
+      "passages": 8,
+      "words": 2906
+    }
+  ],
+  "failures": [],
+  "totals": {
+    "works": 51,
+    "chapters": 1542,
+    "passages": 23207,
+    "words": 2136471
+  }
+}

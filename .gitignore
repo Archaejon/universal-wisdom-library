@@ -5,10 +5,13 @@ node_modules/
 # rebuild) and the registry (data/registry, which the tests read) are tracked.
 # Everything else under data/ is derived or bulky and stays out: the SQLite
 # library (9.4 GB, rebuilt with `bun run db:rebuild`), its backups, and the
-# import caches (341 MB, refetched by the importers).
+# import caches (334 MB, refetched by the importers). The importers' manifests
+# in data/imports (provenance records, about 7 MB) are tracked.
 data/*
 !data/corpus/
 !data/registry/
+!data/imports/
+data/imports/cache/
 
 # Build output of `bun run build`
 public/

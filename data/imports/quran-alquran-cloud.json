@@ -1,0 +1,17 @@
+{
+  "source": "alquran-cloud",
+  "source_url": "https://api.alquran.cloud/",
+  "upstream_text": "Tanzil Quran Text (Uthmani)",
+  "retrieved_at": "2026-10-20",
+  "licence": {
+    "arabic": "Tanzil text terms: verbatim copying permitted, modification not allowed (CC BY 3.0 as published by Tanzil)",
+    "english": "Public domain: The Meaning of the Glorious Koran, M. M. Pickthall (1930)"
+  },
+  "totals": {
+    "surahs": 114,
+    "ayahs": 6236,
+    "arabicAyahs": 6236,
+    "englishAyahs": 6236
+  },
+  "sha256": "e26d7f3d355d85b62d0f8f05fd9d5d43b8eac648875f38ae7b7dc6a97e67a7da"
+}

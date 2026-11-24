@@ -1,0 +1,60 @@
+{
+  "source": "sacred-texts",
+  "retrieved_at": "2026-11-02",
+  "note": "Catalogue records, chapter outlines and passage indexes only. The four works of Jacobi's Jaina Sutras are streamed from sacred-texts.com at read time and are not stored in this corpus.",
+  "hosts": [
+    {
+      "id": "sacred-texts",
+      "name": "Internet Sacred Text Archive",
+      "url": "https://sacred-texts.com/",
+      "licence": "public-domain translations"
+    }
+  ],
+  "works": [
+    {
+      "slug": "acaranga-sutra",
+      "host": "sacred-texts",
+      "upstream": "Jaina Sutras, Part I (Sacred Books of the East, vol. 22)",
+      "translator": "Hermann Jacobi",
+      "chapters": 24,
+      "passages": 1063,
+      "firstChapter": "Book I, Lecture 1 — Knowledge of the Weapon",
+      "lastChapter": "Book II, Lecture 16 — The Liberation"
+    },
+    {
+      "slug": "kalpa-sutra",
+      "host": "sacred-texts",
+      "upstream": "Jaina Sutras, Part I (Sacred Books of the East, vol. 22)",
+      "translator": "Hermann Jacobi",
+      "chapters": 11,
+      "passages": 414,
+      "firstChapter": "Life of Mahâvîra",
+      "lastChapter": "RULES FOR YATIS"
+    },
+    {
+      "slug": "uttaradhyayana-sutra",
+      "host": "sacred-texts",
+      "upstream": "Jaina Sutras, Part II (Sacred Books of the East, vol. 45)",
+      "translator": "Hermann Jacobi",
+      "chapters": 36,
+      "passages": 1764,
+      "firstChapter": "Lecture 1 — On discipline",
+      "lastChapter": "Lecture 36 — On living beings and things without life"
+    },
+    {
+      "slug": "sutrakritanga",
+      "host": "sacred-texts",
+      "upstream": "Jaina Sutras, Part II (Sacred Books of the East, vol. 45)",
+      "translator": "Hermann Jacobi",
+      "chapters": 23,
+      "passages": 1083,
+      "firstChapter": "Book I, Lecture 1 — The doctrine",
+      "lastChapter": "Book II, Lecture 7 — Nâlandâ"
+    }
+  ],
+  "totals": {
+    "works": 4,
+    "chapters": 94,
+    "passages": 4324
+  }
+}

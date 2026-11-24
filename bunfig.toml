@@ -1,0 +1,3 @@
+[test]
+# Gives the tests a throwaway database; see tests/setup.ts.
+preload = ["./tests/setup.ts"]

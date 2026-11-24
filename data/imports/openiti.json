@@ -1,0 +1,485 @@
+{
+  "source": "openiti",
+  "retrieved_at": "2026-11-19",
+  "note": "Arabic-only works streamed from OpenITI. The library holds the catalogue record, chapter outline and passage index; the text is requested from GitHub at read time.",
+  "hosts": [
+    {
+      "id": "openiti",
+      "name": "OpenITI corpus",
+      "url": "https://github.com/OpenITI",
+      "licence": "CC BY-NC-SA 4.0 for the digital transcription; underlying works public domain"
+    }
+  ],
+  "works": [
+    {
+      "slug": "kitab-al-kharaj",
+      "host": "openiti",
+      "upstream": "0200AH/0182AbuYusufYacqub.Kharaj.ShamAY0034334-ara1",
+      "chapters": 41,
+      "passages": 2838,
+      "translator": ""
+    },
+    {
+      "slug": "al-mudawwana",
+      "host": "openiti",
+      "upstream": "0250AH/0240SahnunIbnSacid.MudawwanaKubra.Shamela0000587-ara1",
+      "chapters": 98,
+      "passages": 31535,
+      "translator": ""
+    },
+    {
+      "slug": "al-hidaya",
+      "host": "openiti",
+      "upstream": "0600AH/0593BurhanDinFarghaniMarghinani.HidayaFiSharhBidaya.JK000242-ara1",
+      "chapters": 57,
+      "passages": 3634,
+      "translator": ""
+    },
+    {
+      "slug": "al-mabsut",
+      "host": "openiti",
+      "upstream": "0500AH/0483IbnAhmadSarakhsi.Mabsut.Shamela0005423-ara1",
+      "chapters": 72,
+      "passages": 26441,
+      "translator": ""
+    },
+    {
+      "slug": "bidayat-al-mujtahid",
+      "host": "openiti",
+      "upstream": "0600AH/0595IbnRushdHafid.BidayatMujtahid.Shamela0021739-ara1",
+      "chapters": 71,
+      "passages": 8161,
+      "translator": ""
+    },
+    {
+      "slug": "al-muwafaqat",
+      "host": "openiti",
+      "upstream": "0800AH/0790IbnMusaGharnatiShatibi.Muwafaqat.JK000279-ara1",
+      "chapters": 452,
+      "passages": 4712,
+      "translator": ""
+    },
+    {
+      "slug": "al-risala-al-qayrawaniyya",
+      "host": "openiti",
+      "upstream": "0400AH/0386IbnAbiZaydQayrawani.Risala.Shamela0011373-ara1",
+      "chapters": 45,
+      "passages": 202,
+      "translator": ""
+    },
+    {
+      "slug": "al-ahkam-al-sultaniyya",
+      "host": "openiti",
+      "upstream": "0450AH/0450AbuHasanMawardi.AhkamSultaniyya.Shamela0022881-ara1.mARkdown",
+      "chapters": 21,
+      "passages": 2458,
+      "translator": ""
+    },
+    {
+      "slug": "al-kafi-al-kulayni",
+      "host": "openiti",
+      "upstream": "0350AH/0329IbnYacqubKulayni.Kafi.Shia001122Vols-ara1.mARkdown",
+      "chapters": 35,
+      "passages": 25231,
+      "translator": ""
+    },
+    {
+      "slug": "kitab-al-tawhid-al-maturidi",
+      "host": "openiti",
+      "upstream": "0350AH/0333AbuMansurMaturidi.Tawhid.Shamela0006365-ara1",
+      "chapters": 64,
+      "passages": 1608,
+      "translator": ""
+    },
+    {
+      "slug": "muqaddimat-ibn-al-salah",
+      "host": "openiti",
+      "upstream": "0650AH/0643IbnSalahShahrazuri.MuqaddimatCulumHadith.Shamela0022870-ara1",
+      "chapters": 84,
+      "passages": 2107,
+      "translator": ""
+    },
+    {
+      "slug": "riyad-al-salihin",
+      "host": "openiti",
+      "upstream": "0700AH/0676Nawawi.RiyadSalihin.Shamela0012014-ara1.mARkdown",
+      "chapters": 373,
+      "passages": 3171,
+      "translator": ""
+    },
+    {
+      "slug": "fusus-al-hikam",
+      "host": "openiti",
+      "upstream": "0650AH/0638IbnCarabi.FususHikam.Kraken21042913-ara1.mARkdown",
+      "chapters": 27,
+      "passages": 301,
+      "translator": ""
+    },
+    {
+      "slug": "al-itisam",
+      "host": "openiti",
+      "upstream": "0800AH/0790IbnMusaGharnatiShatibi.Ictisam.Shamela0021720-ara1",
+      "chapters": 146,
+      "passages": 4627,
+      "translator": ""
+    },
+    {
+      "slug": "mukhtasar-minhaj-al-qasidin",
+      "host": "openiti",
+      "upstream": "0700AH/0689AhmadIbnCabdRahmanIbnQudama.MukhtasarMinhajQasidin.Shamela0098087-ara1",
+      "chapters": 25,
+      "passages": 3432,
+      "translator": ""
+    },
+    {
+      "slug": "al-kashshaf",
+      "host": "openiti",
+      "upstream": "0550AH/0538JarAllahZamakhshari.Kashshaf.Shamela0023627-ara1",
+      "chapters": 114,
+      "passages": 19270,
+      "translator": ""
+    },
+    {
+      "slug": "al-mughni",
+      "host": "openiti",
+      "upstream": "0625AH/0620IbnQudamaMaqdisi.Mughni.Shamela0008463-ara1",
+      "chapters": 69,
+      "passages": 35779,
+      "translator": ""
+    },
+    {
+      "slug": "al-shafii-risala",
+      "host": "openiti",
+      "upstream": "0225AH/0204Shafici.Risala.JK000143-ara1",
+      "chapters": 55,
+      "passages": 1762,
+      "translator": ""
+    },
+    {
+      "slug": "al-shafii-al-umm",
+      "host": "openiti",
+      "upstream": "0225AH/0204Shafici.Umm.Shamela0001655-ara1",
+      "chapters": 55,
+      "passages": 13819,
+      "translator": ""
+    },
+    {
+      "slug": "musnad-ahmad",
+      "host": "openiti",
+      "upstream": "0250AH/0241IbnHanbal.Musnad.Shamela0013157-ara1",
+      "chapters": 35,
+      "passages": 47187,
+      "translator": ""
+    },
+    {
+      "slug": "mafatih-al-ghayb",
+      "host": "openiti",
+      "upstream": "0625AH/0606FakhrDinRazi.MafatihGhayb.Shamela0023635-ara1",
+      "chapters": 33,
+      "passages": 60463,
+      "translator": ""
+    },
+    {
+      "slug": "mishkat-al-masabih",
+      "host": "openiti",
+      "upstream": "0750AH/0741KhatibTabrizi.MishkatMasabih.Shamela0008360-ara1",
+      "chapters": 30,
+      "passages": 17002,
+      "translator": ""
+    },
+    {
+      "slug": "bulugh-al-maram",
+      "host": "openiti",
+      "upstream": "0875AH/0852IbnHajarCasqalani.BulughMaram.Shamela0009111-ara1",
+      "chapters": 17,
+      "passages": 2570,
+      "translator": ""
+    },
+    {
+      "slug": "nukhbat-al-fikr",
+      "host": "openiti",
+      "upstream": "0875AH/0852IbnHajarCasqalani.NukhbatFikar.Shamela0005940-ara1",
+      "chapters": 26,
+      "passages": 114,
+      "translator": ""
+    },
+    {
+      "slug": "asbab-al-nuzul",
+      "host": "openiti",
+      "upstream": "0475AH/0468IbnAhmadWahidiNaysaburi.AsbabNuzul.Shamela0011314-ara1",
+      "chapters": 80,
+      "passages": 2040,
+      "translator": ""
+    },
+    {
+      "slug": "al-itqan",
+      "host": "openiti",
+      "upstream": "0925AH/0911Suyuti.Itqan.Shamela0011728-ara1",
+      "chapters": 75,
+      "passages": 10143,
+      "translator": ""
+    },
+    {
+      "slug": "al-jami-al-saghir",
+      "host": "openiti",
+      "upstream": "0200AH/0189MuhammadShaybani.JamicSaghir.Shamela0006160-ara1.mARkdown",
+      "chapters": 37,
+      "passages": 470,
+      "translator": ""
+    },
+    {
+      "slug": "kitab-al-hujja",
+      "host": "openiti",
+      "upstream": "0200AH/0189MuhammadShaybani.HujjaCalaAhlMadina.Shamela0006161-ara1.mARkdown",
+      "chapters": 14,
+      "passages": 3715,
+      "translator": ""
+    },
+    {
+      "slug": "mukhtasar-al-quduri",
+      "host": "openiti",
+      "upstream": "0450AH/0428AbuHusaynQuduri.Mukhtasar.Sham19Y0124336-ara1",
+      "chapters": 56,
+      "passages": 2039,
+      "translator": ""
+    },
+    {
+      "slug": "badai-al-sanai",
+      "host": "openiti",
+      "upstream": "0600AH/0587IbnMascudCalaDinKasani.BadaicSanaic.Shamela0008183-ara1",
+      "chapters": 68,
+      "passages": 21761,
+      "translator": ""
+    },
+    {
+      "slug": "usul-al-sarakhsi",
+      "host": "openiti",
+      "upstream": "0500AH/0483IbnAhmadSarakhsi.Usul.Shamela0006301-ara1",
+      "chapters": 102,
+      "passages": 3913,
+      "translator": ""
+    },
+    {
+      "slug": "sharh-al-siyar-al-kabir",
+      "host": "openiti",
+      "upstream": "0500AH/0483IbnAhmadSarakhsi.SharhSiyarKabir.Shamela0005434-ara1",
+      "chapters": 219,
+      "passages": 10764,
+      "translator": ""
+    },
+    {
+      "slug": "al-ashbah-wa-al-nazair-ibn-nujaym",
+      "host": "openiti",
+      "upstream": "0975AH/0970IbnIbrahimIbnNujaymMisri.AshbahWaNazair.Shamela0001666-ara1.completed",
+      "chapters": 122,
+      "passages": 5425,
+      "translator": ""
+    },
+    {
+      "slug": "al-kafi-fi-fiqh-ahl-al-madina",
+      "host": "openiti",
+      "upstream": "0475AH/0463IbnCabdBarr.KafiFiFiqh.Shamela0007367-ara1",
+      "chapters": 53,
+      "passages": 2628,
+      "translator": ""
+    },
+    {
+      "slug": "al-furuq",
+      "host": "openiti",
+      "upstream": "0700AH/0684ShihabDinQarafi.Furuq.ShamAY0034190-ara1",
+      "chapters": 228,
+      "passages": 13693,
+      "translator": ""
+    },
+    {
+      "slug": "mukhtasar-khalil",
+      "host": "openiti",
+      "upstream": "0775AH/0767KhalilIbnIshaq.MukhtasarKhalil.Shamela0011355-ara1",
+      "chapters": 60,
+      "passages": 535,
+      "translator": ""
+    },
+    {
+      "slug": "mukhtasar-al-muzani",
+      "host": "openiti",
+      "upstream": "0275AH/0264IbnYahyaMuzani.Mukhtasar.Shamela0001661-ara1",
+      "chapters": 40,
+      "passages": 3277,
+      "translator": ""
+    },
+    {
+      "slug": "al-muhadhdhab",
+      "host": "openiti",
+      "upstream": "0500AH/0476AbuIshaqShirazi.MuhadhdhabFiFiqh.Shamela0011813-ara1",
+      "chapters": 51,
+      "passages": 4523,
+      "translator": ""
+    },
+    {
+      "slug": "al-tanbih",
+      "host": "openiti",
+      "upstream": "0500AH/0476AbuIshaqShirazi.TanbihFiFiqhShafici.Shamela0007589-ara1",
+      "chapters": 14,
+      "passages": 585,
+      "translator": ""
+    },
+    {
+      "slug": "minhaj-al-talibin",
+      "host": "openiti",
+      "upstream": "0700AH/0676Nawawi.MinhajTalibin.Shamela0012096-ara1",
+      "chapters": 70,
+      "passages": 1178,
+      "translator": ""
+    },
+    {
+      "slug": "al-waraqat",
+      "host": "openiti",
+      "upstream": "0500AH/0478ImamHaramaynJuwayni.Waraqat.Shamela0006297-ara1",
+      "chapters": 14,
+      "passages": 111,
+      "translator": ""
+    },
+    {
+      "slug": "al-mustasfa",
+      "host": "openiti",
+      "upstream": "0525AH/0505Ghazali.Mustasfa.Shamela0005459-ara1",
+      "chapters": 250,
+      "passages": 2977,
+      "translator": ""
+    },
+    {
+      "slug": "al-ashbah-wa-al-nazair-al-subki",
+      "host": "openiti",
+      "upstream": "0775AH/0771TajDinSubki.AshbahWaNazair.Shamela0008634-ara1.completed",
+      "chapters": 152,
+      "passages": 7653,
+      "translator": ""
+    },
+    {
+      "slug": "umdat-al-fiqh",
+      "host": "openiti",
+      "upstream": "0625AH/0620IbnQudamaMaqdisi.CumdatFiqh.Shamela0011315-ara1",
+      "chapters": 26,
+      "passages": 1095,
+      "translator": ""
+    },
+    {
+      "slug": "rawdat-al-nazir",
+      "host": "openiti",
+      "upstream": "0625AH/0620IbnQudamaMaqdisi.RawdatNazir.Shamela0012010-ara1",
+      "chapters": 197,
+      "passages": 7485,
+      "translator": ""
+    },
+    {
+      "slug": "al-rawd-al-murbi",
+      "host": "openiti",
+      "upstream": "1075AH/1051IbnYunusBuhutiHanbali.RawdMurbic.Shamela0001679-ara1",
+      "chapters": 28,
+      "passages": 2725,
+      "translator": ""
+    },
+    {
+      "slug": "al-siyasa-al-shariyya",
+      "host": "openiti",
+      "upstream": "0750AH/0728IbnTaymiyya.SiyasaSharciyya.Shamela0031237-ara1",
+      "chapters": 25,
+      "passages": 176,
+      "translator": ""
+    },
+    {
+      "slug": "ilam-al-muwaqqiin",
+      "host": "openiti",
+      "upstream": "0775AH/0751IbnQayyimJawziyya.AclamMuwaqqicin.Shamela0011496-ara1",
+      "chapters": 369,
+      "passages": 7977,
+      "translator": ""
+    },
+    {
+      "slug": "al-turuq-al-hukmiyya",
+      "host": "openiti",
+      "upstream": "0775AH/0751IbnQayyimJawziyya.TuruqHukmiyya.Shamela0011495-ara1",
+      "chapters": 100,
+      "passages": 2148,
+      "translator": ""
+    },
+    {
+      "slug": "al-muhalla",
+      "host": "openiti",
+      "upstream": "0475AH/0456IbnHazm.MuhallaBiAthar.Shamela0000767-ara1.completed",
+      "chapters": 64,
+      "passages": 37514,
+      "translator": ""
+    },
+    {
+      "slug": "al-ihkam-fi-usul-al-ahkam-ibn-hazm",
+      "host": "openiti",
+      "upstream": "0475AH/0456IbnHazm.IhkamFiUsulAhkam.Shamela0010432-ara1",
+      "chapters": 88,
+      "passages": 3477,
+      "translator": ""
+    },
+    {
+      "slug": "sharai-al-islam",
+      "host": "openiti",
+      "upstream": "0700AH/0676IbnHasanMuhaqqiqHilli.SharaicIslam.Masaha001030Vols-ara1",
+      "chapters": 59,
+      "passages": 9379,
+      "translator": ""
+    },
+    {
+      "slug": "al-muqnia",
+      "host": "openiti",
+      "upstream": "0425AH/0413ShaykhMufid.Muqnica.Masaha000989-ara1",
+      "chapters": 30,
+      "passages": 4450,
+      "translator": ""
+    },
+    {
+      "slug": "qawaid-al-ahkam",
+      "host": "openiti",
+      "upstream": "0750AH/0726CallamaHilli.QawacidAhkam.Shia000091Vols-ara1.completed",
+      "chapters": 21,
+      "passages": 14271,
+      "translator": ""
+    },
+    {
+      "slug": "al-ihkam-fi-usul-al-ahkam-al-amidi",
+      "host": "openiti",
+      "upstream": "0650AH/0631SayfDinAmidi.IhkamFiUsulAhkam.Shamela0010801-ara1",
+      "chapters": 404,
+      "passages": 9271,
+      "translator": ""
+    },
+    {
+      "slug": "irshad-al-fuhul",
+      "host": "openiti",
+      "upstream": "1275AH/1255Shawkani.IrshadFuhul.JK000152-ara1",
+      "chapters": 23,
+      "passages": 977,
+      "translator": ""
+    },
+    {
+      "slug": "kitab-al-asl",
+      "host": "openiti",
+      "upstream": "0200AH/0189MuhammadShaybani.Asl.Shamela0006164-ara2",
+      "chapters": 16,
+      "passages": 7157,
+      "translator": ""
+    },
+    {
+      "slug": "al-burhan-fi-usul-al-fiqh",
+      "host": "openiti",
+      "upstream": "0500AH/0478ImamHaramaynJuwayni.BurhanFiUsulFiqh.Shamela0007439-ara1",
+      "chapters": 74,
+      "passages": 3967,
+      "translator": ""
+    }
+  ],
+  "failures": [],
+  "totals": {
+    "works": 58,
+    "chapters": 5274,
+    "passages": 527923
+  }
+}

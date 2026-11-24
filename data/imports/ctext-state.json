@@ -1,0 +1,36 @@
+{
+  "version": 1,
+  "done": {
+    "analects": {
+      "slug": "analects-zh",
+      "chapters": 20,
+      "passages": 503,
+      "shelf": "Confucian classics",
+      "at": "2026-10-27T11:03:05.038Z"
+    },
+    "mengzi": {
+      "slug": "mengzi-zh",
+      "chapters": 14,
+      "passages": 690,
+      "shelf": "Confucian classics",
+      "at": "2026-10-27T11:03:05.038Z"
+    },
+    "liji": {
+      "slug": "liji-zh",
+      "chapters": 38,
+      "passages": 1761,
+      "shelf": "Confucian classics",
+      "at": "2026-10-27T11:03:05.038Z"
+    },
+    "dao-de-jing": {
+      "slug": "dao-de-jing-zh",
+      "chapters": 1,
+      "passages": 81,
+      "shelf": "Daoist classics",
+      "at": "2026-10-27T10:34:01.185Z",
+      "note": "Imported and compared: the 81-chapter received text is the classic the library already holds as tao-te-ching (Wang Bi text with Legge's translation), so the ctext record was not kept as a second work."
+    }
+  },
+  "failed": {},
+  "updatedAt": "2026-10-27T11:03:05.038Z"
+}

@@ -4,7 +4,7 @@
 // a page that moved or a heading that stopped being trimmed would silently
 // shift every later reference.
 import { describe, expect, test } from "bun:test";
-import { readFileSync } from "node:fs";
+import { existsSync, readFileSync } from "node:fs";
 import { join } from "node:path";
 
 const ROOT = join(import.meta.dir, "..");
@@ -73,7 +73,10 @@ describe("Shinto: the Kojiki and the Nihongi", () => {
     expect(work.editions[0]!.translator).toBe("William George Aston");
   });
 
-  test.each(WORKS)("%s fits the reviewed pages it was built from", (slug, chapters) => {
+  // The import cache (data/imports/cache) is not in git, so these comparisons
+  // run only where the importer has been run.
+  const hasCache = existsSync(join(ROOT, "data/imports/cache/wikisource-shinto"));
+  test.skipIf(!hasCache).each(WORKS)("%s fits the reviewed pages it was built from", (slug, chapters) => {
     const work = readJson(`data/corpus/works/${slug}.json`) as Work;
     const cache = readJson(`data/imports/cache/wikisource-shinto/${slug}.json`) as {
       provider: string;

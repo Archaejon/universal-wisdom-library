@@ -1,0 +1,40 @@
+{
+  "source": "shinto",
+  "retrieved_at": "2026-11-01",
+  "note": "Catalogue records, chapter outlines and passage indexes only. The Kojiki and the Nihongi are streamed from Wikisource at read time and are not stored in this corpus.",
+  "hosts": [
+    {
+      "id": "wikisource",
+      "name": "Wikisource",
+      "url": "https://en.wikisource.org/",
+      "licence": "public-domain translations"
+    }
+  ],
+  "works": [
+    {
+      "slug": "kojiki",
+      "host": "wikisource",
+      "upstream": "Kojiki: Records of Ancient Matters",
+      "translator": "Basil Hall Chamberlain",
+      "chapters": 180,
+      "passages": 415,
+      "firstChapter": "Section I — The Beginning of Heaven and Earth",
+      "lastChapter": "Section CLXXX — Empress Sui-ko"
+    },
+    {
+      "slug": "nihongi",
+      "host": "wikisource",
+      "upstream": "Nihongi: Chronicles of Japan from the Earliest Times to A.D. 697",
+      "translator": "William George Aston",
+      "chapters": 30,
+      "passages": 4809,
+      "firstChapter": "Book I",
+      "lastChapter": "Book XXX"
+    }
+  ],
+  "totals": {
+    "works": 2,
+    "chapters": 210,
+    "passages": 5224
+  }
+}

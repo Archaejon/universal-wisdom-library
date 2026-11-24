@@ -1,0 +1,2732 @@
+{
+  "version": 1,
+  "source": "ccel",
+  "generatedAt": "2026-10-27T11:55:39.432Z",
+  "note": "The site's author index. Names and dates are the Christian Classics Ethereal Library's own; a person is added to the corpus by a separate editorial pass, not by the importer.",
+  "authors": [
+    {
+      "slug": "aaberg",
+      "label": "Aaberg, Jens Christian",
+      "dates": "1877-1970",
+      "works": 1
+    },
+    {
+      "slug": "abelard",
+      "label": "Abelard, Peter",
+      "dates": "1079-1142",
+      "works": 1
+    },
+    {
+      "slug": "addison",
+      "label": "Addison, Joseph",
+      "dates": "1672-1719",
+      "works": 1
+    },
+    {
+      "slug": "adeney",
+      "label": "Adeney, Walter Frederic",
+      "dates": "1849-1920",
+      "works": 2
+    },
+    {
+      "slug": "albert",
+      "label": "Albert, the Great, Saint",
+      "dates": "1193?-1280",
+      "works": 1
+    },
+    {
+      "slug": "alexander_alexandria",
+      "label": "Alexander of Alexandria, Pope",
+      "dates": "",
+      "works": 1
+    },
+    {
+      "slug": "alexander_capp",
+      "label": "Alexander of Cappadocia and Jerusalem",
+      "dates": "?-251",
+      "works": 1
+    },
+    {
+      "slug": "alexander_lyc",
+      "label": "Alexander of Lycopolis",
+      "dates": "",
+      "works": 1
+    },
+    {
+      "slug": "alexander_a",
+      "label": "Alexander, Archibald",
+      "dates": "1772-1851",
+      "works": 3
+    },
+    {
+      "slug": "alexander_jw",
+      "label": "Alexander, James Waddell",
+      "dates": "1804–1859",
+      "works": 1
+    },
+    {
+      "slug": "alexander_w",
+      "label": "Alexander, William",
+      "dates": "1824-1911",
+      "works": 1
+    },
+    {
+      "slug": "dante",
+      "label": "Alighieri, Dante",
+      "dates": "1265-1321",
+      "works": 1
+    },
+    {
+      "slug": "allen_j",
+      "label": "Allen, James",
+      "dates": "1864-1912",
+      "works": 1
+    },
+    {
+      "slug": "allestree",
+      "label": "Allestree, Richard",
+      "dates": "1619-1681",
+      "works": 2
+    },
+    {
+      "slug": "alphonsus",
+      "label": "Alphonsus de Liguori, Saint",
+      "dates": "1696-1787",
+      "works": 2
+    },
+    {
+      "slug": "ambrose",
+      "label": "Ambrose",
+      "dates": "c.337-304 - 397",
+      "works": 0
+    },
+    {
+      "slug": "anatolius",
+      "label": "Anatolius of Laodicea, St.",
+      "dates": "?-283",
+      "works": 1
+    },
+    {
+      "slug": "anderson",
+      "label": "Anderson, Tony Marshall",
+      "dates": "1888-1979",
+      "works": 1
+    },
+    {
+      "slug": "andrewes",
+      "label": "Andrewes, Lancelot",
+      "dates": "1555-1626",
+      "works": 1
+    },
+    {
+      "slug": "anonymous2",
+      "label": "Anonymous",
+      "dates": "14th c. English",
+      "works": 1
+    },
+    {
+      "slug": "anselm",
+      "label": "Anselm, Saint, Archbishop of Canterbury",
+      "dates": "1033-1109",
+      "works": 3
+    },
+    {
+      "slug": "aphrahat",
+      "label": "Aphrahat",
+      "dates": "",
+      "works": 0
+    },
+    {
+      "slug": "archelaus",
+      "label": "Archelaus, Bishop of Caschar",
+      "dates": "",
+      "works": 1
+    },
+    {
+      "slug": "aristides",
+      "label": "aristides",
+      "dates": "",
+      "works": 1
+    },
+    {
+      "slug": "arminius",
+      "label": "Arminius, Jacobus",
+      "dates": "1560-1609",
+      "works": 3
+    },
+    {
+      "slug": "arndt",
+      "label": "Arndt, Johann",
+      "dates": "1555-1621",
+      "works": 1
+    },
+    {
+      "slug": "arnobius",
+      "label": "Arnobius of Sicca",
+      "dates": "",
+      "works": 1
+    },
+    {
+      "slug": "asterius",
+      "label": "Asterius Urbanus",
+      "dates": "",
+      "works": 1
+    },
+    {
+      "slug": "athanasius",
+      "label": "Athanasius, Saint",
+      "dates": "c. 297-373",
+      "works": 3
+    },
+    {
+      "slug": "athenagoras",
+      "label": "Athenagoras of Athens",
+      "dates": "c.133-c.190",
+      "works": 2
+    },
+    {
+      "slug": "augustine",
+      "label": "Augustine, Saint (354-430)",
+      "dates": "13 classics",
+      "works": 4
+    },
+    {
+      "slug": "bacon_lw",
+      "label": "Bacon, Leonard Woolsey",
+      "dates": "1830-1907",
+      "works": 1
+    },
+    {
+      "slug": "baird",
+      "label": "Baird, Henry M.",
+      "dates": "1832-1906",
+      "works": 1
+    },
+    {
+      "slug": "baker",
+      "label": "Baker, Augustine",
+      "dates": "1517-1641",
+      "works": 2
+    },
+    {
+      "slug": "baker_r",
+      "label": "Baker, Richard",
+      "dates": "",
+      "works": 1
+    },
+    {
+      "slug": "ball",
+      "label": "Ball, Charles James",
+      "dates": "1851-1924",
+      "works": 1
+    },
+    {
+      "slug": "bangs",
+      "label": "Bangs, Nathan",
+      "dates": "1778-1862",
+      "works": 5
+    },
+    {
+      "slug": "barclay",
+      "label": "Barclay, Robert",
+      "dates": "1648-1690",
+      "works": 1
+    },
+    {
+      "slug": "barnabas",
+      "label": "Barnabas",
+      "dates": "c. 70-135",
+      "works": 0
+    },
+    {
+      "slug": "barnes",
+      "label": "Barnes, Albert (1798-1870)",
+      "dates": "20 classics",
+      "works": 20
+    },
+    {
+      "slug": "bartleman",
+      "label": "Bartleman, Frank (1871-1935)",
+      "dates": "7 classics",
+      "works": 7
+    },
+    {
+      "slug": "basil",
+      "label": "Basil the Great",
+      "dates": "",
+      "works": 0
+    },
+    {
+      "slug": "bavinck",
+      "label": "Bavinck, Herman",
+      "dates": "1854-1921",
+      "works": 1
+    },
+    {
+      "slug": "baxter",
+      "label": "Baxter, Richard",
+      "dates": "1615-1691",
+      "works": 5
+    },
+    {
+      "slug": "bayly",
+      "label": "Bayly, Lewis",
+      "dates": "1565-1631",
+      "works": 1
+    },
+    {
+      "slug": "bede",
+      "label": "Bede, St.",
+      "dates": "\"The Venerable,\" c. 673-735",
+      "works": 1
+    },
+    {
+      "slug": "benedict",
+      "label": "Benedict, Saint, of Nursia",
+      "dates": "480-547",
+      "works": 1
+    },
+    {
+      "slug": "bennett",
+      "label": "Bennett, William H.",
+      "dates": "1855-1920",
+      "works": 2
+    },
+    {
+      "slug": "benson",
+      "label": "Benson, Louis Fitzgerald",
+      "dates": "",
+      "works": 1
+    },
+    {
+      "slug": "bentley",
+      "label": "Bentley, Richard",
+      "dates": "1662-1742",
+      "works": 1
+    },
+    {
+      "slug": "berkhof",
+      "label": "Berkhof, Louis",
+      "dates": "1873-1957",
+      "works": 3
+    },
+    {
+      "slug": "bernard",
+      "label": "Bernard, of Clairvaux, Saint",
+      "dates": "1090-1153",
+      "works": 3
+    },
+    {
+      "slug": "beth",
+      "label": "Beth, Karl",
+      "dates": "1872-1959",
+      "works": 1
+    },
+    {
+      "slug": "bett",
+      "label": "Bett, Henry",
+      "dates": "1876–1953",
+      "works": 1
+    },
+    {
+      "slug": "bevan",
+      "label": "Bevan, Frances",
+      "dates": "1827-1909",
+      "works": 4
+    },
+    {
+      "slug": "beveridge_w",
+      "label": "Beveridge, William",
+      "dates": "1637-1708",
+      "works": 2
+    },
+    {
+      "slug": "blaikie",
+      "label": "Blaikie, W. G.",
+      "dates": "1820-1899",
+      "works": 3
+    },
+    {
+      "slug": "blois",
+      "label": "Blois, Louis of",
+      "dates": "1506-1566",
+      "works": 3
+    },
+    {
+      "slug": "boehme",
+      "label": "Boehme, Jakob",
+      "dates": "1575-1624",
+      "works": 2
+    },
+    {
+      "slug": "boethius",
+      "label": "Boethius, Anicius Manlius Torquatus Severinus",
+      "dates": "480-524",
+      "works": 3
+    },
+    {
+      "slug": "boettner",
+      "label": "Boettner, Loraine",
+      "dates": "1901-1990",
+      "works": 2
+    },
+    {
+      "slug": "bonar",
+      "label": "Bonar, Horatius",
+      "dates": "1808-1889",
+      "works": 2
+    },
+    {
+      "slug": "bonaventure",
+      "label": "Bonaventura, St.",
+      "dates": "Giovanni di Fidanza, 1221-1274",
+      "works": 1
+    },
+    {
+      "slug": "borthwick",
+      "label": "Borthwick, Jane",
+      "dates": "1813-1897",
+      "works": 1
+    },
+    {
+      "slug": "boston",
+      "label": "Boston, Thomas",
+      "dates": "1677-1732",
+      "works": 1
+    },
+    {
+      "slug": "bounds",
+      "label": "Bounds, Edward M. (1835-1913)",
+      "dates": "7 classics",
+      "works": 7
+    },
+    {
+      "slug": "boyce",
+      "label": "Boyce, James Petigru",
+      "dates": "1827-1888",
+      "works": 1
+    },
+    {
+      "slug": "bradford",
+      "label": "Bradford, John",
+      "dates": "1510-1555",
+      "works": 2
+    },
+    {
+      "slug": "vanbraght",
+      "label": "Braght, Thieleman J. van (Thieleman Janszoon)",
+      "dates": "1625-1664",
+      "works": 1
+    },
+    {
+      "slug": "bramley",
+      "label": "Bramley, Henry Ramsden, M.A.",
+      "dates": "",
+      "works": 1
+    },
+    {
+      "slug": "brannan",
+      "label": "Brannan, Rick",
+      "dates": "",
+      "works": 1
+    },
+    {
+      "slug": "brenton",
+      "label": "Brenton, Lancelot Charles Lee, Sir",
+      "dates": "1807-1862",
+      "works": 1
+    },
+    {
+      "slug": "brown_d",
+      "label": "Brown, David",
+      "dates": "1803-1897",
+      "works": 0
+    },
+    {
+      "slug": "browne",
+      "label": "Browne, Sir Thomas",
+      "dates": "1605-1682",
+      "works": 2
+    },
+    {
+      "slug": "brownlie",
+      "label": "Brownlie, John (1857-1925)",
+      "dates": "10 classics",
+      "works": 10
+    },
+    {
+      "slug": "bruce",
+      "label": "Bruce, Alexander Balmain",
+      "dates": "1831-1899",
+      "works": 1
+    },
+    {
+      "slug": "bullinger",
+      "label": "Bullinger, Ethelbert William",
+      "dates": "1837-1913",
+      "works": 1
+    },
+    {
+      "slug": "bunyan",
+      "label": "Bunyan, John",
+      "dates": "1628-1688",
+      "works": 5
+    },
+    {
+      "slug": "burgon",
+      "label": "Burgon, John William",
+      "dates": "1813-1888",
+      "works": 3
+    },
+    {
+      "slug": "burton",
+      "label": "Burton, Henry",
+      "dates": "1840-?",
+      "works": 1
+    },
+    {
+      "slug": "bushnell",
+      "label": "Bushnell, Horace",
+      "dates": "1802-1876",
+      "works": 5
+    },
+    {
+      "slug": "butler",
+      "label": "Butler, Joseph",
+      "dates": "1692-1752",
+      "works": 2
+    },
+    {
+      "slug": "caius",
+      "label": "Caius, Presbyter of Rome",
+      "dates": "",
+      "works": 1
+    },
+    {
+      "slug": "calvin",
+      "label": "Calvin, John (1509-1564)",
+      "dates": "54 classics",
+      "works": 52
+    },
+    {
+      "slug": "campbell",
+      "label": "Campbell, John McLeod",
+      "dates": "1800-1872",
+      "works": 2
+    },
+    {
+      "slug": "cassian",
+      "label": "Cassian, John",
+      "dates": "360-435",
+      "works": 1
+    },
+    {
+      "slug": "catherine_g",
+      "label": "Catherine of Genoa, St.",
+      "dates": "1447-1510",
+      "works": 1
+    },
+    {
+      "slug": "catherine",
+      "label": "Catherine of Siena, St.",
+      "dates": "1347-1380",
+      "works": 1
+    },
+    {
+      "slug": "chadwick",
+      "label": "Chadwick, George Alexander",
+      "dates": "1840-1923",
+      "works": 2
+    },
+    {
+      "slug": "challoner",
+      "label": "Challoner, Richard",
+      "dates": "1691-1781",
+      "works": 0
+    },
+    {
+      "slug": "charles",
+      "label": "Charles, Robert. Henry",
+      "dates": "1855-1931",
+      "works": 1
+    },
+    {
+      "slug": "charnock",
+      "label": "Charnock, Stephen (1628-1680)",
+      "dates": "6 classics",
+      "works": 6
+    },
+    {
+      "slug": "chatfield",
+      "label": "Chatfield, Allen W.",
+      "dates": "1808-1896",
+      "works": 1
+    },
+    {
+      "slug": "chesterton",
+      "label": "Chesterton, Gilbert Keith (1874-1936)",
+      "dates": "27 classics",
+      "works": 25
+    },
+    {
+      "slug": "ccel",
+      "label": "Christian Classics Ethereal Library",
+      "dates": "1993-",
+      "works": 2
+    },
+    {
+      "slug": "chrysostom",
+      "label": "Chrysostom, John, St. (c. 347-407)",
+      "dates": "9 classics",
+      "works": 0
+    },
+    {
+      "slug": "cofe",
+      "label": "Church of England",
+      "dates": "",
+      "works": 0
+    },
+    {
+      "slug": "clarke",
+      "label": "Clarke, Adam C.",
+      "dates": "1760-1832",
+      "works": 1
+    },
+    {
+      "slug": "clarke_s",
+      "label": "Clarke, Samuel",
+      "dates": "1675-1729",
+      "works": 0
+    },
+    {
+      "slug": "clarkson",
+      "label": "Clarkson, David",
+      "dates": "1622-1682",
+      "works": 1
+    },
+    {
+      "slug": "clement_alex",
+      "label": "Clement of Alexandria",
+      "dates": "c.150-c.215",
+      "works": 5
+    },
+    {
+      "slug": "clement_rome",
+      "label": "Clement of Rome, St.",
+      "dates": "?-99",
+      "works": 4
+    },
+    {
+      "slug": "coleridge",
+      "label": "Coleridge, Samuel Taylor",
+      "dates": "1772-1834",
+      "works": 1
+    },
+    {
+      "slug": "collins",
+      "label": "Collins, An",
+      "dates": "",
+      "works": 1
+    },
+    {
+      "slug": "commodianus",
+      "label": "Commodianus",
+      "dates": "",
+      "works": 1
+    },
+    {
+      "slug": "conybeare",
+      "label": "Conybeare, Frederick Cornwallis",
+      "dates": "1856-1924",
+      "works": 1
+    },
+    {
+      "slug": "cook_fc",
+      "label": "Cook, Frederick Charles",
+      "dates": "1810-1889",
+      "works": 3
+    },
+    {
+      "slug": "cook",
+      "label": "Cook, Harriet N.",
+      "dates": "1814-1843",
+      "works": 0
+    },
+    {
+      "slug": "cotton_john",
+      "label": "Cotton, John",
+      "dates": "1585–1652",
+      "works": 1
+    },
+    {
+      "slug": "cowper",
+      "label": "Cowper, William",
+      "dates": "1731-1800",
+      "works": 1
+    },
+    {
+      "slug": "cox",
+      "label": "Cox, Frances Elizabeth",
+      "dates": "",
+      "works": 2
+    },
+    {
+      "slug": "cox_s",
+      "label": "Cox, Samuel",
+      "dates": "1826-1893",
+      "works": 1
+    },
+    {
+      "slug": "cranmer",
+      "label": "Cranmer, Thomas",
+      "dates": "1489-1556",
+      "works": 1
+    },
+    {
+      "slug": "crosby",
+      "label": "Crosby, Thomas",
+      "dates": "1840-1914",
+      "works": 1
+    },
+    {
+      "slug": "cross_g",
+      "label": "Cross, George",
+      "dates": "1862-1929",
+      "works": 1
+    },
+    {
+      "slug": "cyprian",
+      "label": "Cyprian, St.",
+      "dates": "c.200-258",
+      "works": 4
+    },
+    {
+      "slug": "cyril",
+      "label": "Cyril of Alexandria, St.",
+      "dates": "c. 378 - 444",
+      "works": 2
+    },
+    {
+      "slug": "cyril_jer",
+      "label": "Cyril of Jerusalem",
+      "dates": "",
+      "works": 0
+    },
+    {
+      "slug": "darby",
+      "label": "Darby, John Nelson",
+      "dates": "1800-1882",
+      "works": 1
+    },
+    {
+      "slug": "daubney",
+      "label": "Daubney, William Heaford",
+      "dates": "",
+      "works": 1
+    },
+    {
+      "slug": "decaussade",
+      "label": "de Caussade, Jean-Pierre, S.J.",
+      "dates": "1675-1751",
+      "works": 1
+    },
+    {
+      "slug": "deane",
+      "label": "Deane, William John",
+      "dates": "1823-1895",
+      "works": 1
+    },
+    {
+      "slug": "declan",
+      "label": "Declan of Ardmore, St.",
+      "dates": "5th cent.",
+      "works": 1
+    },
+    {
+      "slug": "defoe",
+      "label": "Defoe, Daniel",
+      "dates": "1660-1731",
+      "works": 1
+    },
+    {
+      "slug": "denney",
+      "label": "Denney, James",
+      "dates": "1856-1917",
+      "works": 3
+    },
+    {
+      "slug": "dick_j",
+      "label": "Dick, John",
+      "dates": "1764-1833",
+      "works": 1
+    },
+    {
+      "slug": "dickinson",
+      "label": "Dickinson, Edward",
+      "dates": "",
+      "works": 1
+    },
+    {
+      "slug": "dionysius",
+      "label": "Dionysius, the Pseudo-Areopagite (c.650—c. 725)",
+      "dates": "6 classics",
+      "works": 5
+    },
+    {
+      "slug": "doddridge",
+      "label": "Doddridge, Philip",
+      "dates": "1702-1751",
+      "works": 2
+    },
+    {
+      "slug": "dods",
+      "label": "Dods, Marcus",
+      "dates": "1834-1909",
+      "works": 5
+    },
+    {
+      "slug": "donne",
+      "label": "Donne, John",
+      "dates": "1572-1631",
+      "works": 4
+    },
+    {
+      "slug": "dore",
+      "label": "dore",
+      "dates": "",
+      "works": 1
+    },
+    {
+      "slug": "dostoevsky",
+      "label": "Dostoevsky, Fyodor",
+      "dates": "1821-1881",
+      "works": 3
+    },
+    {
+      "slug": "drummond",
+      "label": "Drummond, Henry (1851-1897)",
+      "dates": "9 classics",
+      "works": 9
+    },
+    {
+      "slug": "easton",
+      "label": "Easton, Matthew George",
+      "dates": "1823-1894",
+      "works": 1
+    },
+    {
+      "slug": "eckhart",
+      "label": "Eckhart, Johannes",
+      "dates": "c. 1260-1327",
+      "works": 2
+    },
+    {
+      "slug": "edersheim",
+      "label": "Edersheim, Alfred",
+      "dates": "1825-1889",
+      "works": 3
+    },
+    {
+      "slug": "edmundson",
+      "label": "Edmundson, George",
+      "dates": "1849-1930",
+      "works": 1
+    },
+    {
+      "slug": "edwards",
+      "label": "Edwards, Jonathan (1703-1758)",
+      "dates": "7 classics",
+      "works": 7
+    },
+    {
+      "slug": "edwards_tc",
+      "label": "Edwards, Thomas Charles",
+      "dates": "1837-1900",
+      "works": 1
+    },
+    {
+      "slug": "emmerich",
+      "label": "Emmerich, Anne Catherine",
+      "dates": "1774-1824",
+      "works": 2
+    },
+    {
+      "slug": "encyc_brit",
+      "label": "Enyclopaedia Britannica",
+      "dates": "1885, 1911",
+      "works": 1
+    },
+    {
+      "slug": "erasmus",
+      "label": "Erasmus, Desiderius",
+      "dates": "c. 1466-1536",
+      "works": 3
+    },
+    {
+      "slug": "eucherius",
+      "label": "Eucherius of Lyons, St.",
+      "dates": "d. c. 449",
+      "works": 2
+    },
+    {
+      "slug": "eusebius",
+      "label": "Eusebius Pamphilius",
+      "dates": "",
+      "works": 0
+    },
+    {
+      "slug": "farrar",
+      "label": "Farrar, Frederic William",
+      "dates": "1831-1903",
+      "works": 4
+    },
+    {
+      "slug": "fausset_ar",
+      "label": "Fausset, Andrew Robert",
+      "dates": "1821-1910",
+      "works": 0
+    },
+    {
+      "slug": "felix",
+      "label": "felix",
+      "dates": "",
+      "works": 1
+    },
+    {
+      "slug": "feltoe",
+      "label": "Feltoe, Charles Lett, D.D.",
+      "dates": "",
+      "works": 1
+    },
+    {
+      "slug": "fenelon",
+      "label": "Fénelon, François de Salignac de la Mothe",
+      "dates": "1651-1715",
+      "works": 3
+    },
+    {
+      "slug": "findlay",
+      "label": "Findlay, George Gillanders",
+      "dates": "1849-1919",
+      "works": 2
+    },
+    {
+      "slug": "finney",
+      "label": "Finney, Charles Grandison (1792-1875)",
+      "dates": "8 classics",
+      "works": 6
+    },
+    {
+      "slug": "fisher_e",
+      "label": "Fisher, Edward",
+      "dates": "1627-1655",
+      "works": 1
+    },
+    {
+      "slug": "fisher",
+      "label": "Fisher, George Park",
+      "dates": "1827-1909",
+      "works": 0
+    },
+    {
+      "slug": "flavel",
+      "label": "Flavel, John (1627-1691)",
+      "dates": "6 classics",
+      "works": 6
+    },
+    {
+      "slug": "follette",
+      "label": "Follette, John Wright",
+      "dates": "1883-1966",
+      "works": 2
+    },
+    {
+      "slug": "forsyth",
+      "label": "Forsyth, Peter Taylor",
+      "dates": "1848-1921",
+      "works": 2
+    },
+    {
+      "slug": "fosdick",
+      "label": "Fosdick, Harry Emerson",
+      "dates": "1878-1969",
+      "works": 1
+    },
+    {
+      "slug": "fox_g",
+      "label": "Fox, George",
+      "dates": "1624-1691",
+      "works": 1
+    },
+    {
+      "slug": "foxe",
+      "label": "Foxe, John",
+      "dates": "1516-1587",
+      "works": 1
+    },
+    {
+      "slug": "desales",
+      "label": "Francis of Sales, St.",
+      "dates": "1567-1622",
+      "works": 2
+    },
+    {
+      "slug": "pfeiffer",
+      "label": "Franz Pfieffer",
+      "dates": "",
+      "works": 1
+    },
+    {
+      "slug": "fudge",
+      "label": "Fudge, Edward",
+      "dates": "1944-",
+      "works": 1
+    },
+    {
+      "slug": "fuller",
+      "label": "Fuller, Thomas",
+      "dates": "1608-1661",
+      "works": 2
+    },
+    {
+      "slug": "gardner",
+      "label": "Gardner, Edmund Garratt",
+      "dates": "1869-1935",
+      "works": 1
+    },
+    {
+      "slug": "garrison",
+      "label": "Garrison, Winfred Ernest",
+      "dates": "1874-1969",
+      "works": 1
+    },
+    {
+      "slug": "gennadius",
+      "label": "Gennadius",
+      "dates": "?- 471",
+      "works": 0
+    },
+    {
+      "slug": "kelly",
+      "label": "Gerhardt, Paul",
+      "dates": "1607-1676",
+      "works": 1
+    },
+    {
+      "slug": "gerson",
+      "label": "Gerson, Jean le Charlier de",
+      "dates": "1363-1429",
+      "works": 1
+    },
+    {
+      "slug": "gibbon",
+      "label": "Gibbon, Edward",
+      "dates": "1737-1794",
+      "works": 2
+    },
+    {
+      "slug": "gibson",
+      "label": "Gibson, John Monro",
+      "dates": "1838-1921",
+      "works": 1
+    },
+    {
+      "slug": "gill",
+      "label": "Gill, John",
+      "dates": "1697-1771",
+      "works": 3
+    },
+    {
+      "slug": "goodwin_cw",
+      "label": "Goodwin, Charles Wycliffe",
+      "dates": "1817–1878",
+      "works": 0
+    },
+    {
+      "slug": "goodwin",
+      "label": "Goodwin, William Watson",
+      "dates": "1831-1912",
+      "works": 0
+    },
+    {
+      "slug": "gordon",
+      "label": "Gordon, Samuel Dickey (1859-1936)",
+      "dates": "8 classics",
+      "works": 8
+    },
+    {
+      "slug": "graebner_tc",
+      "label": "Graebner, Theodore Conrad",
+      "dates": "1876-1950",
+      "works": 0
+    },
+    {
+      "slug": "gray_jm",
+      "label": "Gray, James",
+      "dates": "1851-1935",
+      "works": 2
+    },
+    {
+      "slug": "gregory",
+      "label": "Gregory I, St.",
+      "dates": "c. 540-604",
+      "works": 1
+    },
+    {
+      "slug": "gregory_naz",
+      "label": "Gregory of Nazianzen",
+      "dates": "",
+      "works": 0
+    },
+    {
+      "slug": "gregory_thau",
+      "label": "Gregory Thaumaturgus",
+      "dates": "c.213-c.270",
+      "works": 2
+    },
+    {
+      "slug": "griffin",
+      "label": "Griffin, George",
+      "dates": "1778-1869",
+      "works": 1
+    },
+    {
+      "slug": "grimm",
+      "label": "Grimm, Carl Ludwig Wilibald",
+      "dates": "1807-1891",
+      "works": 1
+    },
+    {
+      "slug": "groom",
+      "label": "Groom, William M.",
+      "dates": "",
+      "works": 1
+    },
+    {
+      "slug": "grotius",
+      "label": "Grotius, Hugo",
+      "dates": "1583-1645",
+      "works": 0
+    },
+    {
+      "slug": "gurnall",
+      "label": "Gurnall, William",
+      "dates": "1617-1679",
+      "works": 1
+    },
+    {
+      "slug": "guthrie",
+      "label": "Guthrie, William",
+      "dates": "1620-1665",
+      "works": 1
+    },
+    {
+      "slug": "guyon",
+      "label": "Guyon, Madame Jeanne Marie Bouvier de la Mothe (1647-1717)",
+      "dates": "8 classics",
+      "works": 4
+    },
+    {
+      "slug": "habermann",
+      "label": "Habermann, Johann",
+      "dates": "1516–1590",
+      "works": 1
+    },
+    {
+      "slug": "handel",
+      "label": "Handel, George Frideric",
+      "dates": "1685-1759",
+      "works": 1
+    },
+    {
+      "slug": "harnack",
+      "label": "Harnack, Adolf (1851-1930)",
+      "dates": "14 classics",
+      "works": 13
+    },
+    {
+      "slug": "haroutunian",
+      "label": "Haroutunian, Joseph",
+      "dates": "1904-1968",
+      "works": 0
+    },
+    {
+      "slug": "harper",
+      "label": "Harper, Andrew",
+      "dates": "1844-1936",
+      "works": 1
+    },
+    {
+      "slug": "hastings",
+      "label": "Hastings, James (1852-1922)",
+      "dates": "6 classics",
+      "works": 6
+    },
+    {
+      "slug": "havergal",
+      "label": "Havergal, Frances Ridley",
+      "dates": "1836-1879",
+      "works": 1
+    },
+    {
+      "slug": "henry",
+      "label": "Henry, Matthew (1662-1714)",
+      "dates": "8 classics",
+      "works": 8
+    },
+    {
+      "slug": "herbermann",
+      "label": "Herbermann, Charles George (1840-1916)",
+      "dates": "16 classics",
+      "works": 16
+    },
+    {
+      "slug": "herbert",
+      "label": "Herbert, George",
+      "dates": "1593-1633",
+      "works": 1
+    },
+    {
+      "slug": "hermas",
+      "label": "hermas",
+      "dates": "",
+      "works": 1
+    },
+    {
+      "slug": "hewitt",
+      "label": "Hewitt, Theodore Brown",
+      "dates": "",
+      "works": 1
+    },
+    {
+      "slug": "hilary_poit",
+      "label": "Hilary of Poitiers, St.",
+      "dates": "c. 300-368",
+      "works": 0
+    },
+    {
+      "slug": "hilton",
+      "label": "Hilton, Walter",
+      "dates": "d. 1396",
+      "works": 3
+    },
+    {
+      "slug": "hippolytus",
+      "label": "Hippolytus of Rome",
+      "dates": "170-235",
+      "works": 2
+    },
+    {
+      "slug": "hitchcock",
+      "label": "Hitchcock, Roswell D.",
+      "dates": "1817-1887",
+      "works": 1
+    },
+    {
+      "slug": "hoadly",
+      "label": "Hoadly, Benjamin",
+      "dates": "1676-1761",
+      "works": 1
+    },
+    {
+      "slug": "hodge",
+      "label": "Hodge, Charles (1797-1878)",
+      "dates": "6 classics",
+      "works": 6
+    },
+    {
+      "slug": "hooker",
+      "label": "Hooker, Richard",
+      "dates": "c. 1554-1600",
+      "works": 4
+    },
+    {
+      "slug": "hopkins_samuel",
+      "label": "Hopkins, Samuel",
+      "dates": "1721-1803",
+      "works": 3
+    },
+    {
+      "slug": "hort",
+      "label": "Hort, Fenton John Anthony",
+      "dates": "1828-1892",
+      "works": 2
+    },
+    {
+      "slug": "horton",
+      "label": "Horton, Robert Forman",
+      "dates": "1855-1934",
+      "works": 1
+    },
+    {
+      "slug": "hoskier",
+      "label": "Hoskier, Herman Charles",
+      "dates": "1864-1938",
+      "works": 2
+    },
+    {
+      "slug": "howe_john",
+      "label": "Howe, John",
+      "dates": "1630-1705",
+      "works": 4
+    },
+    {
+      "slug": "hutcheson",
+      "label": "Hutcheson, Stephen",
+      "dates": "",
+      "works": 2
+    },
+    {
+      "slug": "hutton",
+      "label": "Hutton, J. E.",
+      "dates": "",
+      "works": 1
+    },
+    {
+      "slug": "ignatius_antioch",
+      "label": "Ignatius of Antioch",
+      "dates": "c.35-c.107",
+      "works": 4
+    },
+    {
+      "slug": "ignatius",
+      "label": "Ignatius of Loyola, St",
+      "dates": "1491-1556",
+      "works": 2
+    },
+    {
+      "slug": "inge",
+      "label": "Inge, William Ralph",
+      "dates": "1860-1954",
+      "works": 3
+    },
+    {
+      "slug": "iecm",
+      "label": "International Evangelical and Colportage Mission of Algoma and the Northwest",
+      "dates": "",
+      "works": 1
+    },
+    {
+      "slug": "irenaeus",
+      "label": "Irenaeus, St. (c.130-c.200)",
+      "dates": "7 classics",
+      "works": 7
+    },
+    {
+      "slug": "jacob_behmen",
+      "label": "Jacob Behmen",
+      "dates": "",
+      "works": 1
+    },
+    {
+      "slug": "james",
+      "label": "James, William",
+      "dates": "1842-1910",
+      "works": 1
+    },
+    {
+      "slug": "jamieson",
+      "label": "Jamieson, Robert",
+      "dates": "1802-1880",
+      "works": 1
+    },
+    {
+      "slug": "jenyns",
+      "label": "Jenyns, Soame",
+      "dates": "1704-1787",
+      "works": 3
+    },
+    {
+      "slug": "jerome",
+      "label": "Jerome, St.",
+      "dates": "c. 345-420",
+      "works": 0
+    },
+    {
+      "slug": "damascus",
+      "label": "John of Damascus, St.",
+      "dates": "c. 675-749",
+      "works": 1
+    },
+    {
+      "slug": "john_cross",
+      "label": "John of the Cross, St.",
+      "dates": "1542-1591",
+      "works": 3
+    },
+    {
+      "slug": "johnson_bw",
+      "label": "Johnson, Barton Warren",
+      "dates": "1833-1894",
+      "works": 2
+    },
+    {
+      "slug": "josephus",
+      "label": "Josephus, Flavius",
+      "dates": "37- c. 100",
+      "works": 2
+    },
+    {
+      "slug": "jowett_b",
+      "label": "Jowett, Benjamin",
+      "dates": "1817-1893",
+      "works": 4
+    },
+    {
+      "slug": "jowett",
+      "label": "Jowett, John Henry (1864-1923)",
+      "dates": "7 classics",
+      "works": 7
+    },
+    {
+      "slug": "julian",
+      "label": "Julian of Norwich",
+      "dates": "c. 1342-c. 1413",
+      "works": 2
+    },
+    {
+      "slug": "julian_j",
+      "label": "Julian, John D.",
+      "dates": "1839-1913",
+      "works": 2
+    },
+    {
+      "slug": "juliusafricanus",
+      "label": "Julius Africanus, Sextus",
+      "dates": "c.160-c.240",
+      "works": 2
+    },
+    {
+      "slug": "justin_martyr",
+      "label": "justin_martyr",
+      "dates": "9 classics",
+      "works": 9
+    },
+    {
+      "slug": "keble",
+      "label": "Keble, John",
+      "dates": "1792-1866",
+      "works": 1
+    },
+    {
+      "slug": "kellogg",
+      "label": "Kellogg, S. H.",
+      "dates": "1839-1899",
+      "works": 1
+    },
+    {
+      "slug": "kierkegaard",
+      "label": "Kierkegaard, Soren",
+      "dates": "1813-1855",
+      "works": 2
+    },
+    {
+      "slug": "knox",
+      "label": "Knox, John",
+      "dates": "c. 1505-1572",
+      "works": 4
+    },
+    {
+      "slug": "kuyper",
+      "label": "Kuyper, Abraham (1837-1920)",
+      "dates": "7 classics",
+      "works": 6
+    },
+    {
+      "slug": "lacombe",
+      "label": "LaCombe, Pere",
+      "dates": "?-1699",
+      "works": 0
+    },
+    {
+      "slug": "lagrange",
+      "label": "Lagrange, Marie Joseph",
+      "dates": "1855-1938",
+      "works": 0
+    },
+    {
+      "slug": "lake",
+      "label": "Lake, Kirsopp",
+      "dates": "1872-1946",
+      "works": 0
+    },
+    {
+      "slug": "lardner_n",
+      "label": "Lardner, Nathaniel",
+      "dates": "1684-1768",
+      "works": 1
+    },
+    {
+      "slug": "latimer",
+      "label": "Latimer, Hugh",
+      "dates": "1485-1555",
+      "works": 1
+    },
+    {
+      "slug": "law",
+      "label": "Law, William (1686-1761)",
+      "dates": "12 classics",
+      "works": 12
+    },
+    {
+      "slug": "lawrence",
+      "label": "Lawrence, Brother",
+      "dates": "Nicholas Herman, c. 1605-1691",
+      "works": 1
+    },
+    {
+      "slug": "leo",
+      "label": "Leo I, Pope",
+      "dates": "c.400-461",
+      "works": 0
+    },
+    {
+      "slug": "leupold",
+      "label": "Leupold, Herbert Carl",
+      "dates": "1892-1972",
+      "works": 1
+    },
+    {
+      "slug": "lewis_he",
+      "label": "Lewis, Howell Elvet",
+      "dates": "1860-1953",
+      "works": 1
+    },
+    {
+      "slug": "lightfoot",
+      "label": "Lightfoot, John",
+      "dates": "1602-1675",
+      "works": 2
+    },
+    {
+      "slug": "lindsay",
+      "label": "Lindsay, Thomas Martin",
+      "dates": "1843-1914",
+      "works": 1
+    },
+    {
+      "slug": "longfellow_s",
+      "label": "Longfellow, Samuel",
+      "dates": "1819-1892",
+      "works": 1
+    },
+    {
+      "slug": "lactantius",
+      "label": "Lucius Caecilius Firmianus Lactantius",
+      "dates": "c.240-c.320",
+      "works": 5
+    },
+    {
+      "slug": "luckock_h",
+      "label": "Luckock, Herbert Mortimer, 1833-1909",
+      "dates": "",
+      "works": 1
+    },
+    {
+      "slug": "lumby",
+      "label": "Lumby, Joseph Rawson",
+      "dates": "1831-1895",
+      "works": 1
+    },
+    {
+      "slug": "luther",
+      "label": "Luther, Martin (1483-1546)",
+      "dates": "15 classics",
+      "works": 15
+    },
+    {
+      "slug": "macdonald",
+      "label": "MacDonald, George (1824-1905)",
+      "dates": "34 classics",
+      "works": 34
+    },
+    {
+      "slug": "mackenna",
+      "label": "MacKenna, Stephen",
+      "dates": "",
+      "works": 0
+    },
+    {
+      "slug": "maclaren",
+      "label": "MacLaren, Alexander (1826-1910)",
+      "dates": "19 classics",
+      "works": 18
+    },
+    {
+      "slug": "maimonides",
+      "label": "Maimonides, Moses",
+      "dates": "1135-1204",
+      "works": 1
+    },
+    {
+      "slug": "malchion",
+      "label": "Malchion",
+      "dates": "",
+      "works": 1
+    },
+    {
+      "slug": "manning",
+      "label": "Manning, Bernard Lord",
+      "dates": "1892-1941",
+      "works": 1
+    },
+    {
+      "slug": "manning_henry",
+      "label": "Manning, Henry Edward",
+      "dates": "1808-1892",
+      "works": 5
+    },
+    {
+      "slug": "mansel",
+      "label": "Mansel, Henry Longueville",
+      "dates": "1820-1871",
+      "works": 0
+    },
+    {
+      "slug": "manton",
+      "label": "Manton, Thomas (1620-1677)",
+      "dates": "9 classics",
+      "works": 9
+    },
+    {
+      "slug": "mathetes",
+      "label": "Mathetes",
+      "dates": "",
+      "works": 1
+    },
+    {
+      "slug": "mcclure",
+      "label": "McClure, Mrs. M. L.",
+      "dates": "d. 1918",
+      "works": 1
+    },
+    {
+      "slug": "mcgarvey",
+      "label": "McGarvey, John William",
+      "dates": "1829-1911",
+      "works": 2
+    },
+    {
+      "slug": "mead_matthew",
+      "label": "Mead, Matthew",
+      "dates": "1629-1699",
+      "works": 2
+    },
+    {
+      "slug": "mede",
+      "label": "Mede, Joseph",
+      "dates": "1586-1638",
+      "works": 1
+    },
+    {
+      "slug": "melanchthon",
+      "label": "Melanchthon, Philipp",
+      "dates": "1497-1560",
+      "works": 1
+    },
+    {
+      "slug": "messenger",
+      "label": "Messenger, Ruth Ellis",
+      "dates": "",
+      "works": 1
+    },
+    {
+      "slug": "methodius",
+      "label": "Methodius of Olympus",
+      "dates": "",
+      "works": 3
+    },
+    {
+      "slug": "meyer",
+      "label": "Meyer, Frederick Brotherton",
+      "dates": "1847-1929",
+      "works": 3
+    },
+    {
+      "slug": "miller",
+      "label": "Miller, Andrew",
+      "dates": "1810-1883",
+      "works": 1
+    },
+    {
+      "slug": "milligan",
+      "label": "Milligan, William",
+      "dates": "1821-1893",
+      "works": 1
+    },
+    {
+      "slug": "milton",
+      "label": "Milton, John",
+      "dates": "1608-1674",
+      "works": 1
+    },
+    {
+      "slug": "moffat",
+      "label": "Moffat, James, D.D.",
+      "dates": "1870-1944",
+      "works": 1
+    },
+    {
+      "slug": "molinos",
+      "label": "Molinos, Miguel de",
+      "dates": "1628-1696",
+      "works": 1
+    },
+    {
+      "slug": "montgomery",
+      "label": "Montgomery, James",
+      "dates": "1771-1854",
+      "works": 1
+    },
+    {
+      "slug": "moody",
+      "label": "Moody, Dwight Lyman",
+      "dates": "1837-1899",
+      "works": 1
+    },
+    {
+      "slug": "more",
+      "label": "More, St. Thomas",
+      "dates": "1478-1535",
+      "works": 1
+    },
+    {
+      "slug": "morris",
+      "label": "Morris, Joseph",
+      "dates": "",
+      "works": 1
+    },
+    {
+      "slug": "moule",
+      "label": "Moule, Handley Carr Glyn",
+      "dates": "1841-1920",
+      "works": 3
+    },
+    {
+      "slug": "murray",
+      "label": "Murray, Andrew (1828-1917)",
+      "dates": "11 classics",
+      "works": 11
+    },
+    {
+      "slug": "nave",
+      "label": "Nave, Orville James",
+      "dates": "1841-1917",
+      "works": 1
+    },
+    {
+      "slug": "neale",
+      "label": "Neale, John Mason",
+      "dates": "1818-1866",
+      "works": 1
+    },
+    {
+      "slug": "neander_a",
+      "label": "Neander, Augustus Johann",
+      "dates": "1789-1850",
+      "works": 5
+    },
+    {
+      "slug": "nee",
+      "label": "Nee, Watchman",
+      "dates": "1903-1972",
+      "works": 1
+    },
+    {
+      "slug": "newell",
+      "label": "Newell, William R.",
+      "dates": "1868-1956",
+      "works": 1
+    },
+    {
+      "slug": "newman",
+      "label": "Newman, John Henry",
+      "dates": "1801-1890",
+      "works": 4
+    },
+    {
+      "slug": "newton",
+      "label": "Newton, John",
+      "dates": "1725-1807",
+      "works": 3
+    },
+    {
+      "slug": "nicoll",
+      "label": "Nicoll, William Robertson, Sir (1851-1923)",
+      "dates": "35 classics",
+      "works": 0
+    },
+    {
+      "slug": "novatian",
+      "label": "Novatian",
+      "dates": "c.200-258",
+      "works": 2
+    },
+    {
+      "slug": "nutter",
+      "label": "Nutter, Charles Sumner",
+      "dates": "1842-1928",
+      "works": 1
+    },
+    {
+      "slug": "oehler",
+      "label": "Oehler, Gustav Friedrich",
+      "dates": "1812-1872",
+      "works": 1
+    },
+    {
+      "slug": "oman",
+      "label": "Oman, John",
+      "dates": "1860-1939",
+      "works": 1
+    },
+    {
+      "slug": "origen",
+      "label": "Origen",
+      "dates": "c. 185-c. 254",
+      "works": 5
+    },
+    {
+      "slug": "orloff",
+      "label": "Orloff, N.",
+      "dates": "",
+      "works": 0
+    },
+    {
+      "slug": "orrce",
+      "label": "Orr, Charles Ebert",
+      "dates": "1861-1933",
+      "works": 2
+    },
+    {
+      "slug": "orr",
+      "label": "Orr, James",
+      "dates": "1844-1913",
+      "works": 1
+    },
+    {
+      "slug": "otto",
+      "label": "Otto, Rudolph",
+      "dates": "1869-1937",
+      "works": 1
+    },
+    {
+      "slug": "outler",
+      "label": "Outler, Albert C.",
+      "dates": "1908-1989",
+      "works": 0
+    },
+    {
+      "slug": "owen",
+      "label": "Owen, John (1616-1683)",
+      "dates": "32 classics",
+      "works": 32
+    },
+    {
+      "slug": "oxford",
+      "label": "Oxford University Press",
+      "dates": "",
+      "works": 1
+    },
+    {
+      "slug": "paley",
+      "label": "Paley, William",
+      "dates": "1743-1805",
+      "works": 2
+    },
+    {
+      "slug": "palgrave",
+      "label": "Palgrave, Francis Turner",
+      "dates": "1824-1897",
+      "works": 1
+    },
+    {
+      "slug": "pamphilus",
+      "label": "Pamphilus of Caesarea",
+      "dates": "?-309",
+      "works": 1
+    },
+    {
+      "slug": "pascal",
+      "label": "Pascal, Blaise",
+      "dates": "1623-1662",
+      "works": 3
+    },
+    {
+      "slug": "pasko",
+      "label": "Pasko, Mark",
+      "dates": "",
+      "works": 3
+    },
+    {
+      "slug": "patrick",
+      "label": "Patrick, St.",
+      "dates": "c. 390-c. 461",
+      "works": 1
+    },
+    {
+      "slug": "pattison",
+      "label": "Pattison, Mark",
+      "dates": "1813-1884",
+      "works": 0
+    },
+    {
+      "slug": "pearse",
+      "label": "Pearse, Roger",
+      "dates": "",
+      "works": 1
+    },
+    {
+      "slug": "penn",
+      "label": "Penn, William",
+      "dates": "1644-1718",
+      "works": 3
+    },
+    {
+      "slug": "peter_alexandria",
+      "label": "Peter of Alexandria, Pope",
+      "dates": "?-311",
+      "works": 1
+    },
+    {
+      "slug": "phileas",
+      "label": "Phileas",
+      "dates": "",
+      "works": 2
+    },
+    {
+      "slug": "philip_allan",
+      "label": "Philip Allan",
+      "dates": "",
+      "works": 1
+    },
+    {
+      "slug": "philo",
+      "label": "Philo",
+      "dates": "c. 20 B.C. - c. A.D. 50",
+      "works": 1
+    },
+    {
+      "slug": "pierson",
+      "label": "Pierson, Arthur Tappan",
+      "dates": "1837-1911",
+      "works": 0
+    },
+    {
+      "slug": "pierus",
+      "label": "Pierus of Alexandria",
+      "dates": "",
+      "works": 1
+    },
+    {
+      "slug": "pilcher",
+      "label": "Pilcher, Charles Venn",
+      "dates": "1879-1961",
+      "works": 1
+    },
+    {
+      "slug": "pink",
+      "label": "Pink, Arthur Walkington (1886-1952)",
+      "dates": "10 classics",
+      "works": 10
+    },
+    {
+      "slug": "plantinga",
+      "label": "Plantinga, Alvin",
+      "dates": "1932-",
+      "works": 1
+    },
+    {
+      "slug": "plotinus",
+      "label": "Plotinus",
+      "dates": "c. 205-270",
+      "works": 1
+    },
+    {
+      "slug": "plummer",
+      "label": "Plummer, Alfred",
+      "dates": "",
+      "works": 2
+    },
+    {
+      "slug": "polycarp",
+      "label": "Polycarp, St.",
+      "dates": "c.69-c.155",
+      "works": 2
+    },
+    {
+      "slug": "potts",
+      "label": "Potts, James Manning",
+      "dates": "1895-1973",
+      "works": 2
+    },
+    {
+      "slug": "powell",
+      "label": "Powell, Baden",
+      "dates": "1796-1860",
+      "works": 0
+    },
+    {
+      "slug": "pressense",
+      "label": "Pressensé, Edmund Dehault de",
+      "dates": "1824-1891",
+      "works": 1
+    },
+    {
+      "slug": "prideaux",
+      "label": "Prideaux, Humphrey",
+      "dates": "1648-1724",
+      "works": 1
+    },
+    {
+      "slug": "prudentius",
+      "label": "Prudentius, Aurelius Clemens",
+      "dates": "358-413",
+      "works": 1
+    },
+    {
+      "slug": "leightonpullan",
+      "label": "Pullan, Leighton",
+      "dates": "1865-1940",
+      "works": 1
+    },
+    {
+      "slug": "pusey",
+      "label": "Pusey, Edward Bouverie",
+      "dates": "1800-1882",
+      "works": 3
+    },
+    {
+      "slug": "quadrupani",
+      "label": "Quadrupani, Carlo Giuseppe",
+      "dates": "",
+      "works": 1
+    },
+    {
+      "slug": "rainy",
+      "label": "Rainy, Robert",
+      "dates": "1826-1906",
+      "works": 1
+    },
+    {
+      "slug": "ramsay",
+      "label": "Ramsay, William Mitchell",
+      "dates": "1851-1939",
+      "works": 3
+    },
+    {
+      "slug": "rand_ek",
+      "label": "Rand, E.K.",
+      "dates": "",
+      "works": 0
+    },
+    {
+      "slug": "ray",
+      "label": "Ray, John",
+      "dates": "1627-1705",
+      "works": 1
+    },
+    {
+      "slug": "reeves",
+      "label": "Reeves, Jeremiah Bascom",
+      "dates": "",
+      "works": 1
+    },
+    {
+      "slug": "renan",
+      "label": "Renan, Joseph Ernest (1823-1892).",
+      "dates": "7 classics",
+      "works": 7
+    },
+    {
+      "slug": "richardson",
+      "label": "Richardson, Cyril C.",
+      "dates": "1909-1976",
+      "works": 1
+    },
+    {
+      "slug": "roberts_bh",
+      "label": "Roberts, Benson H.",
+      "dates": "",
+      "works": 1
+    },
+    {
+      "slug": "robertson_at",
+      "label": "Robertson, Archibald Thomas (1863-1934)",
+      "dates": "16 classics",
+      "works": 16
+    },
+    {
+      "slug": "robertson",
+      "label": "Robertson, James Craigie, Canon of Canterbury",
+      "dates": "1813-1882",
+      "works": 1
+    },
+    {
+      "slug": "robinson_j",
+      "label": "Robinson, John",
+      "dates": "1575-1625",
+      "works": 1
+    },
+    {
+      "slug": "rolle",
+      "label": "Rolle of Hampole, Richard",
+      "dates": "c. 1290-c. 1349",
+      "works": 2
+    },
+    {
+      "slug": "rolt",
+      "label": "Rolt, Clarence Edwin",
+      "dates": "1880-1917",
+      "works": 1
+    },
+    {
+      "slug": "rufinus",
+      "label": "Rufinus, Tyrannius",
+      "dates": "c. 345-410",
+      "works": 0
+    },
+    {
+      "slug": "rutherford_an",
+      "label": "rutherford_an",
+      "dates": "",
+      "works": 1
+    },
+    {
+      "slug": "rutherford_a",
+      "label": "Rutherford, Alexander C.",
+      "dates": "",
+      "works": 1
+    },
+    {
+      "slug": "rutherford",
+      "label": "Rutherford, Samuel",
+      "dates": "1600-1661",
+      "works": 2
+    },
+    {
+      "slug": "ruysbroeck",
+      "label": "Ruysbroeck, John of, St.",
+      "dates": "1293-1381",
+      "works": 1
+    },
+    {
+      "slug": "ryden",
+      "label": "Ryden, Ernest Edwin",
+      "dates": "1886-1981",
+      "works": 1
+    },
+    {
+      "slug": "ryle",
+      "label": "Ryle, John Charles",
+      "dates": "1816-1900",
+      "works": 3
+    },
+    {
+      "slug": "ephraim",
+      "label": "Saint Ephraim of Syria",
+      "dates": "c. 306-373",
+      "works": 1
+    },
+    {
+      "slug": "salvian",
+      "label": "Salvian",
+      "dates": "c. 400- c. 480",
+      "works": 0
+    },
+    {
+      "slug": "sayers",
+      "label": "Sayers, Dorothy L.",
+      "dates": "1893-1957",
+      "works": 1
+    },
+    {
+      "slug": "schaff",
+      "label": "Schaff, Philip (1819-1893)",
+      "dates": "67 classics",
+      "works": 64
+    },
+    {
+      "slug": "schleiermach",
+      "label": "Schleiermacher, Friedrich",
+      "dates": "1768-1834",
+      "works": 2
+    },
+    {
+      "slug": "schmid",
+      "label": "Schmid, Heinrich",
+      "dates": "1811-1885",
+      "works": 1
+    },
+    {
+      "slug": "schmiedel_paul",
+      "label": "Schmiedel, Paul W",
+      "dates": "1851-1935",
+      "works": 1
+    },
+    {
+      "slug": "scougal",
+      "label": "Scougal, Henry",
+      "dates": "1650-1678",
+      "works": 1
+    },
+    {
+      "slug": "scrivener",
+      "label": "Scrivener, Frederick Henry Ambrose",
+      "dates": "1813-1891",
+      "works": 2
+    },
+    {
+      "slug": "sellar_am",
+      "label": "Sellar, A.M.",
+      "dates": "",
+      "works": 0
+    },
+    {
+      "slug": "kronstadt",
+      "label": "Sergieff, Archpriest John Iliytch",
+      "dates": "1829-1909",
+      "works": 1
+    },
+    {
+      "slug": "shann",
+      "label": "Shann, G. V.",
+      "dates": "",
+      "works": 2
+    },
+    {
+      "slug": "shaw_sb",
+      "label": "Shaw, Solomon Benjamin",
+      "dates": "1854-1941",
+      "works": 1
+    },
+    {
+      "slug": "sheldon",
+      "label": "Sheldon, Charles Monroe",
+      "dates": "1857-1946",
+      "works": 1
+    },
+    {
+      "slug": "shepard",
+      "label": "Shepard, Thomas",
+      "dates": "1605-1649",
+      "works": 2
+    },
+    {
+      "slug": "simon",
+      "label": "Simons, Menno",
+      "dates": "1496-1561",
+      "works": 2
+    },
+    {
+      "slug": "singh",
+      "label": "Singh, Sadhu Sundar",
+      "dates": "1889-1929",
+      "works": 1
+    },
+    {
+      "slug": "skinner",
+      "label": "Skinner, John J.",
+      "dates": "?-1925",
+      "works": 1
+    },
+    {
+      "slug": "smith_geo",
+      "label": "Smith, George",
+      "dates": "1833-1919",
+      "works": 1
+    },
+    {
+      "slug": "smith_ga",
+      "label": "Smith, George Adam",
+      "dates": "1856-1942",
+      "works": 4
+    },
+    {
+      "slug": "smith_hw",
+      "label": "Smith, Hannah Whitall",
+      "dates": "1832-1911",
+      "works": 3
+    },
+    {
+      "slug": "smith_w",
+      "label": "Smith, William",
+      "dates": "1813-1893",
+      "works": 1
+    },
+    {
+      "slug": "smyth",
+      "label": "Smyth, Herbert Weir",
+      "dates": "1857-1937",
+      "works": 0
+    },
+    {
+      "slug": "socrates",
+      "label": "Socrates of Constantinople",
+      "dates": "c. 380-450",
+      "works": 0
+    },
+    {
+      "slug": "sokolof",
+      "label": "Sokolof, Dimitrii",
+      "dates": "",
+      "works": 1
+    },
+    {
+      "slug": "south_robert",
+      "label": "South, Robert (1634-1716)",
+      "dates": "7 classics",
+      "works": 7
+    },
+    {
+      "slug": "sozomen",
+      "label": "Sozomen, Salaminius Hermias",
+      "dates": "c. 400-450",
+      "works": 0
+    },
+    {
+      "slug": "spurgeon",
+      "label": "Spurgeon, Charles Haddon (1834-1892)",
+      "dates": "76 classics",
+      "works": 76
+    },
+    {
+      "slug": "stainer",
+      "label": "Stainer, John",
+      "dates": "1840-1901",
+      "works": 0
+    },
+    {
+      "slug": "steele",
+      "label": "Steele, Daniel",
+      "dates": "1824-1914",
+      "works": 1
+    },
+    {
+      "slug": "steward_hf",
+      "label": "Stewart, Hugh Fraser",
+      "dates": "1863-1948",
+      "works": 0
+    },
+    {
+      "slug": "stock_g",
+      "label": "Stock, St. George William Joseph",
+      "dates": "1850- ?",
+      "works": 0
+    },
+    {
+      "slug": "stokes",
+      "label": "Stokes, George Thomas",
+      "dates": "1843-1898",
+      "works": 2
+    },
+    {
+      "slug": "stowe",
+      "label": "Stowe, Harriet Beecher",
+      "dates": "1811-1896",
+      "works": 1
+    },
+    {
+      "slug": "strong",
+      "label": "Strong, Augustus Hopkins",
+      "dates": "1836-1921",
+      "works": 3
+    },
+    {
+      "slug": "sulpiciusseverus",
+      "label": "Sulpicius Severus",
+      "dates": "c.363-c.425",
+      "works": 0
+    },
+    {
+      "slug": "suso",
+      "label": "Suso, Henry",
+      "dates": "c. 1296-1366",
+      "works": 2
+    },
+    {
+      "slug": "swete",
+      "label": "Swete, Henry Barclay",
+      "dates": "1835-1917",
+      "works": 1
+    },
+    {
+      "slug": "tatian",
+      "label": "Tatian the Assyrian",
+      "dates": "c.120-c.180",
+      "works": 2
+    },
+    {
+      "slug": "tauler",
+      "label": "Tauler, John",
+      "dates": "c. 1300-1361",
+      "works": 3
+    },
+    {
+      "slug": "taylor_h",
+      "label": "Taylor, Frederick Howard",
+      "dates": "1862-1946",
+      "works": 0
+    },
+    {
+      "slug": "taylor_jh",
+      "label": "Taylor, James Hudson",
+      "dates": "1832-1905",
+      "works": 1
+    },
+    {
+      "slug": "taylor",
+      "label": "Taylor, Jeremy",
+      "dates": "1613-1667",
+      "works": 2
+    },
+    {
+      "slug": "taylor_vincent",
+      "label": "Taylor, Vincent",
+      "dates": "1887-1968",
+      "works": 1
+    },
+    {
+      "slug": "temple_f",
+      "label": "Temple, Frederick",
+      "dates": "1821-1902",
+      "works": 0
+    },
+    {
+      "slug": "teresa",
+      "label": "Teresa of Avila, St.",
+      "dates": "Teresa de Cepeda y Ahumada, 1515-1582",
+      "works": 3
+    },
+    {
+      "slug": "terrill_jg",
+      "label": "Terrill, Joseph Goodwin",
+      "dates": "",
+      "works": 1
+    },
+    {
+      "slug": "tertullian",
+      "label": "Tertullianus, Quintas Septimus Florens (c. 160-c. 225)",
+      "dates": "33 classics",
+      "works": 33
+    },
+    {
+      "slug": "theodoret",
+      "label": "Theodoret, Bishop of Cyrus",
+      "dates": "c. 393 - c. 460",
+      "works": 0
+    },
+    {
+      "slug": "theodotus",
+      "label": "Theodotus",
+      "dates": "",
+      "works": 1
+    },
+    {
+      "slug": "theognostus",
+      "label": "Theognostus of Alexandria",
+      "dates": "c.210-c.270",
+      "works": 1
+    },
+    {
+      "slug": "theonas",
+      "label": "Theonas of Alexandria, Pope",
+      "dates": "?-300",
+      "works": 1
+    },
+    {
+      "slug": "theophilus",
+      "label": "Theophilus of Antioch",
+      "dates": "",
+      "works": 3
+    },
+    {
+      "slug": "therese",
+      "label": "Therese, of Lisieux, St.",
+      "dates": "1873-1897",
+      "works": 2
+    },
+    {
+      "slug": "kempis",
+      "label": "Thomas à Kempis",
+      "dates": "c. 1380-1471",
+      "works": 2
+    },
+    {
+      "slug": "aquinas",
+      "label": "Thomas Aquinas, Saint (1225?-1274)",
+      "dates": "6 classics",
+      "works": 5
+    },
+    {
+      "slug": "thomson",
+      "label": "Thomson, Andrew",
+      "dates": "1814-1901",
+      "works": 1
+    },
+    {
+      "slug": "tillotson",
+      "label": "Tillotson, John (1630-1694)",
+      "dates": "7 classics",
+      "works": 7
+    },
+    {
+      "slug": "tischendorf",
+      "label": "Tischendorf, Constantine von",
+      "dates": "1815-1874",
+      "works": 2
+    },
+    {
+      "slug": "tolstoy",
+      "label": "Tolstoy, Leo Nikolayevich (1828-1910)",
+      "dates": "11 classics",
+      "works": 11
+    },
+    {
+      "slug": "torreycc",
+      "label": "Torrey, Charles Cutler",
+      "dates": "1863-1956",
+      "works": 1
+    },
+    {
+      "slug": "torrey",
+      "label": "Torrey, Reuben Archer",
+      "dates": "1856-1928",
+      "works": 4
+    },
+    {
+      "slug": "traherne",
+      "label": "Traherne, Thomas",
+      "dates": "1636?-1674",
+      "works": 1
+    },
+    {
+      "slug": "trench",
+      "label": "Trench, Richard Chenevix",
+      "dates": "1807-1886",
+      "works": 1
+    },
+    {
+      "slug": "tulloch",
+      "label": "Tulloch, John",
+      "dates": "1823-1886",
+      "works": 5
+    },
+    {
+      "slug": "ugolino",
+      "label": "Ugolino, Brother",
+      "dates": "13th-14th c.",
+      "works": 1
+    },
+    {
+      "slug": "ullmann",
+      "label": "Ullmann, Carl",
+      "dates": "1796-1865",
+      "works": 1
+    },
+    {
+      "slug": "underhill",
+      "label": "Underhill, Evelyn",
+      "dates": "1875-1941",
+      "works": 5
+    },
+    {
+      "slug": "unknown",
+      "label": "Unknown Christian",
+      "dates": "",
+      "works": 1
+    },
+    {
+      "slug": "upham",
+      "label": "Upham, Thomas Cogswell",
+      "dates": "",
+      "works": 1
+    },
+    {
+      "slug": "ursinus",
+      "label": "Ursinus, Zacharias",
+      "dates": "1534-1583",
+      "works": 2
+    },
+    {
+      "slug": "vandyke",
+      "label": "Van Dyke, Henry",
+      "dates": "1852-1933",
+      "works": 2
+    },
+    {
+      "slug": "venantius",
+      "label": "Venantius Honorius Clementianus Fortunatus",
+      "dates": "",
+      "works": 1
+    },
+    {
+      "slug": "victorinus",
+      "label": "Victorinus of Pettau",
+      "dates": "?-c.303",
+      "works": 1
+    },
+    {
+      "slug": "vincent_lerins",
+      "label": "Vincent of Lérins, Saint",
+      "dates": "",
+      "works": 0
+    },
+    {
+      "slug": "voragine",
+      "label": "Voragine, Jacobus de (1230-1298)",
+      "dates": "7 classics",
+      "works": 7
+    },
+    {
+      "slug": "wace",
+      "label": "Wace, Henry",
+      "dates": "1836-1924",
+      "works": 1
+    },
+    {
+      "slug": "walker",
+      "label": "Walker, William",
+      "dates": "1809-1875",
+      "works": 2
+    },
+    {
+      "slug": "waring",
+      "label": "Waring, Anna Laetitia",
+      "dates": "1820-1910",
+      "works": 1
+    },
+    {
+      "slug": "watson_ra",
+      "label": "Watson, Robert Alexander",
+      "dates": "1845-1921",
+      "works": 3
+    },
+    {
+      "slug": "watson",
+      "label": "Watson, Thomas (c. 1620-1686)",
+      "dates": "6 classics",
+      "works": 6
+    },
+    {
+      "slug": "watts",
+      "label": "Watts, Isaac",
+      "dates": "1674-1748",
+      "works": 2
+    },
+    {
+      "slug": "welch",
+      "label": "Welch, John",
+      "dates": "",
+      "works": 1
+    },
+    {
+      "slug": "wernle_paul",
+      "label": "Wernle, Paul",
+      "dates": "1872-1939",
+      "works": 2
+    },
+    {
+      "slug": "wesley",
+      "label": "Wesley, John (1703-1791)",
+      "dates": "6 classics",
+      "works": 6
+    },
+    {
+      "slug": "west_ce",
+      "label": "West, Charles Edward",
+      "dates": "1809-1900",
+      "works": 1
+    },
+    {
+      "slug": "westcott",
+      "label": "Westcott, Brooke Foss",
+      "dates": "1825-1901",
+      "works": 1
+    },
+    {
+      "slug": "white",
+      "label": "White, Ellen Gould",
+      "dates": "1827-1915",
+      "works": 5
+    },
+    {
+      "slug": "whitefield",
+      "label": "Whitefield, George",
+      "dates": "1714-1770",
+      "works": 1
+    },
+    {
+      "slug": "whyte",
+      "label": "Whyte, Alexander",
+      "dates": "1836-1921",
+      "works": 3
+    },
+    {
+      "slug": "wigram",
+      "label": "Wigram, George Vicesimus",
+      "dates": "1805-1879",
+      "works": 1
+    },
+    {
+      "slug": "williams_r",
+      "label": "Williams, Rowland",
+      "dates": "1817-1870",
+      "works": 0
+    },
+    {
+      "slug": "willison",
+      "label": "Willison, John",
+      "dates": "1680-1750",
+      "works": 1
+    },
+    {
+      "slug": "wilson",
+      "label": "Wilson, Henry Bristow",
+      "dates": "1803-1888",
+      "works": 0
+    },
+    {
+      "slug": "winkworth",
+      "label": "Winkworth, Catherine (1827-1878)",
+      "dates": "6 classics",
+      "works": 6
+    },
+    {
+      "slug": "woolman",
+      "label": "Woolman, John",
+      "dates": "1720-1772",
+      "works": 1
+    },
+    {
+      "slug": "wuttke",
+      "label": "Wuttke, Adolf",
+      "dates": "1819-1870",
+      "works": 2
+    },
+    {
+      "slug": "wyss",
+      "label": "Wyss, Johann David",
+      "dates": "1743-1818",
+      "works": 1
+    },
+    {
+      "slug": "young_e",
+      "label": "Young, Edward",
+      "dates": "1681-1765",
+      "works": 1
+    },
+    {
+      "slug": "young_j",
+      "label": "Young, John",
+      "dates": "1805-1881",
+      "works": 1
+    },
+    {
+      "slug": "zosimus",
+      "label": "zosimus",
+      "dates": "",
+      "works": 2
+    }
+  ]
+}

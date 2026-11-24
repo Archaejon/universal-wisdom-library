@@ -1,0 +1,1874 @@
+{
+  "source": "suttacentral",
+  "source_url": "https://suttacentral.net/",
+  "retrieved_at": "2026-10-20",
+  "translator": "Bhikkhu Sujato",
+  "licence": "CC0 1.0",
+  "note": "Sutta structure only. Pali root text and the CC0 English translation are streamed from suttacentral.net at read time; no sutta text is stored in this corpus.",
+  "suttas": [
+    {
+      "uid": "dn4",
+      "slug": "sutta-dn4",
+      "title": "With Soṇadaṇḍa (DN4)",
+      "pali_title": "Soṇadaṇḍasutta",
+      "nikaya": "Dīgha Nikāya",
+      "passages": 258,
+      "licence": "CC0 1.0",
+      "translator": "Bhikkhu Sujato"
+    },
+    {
+      "uid": "dn1",
+      "slug": "sutta-dn1",
+      "title": "The Divine Net (DN1)",
+      "pali_title": "Brahmajālasutta",
+      "nikaya": "Dīgha Nikāya",
+      "passages": 631,
+      "licence": "CC0 1.0",
+      "translator": "Bhikkhu Sujato"
+    },
+    {
+      "uid": "dn2",
+      "slug": "sutta-dn2",
+      "title": "The Fruits of the Ascetic Life (DN2)",
+      "pali_title": "Sāmaññaphalasutta",
+      "nikaya": "Dīgha Nikāya",
+      "passages": 581,
+      "licence": "CC0 1.0",
+      "translator": "Bhikkhu Sujato"
+    },
+    {
+      "uid": "dn7",
+      "slug": "sutta-dn7",
+      "title": "With Jāliya (DN7)",
+      "pali_title": "Jāliyasutta",
+      "nikaya": "Dīgha Nikāya",
+      "passages": 45,
+      "licence": "CC0 1.0",
+      "translator": "Bhikkhu Sujato"
+    },
+    {
+      "uid": "dn6",
+      "slug": "sutta-dn6",
+      "title": "With Mahāli (DN6)",
+      "pali_title": "Mahālisutta",
+      "nikaya": "Dīgha Nikāya",
+      "passages": 139,
+      "licence": "CC0 1.0",
+      "translator": "Bhikkhu Sujato"
+    },
+    {
+      "uid": "dn3",
+      "slug": "sutta-dn3",
+      "title": "With Ambaṭṭha (DN3)",
+      "pali_title": "Ambaṭṭhasutta",
+      "nikaya": "Dīgha Nikāya",
+      "passages": 425,
+      "licence": "CC0 1.0",
+      "translator": "Bhikkhu Sujato"
+    },
+    {
+      "uid": "dn5",
+      "slug": "sutta-dn5",
+      "title": "With Kūṭadanta (DN5)",
+      "pali_title": "Kūṭadantasutta",
+      "nikaya": "Dīgha Nikāya",
+      "passages": 329,
+      "licence": "CC0 1.0",
+      "translator": "Bhikkhu Sujato"
+    },
+    {
+      "uid": "dn9",
+      "slug": "sutta-dn9",
+      "title": "With Poṭṭhapāda (DN9)",
+      "pali_title": "Poṭṭhapādasutta",
+      "nikaya": "Dīgha Nikāya",
+      "passages": 375,
+      "licence": "CC0 1.0",
+      "translator": "Bhikkhu Sujato"
+    },
+    {
+      "uid": "dn8",
+      "slug": "sutta-dn8",
+      "title": "The Lion’s Roar to the Naked Ascetic Kassapa (DN8)",
+      "pali_title": "Mahāsīhanādasutta",
+      "nikaya": "Dīgha Nikāya",
+      "passages": 198,
+      "licence": "CC0 1.0",
+      "translator": "Bhikkhu Sujato"
+    },
+    {
+      "uid": "dn11",
+      "slug": "sutta-dn11",
+      "title": "With Kevaḍḍha (DN11)",
+      "pali_title": "Kevaṭṭasutta",
+      "nikaya": "Dīgha Nikāya",
+      "passages": 161,
+      "licence": "CC0 1.0",
+      "translator": "Bhikkhu Sujato"
+    },
+    {
+      "uid": "dn10",
+      "slug": "sutta-dn10",
+      "title": "With Subha (DN10)",
+      "pali_title": "Subhasutta",
+      "nikaya": "Dīgha Nikāya",
+      "passages": 227,
+      "licence": "CC0 1.0",
+      "translator": "Bhikkhu Sujato"
+    },
+    {
+      "uid": "dn13",
+      "slug": "sutta-dn13",
+      "title": "Experts in the Three Vedas (DN13)",
+      "pali_title": "Tevijjasutta",
+      "nikaya": "Dīgha Nikāya",
+      "passages": 249,
+      "licence": "CC0 1.0",
+      "translator": "Bhikkhu Sujato"
+    },
+    {
+      "uid": "dn15",
+      "slug": "sutta-dn15",
+      "title": "The Great Discourse on Causation (DN15)",
+      "pali_title": "Mahānidānasutta",
+      "nikaya": "Dīgha Nikāya",
+      "passages": 255,
+      "licence": "CC0 1.0",
+      "translator": "Bhikkhu Sujato"
+    },
+    {
+      "uid": "dn12",
+      "slug": "sutta-dn12",
+      "title": "With Lohicca (DN12)",
+      "pali_title": "Lohiccasutta",
+      "nikaya": "Dīgha Nikāya",
+      "passages": 145,
+      "licence": "CC0 1.0",
+      "translator": "Bhikkhu Sujato"
+    },
+    {
+      "uid": "dn14",
+      "slug": "sutta-dn14",
+      "title": "The Great Discourse on Traces Left Behind (DN14)",
+      "pali_title": "Mahāpadānasutta",
+      "nikaya": "Dīgha Nikāya",
+      "passages": 679,
+      "licence": "CC0 1.0",
+      "translator": "Bhikkhu Sujato"
+    },
+    {
+      "uid": "dn17",
+      "slug": "sutta-dn17",
+      "title": "King Mahāsudassana (DN17)",
+      "pali_title": "Mahāsudassanasutta",
+      "nikaya": "Dīgha Nikāya",
+      "passages": 357,
+      "licence": "CC0 1.0",
+      "translator": "Bhikkhu Sujato"
+    },
+    {
+      "uid": "dn19",
+      "slug": "sutta-dn19",
+      "title": "The Great Steward (DN19)",
+      "pali_title": "Mahāgovindasutta",
+      "nikaya": "Dīgha Nikāya",
+      "passages": 477,
+      "licence": "CC0 1.0",
+      "translator": "Bhikkhu Sujato"
+    },
+    {
+      "uid": "dn18",
+      "slug": "sutta-dn18",
+      "title": "With Janavasabha (DN18)",
+      "pali_title": "Janavasabhasutta",
+      "nikaya": "Dīgha Nikāya",
+      "passages": 251,
+      "licence": "CC0 1.0",
+      "translator": "Bhikkhu Sujato"
+    },
+    {
+      "uid": "dn22",
+      "slug": "sutta-dn22",
+      "title": "The Longer Discourse on Mindfulness Meditation (DN22)",
+      "pali_title": "Mahāsatipaṭṭhānasutta",
+      "nikaya": "Dīgha Nikāya",
+      "passages": 357,
+      "licence": "CC0 1.0",
+      "translator": "Bhikkhu Sujato"
+    },
+    {
+      "uid": "dn16",
+      "slug": "sutta-dn16",
+      "title": "The Great Discourse on the Buddha’s Extinguishment (DN16)",
+      "pali_title": "Mahāparinibbānasutta",
+      "nikaya": "Dīgha Nikāya",
+      "passages": 1569,
+      "licence": "CC0 1.0",
+      "translator": "Bhikkhu Sujato"
+    },
+    {
+      "uid": "dn20",
+      "slug": "sutta-dn20",
+      "title": "The Great Congregation (DN20)",
+      "pali_title": "Mahāsamayasutta",
+      "nikaya": "Dīgha Nikāya",
+      "passages": 334,
+      "licence": "CC0 1.0",
+      "translator": "Bhikkhu Sujato"
+    },
+    {
+      "uid": "dn23",
+      "slug": "sutta-dn23",
+      "title": "With Pāyāsi (DN23)",
+      "pali_title": "Pāyāsisutta",
+      "nikaya": "Dīgha Nikāya",
+      "passages": 636,
+      "licence": "CC0 1.0",
+      "translator": "Bhikkhu Sujato"
+    },
+    {
+      "uid": "dn21",
+      "slug": "sutta-dn21",
+      "title": "Sakka’s Questions (DN21)",
+      "pali_title": "Sakkapañhasutta",
+      "nikaya": "Dīgha Nikāya",
+      "passages": 475,
+      "licence": "CC0 1.0",
+      "translator": "Bhikkhu Sujato"
+    },
+    {
+      "uid": "dn24",
+      "slug": "sutta-dn24",
+      "title": "About Pāṭikaputta (DN24)",
+      "pali_title": "Pāthikasutta",
+      "nikaya": "Dīgha Nikāya",
+      "passages": 500,
+      "licence": "CC0 1.0",
+      "translator": "Bhikkhu Sujato"
+    },
+    {
+      "uid": "dn27",
+      "slug": "sutta-dn27",
+      "title": "What Came First (DN27)",
+      "pali_title": "Aggaññasutta",
+      "nikaya": "Dīgha Nikāya",
+      "passages": 287,
+      "licence": "CC0 1.0",
+      "translator": "Bhikkhu Sujato"
+    },
+    {
+      "uid": "dn25",
+      "slug": "sutta-dn25",
+      "title": "The Lion’s Roar at the Monastery of Lady Udumbarikā (DN25)",
+      "pali_title": "Udumbarikasutta",
+      "nikaya": "Dīgha Nikāya",
+      "passages": 346,
+      "licence": "CC0 1.0",
+      "translator": "Bhikkhu Sujato"
+    },
+    {
+      "uid": "dn26",
+      "slug": "sutta-dn26",
+      "title": "The Wheel-Turning Monarch (DN26)",
+      "pali_title": "Cakkavattisutta",
+      "nikaya": "Dīgha Nikāya",
+      "passages": 331,
+      "licence": "CC0 1.0",
+      "translator": "Bhikkhu Sujato"
+    },
+    {
+      "uid": "dn28",
+      "slug": "sutta-dn28",
+      "title": "Inspiring Confidence (DN28)",
+      "pali_title": "Sampasādanīyasutta",
+      "nikaya": "Dīgha Nikāya",
+      "passages": 243,
+      "licence": "CC0 1.0",
+      "translator": "Bhikkhu Sujato"
+    },
+    {
+      "uid": "dn29",
+      "slug": "sutta-dn29",
+      "title": "An Impressive Discourse (DN29)",
+      "pali_title": "Pāsādikasutta",
+      "nikaya": "Dīgha Nikāya",
+      "passages": 404,
+      "licence": "CC0 1.0",
+      "translator": "Bhikkhu Sujato"
+    },
+    {
+      "uid": "dn30",
+      "slug": "sutta-dn30",
+      "title": "The Marks of a Great Man (DN30)",
+      "pali_title": "Lakkhaṇasutta",
+      "nikaya": "Dīgha Nikāya",
+      "passages": 716,
+      "licence": "CC0 1.0",
+      "translator": "Bhikkhu Sujato"
+    },
+    {
+      "uid": "dn33",
+      "slug": "sutta-dn33",
+      "title": "Reciting in Concert (DN33)",
+      "pali_title": "Saṅgītisutta",
+      "nikaya": "Dīgha Nikāya",
+      "passages": 1129,
+      "licence": "CC0 1.0",
+      "translator": "Bhikkhu Sujato"
+    },
+    {
+      "uid": "dn32",
+      "slug": "sutta-dn32",
+      "title": "The Āṭānāṭiya Protection (DN32)",
+      "pali_title": "Āṭānāṭiyasutta",
+      "nikaya": "Dīgha Nikāya",
+      "passages": 291,
+      "licence": "CC0 1.0",
+      "translator": "Bhikkhu Sujato"
+    },
+    {
+      "uid": "dn31",
+      "slug": "sutta-dn31",
+      "title": "Advice to Sigālaka (DN31)",
+      "pali_title": "Siṅgālasutta",
+      "nikaya": "Dīgha Nikāya",
+      "passages": 264,
+      "licence": "CC0 1.0",
+      "translator": "Bhikkhu Sujato"
+    },
+    {
+      "uid": "dn34",
+      "slug": "sutta-dn34",
+      "title": "Up to Ten (DN34)",
+      "pali_title": "Dasuttarasutta",
+      "nikaya": "Dīgha Nikāya",
+      "passages": 754,
+      "licence": "CC0 1.0",
+      "translator": "Bhikkhu Sujato"
+    },
+    {
+      "uid": "mn1",
+      "slug": "sutta-mn1",
+      "title": "The Root of All Things (MN1)",
+      "pali_title": "Mūlapariyāyasutta",
+      "nikaya": "Majjhima Nikāya",
+      "passages": 325,
+      "licence": "CC0 1.0",
+      "translator": "Bhikkhu Sujato"
+    },
+    {
+      "uid": "mn2",
+      "slug": "sutta-mn2",
+      "title": "All the Defilements (MN2)",
+      "pali_title": "Sabbāsavasutta",
+      "nikaya": "Majjhima Nikāya",
+      "passages": 123,
+      "licence": "CC0 1.0",
+      "translator": "Bhikkhu Sujato"
+    },
+    {
+      "uid": "mn3",
+      "slug": "sutta-mn3",
+      "title": "Heirs in the Teaching (MN3)",
+      "pali_title": "Dhammadāyādasutta",
+      "nikaya": "Majjhima Nikāya",
+      "passages": 113,
+      "licence": "CC0 1.0",
+      "translator": "Bhikkhu Sujato"
+    },
+    {
+      "uid": "mn4",
+      "slug": "sutta-mn4",
+      "title": "Fear and Dread (MN4)",
+      "pali_title": "Bhayabheravasutta",
+      "nikaya": "Majjhima Nikāya",
+      "passages": 110,
+      "licence": "CC0 1.0",
+      "translator": "Bhikkhu Sujato"
+    },
+    {
+      "uid": "mn5",
+      "slug": "sutta-mn5",
+      "title": "Unblemished (MN5)",
+      "pali_title": "Anaṅgaṇasutta",
+      "nikaya": "Majjhima Nikāya",
+      "passages": 143,
+      "licence": "CC0 1.0",
+      "translator": "Bhikkhu Sujato"
+    },
+    {
+      "uid": "mn6",
+      "slug": "sutta-mn6",
+      "title": "One Might Wish (MN6)",
+      "pali_title": "Ākaṅkheyyasutta",
+      "nikaya": "Majjhima Nikāya",
+      "passages": 50,
+      "licence": "CC0 1.0",
+      "translator": "Bhikkhu Sujato"
+    },
+    {
+      "uid": "mn7",
+      "slug": "sutta-mn7",
+      "title": "The Simile of the Cloth (MN7)",
+      "pali_title": "Vatthasutta",
+      "nikaya": "Majjhima Nikāya",
+      "passages": 87,
+      "licence": "CC0 1.0",
+      "translator": "Bhikkhu Sujato"
+    },
+    {
+      "uid": "mn8",
+      "slug": "sutta-mn8",
+      "title": "Self-Effacement (MN8)",
+      "pali_title": "Sallekhasutta",
+      "nikaya": "Majjhima Nikāya",
+      "passages": 127,
+      "licence": "CC0 1.0",
+      "translator": "Bhikkhu Sujato"
+    },
+    {
+      "uid": "mn9",
+      "slug": "sutta-mn9",
+      "title": "Right View (MN9)",
+      "pali_title": "Sammādiṭṭhisutta",
+      "nikaya": "Majjhima Nikāya",
+      "passages": 174,
+      "licence": "CC0 1.0",
+      "translator": "Bhikkhu Sujato"
+    },
+    {
+      "uid": "mn11",
+      "slug": "sutta-mn11",
+      "title": "The Shorter Discourse on the Lion’s Roar (MN11)",
+      "pali_title": "Cūḷasīhanādasutta",
+      "nikaya": "Majjhima Nikāya",
+      "passages": 118,
+      "licence": "CC0 1.0",
+      "translator": "Bhikkhu Sujato"
+    },
+    {
+      "uid": "mn10",
+      "slug": "sutta-mn10",
+      "title": "Mindfulness Meditation (MN10)",
+      "pali_title": "Satipaṭṭhānasutta",
+      "nikaya": "Majjhima Nikāya",
+      "passages": 194,
+      "licence": "CC0 1.0",
+      "translator": "Bhikkhu Sujato"
+    },
+    {
+      "uid": "mn12",
+      "slug": "sutta-mn12",
+      "title": "The Longer Discourse on the Lion’s Roar (MN12)",
+      "pali_title": "Mahāsīhanādasutta",
+      "nikaya": "Majjhima Nikāya",
+      "passages": 317,
+      "licence": "CC0 1.0",
+      "translator": "Bhikkhu Sujato"
+    },
+    {
+      "uid": "mn13",
+      "slug": "sutta-mn13",
+      "title": "The Longer Discourse on the Mass of Suffering (MN13)",
+      "pali_title": "Mahādukkhakkhandhasutta",
+      "nikaya": "Majjhima Nikāya",
+      "passages": 129,
+      "licence": "CC0 1.0",
+      "translator": "Bhikkhu Sujato"
+    },
+    {
+      "uid": "mn14",
+      "slug": "sutta-mn14",
+      "title": "The Shorter Discourse on the Mass of Suffering (MN14)",
+      "pali_title": "Cūḷadukkhakkhandhasutta",
+      "nikaya": "Majjhima Nikāya",
+      "passages": 130,
+      "licence": "CC0 1.0",
+      "translator": "Bhikkhu Sujato"
+    },
+    {
+      "uid": "mn16",
+      "slug": "sutta-mn16",
+      "title": "Hard-heartedness (MN16)",
+      "pali_title": "Cetokhilasutta",
+      "nikaya": "Majjhima Nikāya",
+      "passages": 75,
+      "licence": "CC0 1.0",
+      "translator": "Bhikkhu Sujato"
+    },
+    {
+      "uid": "mn15",
+      "slug": "sutta-mn15",
+      "title": "Measuring Up (MN15)",
+      "pali_title": "Anumānasutta",
+      "nikaya": "Majjhima Nikāya",
+      "passages": 62,
+      "licence": "CC0 1.0",
+      "translator": "Bhikkhu Sujato"
+    },
+    {
+      "uid": "mn17",
+      "slug": "sutta-mn17",
+      "title": "Jungle Thickets (MN17)",
+      "pali_title": "Vanapatthasutta",
+      "nikaya": "Majjhima Nikāya",
+      "passages": 77,
+      "licence": "CC0 1.0",
+      "translator": "Bhikkhu Sujato"
+    },
+    {
+      "uid": "mn18",
+      "slug": "sutta-mn18",
+      "title": "The Honey-Cake (MN18)",
+      "pali_title": "Madhupiṇḍikasutta",
+      "nikaya": "Majjhima Nikāya",
+      "passages": 102,
+      "licence": "CC0 1.0",
+      "translator": "Bhikkhu Sujato"
+    },
+    {
+      "uid": "mn19",
+      "slug": "sutta-mn19",
+      "title": "Two Kinds of Thought (MN19)",
+      "pali_title": "Dvedhāvitakkasutta",
+      "nikaya": "Majjhima Nikāya",
+      "passages": 122,
+      "licence": "CC0 1.0",
+      "translator": "Bhikkhu Sujato"
+    },
+    {
+      "uid": "mn20",
+      "slug": "sutta-mn20",
+      "title": "How to Stop Thinking (MN20)",
+      "pali_title": "Vitakkasaṇṭhānasutta",
+      "nikaya": "Majjhima Nikāya",
+      "passages": 69,
+      "licence": "CC0 1.0",
+      "translator": "Bhikkhu Sujato"
+    },
+    {
+      "uid": "mn21",
+      "slug": "sutta-mn21",
+      "title": "The Simile of the Saw (MN21)",
+      "pali_title": "Kakacūpamasutta",
+      "nikaya": "Majjhima Nikāya",
+      "passages": 209,
+      "licence": "CC0 1.0",
+      "translator": "Bhikkhu Sujato"
+    },
+    {
+      "uid": "mn23",
+      "slug": "sutta-mn23",
+      "title": "The Termite Mound (MN23)",
+      "pali_title": "Vammikasutta",
+      "nikaya": "Majjhima Nikāya",
+      "passages": 89,
+      "licence": "CC0 1.0",
+      "translator": "Bhikkhu Sujato"
+    },
+    {
+      "uid": "mn22",
+      "slug": "sutta-mn22",
+      "title": "The Simile of the Cobra (MN22)",
+      "pali_title": "Alagaddūpamasutta",
+      "nikaya": "Majjhima Nikāya",
+      "passages": 310,
+      "licence": "CC0 1.0",
+      "translator": "Bhikkhu Sujato"
+    },
+    {
+      "uid": "mn24",
+      "slug": "sutta-mn24",
+      "title": "Chariots at the Ready (MN24)",
+      "pali_title": "Rathavinītasutta",
+      "nikaya": "Majjhima Nikāya",
+      "passages": 118,
+      "licence": "CC0 1.0",
+      "translator": "Bhikkhu Sujato"
+    },
+    {
+      "uid": "mn25",
+      "slug": "sutta-mn25",
+      "title": "Sowing (MN25)",
+      "pali_title": "Nivāpasutta",
+      "nikaya": "Majjhima Nikāya",
+      "passages": 124,
+      "licence": "CC0 1.0",
+      "translator": "Bhikkhu Sujato"
+    },
+    {
+      "uid": "mn26",
+      "slug": "sutta-mn26",
+      "title": "The Noble Quest (MN26)",
+      "pali_title": "Pāsarāsisutta",
+      "nikaya": "Majjhima Nikāya",
+      "passages": 363,
+      "licence": "CC0 1.0",
+      "translator": "Bhikkhu Sujato"
+    },
+    {
+      "uid": "mn28",
+      "slug": "sutta-mn28",
+      "title": "The Longer Simile of the Elephant’s Footprint (MN28)",
+      "pali_title": "Mahāhatthipadopamasutta",
+      "nikaya": "Majjhima Nikāya",
+      "passages": 159,
+      "licence": "CC0 1.0",
+      "translator": "Bhikkhu Sujato"
+    },
+    {
+      "uid": "mn27",
+      "slug": "sutta-mn27",
+      "title": "The Shorter Simile of the Elephant’s Footprint (MN27)",
+      "pali_title": "Cūḷahatthipadopamasutta",
+      "nikaya": "Majjhima Nikāya",
+      "passages": 181,
+      "licence": "CC0 1.0",
+      "translator": "Bhikkhu Sujato"
+    },
+    {
+      "uid": "mn29",
+      "slug": "sutta-mn29",
+      "title": "The Longer Simile of the Heartwood (MN29)",
+      "pali_title": "Mahāsāropamasutta",
+      "nikaya": "Majjhima Nikāya",
+      "passages": 93,
+      "licence": "CC0 1.0",
+      "translator": "Bhikkhu Sujato"
+    },
+    {
+      "uid": "mn30",
+      "slug": "sutta-mn30",
+      "title": "The Shorter Simile of the Heartwood (MN30)",
+      "pali_title": "Cūḷasāropamasutta",
+      "nikaya": "Majjhima Nikāya",
+      "passages": 107,
+      "licence": "CC0 1.0",
+      "translator": "Bhikkhu Sujato"
+    },
+    {
+      "uid": "mn32",
+      "slug": "sutta-mn32",
+      "title": "The Longer Discourse at Gosiṅga (MN32)",
+      "pali_title": "Mahāgosiṅgasutta",
+      "nikaya": "Majjhima Nikāya",
+      "passages": 121,
+      "licence": "CC0 1.0",
+      "translator": "Bhikkhu Sujato"
+    },
+    {
+      "uid": "mn33",
+      "slug": "sutta-mn33",
+      "title": "The Longer Discourse on the Cowherd (MN33)",
+      "pali_title": "Mahāgopālakasutta",
+      "nikaya": "Majjhima Nikāya",
+      "passages": 113,
+      "licence": "CC0 1.0",
+      "translator": "Bhikkhu Sujato"
+    },
+    {
+      "uid": "mn31",
+      "slug": "sutta-mn31",
+      "title": "The Shorter Discourse at Gosiṅga (MN31)",
+      "pali_title": "Cūḷagosiṅgasutta",
+      "nikaya": "Majjhima Nikāya",
+      "passages": 128,
+      "licence": "CC0 1.0",
+      "translator": "Bhikkhu Sujato"
+    },
+    {
+      "uid": "mn34",
+      "slug": "sutta-mn34",
+      "title": "The Shorter Discourse on the Cowherd (MN34)",
+      "pali_title": "Cūḷagopālakasutta",
+      "nikaya": "Majjhima Nikāya",
+      "passages": 51,
+      "licence": "CC0 1.0",
+      "translator": "Bhikkhu Sujato"
+    },
+    {
+      "uid": "mn35",
+      "slug": "sutta-mn35",
+      "title": "The Shorter Discourse With Saccaka (MN35)",
+      "pali_title": "Cūḷasaccakasutta",
+      "nikaya": "Majjhima Nikāya",
+      "passages": 222,
+      "licence": "CC0 1.0",
+      "translator": "Bhikkhu Sujato"
+    },
+    {
+      "uid": "mn36",
+      "slug": "sutta-mn36",
+      "title": "The Longer Discourse With Saccaka (MN36)",
+      "pali_title": "Mahāsaccakasutta",
+      "nikaya": "Majjhima Nikāya",
+      "passages": 351,
+      "licence": "CC0 1.0",
+      "translator": "Bhikkhu Sujato"
+    },
+    {
+      "uid": "mn37",
+      "slug": "sutta-mn37",
+      "title": "The Shorter Discourse on the Ending of Craving (MN37)",
+      "pali_title": "Cūḷataṇhāsaṅkhayasutta",
+      "nikaya": "Majjhima Nikāya",
+      "passages": 94,
+      "licence": "CC0 1.0",
+      "translator": "Bhikkhu Sujato"
+    },
+    {
+      "uid": "mn38",
+      "slug": "sutta-mn38",
+      "title": "The Longer Discourse on the Ending of Craving (MN38)",
+      "pali_title": "Mahātaṇhāsaṅkhayasutta",
+      "nikaya": "Majjhima Nikāya",
+      "passages": 325,
+      "licence": "CC0 1.0",
+      "translator": "Bhikkhu Sujato"
+    },
+    {
+      "uid": "mn40",
+      "slug": "sutta-mn40",
+      "title": "The Shorter Discourse at Assapura (MN40)",
+      "pali_title": "Cūḷaassapurasutta",
+      "nikaya": "Majjhima Nikāya",
+      "passages": 59,
+      "licence": "CC0 1.0",
+      "translator": "Bhikkhu Sujato"
+    },
+    {
+      "uid": "mn39",
+      "slug": "sutta-mn39",
+      "title": "The Longer Discourse at Assapura (MN39)",
+      "pali_title": "Mahāassapurasutta",
+      "nikaya": "Majjhima Nikāya",
+      "passages": 159,
+      "licence": "CC0 1.0",
+      "translator": "Bhikkhu Sujato"
+    },
+    {
+      "uid": "mn44",
+      "slug": "sutta-mn44",
+      "title": "The Shorter Elaboration (MN44)",
+      "pali_title": "Cūḷavedallasutta",
+      "nikaya": "Majjhima Nikāya",
+      "passages": 137,
+      "licence": "CC0 1.0",
+      "translator": "Bhikkhu Sujato"
+    },
+    {
+      "uid": "mn41",
+      "slug": "sutta-mn41",
+      "title": "The People of Sālā (MN41)",
+      "pali_title": "Sāleyyakasutta",
+      "nikaya": "Majjhima Nikāya",
+      "passages": 105,
+      "licence": "CC0 1.0",
+      "translator": "Bhikkhu Sujato"
+    },
+    {
+      "uid": "mn42",
+      "slug": "sutta-mn42",
+      "title": "The People of Verañjā (MN42)",
+      "pali_title": "Verañjakasutta",
+      "nikaya": "Majjhima Nikāya",
+      "passages": 16,
+      "licence": "CC0 1.0",
+      "translator": "Bhikkhu Sujato"
+    },
+    {
+      "uid": "mn43",
+      "slug": "sutta-mn43",
+      "title": "The Great Elaboration (MN43)",
+      "pali_title": "Mahāvedallasutta",
+      "nikaya": "Majjhima Nikāya",
+      "passages": 174,
+      "licence": "CC0 1.0",
+      "translator": "Bhikkhu Sujato"
+    },
+    {
+      "uid": "mn45",
+      "slug": "sutta-mn45",
+      "title": "The Shorter Discourse on Taking Up Practices (MN45)",
+      "pali_title": "Cūḷadhammasamādānasutta",
+      "nikaya": "Majjhima Nikāya",
+      "passages": 80,
+      "licence": "CC0 1.0",
+      "translator": "Bhikkhu Sujato"
+    },
+    {
+      "uid": "mn46",
+      "slug": "sutta-mn46",
+      "title": "The Great Discourse on Taking Up Practices (MN46)",
+      "pali_title": "Mahādhammasamādānasutta",
+      "nikaya": "Majjhima Nikāya",
+      "passages": 126,
+      "licence": "CC0 1.0",
+      "translator": "Bhikkhu Sujato"
+    },
+    {
+      "uid": "mn47",
+      "slug": "sutta-mn47",
+      "title": "The Inquirer (MN47)",
+      "pali_title": "Vīmaṁsakasutta",
+      "nikaya": "Majjhima Nikāya",
+      "passages": 75,
+      "licence": "CC0 1.0",
+      "translator": "Bhikkhu Sujato"
+    },
+    {
+      "uid": "mn48",
+      "slug": "sutta-mn48",
+      "title": "The Mendicants of Kosambī (MN48)",
+      "pali_title": "Kosambiyasutta",
+      "nikaya": "Majjhima Nikāya",
+      "passages": 104,
+      "licence": "CC0 1.0",
+      "translator": "Bhikkhu Sujato"
+    },
+    {
+      "uid": "mn49",
+      "slug": "sutta-mn49",
+      "title": "On the Invitation of Divinity (MN49)",
+      "pali_title": "Brahmanimantanikasutta",
+      "nikaya": "Majjhima Nikāya",
+      "passages": 161,
+      "licence": "CC0 1.0",
+      "translator": "Bhikkhu Sujato"
+    },
+    {
+      "uid": "mn50",
+      "slug": "sutta-mn50",
+      "title": "The Warning to Māra (MN50)",
+      "pali_title": "Māratajjanīyasutta",
+      "nikaya": "Majjhima Nikāya",
+      "passages": 207,
+      "licence": "CC0 1.0",
+      "translator": "Bhikkhu Sujato"
+    },
+    {
+      "uid": "mn51",
+      "slug": "sutta-mn51",
+      "title": "With Kandaraka (MN51)",
+      "pali_title": "Kandarakasutta",
+      "nikaya": "Majjhima Nikāya",
+      "passages": 181,
+      "licence": "CC0 1.0",
+      "translator": "Bhikkhu Sujato"
+    },
+    {
+      "uid": "mn52",
+      "slug": "sutta-mn52",
+      "title": "The Wealthy Citizen (MN52)",
+      "pali_title": "Aṭṭhakanāgarasutta",
+      "nikaya": "Majjhima Nikāya",
+      "passages": 50,
+      "licence": "CC0 1.0",
+      "translator": "Bhikkhu Sujato"
+    },
+    {
+      "uid": "mn53",
+      "slug": "sutta-mn53",
+      "title": "A Trainee (MN53)",
+      "pali_title": "Sekhasutta",
+      "nikaya": "Majjhima Nikāya",
+      "passages": 98,
+      "licence": "CC0 1.0",
+      "translator": "Bhikkhu Sujato"
+    },
+    {
+      "uid": "mn54",
+      "slug": "sutta-mn54",
+      "title": "With Potaliya the Householder (MN54)",
+      "pali_title": "Potaliyasutta",
+      "nikaya": "Majjhima Nikāya",
+      "passages": 151,
+      "licence": "CC0 1.0",
+      "translator": "Bhikkhu Sujato"
+    },
+    {
+      "uid": "mn55",
+      "slug": "sutta-mn55",
+      "title": "With Jīvaka (MN55)",
+      "pali_title": "Jīvakasutta",
+      "nikaya": "Majjhima Nikāya",
+      "passages": 79,
+      "licence": "CC0 1.0",
+      "translator": "Bhikkhu Sujato"
+    },
+    {
+      "uid": "mn56",
+      "slug": "sutta-mn56",
+      "title": "With Upāli (MN56)",
+      "pali_title": "Upālisutta",
+      "nikaya": "Majjhima Nikāya",
+      "passages": 365,
+      "licence": "CC0 1.0",
+      "translator": "Bhikkhu Sujato"
+    },
+    {
+      "uid": "mn58",
+      "slug": "sutta-mn58",
+      "title": "With Prince Abhaya (MN58)",
+      "pali_title": "Abhayarājakumārasutta",
+      "nikaya": "Majjhima Nikāya",
+      "passages": 74,
+      "licence": "CC0 1.0",
+      "translator": "Bhikkhu Sujato"
+    },
+    {
+      "uid": "mn57",
+      "slug": "sutta-mn57",
+      "title": "The Ascetic Who Behaved Like a Dog (MN57)",
+      "pali_title": "Kukkuravatikasutta",
+      "nikaya": "Majjhima Nikāya",
+      "passages": 111,
+      "licence": "CC0 1.0",
+      "translator": "Bhikkhu Sujato"
+    },
+    {
+      "uid": "mn59",
+      "slug": "sutta-mn59",
+      "title": "The Many Kinds of Feeling (MN59)",
+      "pali_title": "Bahuvedanīyasutta",
+      "nikaya": "Majjhima Nikāya",
+      "passages": 90,
+      "licence": "CC0 1.0",
+      "translator": "Bhikkhu Sujato"
+    },
+    {
+      "uid": "mn60",
+      "slug": "sutta-mn60",
+      "title": "A  Sure Bet (MN60)",
+      "pali_title": "Apaṇṇakasutta",
+      "nikaya": "Majjhima Nikāya",
+      "passages": 274,
+      "licence": "CC0 1.0",
+      "translator": "Bhikkhu Sujato"
+    },
+    {
+      "uid": "mn61",
+      "slug": "sutta-mn61",
+      "title": "Advice to Rāhula at Ambalaṭṭhika (MN61)",
+      "pali_title": "Ambalaṭṭhikarāhulovādasutta",
+      "nikaya": "Majjhima Nikāya",
+      "passages": 91,
+      "licence": "CC0 1.0",
+      "translator": "Bhikkhu Sujato"
+    },
+    {
+      "uid": "mn63",
+      "slug": "sutta-mn63",
+      "title": "The Shorter Discourse With Māluṅkyaputta (MN63)",
+      "pali_title": "Cūḷamālukyasutta",
+      "nikaya": "Majjhima Nikāya",
+      "passages": 112,
+      "licence": "CC0 1.0",
+      "translator": "Bhikkhu Sujato"
+    },
+    {
+      "uid": "mn62",
+      "slug": "sutta-mn62",
+      "title": "The Longer Advice to Rāhula (MN62)",
+      "pali_title": "Mahārāhulovādasutta",
+      "nikaya": "Majjhima Nikāya",
+      "passages": 121,
+      "licence": "CC0 1.0",
+      "translator": "Bhikkhu Sujato"
+    },
+    {
+      "uid": "mn64",
+      "slug": "sutta-mn64",
+      "title": "The Longer Discourse With Māluṅkya (MN64)",
+      "pali_title": "Mahāmālukyasutta",
+      "nikaya": "Majjhima Nikāya",
+      "passages": 121,
+      "licence": "CC0 1.0",
+      "translator": "Bhikkhu Sujato"
+    },
+    {
+      "uid": "mn66",
+      "slug": "sutta-mn66",
+      "title": "The Simile of the Quail (MN66)",
+      "pali_title": "Laṭukikopamasutta",
+      "nikaya": "Majjhima Nikāya",
+      "passages": 197,
+      "licence": "CC0 1.0",
+      "translator": "Bhikkhu Sujato"
+    },
+    {
+      "uid": "mn67",
+      "slug": "sutta-mn67",
+      "title": "At Cātumā (MN67)",
+      "pali_title": "Cātumasutta",
+      "nikaya": "Majjhima Nikāya",
+      "passages": 125,
+      "licence": "CC0 1.0",
+      "translator": "Bhikkhu Sujato"
+    },
+    {
+      "uid": "mn65",
+      "slug": "sutta-mn65",
+      "title": "With Bhaddāli (MN65)",
+      "pali_title": "Bhaddālisutta",
+      "nikaya": "Majjhima Nikāya",
+      "passages": 196,
+      "licence": "CC0 1.0",
+      "translator": "Bhikkhu Sujato"
+    },
+    {
+      "uid": "mn68",
+      "slug": "sutta-mn68",
+      "title": "At Naḷakapāna (MN68)",
+      "pali_title": "Naḷakapānasutta",
+      "nikaya": "Majjhima Nikāya",
+      "passages": 168,
+      "licence": "CC0 1.0",
+      "translator": "Bhikkhu Sujato"
+    },
+    {
+      "uid": "mn69",
+      "slug": "sutta-mn69",
+      "title": "With Gulissāni (MN69)",
+      "pali_title": "Goliyānisutta",
+      "nikaya": "Majjhima Nikāya",
+      "passages": 85,
+      "licence": "CC0 1.0",
+      "translator": "Bhikkhu Sujato"
+    },
+    {
+      "uid": "mn70",
+      "slug": "sutta-mn70",
+      "title": "At Kīṭāgiri (MN70)",
+      "pali_title": "Kīṭāgirisutta",
+      "nikaya": "Majjhima Nikāya",
+      "passages": 185,
+      "licence": "CC0 1.0",
+      "translator": "Bhikkhu Sujato"
+    },
+    {
+      "uid": "mn71",
+      "slug": "sutta-mn71",
+      "title": "To Vacchagotta on the Three Knowledges (MN71)",
+      "pali_title": "Tevijjavacchasutta",
+      "nikaya": "Majjhima Nikāya",
+      "passages": 45,
+      "licence": "CC0 1.0",
+      "translator": "Bhikkhu Sujato"
+    },
+    {
+      "uid": "mn74",
+      "slug": "sutta-mn74",
+      "title": "With Dīghanakha (MN74)",
+      "pali_title": "Dīghanakhasutta",
+      "nikaya": "Majjhima Nikāya",
+      "passages": 98,
+      "licence": "CC0 1.0",
+      "translator": "Bhikkhu Sujato"
+    },
+    {
+      "uid": "mn72",
+      "slug": "sutta-mn72",
+      "title": "With Vacchagotta on Fire (MN72)",
+      "pali_title": "Aggivacchasutta",
+      "nikaya": "Majjhima Nikāya",
+      "passages": 87,
+      "licence": "CC0 1.0",
+      "translator": "Bhikkhu Sujato"
+    },
+    {
+      "uid": "mn73",
+      "slug": "sutta-mn73",
+      "title": "The Longer Discourse With Vacchagotta (MN73)",
+      "pali_title": "Mahāvacchasutta",
+      "nikaya": "Majjhima Nikāya",
+      "passages": 113,
+      "licence": "CC0 1.0",
+      "translator": "Bhikkhu Sujato"
+    },
+    {
+      "uid": "mn75",
+      "slug": "sutta-mn75",
+      "title": "With Māgaṇḍiya (MN75)",
+      "pali_title": "Māgaṇḍiyasutta",
+      "nikaya": "Majjhima Nikāya",
+      "passages": 253,
+      "licence": "CC0 1.0",
+      "translator": "Bhikkhu Sujato"
+    },
+    {
+      "uid": "mn78",
+      "slug": "sutta-mn78",
+      "title": "With Uggāhamāna Samaṇamaṇḍikāputta (MN78)",
+      "pali_title": "Samaṇamuṇḍikasutta",
+      "nikaya": "Majjhima Nikāya",
+      "passages": 145,
+      "licence": "CC0 1.0",
+      "translator": "Bhikkhu Sujato"
+    },
+    {
+      "uid": "mn77",
+      "slug": "sutta-mn77",
+      "title": "The Longer Discourse with Sakuludāyī (MN77)",
+      "pali_title": "Mahāsakuludāyisutta",
+      "nikaya": "Majjhima Nikāya",
+      "passages": 357,
+      "licence": "CC0 1.0",
+      "translator": "Bhikkhu Sujato"
+    },
+    {
+      "uid": "mn76",
+      "slug": "sutta-mn76",
+      "title": "With Sandaka (MN76)",
+      "pali_title": "Sandakasutta",
+      "nikaya": "Majjhima Nikāya",
+      "passages": 201,
+      "licence": "CC0 1.0",
+      "translator": "Bhikkhu Sujato"
+    },
+    {
+      "uid": "mn79",
+      "slug": "sutta-mn79",
+      "title": "The Shorter Discourse With Sakuludāyī (MN79)",
+      "pali_title": "Cūḷasakuludāyisutta",
+      "nikaya": "Majjhima Nikāya",
+      "passages": 193,
+      "licence": "CC0 1.0",
+      "translator": "Bhikkhu Sujato"
+    },
+    {
+      "uid": "mn81",
+      "slug": "sutta-mn81",
+      "title": "With Ghaṭīkāra (MN81)",
+      "pali_title": "Ghaṭikārasutta",
+      "nikaya": "Majjhima Nikāya",
+      "passages": 197,
+      "licence": "CC0 1.0",
+      "translator": "Bhikkhu Sujato"
+    },
+    {
+      "uid": "mn80",
+      "slug": "sutta-mn80",
+      "title": "With Vekhanasa (MN80)",
+      "pali_title": "Vekhanasasutta",
+      "nikaya": "Majjhima Nikāya",
+      "passages": 94,
+      "licence": "CC0 1.0",
+      "translator": "Bhikkhu Sujato"
+    },
+    {
+      "uid": "mn82",
+      "slug": "sutta-mn82",
+      "title": "With Raṭṭhapāla (MN82)",
+      "pali_title": "Raṭṭhapālasutta",
+      "nikaya": "Majjhima Nikāya",
+      "passages": 392,
+      "licence": "CC0 1.0",
+      "translator": "Bhikkhu Sujato"
+    },
+    {
+      "uid": "mn83",
+      "slug": "sutta-mn83",
+      "title": "About King Maghadeva (MN83)",
+      "pali_title": "Maghadevasutta",
+      "nikaya": "Majjhima Nikāya",
+      "passages": 124,
+      "licence": "CC0 1.0",
+      "translator": "Bhikkhu Sujato"
+    },
+    {
+      "uid": "mn85",
+      "slug": "sutta-mn85",
+      "title": "With Prince Bodhi (MN85)",
+      "pali_title": "Bodhirājakumārasutta",
+      "nikaya": "Majjhima Nikāya",
+      "passages": 500,
+      "licence": "CC0 1.0",
+      "translator": "Bhikkhu Sujato"
+    },
+    {
+      "uid": "mn84",
+      "slug": "sutta-mn84",
+      "title": "At Madhurā (MN84)",
+      "pali_title": "Madhurasutta",
+      "nikaya": "Majjhima Nikāya",
+      "passages": 131,
+      "licence": "CC0 1.0",
+      "translator": "Bhikkhu Sujato"
+    },
+    {
+      "uid": "mn87",
+      "slug": "sutta-mn87",
+      "title": "Born From the Beloved (MN87)",
+      "pali_title": "Piyajātikasutta",
+      "nikaya": "Majjhima Nikāya",
+      "passages": 115,
+      "licence": "CC0 1.0",
+      "translator": "Bhikkhu Sujato"
+    },
+    {
+      "uid": "mn86",
+      "slug": "sutta-mn86",
+      "title": "With Aṅgulimāla (MN86)",
+      "pali_title": "Aṅgulimālasutta",
+      "nikaya": "Majjhima Nikāya",
+      "passages": 197,
+      "licence": "CC0 1.0",
+      "translator": "Bhikkhu Sujato"
+    },
+    {
+      "uid": "mn88",
+      "slug": "sutta-mn88",
+      "title": "The Foreign Cloth (MN88)",
+      "pali_title": "Bāhitikasutta",
+      "nikaya": "Majjhima Nikāya",
+      "passages": 105,
+      "licence": "CC0 1.0",
+      "translator": "Bhikkhu Sujato"
+    },
+    {
+      "uid": "mn90",
+      "slug": "sutta-mn90",
+      "title": "At Kaṇṇakatthala (MN90)",
+      "pali_title": "Kaṇṇakatthalasutta",
+      "nikaya": "Majjhima Nikāya",
+      "passages": 141,
+      "licence": "CC0 1.0",
+      "translator": "Bhikkhu Sujato"
+    },
+    {
+      "uid": "mn89",
+      "slug": "sutta-mn89",
+      "title": "Shrines to the Teaching (MN89)",
+      "pali_title": "Dhammacetiyasutta",
+      "nikaya": "Majjhima Nikāya",
+      "passages": 147,
+      "licence": "CC0 1.0",
+      "translator": "Bhikkhu Sujato"
+    },
+    {
+      "uid": "mn91",
+      "slug": "sutta-mn91",
+      "title": "With Brahmāyu (MN91)",
+      "pali_title": "Brahmāyusutta",
+      "nikaya": "Majjhima Nikāya",
+      "passages": 284,
+      "licence": "CC0 1.0",
+      "translator": "Bhikkhu Sujato"
+    },
+    {
+      "uid": "mn92",
+      "slug": "sutta-mn92",
+      "title": "With Sela (MN92)",
+      "pali_title": "Selasutta",
+      "nikaya": "Majjhima Nikāya",
+      "passages": 203,
+      "licence": "CC0 1.0",
+      "translator": "Bhikkhu Sujato"
+    },
+    {
+      "uid": "mn94",
+      "slug": "sutta-mn94",
+      "title": "With Ghoṭamukha (MN94)",
+      "pali_title": "Ghoṭamukhasutta",
+      "nikaya": "Majjhima Nikāya",
+      "passages": 192,
+      "licence": "CC0 1.0",
+      "translator": "Bhikkhu Sujato"
+    },
+    {
+      "uid": "mn93",
+      "slug": "sutta-mn93",
+      "title": "With Assalāyana (MN93)",
+      "pali_title": "Assalāyanasutta",
+      "nikaya": "Majjhima Nikāya",
+      "passages": 192,
+      "licence": "CC0 1.0",
+      "translator": "Bhikkhu Sujato"
+    },
+    {
+      "uid": "mn95",
+      "slug": "sutta-mn95",
+      "title": "With Caṅkī (MN95)",
+      "pali_title": "Caṅkīsutta",
+      "nikaya": "Majjhima Nikāya",
+      "passages": 233,
+      "licence": "CC0 1.0",
+      "translator": "Bhikkhu Sujato"
+    },
+    {
+      "uid": "mn96",
+      "slug": "sutta-mn96",
+      "title": "With Esukārī (MN96)",
+      "pali_title": "Esukārīsutta",
+      "nikaya": "Majjhima Nikāya",
+      "passages": 120,
+      "licence": "CC0 1.0",
+      "translator": "Bhikkhu Sujato"
+    },
+    {
+      "uid": "mn97",
+      "slug": "sutta-mn97",
+      "title": "With Dhanañjāni (MN97)",
+      "pali_title": "Dhanañjānisutta",
+      "nikaya": "Majjhima Nikāya",
+      "passages": 157,
+      "licence": "CC0 1.0",
+      "translator": "Bhikkhu Sujato"
+    },
+    {
+      "uid": "mn99",
+      "slug": "sutta-mn99",
+      "title": "With Subha (MN99)",
+      "pali_title": "Subhasutta",
+      "nikaya": "Majjhima Nikāya",
+      "passages": 260,
+      "licence": "CC0 1.0",
+      "translator": "Bhikkhu Sujato"
+    },
+    {
+      "uid": "mn98",
+      "slug": "sutta-mn98",
+      "title": "With Vāseṭṭha (MN98)",
+      "pali_title": "Vāseṭṭhasutta",
+      "nikaya": "Majjhima Nikāya",
+      "passages": 293,
+      "licence": "CC0 1.0",
+      "translator": "Bhikkhu Sujato"
+    },
+    {
+      "uid": "mn100",
+      "slug": "sutta-mn100",
+      "title": "With Saṅgārava (MN100)",
+      "pali_title": "Saṅgāravasutta",
+      "nikaya": "Majjhima Nikāya",
+      "passages": 279,
+      "licence": "CC0 1.0",
+      "translator": "Bhikkhu Sujato"
+    },
+    {
+      "uid": "mn101",
+      "slug": "sutta-mn101",
+      "title": "At Devadaha (MN101)",
+      "pali_title": "Devadahasutta",
+      "nikaya": "Majjhima Nikāya",
+      "passages": 290,
+      "licence": "CC0 1.0",
+      "translator": "Bhikkhu Sujato"
+    },
+    {
+      "uid": "mn102",
+      "slug": "sutta-mn102",
+      "title": "The Five and Three (MN102)",
+      "pali_title": "Pañcattayasutta",
+      "nikaya": "Majjhima Nikāya",
+      "passages": 152,
+      "licence": "CC0 1.0",
+      "translator": "Bhikkhu Sujato"
+    },
+    {
+      "uid": "mn103",
+      "slug": "sutta-mn103",
+      "title": "Is This What You Think Of Me? (MN103)",
+      "pali_title": "Kintisutta",
+      "nikaya": "Majjhima Nikāya",
+      "passages": 123,
+      "licence": "CC0 1.0",
+      "translator": "Bhikkhu Sujato"
+    },
+    {
+      "uid": "mn104",
+      "slug": "sutta-mn104",
+      "title": "At Sāmagāma (MN104)",
+      "pali_title": "Sāmagāmasutta",
+      "nikaya": "Majjhima Nikāya",
+      "passages": 159,
+      "licence": "CC0 1.0",
+      "translator": "Bhikkhu Sujato"
+    },
+    {
+      "uid": "mn105",
+      "slug": "sutta-mn105",
+      "title": "With Sunakkhatta (MN105)",
+      "pali_title": "Sunakkhattasutta",
+      "nikaya": "Majjhima Nikāya",
+      "passages": 180,
+      "licence": "CC0 1.0",
+      "translator": "Bhikkhu Sujato"
+    },
+    {
+      "uid": "mn106",
+      "slug": "sutta-mn106",
+      "title": "Conducive to the Imperturbable (MN106)",
+      "pali_title": "Āneñjasappāyasutta",
+      "nikaya": "Majjhima Nikāya",
+      "passages": 126,
+      "licence": "CC0 1.0",
+      "translator": "Bhikkhu Sujato"
+    },
+    {
+      "uid": "mn107",
+      "slug": "sutta-mn107",
+      "title": "With Moggallāna the Accountant (MN107)",
+      "pali_title": "Gaṇakamoggallānasutta",
+      "nikaya": "Majjhima Nikāya",
+      "passages": 95,
+      "licence": "CC0 1.0",
+      "translator": "Bhikkhu Sujato"
+    },
+    {
+      "uid": "mn108",
+      "slug": "sutta-mn108",
+      "title": "With Moggallāna the Guardian (MN108)",
+      "pali_title": "Gopakamoggallānasutta",
+      "nikaya": "Majjhima Nikāya",
+      "passages": 136,
+      "licence": "CC0 1.0",
+      "translator": "Bhikkhu Sujato"
+    },
+    {
+      "uid": "mn110",
+      "slug": "sutta-mn110",
+      "title": "The Shorter Discourse on the Full-Moon Night (MN110)",
+      "pali_title": "Cūḷapuṇṇamasutta",
+      "nikaya": "Majjhima Nikāya",
+      "passages": 90,
+      "licence": "CC0 1.0",
+      "translator": "Bhikkhu Sujato"
+    },
+    {
+      "uid": "mn109",
+      "slug": "sutta-mn109",
+      "title": "The Longer Discourse on the Full-Moon Night (MN109)",
+      "pali_title": "Mahāpuṇṇamasutta",
+      "nikaya": "Majjhima Nikāya",
+      "passages": 115,
+      "licence": "CC0 1.0",
+      "translator": "Bhikkhu Sujato"
+    },
+    {
+      "uid": "mn111",
+      "slug": "sutta-mn111",
+      "title": "One by One (MN111)",
+      "pali_title": "Anupadasutta",
+      "nikaya": "Majjhima Nikāya",
+      "passages": 94,
+      "licence": "CC0 1.0",
+      "translator": "Bhikkhu Sujato"
+    },
+    {
+      "uid": "mn112",
+      "slug": "sutta-mn112",
+      "title": "The Sixfold Purification (MN112)",
+      "pali_title": "Chabbisodhanasutta",
+      "nikaya": "Majjhima Nikāya",
+      "passages": 146,
+      "licence": "CC0 1.0",
+      "translator": "Bhikkhu Sujato"
+    },
+    {
+      "uid": "mn113",
+      "slug": "sutta-mn113",
+      "title": "A True Person (MN113)",
+      "pali_title": "Sappurisasutta",
+      "nikaya": "Majjhima Nikāya",
+      "passages": 120,
+      "licence": "CC0 1.0",
+      "translator": "Bhikkhu Sujato"
+    },
+    {
+      "uid": "mn114",
+      "slug": "sutta-mn114",
+      "title": "What Should and Should Not Be Cultivated (MN114)",
+      "pali_title": "Sevitabbāsevitabbasutta",
+      "nikaya": "Majjhima Nikāya",
+      "passages": 249,
+      "licence": "CC0 1.0",
+      "translator": "Bhikkhu Sujato"
+    },
+    {
+      "uid": "mn117",
+      "slug": "sutta-mn117",
+      "title": "The Great Forty (MN117)",
+      "pali_title": "Mahācattārīsakasutta",
+      "nikaya": "Majjhima Nikāya",
+      "passages": 151,
+      "licence": "CC0 1.0",
+      "translator": "Bhikkhu Sujato"
+    },
+    {
+      "uid": "mn115",
+      "slug": "sutta-mn115",
+      "title": "Many Elements (MN115)",
+      "pali_title": "Bahudhātukasutta",
+      "nikaya": "Majjhima Nikāya",
+      "passages": 140,
+      "licence": "CC0 1.0",
+      "translator": "Bhikkhu Sujato"
+    },
+    {
+      "uid": "mn116",
+      "slug": "sutta-mn116",
+      "title": "At Isigili (MN116)",
+      "pali_title": "Isigilisutta",
+      "nikaya": "Majjhima Nikāya",
+      "passages": 95,
+      "licence": "CC0 1.0",
+      "translator": "Bhikkhu Sujato"
+    },
+    {
+      "uid": "mn118",
+      "slug": "sutta-mn118",
+      "title": "Mindfulness of Breathing (MN118)",
+      "pali_title": "Ānāpānassatisutta",
+      "nikaya": "Majjhima Nikāya",
+      "passages": 145,
+      "licence": "CC0 1.0",
+      "translator": "Bhikkhu Sujato"
+    },
+    {
+      "uid": "mn119",
+      "slug": "sutta-mn119",
+      "title": "Mindfulness of the Body (MN119)",
+      "pali_title": "Kāyagatāsatisutta",
+      "nikaya": "Majjhima Nikāya",
+      "passages": 161,
+      "licence": "CC0 1.0",
+      "translator": "Bhikkhu Sujato"
+    },
+    {
+      "uid": "mn120",
+      "slug": "sutta-mn120",
+      "title": "Rebirth by Choice (MN120)",
+      "pali_title": "Saṅkhārupapattisutta",
+      "nikaya": "Majjhima Nikāya",
+      "passages": 131,
+      "licence": "CC0 1.0",
+      "translator": "Bhikkhu Sujato"
+    },
+    {
+      "uid": "mn121",
+      "slug": "sutta-mn121",
+      "title": "The Shorter Discourse on Emptiness (MN121)",
+      "pali_title": "Cūḷasuññatasutta",
+      "nikaya": "Majjhima Nikāya",
+      "passages": 99,
+      "licence": "CC0 1.0",
+      "translator": "Bhikkhu Sujato"
+    },
+    {
+      "uid": "mn122",
+      "slug": "sutta-mn122",
+      "title": "The Longer Discourse on Emptiness (MN122)",
+      "pali_title": "Mahāsuññatasutta",
+      "nikaya": "Majjhima Nikāya",
+      "passages": 170,
+      "licence": "CC0 1.0",
+      "translator": "Bhikkhu Sujato"
+    },
+    {
+      "uid": "mn123",
+      "slug": "sutta-mn123",
+      "title": "Incredible and Amazing (MN123)",
+      "pali_title": "Acchariyaabbhutasutta",
+      "nikaya": "Majjhima Nikāya",
+      "passages": 100,
+      "licence": "CC0 1.0",
+      "translator": "Bhikkhu Sujato"
+    },
+    {
+      "uid": "mn124",
+      "slug": "sutta-mn124",
+      "title": "With Bakkula (MN124)",
+      "pali_title": "Bākulasutta",
+      "nikaya": "Majjhima Nikāya",
+      "passages": 66,
+      "licence": "CC0 1.0",
+      "translator": "Bhikkhu Sujato"
+    },
+    {
+      "uid": "mn125",
+      "slug": "sutta-mn125",
+      "title": "The Level of the Tamed (MN125)",
+      "pali_title": "Dantabhūmisutta",
+      "nikaya": "Majjhima Nikāya",
+      "passages": 136,
+      "licence": "CC0 1.0",
+      "translator": "Bhikkhu Sujato"
+    },
+    {
+      "uid": "mn126",
+      "slug": "sutta-mn126",
+      "title": "With Bhūmija (MN126)",
+      "pali_title": "Bhūmijasutta",
+      "nikaya": "Majjhima Nikāya",
+      "passages": 119,
+      "licence": "CC0 1.0",
+      "translator": "Bhikkhu Sujato"
+    },
+    {
+      "uid": "mn127",
+      "slug": "sutta-mn127",
+      "title": "With Anuruddha (MN127)",
+      "pali_title": "Anuruddhasutta",
+      "nikaya": "Majjhima Nikāya",
+      "passages": 121,
+      "licence": "CC0 1.0",
+      "translator": "Bhikkhu Sujato"
+    },
+    {
+      "uid": "mn128",
+      "slug": "sutta-mn128",
+      "title": "Corruptions (MN128)",
+      "pali_title": "Upakkilesasutta",
+      "nikaya": "Majjhima Nikāya",
+      "passages": 236,
+      "licence": "CC0 1.0",
+      "translator": "Bhikkhu Sujato"
+    },
+    {
+      "uid": "mn129",
+      "slug": "sutta-mn129",
+      "title": "The Foolish and the Astute (MN129)",
+      "pali_title": "Bālapaṇḍitasutta",
+      "nikaya": "Majjhima Nikāya",
+      "passages": 291,
+      "licence": "CC0 1.0",
+      "translator": "Bhikkhu Sujato"
+    },
+    {
+      "uid": "mn130",
+      "slug": "sutta-mn130",
+      "title": "Messengers of the Gods (MN130)",
+      "pali_title": "Devadūtasutta",
+      "nikaya": "Majjhima Nikāya",
+      "passages": 194,
+      "licence": "CC0 1.0",
+      "translator": "Bhikkhu Sujato"
+    },
+    {
+      "uid": "mn131",
+      "slug": "sutta-mn131",
+      "title": "One Fine Night (MN131)",
+      "pali_title": "Bhaddekarattasutta",
+      "nikaya": "Majjhima Nikāya",
+      "passages": 75,
+      "licence": "CC0 1.0",
+      "translator": "Bhikkhu Sujato"
+    },
+    {
+      "uid": "mn132",
+      "slug": "sutta-mn132",
+      "title": "Ānanda and One Fine Night (MN132)",
+      "pali_title": "Ānandabhaddekarattasutta",
+      "nikaya": "Majjhima Nikāya",
+      "passages": 45,
+      "licence": "CC0 1.0",
+      "translator": "Bhikkhu Sujato"
+    },
+    {
+      "uid": "mn133",
+      "slug": "sutta-mn133",
+      "title": "Mahākaccāna and One Fine Night (MN133)",
+      "pali_title": "Mahākaccānabhaddekarattasutta",
+      "nikaya": "Majjhima Nikāya",
+      "passages": 146,
+      "licence": "CC0 1.0",
+      "translator": "Bhikkhu Sujato"
+    },
+    {
+      "uid": "mn134",
+      "slug": "sutta-mn134",
+      "title": "Lomasakaṅgiya and One Fine Night (MN134)",
+      "pali_title": "Lomasakaṅgiyabhaddekarattasutta",
+      "nikaya": "Majjhima Nikāya",
+      "passages": 69,
+      "licence": "CC0 1.0",
+      "translator": "Bhikkhu Sujato"
+    },
+    {
+      "uid": "mn135",
+      "slug": "sutta-mn135",
+      "title": "The Shorter Analysis of Deeds (MN135)",
+      "pali_title": "Cūḷakammavibhaṅgasutta",
+      "nikaya": "Majjhima Nikāya",
+      "passages": 95,
+      "licence": "CC0 1.0",
+      "translator": "Bhikkhu Sujato"
+    },
+    {
+      "uid": "mn136",
+      "slug": "sutta-mn136",
+      "title": "The Longer Analysis of Deeds (MN136)",
+      "pali_title": "Mahākammavibhaṅgasutta",
+      "nikaya": "Majjhima Nikāya",
+      "passages": 152,
+      "licence": "CC0 1.0",
+      "translator": "Bhikkhu Sujato"
+    },
+    {
+      "uid": "mn137",
+      "slug": "sutta-mn137",
+      "title": "The Analysis of the Six Sense Fields (MN137)",
+      "pali_title": "Saḷāyatanavibhaṅgasutta",
+      "nikaya": "Majjhima Nikāya",
+      "passages": 193,
+      "licence": "CC0 1.0",
+      "translator": "Bhikkhu Sujato"
+    },
+    {
+      "uid": "mn138",
+      "slug": "sutta-mn138",
+      "title": "A Summary Recital and its Analysis (MN138)",
+      "pali_title": "Uddesavibhaṅgasutta",
+      "nikaya": "Majjhima Nikāya",
+      "passages": 124,
+      "licence": "CC0 1.0",
+      "translator": "Bhikkhu Sujato"
+    },
+    {
+      "uid": "mn139",
+      "slug": "sutta-mn139",
+      "title": "The Analysis of No Strife (MN139)",
+      "pali_title": "Araṇavibhaṅgasutta",
+      "nikaya": "Majjhima Nikāya",
+      "passages": 171,
+      "licence": "CC0 1.0",
+      "translator": "Bhikkhu Sujato"
+    },
+    {
+      "uid": "mn140",
+      "slug": "sutta-mn140",
+      "title": "The Analysis of the Elements (MN140)",
+      "pali_title": "Dhātuvibhaṅgasutta",
+      "nikaya": "Majjhima Nikāya",
+      "passages": 229,
+      "licence": "CC0 1.0",
+      "translator": "Bhikkhu Sujato"
+    },
+    {
+      "uid": "mn141",
+      "slug": "sutta-mn141",
+      "title": "The Analysis of the Truths (MN141)",
+      "pali_title": "Saccavibhaṅgasutta",
+      "nikaya": "Majjhima Nikāya",
+      "passages": 121,
+      "licence": "CC0 1.0",
+      "translator": "Bhikkhu Sujato"
+    },
+    {
+      "uid": "mn142",
+      "slug": "sutta-mn142",
+      "title": "The Analysis of Religious Donations (MN142)",
+      "pali_title": "Dakkhiṇāvibhaṅgasutta",
+      "nikaya": "Majjhima Nikāya",
+      "passages": 122,
+      "licence": "CC0 1.0",
+      "translator": "Bhikkhu Sujato"
+    },
+    {
+      "uid": "mn143",
+      "slug": "sutta-mn143",
+      "title": "Advice to Anāthapiṇḍika (MN143)",
+      "pali_title": "Anāthapiṇḍikovādasutta",
+      "nikaya": "Majjhima Nikāya",
+      "passages": 140,
+      "licence": "CC0 1.0",
+      "translator": "Bhikkhu Sujato"
+    },
+    {
+      "uid": "mn144",
+      "slug": "sutta-mn144",
+      "title": "Advice to Channa (MN144)",
+      "pali_title": "Channovādasutta",
+      "nikaya": "Majjhima Nikāya",
+      "passages": 72,
+      "licence": "CC0 1.0",
+      "translator": "Bhikkhu Sujato"
+    },
+    {
+      "uid": "mn145",
+      "slug": "sutta-mn145",
+      "title": "Advice to Puṇṇa (MN145)",
+      "pali_title": "Puṇṇovādasutta",
+      "nikaya": "Majjhima Nikāya",
+      "passages": 81,
+      "licence": "CC0 1.0",
+      "translator": "Bhikkhu Sujato"
+    },
+    {
+      "uid": "mn146",
+      "slug": "sutta-mn146",
+      "title": "Advice from Nandaka (MN146)",
+      "pali_title": "Nandakovādasutta",
+      "nikaya": "Majjhima Nikāya",
+      "passages": 183,
+      "licence": "CC0 1.0",
+      "translator": "Bhikkhu Sujato"
+    },
+    {
+      "uid": "mn147",
+      "slug": "sutta-mn147",
+      "title": "The Shorter Advice to Rāhula (MN147)",
+      "pali_title": "Cūḷarāhulovādasutta",
+      "nikaya": "Majjhima Nikāya",
+      "passages": 110,
+      "licence": "CC0 1.0",
+      "translator": "Bhikkhu Sujato"
+    },
+    {
+      "uid": "mn148",
+      "slug": "sutta-mn148",
+      "title": "Six By Six (MN148)",
+      "pali_title": "Chachakkasutta",
+      "nikaya": "Majjhima Nikāya",
+      "passages": 206,
+      "licence": "CC0 1.0",
+      "translator": "Bhikkhu Sujato"
+    },
+    {
+      "uid": "mn149",
+      "slug": "sutta-mn149",
+      "title": "The Great Discourse on What Relates to the Six Sense Fields (MN149)",
+      "pali_title": "Mahāsaḷāyatanikasutta",
+      "nikaya": "Majjhima Nikāya",
+      "passages": 72,
+      "licence": "CC0 1.0",
+      "translator": "Bhikkhu Sujato"
+    },
+    {
+      "uid": "mn150",
+      "slug": "sutta-mn150",
+      "title": "With the People of Nagaravinda (MN150)",
+      "pali_title": "Nagaravindeyyasutta",
+      "nikaya": "Majjhima Nikāya",
+      "passages": 58,
+      "licence": "CC0 1.0",
+      "translator": "Bhikkhu Sujato"
+    },
+    {
+      "uid": "mn151",
+      "slug": "sutta-mn151",
+      "title": "The Purification of Alms (MN151)",
+      "pali_title": "Piṇḍapātapārisuddhisutta",
+      "nikaya": "Majjhima Nikāya",
+      "passages": 79,
+      "licence": "CC0 1.0",
+      "translator": "Bhikkhu Sujato"
+    },
+    {
+      "uid": "mn152",
+      "slug": "sutta-mn152",
+      "title": "The Development of the Faculties (MN152)",
+      "pali_title": "Indriyabhāvanāsutta",
+      "nikaya": "Majjhima Nikāya",
+      "passages": 125,
+      "licence": "CC0 1.0",
+      "translator": "Bhikkhu Sujato"
+    }
+  ],
+  "totals": {
+    "suttas": 186,
+    "passages": 37446
+  }
+}
