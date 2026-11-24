@@ -1,0 +1,97 @@
+# Builds the desktop app for every platform and the library data it downloads,
+# and attaches them to the GitHub release for the tag. Push a tag that matches
+# package.json's version (v0.2.0 for "0.2.0") to run it.
+name: Release
+
+on:
+  push:
+    tags: ["v*"]
+  workflow_dispatch:
+    inputs:
+      tag:
+        description: "Existing tag to build and attach to (for example v0.2.0)"
+        required: true
+
+permissions:
+  contents: write
+
+env:
+  TAG: ${{ inputs.tag || github.ref_name }}
+
+jobs:
+  app:
+    strategy:
+      matrix:
+        include:
+          - runner: ubuntu-latest
+            targets: bun-linux-x64,bun-linux-arm64,bun-windows-x64
+          # macOS builds run on a Mac so they can be signed (ad hoc), which
+          # Apple Silicon requires before it will run a program at all.
+          - runner: macos-latest
+            targets: bun-darwin-arm64,bun-darwin-x64
+    runs-on: ${{ matrix.runner }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ env.TAG }}
+          # The app build needs the code, not the 1.4 GB corpus.
+          sparse-checkout: |
+            client
+            server
+            ingest
+            scripts
+      - uses: oven-sh/setup-bun@v2
+        with:
+          bun-version: 1.4.4
+      - name: Check the tag matches package.json
+        shell: bash
+        run: test "v$(bun -e 'console.log(require("./package.json").version)')" = "$TAG"
+      - run: bun install --frozen-lockfile
+      - run: bun run build:app --target=${{ matrix.targets }} --package
+      - uses: actions/upload-artifact@v4
+        with:
+          name: app-${{ matrix.runner }}
+          path: |
+            dist/*.zip
+            dist/*.tar.gz
+          if-no-files-found: error
+
+  library:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ env.TAG }}
+      - uses: oven-sh/setup-bun@v2
+        with:
+          bun-version: 1.4.4
+      - run: bun install --frozen-lockfile
+      - run: bun run pack:library
+      - uses: actions/upload-artifact@v4
+        with:
+          name: library
+          path: dist/uwl-library-*.jsonl.gz
+          if-no-files-found: error
+
+  publish:
+    needs: [app, library]
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ env.TAG }}
+          sparse-checkout: .github
+      - uses: actions/download-artifact@v4
+        with:
+          path: dist
+          merge-multiple: true
+      - name: Create the release if needed, then attach the files
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          VERSION="${TAG#v}"
+          if ! gh release view "$TAG" >/dev/null 2>&1; then
+            sed "s/{{VERSION}}/$VERSION/g" .github/release-notes.md > notes.md
+            gh release create "$TAG" --title "Universal Wisdom Library $VERSION" --notes-file notes.md
+          fi
+          gh release upload "$TAG" dist/* --clobber

@@ -1,9 +1,14 @@
 import { Database } from "bun:sqlite";
-import { readFileSync, mkdirSync, existsSync } from "node:fs";
+import { mkdirSync, existsSync } from "node:fs";
 import { dirname, join } from "node:path";
 import { indexText } from "./text";
+// Imported as text so the schema travels inside a compiled executable, where
+// there is no source tree on disk to read it from.
+import SCHEMA_SQL from "./schema.sql" with { type: "text" };
 
-export const ROOT = join(import.meta.dir, "..");
+// The folder that holds data/ (corpus, registry, database). It is the checkout
+// by default; the desktop app points it at a per-user folder with UWL_HOME.
+export const ROOT = process.env.UWL_HOME || join(import.meta.dir, "..");
 export const DB_PATH = process.env.UWL_DB_PATH || join(ROOT, "data", "uwl.db");
 
 let db: Database | null = null;
@@ -20,8 +25,7 @@ export function getDb(): Database {
 }
 
 export function migrate() {
-  const sql = readFileSync(join(import.meta.dir, "schema.sql"), "utf8");
-  getDb().run(sql);
+  getDb().run(SCHEMA_SQL);
   // The category shelf was added after the first corpus build. CREATE TABLE IF
   // NOT EXISTS leaves an existing database unchanged, so add the columns here.
   const workColumns = new Set(

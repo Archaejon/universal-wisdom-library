@@ -1,11 +1,13 @@
 import { join, normalize, sep } from "node:path";
 import { existsSync } from "node:fs";
 import { api } from "../server/api";
-import { getDb, isSeeded, migrate } from "../server/db";
+import { DB_PATH, getDb, isSeeded, migrate } from "../server/db";
 import { setPeerAddress } from "../server/util";
 
 const ROOT = join(import.meta.dir, "..");
-const PUBLIC = join(ROOT, "public");
+// The built client. The desktop app unpacks its embedded copy elsewhere and
+// points here with UWL_PUBLIC_DIR.
+const PUBLIC = process.env.UWL_PUBLIC_DIR || join(ROOT, "public");
 const PORT = Number(process.env.PORT ?? 4173);
 const HOST = process.env.HOST ?? "127.0.0.1";
 const IS_PROD = process.env.NODE_ENV === "production";
@@ -151,7 +153,7 @@ const server = Bun.serve({
 });
 
 console.log(`Universal Wisdom Library listening at http://${HOST}:${server.port} (${IS_PROD ? "production" : "development"})`);
-console.log(`Database: ${process.env.UWL_DB_PATH ?? join(ROOT, "data", "uwl.db")}`);
+console.log(`Database: ${DB_PATH}`);
 
 // The availability check used to be a script nobody ran. It now runs here, on the
 // schedule the registry needs: the first pass shortly after start-up, then every
