@@ -9,11 +9,12 @@ licence and attribution.
 ## Just want to read it?
 
 Download the app for your computer from the
-[latest release](https://github.com/Archaejon/universal-wisdom-library/releases/latest)
-(Windows, Mac or Linux), unzip it and double-click **Universal Wisdom Library**.
-The first start downloads the library once and then opens it in your web
-browser. Each download has a "READ ME FIRST" note covering the security warning
-your computer shows for apps that aren't signed yet.
+[latest release](https://github.com/Archaejon/universal-wisdom-library/releases/latest):
+the setup program on Windows, the `.dmg` on a Mac (drag it into Applications),
+or the `.tar.gz` on Linux. Opening it opens your web browser straight away; the
+first time, the page shows the library downloading and unpacking, after which
+it opens in seconds. The release notes cover the security warning your computer
+shows for apps that aren't signed yet.
 
 Everything below is for running it from source.
 
@@ -122,9 +123,18 @@ bun run db:compact     # VACUUM; needs free disk about the size of the database
 ## The desktop app
 
 `scripts/app.ts` is the program behind the downloadable app. It keeps the
-library in a per-user folder, downloads the ready-made database on the first
-run, then starts the server on 127.0.0.1 and opens the browser. Two scripts
-produce what a release carries, and the release workflow
+library in a per-user folder and opens the browser at once. On the first run
+it shows a setup page (`scripts/app-setup-page.ts`) while it downloads the
+ready-made database, then serves the library on 127.0.0.1 at the same address.
+Only one copy runs per library folder: a second launch reopens the browser on
+the first. With no window to close, it stops after five minutes without a
+browser tab open (`UWL_IDLE_EXIT_MINUTES`; open pages check in every minute).
+On Linux the first run adds a menu entry. Windows gets a setup program
+(`installer/windows.iss`, Inno Setup) and macOS an `.app` in a `.dmg`; both are
+built by the release workflow on those systems. The icons in `assets/icon` come
+from `bun run scripts/make-icons.ts`.
+
+Two scripts produce what a release carries, and the release workflow
 (`.github/workflows/release.yml`) runs both when a version tag is pushed:
 
 ```sh

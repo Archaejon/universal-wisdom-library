@@ -24,9 +24,14 @@ jobs:
       matrix:
         include:
           - runner: ubuntu-latest
-            targets: bun-linux-x64,bun-linux-arm64,bun-windows-x64
-          # macOS builds run on a Mac so they can be signed (ad hoc), which
-          # Apple Silicon requires before it will run a program at all.
+            targets: bun-linux-x64,bun-linux-arm64
+          # Windows builds run on Windows: only there can the .exe get its icon
+          # and run without a console window, and the setup program be built.
+          - runner: windows-latest
+            targets: bun-windows-x64
+          # macOS builds run on a Mac so the .app can be signed (ad hoc), which
+          # Apple Silicon requires before it will run a program at all, and
+          # packed into a .dmg.
           - runner: macos-latest
             targets: bun-darwin-arm64,bun-darwin-x64
     runs-on: ${{ matrix.runner }}
@@ -36,7 +41,9 @@ jobs:
           ref: ${{ env.TAG }}
           # The app build needs the code, not the 1.4 GB corpus.
           sparse-checkout: |
+            assets
             client
+            installer
             server
             ingest
             scripts
@@ -47,13 +54,30 @@ jobs:
         shell: bash
         run: test "v$(bun -e 'console.log(require("./package.json").version)')" = "$TAG"
       - run: bun install --frozen-lockfile
-      - run: bun run build:app --target=${{ matrix.targets }} --package
+      - name: Build the app
+        shell: bash
+        run: |
+          if [ "$RUNNER_OS" = "Windows" ]; then
+            bun run build:app --target=${{ matrix.targets }}
+          else
+            bun run build:app --target=${{ matrix.targets }} --package
+          fi
+      - name: Build the Windows setup program
+        if: runner.os == 'Windows'
+        shell: pwsh
+        run: |
+          $iscc = "${env:ProgramFiles(x86)}\Inno Setup 6\ISCC.exe"
+          if (-not (Test-Path $iscc)) { choco install innosetup -y --no-progress }
+          $version = "${env:TAG}".TrimStart("v")
+          & $iscc "/DAppVersion=$version" installer\windows.iss
+          if ($LASTEXITCODE -ne 0) { exit $LASTEXITCODE }
       - uses: actions/upload-artifact@v5
         with:
           name: app-${{ matrix.runner }}
           path: |
-            dist/*.zip
             dist/*.tar.gz
+            dist/*.dmg
+            dist/*-setup.exe
           if-no-files-found: error
 
   # The ready-made library database the app downloads: about 7 GB built,
