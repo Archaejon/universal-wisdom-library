@@ -10,6 +10,21 @@ and where things stand (commits, branch, anything not pushed or not verified).
 
 ---
 
+## 2026-11-24: release check
+
+**Done**
+- Checked `Archaejon/universal-wisdom-library` for releases: none, not even
+  drafts, and no git tags locally or on GitHub. `package.json` is at 0.1.0.
+
+**Open / next**
+- If a release is wanted: tag `v0.1.0` on `main` and publish a GitHub release.
+  The app needs `data/uwl.db` (9.4 GB, not in git) or a `db:rebuild` from the
+  corpus, so release notes should say how to build the database.
+
+**Git:** this entry only; committed and pushed with it.
+
+---
+
 ## 2026-11-23: audit, GitHub repo, data under version control
 
 **Done**
