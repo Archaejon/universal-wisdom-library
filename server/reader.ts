@@ -248,7 +248,7 @@ function streamUnavailable(header: any, stream: { provider: string; upstream: st
 function workHeader(workId: number) {
   return getDb()
     .query(
-      `SELECT w.slug, w.title, w.original_title, w.transliteration, w.date_display,
+      `SELECT w.slug, w.title, w.original_title, w.transliteration, w.date_display, w.category, w.subcategory,
               COALESCE((SELECT p.ref_scheme FROM passages p WHERE p.work_id = w.id LIMIT 1), '') AS ref_scheme,
               w.availability_note, w.featured, w.featured_note,
               t.slug AS tradition_slug, t.name AS tradition_name, s.name AS school_name,
@@ -319,6 +319,46 @@ export async function getReader(workSlug: string, rawRef: string | undefined, ve
     // notice says what the chapter holds and where the rest is read.
     const served = overlay?.chapter.servedVerses;
     const rows = served && served < chapterRows.length ? chapterRows.slice(0, served) : chapterRows;
+    // Every edition that supplies text somewhere in the chapter, for the
+    // reader's edition choice. Collected while the rows are built.
+    const editions = new Map<string, Record<string, any>>();
+    const passages = rows.map((p) => {
+      const texts = textsFor(work.id, p.id, p.reference, overlay ?? undefined);
+      for (const t of texts) {
+        if (!editions.has(t.slug)) {
+          const { text: _text, ...edition } = t;
+          editions.set(t.slug, edition);
+        }
+      }
+      const chosen = versionSlug ? texts.find((t) => t.slug === versionSlug) : undefined;
+      const preferred = chosen ?? texts.find((t) => t.language.code === "en") ?? texts[0];
+      // Original-language text sits beside the translation when the
+      // holding project supplies both. Each pane keeps its own edition and
+      // source, so a verse is never shown without its attribution. A chosen
+      // edition (?version=) takes the side it belongs to.
+      const original =
+        (chosen?.editionType === "original" ? chosen : undefined) ??
+        texts.find((t) => t.editionType === "original") ??
+        texts.find((t) => t.language.code !== "en") ??
+        null;
+      const translation =
+        (chosen && chosen.editionType !== "original" && chosen.slug !== original?.slug ? chosen : undefined) ??
+        texts.find((t) => t.editionType === "translation" && t.language.code === "en") ??
+        texts.find((t) => t.language.code === "en") ??
+        null;
+      const parallel = !!original && !!translation && original.slug !== translation.slug;
+      return {
+        id: p.id,
+        reference: p.reference,
+        label: p.label,
+        text: preferred?.text ?? "",
+        edition: preferred ?? null,
+        editions: texts.length,
+        original,
+        translation,
+        parallel,
+      };
+    });
     return {
       type: "chapter" as const,
       work: header,
@@ -326,43 +366,14 @@ export async function getReader(workSlug: string, rawRef: string | undefined, ve
         ref,
         label: chapterLabels.get(ref) ?? `Chapter ${ref}`,
         total: rows.length,
-        passages: rows.map((p) => {
-          const texts = textsFor(work.id, p.id, p.reference, overlay ?? undefined);
-          const preferred =
-            (versionSlug ? texts.find((t) => t.slug === versionSlug) : undefined) ??
-            texts.find((t) => t.language.code === "en") ??
-            texts[0];
-          // Original-language text sits beside the translation when the
-          // holding project supplies both. Each pane keeps its own edition and
-          // source, so a verse is never shown without its attribution.
-          const original =
-            texts.find((t) => t.editionType === "original") ??
-            texts.find((t) => t.language.code !== "en") ??
-            null;
-          const translation =
-            texts.find((t) => t.editionType === "translation" && t.language.code === "en") ??
-            texts.find((t) => t.language.code === "en") ??
-            null;
-          const parallel = !!original && !!translation && original.slug !== translation.slug;
-          return {
-            id: p.id,
-            reference: p.reference,
-            label: p.label,
-            text: preferred?.text ?? "",
-            edition: preferred ?? null,
-            editions: texts.length,
-            original,
-            translation,
-            parallel,
-          };
-        }),
+        passages,
       },
       chapters: chapterList,
       navigation: {
         prev: chapterIdx > 0 ? { type: "chapter", ref: chapters[chapterIdx - 1] } : null,
         next: chapterIdx < chapters.length - 1 ? { type: "chapter", ref: chapters[chapterIdx + 1] } : null,
       },
-      versions: [],
+      versions: [...editions.values()],
       streaming: streamingMeta(overlay ?? undefined),
       parallelNote: "Original and translation are separate editions from the holding project; each pane names its own source.",
     };

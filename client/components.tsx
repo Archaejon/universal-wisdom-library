@@ -2,15 +2,13 @@ import {
   createContext,
   useContext,
   useEffect,
-  useId,
   useMemo,
   useRef,
   useState,
   type ReactNode,
 } from "react";
-import { Link, navigate, useLocation } from "./router";
+import { Link, navigate } from "./router";
 import { useAuth } from "./auth";
-import { usePrefs } from "./prefs";
 
 export type Site = {
   name: string;
@@ -40,6 +38,12 @@ export function Icon({ name, size = 18 }: { name: string; size?: number }) {
     case "external": return <svg {...common}><path d="M14 4h6v6M20 4l-9 9" /><path d="M19 13v6H5V5h6" /></svg>;
     case "settings": return <svg {...common}><path d="M4 6h10M18 6h2M4 12h2M10 12h10M4 18h10M18 18h2" /><circle cx="16" cy="6" r="2" /><circle cx="8" cy="12" r="2" /><circle cx="16" cy="18" r="2" /></svg>;
     case "quote": return <svg {...common}><path d="M9 7H5v6h4v4H5M19 7h-4v6h4v4h-4" /></svg>;
+    case "library": return <svg {...common}><path d="M5 4v16M9 4v16M13 5l4 15M19 4v16" /></svg>;
+    case "book": return <svg {...common}><path d="M12 6c-2-1.5-5-2-8-1.5V19c3-.5 6 0 8 1.5 2-1.5 5-2 8-1.5V4.5c-3-.5-6 0-8 1.5Z" /><path d="M12 6v14.5" /></svg>;
+    case "tag": return <svg {...common}><path d="M4 4h7l9 9-7 7-9-9V4Z" /><circle cx="8.5" cy="8.5" r="1.3" /></svg>;
+    case "columns": return <svg {...common}><path d="M4 5h7v14H4zM13 5h7v14h-7z" /></svg>;
+    case "chat": return <svg {...common}><path d="M5 5h14v10H10l-4 4v-4H5z" /></svg>;
+    case "user": return <svg {...common}><circle cx="12" cy="8" r="3.5" /><path d="M5 20c1-3.5 4-5 7-5s6 1.5 7 5" /></svg>;
     default: return null;
   }
 }
@@ -53,139 +57,6 @@ export function Wordmark({ site, compact = false }: { site: Site; compact?: bool
         {!compact && <span className="wordmark-sub">Texts · translations · commentary</span>}
       </span>
     </Link>
-  );
-}
-
-export function SiteHeader({ site }: { site: Site }) {
-  const { user } = useAuth();
-  const { resolvedTheme, setTheme } = usePrefs();
-  const location = useLocation();
-  const [menuOpen, setMenuOpen] = useState(false);
-  const [searchOpen, setSearchOpen] = useState(false);
-  const [query, setQuery] = useState("");
-
-  useEffect(() => {
-    setMenuOpen(false);
-    setSearchOpen(false);
-  }, [location.pathname, location.search]);
-
-  useEffect(() => {
-    const onKey = (e: KeyboardEvent) => {
-      const target = e.target as HTMLElement | null;
-      const typing = target && (target.tagName === "INPUT" || target.tagName === "TEXTAREA" || target.isContentEditable);
-      if (e.key === "/" && !typing) {
-        e.preventDefault();
-        setSearchOpen(true);
-      }
-      if (e.key === "Escape") setSearchOpen(false);
-    };
-    window.addEventListener("keydown", onKey);
-    return () => window.removeEventListener("keydown", onKey);
-  }, []);
-
-  const nav = [
-    { to: "/library", label: "Library" },
-    { to: "/themes", label: "Themes" },
-    { to: "/sources", label: "Sources" },
-    { to: "/compare", label: "Compare" },
-    { to: "/assistant", label: "Study assistant" },
-    { to: "/study", label: "My study" },
-  ];
-
-  const submitSearch = (e: React.FormEvent) => {
-    e.preventDefault();
-    if (!query.trim()) return;
-    setSearchOpen(false);
-    navigate(`/search?q=${encodeURIComponent(query.trim())}`);
-  };
-
-  return (
-    <>
-      <header className="site-header">
-        <div className="header-inner">
-          <Wordmark site={site} />
-          <nav className="main-nav" aria-label="Main navigation">
-            {nav.map((n) => (
-              <Link key={n.to} to={n.to} className={location.pathname.startsWith(n.to) ? "nav-link active" : "nav-link"}>
-                {n.label}
-              </Link>
-            ))}
-          </nav>
-          <div className="header-actions">
-            <button className="icon-button" onClick={() => setSearchOpen((v) => !v)} aria-label="Open search" title="Search (/)">
-              <Icon name="search" />
-            </button>
-            <button
-              className="icon-button"
-              onClick={() => setTheme(resolvedTheme === "dark" ? "light" : "dark")}
-              aria-label={resolvedTheme === "dark" ? "Switch to light reading mode" : "Switch to dark reading mode"}
-              title="Reading mode"
-            >
-              <Icon name={resolvedTheme === "dark" ? "sun" : "moon"} />
-            </button>
-            <Link to={user ? "/study" : "/account"} className="user-link">
-              {user ? <span className="user-initial" aria-hidden="true">{user.displayName.slice(0, 1).toUpperCase()}</span> : null}
-              <span>{user ? user.displayName.split(" ")[0] : "Sign in"}</span>
-            </Link>
-            <button className="icon-button mobile-menu-button" onClick={() => setMenuOpen((v) => !v)} aria-label="Toggle menu" aria-expanded={menuOpen}>
-              <Icon name={menuOpen ? "close" : "menu"} />
-            </button>
-          </div>
-        </div>
-        {menuOpen && (
-          <div className="mobile-nav">
-            {nav.map((n) => (
-              <Link key={n.to} to={n.to} className="mobile-nav-link">{n.label}</Link>
-            ))}
-            <Link to="/provenance" className="mobile-nav-link">Edition provenance</Link>
-            <Link to="/admin/sources" className="mobile-nav-link">Registry admin</Link>
-          </div>
-        )}
-        {searchOpen && (
-          <div className="header-search">
-            <form onSubmit={submitSearch} className="header-search-inner">
-              <Icon name="search" />
-              <input
-                autoFocus
-                value={query}
-                onChange={(e) => setQuery(e.target.value)}
-                placeholder="Search texts, authors, traditions…"
-                aria-label="Search the library"
-              />
-              <span className="key-hint">Enter</span>
-              <button type="button" className="icon-button" onClick={() => setSearchOpen(false)} aria-label="Close search"><Icon name="close" /></button>
-            </form>
-          </div>
-        )}
-      </header>
-    </>
-  );
-}
-
-export function SiteFooter({ site }: { site: Site }) {
-  return (
-    <footer className="site-footer">
-      <div className="footer-inner">
-        <div className="footer-brand">
-          <Wordmark site={site} compact />
-          <p>{site.tagline}</p>
-          <p className="footer-corpus">{site.corpusLabel}. <Link to="/sources">Sources, editions and rights</Link>.</p>
-        </div>
-        <div className="footer-links">
-          <Link to="/library">Library</Link>
-          <Link to="/themes">Themes</Link>
-          <Link to="/sources">Source registry</Link>
-          <Link to="/assistant">Study assistant</Link>
-          <Link to="/provenance">Edition provenance</Link>
-          <Link to="/admin/sources">Registry admin</Link>
-          <Link to="/editorial">Editorial review</Link>
-        </div>
-        <div className="footer-note">
-          <p>Every imported text is shown with its edition, translator, source and licence. Demonstration content is labelled.</p>
-          <p className="footer-version">{site.corpusVersion}</p>
-        </div>
-      </div>
-    </footer>
   );
 }
 
@@ -472,8 +343,4 @@ export function EditionSourceLine({ edition, showRights = true }: { edition: any
       </div>
     </div>
   );
-}
-
-export function LocalHistory() {
-  return null;
 }

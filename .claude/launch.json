@@ -1,0 +1,12 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "uwl-dev",
+      "runtimeExecutable": "bun",
+      "runtimeArgs": ["run", "scripts/dev.ts"],
+      "port": 4180,
+      "env": { "PORT": "4180", "UWL_CHECK_SCHEDULE": "off" }
+    }
+  ]
+}

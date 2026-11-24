@@ -266,7 +266,7 @@ export function LibraryPage() {
                           to={`/read/${encodeURIComponent(selectedWork.slug)}?ref=${encodeURIComponent(ch.ref)}`}
                           title={`${ch.label} · ${ch.passages} passages`}
                         >
-                          <span className="lib-chapter-label">{ch.label}</span>
+                          <span className="lib-chapter-label">{chapterButtonLabel(ch)}</span>
                           <span className="lib-chapter-count">{ch.passages}</span>
                         </Link>
                       ))}
@@ -312,4 +312,16 @@ export function LibraryPage() {
       )}
     </div>
   );
+}
+
+/**
+ * What a chapter button says. A label that only repeats the work's name before
+ * the number ("Genesis 1", "Surah 1 — Al-Faatiha") shows the number, as a
+ * chapter grid should; the full label stays in the button's title. Labels that
+ * say something else ("Book II", "Prologue") are kept.
+ */
+function chapterButtonLabel(ch: { ref: string; label: string }) {
+  const ref = String(ch.ref);
+  if (ref.length <= 6 && new RegExp(`(^|\\s)${ref.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")}(\\s|$|[:.,—-])`).test(ch.label)) return ref;
+  return ch.label;
 }

@@ -93,7 +93,8 @@ a top navigation bar and full-width pages.
 1. **Layout first** (no new data, the most visible change): the sidebar shell
    with Recently opened, the right study panel, and the reader rebuilt as
    aligned rows with layer switches, the segment-count control and one reader
-   bar. Keep every existing route working. *About 3–5 days.*
+   bar. Keep every existing route working. *About 3–5 days.* **Done 25
+   November 2026** (`client/shell.tsx`, `client/recent.ts`, the reader).
 2. **Commentaries by verse**, starting with Sefaria links (already streamed)
    and the library's own tables, then tafsir and Barnes. *About 3–4 days.*
 3. **Selection toolbar and Ask-with-context**, then **tiered sources** in the

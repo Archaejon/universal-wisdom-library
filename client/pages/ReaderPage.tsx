@@ -1,8 +1,10 @@
-import { Fragment, useEffect, useMemo, useRef, useState } from "react";
+import { Fragment, useEffect, useMemo, useRef, useState, type FormEvent, type ReactNode } from "react";
 import { Link, navigate, useLocation } from "../router";
 import { api } from "../api";
 import { useAuth } from "../auth";
 import { usePrefs } from "../prefs";
+import { addRecent } from "../recent";
+import { useStudyPanel } from "../shell";
 import {
   Badge, CopyButton, EditionSourceLine, ErrorState, Icon, Loading, Modal, SampleBadge, useToast,
 } from "../components";
@@ -32,6 +34,9 @@ function paragraphs(text: string) {
   return text.split(/\n{2,}/).filter((p) => p.trim().length > 0);
 }
 
+const readHref = (slug: string, ref: string, version?: string | null) =>
+  `/read/${slug}?ref=${encodeURIComponent(ref)}${version ? `&version=${encodeURIComponent(version)}` : ""}`;
+
 function StreamingNote({ streaming }: { streaming: any }) {
   if (!streaming) return null;
   const at = streaming.fetchedAt ? new Date(streaming.fetchedAt) : null;
@@ -49,108 +54,495 @@ function StreamingNote({ streaming }: { streaming: any }) {
   );
 }
 
-function addRecent(work: any, passage: any) {
+// ---------------------------------------------------------------------------
+// Reading layers: the original text and its translation are switched on and
+// off independently, and at least one stays on. A reading preference, so it
+// survives navigation.
+// ---------------------------------------------------------------------------
+
+type Layers = { original: boolean; translation: boolean };
+
+function loadLayers(): Layers {
   try {
-    const key = "uwl_recent";
-    const list = JSON.parse(localStorage.getItem(key) || "[]");
-    const next = [
-      { slug: work.slug, title: work.title, ref: passage.reference, refLabel: passage.label, at: Date.now() },
-      ...list.filter((r: any) => !(r.slug === work.slug && r.ref === passage.reference)),
-    ].slice(0, 8);
-    localStorage.setItem(key, JSON.stringify(next));
+    const saved = JSON.parse(localStorage.getItem("uwl_layers") || "null");
+    if (saved && typeof saved.original === "boolean" && typeof saved.translation === "boolean" && (saved.original || saved.translation)) {
+      return saved;
+    }
+    // The earlier "text shown" choice, carried over once.
+    const old = localStorage.getItem("uwl_text_view");
+    if (old === "english") return { original: false, translation: true };
+    if (old === "original") return { original: true, translation: false };
   } catch {}
+  return { original: true, translation: true };
 }
 
-type TextView = "both" | "english" | "original";
+function useLayers() {
+  const [layers, setLayers] = useState<Layers>(loadLayers);
+  const toggle = (key: keyof Layers) => {
+    setLayers((current) => {
+      const next = { ...current, [key]: !current[key] };
+      if (!next.original && !next.translation) return current;
+      try { localStorage.setItem("uwl_layers", JSON.stringify(next)); } catch {}
+      return next;
+    });
+  };
+  return { layers, toggle };
+}
 
-/** Display preference for parallel editions: both, English only, or original only. */
-function ViewToggle({
-  value,
-  onChange,
-  originalLabel,
-}: {
-  value: TextView;
-  onChange: (v: TextView) => void;
-  originalLabel: string;
-}) {
-  const options: { key: TextView; label: string }[] = [
-    { key: "both", label: "Both" },
-    { key: "english", label: "English only" },
-    { key: "original", label: `${originalLabel} only` },
-  ];
+function LayerSwitches({ layers, toggle, originalLabel }: { layers: Layers; toggle: (k: keyof Layers) => void; originalLabel: string }) {
+  const item = (key: keyof Layers, label: string) => {
+    const on = layers[key];
+    const last = on && !(key === "original" ? layers.translation : layers.original);
+    return (
+      <label className={on ? "layer-switch on" : "layer-switch"} title={last ? "At least one layer stays on" : undefined}>
+        <input type="checkbox" checked={on} disabled={last} onChange={() => toggle(key)} />
+        {label}
+      </label>
+    );
+  };
   return (
-    <div className="view-toggle" role="group" aria-label="Text shown">
-      <span className="view-toggle-label">Text shown</span>
-      {options.map((o) => (
-        <button
-          key={o.key}
-          type="button"
-          className={value === o.key ? "button small active" : "button small"}
-          aria-pressed={value === o.key}
-          onClick={() => onChange(o.key)}
-        >
-          {o.label}
-        </button>
-      ))}
+    <div className="layer-switches" role="group" aria-label="Layers shown">
+      {item("original", originalLabel)}
+      {item("translation", "Translation")}
     </div>
   );
 }
+
+// ---------------------------------------------------------------------------
+// The reader bar: move through the work, choose what is shown, set the type.
+// ---------------------------------------------------------------------------
+
+function ReaderBar({
+  slug,
+  version,
+  prev,
+  next,
+  chapters,
+  chapterRef,
+  placeholder,
+  controls,
+  tools,
+}: {
+  slug: string;
+  version?: string | null;
+  prev: { href: string; label: string } | null;
+  next: { href: string; label: string } | null;
+  chapters: { ref: string; label: string }[];
+  chapterRef: string;
+  placeholder: string;
+  controls?: ReactNode;
+  tools?: ReactNode;
+}) {
+  const prefs = usePrefs();
+  const [goTo, setGoTo] = useState("");
+  const [typeOpen, setTypeOpen] = useState(false);
+  const index = chapters.findIndex((c) => c.ref === chapterRef);
+
+  const submit = (e: FormEvent) => {
+    e.preventDefault();
+    const ref = goTo.trim();
+    if (!ref) return;
+    setGoTo("");
+    navigate(readHref(slug, ref, version));
+  };
+  const size = (delta: number) => prefs.setFontSize(Math.min(26, Math.max(15, prefs.fontSize + delta)));
+
+  return (
+    <div className="reader-bar">
+      <div className="reader-bar-row">
+        {prev ? (
+          <Link className="button small square" to={prev.href} title={prev.label} aria-label={`Previous: ${prev.label}`} rel="prev">
+            <Icon name="arrow-left" size={15} />
+          </Link>
+        ) : (
+          <span className="button small square disabled" aria-hidden="true"><Icon name="arrow-left" size={15} /></span>
+        )}
+        <form className="reader-goto" onSubmit={submit} role="search">
+          <input value={goTo} onChange={(e) => setGoTo(e.target.value)} placeholder={placeholder} aria-label="Go to a reference in this work" />
+          <button className="button small primary" type="submit" disabled={!goTo.trim()}>Go</button>
+        </form>
+        {next ? (
+          <Link className="button small square" to={next.href} title={next.label} aria-label={`Next: ${next.label}`} rel="next">
+            <Icon name="arrow-right" size={15} />
+          </Link>
+        ) : (
+          <span className="button small square disabled" aria-hidden="true"><Icon name="arrow-right" size={15} /></span>
+        )}
+        {chapters.length > 1 && (
+          <label className="reader-field">
+            <span>Chapter</span>
+            <select
+              aria-label="Choose a chapter"
+              value={index >= 0 ? chapterRef : chapters[0].ref}
+              onChange={(e) => navigate(readHref(slug, e.target.value, version))}
+            >
+              {chapters.map((c) => <option key={c.ref} value={c.ref}>{c.label}</option>)}
+            </select>
+            <span className="reader-field-note">{index >= 0 ? `${index + 1} / ${chapters.length}` : chapters.length}</span>
+          </label>
+        )}
+        <div className="reader-bar-end">
+          <div className="reader-type" role="group" aria-label="Text size">
+            <button className="button small" onClick={() => size(-1)} aria-label="Smaller text" disabled={prefs.fontSize <= 15}>A−</button>
+            <button className="button small" onClick={() => size(1)} aria-label="Larger text" disabled={prefs.fontSize >= 26}>A+</button>
+            <button className={typeOpen ? "button small active" : "button small"} onClick={() => setTypeOpen((v) => !v)} aria-expanded={typeOpen} title="Type settings">
+              <Icon name="settings" size={15} />
+            </button>
+          </div>
+          {tools}
+        </div>
+      </div>
+      {controls && <div className="reader-bar-row secondary">{controls}</div>}
+      {typeOpen && (
+        <div className="type-panel" role="group" aria-label="Reading preferences">
+          <label>
+            <span>Text size</span>
+            <input type="range" min={15} max={26} step={1} value={prefs.fontSize} onChange={(e) => prefs.setFontSize(Number(e.target.value))} />
+            <span className="type-value">{prefs.fontSize}px</span>
+          </label>
+          <label>
+            <span>Line spacing</span>
+            <input type="range" min={1.3} max={2.2} step={0.05} value={prefs.lineHeight} onChange={(e) => prefs.setLineHeight(Number(e.target.value))} />
+            <span className="type-value">{prefs.lineHeight.toFixed(2)}</span>
+          </label>
+          <label>
+            <span>Reading width</span>
+            <input type="range" min={520} max={900} step={20} value={prefs.measure} onChange={(e) => prefs.setMeasure(Number(e.target.value))} />
+            <span className="type-value">{prefs.measure}px</span>
+          </label>
+          <div className="type-row">
+            <span>Typeface</span>
+            <div className="segmented">
+              <button className={prefs.readingFont === "serif" ? "active" : ""} onClick={() => prefs.setReadingFont("serif")}>Serif</button>
+              <button className={prefs.readingFont === "sans" ? "active" : ""} onClick={() => prefs.setReadingFont("sans")}>Sans</button>
+            </div>
+          </div>
+          <div className="type-row">
+            <span>Appearance</span>
+            <div className="segmented">
+              <button className={prefs.resolvedTheme === "light" ? "active" : ""} onClick={() => prefs.setTheme("light")}>Light</button>
+              <button className={prefs.resolvedTheme === "dark" ? "active" : ""} onClick={() => prefs.setTheme("dark")}>Dark</button>
+            </div>
+          </div>
+        </div>
+      )}
+    </div>
+  );
+}
+
+/** Library › tradition › category › work › chapter: back up the shelf. */
+function ReaderTrail({ work, slug, last }: { work: any; slug: string; last?: string }) {
+  const tradition = work.tradition_slug ? `/library?tradition=${encodeURIComponent(work.tradition_slug)}` : "/library";
+  const category = work.category ? `${tradition}&category=${encodeURIComponent(work.category)}` : null;
+  const shelf = category ? `${category}&work=${encodeURIComponent(slug)}` : `/work/${slug}`;
+  return (
+    <nav className="reader-trail" aria-label="Breadcrumb">
+      <Link to="/library"><Icon name="arrow-left" size={13} /> Library</Link>
+      {work.tradition_name && <Link to={tradition}>{work.tradition_name}</Link>}
+      {category && <Link to={category}>{work.category}</Link>}
+      <Link to={shelf}>{work.title}</Link>
+      {last && <span aria-current="page">{last}</span>}
+    </nav>
+  );
+}
+
+function WorkHeading({ work, sub, originalDir }: { work: any; sub?: string; originalDir?: string }) {
+  return (
+    <header className="reader-heading">
+      <p className="eyebrow">{work.tradition_name}{work.school_name ? ` · ${work.school_name}` : ""}</p>
+      <h1>
+        {work.title}
+        {work.original_title && work.original_title !== work.title && (
+          <span className="work-original" dir={originalDir === "rtl" ? "rtl" : "auto"}>{work.original_title}</span>
+        )}
+      </h1>
+      {sub && <p className="reader-sub">{sub}</p>}
+    </header>
+  );
+}
+
+// ---------------------------------------------------------------------------
+// Commentary and connections, shared by the passage page and the study panel.
+// ---------------------------------------------------------------------------
+
+function CommentaryList({ items }: { items: any[] }) {
+  if (!items.length) {
+    return <p className="muted small">No commentary has been imported for this passage. The absence of commentary is not evidence that none exists.</p>;
+  }
+  return (
+    <div className="commentary-list">
+      {items.map((c: any) => {
+        const meta = COMMENTARY_LABELS[c.contentType] ?? { label: c.contentType, note: "" };
+        return (
+          <article key={c.id} className={`commentary commentary-${c.contentType}`}>
+            <div className="commentary-head">
+              <Badge tone={c.contentType === "academic" ? "blue" : c.contentType === "editorial" ? "muted" : "accent"}>{meta.label}</Badge>
+              {c.isSample && <SampleBadge />}
+            </div>
+            <p className="commentary-meta">
+              {c.author && <strong>{c.author}</strong>}
+              {c.dateDisplay && <span> · {c.dateDisplay}</span>}
+              {c.interpretiveTradition && <span> · {c.interpretiveTradition}</span>}
+            </p>
+            <p className={c.isQuotation ? "commentary-body quotation" : "commentary-body"}>{c.content}</p>
+            <p className="commentary-provenance">
+              {meta.note}
+              {c.source && <span> Source: {c.source}.</span>}
+              {c.license?.name && <span> {c.license.name}.</span>}
+              {c.provenanceNote && <span> {c.provenanceNote}</span>}
+            </p>
+          </article>
+        );
+      })}
+    </div>
+  );
+}
+
+function ConnectionsList({ themes, relationships }: { themes: any[]; relationships: any[] }) {
+  return (
+    <>
+      {themes.length > 0 && (
+        <div className="connection-block">
+          <h3>Themes</h3>
+          <div className="chip-row">
+            {themes.map((t: any) => <Link key={t.slug} className="chip" to={`/themes/${t.slug}`}>{t.name}</Link>)}
+          </div>
+          {themes.map((t: any) => t.note && <p key={`${t.slug}-note`} className="small muted"><strong>{t.name}:</strong> {t.note}</p>)}
+        </div>
+      )}
+      {relationships.length > 0 && (
+        <div className="connection-block">
+          <h3>Related passages</h3>
+          <ul className="relationship-list">
+            {relationships.map((r: any) => (
+              <li key={r.id}>
+                <Badge tone="blue">{REL_LABELS[r.type] ?? r.type}</Badge>
+                <div>
+                  <Link to={readHref(r.other.work, r.other.reference)}>{r.other.workTitle} {r.other.reference}</Link>
+                  {r.description && <p>{r.description}</p>}
+                  {r.evidence && <p className="small muted">Evidence: {r.evidence}</p>}
+                  <p className="small muted">Confidence: {r.confidence}</p>
+                </div>
+              </li>
+            ))}
+          </ul>
+        </div>
+      )}
+    </>
+  );
+}
+
+function useCompare() {
+  const { push } = useToast();
+  const [count, setCount] = useState(0);
+  useEffect(() => {
+    try { setCount(JSON.parse(localStorage.getItem("uwl_compare") || "[]").length); } catch {}
+  }, []);
+  const add = (slug: string, reference: string) => {
+    const key = `${slug}:${reference}`;
+    try {
+      const list = JSON.parse(localStorage.getItem("uwl_compare") || "[]");
+      const next = list.includes(key) ? list : [...list, key];
+      localStorage.setItem("uwl_compare", JSON.stringify(next.slice(-8)));
+      setCount(Math.min(next.length, 8));
+      push(next.length > 8 ? "Comparison holds eight passages; the oldest was dropped." : "Added to comparison.", "success");
+    } catch { push("Could not update the comparison workspace.", "error"); }
+  };
+  return { count, add };
+}
+
+/**
+ * One passage in the study panel: its editions with their sources and rights,
+ * its commentary and its connections, read without leaving the chapter.
+ */
+function PassageStudy({ slug, reference, version }: { slug: string; reference: string; version?: string | null }) {
+  const [data, setData] = useState<any>(null);
+  const [error, setError] = useState("");
+  const compare = useCompare();
+  useEffect(() => {
+    setData(null);
+    setError("");
+    api<any>(`/api/read/${encodeURIComponent(slug)}?ref=${encodeURIComponent(reference)}`)
+      .then(setData)
+      .catch((e) => setError(e.message));
+  }, [slug, reference]);
+
+  if (error) return <ErrorState message={error} />;
+  if (!data) return <Loading label="Loading the passage" />;
+  if (data.type !== "passage") return <p className="muted">This passage could not be opened on its own.</p>;
+  const url = `${window.location.origin}${readHref(slug, data.passage.reference, version)}`;
+  return (
+    <div className="passage-study">
+      <p className="study-label">{data.passage.label}</p>
+      <div className="study-actions">
+        <Link className="button small primary" to={readHref(slug, data.passage.reference, version)}>Open this passage</Link>
+        <button className="button small" onClick={() => compare.add(slug, data.passage.reference)}><Icon name="plus" size={14} /> Compare</button>
+        <CopyButton text={url} label="Link" small />
+      </div>
+
+      <section className="study-section">
+        <h3>Editions</h3>
+        <ul className="study-editions">
+          {(data.versions as any[]).map((v) => (
+            <li key={v.slug}>
+              <span className="study-edition-kind">{v.editionType === "original" ? "Original" : "Translation"}</span>
+              <EditionSourceLine edition={v} />
+            </li>
+          ))}
+        </ul>
+      </section>
+
+      <section className="study-section">
+        <h3>Commentary {data.commentary.length > 0 && <Badge>{data.commentary.length}</Badge>}</h3>
+        <CommentaryList items={data.commentary} />
+      </section>
+
+      {(data.themes.length > 0 || data.relationships.length > 0) && (
+        <section className="study-section">
+          <h3>Connections</h3>
+          <ConnectionsList themes={data.themes} relationships={data.relationships} />
+        </section>
+      )}
+    </div>
+  );
+}
+
+function versionLabel(v: any) {
+  const bits = [v.language?.name, v.editionType === "original" ? "original" : v.translator ? `trans. ${v.translator}` : "translation"];
+  return `${bits.filter(Boolean).join(" · ")} — ${v.title}`;
+}
+
+/** The smallest reference that still identifies a passage in a list. */
+function flowMarker(item: { reference: string; label: string }) {
+  const ref = item.reference ?? "";
+  const tail = ref.includes(":") ? ref.slice(ref.lastIndexOf(":") + 1) : ref.slice(ref.lastIndexOf(".") + 1);
+  return tail || item.label;
+}
+
+// ---------------------------------------------------------------------------
 
 export function ReaderPage({ slug }: { slug: string }) {
   const location = useLocation();
   const params = useMemo(() => new URLSearchParams(location.search), [location.search]);
   const ref = params.get("ref") || undefined;
   const versionParam = params.get("version") || undefined;
-  const { user, refresh } = useAuth();
-  const prefs = usePrefs();
-  const { push } = useToast();
 
   const [data, setData] = useState<any>(null);
   const [error, setError] = useState("");
-  const [primarySlug, setPrimarySlug] = useState<string | null>(null);
-  const [secondarySlug, setSecondarySlug] = useState<string | null>(null);
-  const [parallel, setParallel] = useState(true);
-  const [textView, setTextView] = useState<TextView>(() => {
+
+  useEffect(() => {
+    setData(null);
+    setError("");
+    const query = new URLSearchParams();
+    if (ref) query.set("ref", ref);
+    if (versionParam) query.set("version", versionParam);
+    api<any>(`/api/read/${encodeURIComponent(slug)}${query.size ? `?${query.toString()}` : ""}`)
+      .then((d) => setData(d))
+      .catch((e) => setError(e.message));
+  }, [slug, ref, versionParam]);
+
+  if (error) return <div className="container page"><ErrorState message={error} /></div>;
+  if (!data) return <div className="container page"><Loading label="Loading the text" /></div>;
+
+  if (data.type === "unavailable") {
+    return (
+      <div className="container page">
+        <ReaderTrail work={data.work} slug={slug} />
+        <div className="unavailable-panel">
+          <p className="eyebrow">No imported text</p>
+          <h1>{data.work.title}</h1>
+          <p>{data.message}</p>
+          <p className="muted">The work remains in the catalogue so its place in the tradition, its editions and its relationships are visible. No text has been fabricated to fill the gap.</p>
+          <div className="button-row">
+            <Link className="button" to={`/work/${slug}`}>View the catalogue record</Link>
+            <Link className="button ghost" to="/provenance">Sources & provenance</Link>
+          </div>
+        </div>
+      </div>
+    );
+  }
+
+  if (data.type === "stream_unavailable") {
+    return (
+      <div className="container page">
+        <ReaderTrail work={data.work} slug={slug} last="Host unavailable" />
+        <div className="unavailable-panel">
+          <p className="eyebrow">Streamed text</p>
+          <h1>The text could not be reached</h1>
+          <p>{data.message}</p>
+          <p className="muted">
+            This work is hosted by {data.provider} as <code>{data.upstream}</code>. The library keeps its catalogue record and
+            reference index, so the entry remains valid; only the live text is unavailable.
+          </p>
+          <div className="button-row">
+            <button className="button" onClick={() => window.location.reload()}>Try again</button>
+            <Link className="button ghost" to={`/work/${slug}`}>View the catalogue record</Link>
+            <Link className="button ghost" to="/provenance">Sources & provenance</Link>
+          </div>
+        </div>
+      </div>
+    );
+  }
+
+  if (data.type === "not_found") {
+    return (
+      <div className="container page">
+        <ReaderTrail work={data.work} slug={slug} last="Reference not found" />
+        <div className="unavailable-panel">
+          <p className="eyebrow">Reference not found</p>
+          <h1>{data.message}</h1>
+          <p>References in this work look like these:</p>
+          <div className="chip-row">
+            {data.suggestions.map((s: any) => (
+              <Link key={s.reference} className="chip" to={readHref(slug, s.reference)}>{s.reference} · {s.label}</Link>
+            ))}
+          </div>
+        </div>
+      </div>
+    );
+  }
+
+  if (data.type === "chapter") return <ChapterView slug={slug} data={data} versionParam={versionParam} />;
+  return <PassageView slug={slug} data={data} versionParam={versionParam} />;
+}
+
+// ---------------------------------------------------------------------------
+// A chapter: one row per passage, the translation on the left and the original
+// on the right, read across.
+// ---------------------------------------------------------------------------
+
+const AMOUNTS = [10, 25, 50, 100];
+
+function ChapterView({ slug, data, versionParam }: { slug: string; data: any; versionParam?: string }) {
+  const prefs = usePrefs();
+  const studyPanel = useStudyPanel();
+  const compare = useCompare();
+  const { layers, toggle } = useLayers();
+  const [amount, setAmount] = useState<number>(() => {
     try {
-      const saved = localStorage.getItem("uwl_text_view");
-      return saved === "english" || saved === "original" ? saved : "both";
+      const raw = localStorage.getItem("uwl_amount");
+      const saved = raw === null ? NaN : Number(raw);
+      return AMOUNTS.includes(saved) || saved === 0 ? saved : 25;
     } catch {
-      return "both";
+      return 25;
     }
   });
-  const chooseView = (v: TextView) => {
-    setTextView(v);
-    try { localStorage.setItem("uwl_text_view", v); } catch {}
+  const [shown, setShown] = useState(amount);
+  const chooseAmount = (n: number) => {
+    setAmount(n);
+    setShown(n);
+    try { localStorage.setItem("uwl_amount", String(n)); } catch {}
   };
-  const [settingsOpen, setSettingsOpen] = useState(false);
-  const [bookmarked, setBookmarked] = useState(false);
-  const [notes, setNotes] = useState<any[]>([]);
-  const [noteBody, setNoteBody] = useState("");
-  const [editingId, setEditingId] = useState<number | null>(null);
-  const [editingBody, setEditingBody] = useState("");
-  const [busy, setBusy] = useState(false);
-  const [collectionOpen, setCollectionOpen] = useState(false);
-  const [collections, setCollections] = useState<any[] | null>(null);
-  const [newCollectionTitle, setNewCollectionTitle] = useState("");
-  const [compareCount, setCompareCount] = useState(0);
-  const [verseLimit, setVerseLimit] = useState(10);
-  // Chapters can be read as separate passage cards, or as one unbroken text
-  // where only the chapter itself divides the flow. The choice is a reading
-  // preference and survives navigation.
+  // Rows suit study; a continuous flow suits reading straight through.
   const [layout, setLayout] = useState<"cards" | "continuous">(() => {
-    try {
-      return localStorage.getItem("uwl_text_layout") === "continuous" ? "continuous" : "cards";
-    } catch {
-      return "cards";
-    }
+    try { return localStorage.getItem("uwl_text_layout") === "continuous" ? "continuous" : "cards"; } catch { return "cards"; }
   });
   const chooseLayout = (v: "cards" | "continuous") => {
     setLayout(v);
     try { localStorage.setItem("uwl_text_layout", v); } catch {}
   };
   // A reference before every line turns a poem into a list, so continuous
-  // reading marks prose paragraphs but not verse lines unless the reader asks
-  // for them. `null` means follow that default; the toggle overrides it.
+  // reading marks prose paragraphs but not verse lines unless asked to.
   const [refsPref, setRefsPref] = useState<boolean | null>(() => {
     try {
       const stored = localStorage.getItem("uwl_flow_refs");
@@ -163,93 +555,260 @@ export function ReaderPage({ slug }: { slug: string }) {
     setRefsPref(v);
     try { localStorage.setItem("uwl_flow_refs", v ? "on" : "off"); } catch {}
   };
+
+  useEffect(() => {
+    setShown(amount);
+    addRecent({ slug, title: data.work.title, ref: data.chapter.ref, refLabel: data.chapter.label });
+    document.title = `${data.work.title}, ${data.chapter.label} — Universal Wisdom Library`;
+  }, [slug, data.chapter.ref]);
+
+  const all = data.chapter.passages as any[];
+  const visible = shown === 0 ? all : all.slice(0, shown);
+  const scheme = data.work.ref_scheme;
+  const lineated = looksLineated(all, scheme);
+  const showRefs = refsPref ?? !lineated;
+  const unit =
+    scheme === "chapter.mishnah" ? "mishnayot"
+    : scheme === "daf.line" ? "lines"
+    : scheme === "chapter.paragraph" ? (lineated ? "lines" : "paragraphs")
+    : scheme === "surah.ayah" ? "ayahs"
+    : scheme === "book.hadith" ? "hadiths"
+    : scheme === "chapter.verse" ? "verses"
+    : "passages";
+
+  // The editions most of the chapter is read in head the two columns; a row
+  // from a different edition says so under its own text.
+  const original = all.find((p) => p.original)?.original ?? null;
+  const translation = all.find((p) => p.translation)?.translation ?? null;
+  const canSplit = !!original && !!translation && original.language?.code !== translation.language?.code;
+  const showOriginal = !canSplit || layers.original;
+  const showTranslation = !canSplit || layers.translation;
+  const originalLabel = original?.language?.name ?? "Original";
+  const view: TextView = !canSplit || (showOriginal && showTranslation) ? "both" : showOriginal ? "original" : "english";
+  // The columns in reading order: translation on the left, original on the
+  // right. A chapter with only one language is a single column.
+  const single = all.find((p) => p.edition)?.edition ?? null;
+  type Column = { side: "translation" | "original"; kind: string; main: any; text: (p: any) => any };
+  const columns: Column[] = canSplit
+    ? [
+        ...(showTranslation ? [{ side: "translation" as const, kind: "Translation", main: translation, text: (p: any) => p.translation }] : []),
+        ...(showOriginal ? [{ side: "original" as const, kind: "Original", main: original, text: (p: any) => p.original }] : []),
+      ]
+    : [{
+        side: single?.editionType === "original" ? "original" : "translation",
+        kind: single?.editionType === "original" ? "Original" : "Text",
+        main: single,
+        text: (p: any) => (p.edition ? { ...p.edition, text: p.text } : null),
+      }];
+  const versions = (data.versions ?? []) as any[];
+  const translations = versions.filter((v) => v.editionType !== "original" && v.slug !== original?.slug);
+  const navHref = (r: any) => (r ? { href: readHref(slug, r.ref, versionParam), label: data.chapters.find((c: any) => c.ref === r.ref)?.label ?? r.ref } : null);
+
+  const study = (p: any) =>
+    studyPanel.open({
+      key: `${slug}:${p.reference}`,
+      eyebrow: "Passage",
+      title: `${data.work.title} ${p.reference}`,
+      body: <PassageStudy slug={slug} reference={p.reference} version={versionParam} />,
+    });
+  const studied = studyPanel.panel?.key;
+
+  const editionHead = (edition: any, kind: string) =>
+    edition && (
+      <div className="column-head">
+        <span className="column-kind">{kind}</span>
+        <span className="column-language">{edition.language?.name}</span>
+        <span className="column-edition">
+          {edition.title}{edition.translator ? ` · trans. ${edition.translator}` : ""}
+          {edition.source?.name ? ` · via ${edition.source.name}` : ""}
+          {edition.license?.name ? ` · ${edition.license.name}` : ""}
+        </span>
+      </div>
+    );
+
+  const rowText = (text: any, main: any, side: "original" | "translation") => {
+    if (!text) return <div className={`verse-cell ${side} empty`} />;
+    const rtl = text.language?.direction === "rtl";
+    return (
+      <div className={`verse-cell ${side}`}>
+        <p className={rtl ? "verse-text rtl" : "verse-text"} dir={rtl ? "rtl" : "ltr"} lang={text.language?.code}>{text.text}</p>
+        {main && text.slug !== main.slug && <p className="verse-edition">{text.title}{text.source?.name ? ` · via ${text.source.name}` : ""}</p>}
+      </div>
+    );
+  };
+
+  return (
+    <div className="reader-page">
+      <ReaderBar
+        slug={slug}
+        version={versionParam}
+        prev={navHref(data.navigation.prev)}
+        next={navHref(data.navigation.next)}
+        chapters={data.chapters}
+        chapterRef={data.chapter.ref}
+        placeholder={`Go to… e.g. ${all[Math.min(2, all.length - 1)]?.reference ?? data.chapter.ref}`}
+        controls={
+          <>
+            {canSplit && <LayerSwitches layers={layers} toggle={toggle} originalLabel={originalLabel} />}
+            {canSplit && showTranslation && translations.length > 1 && (
+              <label className="reader-field">
+                <span>Translation</span>
+                <select
+                  value={translation?.slug ?? ""}
+                  onChange={(e) => navigate(readHref(slug, data.chapter.ref, e.target.value), { replace: true })}
+                >
+                  {translations.map((v) => <option key={v.slug} value={v.slug}>{versionLabel(v)}</option>)}
+                </select>
+              </label>
+            )}
+            {layout === "cards" && (
+              <label className="reader-field">
+                <span>Text</span>
+                <select value={amount} onChange={(e) => chooseAmount(Number(e.target.value))} aria-label={`${unit} shown at once`}>
+                  {AMOUNTS.map((n) => <option key={n} value={n}>{n}</option>)}
+                  <option value={0}>All {data.chapter.total}</option>
+                </select>
+              </label>
+            )}
+            <div className="segmented-control" role="group" aria-label="Layout">
+              <button className={layout === "cards" ? "active" : ""} aria-pressed={layout === "cards"} onClick={() => chooseLayout("cards")}>Rows</button>
+              <button className={layout === "continuous" ? "active" : ""} aria-pressed={layout === "continuous"} onClick={() => chooseLayout("continuous")}>Continuous</button>
+            </div>
+            {layout === "continuous" && (
+              <button className={showRefs ? "button small active" : "button small"} aria-pressed={showRefs} onClick={() => chooseRefs(!showRefs)}>
+                References
+              </button>
+            )}
+          </>
+        }
+        tools={
+          <>
+            <Link className="button small ghost" to={`/work/${slug}`} title="The work's catalogue record">About</Link>
+            <CopyButton text={`${window.location.origin}${readHref(slug, data.chapter.ref, versionParam)}`} label="Share" small />
+          </>
+        }
+      />
+
+      <div className="reader-body" style={{ ["--reader-width" as any]: `${prefs.measure}px` }}>
+        <ReaderTrail work={data.work} slug={slug} last={data.chapter.label} />
+        <WorkHeading work={data.work} sub={data.chapter.label} originalDir={original?.language?.direction} />
+        <StreamingNote streaming={data.streaming} />
+
+        {layout === "continuous" ? (
+          <ContinuousChapter slug={slug} passages={all} view={view} scheme={scheme} showRefs={showRefs} />
+        ) : (
+          <>
+            <div className={columns.length === 2 ? "verse-rows two" : "verse-rows"}>
+              <div className="verse-row head">
+                <span />
+                {columns.map((c) => <Fragment key={c.side}>{editionHead(c.main, c.kind)}</Fragment>)}
+              </div>
+              {visible.map((p: any) => {
+                const key = `${slug}:${p.reference}`;
+                return (
+                  <article key={p.id} className={studied === key ? "verse-row studied" : "verse-row"} id={`p-${p.reference}`}>
+                    <button className="verse-num" onClick={() => study(p)} title={`${p.label}: editions, commentary and connections`} aria-label={`Study ${p.label}`}>
+                      {flowMarker(p)}
+                    </button>
+                    {columns.map((c) => <Fragment key={c.side}>{rowText(c.text(p), c.main, c.side)}</Fragment>)}
+                  </article>
+                );
+              })}
+            </div>
+            {shown > 0 && visible.length < all.length && (
+              <div className="chapter-more">
+                <span className="muted small">Showing {visible.length} of {all.length} {unit}</span>
+                <button className="button" onClick={() => setShown(Math.min(all.length, shown + (amount || 25)))}>
+                  Show {Math.min(amount || 25, all.length - visible.length)} more
+                </button>
+              </div>
+            )}
+          </>
+        )}
+
+        <nav className="pager">
+          {data.navigation.prev ? <Link className="button" to={readHref(slug, data.navigation.prev.ref, versionParam)}><Icon name="arrow-left" size={15} /> Previous chapter</Link> : <span />}
+          {data.navigation.next ? <Link className="button" to={readHref(slug, data.navigation.next.ref, versionParam)}>Next chapter <Icon name="arrow-right" size={15} /></Link> : <span />}
+        </nav>
+        {compare.count > 0 && <p className="muted small reader-compare-note"><Link to="/compare">{compare.count} passage{compare.count === 1 ? "" : "s"} in the comparison</Link></p>}
+      </div>
+    </div>
+  );
+}
+
+// ---------------------------------------------------------------------------
+// A single passage: its editions side by side, then notes, commentary and
+// connections.
+// ---------------------------------------------------------------------------
+
+type TextView = "both" | "english" | "original";
+
+function PassageView({ slug, data, versionParam }: { slug: string; data: any; versionParam?: string }) {
+  const location = useLocation();
+  const { user, refresh } = useAuth();
+  const prefs = usePrefs();
+  const { push } = useToast();
+  const compare = useCompare();
+  const { layers, toggle } = useLayers();
+
+  const versions = data.versions as any[];
+  const englishEditions = versions.filter((v) => v.language?.code === "en");
+  const originalEditions = versions.filter((v) => v.editionType === "original" || v.language?.code !== "en");
+  const defaultOriginal = originalEditions.find((v) => v.slug === data.currentVersion) ?? originalEditions[0] ?? null;
+  const defaultTranslation = englishEditions.find((v) => v.slug === data.currentVersion) ?? englishEditions[0] ?? null;
+  // A work with both a translation and an original reads them as two layers;
+  // otherwise any two editions can stand side by side.
+  const canSplit = !!defaultOriginal && !!defaultTranslation && defaultOriginal.slug !== defaultTranslation.slug;
+
+  const [leftSlug, setLeftSlug] = useState<string | null>(null);
+  const [rightSlug, setRightSlug] = useState<string | null>(null);
+  const [beside, setBeside] = useState(true);
+  const [bookmarked, setBookmarked] = useState(false);
+  const [notes, setNotes] = useState<any[]>([]);
+  const [noteBody, setNoteBody] = useState("");
+  const [editingId, setEditingId] = useState<number | null>(null);
+  const [editingBody, setEditingBody] = useState("");
+  const [busy, setBusy] = useState(false);
+  const [collectionOpen, setCollectionOpen] = useState(false);
+  const [collections, setCollections] = useState<any[] | null>(null);
+  const [newCollectionTitle, setNewCollectionTitle] = useState("");
   const notedRef = useRef<string>("");
 
   useEffect(() => {
-    setData(null);
-    setError("");
-    setNotes([]);
-    setNoteBody("");
-    setPrimarySlug(null);
-    setSecondarySlug(null);
-    const query = new URLSearchParams();
-    if (ref) query.set("ref", ref);
-    if (versionParam) query.set("version", versionParam);
-    api<any>(`/api/read/${encodeURIComponent(slug)}${query.size ? `?${query.toString()}` : ""}`)
-      .then((d) => setData(d))
-      .catch((e) => setError(e.message));
-  }, [slug, ref, versionParam]);
-
-  useEffect(() => {
-    try {
-      setCompareCount(JSON.parse(localStorage.getItem("uwl_compare") || "[]").length);
-    } catch {}
-  }, []);
-
-  useEffect(() => {
-    if (!data || data.type !== "passage") return;
-    const versions = data.versions as any[];
-    if (!primarySlug) {
-      const preferred = versions.find((v) => v.slug === data.currentVersion) ?? versions[0];
-      setPrimarySlug(preferred?.slug ?? null);
-      const secondary = versions.find((v) => v.slug !== preferred?.slug && v.language.code !== preferred?.language.code)
-        ?? versions.find((v) => v.slug !== preferred?.slug);
-      setSecondarySlug(secondary?.slug ?? null);
-      setParallel(versions.length > 1 && !!secondary);
+    if (canSplit) {
+      setLeftSlug(defaultTranslation.slug);
+      setRightSlug(defaultOriginal.slug);
+    } else {
+      const first = versions.find((v) => v.slug === data.currentVersion) ?? versions[0];
+      const other = versions.find((v) => v.slug !== first?.slug && v.language?.code !== first?.language?.code) ?? versions.find((v) => v.slug !== first?.slug);
+      setLeftSlug(first?.slug ?? null);
+      setRightSlug(other?.slug ?? null);
     }
     setBookmarked(!!data.viewer?.bookmarked);
     setNotes(data.viewer?.notes ?? []);
-    addRecent(data.work, data.passage);
-    if (user) {
-      api("/api/progress", { method: "POST", body: { passageId: data.passage.id } }).catch(() => {});
-    }
-    if (data.passage.reference && notedRef.current !== data.passage.reference) {
+    setNoteBody("");
+    addRecent({ slug, title: data.work.title, ref: data.passage.reference, refLabel: data.passage.label });
+    if (user) api("/api/progress", { method: "POST", body: { passageId: data.passage.id } }).catch(() => {});
+    if (notedRef.current !== data.passage.reference) {
       notedRef.current = data.passage.reference;
       document.title = `${data.work.title} ${data.passage.reference} — Universal Wisdom Library`;
     }
-  }, [data, primarySlug, user]);
+  }, [data]);
 
-  const versions = data?.type === "passage" ? (data.versions as any[]) : [];
-  const primary = versions.find((v) => v.slug === primarySlug) ?? versions[0];
-  const secondary = versions.find((v) => v.slug === secondarySlug);
-  // "English only" and "original only" are reading modes, not edition choices:
-  // they hide one pane while keeping each visible pane's own source and licence.
-  const englishVersion =
-    versions.find((v) => v.slug === primarySlug && v.language?.code === "en") ??
-    versions.find((v) => v.language?.code === "en") ??
-    null;
-  const originalVersion =
-    versions.find((v) => v.slug === primarySlug && v.editionType === "original") ??
-    versions.find((v) => v.editionType === "original") ??
-    versions.find((v) => v.language?.code !== "en") ??
-    null;
-  const canSplit =
-    !!englishVersion &&
-    !!originalVersion &&
-    englishVersion.slug !== originalVersion.slug &&
-    originalVersion.language?.code !== "en";
-  const originalLabel = originalVersion?.language?.name ?? "Original";
-  const textMode: TextView =
-    textView === "english" && !englishVersion ? "both" : textView === "original" && !originalVersion ? "both" : textView;
-  const englishEditions = versions.filter((v) => v.language?.code === "en");
-  const originalEditions = versions.filter((v) => v.editionType === "original" || v.language?.code !== "en");
-  const shareUrl = `${window.location.origin}/read/${slug}?ref=${encodeURIComponent(data?.passage?.reference ?? ref ?? "")}${primarySlug ? `&version=${encodeURIComponent(primarySlug)}` : ""}`;
-
-  const setVersion = (which: "primary" | "secondary", value: string) => {
-    if (which === "primary") {
-      setPrimarySlug(value);
-      navigate(`/read/${slug}?ref=${encodeURIComponent(data.passage.reference)}&version=${encodeURIComponent(value)}`, { replace: true });
-    } else {
-      setSecondarySlug(value);
-    }
+  const left = versions.find((v) => v.slug === leftSlug) ?? (canSplit ? defaultTranslation : versions[0]);
+  const right = versions.find((v) => v.slug === rightSlug) ?? (canSplit ? defaultOriginal : null);
+  const panes = canSplit
+    ? [layers.translation ? left : null, layers.original ? right : null].filter(Boolean)
+    : [left, beside ? right : null].filter(Boolean);
+  const primary = panes[0] ?? left;
+  const shareUrl = `${window.location.origin}${readHref(slug, data.passage.reference, primary?.slug)}`;
+  const signIn = (message: string) => {
+    push(message, "info");
+    navigate(`/account?next=${encodeURIComponent(location.pathname + location.search)}`);
   };
 
   const toggleBookmark = async () => {
-    if (!user) {
-      push("Sign in to keep bookmarks.", "info");
-      navigate(`/account?next=${encodeURIComponent(location.pathname + location.search)}`);
-      return;
-    }
+    if (!user) return signIn("Sign in to keep bookmarks.");
     try {
       const res = await api<{ bookmarked: boolean }>("/api/bookmarks/toggle", { method: "POST", body: { passageId: data.passage.id } });
       setBookmarked(res.bookmarked);
@@ -259,11 +818,7 @@ export function ReaderPage({ slug }: { slug: string }) {
   };
 
   const saveNote = async () => {
-    if (!user) {
-      push("Sign in to write a private note.", "info");
-      navigate(`/account?next=${encodeURIComponent(location.pathname + location.search)}`);
-      return;
-    }
+    if (!user) return signIn("Sign in to write a private note.");
     setBusy(true);
     try {
       const res = await api<{ id: number }>("/api/notes", { method: "POST", body: { passageId: data.passage.id, body: noteBody, editionId: primary?.id ?? null } });
@@ -294,24 +849,8 @@ export function ReaderPage({ slug }: { slug: string }) {
     } catch (e: any) { push(e.message, "error"); }
   };
 
-  const addToCompare = () => {
-    if (!data?.passage) return;
-    const key = `${slug}:${data.passage.reference}`;
-    try {
-      const list = JSON.parse(localStorage.getItem("uwl_compare") || "[]");
-      const next = list.includes(key) ? list : [...list, key];
-      localStorage.setItem("uwl_compare", JSON.stringify(next.slice(-8)));
-      setCompareCount(next.length);
-      push(next.length > 8 ? "Comparison holds eight passages; the oldest was dropped." : "Added to comparison.", "success");
-    } catch { push("Could not update the comparison workspace.", "error"); }
-  };
-
   const openCollections = async () => {
-    if (!user) {
-      push("Sign in to save passages to a collection.", "info");
-      navigate(`/account?next=${encodeURIComponent(location.pathname + location.search)}`);
-      return;
-    }
+    if (!user) return signIn("Sign in to save passages to a collection.");
     setCollectionOpen(true);
     setCollections(null);
     try {
@@ -340,571 +879,202 @@ export function ReaderPage({ slug }: { slug: string }) {
     } catch (e: any) { push(e.message, "error"); }
   };
 
-  if (error) return <div className="container page"><ErrorState message={error} /></div>;
-  if (!data) return <div className="container page"><Loading label="Loading the passage" /></div>;
+  // Changing the first edition is kept in the address, so a link or a reload
+  // opens the same reading.
+  const chooseLeft = (value: string) => {
+    setLeftSlug(value);
+    navigate(readHref(slug, data.passage.reference, value), { replace: true });
+  };
 
-  if (data.type === "unavailable") {
-    return (
-      <div className="container page">
-        <nav className="breadcrumb"><Link to="/library">Library</Link> / <span>{data.work.title}</span></nav>
-        <div className="unavailable-panel">
-          <p className="eyebrow">No imported text</p>
-          <h1>{data.work.title}</h1>
-          <p>{data.message}</p>
-          <p className="muted">The work remains in the catalogue so its place in the tradition, its editions and its relationships are visible. No text has been fabricated to fill the gap.</p>
-          <div className="button-row">
-            <Link className="button" to={`/work/${slug}`}>View the catalogue record</Link>
-            <Link className="button ghost" to="/provenance">Sources & provenance</Link>
-          </div>
-        </div>
-      </div>
-    );
-  }
-
-  if (data.type === "stream_unavailable") {
-    return (
-      <div className="container page">
-        <nav className="breadcrumb"><Link to="/library">Library</Link> / <Link to={`/work/${slug}`}>{data.work.title}</Link> / <span>Host unavailable</span></nav>
-        <div className="unavailable-panel">
-          <p className="eyebrow">Streamed text</p>
-          <h1>The text could not be reached</h1>
-          <p>{data.message}</p>
-          <p className="muted">
-            This work is hosted by {data.provider} as <code>{data.upstream}</code>. The library keeps its catalogue record and
-            reference index, so the entry remains valid; only the live text is unavailable.
-          </p>
-          <div className="button-row">
-            <button className="button" onClick={() => window.location.reload()}>Try again</button>
-            <Link className="button ghost" to={`/work/${slug}`}>View the catalogue record</Link>
-            <Link className="button ghost" to="/provenance">Sources & provenance</Link>
-          </div>
-        </div>
-      </div>
-    );
-  }
-
-  if (data.type === "not_found") {
-    return (
-      <div className="container page">
-        <nav className="breadcrumb"><Link to="/library">Library</Link> / <Link to={`/work/${slug}`}>{data.work.title}</Link> / <span>Reference not found</span></nav>
-        <div className="unavailable-panel">
-          <p className="eyebrow">Reference not found</p>
-          <h1>{data.message}</h1>
-          <p>Available references in this excerpt:</p>
-          <div className="chip-row">
-            {data.suggestions.map((s: any) => (
-              <Link key={s.reference} className="chip" to={`/read/${slug}?ref=${encodeURIComponent(s.reference)}`}>{s.reference} · {s.label}</Link>
-            ))}
-          </div>
-        </div>
-      </div>
-    );
-  }
-
-  if (data.type === "chapter") {
-    const allVerses = data.chapter.passages as any[];
-    const visibleVerses = verseLimit === 0 ? allVerses : allVerses.slice(0, verseLimit);
-    const scheme = data.work.ref_scheme;
-    const lineated = looksLineated(allVerses, scheme);
-    const showRefs = refsPref ?? !lineated;
-    const unit =
-      scheme === "chapter.mishnah" ? "mishnayot"
-      : scheme === "daf.line" ? "lines"
-      : scheme === "chapter.paragraph" ? (lineated ? "lines" : "paragraphs")
-      : scheme === "surah.ayah" ? "ayahs"
-      : scheme === "book.hadith" ? "hadiths"
-      : scheme === "chapter.verse" ? "verses"
-      : "passages";
-    const unitLabel = `${unit.charAt(0).toUpperCase()}${unit.slice(1)} shown`;
-    const englishAvailable = allVerses.some((p: any) => !!p.translation);
-    const originalAvailable = allVerses.some((p: any) => !!p.original);
-    const originalLabel = allVerses.find((p: any) => p.original)?.original?.language?.name ?? "Original";
-    const originalCode = allVerses.find((p: any) => p.original)?.original?.language?.code;
-    const canSplit = englishAvailable && originalAvailable && !!originalCode && originalCode !== "en";
-    const chapterView: TextView =
-      textView === "english" && !englishAvailable ? "both" : textView === "original" && !originalAvailable ? "both" : textView;
-    return (
-      <div className="container page">
-        <nav className="breadcrumb"><Link to="/library">Library</Link> / <Link to={`/work/${slug}`}>{data.work.title}</Link> / <span>{data.chapter.label}</span></nav>
-        <header className="chapter-header">
-          <p className="eyebrow">{data.work.tradition_name}{data.work.school_name ? ` · ${data.work.school_name}` : ""}</p>
-          <h1>{data.work.title}</h1>
-          <h2>{data.chapter.label}</h2>
-          <ChapterPicker slug={slug} chapters={data.chapters} current={data.chapter.ref} version={versionParam} />
-          <p className="muted">
-            This edition uses the reference scheme “{data.work.ref_scheme}”. Where the holding project supplies both a
-            source-language text and a translation, they are shown side by side, each with its own edition and source; the
-            control above lets you read either language on its own.
-          </p>
-          <StreamingNote streaming={data.streaming} />
-          <div className="chapter-controls">
-            {layout === "cards" ? (
-              <>
-                <label className="version-select compact">
-                  <span>{unitLabel}</span>
-                  <select value={verseLimit} onChange={(e) => setVerseLimit(Number(e.target.value))}>
-                    <option value={5}>5</option>
-                    <option value={10}>10</option>
-                    <option value={25}>25</option>
-                    <option value={50}>50</option>
-                    <option value={0}>All {data.chapter.total}</option>
-                  </select>
-                </label>
-                <span className="muted small">
-                  Showing {visibleVerses.length} of {data.chapter.total} {unit}
-                </span>
-              </>
-            ) : (
-              <span className="muted small">
-                The whole chapter in one flow · {data.chapter.total} {unit}
-              </span>
-            )}
-            {canSplit && <ViewToggle value={textView} onChange={chooseView} originalLabel={originalLabel} />}
-            <div className="view-toggle" role="group" aria-label="Reading layout">
-              <span className="view-toggle-label">Layout</span>
-              <button
-                type="button"
-                className={layout === "cards" ? "button small active" : "button small"}
-                aria-pressed={layout === "cards"}
-                onClick={() => chooseLayout("cards")}
-              >
-                Passage cards
-              </button>
-              <button
-                type="button"
-                className={layout === "continuous" ? "button small active" : "button small"}
-                aria-pressed={layout === "continuous"}
-                onClick={() => chooseLayout("continuous")}
-              >
-                Continuous
-              </button>
-            </div>
-            {layout === "continuous" && (
-              <div className="view-toggle" role="group" aria-label="Reference marks">
-                <span className="view-toggle-label">Marks</span>
-                <button
-                  type="button"
-                  className={showRefs ? "button small active" : "button small"}
-                  aria-pressed={showRefs}
-                  onClick={() => chooseRefs(!showRefs)}
-                >
-                  {showRefs ? "Hide references" : "Show references"}
-                </button>
-              </div>
-            )}
-          </div>
-        </header>
-        {layout === "continuous" ? (
-          <ContinuousChapter
-            slug={slug}
-            passages={allVerses}
-            view={chapterView}
-            scheme={scheme}
-            showRefs={showRefs}
-          />
-        ) : (
-        <div className="chapter-list">
-          {visibleVerses.map((p: any) => (
-            <article key={p.id} className={p.parallel ? "chapter-passage parallel" : "chapter-passage"}>
-              <div className="chapter-passage-head">
-                <span className="ref">{p.reference}</span>
-                <span>{p.label}</span>
-                {p.edition && (
-                  <span className="muted small">
-                    {p.parallel
-                      ? chapterView === "english"
-                        ? `${p.translation.language.name} only`
-                        : chapterView === "original"
-                          ? `${p.original.language.name} only`
-                          : `${p.original.language.name} + ${p.translation.language.name}`
-                      : p.edition.language.name}
-                    {" · "}{p.editions} {p.editions === 1 ? "edition" : "editions"}
-                  </span>
-                )}
-              </div>
-              {p.parallel ? (
-                <div className={chapterView === "both" ? "verse-panels" : "verse-panels single"}>
-                  {chapterView !== "english" && (
-                    <div className="verse-panel original">
-                      <p
-                        className="chapter-excerpt"
-                        dir={p.original.language.direction === "rtl" ? "rtl" : "ltr"}
-                        lang={p.original.language.code}
-                      >
-                        {p.original.text}
-                      </p>
-                      <p className="verse-source">
-                        {p.original.title}
-                        {p.original.source?.name && <> · via {p.original.source.name}</>}
-                      </p>
-                    </div>
-                  )}
-                  {chapterView !== "original" && (
-                    <div className="verse-panel translation">
-                      <p className="chapter-excerpt" lang={p.translation.language.code}>
-                        {p.translation.text}
-                      </p>
-                      <p className="verse-source">
-                        {p.translation.title}
-                        {p.translation.source?.name && <> · via {p.translation.source.name}</>}
-                      </p>
-                    </div>
-                  )}
-                </div>
-              ) : (
-                p.text && (
-                  <p
-                    className="chapter-excerpt"
-                    dir={p.edition?.language?.direction === "rtl" ? "rtl" : "ltr"}
-                    lang={p.edition?.language?.code}
-                  >
-                    {p.text}
-                    {p.edition?.source?.name && <span className="verse-source inline">{p.edition.title} · via {p.edition.source.name}</span>}
-                  </p>
-                )
-              )}
-              <Link className="text-link" to={`/read/${slug}?ref=${encodeURIComponent(p.reference)}${versionParam ? `&version=${encodeURIComponent(versionParam)}` : ""}`}>Read passage <Icon name="arrow-right" size={15} /></Link>
-            </article>
-          ))}
-        </div>
-        )}
-        {layout === "cards" && verseLimit > 0 && visibleVerses.length < allVerses.length && (
-          <div className="chapter-more">
-            <button className="button" onClick={() => setVerseLimit(Math.min(allVerses.length, verseLimit + 10))}>
-              Show 10 more {unit}
-            </button>
-          </div>
-        )}
-        <nav className="pager">
-          {data.navigation.prev ? <Link className="button" to={`/read/${slug}?ref=${encodeURIComponent(data.navigation.prev.ref)}`}><Icon name="arrow-left" size={15} /> Previous chapter</Link> : <span />}
-          {data.navigation.next ? <Link className="button" to={`/read/${slug}?ref=${encodeURIComponent(data.navigation.next.ref)}`}><Icon name="arrow-right" size={15} /> Next chapter</Link> : <span />}
-        </nav>
-      </div>
-    );
-  }
-
+  const nav = data.navigation;
   return (
     <div className="reader-page">
-      <div className="reader-toolbar">
-        <div className="reader-toolbar-inner">
-          <nav className="breadcrumb" aria-label="Breadcrumb">
-            <Link to="/library">Library</Link>
-            <span aria-hidden="true">/</span>
-            <Link to={`/work/${slug}`}>{data.work.title}</Link>
-          </nav>
-          <div className="reader-tools">
-            <button className={bookmarked ? "button small active" : "button small"} onClick={toggleBookmark} aria-pressed={bookmarked}>
-              <Icon name="bookmark" size={16} /> {bookmarked ? "Bookmarked" : "Bookmark"}
-            </button>
-            <button className="button small" onClick={() => setSettingsOpen((v) => !v)} aria-expanded={settingsOpen}>
-              <Icon name="settings" size={16} /> Type
-            </button>
-            <button className="button small" onClick={addToCompare}>
-              <Icon name="plus" size={16} /> Compare {compareCount > 0 && <span className="count">{compareCount}</span>}
-            </button>
-            <CopyButton text={shareUrl} label="Share" small />
-          </div>
-        </div>
-        {settingsOpen && (
-          <div className="type-panel" role="group" aria-label="Reading preferences">
-            <label>
-              <span>Text size</span>
-              <input type="range" min={15} max={26} step={1} value={prefs.fontSize} onChange={(e) => prefs.setFontSize(Number(e.target.value))} />
-              <span className="type-value">{prefs.fontSize}px</span>
-            </label>
-            <label>
-              <span>Line spacing</span>
-              <input type="range" min={1.3} max={2.2} step={0.05} value={prefs.lineHeight} onChange={(e) => prefs.setLineHeight(Number(e.target.value))} />
-              <span className="type-value">{prefs.lineHeight.toFixed(2)}</span>
-            </label>
-            <label>
-              <span>Reading width</span>
-              <input type="range" min={520} max={900} step={20} value={prefs.measure} onChange={(e) => prefs.setMeasure(Number(e.target.value))} />
-              <span className="type-value">{prefs.measure}px</span>
-            </label>
-            <div className="type-row">
-              <span>Typeface</span>
-              <div className="segmented">
-                <button className={prefs.readingFont === "serif" ? "active" : ""} onClick={() => prefs.setReadingFont("serif")}>Serif</button>
-                <button className={prefs.readingFont === "sans" ? "active" : ""} onClick={() => prefs.setReadingFont("sans")}>Sans</button>
-              </div>
-            </div>
-            <div className="type-row">
-              <span>Appearance</span>
-              <div className="segmented">
-                <button className={prefs.resolvedTheme === "light" ? "active" : ""} onClick={() => prefs.setTheme("light")}>Light</button>
-                <button className={prefs.resolvedTheme === "dark" ? "active" : ""} onClick={() => prefs.setTheme("dark")}>Dark</button>
-              </div>
-            </div>
-          </div>
-        )}
-      </div>
-
-      <div className="reader-shell">
-        <aside className="reader-contents" aria-label="Contents">
-          <h2 className="contents-title">Contents</h2>
-          <details open>
-            <summary>{data.chapter.label}</summary>
-            <ul className="contents-passages">
-              {data.chapter.passages.map((p: any) => (
-                <li key={p.reference}>
-                  <Link className={p.current ? "current" : ""} to={`/read/${slug}?ref=${encodeURIComponent(p.reference)}`} aria-current={p.current ? "page" : undefined}>
-                    <span>{p.reference}</span><span>{p.label}</span>
-                  </Link>
-                </li>
-              ))}
-            </ul>
-          </details>
-          <details>
-            <summary>All chapters</summary>
-            <ul className="contents-chapters">
-              {data.chapters.map((c: any) => (
-                <li key={c.ref}><Link to={`/read/${slug}?ref=${encodeURIComponent(c.ref)}`}>{c.label}</Link></li>
-              ))}
-            </ul>
-          </details>
-          <div className="contents-foot">
-            <Link to={`/work/${slug}`}>Work overview</Link>
-            <Link to={`/compare?p=${encodeURIComponent(`${slug}:${data.passage.reference}`)}`}>Open in comparison</Link>
-            <Link to="/themes">Themes</Link>
-          </div>
-        </aside>
-
-        <main className="reader-main" style={{ ["--reader-width" as any]: `${prefs.measure}px` }}>
-          <header className="passage-header">
-            <p className="eyebrow">{data.work.tradition_name}{data.work.school_name ? ` · ${data.work.school_name}` : ""}</p>
-            <h1>{data.work.title}</h1>
-            {data.work.original_title && <p className="work-original" dir={data.versions[0]?.language.direction === "rtl" ? "rtl" : undefined}>{data.work.original_title}</p>}
-            <div className="passage-ref-row">
-              <span className="passage-ref">{data.passage.reference}</span>
-              <span className="passage-label">{data.passage.label}</span>
-              {data.passage.reference.includes(":") ? null : <Badge tone="muted">Tradition-specific reference</Badge>}
-              {data.chapter.total > 1 && (
-                <Link className="text-link" to={`/read/${slug}?ref=${encodeURIComponent(data.chapter.ref)}${primarySlug ? `&version=${encodeURIComponent(primarySlug)}` : ""}`}>Read the whole chapter</Link>
-              )}
-            </div>
-            <ChapterPicker slug={slug} chapters={data.chapters} current={data.chapter.ref} version={primarySlug} />
-            <StreamingNote streaming={data.streaming} />
-          </header>
-
-          {canSplit && <ViewToggle value={textView} onChange={chooseView} originalLabel={originalLabel} />}
-
-          <div className="version-controls">
-            {textMode === "both" ? (
+      <ReaderBar
+        slug={slug}
+        version={versionParam}
+        prev={nav.prev ? { href: readHref(slug, nav.prev.reference, versionParam), label: `${nav.prev.reference} · ${nav.prev.label}` } : null}
+        next={nav.next ? { href: readHref(slug, nav.next.reference, versionParam), label: `${nav.next.reference} · ${nav.next.label}` } : null}
+        chapters={data.chapters}
+        chapterRef={data.chapter.ref}
+        placeholder={`Go to… e.g. ${data.passage.reference}`}
+        controls={
+          <>
+            {canSplit && <LayerSwitches layers={layers} toggle={toggle} originalLabel={defaultOriginal.language?.name ?? "Original"} />}
+            {canSplit ? (
               <>
-                <label className="version-select">
-                  <span>Primary edition</span>
-                  <select value={primary?.slug ?? ""} onChange={(e) => setVersion("primary", e.target.value)}>
+                {layers.translation && englishEditions.length > 1 && (
+                  <label className="reader-field">
+                    <span>Translation</span>
+                    <select value={left?.slug ?? ""} onChange={(e) => chooseLeft(e.target.value)}>
+                      {englishEditions.map((v) => <option key={v.slug} value={v.slug}>{versionLabel(v)}</option>)}
+                    </select>
+                  </label>
+                )}
+                {layers.original && originalEditions.length > 1 && (
+                  <label className="reader-field">
+                    <span>Original</span>
+                    <select value={right?.slug ?? ""} onChange={(e) => setRightSlug(e.target.value)}>
+                      {originalEditions.map((v) => <option key={v.slug} value={v.slug}>{versionLabel(v)}</option>)}
+                    </select>
+                  </label>
+                )}
+              </>
+            ) : versions.length > 1 ? (
+              <>
+                <label className="reader-field">
+                  <span>Edition</span>
+                  <select value={left?.slug ?? ""} onChange={(e) => chooseLeft(e.target.value)}>
                     {versions.map((v) => <option key={v.slug} value={v.slug}>{versionLabel(v)}</option>)}
                   </select>
                 </label>
-                {versions.length > 1 && (
-                  <>
-                    <button className={parallel ? "button small active" : "button small"} onClick={() => setParallel((v) => !v)} aria-pressed={parallel}>
-                      {parallel ? "Hide parallel" : "Show parallel"}
-                    </button>
-                    {parallel && (
-                      <label className="version-select">
-                        <span>Parallel edition</span>
-                        <select value={secondary?.slug ?? ""} onChange={(e) => setVersion("secondary", e.target.value)}>
-                          {versions.filter((v) => v.slug !== primary?.slug).map((v) => <option key={v.slug} value={v.slug}>{versionLabel(v)}</option>)}
-                        </select>
-                      </label>
-                    )}
-                  </>
+                <button className={beside ? "button small active" : "button small"} aria-pressed={beside} onClick={() => setBeside((v) => !v)}>
+                  Beside it
+                </button>
+                {beside && (
+                  <label className="reader-field">
+                    <span className="sr-only">Second edition</span>
+                    <select value={right?.slug ?? ""} onChange={(e) => setRightSlug(e.target.value)}>
+                      {versions.filter((v) => v.slug !== left?.slug).map((v) => <option key={v.slug} value={v.slug}>{versionLabel(v)}</option>)}
+                    </select>
+                  </label>
                 )}
               </>
-            ) : (
-              <label className="version-select">
-                <span>{textMode === "english" ? "English edition" : `${originalLabel} edition`}</span>
-                <select
-                  value={(textMode === "english" ? englishVersion : originalVersion)?.slug ?? ""}
-                  onChange={(e) => setVersion("primary", e.target.value)}
-                >
-                  {(textMode === "english" ? englishEditions : originalEditions).map((v) => (
-                    <option key={v.slug} value={v.slug}>{versionLabel(v)}</option>
-                  ))}
-                </select>
-              </label>
+            ) : null}
+            {data.chapter.total > 1 && (
+              <Link className="button small ghost" to={readHref(slug, data.chapter.ref, primary?.slug)}>Whole chapter</Link>
             )}
-          </div>
+          </>
+        }
+        tools={
+          <>
+            <button className={bookmarked ? "button small active" : "button small"} onClick={toggleBookmark} aria-pressed={bookmarked} title="Bookmark">
+              <Icon name="bookmark" size={15} /><span className="tool-label">{bookmarked ? "Bookmarked" : "Bookmark"}</span>
+            </button>
+            <button className="button small" onClick={() => compare.add(slug, data.passage.reference)} title="Add to comparison">
+              <Icon name="plus" size={15} /><span className="tool-label">Compare</span>{compare.count > 0 && <span className="count">{compare.count}</span>}
+            </button>
+            <CopyButton text={shareUrl} label="Share" small />
+          </>
+        }
+      />
 
-          <div className={textMode === "both" && parallel && secondary ? "text-panels two" : "text-panels"}>
-            {textMode === "english" && englishVersion ? (
-              <TextPanel version={englishVersion} isPrimary />
-            ) : textMode === "original" && originalVersion ? (
-              <TextPanel version={originalVersion} isPrimary />
-            ) : (
-              <>
-                {primary && <TextPanel version={primary} isPrimary />}
-                {parallel && secondary && <TextPanel version={secondary} />}
-              </>
-            )}
-          </div>
+      <div className="reader-body" style={{ ["--reader-width" as any]: `${prefs.measure}px` }}>
+        <ReaderTrail work={data.work} slug={slug} last={data.passage.label} />
+        <WorkHeading work={data.work} sub={data.passage.label || data.passage.reference} originalDir={defaultOriginal?.language?.direction} />
+        <StreamingNote streaming={data.streaming} />
 
-          <p className="edition-caveat">
-            Translations are independent editions, not interlinear glosses. Where a translator paraphrases or supplies bracketed words, that is preserved. The reader never substitutes one edition's wording for another's.
-          </p>
+        <div className={panes.length === 2 ? "text-panels two" : "text-panels"}>
+          {panes.map((v: any, i: number) => <TextPanel key={v.slug} version={v} isPrimary={i === 0} />)}
+        </div>
 
-          <nav className="pager">
-            {data.navigation.prev ? (
-              <Link className="button" to={`/read/${slug}?ref=${encodeURIComponent(data.navigation.prev.reference)}`} rel="prev">
-                <Icon name="arrow-left" size={15} /> <span><small>Previous</small>{data.navigation.prev.reference} · {data.navigation.prev.label}</span>
-              </Link>
-            ) : <span />}
-            {data.navigation.next ? (
-              <Link className="button" to={`/read/${slug}?ref=${encodeURIComponent(data.navigation.next.reference)}`} rel="next">
-                <span><small>Next</small>{data.navigation.next.reference} · {data.navigation.next.label}</span> <Icon name="arrow-right" size={15} />
-              </Link>
-            ) : <span />}
-          </nav>
+        <p className="edition-caveat">
+          Translations are independent editions, not interlinear glosses. Where a translator paraphrases or supplies bracketed words, that is preserved. The reader never substitutes one edition's wording for another's.
+        </p>
 
-          <section className="reader-section" id="notes">
-            <div className="section-heading compact">
-              <div>
-                <h2>Your notes</h2>
-                <p>Private by default. Only you can read these; there is no public notes endpoint.</p>
-              </div>
+        <nav className="pager">
+          {nav.prev ? (
+            <Link className="button" to={readHref(slug, nav.prev.reference, versionParam)} rel="prev">
+              <Icon name="arrow-left" size={15} /> <span><small>Previous</small>{nav.prev.reference} · {nav.prev.label}</span>
+            </Link>
+          ) : <span />}
+          {nav.next ? (
+            <Link className="button" to={readHref(slug, nav.next.reference, versionParam)} rel="next">
+              <span><small>Next</small>{nav.next.reference} · {nav.next.label}</span> <Icon name="arrow-right" size={15} />
+            </Link>
+          ) : <span />}
+        </nav>
+
+        <section className="reader-section" id="notes">
+          <div className="section-heading compact">
+            <div>
+              <h2>Your notes</h2>
+              <p>Private by default. Only you can read these; there is no public notes endpoint.</p>
             </div>
-            {user ? (
-              <>
-                <div className="note-composer">
-                  <textarea
-                    value={noteBody}
-                    onChange={(e) => setNoteBody(e.target.value)}
-                    placeholder="Write a private note on this passage…"
-                    rows={3}
-                    maxLength={5000}
-                    aria-label="New private note"
-                  />
-                  <div className="note-actions">
-                    <span className="muted small">{noteBody.length}/5000</span>
-                    <button className="button small primary" onClick={saveNote} disabled={busy || noteBody.trim().length === 0}>Save note</button>
-                  </div>
+          </div>
+          {user ? (
+            <>
+              <div className="note-composer">
+                <textarea
+                  value={noteBody}
+                  onChange={(e) => setNoteBody(e.target.value)}
+                  placeholder="Write a private note on this passage…"
+                  rows={3}
+                  maxLength={5000}
+                  aria-label="New private note"
+                />
+                <div className="note-actions">
+                  <span className="muted small">{noteBody.length}/5000</span>
+                  <button className="button small primary" onClick={saveNote} disabled={busy || noteBody.trim().length === 0}>Save note</button>
                 </div>
-                {notes.length > 0 && (
-                  <ul className="note-list">
-                    {notes.map((n) => (
-                      <li key={n.id}>
-                        {editingId === n.id ? (
-                          <div className="note-edit">
-                            <textarea value={editingBody} onChange={(e) => setEditingBody(e.target.value)} rows={3} maxLength={5000} />
-                            <div className="button-row">
-                              <button className="button small primary" onClick={() => updateNote(n.id)} disabled={busy}>Save</button>
-                              <button className="button small ghost" onClick={() => setEditingId(null)}>Cancel</button>
-                            </div>
+              </div>
+              {notes.length > 0 && (
+                <ul className="note-list">
+                  {notes.map((n) => (
+                    <li key={n.id}>
+                      {editingId === n.id ? (
+                        <div className="note-edit">
+                          <textarea value={editingBody} onChange={(e) => setEditingBody(e.target.value)} rows={3} maxLength={5000} />
+                          <div className="button-row">
+                            <button className="button small primary" onClick={() => updateNote(n.id)} disabled={busy}>Save</button>
+                            <button className="button small ghost" onClick={() => setEditingId(null)}>Cancel</button>
                           </div>
-                        ) : (
-                          <>
-                            <p className="note-body">{n.body}</p>
-                            <div className="note-meta">
-                              <span>{n.updated_at ? new Date(n.updated_at.replace(" ", "T") + "Z").toLocaleString() : ""} · private</span>
-                              <span className="note-buttons">
-                                <button className="link-button" onClick={() => { setEditingId(n.id); setEditingBody(n.body); }}>Edit</button>
-                                <button className="link-button danger" onClick={() => deleteNote(n.id)}>Delete</button>
-                              </span>
-                            </div>
-                          </>
-                        )}
-                      </li>
-                    ))}
-                  </ul>
-                )}
-              </>
-            ) : (
-              <div className="signin-prompt">
-                <p>Sign in to write a private note, bookmark this passage and keep your reading progress.</p>
-                <Link className="button small" to={`/account?next=${encodeURIComponent(location.pathname + location.search)}`}>Sign in or create an account</Link>
-              </div>
-            )}
-          </section>
+                        </div>
+                      ) : (
+                        <>
+                          <p className="note-body">{n.body}</p>
+                          <div className="note-meta">
+                            <span>{n.updated_at ? new Date(n.updated_at.replace(" ", "T") + "Z").toLocaleString() : ""} · private</span>
+                            <span className="note-buttons">
+                              <button className="link-button" onClick={() => { setEditingId(n.id); setEditingBody(n.body); }}>Edit</button>
+                              <button className="link-button danger" onClick={() => deleteNote(n.id)}>Delete</button>
+                            </span>
+                          </div>
+                        </>
+                      )}
+                    </li>
+                  ))}
+                </ul>
+              )}
+            </>
+          ) : (
+            <div className="signin-prompt">
+              <p>Sign in to write a private note, bookmark this passage and keep your reading progress.</p>
+              <Link className="button small" to={`/account?next=${encodeURIComponent(location.pathname + location.search)}`}>Sign in or create an account</Link>
+            </div>
+          )}
+        </section>
 
-          <section className="reader-section" id="commentary">
+        <section className="reader-section" id="commentary">
+          <div className="section-heading compact">
+            <div>
+              <h2>Commentary & interpretation</h2>
+              <p>Kept separate from the source text. Disagreement is shown as disagreement.</p>
+            </div>
+            {data.commentary.length > 0 && <Badge>{data.commentary.length}</Badge>}
+          </div>
+          <CommentaryList items={data.commentary} />
+        </section>
+
+        {(data.themes.length > 0 || data.relationships.length > 0) && (
+          <section className="reader-section" id="connections">
             <div className="section-heading compact">
               <div>
-                <h2>Commentary & interpretation</h2>
-                <p>Kept separate from the source text. Disagreement is shown as disagreement.</p>
+                <h2>Connections</h2>
+                <p>The relationship type and evidence are shown. Similarity alone is not influence.</p>
               </div>
-              {data.commentary.length > 0 && <Badge>{data.commentary.length}</Badge>}
             </div>
-            {data.commentary.length === 0 ? (
-              <p className="muted">No commentary has been imported for this passage. The absence of commentary is not evidence that none exists.</p>
-            ) : (
-              <div className="commentary-list">
-                {data.commentary.map((c: any) => {
-                  const meta = COMMENTARY_LABELS[c.contentType] ?? { label: c.contentType, note: "" };
-                  return (
-                    <article key={c.id} className={`commentary commentary-${c.contentType}`}>
-                      <div className="commentary-head">
-                        <Badge tone={c.contentType === "academic" ? "blue" : c.contentType === "editorial" ? "muted" : "accent"}>{meta.label}</Badge>
-                        {c.isSample && <SampleBadge />}
-                      </div>
-                      <p className="commentary-meta">
-                        {c.author && <strong>{c.author}</strong>}
-                        {c.dateDisplay && <span> · {c.dateDisplay}</span>}
-                        {c.interpretiveTradition && <span> · {c.interpretiveTradition}</span>}
-                      </p>
-                      <p className={c.isQuotation ? "commentary-body quotation" : "commentary-body"}>{c.content}</p>
-                      <p className="commentary-provenance">
-                        {meta.note}
-                        {c.source && <span> Source: {c.source}.</span>}
-                        {c.license?.name && <span> {c.license.name}.</span>}
-                        {c.provenanceNote && <span> {c.provenanceNote}</span>}
-                      </p>
-                    </article>
-                  );
-                })}
-              </div>
-            )}
+            <ConnectionsList themes={data.themes} relationships={data.relationships} />
+            <button className="button small" onClick={openCollections}><Icon name="plus" size={15} /> Save to a collection</button>
           </section>
+        )}
 
-          {(data.themes.length > 0 || data.relationships.length > 0) && (
-            <section className="reader-section" id="connections">
-              <div className="section-heading compact">
-                <div>
-                  <h2>Connections</h2>
-                  <p>The relationship type and evidence are shown. Similarity alone is not influence.</p>
-                </div>
-              </div>
-              {data.themes.length > 0 && (
-                <div className="connection-block">
-                  <h3>Themes</h3>
-                  <div className="chip-row">
-                    {data.themes.map((t: any) => <Link key={t.slug} className="chip" to={`/themes/${t.slug}`}>{t.name}</Link>)}
-                  </div>
-                  {data.themes.map((t: any) => t.note && <p key={`${t.slug}-note`} className="small muted"><strong>{t.name}:</strong> {t.note}</p>)}
-                </div>
-              )}
-              {data.relationships.length > 0 && (
-                <div className="connection-block">
-                  <h3>Related passages</h3>
-                  <ul className="relationship-list">
-                    {data.relationships.map((r: any) => (
-                      <li key={r.id}>
-                        <Badge tone="blue">{REL_LABELS[r.type] ?? r.type}</Badge>
-                        <div>
-                          <Link to={`/read/${r.other.work}?ref=${encodeURIComponent(r.other.reference)}`}>{r.other.workTitle} {r.other.reference}</Link>
-                          {r.description && <p>{r.description}</p>}
-                          {r.evidence && <p className="small muted">Evidence: {r.evidence}</p>}
-                          <p className="small muted">Confidence: {r.confidence}</p>
-                        </div>
-                      </li>
-                    ))}
-                  </ul>
-                </div>
-              )}
-              <button className="button small" onClick={openCollections}><Icon name="plus" size={15} /> Save to a collection</button>
-            </section>
-          )}
-
-          <footer className="passage-footer">
-            <p>
-              Citation: <em>{data.work.title}</em> {data.passage.reference}
-              {primary ? `, ${primary.title}${primary.translator ? `, trans. ${primary.translator}` : ""}${primary.publicationYear ? ` (${primary.publicationYear})` : ""}` : ""}.
-            </p>
-            <CopyButton text={`${data.work.title} ${data.passage.reference}. ${primary?.title ?? ""}${primary?.translator ? `, trans. ${primary.translator}` : ""}. ${shareUrl}`} label="Copy citation" small />
-          </footer>
-        </main>
+        <footer className="passage-footer">
+          <p>
+            Citation: <em>{data.work.title}</em> {data.passage.reference}
+            {primary ? `, ${primary.title}${primary.translator ? `, trans. ${primary.translator}` : ""}${primary.publicationYear ? ` (${primary.publicationYear})` : ""}` : ""}.
+          </p>
+          <CopyButton text={`${data.work.title} ${data.passage.reference}. ${primary?.title ?? ""}${primary?.translator ? `, trans. ${primary.translator}` : ""}. ${shareUrl}`} label="Copy citation" small />
+        </footer>
       </div>
 
       <Modal open={collectionOpen} onClose={() => setCollectionOpen(false)} title="Save to a collection">
@@ -934,10 +1104,10 @@ export function ReaderPage({ slug }: { slug: string }) {
 /**
  * Continuous chapter reading.
  *
- * The passage cards and their controls are for study: each verse or article
- * stands alone with its own links. This view removes that scaffolding so a
- * chapter can be read straight through. Poetry and other line-by-line texts are
- * joined into one column instead of a paragraph per line, and passage marks are
+ * The rows and their controls are for study: each verse or article stands
+ * alone with its own number. This view removes that scaffolding so a chapter
+ * can be read straight through. Poetry and other line-by-line texts are joined
+ * into one column instead of a paragraph per line, and passage marks are
  * hidden unless the reader turns them on.
  */
 function ContinuousChapter({
@@ -968,20 +1138,6 @@ function ContinuousChapter({
   }[] = [];
 
   if (parallelOriginal || parallelTranslation) {
-    if (view !== "english" && parallelOriginal) {
-      panes.push({
-        key: "original",
-        kicker: "Original text",
-        language: parallelOriginal.language?.name ?? "",
-        edition: parallelOriginal.title ?? "",
-        source: parallelOriginal.source?.name ?? "",
-        lang: parallelOriginal.language?.code,
-        rtl: parallelOriginal.language?.direction === "rtl",
-        items: passages
-          .filter((p: any) => p.original)
-          .map((p: any) => ({ reference: p.reference, label: p.label, text: p.original.text })),
-      });
-    }
     if (view !== "original" && parallelTranslation) {
       panes.push({
         key: "translation",
@@ -994,6 +1150,20 @@ function ContinuousChapter({
         items: passages
           .filter((p: any) => p.translation)
           .map((p: any) => ({ reference: p.reference, label: p.label, text: p.translation.text })),
+      });
+    }
+    if (view !== "english" && parallelOriginal) {
+      panes.push({
+        key: "original",
+        kicker: "Original text",
+        language: parallelOriginal.language?.name ?? "",
+        edition: parallelOriginal.title ?? "",
+        source: parallelOriginal.source?.name ?? "",
+        lang: parallelOriginal.language?.code,
+        rtl: parallelOriginal.language?.direction === "rtl",
+        items: passages
+          .filter((p: any) => p.original)
+          .map((p: any) => ({ reference: p.reference, label: p.label, text: p.original.text })),
       });
     }
   } else {
@@ -1039,7 +1209,7 @@ function ContinuousChapter({
                       {showRefs && (
                         <a
                           className="flow-marker"
-                          href={`/read/${slug}?ref=${encodeURIComponent(item.reference)}`}
+                          href={readHref(slug, item.reference)}
                           title={`${item.label} — open this line on its own`}
                         >
                           {flowMarker(item)}
@@ -1069,7 +1239,7 @@ function ContinuousChapter({
                       ) : (
                         <a
                           className="flow-marker"
-                          href={`/read/${slug}?ref=${encodeURIComponent(item.reference)}`}
+                          href={readHref(slug, item.reference)}
                           title={`${item.label} — open this passage on its own`}
                         >
                           {flowMarker(item)}
@@ -1096,7 +1266,7 @@ function ContinuousChapter({
       <p className="flow-note">
         {showRefs
           ? "Read as one block. The small references mark the passage being quoted and open it on its own; nothing else interrupts the chapter."
-          : "Read as one block, with passage marks hidden. Turn on references above to quote or open a single passage."}
+          : "Read as one block, with passage marks hidden. Turn on References above to quote or open a single passage."}
       </p>
     </div>
   );
@@ -1113,63 +1283,8 @@ function looksLineated(items: { text: string }[], scheme: string) {
   const lineish = scheme === "chapter.paragraph" || scheme === "chapter.verse" || scheme === "verse" || scheme.endsWith(".line");
   if (!lineish) return false;
   if (items.length < 8) return false;
-  const short = items.filter((item) => item.text.trim().length <= 90).length;
+  const short = items.filter((item) => (item.text ?? "").trim().length <= 90).length;
   return short / items.length >= 0.7;
-}
-
-/**
- * Jump to another chapter without leaving the reader. Works with a single
- * chapter keep their header clean, and long works rely on the select's own
- * type-ahead rather than an extra search box.
- */
-function ChapterPicker({
-  slug,
-  chapters,
-  current,
-  version,
-}: {
-  slug: string;
-  chapters: { ref: string; label: string }[];
-  current: string;
-  version?: string | null;
-}) {
-  if (chapters.length < 2) return null;
-  const index = chapters.findIndex((c) => c.ref === current);
-  return (
-    <div className="chapter-jump">
-      <label>
-        <span>Chapter</span>
-        <select
-          aria-label="Choose a chapter"
-          value={index >= 0 ? current : chapters[0].ref}
-          onChange={(e) =>
-            navigate(
-              `/read/${slug}?ref=${encodeURIComponent(e.target.value)}${version ? `&version=${encodeURIComponent(version)}` : ""}`,
-            )
-          }
-        >
-          {chapters.map((c) => (
-            <option key={c.ref} value={c.ref}>
-              {c.label}
-            </option>
-          ))}
-        </select>
-      </label>
-      <span className="muted">{index >= 0 ? `${index + 1} of ${chapters.length}` : `${chapters.length} chapters`}</span>
-    </div>
-  );
-}
-
-/** The smallest reference that still identifies a passage in a continuous flow. */
-function flowMarker(item: { reference: string; label: string }) {
-  const ref = item.reference ?? "";
-  const tail = ref.includes(":") ? ref.slice(ref.lastIndexOf(":") + 1) : ref.slice(ref.lastIndexOf(".") + 1);
-  return tail || item.label;
-}
-
-function versionLabel(v: any) {
-  const bits = [v.language?.name, v.editionType === "original" ? "original" : v.translator ? `trans. ${v.translator}` : "translation"];
-  return `${bits.filter(Boolean).join(" · ")} — ${v.title}`;
 }
 
 function TextPanel({ version, isPrimary = false }: { version: any; isPrimary?: boolean }) {

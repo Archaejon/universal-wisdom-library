@@ -10,6 +10,64 @@ and where things stand (commits, branch, anything not pushed or not verified).
 
 ---
 
+## 2026-11-25 (later): the Sefaria Lens layout, step 1
+
+**Done**
+- **Shell** (`client/shell.tsx`): a left sidebar replaces the top bar and the
+  footer. It holds the wordmark, search (`/` focuses it), Reader (continues
+  the latest text), Library, Search, Themes, Compare, Study assistant and My
+  study. Below those come **Recently opened** (`client/recent.ts`, live from
+  localStorage), a "Sources, provenance and more" group, light/dark mode,
+  account and a rights line. On the right is a **study panel** any page opens
+  with `useStudyPanel()`; it closes on navigation or Esc. Below 1280px the
+  panel floats over the page; below 1000px the sidebar is a drawer behind a
+  top bar and the panel covers the screen.
+- **Reader** (`client/pages/ReaderPage.tsx`, rewritten around the same data):
+  - **The bar:** a sticky reader bar with previous/next, a "Go to…"
+    reference box, the chapter select, A−/A+ and the type settings, plus
+    tools (About, Share; Bookmark and Compare on a passage). A second row
+    holds the **Original / Translation layer switches** (at least one stays
+    on; the old "text shown" choice is migrated), a Translation select where
+    a chapter has several, **Text: 10/25/50/100/All** with "Show N more",
+    and Rows/Continuous.
+  - **Breadcrumb:** it goes up the shelf (Library › tradition › category ›
+    work › chapter). The work link opens the library board on its chapter
+    grid.
+  - **Chapter rows:** the chapter is **aligned rows**, translation left and
+    original right, each column naming its edition, source and licence once;
+    a row from another edition says so.
+  - **Study panel:** clicking a verse number opens it there, with its
+    editions, commentary and connections.
+  - **Single passage:** the passage view uses the same bar; its edition
+    boxes are lighter columns. Notes, commentary, connections, collections
+    and citation are unchanged. The old left "Contents" column is gone (the
+    bar's chapter select and prev/next replace it).
+- **Server** (`server/reader.ts`): the work header includes `category` and
+  `subcategory`; a chapter lists the editions it offers (`versions`) and
+  honours `?version=` for the translation or original side.
+- **Library:** chapter buttons show the number when the label only repeats it
+  ("Genesis 1" → "1").
+- Checked in the browser (dev server on 4180, `.claude/launch.json`):
+  - Hebrew Genesis with the study panel, layer switches, dark mode and phone
+    size (the drawer, stacked rows, the full-screen panel, and a bar that
+    scrolls away).
+  - The single-passage view; al-Tabari (Arabic only); the Meditations
+    (English only); the Christian Bible's Genesis (KJV + WLC).
+  - The breadcrumb to the library board. No console errors.
+- Tests 200/200, typecheck clean.
+
+**Noticed (not fixed)**
+- Sefaria's Hebrew for Genesis 1:5 contains a literal `&thinsp;` (HTML
+  entities in streamed text are not decoded). Older than this change.
+
+**Open / next**
+- Step 2 of `docs/sefaria-lens-ideas.md`: verse-by-verse commentaries in the
+  study panel (Sefaria links first).
+
+**Git:** committed and pushed with this entry.
+
+---
+
 ## 2026-11-25: what to take from Sefaria Lens
 
 **Context:** the project now lives at `/mnt/storage/Projects/Universal Wisdom

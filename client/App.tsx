@@ -3,7 +3,8 @@ import { Link, useLocation } from "./router";
 import { api } from "./api";
 import { AuthProvider } from "./auth";
 import { PrefsProvider } from "./prefs";
-import { SiteFooter, SiteHeader, ToastProvider, type Site } from "./components";
+import { ToastProvider, type Site } from "./components";
+import { AppShell } from "./shell";
 import { HomePage } from "./pages/HomePage";
 import { LibraryPage } from "./pages/LibraryPage";
 import { WorkPage } from "./pages/WorkPage";
@@ -95,14 +96,9 @@ function Shell() {
   }, [site.name]);
 
   return (
-    <div className="app">
-      <a className="skip-link" href="#main">Skip to content</a>
-      <SiteHeader site={site} />
-      <main id="main" className="site-main">
-        <Routes site={site} />
-      </main>
-      <SiteFooter site={site} />
-    </div>
+    <AppShell site={site}>
+      <Routes site={site} />
+    </AppShell>
   );
 }
 
