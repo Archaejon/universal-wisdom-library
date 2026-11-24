@@ -31,7 +31,7 @@ jobs:
             targets: bun-darwin-arm64,bun-darwin-x64
     runs-on: ${{ matrix.runner }}
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
         with:
           ref: ${{ env.TAG }}
           # The app build needs the code, not the 1.4 GB corpus.
@@ -48,7 +48,7 @@ jobs:
         run: test "v$(bun -e 'console.log(require("./package.json").version)')" = "$TAG"
       - run: bun install --frozen-lockfile
       - run: bun run build:app --target=${{ matrix.targets }} --package
-      - uses: actions/upload-artifact@v4
+      - uses: actions/upload-artifact@v5
         with:
           name: app-${{ matrix.runner }}
           path: |
@@ -59,7 +59,7 @@ jobs:
   library:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
         with:
           ref: ${{ env.TAG }}
       - uses: oven-sh/setup-bun@v2
@@ -67,7 +67,7 @@ jobs:
           bun-version: 1.4.4
       - run: bun install --frozen-lockfile
       - run: bun run pack:library
-      - uses: actions/upload-artifact@v4
+      - uses: actions/upload-artifact@v5
         with:
           name: library
           path: dist/uwl-library-*.jsonl.gz
@@ -77,11 +77,11 @@ jobs:
     needs: [app, library]
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
         with:
           ref: ${{ env.TAG }}
           sparse-checkout: .github
-      - uses: actions/download-artifact@v4
+      - uses: actions/download-artifact@v5
         with:
           path: dist
           merge-multiple: true
