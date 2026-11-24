@@ -10,6 +10,37 @@ and where things stand (commits, branch, anything not pushed or not verified).
 
 ---
 
+## 2026-11-25: what to take from Sefaria Lens
+
+**Context:** the project now lives at `/mnt/storage/Projects/Universal Wisdom
+Library` (it was `Project 3`). The user pointed at their other project, Sefaria
+Lens (`/mnt/storage/Projects/Sefaria Lens`, MIT, Electron + plain JS), said
+they prefer its layout, and asked which features could be brought over.
+
+**Done (review only; no app code changed)**
+- Read its README, module headers and screenshots, and compared them with this
+  app's pages and screenshots. Wrote `docs/sefaria-lens-ideas.md`: what is
+  already here (the column library board, streamed answers with Stop, parallel
+  editions as two cards), the layout differences (left sidebar with Recently
+  opened, right study panel, a reader of aligned verse rows with layer switches
+  and a segment-count control), eight features with how each generalises
+  across traditions, what not to bring over, and a suggested order with rough
+  sizes.
+
+**Decided:** nothing yet; the order is a proposal.
+
+**Open / next**
+- The suggested first step is the layout: sidebar shell, study panel, reader as
+  aligned rows. Then verse-by-verse commentaries (Sefaria links, own tables,
+  tafsir, Barnes), the selection toolbar with Ask-with-context and tiered
+  sources from text functions, Hebrew word study and transliteration ported
+  from Lens, then local-model hardening and on-demand AI translation.
+- The `CLAUDE.md` remote note still says the repo is private; it is public.
+
+**Git:** this entry and `docs/sefaria-lens-ideas.md` committed and pushed.
+
+---
+
 ## 2026-11-24 (evening): installers and instant feedback, v0.2.1
 
 **What prompted it:** the user ran the v0.2.0 Linux app from the file manager
