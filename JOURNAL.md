@@ -10,6 +10,64 @@ and where things stand (commits, branch, anything not pushed or not verified).
 
 ---
 
+## 2026-11-24 (evening): installers and instant feedback, v0.2.1
+
+**What prompted it:** the user ran the v0.2.0 Linux app from the file manager
+and saw nothing. It was working, but with no terminal its progress was
+invisible, and a double-click had started **two copies** writing the same
+download file (one restarted it under the other). With the user's OK both
+were stopped and one restarted in a terminal tab; it resumed, verified and
+installed their library (`~/.local/share/universal-wisdom-library`, 0.2.0,
+2,772 works). The user asked for an installer and a visible response.
+The user's PC then crashed mid-session; nothing was lost (uncommitted work
+intact, both databases passed `PRAGMA quick_check`).
+
+**Done**
+- `3c37c35`: the app opens the browser at once; the first run shows a setup
+  page (`scripts/app-setup-page.ts`) with live progress and a Try again button,
+  then hands the same address to the library. One copy per library folder
+  (`app.lock` taken exclusively, `app.json` holds the address; later launches
+  reopen the browser and exit). It stops after 5 min with no reader
+  (`UWL_IDLE_EXIT_MINUTES`; the client checks in each minute on 127.0.0.1
+  only). On Linux the first run adds a menu entry. App icon (an open book)
+  drawn by `scripts/make-icons.ts` into PNG, ICO and ICNS with no image tools.
+- `0bd766e`: Windows setup program (`installer/windows.iss`, Inno Setup,
+  per-user, Start menu and desktop shortcuts, asks before deleting the 7 GB
+  library on uninstall), built on a Windows runner so the .exe has its icon
+  and no console. macOS `.app` (LSUIElement, icon) in a `.dmg`. `build:app`
+  now uses the bun CLI (the Windows options are only there) and writes the
+  client-embedding module for the duration of the build. Version 0.2.1.
+- Tested on Linux with a scratch library folder and a fake release host: two
+  simultaneous launches gave one running copy, and launches during setup and
+  while open handed over. Setup progressed through download, unpack and ready,
+  then the library served pages and search. The menu entry was written, idle
+  shutdown worked, and the lock was removed. All five targets build locally.
+  Tests 200/200, typecheck clean, CI green.
+- Tagged and released **v0.2.1**: every job passed (Windows setup built with
+  Inno Setup on the Windows runner, both macOS `.dmg`s, Linux archives,
+  library). Published as latest with 8 files:
+  https://github.com/Archaejon/universal-wisdom-library/releases/tag/v0.2.1
+  Checked the published files: the setup program is a Windows GUI installer
+  named "Universal Wisdom Library Setup", the Linux archive holds the program
+  and its note, and the library manifest is 0.2.1.
+
+**Noticed**
+- The handover took 57 s after "ready" on this machine's slow drive (opening
+  a 7 GB file just written). Later starts take about 1 s.
+
+**Open / next**
+- The Windows setup program and macOS .dmg are only built on CI, not yet
+  installed and run on a real Windows PC or Mac.
+- The user's installed copy is the 0.2.0 program; the 0.2.1 program reuses
+  their existing library folder (no new download).
+- Still open from earlier: code signing, a library update path, the streamed
+  search index in the app, the unexplained wipe of the dev DB, Node 20
+  warnings from the artifact actions.
+
+**Git:** `3c37c35`, `0bd766e` and this journal entry pushed; tag `v0.2.1` pushed.
+
+---
+
 ## 2026-11-24 (afternoon): downloadable desktop app, smaller database, v0.2.0
 
 **Done**
