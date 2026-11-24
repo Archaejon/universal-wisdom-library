@@ -10,18 +10,30 @@ and where things stand (commits, branch, anything not pushed or not verified).
 
 ---
 
-## 2026-11-24: release check
+## 2026-11-24: first release, v0.1.0
 
 **Done**
-- Checked `Archaejon/universal-wisdom-library` for releases: none, not even
-  drafts, and no git tags locally or on GitHub. `package.json` is at 0.1.0.
+- Checked `Archaejon/universal-wisdom-library` for releases: there were none,
+  and no tags.
+- Released v0.1.0. Before tagging, 200/200 tests passed, the typecheck was
+  clean, and all 2,773 corpus files were tracked. Annotated tag `v0.1.0` on
+  `0549319` (main), pushed. Published "Universal Wisdom Library 0.1.0" as the
+  latest release (via Composio):
+  https://github.com/Archaejon/universal-wisdom-library/releases/tag/v0.1.0
+- The release notes cover what's in the library, the latest additions (fiqh,
+  Greek/Latin), and how to run it. They say plainly that the 9.4 GB database is
+  not included and is built with `bun run db:rebuild`. No assets attached.
+
+**Decided**
+- Version stays as `package.json` already had it (0.1.0); no version bump.
 
 **Open / next**
-- If a release is wanted: tag `v0.1.0` on `main` and publish a GitHub release.
-  The app needs `data/uwl.db` (9.4 GB, not in git) or a `db:rebuild` from the
-  corpus, so release notes should say how to build the database.
+- The next release needs a `package.json` version bump before tagging.
+- Nothing builds a release automatically; a CI workflow (tests and typecheck on
+  push, build on tag) would help. Still open from 2026-11-23.
 
-**Git:** this entry only; committed and pushed with it.
+**Git:** tag `v0.1.0` pushed; this journal entry committed and pushed on `main`
+after the tag (so the tag doesn't include it).
 
 ---
 
