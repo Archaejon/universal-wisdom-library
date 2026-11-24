@@ -56,9 +56,18 @@ jobs:
             dist/*.tar.gz
           if-no-files-found: error
 
+  # The ready-made library database the app downloads: about 7 GB built,
+  # compressed with zstd and split into parts under the 2 GB release limit.
   library:
     runs-on: ubuntu-latest
+    timeout-minutes: 240
     steps:
+      - name: Free disk space
+        # The build needs about 7 GB for the database plus room to compress it;
+        # the runner's preinstalled toolchains take most of the disk.
+        run: |
+          sudo rm -rf /usr/share/dotnet /usr/local/lib/android /opt/ghc /opt/hostedtoolcache/CodeQL /usr/local/share/boost
+          df -h /
       - uses: actions/checkout@v5
         with:
           ref: ${{ env.TAG }}
@@ -66,11 +75,14 @@ jobs:
         with:
           bun-version: 1.4.4
       - run: bun install --frozen-lockfile
-      - run: bun run pack:library
+      - run: bun run build:library
       - uses: actions/upload-artifact@v5
         with:
           name: library
-          path: dist/uwl-library-*.jsonl.gz
+          path: |
+            dist/uwl-library-*.json
+            dist/uwl-library-*.db.zst.*
+          compression-level: 0
           if-no-files-found: error
 
   publish:

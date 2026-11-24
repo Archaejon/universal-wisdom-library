@@ -20,10 +20,11 @@ const readJson = (path: string) => {
     throw new Error(`Corpus file ${path} could not be read: ${(err as Error).message}`);
   }
 };
-const CORPUS = join(ROOT, "data", "corpus");
 // The corpus directory is the seed input and the exporter's output. It can be
 // pointed elsewhere so a rebuild or a test reads a corpus other than the one
-// this checkout ships with.
+// this checkout ships with: UWL_CORPUS_DIR for the whole corpus (as the
+// desktop library build does), UWL_CORPUS_WORKS_DIR for just the work files.
+const CORPUS = process.env.UWL_CORPUS_DIR || join(ROOT, "data", "corpus");
 const WORKS_DIR = process.env.UWL_CORPUS_WORKS_DIR || join(CORPUS, "works");
 
 // A rebuild replaces the database with whatever that directory holds. When it

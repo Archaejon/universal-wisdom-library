@@ -6,11 +6,22 @@ Text is either held locally or streamed from its host (Sefaria, CCEL, Sacred
 Texts, Wikisource and others) at read time; every edition records its source,
 licence and attribution.
 
+## Just want to read it?
+
+Download the app for your computer from the
+[latest release](https://github.com/Archaejon/universal-wisdom-library/releases/latest)
+(Windows, Mac or Linux), unzip it and double-click **Universal Wisdom Library**.
+The first start downloads the library once and then opens it in your web
+browser. Each download has a "READ ME FIRST" note covering the security warning
+your computer shows for apps that aren't signed yet.
+
+Everything below is for running it from source.
+
 ## Requirements
 
 - [Bun](https://bun.sh) 1.2 or newer (developed against 1.4).
-- Roughly 11 GB of disk: `data/uwl.db` is about 9.4 GB and `data/corpus/works`
-  about 1.4 GB. Both are required.
+- Roughly 9 GB of disk: `data/uwl.db` is about 7 GB (more once the streamed
+  shelves are indexed) and `data/corpus/works` about 1.4 GB. Both are required.
 
 ## Run it in development
 
@@ -93,6 +104,42 @@ The corpus must still be internally consistent: `data/corpus/text-functions.json
 has to classify exactly the works that are present. A subset of the work files
 with the full classification file fails to seed on the orphaned entries, override
 or not.
+
+### The search index layout
+
+The two local search indexes (`passage_fts`, `passage_trigram`) are
+contentless: they hold the index but not a second copy of the text, which
+`passage_texts` already has. A database made before this change is converted
+automatically the first time the server opens it. Expect that start to take
+about 20 minutes on the full library; it prints its progress. The conversion
+frees about 2 GB inside the file but doesn't shrink the file itself. Stop the
+server and run this to reclaim the space:
+
+```sh
+bun run db:compact     # VACUUM; needs free disk about the size of the database
+```
+
+## The desktop app
+
+`scripts/app.ts` is the program behind the downloadable app. It keeps the
+library in a per-user folder, downloads the ready-made database on the first
+run, then starts the server on 127.0.0.1 and opens the browser. Two scripts
+produce what a release carries, and the release workflow
+(`.github/workflows/release.yml`) runs both when a version tag is pushed:
+
+```sh
+bun run build:app --target=all --package   # executables for each platform, in dist/
+bun run build:library                      # the database, zstd-compressed and split, plus a manifest
+```
+
+`build:library` leaves out any work whose text is held under a permission that
+forbids redistribution (licence `by-permission`), and so do the app downloads.
+It needs the `zstd` command. Run the app from source against a local build with
+`UWL_LIBRARY_URL=dist/uwl-library-<version>.json bun run app`.
+
+To release: set the new version in `package.json`, commit, then push a tag
+`v<version>`. The workflow builds every platform, builds the library and
+attaches it all to the GitHub release for that tag.
 
 ## Settings
 

@@ -1,18 +1,20 @@
 // Desktop entry point: the program a reader downloads and double-clicks.
 //
-// It keeps the library in a per-user folder, downloads the library data on the
-// first run, builds the database from it, starts the server on this computer
-// only and opens the reader in the default web browser. The same server code
-// runs as in development; this file only prepares the folder and environment.
+// It keeps the library in a per-user folder, downloads the ready-made library
+// database on the first run, starts the server on this computer only and opens
+// the reader in the default web browser. The same server code runs as in
+// development; this file only prepares the folder and environment.
 //
 //   bun run scripts/app.ts            # run from source
 //   bun run build:app                 # compile it into a single executable
 //
 // Environment (all optional):
 //   UWL_HOME          library folder (default: the per-user folder below)
-//   UWL_LIBRARY_URL   where to fetch the library data (http(s) URL or local path)
+//   UWL_LIBRARY_URL   the library manifest (http(s) URL or local path); its
+//                     parts are fetched from the same place
 //   UWL_NO_BROWSER=1  do not open a browser window
-import { createWriteStream, existsSync, mkdirSync, readFileSync, renameSync, rmSync, writeFileSync } from "node:fs";
+import { createReadStream, createWriteStream, existsSync, mkdirSync, readFileSync, renameSync, rmSync, statfsSync, statSync, writeFileSync } from "node:fs";
+import { once } from "node:events";
 import { homedir } from "node:os";
 import { dirname, join } from "node:path";
 import { files as embeddedClient } from "./app-client-assets";
@@ -21,7 +23,7 @@ import pkg from "../package.json" with { type: "json" };
 const VERSION: string = pkg.version;
 const APP_NAME = "Universal Wisdom Library";
 const REPO = "Archaejon/universal-wisdom-library";
-const DEFAULT_LIBRARY_URL = `https://github.com/${REPO}/releases/download/v${VERSION}/uwl-library-${VERSION}.jsonl.gz`;
+const DEFAULT_LIBRARY_URL = `https://github.com/${REPO}/releases/download/v${VERSION}/uwl-library-${VERSION}.json`;
 
 function defaultHome(): string {
   const home = homedir();
@@ -31,6 +33,7 @@ function defaultHome(): string {
 }
 
 const HOME = process.env.UWL_HOME || defaultHome();
+const DB_FILE = join(HOME, "data", "uwl.db");
 const MARKER = join(HOME, "library-version.txt");
 
 function say(line = "") {
@@ -47,102 +50,172 @@ async function waitForEnter(message: string) {
 async function fatal(message: string, err?: unknown): Promise<never> {
   say();
   say(`Something went wrong: ${message}`);
-  if (err) say(String((err as Error)?.stack ?? err));
+  if (err) say(String((err as Error)?.message ?? err));
   await waitForEnter("Press Enter to close this window.");
   process.exit(1);
 }
 
+const gb = (bytes: number) => `${(bytes / 1e9).toFixed(1)} GB`;
+
 // ---------------------------------------------------------------------------
-// Library data: a gzip of JSON lines. The first line is a header
-// { format, version, files }; each further line is { path, content } for one
-// file under data/ (the corpus and the registry).
+// The library: a ready-made database, compressed with zstd and split into
+// parts (scripts/build-library-db.ts). A manifest lists the parts with their
+// sizes and SHA-256 hashes. Parts are kept in HOME/download until the
+// database is in place, so an interrupted download resumes where it stopped.
 // ---------------------------------------------------------------------------
 
-async function openLibraryStream(source: string): Promise<{ body: ReadableStream<Uint8Array>; size: number }> {
-  if (/^https?:\/\//.test(source)) {
-    const res = await fetch(source, { redirect: "follow" });
-    if (!res.ok || !res.body) throw new Error(`the download answered ${res.status} ${res.statusText} (${source})`);
-    return { body: res.body, size: Number(res.headers.get("content-length") ?? 0) };
+type Manifest = {
+  format: string;
+  version: string;
+  database: { size: number; sha256: string };
+  parts: { name: string; size: number; sha256: string }[];
+};
+
+const isUrl = (s: string) => /^https?:\/\//.test(s);
+const sibling = (base: string, name: string) =>
+  isUrl(base) ? new URL(name, base).toString() : join(dirname(base), name);
+
+async function readManifest(source: string): Promise<Manifest> {
+  const text = isUrl(source)
+    ? await fetch(source, { redirect: "follow" }).then((res) => {
+        if (!res.ok) throw new Error(`the library list answered ${res.status} ${res.statusText} (${source})`);
+        return res.text();
+      })
+    : readFileSync(source, "utf8");
+  const manifest = JSON.parse(text) as Manifest;
+  if (manifest.format !== "uwl-library-db" || !manifest.parts?.length) {
+    throw new Error("the library list is not Universal Wisdom Library data");
   }
-  const file = Bun.file(source);
-  if (!(await file.exists())) throw new Error(`no library file at ${source}`);
-  return { body: file.stream(), size: file.size };
+  return manifest;
+}
+
+async function fileSha256(path: string): Promise<string> {
+  const hasher = new Bun.CryptoHasher("sha256");
+  for await (const chunk of createReadStream(path, { highWaterMark: 8 << 20 })) hasher.update(chunk as Buffer);
+  return hasher.digest("hex");
+}
+
+let lastProgress = "";
+/** Redraws the progress line, but only when the whole percentage changes. */
+function progress(label: string, done: number, total: number) {
+  const pct = total ? Math.min(100, Math.floor((done / total) * 100)) : 0;
+  const key = `${label}${pct}`;
+  if (key === lastProgress) return;
+  lastProgress = key;
+  process.stdout.write(`\r  ${label} ${pct}% (${gb(done)} of ${gb(total)})   `);
+}
+
+/** Fetch one part into `path`, continuing a partial file where possible. */
+async function fetchPart(url: string, path: string, size: number, onBytes: (n: number) => void) {
+  const have = existsSync(path) ? statSync(path).size : 0;
+  if (have >= size) return;
+  if (!isUrl(url)) {
+    await Bun.write(path, Bun.file(url));
+    onBytes(size - have);
+    return;
+  }
+  const res = await fetch(url, { redirect: "follow", headers: have ? { Range: `bytes=${have}-` } : {} });
+  if (!res.ok || !res.body) throw new Error(`the download answered ${res.status} ${res.statusText}`);
+  // 206 continues the partial file; a plain 200 means the host restarted it.
+  const resumed = res.status === 206;
+  if (!resumed && have) onBytes(-have);
+  const out = createWriteStream(path, { flags: resumed ? "a" : "w" });
+  for await (const chunk of res.body as unknown as AsyncIterable<Uint8Array>) {
+    if (!out.write(chunk)) await once(out, "drain");
+    onBytes(chunk.byteLength);
+  }
+  out.end();
+  await once(out, "finish");
 }
 
 async function installLibrary(source: string) {
-  const staging = join(HOME, "data.incoming");
-  rmSync(staging, { recursive: true, force: true });
-  mkdirSync(staging, { recursive: true });
+  const manifest = await readManifest(source);
+  const compressed = manifest.parts.reduce((n, p) => n + p.size, 0);
+  const downloads = join(HOME, "download");
+  mkdirSync(downloads, { recursive: true });
+  mkdirSync(dirname(DB_FILE), { recursive: true });
 
-  const { body, size } = await openLibraryStream(source);
-  let received = 0;
-  let lastShown = -1;
-  const counted = body.pipeThrough(
-    new TransformStream<Uint8Array, Uint8Array>({
-      transform(chunk, controller) {
-        received += chunk.byteLength;
-        if (size > 0) {
-          const pct = Math.floor((received / size) * 100);
-          if (pct >= lastShown + 5) {
-            lastShown = pct - (pct % 5);
-            process.stdout.write(`\r  Downloading the library… ${pct}% of ${(size / 1e6).toFixed(0)} MB   `);
-          }
-        }
-        controller.enqueue(chunk);
-      },
-    }),
-  );
-  const gunzip = new DecompressionStream("gzip") as unknown as TransformStream<Uint8Array, Uint8Array>;
-  const reader = counted.pipeThrough(gunzip).getReader();
-  const decoder = new TextDecoder();
+  // Room for the parts still to fetch, the database, and a little to spare.
+  const already = manifest.parts.reduce((n, p) => {
+    const path = join(downloads, p.name);
+    return n + (existsSync(path) ? Math.min(statSync(path).size, p.size) : 0);
+  }, 0);
+  const needed = compressed - already + manifest.database.size + 500_000_000;
+  const fs = statfsSync(HOME);
+  const free = Number(fs.bavail) * Number(fs.bsize);
+  if (free < needed) {
+    throw new Error(
+      `there isn't enough free disk space. The library needs ${gb(needed)} free while it installs ` +
+        `(${gb(manifest.database.size)} once installed); this disk has ${gb(free)} free. ` +
+        `Free some space and start the app again.`,
+    );
+  }
 
-  let header: { format?: string; version?: string; files?: number } | null = null;
-  let written = 0;
-  let buffer = "";
-  const handleLine = (line: string) => {
-    if (!line.trim()) return;
-    const record = JSON.parse(line);
-    if (!header) {
-      if (record.format !== "uwl-library") throw new Error("the downloaded file is not Universal Wisdom Library data");
-      header = record;
-      return;
-    }
-    const rel = String(record.path ?? "");
-    // Only files under data/, and never a path that climbs out of it.
-    if (!rel.startsWith("data/") || rel.split("/").includes("..")) throw new Error(`unexpected path in library data: ${rel}`);
-    const target = join(staging, rel.slice("data/".length));
-    mkdirSync(dirname(target), { recursive: true });
-    writeFileSync(target, String(record.content ?? ""));
-    written++;
-  };
-  for (;;) {
-    const { done, value } = await reader.read();
-    if (done) break;
-    buffer += decoder.decode(value, { stream: true });
-    let nl: number;
-    while ((nl = buffer.indexOf("\n")) >= 0) {
-      handleLine(buffer.slice(0, nl));
-      buffer = buffer.slice(nl + 1);
+  // 1. Download the parts.
+  let received = already;
+  for (const part of manifest.parts) {
+    const path = join(downloads, part.name);
+    for (let attempt = 1; ; attempt++) {
+      try {
+        await fetchPart(sibling(source, part.name), path, part.size, (n) => {
+          received += n;
+          progress("Downloading the library…", received, compressed);
+        });
+        if (statSync(path).size === part.size && (await fileSha256(path)) === part.sha256) break;
+        // A damaged part is fetched again from the start.
+        received -= statSync(path).size;
+        rmSync(path, { force: true });
+        throw new Error(`part ${part.name} did not match its checksum`);
+      } catch (err) {
+        if (attempt >= 5) throw err;
+        process.stdout.write(`\n  The download was interrupted (${(err as Error).message}); trying again…\n`);
+        await Bun.sleep(3000 * attempt);
+      }
     }
   }
-  buffer += decoder.decode();
-  handleLine(buffer);
+  progress("Downloading the library…", compressed, compressed);
   process.stdout.write("\n");
 
-  const expected = (header as { files?: number } | null)?.files;
-  if (!header || (expected != null && expected !== written)) {
-    throw new Error(`the library download was incomplete (${written} of ${expected ?? "?"} files)`);
+  // 2. Unpack them into the database file.
+  const incoming = `${DB_FILE}.incoming`;
+  rmSync(incoming, { force: true });
+  let read = 0;
+  const partFiles = manifest.parts.map((p) => join(downloads, p.name));
+  const chunks = (async function* () {
+    for (const path of partFiles) {
+      for await (const chunk of createReadStream(path, { highWaterMark: 8 << 20 })) {
+        read += (chunk as Buffer).byteLength;
+        progress("Unpacking the library…", read, compressed);
+        yield new Uint8Array(chunk as Buffer);
+      }
+    }
+  })();
+  const compressedStream = new ReadableStream<Uint8Array>({
+    async pull(controller) {
+      const next = await chunks.next();
+      if (next.done) controller.close();
+      else controller.enqueue(next.value);
+    },
+  });
+  const unzstd = new DecompressionStream("zstd" as CompressionFormat) as unknown as TransformStream<Uint8Array, Uint8Array>;
+  const hasher = new Bun.CryptoHasher("sha256");
+  const out = createWriteStream(incoming);
+  let written = 0;
+  for await (const chunk of compressedStream.pipeThrough(unzstd) as unknown as AsyncIterable<Uint8Array>) {
+    hasher.update(chunk);
+    written += chunk.byteLength;
+    if (!out.write(chunk)) await once(out, "drain");
   }
-
-  // Swap the new data in. The database is kept if one exists.
-  const data = join(HOME, "data");
-  mkdirSync(data, { recursive: true });
-  for (const part of ["corpus", "registry"]) {
-    rmSync(join(data, part), { recursive: true, force: true });
-    if (existsSync(join(staging, part))) renameSync(join(staging, part), join(data, part));
+  out.end();
+  await once(out, "finish");
+  process.stdout.write("\n");
+  if (written !== manifest.database.size || hasher.digest("hex") !== manifest.database.sha256) {
+    rmSync(incoming, { force: true });
+    throw new Error("the unpacked library did not match its checksum; start the app again to retry");
   }
-  rmSync(staging, { recursive: true, force: true });
-  say(`  Unpacked ${written.toLocaleString()} files.`);
+  renameSync(incoming, DB_FILE);
+  rmSync(downloads, { recursive: true, force: true });
+  writeFileSync(MARKER, manifest.version);
 }
 
 // ---------------------------------------------------------------------------
@@ -202,20 +275,22 @@ try {
   await fatal(`could not create the library folder ${HOME}`, err);
 }
 
-const installed = existsSync(MARKER) ? readFileSync(MARKER, "utf8").trim() : "";
-if (!installed || !existsSync(join(HOME, "data", "corpus", "works"))) {
+if (!existsSync(DB_FILE)) {
   say("First run: setting up the library. This happens once.");
-  say("  1. Download the library data (about 400 MB).");
-  say("  2. Build the library on this computer. This can take a long time; leave this window open.");
+  say("The library is downloaded (about 3 GB) and unpacked onto this computer (7 GB).");
+  say("If the download is interrupted, start the app again and it carries on where it stopped.");
   say();
   try {
     await installLibrary(process.env.UWL_LIBRARY_URL || DEFAULT_LIBRARY_URL);
   } catch (err) {
-    await fatal(`could not download the library data. Check the internet connection and start the app again.`, err);
+    await fatal("the library could not be installed.", err);
   }
-  say("  Building the library (step 2 of 2)…");
-} else if (installed !== VERSION) {
-  say(`Your library data is from version ${installed}; this app is version ${VERSION}. Keeping your existing library.`);
+  say("  The library is installed.");
+} else {
+  const installed = existsSync(MARKER) ? readFileSync(MARKER, "utf8").trim() : "";
+  if (installed && installed !== VERSION) {
+    say(`Your library is from version ${installed}; this app is version ${VERSION}. Keeping your existing library.`);
+  }
 }
 
 const publicDir = await unpackClient();
@@ -235,8 +310,6 @@ try {
 } catch (err) {
   await fatal("the library could not start", err);
 }
-
-if (!installed) writeFileSync(MARKER, VERSION);
 
 say();
 if (port) {

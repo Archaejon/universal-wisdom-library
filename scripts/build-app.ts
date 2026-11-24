@@ -77,8 +77,10 @@ To start: double-click "${APP_FILE}.exe".
 Windows may show "Windows protected your PC", because the app is not signed.
 Click "More info", then "Run anyway".
 
-The first start downloads the library (about 400 MB) and builds it on this
-computer, which takes a while. After that it starts quickly. A black window
+The first start downloads the library (about 3 GB) and unpacks it, which
+takes a while; you need about 11 GB of free disk space while it installs and
+7 GB after. If the download is interrupted, start the app again and it carries
+on where it stopped. After that it starts in a few seconds. A black window
 stays open while the library runs; the reader opens in your web browser.
 Close the black window to stop the library.
 
@@ -93,8 +95,10 @@ cannot be verified (the app is not signed). Instead, right-click (or
 Control-click) "${APP_FILE}", choose Open, then click Open again. You only
 need to do this once.
 
-The first start downloads the library (about 400 MB) and builds it on this
-computer, which takes a while. After that it starts quickly. A Terminal window
+The first start downloads the library (about 3 GB) and unpacks it, which
+takes a while; you need about 11 GB of free disk space while it installs and
+7 GB after. If the download is interrupted, start the app again and it carries
+on where it stopped. After that it starts in a few seconds. A Terminal window
 stays open while the library runs; the reader opens in your web browser.
 Close the Terminal window to stop the library.
 
@@ -105,8 +109,9 @@ Your library is kept in: ~/Library/Application Support/Universal Wisdom Library
 To start: run ./"${APP_FILE}" from a terminal (or double-click it, if your
 file manager runs programs).
 
-The first start downloads the library (about 400 MB) and builds it on this
-computer, which takes a while. The reader opens in your web browser at
+The first start downloads the library (about 3 GB) and unpacks it, which
+takes a while; you need about 11 GB of free disk space while it installs and
+7 GB after. The reader opens in your web browser at
 http://127.0.0.1:4173/. Stop the library with Ctrl+C.
 
 Your library is kept in: ~/.local/share/universal-wisdom-library
@@ -126,6 +131,8 @@ for (const target of targets) {
     entrypoints: [join(ROOT, "scripts", "app.ts")],
     compile: { target, outfile } as Bun.BuildConfig["compile"],
     minify: true,
+    // The bundler fixes process.env.NODE_ENV at build time; the app is always production.
+    define: { "process.env.NODE_ENV": JSON.stringify("production") },
     plugins: [embedClient],
   } as Bun.BuildConfig);
   if (!result.success) {

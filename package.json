@@ -1,6 +1,6 @@
 {
   "name": "universal-wisdom-library",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "private": true,
   "type": "module",
   "scripts": {
@@ -38,8 +38,9 @@
     "import:shinto": "bun run scripts/dev/import-shinto.ts",
     "import:jain": "bun run scripts/dev/import-jain.ts",
     "build:app": "bun run scripts/build-app.ts",
-    "pack:library": "bun run scripts/pack-library.ts",
-    "app": "bun run scripts/app.ts"
+    "app": "bun run scripts/app.ts",
+    "db:compact": "bun run scripts/compact-db.ts",
+    "build:library": "bun run scripts/build-library-db.ts"
   },
   "dependencies": {
     "react": "19",
