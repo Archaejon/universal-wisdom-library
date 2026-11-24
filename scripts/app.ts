@@ -18,6 +18,8 @@ import { once } from "node:events";
 import { homedir } from "node:os";
 import { dirname, join } from "node:path";
 import { files as embeddedClient } from "./app-client-assets";
+import { setupPage } from "./app-setup-page";
+import iconFile from "../assets/icon/icon-256.png" with { type: "file" };
 import pkg from "../package.json" with { type: "json" };
 
 const VERSION: string = pkg.version;
@@ -95,9 +97,15 @@ async function fileSha256(path: string): Promise<string> {
   return hasher.digest("hex");
 }
 
+/** What the setup page shows (GET /setup/status). */
+const setup = { phase: "starting" as "starting" | "installing" | "failed" | "ready", label: "Starting…", done: 0, total: 0, error: "" };
+
 let lastProgress = "";
-/** Redraws the progress line, but only when the whole percentage changes. */
+/** Updates the setup page, and redraws the console line when the whole percentage changes. */
 function progress(label: string, done: number, total: number) {
+  setup.label = label;
+  setup.done = done;
+  setup.total = total;
   const pct = total ? Math.min(100, Math.floor((done / total) * 100)) : 0;
   const key = `${label}${pct}`;
   if (key === lastProgress) return;
@@ -129,6 +137,7 @@ async function fetchPart(url: string, path: string, size: number, onBytes: (n: n
 }
 
 async function installLibrary(source: string) {
+  progress("Finding the library…", 0, 0);
   const manifest = await readManifest(source);
   const compressed = manifest.parts.reduce((n, p) => n + p.size, 0);
   const downloads = join(HOME, "download");
@@ -145,9 +154,9 @@ async function installLibrary(source: string) {
   const free = Number(fs.bavail) * Number(fs.bsize);
   if (free < needed) {
     throw new Error(
-      `there isn't enough free disk space. The library needs ${gb(needed)} free while it installs ` +
+      `There isn't enough free disk space. The library needs ${gb(needed)} free while it installs ` +
         `(${gb(manifest.database.size)} once installed); this disk has ${gb(free)} free. ` +
-        `Free some space and start the app again.`,
+        `Free some space, then click Try again.`,
     );
   }
 
@@ -169,6 +178,7 @@ async function installLibrary(source: string) {
       } catch (err) {
         if (attempt >= 5) throw err;
         process.stdout.write(`\n  The download was interrupted (${(err as Error).message}); trying again…\n`);
+        setup.label = "The download was interrupted; trying again…";
         await Bun.sleep(3000 * attempt);
       }
     }
@@ -211,7 +221,7 @@ async function installLibrary(source: string) {
   process.stdout.write("\n");
   if (written !== manifest.database.size || hasher.digest("hex") !== manifest.database.sha256) {
     rmSync(incoming, { force: true });
-    throw new Error("the unpacked library did not match its checksum; start the app again to retry");
+    throw new Error("The unpacked library did not match its checksum. Click Try again to unpack it again.");
   }
   renameSync(incoming, DB_FILE);
   rmSync(downloads, { recursive: true, force: true });
@@ -245,7 +255,11 @@ async function freePort(preferred: number): Promise<number> {
       // In use; try the next one.
     }
   }
-  return 0; // Let the system choose.
+  // All busy: let the system choose one, and use that.
+  const probe = Bun.serve({ port: 0, hostname: "127.0.0.1", fetch: () => new Response() });
+  const chosen = probe.port ?? 0;
+  probe.stop(true);
+  return chosen;
 }
 
 function openBrowser(url: string) {
@@ -264,6 +278,108 @@ function openBrowser(url: string) {
 }
 
 // ---------------------------------------------------------------------------
+// One copy at a time. A second launch (a double-click that registered twice,
+// or opening the app again later) finds the running copy and only reopens the
+// browser on it. HOME/app.lock is taken exclusively at start; app.json then
+// records the running copy's address.
+// ---------------------------------------------------------------------------
+
+const LOCK = join(HOME, "app.lock");
+const INSTANCE = join(HOME, "app.json");
+
+function isAlive(pid: number): boolean {
+  try {
+    process.kill(pid, 0);
+    return true;
+  } catch (err) {
+    return (err as NodeJS.ErrnoException).code === "EPERM";
+  }
+}
+
+async function answers(url: string): Promise<boolean> {
+  try {
+    const res = await fetch(url, { signal: AbortSignal.timeout(1500) });
+    return res.ok;
+  } catch {
+    return false;
+  }
+}
+
+/** The address of a copy that is already running, if there is one. */
+async function runningCopy(): Promise<string | null> {
+  for (let waited = 0; waited <= 10_000; waited += 500) {
+    let instance: { pid: number; port: number } | null = null;
+    try {
+      instance = JSON.parse(readFileSync(INSTANCE, "utf8"));
+    } catch {}
+    if (instance && instance.pid !== process.pid && isAlive(instance.pid)) {
+      const url = `http://127.0.0.1:${instance.port}/`;
+      if ((await answers(`${url}setup/status`)) || (await answers(`${url}api/health`))) return url;
+    }
+    // Another copy holds the lock but hasn't published its address yet: wait for it.
+    let holder = 0;
+    try {
+      holder = Number(readFileSync(LOCK, "utf8"));
+    } catch {}
+    if (!holder || holder === process.pid || !isAlive(holder)) return null;
+    await Bun.sleep(500);
+  }
+  return null;
+}
+
+function takeLock(): boolean {
+  for (let tries = 0; tries < 2; tries++) {
+    try {
+      writeFileSync(LOCK, String(process.pid), { flag: "wx" });
+      process.on("exit", () => {
+        try {
+          if (readFileSync(LOCK, "utf8") === String(process.pid)) rmSync(LOCK);
+        } catch {}
+      });
+      return true;
+    } catch {
+      const holder = Number(readFileSync(LOCK, "utf8") || 0);
+      if (holder && isAlive(holder)) return false;
+      rmSync(LOCK, { force: true }); // left by a copy that has stopped
+    }
+  }
+  return false;
+}
+
+// ---------------------------------------------------------------------------
+// Linux: add the app to the applications menu (with its icon) the first time
+// it runs, pointing at wherever the program file is. Windows and macOS get
+// that from their installers.
+// ---------------------------------------------------------------------------
+
+function addToLinuxMenu() {
+  if (process.platform !== "linux" || !Object.keys(embeddedClient).length) return;
+  try {
+    const share = process.env.XDG_DATA_HOME || join(homedir(), ".local", "share");
+    const icon = join(HOME, "icon.png");
+    if (!existsSync(icon)) writeFileSync(icon, readFileSync(iconFile));
+    const entry = [
+      "[Desktop Entry]",
+      "Type=Application",
+      `Name=${APP_NAME}`,
+      "Comment=Read and search the world's sacred and philosophical texts",
+      `Exec="${process.execPath.replace(/(["`$\\])/g, "\\$1")}"`,
+      `Icon=${icon}`,
+      "Terminal=false",
+      "Categories=Education;Literature;",
+      "",
+    ].join("\n");
+    const file = join(share, "applications", "universal-wisdom-library.desktop");
+    if (existsSync(file) && readFileSync(file, "utf8") === entry) return;
+    mkdirSync(dirname(file), { recursive: true });
+    writeFileSync(file, entry);
+    say(`Added ${APP_NAME} to the applications menu.`);
+  } catch {
+    // Not essential: the program still runs from wherever it is.
+  }
+}
+
+// ---------------------------------------------------------------------------
 
 say(`${APP_NAME} ${VERSION}`);
 say(`Library folder: ${HOME}`);
@@ -275,17 +391,77 @@ try {
   await fatal(`could not create the library folder ${HOME}`, err);
 }
 
+const existing = await runningCopy();
+if (existing || !takeLock()) {
+  const url = existing ?? (await runningCopy());
+  if (url) {
+    say(`The library is already open at ${url}`);
+    openBrowser(url);
+  } else {
+    say("The library is already starting in another window.");
+  }
+  process.exit(0);
+}
+
+addToLinuxMenu();
+const publicDir = await unpackClient();
+const port = await freePort(Number(process.env.PORT || 4173));
+const url = `http://127.0.0.1:${port}/`;
+writeFileSync(INSTANCE, JSON.stringify({ pid: process.pid, port, version: VERSION }));
+
+let browserOpened = false;
 if (!existsSync(DB_FILE)) {
   say("First run: setting up the library. This happens once.");
   say("The library is downloaded (about 3 GB) and unpacked onto this computer (7 GB).");
-  say("If the download is interrupted, start the app again and it carries on where it stopped.");
+  say(`Progress is shown in your browser at ${url}`);
   say();
-  try {
-    await installLibrary(process.env.UWL_LIBRARY_URL || DEFAULT_LIBRARY_URL);
-  } catch (err) {
-    await fatal("the library could not be installed.", err);
+
+  // A small server shows the setup page until the library is ready, then hands
+  // the same address over to the library.
+  let retry: () => void = () => {};
+  const setupServer = Bun.serve({
+    port,
+    hostname: "127.0.0.1",
+    async fetch(req) {
+      const path = new URL(req.url).pathname;
+      if (path === "/setup/status") return Response.json(setup, { headers: { "cache-control": "no-store" } });
+      if (path === "/setup/icon.png") return new Response(Bun.file(iconFile), { headers: { "content-type": "image/png" } });
+      if (path === "/setup/retry" && req.method === "POST") {
+        retry();
+        return Response.json({ ok: true });
+      }
+      if (path === "/api/health") return Response.json({ ok: false, setup: true }, { status: 503 });
+      return new Response(setupPage(VERSION), { headers: { "content-type": "text/html; charset=utf-8", "cache-control": "no-store" } });
+    },
+  });
+  openBrowser(url);
+  browserOpened = true;
+
+  for (;;) {
+    setup.phase = "installing";
+    setup.error = "";
+    try {
+      await installLibrary(process.env.UWL_LIBRARY_URL || DEFAULT_LIBRARY_URL);
+      break;
+    } catch (err) {
+      const message = (err as Error)?.message ?? String(err);
+      setup.phase = "failed";
+      setup.label = "Setup stopped";
+      setup.error = /^[A-Z]/.test(message) ? message : `The library could not be downloaded: ${message}. Check the internet connection, then click Try again.`;
+      say();
+      say(`Setup stopped: ${setup.error}`);
+      // Wait for "Try again" on the page (or for the app to be closed).
+      await new Promise<void>((resolve) => {
+        retry = resolve;
+      });
+      retry = () => {};
+    }
   }
   say("  The library is installed.");
+  setup.phase = "ready";
+  setup.label = "The library is ready";
+  await Bun.sleep(1500); // let the page see "ready" before the address changes hands
+  setupServer.stop(true);
 } else {
   const installed = existsSync(MARKER) ? readFileSync(MARKER, "utf8").trim() : "";
   if (installed && installed !== VERSION) {
@@ -293,16 +469,15 @@ if (!existsSync(DB_FILE)) {
   }
 }
 
-const publicDir = await unpackClient();
-const port = await freePort(Number(process.env.PORT || 4173));
-
 process.env.NODE_ENV = "production";
 process.env.UWL_HOME = HOME;
-process.env.UWL_DB_PATH ||= join(HOME, "data", "uwl.db");
+process.env.UWL_DB_PATH ||= DB_FILE;
 process.env.HOST = "127.0.0.1";
 process.env.PORT = String(port);
 // The registry's availability checks are for the hosted library's editors.
 process.env.UWL_CHECK_SCHEDULE ||= "off";
+// No window to close: stop once no reader page has been open for a while.
+process.env.UWL_IDLE_EXIT_MINUTES ||= "5";
 if (publicDir) process.env.UWL_PUBLIC_DIR = publicDir;
 
 try {
@@ -312,11 +487,6 @@ try {
 }
 
 say();
-if (port) {
-  const url = `http://127.0.0.1:${port}/`;
-  say(`The library is open at ${url}`);
-  openBrowser(url);
-} else {
-  say("The library is open at the address shown above.");
-}
-say("Leave this window open while you read. Close it to stop the library.");
+say(`The library is open at ${url}`);
+say("It stops by itself a few minutes after you close its browser tab; open the app again to come back.");
+if (!browserOpened) openBrowser(url);

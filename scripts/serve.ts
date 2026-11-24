@@ -87,11 +87,15 @@ function fileResponse(filePath: string, path: string, status = 200, head = false
   return new Response(head ? null : file, { status, headers });
 }
 
+// Any request counts as a reader being present (see UWL_IDLE_EXIT_MINUTES below).
+let lastRequestAt = Date.now();
+
 const server = Bun.serve({
   port: PORT,
   hostname: HOST,
   idleTimeout: 30,
   async fetch(req, srv) {
+    lastRequestAt = Date.now();
     // Record the connection's own address before anything reads a header, so
     // rate limits key on the peer rather than on a value the caller supplies.
     setPeerAddress(req, srv.requestIP(req)?.address);
@@ -193,3 +197,16 @@ const shutdown = () => {
 };
 process.on("SIGINT", shutdown);
 process.on("SIGTERM", shutdown);
+
+// The desktop app runs without a window to close, so it stops by itself once
+// no browser tab has been open for this many minutes. An open reader page
+// checks in every minute (client/main.tsx). Off unless set.
+const idleMinutes = Number(process.env.UWL_IDLE_EXIT_MINUTES ?? 0);
+if (idleMinutes > 0) {
+  setInterval(() => {
+    if (Date.now() - lastRequestAt > idleMinutes * 60_000) {
+      console.log(`No reader has been connected for ${idleMinutes} minutes, so the library is stopping.`);
+      shutdown();
+    }
+  }, 30_000);
+}
