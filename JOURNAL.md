@@ -10,6 +10,94 @@ and where things stand (commits, branch, anything not pushed or not verified).
 
 ---
 
+## 2026-11-24 (afternoon): downloadable desktop app, smaller database, v0.2.0
+
+**Done**
+- **Repo visibility:** the user believed it was public; it already was (they
+  changed it after creation). The corpus in git includes the full Guru Granth
+  Sahib (Gurbani-CD Gurmukhi + Sant Singh Khalsa English), held under written
+  permission that says "do not redistribute". Raised it; **the user chose to
+  leave git as it is.** The downloadable library leaves the work out.
+- **Desktop app** (`scripts/app.ts`, `build:app`): a single executable per
+  platform (Windows x64, macOS arm64/x64, Linux x64/arm64) with the web client
+  embedded. It keeps the library in a per-user folder, downloads it on the
+  first run, serves on 127.0.0.1 and opens the browser. For this, the schema
+  is imported as text (`server/sql.d.ts`), `ROOT` honours `UWL_HOME`, and the
+  server takes its client folder from `UWL_PUBLIC_DIR`.
+- **First-run approach:** building the database from the corpus took 17.6 min
+  here and peaked at 17 GB of disk, too much for a reader's first launch. The
+  user chose: shrink the database first, then ship a ready-made one.
+- **Shrink** (`dab9258`): `passage_fts` and `passage_trigram` are now
+  contentless FTS5 (`content=''`, `contentless_delete`, `contentless_unindexed`),
+  so the text is no longer stored twice: 9.0 GB down to 7.0 GB. A strict
+  before/after comparison of 20 searches (keyword, phrase, concept, Greek,
+  CJK, substring, filtered, paged) gave identical results. `migrate()` rebuilds
+  an old-layout index once (about 21 min on the full library), and
+  `db:compact` (VACUUM) reclaims the space.
+- **Ready-made library** (`497027e`): `build:library` stages the corpus
+  (withholding by-permission-only works: just `guru-granth-sahib`, plus its
+  text-function entry and 2 collection items), seeds with `UWL_BULK_LOAD=1`
+  (no journal; 9.5 min), compresses with zstd -12 (3.0 GB) and splits into
+  parts under 1.9 GB with a SHA-256 manifest. The app checks free disk,
+  downloads the parts with HTTP range resume and 5 retries, verifies each
+  part and the unpacked database, then cleans up.
+- **Tested end to end** on Linux against a fake release host: started from a
+  half-downloaded part 1, resumed it with a range request, installed in 129 s,
+  served pages, the API and search (including CJK), and started again in 1 s.
+  All five platforms compile and package locally. Fixed along the way:
+  `Bun.write(file.slice())` copied the whole file instead of a range (the split
+  now streams explicit ranges and checks the total), and the compiled app
+  reported "development" (NODE_ENV is now set at build time).
+- **CI** (`.github/workflows/ci.yml`): typecheck and tests on main and PRs.
+  First run failed, and fixing it found a real problem: the Ollama tests wrote
+  to the real `data/uwl.db`. Tests now get a throwaway database from
+  `tests/setup.ts` (bunfig preload); the import manifests in `data/imports`
+  (7 MB) are now tracked; two cache-comparison tests skip without the cache.
+  CI is green.
+- **Release workflow** (`.github/workflows/release.yml`): on a `v*` tag, builds
+  the apps (macOS on a Mac runner for ad-hoc signing), builds the library
+  (frees runner disk first), creates the release from
+  `.github/release-notes.md` and uploads everything.
+- **Local database:** `data/uwl.db` had been emptied before this session
+  (every table empty, 10 GB of free pages). The cause is unknown; it wasn't
+  the tests (they never reset). The 19 Nov backup was intact (2,690 works, no
+  user data). With the user's OK it was replaced by a fresh build from today's
+  corpus, then converted and compacted: 7.06 GB, 2,773 works. It has **no
+  streamed-text search index**; `bun run index:streams` builds that by
+  fetching from every host.
+- Tagged and pushed **v0.2.0** (`497027e`). The release workflow passed: apps
+  built in under a minute (macOS on a Mac runner), the library built on the
+  runner in 14 min, and the release was published with 8 files (5 apps,
+  2 library parts of 1.90 GB and 1.09 GB, the manifest):
+  https://github.com/Archaejon/universal-wisdom-library/releases/tag/v0.2.0
+- **Verified the published release** from a clean folder: downloaded the Linux
+  app from GitHub, ran it with an empty library folder; it fetched, verified
+  and unpacked the 3 GB library from the release in 198 s, then served pages,
+  the API and search (including 道). Windows and macOS builds compile and
+  package but have not been run on those systems.
+
+**Open / next**
+- Not yet run on real Windows or Mac machines (only built). Worth a test by
+  someone on each before telling non-technical readers about it.
+- The upload/download-artifact actions (v5) still warn that they run on
+  Node 20; move them to the next major versions when those are confirmed.
+- The app's library has no streamed-text search index (Arabic, Hebrew and
+  other streamed shelves can be read but aren't searchable offline). Options:
+  build `index:streams` into the release DB, or ship it separately.
+- Code signing: Windows SmartScreen and macOS Gatekeeper warnings remain
+  (needs a paid Apple developer account and a Windows certificate).
+- An app update doesn't update an installed library (it keeps the old one);
+  a library update path is needed before the next corpus change.
+- Unexplained wipe of the local DB: worth finding what calls `resetDb()` or
+  `db:rebuild` before it happens again; README says a rebuild deletes users,
+  notes and so on.
+- Still open from earlier: the git email, the corpus growth in git, the
+  9.4 GB backup on the same disk, collection gaps, splitting `stream.ts`.
+
+**Git:** `dab9258`, `497027e` and earlier commits pushed; tag `v0.2.0` pushed.
+
+---
+
 ## 2026-11-24: options for non-technical users
 
 **Done (investigation only; no code changed)**
