@@ -40,38 +40,169 @@ function corpusStats() {
     .get() as Row;
 }
 
+/** Where a question is asked: the whole library, one tradition, or one work. */
+export type AskScope = { tradition?: string; work?: string };
+
+/**
+ * A passage the reader selected in the reader and carried into the question.
+ * The selection is the reader's own text; it is checked against a held copy
+ * where the library has one.
+ */
+export type AskContext = { work: string; reference: string; selection: string };
+
+/**
+ * Reading tiers. A work's text functions (an editorial classification, see
+ * data/corpus/text-functions.json) say what kind of text it is; the tier
+ * decides how many of an answer's slots that kind may take, so a question
+ * about mercy is not answered by six law-code paragraphs.
+ */
+export type Tier = "scripture" | "commentary" | "law" | "thought" | "other";
+export const TIER_ORDER: Tier[] = ["scripture", "commentary", "law", "thought", "other"];
+export const TIER_LABELS: Record<Tier, string> = {
+  scripture: "Scripture",
+  commentary: "Commentary",
+  law: "Law and practice",
+  thought: "Thought and devotion",
+  other: "Other sources",
+};
+const TIER_OF_FUNCTION: Record<string, Tier> = {
+  canonical_scripture: "scripture",
+  foundational_revelation: "scripture",
+  commentary_exegesis: "commentary",
+  religious_law_practice: "law",
+  denominational_guidance: "law",
+  creed_confession: "law",
+  prayer_liturgy: "law",
+  community_statement: "law",
+  philosophical_work: "thought",
+  mystical_contemplative: "thought",
+  contemporary_spiritual_writing: "thought",
+  sermon_speech: "thought",
+  ethical_humanist_manifesto: "thought",
+};
+/** Slots reserved per tier in a six-passage answer; the rest go by rank. */
+export const TIER_QUOTA: Record<Tier, number> = { scripture: 2, commentary: 2, law: 1, thought: 1, other: 0 };
+const ANSWER_SIZE = 6;
+const PER_WORK = 2;
+
+/** The highest tier among a work's functions. */
+export function tierFor(functions: string[]): Tier {
+  let best: Tier = "other";
+  for (const f of functions) {
+    const t = TIER_OF_FUNCTION[f];
+    if (t && TIER_ORDER.indexOf(t) < TIER_ORDER.indexOf(best)) best = t;
+  }
+  return best;
+}
+
+function tiersForWorks(slugs: string[]): Map<string, Tier> {
+  const out = new Map<string, Tier>();
+  if (!slugs.length) return out;
+  const rows = getDb()
+    .query(
+      `SELECT w.slug, f.function FROM work_text_functions f JOIN works w ON w.id = f.work_id
+       WHERE w.slug IN (${slugs.map(() => "?").join(",")})`,
+    )
+    .all(...slugs) as Row[];
+  const byWork = new Map<string, string[]>();
+  for (const r of rows) {
+    if (!byWork.has(r.slug)) byWork.set(r.slug, []);
+    byWork.get(r.slug)!.push(String(r.function));
+  }
+  for (const slug of slugs) out.set(slug, tierFor(byWork.get(slug) ?? []));
+  return out;
+}
+
+/**
+ * Pick an answer's passages from ranked candidates: first each tier's reserved
+ * slots, in rank order, then the best of what is left. No work takes more than
+ * two slots. The result is ordered by tier, then rank.
+ */
+export function selectTiered<T extends { passageId: number; work: { slug: string }; tier: Tier }>(
+  candidates: T[],
+  size = ANSWER_SIZE,
+): T[] {
+  const chosen = new Set<number>();
+  const perWork = new Map<string, number>();
+  const picked: { row: T; rank: number }[] = [];
+  const take = (row: T, rank: number) => {
+    if (picked.length >= size || chosen.has(row.passageId)) return false;
+    if ((perWork.get(row.work.slug) ?? 0) >= PER_WORK) return false;
+    chosen.add(row.passageId);
+    perWork.set(row.work.slug, (perWork.get(row.work.slug) ?? 0) + 1);
+    picked.push({ row, rank });
+    return true;
+  };
+  for (const tier of TIER_ORDER) {
+    let n = 0;
+    candidates.forEach((row, rank) => {
+      if (n < TIER_QUOTA[tier] && row.tier === tier && take(row, rank)) n++;
+    });
+  }
+  candidates.forEach((row, rank) => take(row, rank));
+  return picked
+    .sort((a, b) => TIER_ORDER.indexOf(a.row.tier) - TIER_ORDER.indexOf(b.row.tier) || a.rank - b.rank)
+    .map((p) => p.row);
+}
+
+function scopeParams(scope: AskScope): Record<string, string> {
+  const out: Record<string, string> = {};
+  if (scope.work) out.work = scope.work;
+  else if (scope.tradition) out.tradition = scope.tradition;
+  return out;
+}
+
 /**
  * Concept first, keyword second. Retrieval is deterministic, so the synthesis
  * prompt and the quotations a reader sees above it describe the same passages.
  *
- * The streamed shelves are in the same search response and were being thrown
- * away: the assistant saw only locally held text. Two of its six passages now
- * come from the indexed streamed works (Sefaria, hadith, Qur'an, SuttaCentral),
- * which hold a search excerpt and a reference rather than a local copy — enough
- * to quote, cite and link, which is what the answer needs.
+ * Candidates come from both the locally held text and the indexed streamed
+ * shelves (Sefaria, hadith, Qur'an, SuttaCentral), which hold a search excerpt
+ * and a reference rather than a local copy. Each is given its work's reading
+ * tier, and the answer's six slots are shared out by tier (see selectTiered).
  */
-export async function retrieve(question: string) {
-  let result = await search(new URLSearchParams({ q: question, mode: "concept" }));
+export async function retrieve(
+  question: string,
+  scope: AskScope = {},
+  exclude: number[] = [],
+  first: "concept" | "keyword" = "concept",
+) {
+  const extra = scopeParams(scope);
+  const second = first === "concept" ? "keyword" : "concept";
+  let result = await search(new URLSearchParams({ q: question, mode: first, ...extra }));
   let local: any[] = result.groups.flatMap((g: any) => g.works.flatMap((w: any) => w.results));
   if (local.length === 0) {
-    result = await search(new URLSearchParams({ q: question, mode: "keyword" }));
+    result = await search(new URLSearchParams({ q: question, mode: second, ...extra }));
     local = result.groups.flatMap((g: any) => g.works.flatMap((w: any) => w.results));
   }
   const streamed: any[] = (result.streamIndex?.hits ?? []).map((hit: any) => ({
     ...hit,
     streamedFrom: hit.edition?.source?.name ?? "its host" }));
 
-  const unique: any[] = [];
-  const seen = new Set<number>();
-  const add = (row: any) => {
-    if (unique.length >= 6 || seen.has(row.passageId)) return;
-    seen.add(row.passageId);
-    unique.push(row);
-  };
-  const streamedWanted = Math.min(streamed.length, local.length ? 2 : 6);
-  local.slice(0, 6 - streamedWanted).forEach(add);
-  streamed.slice(0, streamedWanted).forEach(add);
+  // Two local passages to one streamed, so a strong streamed hit is not
+  // always ranked below every local one.
+  const merged: any[] = [];
+  for (let i = 0, j = 0; i < local.length || j < streamed.length; ) {
+    if (i < local.length) merged.push(local[i++]);
+    if (i < local.length) merged.push(local[i++]);
+    if (j < streamed.length) merged.push(streamed[j++]);
+  }
+
+  const skip = new Set(exclude);
+  const candidates = merged.filter((r) => !skip.has(r.passageId));
+  const tiers = tiersForWorks([...new Set(candidates.map((r) => r.work.slug as string))]);
+  for (const r of candidates) {
+    r.tier = tiers.get(r.work.slug) ?? "other";
+  }
+  const unique = selectTiered(candidates);
   return { result, unique };
+}
+
+/** One line on why a passage was chosen: its tier and what matched. */
+function reasonFor(r: any): string {
+  const tier = TIER_LABELS[(r.tier as Tier) ?? "other"];
+  const why = String(r.why ?? "").replace(/\.$/, "");
+  return `${tier}. ${why || "Matched the question"}.`;
 }
 
 function quotationsFor(unique: any[]) {
@@ -97,6 +228,9 @@ function quotationsFor(unique: any[]) {
       link: `/read/${r.work.slug}?ref=${encodeURIComponent(r.reference)}&version=${encodeURIComponent(r.edition.slug)}`,
       citation: `${r.work.title} ${r.label} (${r.edition.title}${r.edition.translator ? `, trans. ${r.edition.translator}` : ""})`,
       why: r.why,
+      tier: r.tier ?? "other",
+      tierLabel: TIER_LABELS[(r.tier as Tier) ?? "other"],
+      reason: reasonFor(r),
       // A streamed quotation is the excerpt this library indexed for search, not
       // a copy of the chapter: the answer says where it came from.
       streamedFrom: r.streamedFrom ?? null,
@@ -137,9 +271,103 @@ function commentaryFor(unique: any[]) {
   return commentary;
 }
 
-export async function ask(question: string, user: User | null) {
+const normalise = (t: string) => t.normalize("NFC").replace(/[\u0591-\u05c7]/g, "").replace(/\s+/g, " ").trim().toLowerCase();
+
+/**
+ * Turn the reader's selection into the first quotation of the answer. Where
+ * the library holds the passage, the selection must be found in one of its
+ * editions and is attributed to that edition; a streamed passage has no held
+ * copy to check, and says so.
+ */
+export function contextQuotation(ctx: AskContext | null | undefined) {
+  if (!ctx?.work || !ctx.reference || !ctx.selection) return null;
   const db = getDb();
-  const { result, unique } = await retrieve(question);
+  const reference = ctx.reference.replace(/:/g, ".").trim();
+  const p = db
+    .query(
+      `SELECT p.id, p.reference, p.label, w.slug AS work_slug, w.title AS work_title, w.date_display,
+              t.slug AS tradition_slug, t.name AS tradition_name
+       FROM passages p JOIN works w ON w.id = p.work_id JOIN traditions t ON t.id = w.tradition_id
+       WHERE w.slug = ? AND p.reference = ?`,
+    )
+    .get(ctx.work, reference) as Row | null;
+  if (!p) return null;
+  const selection = ctx.selection.replace(/\s+/g, " ").trim().slice(0, 600);
+  if (selection.length < 2) return null;
+  const held = db
+    .query(
+      `SELECT pt.content, e.slug, e.title, e.translator, e.edition_type, so.name AS source_name, li.name AS license_name
+       FROM passage_texts pt JOIN editions e ON e.id = pt.edition_id
+       LEFT JOIN sources so ON so.id = e.source_id LEFT JOIN licenses li ON li.id = e.license_id
+       WHERE pt.passage_id = ?`,
+    )
+    .all(p.id) as Row[];
+  const wanted = normalise(selection);
+  const match = held.find((h) => normalise(String(h.content)).includes(wanted));
+  const tier = tiersForWorks([p.work_slug]).get(p.work_slug) ?? "other";
+  const edition = match
+    ? { slug: match.slug, title: match.title, translator: match.translator, editionType: match.edition_type, source: { name: match.source_name }, license: { name: match.license_name } }
+    : { slug: "", title: "as shown in the reader", translator: null, editionType: "", source: { name: null }, license: { name: null } };
+  return {
+    kind: "quotation",
+    isContext: true,
+    verified: !!match,
+    passageId: p.id as number,
+    quote: trimQuote(selection, 600),
+    shortened: false,
+    work: { slug: p.work_slug, title: p.work_title, dateDisplay: p.date_display },
+    reference: p.reference,
+    label: p.label,
+    tradition: { slug: p.tradition_slug, name: p.tradition_name },
+    edition,
+    link: `/read/${p.work_slug}?ref=${encodeURIComponent(p.reference)}${match ? `&version=${encodeURIComponent(match.slug)}` : ""}`,
+    citation: `${p.work_title} ${p.label}${match ? ` (${match.title}${match.translator ? `, trans. ${match.translator}` : ""})` : ""}`,
+    why: "The passage you selected in the reader.",
+    tier,
+    tierLabel: TIER_LABELS[tier],
+    reason: match
+      ? "The passage you asked about, as selected in the reader."
+      : "The passage you asked about. The library streams this text and holds no copy to check the selection against.",
+    streamedFrom: null,
+  };
+}
+
+export type AskOptions = { scope?: AskScope; context?: AskContext | null };
+
+/**
+ * Words that ask *about* a selection ("what does this mean", "where else is
+ * this found") rather than name its subject. Left in, they match any passage
+ * that happens to say "mean" or "found".
+ */
+const ABOUT_WORDS =
+  /\b(what|where|else|who|whom|why|how|does|do|did|is|are|was|this|that|these|those|it|its|passage|verse|text|line|selection|mean|means|meaning|say|says|said|explain|explained|found|find|idea|ideas|other|others|traditions?|elsewhere|about|of|in|the|a|an|and|to|by|on|read|interpret|interpreted|commentators?)\b/gi;
+
+/** The retrieval query: the question, or the selection's words and what is left of the question. */
+export function retrievalQuery(question: string, ctx: { quote: string } | null) {
+  if (!ctx) return question;
+  const rest = question.replace(ABOUT_WORDS, " ").replace(/[?.!,;:"“”]/g, " ").replace(/\s+/g, " ").trim();
+  return `${ctx.quote.replace(/ …$/, "").slice(0, 300)} ${rest}`.trim();
+}
+
+function scopeLabel(scope: AskScope): string | null {
+  const db = getDb();
+  if (scope.work) {
+    const w = db.query("SELECT title FROM works WHERE slug = ?").get(scope.work) as Row | null;
+    return w ? String(w.title) : null;
+  }
+  if (scope.tradition) {
+    const t = db.query("SELECT name FROM traditions WHERE slug = ?").get(scope.tradition) as Row | null;
+    return t ? String(t.name) : null;
+  }
+  return null;
+}
+
+export async function ask(question: string, user: User | null, options: AskOptions = {}) {
+  const db = getDb();
+  const scope = options.scope ?? {};
+  const ctx = contextQuotation(options.context);
+  const { result, unique } = await retrieve(retrievalQuery(question, ctx), scope, ctx ? [ctx.passageId] : [], ctx ? "keyword" : "concept");
+  const scopeName = scopeLabel(scope);
   const stats = corpusStats();
   const limitations = [
     `The catalogue contains ${stats.works} works across ${stats.traditions} traditions and ${stats.passages} indexed passages. Retrieval covers the locally held texts and the indexed streamed shelves, which contribute a search excerpt and a reference rather than a local copy. Sefaria's live search is not part of it, and the search page runs that separately.`,
@@ -148,13 +376,14 @@ export async function ask(question: string, user: User | null) {
     "The assistant does not claim that passages sharing a theme are equivalent or historically dependent.",
   ];
 
-  if (unique.length === 0) {
+  if (unique.length === 0 && !ctx) {
     const answer = {
       grounded: false,
       question,
+      scope: { ...scope, label: scopeName },
       engine: { name: "Local retrieval and extractive synthesis", externalModel: false, disclosure: DISCLOSURE },
       message:
-        "I could not ground an answer in the indexed corpus. No retrieved passage supported a response to this question, so I am not going to invent a quotation or citation. Try a broader question, a keyword, or browse the themes.",
+        `I could not ground an answer in the indexed corpus${scopeName ? ` within ${scopeName}` : ""}. No retrieved passage supported a response to this question, so I am not going to invent a quotation or citation. Try a broader question, a keyword, ${scopeName ? "the whole library, " : ""}or browse the themes.`,
       suggestions: [],
       limitations,
       citations: [],
@@ -166,8 +395,8 @@ export async function ask(question: string, user: User | null) {
     return answer;
   }
 
-  const quotations = quotationsFor(unique);
-  const commentary = commentaryFor(unique);
+  const quotations = [...(ctx ? [ctx] : []), ...quotationsFor(unique)];
+  const commentary = commentaryFor(ctx ? [ctx, ...unique] : unique);
 
   const themeNotes = db
     .query(
@@ -179,6 +408,15 @@ export async function ask(question: string, user: User | null) {
   const works = [...new Set(quotations.map((q) => q.work.title))];
 
   const synthesisParts: string[] = [];
+  if (ctx) {
+    synthesisParts.push(
+      unique.length
+        ? `You asked about ${ctx.work.title} ${ctx.label}. The passages below it were retrieved with your question and the words of your selection${scopeName ? `, within ${scopeName}` : ""}.`
+        : `You asked about ${ctx.work.title} ${ctx.label}. No other indexed passage${scopeName ? ` in ${scopeName}` : ""} matched your question and selection.`,
+    );
+  } else if (scopeName) {
+    synthesisParts.push(`The search was limited to ${scopeName}.`);
+  }
   synthesisParts.push(
     `The retrieval returned ${quotations.length} passage${quotations.length === 1 ? "" : "s"} from ${traditions.length} tradition${traditions.length === 1 ? "" : "s"} (${traditions.join(", ")}). They should be read as distinct voices, not as a single answer.`,
   );
@@ -206,6 +444,9 @@ export async function ask(question: string, user: User | null) {
     },
     quotations,
     commentary,
+    scope: { ...scope, label: scopeName },
+    context: ctx ? { work: ctx.work, reference: ctx.reference, label: ctx.label, verified: ctx.verified } : null,
+    tiers: TIER_ORDER.map((t) => ({ tier: t, label: TIER_LABELS[t], count: quotations.filter((q) => q.tier === t).length })).filter((t) => t.count),
     synthesis: {
       label: "Interpretive synthesis — generated by this library's retrieval assistant, not a source claim",
       text: synthesisParts.join("\n\n"),
@@ -272,6 +513,7 @@ export type SynthesisSource = {
 
 export type SynthesisPlan = {
   question: string;
+  cacheKey: string;
   model: string;
   system: string;
   prompt: string;
@@ -311,7 +553,10 @@ export function buildSynthesisPrompt(question: string, quotations: any[]): {
     return `[${i + 1}] ${meta}\n"${q.quote}"`;
   });
 
-  const prompt = `Question: ${question.replace(/\s+/g, " ").trim()}\n\nExcerpts:\n\n${excerpts.join("\n\n")}\n\nWrite the comparison note now, citing the excerpts by number.`;
+  const about = quotations[0]?.isContext
+    ? "\n\nExcerpt [1] is the passage the reader selected and is asking about. Answer about it first, then relate the other excerpts to it."
+    : "";
+  const prompt = `Question: ${question.replace(/\s+/g, " ").trim()}${about}\n\nExcerpts:\n\n${excerpts.join("\n\n")}\n\nWrite the comparison note now, citing the excerpts by number.`;
   return { system: SYNTHESIS_SYSTEM, prompt, sources };
 }
 
@@ -323,7 +568,11 @@ export function localDisclosure(model: string): string {
  * Check configuration, the daemon, the model and retrieval before any stream is
  * opened, so failures arrive as ordinary HTTP errors with useful messages.
  */
-export async function prepareSynthesis(question: string, requestedModel: unknown): Promise<SynthesisPlan | SynthesisRefusal> {
+export async function prepareSynthesis(
+  question: string,
+  requestedModel: unknown,
+  options: AskOptions = {},
+): Promise<SynthesisPlan | SynthesisRefusal> {
   const config = ollamaConfig();
   if (!config.enabled) {
     return {
@@ -371,8 +620,10 @@ export async function prepareSynthesis(question: string, requestedModel: unknown
     };
   }
 
-  const { unique } = await retrieve(question);
-  if (unique.length === 0) {
+  const scope = options.scope ?? {};
+  const ctx = contextQuotation(options.context);
+  const { unique } = await retrieve(retrievalQuery(question, ctx), scope, ctx ? [ctx.passageId] : [], ctx ? "keyword" : "concept");
+  if (unique.length === 0 && !ctx) {
     return {
       error: true,
       status: 422,
@@ -381,15 +632,21 @@ export async function prepareSynthesis(question: string, requestedModel: unknown
     };
   }
 
-  const quotations = quotationsFor(unique);
+  const quotations = [...(ctx ? [ctx] : []), ...quotationsFor(unique)];
   const { system, prompt, sources } = buildSynthesisPrompt(question, quotations);
+  // The same question asked about another passage, or in another scope, is a
+  // different answer.
+  const cacheKey = ctx || scope.work || scope.tradition
+    ? `${question}\u0000${JSON.stringify({ scope, context: ctx ? [ctx.passageId, ctx.quote] : null })}`
+    : question;
   return {
     question,
+    cacheKey,
     model,
     system,
     prompt,
     sources,
-    cached: cachedSynthesis(model, question),
+    cached: cachedSynthesis(model, cacheKey),
     config,
   };
 }
@@ -457,7 +714,7 @@ export function synthesisResponse(plan: SynthesisPlan, signal?: AbortSignal): Re
             send({ type: "error", code: "empty", message: "The model returned no text. Try again, or choose a different model." });
             return;
           } else {
-            cacheSynthesis(plan.model, plan.question, text.trim());
+            cacheSynthesis(plan.model, plan.cacheKey, text.trim());
             send({
               type: "done",
               model: plan.model,

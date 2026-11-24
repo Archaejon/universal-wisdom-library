@@ -1247,3 +1247,37 @@ select { appearance: none; background-image: linear-gradient(45deg, transparent 
 .vc-notice { margin: 4px 0 0; }
 .vc-page-heading { font-family: var(--font-sans); font-size: 0.7rem; letter-spacing: 0.14em; text-transform: uppercase; color: var(--faint); font-weight: 650; margin: 22px 0 10px; }
 .vc-more { font-size: 0.74rem; padding: 3px 8px; border-radius: 999px; border: 1px solid var(--rule); background: var(--paper); color: var(--ink-soft); width: auto; }
+
+/* Toolbar over a selection in the reader. */
+.selection-bar {
+  position: fixed; z-index: 60; transform: translate(-50%, -100%);
+  display: flex; gap: 2px; padding: 4px; border-radius: 10px;
+  background: var(--ink); color: var(--paper); box-shadow: 0 6px 22px rgba(0, 0, 0, 0.28);
+}
+.selection-bar.below { transform: translate(-50%, 0); }
+.selection-bar button {
+  display: inline-flex; align-items: center; gap: 6px; padding: 6px 10px; border: 0; border-radius: 7px;
+  background: transparent; color: inherit; font: inherit; font-size: 0.8rem; white-space: nowrap; cursor: pointer;
+}
+.selection-bar button:hover, .selection-bar button:focus-visible { background: color-mix(in srgb, var(--paper) 18%, transparent); }
+@media print { .selection-bar { display: none; } }
+
+/* Assistant: the passage asked about, where to look, kinds of source. */
+.ask-context { border: 1px solid var(--rule); border-left: 3px solid var(--accent); background: var(--paper); border-radius: 0 var(--radius) var(--radius) 0; padding: 12px 16px; margin: 0 0 16px; }
+.ask-context-head { display: flex; flex-wrap: wrap; align-items: baseline; gap: 6px 12px; }
+.ask-context-head a { font-family: var(--font-serif); font-size: 1.02rem; }
+.ask-context-head .button { margin-left: auto; }
+.ask-context blockquote { margin: 8px 0 6px; font-family: var(--font-serif); font-size: 1rem; line-height: 1.6; color: var(--ink-soft); white-space: pre-line; overflow-wrap: anywhere; }
+.ask-scope { align-items: center; }
+.ask-scope .chip { cursor: pointer; }
+.ask-scope-select { width: auto; font-size: 0.74rem; padding: 3px 8px; border-radius: 999px; border: 1px solid var(--rule); background: var(--paper); color: var(--ink-soft); }
+.ask-scope-select.active { border-color: var(--accent); color: var(--accent-deep); background: var(--accent-soft); }
+.answer-scope { margin: 4px 0 0; }
+.answer-tiers { display: flex; flex-wrap: wrap; align-items: center; gap: 6px 12px; margin: 0 0 12px; }
+.answer-tiers > span { display: inline-flex; align-items: center; gap: 4px; }
+.answer-quote.context { border-color: color-mix(in srgb, var(--accent) 45%, var(--rule)); }
+.answer-quote-head { flex-wrap: wrap; }
+@media (max-width: 640px) {
+  .assistant-disclosure, .assistant-local-head { flex-direction: column; gap: 8px; }
+  .ask-context-head .button { margin-left: 0; }
+}

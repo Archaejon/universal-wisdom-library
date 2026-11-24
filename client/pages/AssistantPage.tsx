@@ -2,6 +2,7 @@ import { useCallback, useEffect, useRef, useState } from "react";
 import { Link } from "../router";
 import { api } from "../api";
 import { Badge, CopyButton, ErrorState, Icon, PageIntro } from "../components";
+import { clearAskContext, loadAskContext, type AskContextDraft } from "../selection";
 import {
   checkEngine,
   citationNumbers,
@@ -23,6 +24,31 @@ const SUGGESTIONS = [
   "What is the ultimate reality?",
 ];
 
+const CONTEXT_SUGGESTIONS = [
+  "What does this mean?",
+  "Where else is this idea found?",
+  "How have commentators read this?",
+  "How do other traditions speak of this?",
+];
+
+type Scope = { kind: "all" } | { kind: "work" } | { kind: "tradition"; slug: string; name: string };
+type AskRequest = { scope: { work?: string; tradition?: string }; context?: { work: string; reference: string; selection: string } };
+type HistoryEntry = { id: number; question: string; answer: any; request: AskRequest; context: AskContextDraft | null };
+
+const TIER_TONES: Record<string, "accent" | "blue" | "green" | "muted" | "neutral"> = {
+  scripture: "accent",
+  commentary: "blue",
+  law: "green",
+  thought: "neutral",
+  other: "muted",
+};
+
+function scopeRequest(scope: Scope, context: AskContextDraft | null): AskRequest["scope"] {
+  if (scope.kind === "work" && context) return { work: context.work };
+  if (scope.kind === "tradition") return { tradition: scope.slug };
+  return {};
+}
+
 const COMMENTARY_LABELS: Record<string, string> = {
   traditional: "Traditional commentary",
   academic: "Academic scholarship",
@@ -38,7 +64,10 @@ function humanSize(bytes?: number): string {
 
 export function AssistantPage() {
   const [question, setQuestion] = useState("");
-  const [history, setHistory] = useState<{ id: number; question: string; answer: any }[]>([]);
+  const [history, setHistory] = useState<HistoryEntry[]>([]);
+  const [context, setContext] = useState<AskContextDraft | null>(() => loadAskContext());
+  const [scope, setScope] = useState<Scope>({ kind: "all" });
+  const [traditions, setTraditions] = useState<{ slug: string; name: string }[]>([]);
   const [busy, setBusy] = useState(false);
   const [error, setError] = useState("");
   const [ai, setAi] = useState<AiPrefs>(() => loadAiPrefs());
@@ -51,6 +80,18 @@ export function AssistantPage() {
   useEffect(() => {
     saveAiPrefs(ai);
   }, [ai]);
+
+  useEffect(() => {
+    api<{ traditions: any[] }>("/api/traditions")
+      .then((d) => setTraditions((d.traditions ?? []).filter((t: any) => Number(t.passages) > 0).map((t: any) => ({ slug: t.slug, name: t.name }))))
+      .catch(() => setTraditions([]));
+  }, []);
+
+  const dropContext = () => {
+    clearAskContext();
+    setContext(null);
+    if (scope.kind === "work") setScope({ kind: "all" });
+  };
 
   const check = useCallback(async (fresh: boolean) => {
     setEngineBusy(true);
@@ -83,8 +124,12 @@ export function AssistantPage() {
     setError("");
     const model = ai.model;
     try {
-      const answer = await api<any>("/api/assistant/ask", { method: "POST", body: { question: value } });
-      setHistory((h) => [{ id: nextId.current++, question: value, answer }, ...h]);
+      const request: AskRequest = {
+        scope: scopeRequest(scope, context),
+        ...(context ? { context: { work: context.work, reference: context.reference, selection: context.selection } } : {}),
+      };
+      const answer = await api<any>("/api/assistant/ask", { method: "POST", body: { question: value, ...request } });
+      setHistory((h) => [{ id: nextId.current++, question: value, answer, request, context }, ...h]);
       setQuestion("");
       // A model name may not have been chosen yet on a machine that was never
       // checked; the server falls back to its configured default.
@@ -170,6 +215,60 @@ export function AssistantPage() {
         </div>
       </PageIntro>
 
+      {context && (
+        <section className="ask-context" aria-label="Passage you are asking about">
+          <div className="ask-context-head">
+            <span className="eyebrow">Asking about</span>
+            <Link to={`/read/${context.work}?ref=${encodeURIComponent(context.reference)}`}>
+              {context.workTitle} {context.label}
+            </Link>
+            <button className="button ghost small" onClick={dropContext} aria-label="Stop asking about this passage">
+              <Icon name="close" size={14} /> Remove
+            </button>
+          </div>
+          <blockquote dir="auto">{context.selection}</blockquote>
+          <p className="muted small">
+            The selection goes with your question. The answer quotes it first and looks for related passages using its words.
+          </p>
+        </section>
+      )}
+
+      <div className="ask-scope chip-row small" role="radiogroup" aria-label="Where to look">
+        <span className="eyebrow">Look in</span>
+        <button role="radio" aria-checked={scope.kind === "all"} className={scope.kind === "all" ? "chip active" : "chip"} onClick={() => setScope({ kind: "all" })}>
+          The whole library
+        </button>
+        {context && (
+          <button role="radio" aria-checked={scope.kind === "work"} className={scope.kind === "work" ? "chip active" : "chip"} onClick={() => setScope({ kind: "work" })}>
+            {context.workTitle}
+          </button>
+        )}
+        {context?.tradition && (
+          <button
+            role="radio"
+            aria-checked={scope.kind === "tradition" && scope.slug === context.tradition.slug}
+            className={scope.kind === "tradition" && scope.slug === context.tradition.slug ? "chip active" : "chip"}
+            onClick={() => setScope({ kind: "tradition", slug: context.tradition!.slug, name: context.tradition!.name })}
+          >
+            {context.tradition.name}
+          </button>
+        )}
+        {traditions.length > 0 && (
+          <select
+            className={scope.kind === "tradition" && scope.slug !== context?.tradition?.slug ? "ask-scope-select active" : "ask-scope-select"}
+            aria-label="One tradition"
+            value={scope.kind === "tradition" ? scope.slug : ""}
+            onChange={(e) => {
+              const t = traditions.find((x) => x.slug === e.target.value);
+              setScope(t ? { kind: "tradition", slug: t.slug, name: t.name } : { kind: "all" });
+            }}
+          >
+            <option value="">One tradition…</option>
+            {traditions.map((t) => <option key={t.slug} value={t.slug}>{t.name}</option>)}
+          </select>
+        )}
+      </div>
+
       <form
         className="assistant-form"
         onSubmit={(e) => { e.preventDefault(); submit(question); }}
@@ -192,7 +291,7 @@ export function AssistantPage() {
 
       <div className="suggested-questions">
         <span className="eyebrow">Try</span>
-        {SUGGESTIONS.map((s) => (
+        {(context ? CONTEXT_SUGGESTIONS : SUGGESTIONS).map((s) => (
           <button key={s} className="chip" onClick={() => { setQuestion(s); submit(s); }} disabled={busy}>{s}</button>
         ))}
       </div>
@@ -240,7 +339,7 @@ type Generation = {
   cached?: boolean;
 };
 
-function AnswerBlock({ entry, ai, onEngineIssue }: { entry: { question: string; answer: any }; ai: AiPrefs; onEngineIssue: () => void }) {
+function AnswerBlock({ entry, ai, onEngineIssue }: { entry: HistoryEntry; ai: AiPrefs; onEngineIssue: () => void }) {
   const a = entry.answer;
   const [gen, setGen] = useState<Generation>({ status: "idle", text: "" });
   const abortRef = useRef<AbortController | null>(null);
@@ -255,6 +354,7 @@ function AnswerBlock({ entry, ai, onEngineIssue }: { entry: { question: string; 
     streamSynthesis({
       question: entry.question,
       model: ai.model,
+      extra: entry.request,
       signal: controller.signal,
       onEvent: (event) => {
         if (controller.signal.aborted) return;
@@ -302,6 +402,12 @@ function AnswerBlock({ entry, ai, onEngineIssue }: { entry: { question: string; 
       <header className="answer-question">
         <span className="eyebrow">Question</span>
         <h2>{entry.question}</h2>
+        {(a.context || a.scope?.label) && (
+          <p className="muted small answer-scope">
+            {a.context && <>About {a.context.label ? `${entry.context?.workTitle ?? ""} ${a.context.label}`.trim() : "your selection"}. </>}
+            {a.scope?.label && <>Searched within {a.scope.label}.</>}
+          </p>
+        )}
       </header>
 
       <div className="answer-disclosure">
@@ -354,10 +460,22 @@ function AnswerBlock({ entry, ai, onEngineIssue }: { entry: { question: string; 
           <section className="answer-quotations">
             <h3>Quotations from the corpus</h3>
             <p className="muted small">Exact excerpts from the editions named. A quotation is evidence of what this edition says, not of what an entire tradition teaches.</p>
+            {a.tiers?.length > 0 && (
+              <p className="answer-tiers small">
+                {a.tiers.map((t: any) => (
+                  <span key={t.tier}>
+                    <Badge tone={TIER_TONES[t.tier] ?? "muted"}>{t.label}</Badge> {t.count}
+                  </span>
+                ))}
+                <span className="muted">Slots are shared out by kind of text, so one kind cannot fill the answer.</span>
+              </p>
+            )}
             {a.quotations.map((q: any, i: number) => (
-              <article key={i} className="answer-quote">
+              <article key={i} className={q.isContext ? "answer-quote context" : "answer-quote"}>
                 <div className="answer-quote-head">
-                  <Badge tone="accent">{q.tradition.name}</Badge>
+                  {q.isContext && <Badge tone="warn">You asked about this</Badge>}
+                  {q.tierLabel && <Badge tone={TIER_TONES[q.tier] ?? "muted"}>{q.tierLabel}</Badge>}
+                  <Badge tone="neutral">{q.tradition.name}</Badge>
                   <span className="muted small">{q.work.dateDisplay}</span>
                 </div>
                 <blockquote>{q.quote}</blockquote>
@@ -367,13 +485,19 @@ function AnswerBlock({ entry, ai, onEngineIssue }: { entry: { question: string; 
                   {q.edition.publicationYear ? ` (${q.edition.publicationYear})` : ""}
                 </p>
                 <p className="small muted">
-                  {q.shortened ? "Excerpt; the full passage is longer." : "Complete passage as imported."}
+                  {q.isContext
+                    ? q.verified
+                      ? "Your selection, found in this edition."
+                      : "Your selection, as shown in the reader."
+                    : q.shortened
+                      ? "Excerpt; the full passage is longer."
+                      : "Complete passage as imported."}
                   {q.edition.source?.name ? ` Source: ${q.edition.source.name}.` : ""}
                   {q.edition.license?.name ? ` ${q.edition.license.name}.` : ""}
                 </p>
-                <p className="result-why">{q.why}</p>
+                <p className="result-why">{q.reason ?? q.why}</p>
                 <div className="button-row">
-                  <Link className="button small" to={`/read/${q.work.slug}?ref=${encodeURIComponent(q.reference)}&version=${encodeURIComponent(q.edition.slug)}`}>Read in context <Icon name="arrow-right" size={14} /></Link>
+                  <Link className="button small" to={q.link}>Read in context <Icon name="arrow-right" size={14} /></Link>
                   <CopyButton small text={`${q.work.title} ${q.label}. ${q.edition.title}${q.edition.translator ? `, trans. ${q.edition.translator}` : ""}. ${window.location.origin}/read/${q.work.slug}?ref=${encodeURIComponent(q.reference)}`} label="Copy citation" />
                 </div>
               </article>

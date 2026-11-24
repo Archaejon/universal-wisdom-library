@@ -6,7 +6,7 @@ import { getCompare, getReader } from "./reader";
 import { listCommentaries, readCommentary } from "./commentary";
 import { search, searchLive } from "./search";
 import { listAcquisitionTargets } from "./acquisition";
-import { ask, prepareSynthesis, releaseAssistantModel, synthesisResponse } from "./assistant";
+import { ask, prepareSynthesis, releaseAssistantModel, synthesisResponse, type AskOptions } from "./assistant";
 import { ollamaConfig, ollamaStatus } from "./ollama";
 import {
   addCollectionItem,
@@ -94,6 +94,21 @@ export async function api(req: Request, url: URL): Promise<Response> {
     console.error("API error:", err);
     return fail("Internal server error", 500, "internal_error");
   }
+}
+
+/** Scope and reader context for the assistant, from a request body. */
+function askOptions(body: Record<string, any>): AskOptions {
+  const slug = (v: unknown) => {
+    const t = safeText(v, 160);
+    return /^[a-z0-9][a-z0-9-]*$/.test(t) ? t : undefined;
+  };
+  const scope = { tradition: slug(body.scope?.tradition), work: slug(body.scope?.work) };
+  const c = body.context;
+  const context =
+    c && typeof c === "object" && slug(c.work) && safeText(c.reference, 40) && safeText(c.selection, 600)
+      ? { work: slug(c.work)!, reference: safeText(c.reference, 40), selection: safeText(c.selection, 600) }
+      : null;
+  return { scope, context };
 }
 
 async function route(req: Request, url: URL, path: string, method: string): Promise<Response> {
@@ -553,7 +568,7 @@ async function route(req: Request, url: URL, path: string, method: string): Prom
     const body = await readBody(req);
     const question = safeText(body.question, 500);
     if (question.length < 3) return fail("Ask a question or enter a topic.", 400, "invalid_question");
-    const plan = await prepareSynthesis(question, body.model);
+    const plan = await prepareSynthesis(question, body.model, askOptions(body));
     if ("error" in plan) return fail(plan.message, plan.status, plan.code);
     return synthesisResponse(plan, req.signal);
   }
@@ -569,7 +584,7 @@ async function route(req: Request, url: URL, path: string, method: string): Prom
     const body = await readBody(req);
     const question = safeText(body.question, 500);
     if (question.length < 3) return fail("Ask a question or enter a topic.", 400, "invalid_question");
-    return json(await ask(question, user));
+    return json(await ask(question, user, askOptions(body)));
   }
 
   if (path.startsWith("/api/")) return fail("API route not found", 404, "not_found");

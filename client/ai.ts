@@ -126,6 +126,8 @@ export async function releaseModel(model: string): Promise<void> {
 export async function streamSynthesis(opts: {
   question: string;
   model?: string;
+  /** Scope and reader context, sent as given to the ask endpoint. */
+  extra?: Record<string, unknown>;
   signal: AbortSignal;
   onEvent: (event: SynthesisEvent) => void;
 }): Promise<void> {
@@ -135,7 +137,7 @@ export async function streamSynthesis(opts: {
       method: "POST",
       credentials: "same-origin",
       headers: { "content-type": "application/json", accept: "application/x-ndjson" },
-      body: JSON.stringify({ question: opts.question, model: opts.model || undefined }),
+      body: JSON.stringify({ ...(opts.extra ?? {}), question: opts.question, model: opts.model || undefined }),
       signal: opts.signal,
     });
   } catch (err: any) {

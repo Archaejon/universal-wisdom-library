@@ -102,6 +102,10 @@ a top navigation bar and full-width pages.
    the passage page.
 3. **Selection toolbar and Ask-with-context**, then **tiered sources** in the
    assistant using text functions. *About 3 days.*
+   **Done 25 November 2026** (`client/selection.tsx`, `server/assistant.ts`):
+   the toolbar (Ask, search this work or everywhere, copy with citation), the
+   selection carried into the assistant, tier quotas with badges and reasons,
+   and scope chips.
 4. **Hebrew word study and transliteration** (port from Lens), then Sanskrit
    IAST. *About 2–3 days.*
 5. **Local-model hardening**, then **on-demand AI translation**, then optional

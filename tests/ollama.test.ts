@@ -340,6 +340,7 @@ describe("synthesis event stream", () => {
     const config = baseConfig(url);
     return {
       question: "What is duty?",
+      cacheKey: "What is duty?",
       model: "llama3.1:8b",
       system: "rules",
       prompt: "excerpts",

@@ -6,6 +6,7 @@ import { usePrefs } from "../prefs";
 import { addRecent } from "../recent";
 import { useStudyPanel } from "../shell";
 import { VerseCommentaries } from "../commentaries";
+import { SelectionToolbar } from "../selection";
 import {
   Badge, CopyButton, EditionSourceLine, ErrorState, Icon, Loading, Modal, SampleBadge, useToast,
 } from "../components";
@@ -522,6 +523,7 @@ export function ReaderPage({ slug }: { slug: string }) {
 const AMOUNTS = [10, 25, 50, 100];
 
 function ChapterView({ slug, data, versionParam }: { slug: string; data: any; versionParam?: string }) {
+  const bodyRef = useRef<HTMLDivElement>(null);
   const prefs = usePrefs();
   const studyPanel = useStudyPanel();
   const compare = useCompare();
@@ -697,7 +699,13 @@ function ChapterView({ slug, data, versionParam }: { slug: string; data: any; ve
         }
       />
 
-      <div className="reader-body" style={{ ["--reader-width" as any]: `${prefs.measure}px` }}>
+      <div className="reader-body" ref={bodyRef} style={{ ["--reader-width" as any]: `${prefs.measure}px` }}>
+        <SelectionToolbar
+          root={bodyRef}
+          slug={slug}
+          workTitle={data.work.title}
+          tradition={data.work.tradition_slug ? { slug: data.work.tradition_slug, name: data.work.tradition_name } : null}
+        />
         <ReaderTrail work={data.work} slug={slug} last={data.chapter.label} />
         <WorkHeading work={data.work} sub={data.chapter.label} originalDir={original?.language?.direction} />
         <StreamingNote streaming={data.streaming} />
@@ -714,7 +722,7 @@ function ChapterView({ slug, data, versionParam }: { slug: string; data: any; ve
               {visible.map((p: any) => {
                 const key = `${slug}:${p.reference}`;
                 return (
-                  <article key={p.id} className={studied === key ? "verse-row studied" : "verse-row"} id={`p-${p.reference}`}>
+                  <article key={p.id} className={studied === key ? "verse-row studied" : "verse-row"} id={`p-${p.reference}`} data-ref={p.reference} data-label={p.label}>
                     <button className="verse-num" onClick={() => study(p)} title={`${p.label}: editions, commentary and connections`} aria-label={`Study ${p.label}`}>
                       {flowMarker(p)}
                     </button>
@@ -752,6 +760,7 @@ function ChapterView({ slug, data, versionParam }: { slug: string; data: any; ve
 type TextView = "both" | "english" | "original";
 
 function PassageView({ slug, data, versionParam }: { slug: string; data: any; versionParam?: string }) {
+  const bodyRef = useRef<HTMLDivElement>(null);
   const location = useLocation();
   const { user, refresh } = useAuth();
   const prefs = usePrefs();
@@ -966,12 +975,18 @@ function PassageView({ slug, data, versionParam }: { slug: string; data: any; ve
         }
       />
 
-      <div className="reader-body" style={{ ["--reader-width" as any]: `${prefs.measure}px` }}>
+      <div className="reader-body" ref={bodyRef} style={{ ["--reader-width" as any]: `${prefs.measure}px` }}>
+        <SelectionToolbar
+          root={bodyRef}
+          slug={slug}
+          workTitle={data.work.title}
+          tradition={data.work.tradition_slug ? { slug: data.work.tradition_slug, name: data.work.tradition_name } : null}
+        />
         <ReaderTrail work={data.work} slug={slug} last={data.passage.label} />
         <WorkHeading work={data.work} sub={data.passage.label || data.passage.reference} originalDir={defaultOriginal?.language?.direction} />
         <StreamingNote streaming={data.streaming} />
 
-        <div className={panes.length === 2 ? "text-panels two" : "text-panels"}>
+        <div className={panes.length === 2 ? "text-panels two" : "text-panels"} data-ref={data.passage.reference} data-label={data.passage.label}>
           {panes.map((v: any, i: number) => <TextPanel key={v.slug} version={v} isPrimary={i === 0} />)}
         </div>
 
@@ -1215,7 +1230,7 @@ function ContinuousChapter({
               {lineated ? (
                 <p className="flow-para flow-verse">
                   {pane.items.map((item, index) => (
-                    <Fragment key={item.reference}>
+                    <span key={item.reference} data-ref={item.reference} data-label={item.label}>
                       {showRefs && (
                         <a
                           className="flow-marker"
@@ -1237,12 +1252,12 @@ function ContinuousChapter({
                         </Fragment>
                       ))}
                       {index < pane.items.length - 1 && <br />}
-                    </Fragment>
+                    </span>
                   ))}
                 </p>
               ) : (
                 pane.items.map((item) => (
-                  <p key={item.reference} className="flow-para">
+                  <p key={item.reference} className="flow-para" data-ref={item.reference} data-label={item.label}>
                     {showRefs &&
                       (runIn ? (
                         <span className="flow-runin">{item.label}</span>

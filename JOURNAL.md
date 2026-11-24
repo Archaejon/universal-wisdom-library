@@ -10,6 +10,68 @@ and where things stand (commits, branch, anything not pushed or not verified).
 
 ---
 
+## 2026-11-25 (night): selection toolbar, Ask with context, tiered sources (step 3)
+
+**Done**
+- **Selection toolbar** (`client/selection.tsx`). Select text in the reader
+  (rows, continuous view or a single passage) and a small bar offers **Ask**,
+  **This work** (search this work), **Everywhere** (search the library) and
+  **Copy** (with citation and link). Each passage carries `data-ref`/
+  `data-label`, so a selection knows its verse. The text is widened to whole
+  words, so a drag from mid-word does not search "n the beginning … Wo". Up
+  to twelve words are searched as a phrase. On touch screens the bar sits
+  below the selection, out of the way of the system menu.
+- **Ask with context**. Ask stores the selection, its passage and tradition
+  in sessionStorage and opens the assistant. The assistant shows an
+  "Asking about" card (removable) and suggestions about the passage ("What
+  does this mean?", "Where else is this idea found?" …). The server
+  (`contextQuotation` in `server/assistant.ts`) resolves the passage and
+  checks the selection against the held editions. If found, it is
+  attributed to that edition; if the text is streamed, it says it could not
+  check. It becomes quotation [1]. Retrieval for a selection searches its
+  own words first (keyword, then concept) and drops words that ask *about*
+  it ("where", "else", "mean" …). The local-model prompt is told [1] is the
+  passage asked about. The synthesis cache is keyed by scope and context.
+- **Tiered sources**. Each retrieved passage gets its work's reading tier
+  from text functions: Scripture, Commentary, Law and practice, Thought and
+  devotion, Other. Six slots are shared out: two scripture, two commentary,
+  one law, one thought, then the best of the rest. No work takes more than
+  two slots. Quotations show a tier badge and a one-line reason, and the
+  answer shows a count per tier. Local and streamed hits are interleaved
+  two to one.
+- **Scope**: "Look in" chips: the whole library, the selected work, its
+  tradition, or any tradition from a menu. They are sent to `/api/assistant/ask`
+  and `/synthesise` as `scope: { work | tradition }`, and the empty-answer
+  message names the scope.
+- Fixed in passing: the assistant's notices squeezed into a narrow column at
+  phone width.
+- Tests: `tests/assistant-tiers.test.ts` (tiers, quotas, per-work cap,
+  selection queries). 214 pass; tsc clean. Checked in the browser:
+  - a drag selection in John 1 (continuous) and Genesis 1 (rows);
+  - the toolbar, Ask, the context card and scope chips;
+  - answers with tiers and reasons;
+  - Everywhere search, and phone size.
+  No console errors.
+
+**Decided**
+- The selection is never trusted as a quotation without saying so: it is
+  either found in a named edition, or marked as shown in the reader.
+- Tier quotas are fixed in code (`TIER_QUOTA`) rather than configurable.
+
+**Open**
+- Some Bible translations are classified only as `historical_document`
+  (e.g. `bible-webster`), so they rank as "Other sources". This is an
+  editorial fix in `data/corpus/text-functions.json`, not code.
+- This dev database has no streamed-text index (`bun run index:streams`).
+  Questions limited to Islam, and other streamed-only shelves, find nothing
+  here until it is built. Check whether the shipped library has it.
+- "Translate / Transliterate" on the toolbar waits for steps 4 and 5.
+
+**State**: committed and pushed to `origin/main` with this entry. Not in a
+release yet (the app is still 0.2.1).
+
+---
+
 ## 2026-11-25 (evening): commentaries by verse, step 2
 
 **Done**
