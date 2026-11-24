@@ -209,6 +209,13 @@ const NAMED_ENTITIES: Record<string, string> = {
   deg: "°",
   pound: "£",
   times: "×",
+  // Sefaria's pointed Hebrew carries spacing entities between words.
+  thinsp: "\u2009",
+  ensp: "\u2002",
+  emsp: "\u2003",
+  zwnj: "",
+  zwj: "",
+  shy: "",
 };
 
 export function stripMarkup(input: string): string {
@@ -263,7 +270,7 @@ export function segmentsFor(text: any, expected: number): string[] {
   return Math.abs(deep.length - expected) < Math.abs(top.length - expected) && deep.length > 0 ? deep : top;
 }
 
-async function fetchJson(
+export async function fetchJson(
   url: string,
   init: RequestInit & { timeoutMs?: number; retryOn429?: boolean; retryOn5xx?: boolean } = {},
 ): Promise<any> {

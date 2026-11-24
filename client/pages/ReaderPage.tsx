@@ -5,6 +5,7 @@ import { useAuth } from "../auth";
 import { usePrefs } from "../prefs";
 import { addRecent } from "../recent";
 import { useStudyPanel } from "../shell";
+import { VerseCommentaries } from "../commentaries";
 import {
   Badge, CopyButton, EditionSourceLine, ErrorState, Icon, Loading, Modal, SampleBadge, useToast,
 } from "../components";
@@ -267,7 +268,7 @@ function WorkHeading({ work, sub, originalDir }: { work: any; sub?: string; orig
 
 function CommentaryList({ items }: { items: any[] }) {
   if (!items.length) {
-    return <p className="muted small">No commentary has been imported for this passage. The absence of commentary is not evidence that none exists.</p>;
+    return <p className="muted small">The library has no editorial notes of its own on this passage. Commentaries found elsewhere are listed below.</p>;
   }
   return (
     <div className="commentary-list">
@@ -381,6 +382,18 @@ function PassageStudy({ slug, reference, version }: { slug: string; reference: s
       </div>
 
       <section className="study-section">
+        <h3>Commentaries</h3>
+        <VerseCommentaries slug={slug} reference={data.passage.reference} />
+      </section>
+
+      {data.commentary.length > 0 && (
+        <section className="study-section">
+          <h3>Library notes <Badge>{data.commentary.length}</Badge></h3>
+          <CommentaryList items={data.commentary} />
+        </section>
+      )}
+
+      <section className="study-section">
         <h3>Editions</h3>
         <ul className="study-editions">
           {(data.versions as any[]).map((v) => (
@@ -390,11 +403,6 @@ function PassageStudy({ slug, reference, version }: { slug: string; reference: s
             </li>
           ))}
         </ul>
-      </section>
-
-      <section className="study-section">
-        <h3>Commentary {data.commentary.length > 0 && <Badge>{data.commentary.length}</Badge>}</h3>
-        <CommentaryList items={data.commentary} />
       </section>
 
       {(data.themes.length > 0 || data.relationships.length > 0) && (
@@ -1053,6 +1061,8 @@ function PassageView({ slug, data, versionParam }: { slug: string; data: any; ve
             {data.commentary.length > 0 && <Badge>{data.commentary.length}</Badge>}
           </div>
           <CommentaryList items={data.commentary} />
+          <h3 className="vc-page-heading">Commentaries on this verse</h3>
+          <VerseCommentaries slug={slug} reference={data.passage.reference} />
         </section>
 
         {(data.themes.length > 0 || data.relationships.length > 0) && (

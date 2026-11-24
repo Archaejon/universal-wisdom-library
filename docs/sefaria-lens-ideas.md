@@ -97,6 +97,9 @@ a top navigation bar and full-width pages.
    November 2026** (`client/shell.tsx`, `client/recent.ts`, the reader).
 2. **Commentaries by verse**, starting with Sefaria links (already streamed)
    and the library's own tables, then tafsir and Barnes. *About 3–4 days.*
+   **Done 25 November 2026** (`server/commentary.ts`, `client/commentaries.tsx`):
+   Sefaria links, Barnes' Notes and three tafsirs, in the study panel and on
+   the passage page.
 3. **Selection toolbar and Ask-with-context**, then **tiered sources** in the
    assistant using text functions. *About 3 days.*
 4. **Hebrew word study and transliteration** (port from Lens), then Sanskrit

@@ -10,6 +10,66 @@ and where things stand (commits, branch, anything not pushed or not verified).
 
 ---
 
+## 2026-11-25 (evening): commentaries by verse, step 2
+
+**Done**
+- **Server** (`server/commentary.ts`, route `GET /api/commentaries/:slug?ref=`,
+  plus `&id=` to read one). For one passage it lists every commentary keyed
+  to it, and reads one on request:
+  - **Sefaria links** for any Sefaria-served work addressed by chapter and
+    verse (Tanakh, Mishnah, Talmud, and so on), and for the Christian Bible's
+    Old Testament books (Bolls) through their Hebrew Bible names. The panel
+    notes that verse numbers can differ there. Links are grouped by work and
+    category; commentaries on this very book come first, classics in
+    Sefaria's order (Rashi, Ramban, Ibn Ezra …), then by date. One read of
+    "Rashi on Genesis 1:1" returns all of Rashi's comments on the verse,
+    English and Hebrew, with Sefaria's version title and licence. Inline
+    footnotes are stripped.
+  - **Barnes' Notes** for every New Testament book (Bolls and the sample
+    gospels). An index is built once in memory from Barnes' own markers
+    ("… - Chapter 3 - Verse 16", 7,947 of them); a book's unmarked verse 1
+    takes the paragraphs that open the section; "Remarks on chapter …"
+    sections are not filed under a verse.
+  - **Tafsir**: al-Tabari, al-Qurtubi and Ibn Kathir for any Qur'an ayah,
+    oldest first, read through the existing Quran.com stream (held in
+    memory, never written to disk).
+  - The library's own `commentaries` table stays with the passage response.
+- **Client** (`client/commentaries.tsx`): a Commentaries section at the top
+  of the study panel (verse number → panel) and on the passage page.
+  Category chips (six shown, the rest under "More…"), ten works per category
+  with "Show all", the first one opened, the original under the translation
+  with a switch, edition, licence, source link and "Open in the library".
+  The library's own notes are now "Library notes" in the panel, shown only
+  when there are any.
+- `&thinsp;` and other spacing entities are now decoded (the Genesis 1:5
+  note from step 1). `fetchJson` is exported from `server/stream.ts`.
+- Fixed in passing: panel content could push the panel wider than its
+  column (grid items now `minmax(0, 1fr)`; panel `overflow-x: hidden`).
+- Tests: `tests/commentary.test.ts` (Barnes headings and index, footnote
+  stripping, entity decoding, ordering). 207 pass; tsc clean. Checked in
+  the browser: Genesis 1:1 (Rashi, Bereshit Rabbah), Berakhot 2a:1 on the
+  passage page, John 3:16 and Matthew 1:1 and 5:3 (Barnes), Qur'an 2:5
+  (tafsir), phone size; no console errors.
+
+**Decided**
+- The list arrives first and a commentary's text is read only when opened,
+  as Sefaria's own sidebar does; Genesis 1:1 alone has 349 linked works.
+- No per-verse counts in the reader rows yet: that needs Sefaria's
+  chapter-level links (thousands per chapter). The verse number opens it.
+
+**Open**
+- Other verse-keyed commentaries on the shelf (Calvin, the Expositor's Bible,
+  Catena Aurea) are chapter- or section-shaped and are not indexed yet.
+- Sefaria commentaries that are themselves on the shelf could open in the
+  library rather than at Sefaria.
+- Everything from earlier entries (installer tests on real machines, code
+  signing, library update path, CLAUDE.md "private" note, git email).
+
+**State**: committed and pushed to `origin/main` with this entry. Not in a
+release yet (the app is still 0.2.1).
+
+---
+
 ## 2026-11-25 (later): the Sefaria Lens layout, step 1
 
 **Done**

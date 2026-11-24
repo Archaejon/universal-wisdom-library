@@ -274,7 +274,7 @@ mark { background: var(--warn-soft); color: inherit; padding: 0 0.12em; border-r
 .sidebar-scrim { display: none; }
 
 .study-panel {
-  position: sticky; top: 0; height: 100vh; overflow-y: auto;
+  position: sticky; top: 0; height: 100vh; overflow-y: auto; overflow-x: hidden;
   border-left: 1px solid var(--rule); background: var(--paper-alt);
 }
 .study-panel-head {
@@ -657,13 +657,14 @@ select { appearance: none; background-image: linear-gradient(45deg, transparent 
 .note-edit textarea { font-family: var(--font-serif); font-size: 1rem; }
 .signin-prompt { border: 1px dashed var(--rule-strong); padding: 18px; border-radius: var(--radius); }
 .signin-prompt p { margin-bottom: 10px; font-size: 0.86rem; color: var(--muted); }
-.commentary-list { display: grid; gap: 14px; }
+.commentary-list { display: grid; grid-template-columns: minmax(0, 1fr); gap: 14px; }
+.commentary-body, .vc-text { overflow-wrap: anywhere; }
 .commentary { border: 1px solid var(--rule); border-left: 3px solid var(--rule-strong); background: var(--paper); border-radius: 0 var(--radius) var(--radius) 0; padding: 16px 18px; }
 .commentary-traditional { border-left-color: var(--accent); }
 .commentary-academic { border-left-color: var(--blue); }
 .commentary-modern_religious { border-left-color: var(--olive); }
 .commentary-editorial { border-left-color: var(--faint); }
-.commentary-head { display: flex; gap: 6px; align-items: center; margin-bottom: 8px; }
+.commentary-head { display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px; }
 .commentary-meta { font-size: 0.74rem; color: var(--muted); margin-bottom: 7px; }
 .commentary-body { font-family: var(--font-serif); font-size: 1.02rem; line-height: 1.65; color: var(--ink-soft); }
 .commentary-body.quotation { font-style: italic; padding-left: 14px; border-left: 1px solid var(--rule-strong); }
@@ -1215,3 +1216,34 @@ select { appearance: none; background-image: linear-gradient(45deg, transparent 
   .text-panels.two { grid-template-columns: 1fr 1fr; }
   .text-panel { break-inside: avoid; border-color: #ccc; }
 }
+
+/* Commentaries on one verse (study panel and passage page). */
+.verse-commentaries { display: grid; grid-template-columns: minmax(0, 1fr); gap: 4px; }
+.vc-categories { margin-bottom: 8px; }
+.vc-categories .chip { cursor: pointer; }
+.vc-list { list-style: none; margin: 0 0 8px; padding: 0; border-top: 1px solid var(--rule); }
+.vc-item { border-bottom: 1px solid var(--rule); }
+.vc-head {
+  width: 100%; display: flex; align-items: center; justify-content: space-between; gap: 10px;
+  padding: 9px 2px; border: 0; background: transparent; color: var(--ink); text-align: left; cursor: pointer; font: inherit;
+}
+.vc-head:hover { color: var(--accent); }
+.vc-title { display: flex; flex-direction: column; gap: 1px; min-width: 0; font-family: var(--font-serif); font-size: 0.95rem; line-height: 1.3; }
+.vc-native { font-family: var(--font-hebrew); font-size: 0.82rem; color: var(--faint); }
+.vc-meta { display: inline-flex; align-items: center; gap: 6px; flex-shrink: 0; color: var(--faint); }
+.vc-meta svg { transition: transform 0.15s; }
+.vc-item.open .vc-meta svg { transform: rotate(90deg); }
+.vc-tag { font-size: 0.6rem; letter-spacing: 0.08em; text-transform: uppercase; border: 1px solid var(--rule); border-radius: 999px; padding: 1px 6px; }
+.vc-reading { padding: 2px 2px 14px; }
+.vc-toggle { display: inline-flex; align-items: center; gap: 6px; font-size: 0.74rem; color: var(--muted); margin-bottom: 6px; }
+.vc-entry + .vc-entry { margin-top: 12px; }
+.vc-entry-label { margin: 0 0 3px; font-size: 0.66rem; letter-spacing: 0.06em; color: var(--faint); }
+.vc-text { margin: 0; font-family: var(--font-serif); font-size: 0.95rem; line-height: 1.6; color: var(--ink-soft); white-space: pre-line; }
+.vc-text + .vc-text { margin-top: 6px; }
+.vc-text.original[lang="he"], .vc-text.original[lang="arc"] { font-family: var(--font-hebrew); font-size: 1.05rem; line-height: 1.8; }
+.vc-text.original[lang="ar"] { font-family: var(--font-arabic); font-size: 1.08rem; line-height: 1.95; }
+.vc-source { margin: 10px 0 0; font-size: 0.7rem; color: var(--faint); }
+.vc-source a { color: var(--muted); }
+.vc-notice { margin: 4px 0 0; }
+.vc-page-heading { font-family: var(--font-sans); font-size: 0.7rem; letter-spacing: 0.14em; text-transform: uppercase; color: var(--faint); font-weight: 650; margin: 22px 0 10px; }
+.vc-more { font-size: 0.74rem; padding: 3px 8px; border-radius: 999px; border: 1px solid var(--rule); background: var(--paper); color: var(--ink-soft); width: auto; }

@@ -3,6 +3,7 @@ import type { User } from "./auth";
 import { fail, isEmail, json, rateLimit, sameOrigin, safeText, clientIp } from "./util";
 import { getBrowse, getHome, getProvenance, getProvenanceEditions, getSiteInfo, getTheme, getThemes, getTraditions, getWork, listWorks, facets, workOptions, getCuratedCollections } from "./library";
 import { getCompare, getReader } from "./reader";
+import { listCommentaries, readCommentary } from "./commentary";
 import { search, searchLive } from "./search";
 import { listAcquisitionTargets } from "./acquisition";
 import { ask, prepareSynthesis, releaseAssistantModel, synthesisResponse } from "./assistant";
@@ -285,6 +286,16 @@ async function route(req: Request, url: URL, path: string, method: string): Prom
   if (workMatch && method === "GET") {
     const work = getWork(decodeURIComponent(workMatch[1]));
     return work ? json(work) : fail("Work not found", 404, "not_found");
+  }
+
+  const commentaryMatch = path.match(/^\/api\/commentaries\/([^/]+)$/);
+  if (commentaryMatch && method === "GET") {
+    const slug = decodeURIComponent(commentaryMatch[1]);
+    const ref = url.searchParams.get("ref") ?? "";
+    const id = url.searchParams.get("id");
+    if (!ref) return fail("A passage reference is required", 400, "bad_request");
+    const result = id ? await readCommentary(slug, ref, id) : await listCommentaries(slug, ref);
+    return result ? json(result) : fail("Passage or commentary not found", 404, "not_found");
   }
 
   const readMatch = path.match(/^\/api\/read\/([^/]+)(?:\/([^/]+))?$/);
