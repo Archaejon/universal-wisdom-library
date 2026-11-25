@@ -10,6 +10,61 @@ and where things stand (commits, branch, anything not pushed or not verified).
 
 ---
 
+## 2026-11-25 (late): word study and transliteration (step 4)
+
+**Done**
+- **Hebrew transliteration**: the Sefaria Lens engine was ported as is
+  (`client/translit/hebrew-engine.ts`, `divine-name.ts`; MIT, notice kept in
+  the files). It offers seven reading traditions: Modern Israeli, Ashkenazi,
+  Mizrahi, Yemeni, Kavkazi, and two Ancient (Tiberian) readings. The divine
+  name is read as Adonai in liturgy and HaShem elsewhere, chosen from the
+  work's category and text functions. Lens's 53 tests were ported
+  (`tests/hebrew-*.test.ts`) and pass unchanged.
+- **Sanskrit** (`client/translit/sanskrit.ts`): Devanagari → IAST for the
+  Heritage shelf, and IAST → Devanagari for GRETIL. Tokens with digits or
+  underscores (GRETIL's reference tags) are kept as written.
+- **Reader**: a "Transliteration" switch (labelled "IAST" or "Devanagari"
+  for Sanskrit) appears wherever the original can be transliterated, with a
+  reading-tradition menu for Hebrew. The transliteration appears in three places:
+  - rows: under each verse;
+  - continuous view: as its own pane;
+  - the passage page: under the original.
+  Settings are kept in `uwl_translit` and `uwl_translit_style`.
+- **Word study**: every Hebrew/Aramaic word in the original is clickable (a
+  drag-selection is not a click). It opens the study panel with the word's
+  reading (or all seven) and its Sefaria lexicon entries: BDB with Strong's
+  numbers, Klein and Jastrow. Senses are nested, and each entry links to
+  Sefaria. Exact-form entries come first. The panel also has "Find this word"
+  in this work or everywhere. Server: `server/words.ts`,
+  `GET /api/words?w=`. Accents are stripped and vowels kept; the bare
+  letters are tried if the pointed form misses. Entries are held in memory
+  for 12 h and never stored.
+- Tests: Sanskrit both ways and word cleaning/senses. 289 pass; tsc clean.
+  Checked in the browser:
+  - Genesis 1 rows, with transliteration and the word study of בָּרָא;
+  - the Psalm 23:1 passage page ("mizmor ledavid HaShem ro'i lo echsar");
+  - Aitareya Upanishad (GRETIL) in rows and continuous with Devanagari.
+  No console errors.
+
+**Decided**
+- Transliteration runs in the browser on the text already shown, so it also
+  works for streamed text and costs no server requests.
+- Word study is Hebrew/Aramaic only for now. Greek, Pali, Sanskrit and Arabic
+  dictionaries need their own sources (doc step 4's later items).
+
+**Open**
+- A Heritage (Devanagari) chapter could not be checked live here: the sample
+  chapter returned no text, probably the metered key. The conversion is
+  unit-tested.
+- For a prefixed word, Klein/Jastrow's entry for the whole form sorts before
+  BDB's entry for the root; that is arguable.
+- Words are clickable with a mouse or touch, not from the keyboard.
+
+**State**: committed and pushed to `origin/main` with this entry. Not in a
+release yet (the app is still 0.2.1).
+
+---
+
 ## 2026-11-25 (night): selection toolbar, Ask with context, tiered sources (step 3)
 
 **Done**

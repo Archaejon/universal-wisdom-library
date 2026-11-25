@@ -108,6 +108,9 @@ a top navigation bar and full-width pages.
    and scope chips.
 4. **Hebrew word study and transliteration** (port from Lens), then Sanskrit
    IAST. *About 2–3 days.*
+   **Done 25 November 2026** (`client/translit/`, `server/words.ts`): the
+   Lens engine in seven traditions, Sanskrit both ways, and word study from
+   Sefaria's lexicons. Other languages' dictionaries are still to come.
 5. **Local-model hardening**, then **on-demand AI translation**, then optional
    cloud providers. *About 4–5 days.*
 

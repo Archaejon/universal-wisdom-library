@@ -1281,3 +1281,28 @@ select { appearance: none; background-image: linear-gradient(45deg, transparent 
   .assistant-disclosure, .assistant-local-head { flex-direction: column; gap: 8px; }
   .ask-context-head .button { margin-left: 0; }
 }
+
+/* Transliteration and word study. */
+.translit-switch { display: inline-flex; align-items: center; gap: 6px; }
+.translit-switch select { font-size: 0.76rem; padding: 3px 6px; width: auto; }
+.verse-translit { margin: 6px 0 0; font-family: var(--font-serif); font-size: calc(var(--reading-size) * 0.86); line-height: 1.55; color: var(--muted); font-style: italic; text-align: start; }
+.verse-cell.original .verse-translit { text-align: end; }
+.verse-translit[lang="sa-Deva"] { font-style: normal; font-size: calc(var(--reading-size) * 1.02); }
+.passage-translit { margin-top: 14px; padding-top: 12px; border-top: 1px dashed var(--rule); }
+.passage-translit p { font-family: var(--font-serif); font-style: italic; color: var(--muted); line-height: 1.6; margin: 6px 0 0; }
+.passage-translit[lang="sa-Deva"] p { font-style: normal; }
+.verse-text .w, .passage-text .w { cursor: pointer; border-radius: 3px; transition: background 0.12s; }
+.verse-text .w:hover, .passage-text .w:hover { background: var(--accent-soft); color: var(--accent-deep); }
+:root[data-theme="dark"] .verse-text .w:hover, :root[data-theme="dark"] .passage-text .w:hover { color: var(--accent); }
+
+.word-readings { display: grid; grid-template-columns: auto 1fr; gap: 4px 14px; margin: 0 0 8px; font-size: 0.86rem; }
+.word-readings dt { color: var(--faint); font-size: 0.74rem; }
+.word-readings dd { margin: 0; font-family: var(--font-serif); font-style: italic; }
+.lexicon-entry { padding: 10px 0; border-bottom: 1px solid var(--rule); }
+.lexicon-entry header { display: flex; align-items: baseline; justify-content: space-between; gap: 10px; flex-wrap: wrap; }
+.lexicon-headword { font-family: var(--font-hebrew); font-size: 1.2rem; }
+.lexicon-name { font-size: 0.7rem; color: var(--faint); letter-spacing: 0.04em; }
+.lexicon-morph { margin: 2px 0 4px; font-size: 0.74rem; color: var(--muted); }
+.lexicon-senses { margin: 4px 0 6px; padding-inline-start: 18px; font-size: 0.88rem; line-height: 1.5; color: var(--ink-soft); }
+.lexicon-senses li { margin: 2px 0; overflow-wrap: anywhere; }
+@media print { .verse-text .w:hover { background: none; } }

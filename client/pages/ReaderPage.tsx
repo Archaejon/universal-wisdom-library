@@ -7,6 +7,8 @@ import { addRecent } from "../recent";
 import { useStudyPanel } from "../shell";
 import { VerseCommentaries } from "../commentaries";
 import { SelectionToolbar } from "../selection";
+import { divineNameFor, transliterateText } from "../translit";
+import { HebrewWords, TranslitLine, TranslitSwitch, WordStudy, translitFor, useTranslit } from "../translit/reader";
 import {
   Badge, CopyButton, EditionSourceLine, ErrorState, Icon, Loading, Modal, SampleBadge, useToast,
 } from "../components";
@@ -612,6 +614,22 @@ function ChapterView({ slug, data, versionParam }: { slug: string; data: any; ve
       }];
   const versions = (data.versions ?? []) as any[];
   const translations = versions.filter((v) => v.editionType !== "original" && v.slug !== original?.slug);
+
+  // Transliteration and word study apply to the original column (or the only
+  // column, when the chapter has one language).
+  const translit = useTranslit();
+  const tlEdition = canSplit ? original : single;
+  const tlSample = canSplit ? all.find((p) => p.original)?.original?.text ?? "" : all.find((p) => p.text)?.text ?? "";
+  const tlInfo = translitFor(tlEdition, tlSample);
+  const divineName = divineNameFor(data.work);
+  const tlSide = canSplit ? "original" : columns[0]?.side;
+  const studyWord = (word: string) =>
+    studyPanel.open({
+      key: `word:${word}`,
+      eyebrow: "Word study",
+      title: <span lang="he" dir="rtl">{word.replace(/[\u0591-\u05AF\u05BD\u05C0\u05C3]/g, "")}</span>,
+      body: <WordStudy word={word} divineName={divineName} style={translit.style} slug={slug} />,
+    });
   const navHref = (r: any) => (r ? { href: readHref(slug, r.ref, versionParam), label: data.chapters.find((c: any) => c.ref === r.ref)?.label ?? r.ref } : null);
 
   const study = (p: any) =>
@@ -639,9 +657,17 @@ function ChapterView({ slug, data, versionParam }: { slug: string; data: any; ve
   const rowText = (text: any, main: any, side: "original" | "translation") => {
     if (!text) return <div className={`verse-cell ${side} empty`} />;
     const rtl = text.language?.direction === "rtl";
+    const lang = text.language?.code;
+    const hebrew = lang === "he" || lang === "arc";
+    const withTranslit = tlInfo && translit.on && side === tlSide && lang === tlInfo.lang;
     return (
       <div className={`verse-cell ${side}`}>
-        <p className={rtl ? "verse-text rtl" : "verse-text"} dir={rtl ? "rtl" : "ltr"} lang={text.language?.code}>{text.text}</p>
+        <p className={rtl ? "verse-text rtl" : "verse-text"} dir={rtl ? "rtl" : "ltr"} lang={lang}>
+          {hebrew ? <HebrewWords text={text.text} onWord={studyWord} /> : text.text}
+        </p>
+        {withTranslit && (
+          <TranslitLine text={text.text} lang={lang} kind={tlInfo.kind} style={translit.style} divineName={divineName} />
+        )}
         {main && text.slug !== main.slug && <p className="verse-edition">{text.title}{text.source?.name ? ` · via ${text.source.name}` : ""}</p>}
       </div>
     );
@@ -660,6 +686,7 @@ function ChapterView({ slug, data, versionParam }: { slug: string; data: any; ve
         controls={
           <>
             {canSplit && <LayerSwitches layers={layers} toggle={toggle} originalLabel={originalLabel} />}
+            {tlInfo && (canSplit ? showOriginal : true) && <TranslitSwitch info={tlInfo} translit={translit} />}
             {canSplit && showTranslation && translations.length > 1 && (
               <label className="reader-field">
                 <span>Translation</span>
@@ -711,7 +738,16 @@ function ChapterView({ slug, data, versionParam }: { slug: string; data: any; ve
         <StreamingNote streaming={data.streaming} />
 
         {layout === "continuous" ? (
-          <ContinuousChapter slug={slug} passages={all} view={view} scheme={scheme} showRefs={showRefs} />
+          <ContinuousChapter
+            slug={slug}
+            passages={all}
+            view={view}
+            scheme={scheme}
+            showRefs={showRefs}
+            translit={tlInfo && translit.on && (canSplit ? showOriginal : true)
+              ? { ...tlInfo, convert: (t: string) => transliterateText(t, tlInfo.lang, { style: translit.style, divineName }) }
+              : null}
+          />
         ) : (
           <>
             <div className={columns.length === 2 ? "verse-rows two" : "verse-rows"}>
@@ -818,6 +854,18 @@ function PassageView({ slug, data, versionParam }: { slug: string; data: any; ve
     ? [layers.translation ? left : null, layers.original ? right : null].filter(Boolean)
     : [left, beside ? right : null].filter(Boolean);
   const primary = panes[0] ?? left;
+  const translit = useTranslit();
+  const divineName = divineNameFor(data.work);
+  const tlTarget = (panes as any[]).find((v) => translitFor(v, v.text ?? ""));
+  const tlInfo = tlTarget ? translitFor(tlTarget, tlTarget.text ?? "") : null;
+  const studyPanel = useStudyPanel();
+  const studyWord = (word: string) =>
+    studyPanel.open({
+      key: `word:${word}`,
+      eyebrow: "Word study",
+      title: <span lang="he" dir="rtl">{word.replace(/[\u0591-\u05AF\u05BD\u05C0\u05C3]/g, "")}</span>,
+      body: <WordStudy word={word} divineName={divineName} style={translit.style} slug={slug} />,
+    });
   const shareUrl = `${window.location.origin}${readHref(slug, data.passage.reference, primary?.slug)}`;
   const signIn = (message: string) => {
     push(message, "info");
@@ -917,6 +965,7 @@ function PassageView({ slug, data, versionParam }: { slug: string; data: any; ve
         controls={
           <>
             {canSplit && <LayerSwitches layers={layers} toggle={toggle} originalLabel={defaultOriginal.language?.name ?? "Original"} />}
+            {tlInfo && <TranslitSwitch info={tlInfo} translit={translit} />}
             {canSplit ? (
               <>
                 {layers.translation && englishEditions.length > 1 && (
@@ -987,7 +1036,17 @@ function PassageView({ slug, data, versionParam }: { slug: string; data: any; ve
         <StreamingNote streaming={data.streaming} />
 
         <div className={panes.length === 2 ? "text-panels two" : "text-panels"} data-ref={data.passage.reference} data-label={data.passage.label}>
-          {panes.map((v: any, i: number) => <TextPanel key={v.slug} version={v} isPrimary={i === 0} />)}
+          {panes.map((v: any, i: number) => (
+            <TextPanel
+              key={v.slug}
+              version={v}
+              isPrimary={i === 0}
+              onWord={studyWord}
+              translit={tlInfo && translit.on && v === tlTarget
+                ? { ...tlInfo, convert: (t: string) => transliterateText(t, tlInfo.lang, { style: translit.style, divineName }) }
+                : null}
+            />
+          ))}
         </div>
 
         <p className="edition-caveat">
@@ -1141,12 +1200,15 @@ function ContinuousChapter({
   view,
   scheme,
   showRefs,
+  translit = null,
 }: {
   slug: string;
   passages: any[];
   view: TextView;
   scheme: string;
   showRefs: boolean;
+  /** A transliteration pane after the pane in this language. */
+  translit?: { lang: string | null; kind: "latin" | "devanagari"; label: string; convert: (text: string) => string } | null;
 }) {
   const runIn = scheme === "chapter.paragraph" || scheme === "chapter.article" || scheme === "chapter.section";
   const parallelOriginal = passages.find((p: any) => p.original)?.original;
@@ -1205,6 +1267,23 @@ function ContinuousChapter({
         .filter((p: any) => p.text)
         .map((p: any) => ({ reference: p.reference, label: p.label, text: p.text })),
     });
+  }
+
+  if (translit) {
+    const at = panes.findIndex((pane) => pane.lang === translit.lang);
+    if (at >= 0) {
+      const source = panes[at];
+      panes.splice(at + 1, 0, {
+        key: "translit",
+        kicker: translit.label,
+        language: translit.kind === "devanagari" ? "Devanagari script" : "Latin letters",
+        edition: `From the ${source.language || "original"} above`,
+        source: "",
+        lang: translit.kind === "devanagari" ? "sa-Deva" : `${translit.lang}-Latn`,
+        rtl: false,
+        items: source.items.map((item) => ({ ...item, text: translit.convert(item.text) })),
+      });
+    }
   }
 
   const visible = panes.filter((pane) => pane.items.length > 0);
@@ -1312,8 +1391,20 @@ function looksLineated(items: { text: string }[], scheme: string) {
   return short / items.length >= 0.7;
 }
 
-function TextPanel({ version, isPrimary = false }: { version: any; isPrimary?: boolean }) {
+function TextPanel({
+  version,
+  isPrimary = false,
+  translit = null,
+  onWord,
+}: {
+  version: any;
+  isPrimary?: boolean;
+  translit?: { label: string; kind: "latin" | "devanagari"; convert: (text: string) => string } | null;
+  onWord?: (word: string) => void;
+}) {
   const rtl = version.language?.direction === "rtl";
+  const lang = version.language?.code;
+  const hebrew = (lang === "he" || lang === "arc") && !!onWord;
   return (
     <article className={isPrimary ? "text-panel primary" : "text-panel"}>
       <header className="text-panel-head">
@@ -1334,8 +1425,14 @@ function TextPanel({ version, isPrimary = false }: { version: any; isPrimary?: b
         </div>
       </header>
       <div className={`passage-text ${rtl ? "rtl" : ""}`} dir={rtl ? "rtl" : "ltr"} lang={version.language?.code}>
-        {paragraphs(version.text).map((p, i) => <p key={i}>{p}</p>)}
+        {paragraphs(version.text).map((p, i) => <p key={i}>{hebrew ? <HebrewWords text={p} onWord={onWord!} /> : p}</p>)}
       </div>
+      {translit && (
+        <div className="passage-translit" dir="ltr" lang={translit.kind === "devanagari" ? "sa-Deva" : `${lang}-Latn`}>
+          <span className="text-panel-kicker">{translit.label}</span>
+          {paragraphs(version.text).map((p, i) => <p key={i}>{translit.convert(p)}</p>)}
+        </div>
+      )}
       <details className="source-details">
         <summary>Edition, source & rights</summary>
         <EditionSourceLine edition={version} />

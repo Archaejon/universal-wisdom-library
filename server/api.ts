@@ -4,6 +4,7 @@ import { fail, isEmail, json, rateLimit, sameOrigin, safeText, clientIp } from "
 import { getBrowse, getHome, getProvenance, getProvenanceEditions, getSiteInfo, getTheme, getThemes, getTraditions, getWork, listWorks, facets, workOptions, getCuratedCollections } from "./library";
 import { getCompare, getReader } from "./reader";
 import { listCommentaries, readCommentary } from "./commentary";
+import { lookupWord } from "./words";
 import { search, searchLive } from "./search";
 import { listAcquisitionTargets } from "./acquisition";
 import { ask, prepareSynthesis, releaseAssistantModel, synthesisResponse, type AskOptions } from "./assistant";
@@ -301,6 +302,11 @@ async function route(req: Request, url: URL, path: string, method: string): Prom
   if (workMatch && method === "GET") {
     const work = getWork(decodeURIComponent(workMatch[1]));
     return work ? json(work) : fail("Work not found", 404, "not_found");
+  }
+
+  if (path === "/api/words" && method === "GET") {
+    const result = await lookupWord(url.searchParams.get("w") ?? "");
+    return result ? json(result) : fail("Word study covers Hebrew and Aramaic words", 400, "bad_request");
   }
 
   const commentaryMatch = path.match(/^\/api\/commentaries\/([^/]+)$/);
