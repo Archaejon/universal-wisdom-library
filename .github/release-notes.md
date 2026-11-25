@@ -1,3 +1,20 @@
+## What's new in {{VERSION}}
+
+A new layout, adapted from Sefaria Lens, and four ways to study a text more closely.
+
+- **A new reading layout.** A sidebar on the left holds search, the main sections and the texts you opened recently. A study panel opens on the right. The reader shows each verse on one row, the translation beside the original, with switches for each layer and one bar for moving through the work.
+- **Commentaries on every verse.** Click a verse number to see what commentators wrote on it:
+  - Sefaria's commentaries for the Hebrew Bible, Mishnah and Talmud (Rashi, Ramban, Ibn Ezra and hundreds more);
+  - Barnes' Notes for the New Testament;
+  - al-Tabari, al-Qurtubi and Ibn Kathir for the Qur'an.
+- **Select text to ask about it.** Selecting words in the reader offers Ask, search this work, search everywhere, and copy with citation. Ask takes the passage into the study assistant. The assistant now:
+  - quotes the passage first;
+  - balances its sources between scripture, commentary, law and other writing, saying why each was chosen;
+  - can search one work or one tradition.
+- **Transliteration and word study.** Hebrew can be shown in Latin letters in seven reading traditions. Sanskrit can be shown in IAST or Devanagari. Click a Hebrew word to see its dictionary entries (BDB, Klein, Jastrow).
+
+Commentaries and dictionary entries are read live from Sefaria and Quran.com, so they need an internet connection. If you already have the library installed, this version keeps it: there is nothing more to download beyond the app itself.
+
 ## Download and install
 
 | Your computer | Download | Then |
