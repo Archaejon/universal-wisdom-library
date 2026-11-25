@@ -1,19 +1,18 @@
 import { getDb, meta } from "./db";
 import { search } from "./search";
 import type { User } from "./auth";
+import { cacheSynthesis, cachedSynthesis, ollamaConfig, releaseModel, sanitizeModelName } from "./ollama";
 import {
-  acquireGeneration,
-  activeGenerations,
-  cacheSynthesis,
-  cachedSynthesis,
-  generate,
-  isModelInstalled,
-  ollamaConfig,
-  ollamaStatus,
-  releaseModel,
-  sanitizeModelName,
-} from "./ollama";
-import type { OllamaConfig } from "./ollama";
+  BusyError,
+  engineDisclosure,
+  estimateTokens,
+  gateFor,
+  isProblem,
+  promptBudget,
+  resolveEngine,
+  streamText,
+  type Engine,
+} from "./llm";
 
 type Row = Record<string, any>;
 
@@ -519,7 +518,9 @@ export type SynthesisPlan = {
   prompt: string;
   sources: SynthesisSource[];
   cached: string | null;
-  config: OllamaConfig;
+  engine: Engine;
+  /** How the excerpts were shortened to fit the model's context window, if they were. */
+  fitted?: { quoteChars: number; dropped: number } | null;
 };
 
 export type SynthesisRefusal = { error: true; status: number; code: string; message: string };
@@ -564,61 +565,50 @@ export function localDisclosure(model: string): string {
   return `The synthesis below was written on this machine by ${model} through Ollama, using only the excerpts supplied above. Nothing was sent to an external AI provider. Quotations and citations are copied from the editions themselves, not generated.`;
 }
 
+export function synthesisDisclosure(engine: Engine): string {
+  if (engine.kind === "local") return localDisclosure(engine.model);
+  return `${engineDisclosure(engine)} It used only the excerpts supplied above. Quotations and citations are copied from the editions themselves, not generated.`;
+}
+
 /**
- * Check configuration, the daemon, the model and retrieval before any stream is
- * opened, so failures arrive as ordinary HTTP errors with useful messages.
+ * Keep the prompt inside the model's window: shorten every excerpt, then, if
+ * that is not enough, leave out the last ones (never the passage asked about).
+ */
+export function fitSynthesisPrompt(question: string, quotations: any[], budget: number) {
+  let quoteChars = 480;
+  let kept = quotations;
+  let built = buildSynthesisPrompt(question, kept);
+  const size = () => estimateTokens(built.system + built.prompt);
+  while (size() > budget && quoteChars > 160) {
+    quoteChars -= 80;
+    kept = quotations.map((q) => ({ ...q, quote: trimQuote(q.quote, quoteChars) }));
+    built = buildSynthesisPrompt(question, kept);
+  }
+  while (size() > budget && kept.length > 2) {
+    kept = kept.slice(0, -1);
+    built = buildSynthesisPrompt(question, kept);
+  }
+  const fitted = quoteChars < 480 || kept.length < quotations.length ? { quoteChars, dropped: quotations.length - kept.length } : null;
+  return { ...built, fitted };
+}
+
+/**
+ * Check the engine (the local daemon and model, or the cloud settings) and
+ * retrieval before any stream is opened, so failures arrive as ordinary HTTP
+ * errors with useful messages.
  */
 export async function prepareSynthesis(
   question: string,
   requestedModel: unknown,
   options: AskOptions = {},
 ): Promise<SynthesisPlan | SynthesisRefusal> {
-  const config = ollamaConfig();
-  if (!config.enabled) {
-    return {
-      error: true,
-      status: 409,
-      code: "ai_disabled",
-      message: "Local AI is switched off on this server. The retrieval answer above does not depend on it.",
-    };
-  }
-
-  const status = await ollamaStatus(config);
-  if (!status.available) {
-    return {
-      error: true,
-      status: 503,
-      code: "ai_unavailable",
-      message: status.error ?? "The local model server is not reachable.",
-    };
-  }
-
-  let model = config.model;
+  let model: string | null = null;
   if (requestedModel != null && requestedModel !== "") {
-    const clean = sanitizeModelName(requestedModel);
-    if (!clean) {
-      return { error: true, status: 400, code: "invalid_model", message: "That model name is not valid." };
-    }
-    model = clean;
+    model = sanitizeModelName(requestedModel);
+    if (!model) return { error: true, status: 400, code: "invalid_model", message: "That model name is not valid." };
   }
-  if (!isModelInstalled(status.models, model)) {
-    const installed = status.models.map((m) => m.name).slice(0, 4).join(", ");
-    return {
-      error: true,
-      status: 409,
-      code: "model_missing",
-      message: `The model ${model} is not installed. Run \`ollama pull ${model}\`${installed ? `, or choose one of: ${installed}` : ""}.`,
-    };
-  }
-
-  if (activeGenerations() >= config.concurrency) {
-    return {
-      error: true,
-      status: 429,
-      code: "ai_busy",
-      message: "The local model is already writing another answer. Wait for it to finish, or stop it first.",
-    };
-  }
+  const engine = await resolveEngine(model);
+  if (isProblem(engine)) return { error: true, ...engine };
 
   const scope = options.scope ?? {};
   const ctx = contextQuotation(options.context);
@@ -628,36 +618,39 @@ export async function prepareSynthesis(
       error: true,
       status: 422,
       code: "ungrounded",
-      message: "No indexed passage supports an answer to this question, so the local model is not asked to write one. Try a broader question or a keyword.",
+      message: "No indexed passage supports an answer to this question, so the model is not asked to write one. Try a broader question or a keyword.",
     };
   }
 
   const quotations = [...(ctx ? [ctx] : []), ...quotationsFor(unique)];
-  const { system, prompt, sources } = buildSynthesisPrompt(question, quotations);
+  const { system, prompt, sources, fitted } = fitSynthesisPrompt(question, quotations, promptBudget(engine, "synthesis"));
   // The same question asked about another passage, or in another scope, is a
-  // different answer.
-  const cacheKey = ctx || scope.work || scope.tradition
+  // different answer; so is one written by another engine.
+  const base = ctx || scope.work || scope.tradition
     ? `${question}\u0000${JSON.stringify({ scope, context: ctx ? [ctx.passageId, ctx.quote] : null })}`
     : question;
+  const cacheKey = engine.kind === "cloud" ? `${base}\u0000cloud:${engine.baseUrl}` : base;
   return {
     question,
     cacheKey,
-    model,
+    model: engine.model,
     system,
     prompt,
     sources,
-    cached: cachedSynthesis(model, cacheKey),
-    config,
+    cached: cachedSynthesis(engine.model, cacheKey),
+    engine,
+    fitted,
   };
 }
 
 /**
- * NDJSON stream: one JSON event per line. `meta`, then `delta`s, then either a
- * `done` event or an `error` event. Errors mid-stream keep the partial text.
+ * NDJSON stream: one JSON event per line. `meta`, then (if the model is busy)
+ * `queued`, then `delta`s, then either a `done` event or an `error` event.
+ * Errors mid-stream keep the partial text.
  */
 export function synthesisResponse(plan: SynthesisPlan, signal?: AbortSignal): Response {
   const encoder = new TextEncoder();
-  const config = plan.config;
+  const engine = plan.engine;
   const stream = new ReadableStream<Uint8Array>({
     async start(controller) {
       let open = true;
@@ -669,77 +662,69 @@ export function synthesisResponse(plan: SynthesisPlan, signal?: AbortSignal): Re
           open = false;
         }
       };
+      const close = () => {
+        if (!open) return;
+        open = false;
+        try {
+          controller.close();
+        } catch {}
+      };
 
-      const release = acquireGeneration(config.concurrency);
-      if (!release) {
-        send({
-          type: "error",
-          code: "ai_busy",
-          message: "The local model is already writing another answer. Wait for it to finish, or stop it first.",
-        });
-        controller.close();
+      send({
+        type: "meta",
+        model: plan.model,
+        provider: engine.kind,
+        providerLabel: engine.label,
+        sources: plan.sources,
+        cached: plan.cached !== null,
+        disclosure: synthesisDisclosure(engine),
+        fitted: plan.fitted ?? null,
+      });
+
+      if (plan.cached !== null) {
+        send({ type: "delta", text: plan.cached });
+        send({ type: "done", model: plan.model, ms: 0, chars: plan.cached.length, cached: true });
+        close();
+        return;
+      }
+
+      let release: (() => void) | null = null;
+      try {
+        release = await gateFor(engine).acquire(signal, (position) =>
+          send({ type: "queued", position, message: "The model is writing another answer; this one starts when it finishes." }),
+        );
+      } catch (err) {
+        if (err instanceof BusyError) send({ type: "error", code: "ai_busy", message: err.message });
+        close();
         return;
       }
 
       const started = Date.now();
-      send({
-        type: "meta",
-        model: plan.model,
-        sources: plan.sources,
-        cached: plan.cached !== null,
-        disclosure: localDisclosure(plan.model),
-      });
-
       try {
-        if (plan.cached !== null) {
-          send({ type: "delta", text: plan.cached });
-          send({ type: "done", model: plan.model, ms: 0, chars: plan.cached.length, cached: true });
-          return;
-        }
-
         let text = "";
-        for await (const event of generate(config, {
-          model: plan.model,
-          system: plan.system,
-          prompt: plan.prompt,
-          signal,
-        })) {
+        for await (const event of streamText(engine, { task: "synthesis", system: plan.system, prompt: plan.prompt, signal })) {
           if (event.type === "delta") {
             text += event.text;
             send({ type: "delta", text: event.text });
           } else if (event.type === "error") {
             send({ ...event, partial: text.length > 0 });
             return;
-          } else if (!text.trim()) {
-            send({ type: "error", code: "empty", message: "The model returned no text. Try again, or choose a different model." });
-            return;
-          } else {
+          } else if (event.type === "final") {
+            if (!text.trim()) {
+              send({ type: "error", code: "empty", message: "The model returned no text. Try again, or choose a different model." });
+              return;
+            }
             cacheSynthesis(plan.model, plan.cacheKey, text.trim());
-            send({
-              type: "done",
-              model: plan.model,
-              ms: Date.now() - started,
-              chars: text.length,
-              cached: false,
-              evalCount: event.evalCount,
-            });
+            send({ type: "done", model: plan.model, ms: Date.now() - started, chars: text.length, cached: false, evalCount: event.evalCount });
           }
         }
       } catch (err) {
         console.error("Synthesis stream failed:", err);
-        send({ type: "error", code: "internal", message: "The local model stream failed. The retrieval answer above is unaffected." });
+        send({ type: "error", code: "internal", message: "The model stream failed. The retrieval answer above is unaffected." });
       } finally {
-        release();
-        if (open) {
-          try {
-            controller.close();
-          } catch {}
-        }
+        release?.();
+        close();
       }
-    },
-    cancel() {
-      // The request signal is what cancels the upstream generation; Bun aborts
-      // it when the client disconnects, which stops the model writing.
     },
   });
 

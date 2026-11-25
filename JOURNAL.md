@@ -10,6 +10,87 @@ and where things stand (commits, branch, anything not pushed or not verified).
 
 ---
 
+## 2026-11-25 (afternoon): local-model hardening, AI translation, cloud providers (step 5)
+
+**Done**
+- **Engine layer** (`server/llm.ts`, adapted from Sefaria Lens's llm.js,
+  MIT). Synthesis and translation both go through it.
+  - **Gate:** one answer at a time locally, with a waiting queue
+    (`UWL_OLLAMA_QUEUE`, default 2). A waiting request gets a `queued` event;
+    beyond the queue it is refused (`ai_busy`). Cancelling leaves the queue.
+  - **Task ceilings:** synthesis uses `numPredict`; translation uses 900
+    tokens locally and 2000 in the cloud.
+  - **Fixed context:** every local request uses the same `num_ctx`.
+  - **Prompt fitting:** excerpts are shortened, then the last ones dropped,
+    to fit the window. The answer says so.
+  - **JSON:** a schema is passed to Ollama's `format`, JSON mode to cloud
+    services, and the reply is parsed tolerantly.
+  - **Sharing:** identical JSON requests in flight are shared.
+  - **Memory:** `/api/ai/engine` lists loaded models (`/api/ps`);
+    `/api/ai/free` unloads them.
+- **Cloud providers** (`server/ai-settings.ts`), opt-in.
+  - Presets for OpenAI, OpenRouter, Groq, or any OpenAI-compatible address.
+  - Settings live in `data/ai-settings.json` (git-ignored, mode 0600).
+    `UWL_AI_*` variables override them.
+  - The key is never returned to a browser, only `…last4`.
+  - Plain http is allowed only to this machine.
+  - Changes are allowed only over loopback (the desktop app) or by an admin
+    (`isLoopbackRequest` in util.ts uses the real peer address and refuses
+    forwarded requests).
+  - Every generated text names the service it came from. Before passages are
+    sent to a cloud service for translation, the reader is asked.
+  - The assistant page has an "AI settings" panel: local/cloud, service,
+    address, model, key, "In memory now" and "Free memory now". Its labels
+    switch to "Cloud model" when cloud is chosen.
+- **AI translation on request** (`server/translate.ts`, `POST /api/translate`,
+  `client/ai-translation.tsx`).
+  - Offered on chapters with no English edition, as a "Translate with AI"
+    button that translates the rows shown (up to 40 at a time).
+  - The server reads the text itself.
+  - Requests are batched to fit the output ceiling (four passages per
+    request locally); long passages are split at sentence boundaries.
+  - A passage the model missed gets one retry on its own. An answer still
+    mostly in the source script is rejected.
+  - Passages over 8,000 characters are refused locally, with a message
+    pointing to a cloud model.
+  - Results stream into an "AI translation" column, each row tagged "AI",
+    with a disclosure bar, progress, Stop, failures with "Try again", and
+    "Translate the N not yet translated".
+  - Translations are held in server memory and in the tab only: never stored,
+    searched or quoted.
+- Fixed in passing: radio buttons took the site-wide full-width input style.
+- Tests: `tests/llm.test.ts` (gate, JSON, batching, settings privacy and file
+  mode, http refusal, copy rejection, loopback rule). `tests/ollama.test.ts`
+  was updated for queueing. 299 pass; tsc clean.
+- Checked with the real `qwen2.5:3b` on the GTX 1060:
+  - Midrash Pinchas ch. 10 translated in the browser: 15 of 16 in about 53
+    s, the 16th reported for retry.
+  - Local and "cloud" synthesis. The cloud path was exercised against
+    Ollama's own OpenAI-compatible `/v1` endpoint, set through environment
+    variables with a placeholder key, so no real key was used and nothing
+    was saved.
+  - The settings panel; "Free memory now" unloaded the model.
+  No console errors.
+
+**Decided**
+- AI translation is rows view only; it is not offered on the passage page or
+  in the continuous view.
+- If no model was chosen and the default (`llama3.1:8b`) is absent, the first
+  installed model is used rather than refusing.
+
+**Open**
+- No real cloud provider has been tried (no key here). The code path is the
+  same OpenAI-compatible one tested against Ollama.
+- The translation's quality with a 3B model is rough; a larger local model or
+  a cloud one does better.
+- The translation holds the gate for its whole run, so a synthesis asked
+  meanwhile waits.
+
+**State**: committed and pushed to `origin/main` with this entry. Not in a
+release yet (the latest is v0.3.0).
+
+---
+
 ## 2026-11-25 (midday): release v0.3.0
 
 **Done**

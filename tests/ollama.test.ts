@@ -12,6 +12,7 @@ import {
   sanitizeModelName,
 } from "../server/ollama";
 import { buildSynthesisPrompt, synthesisResponse } from "../server/assistant";
+import { resetGates } from "../server/llm";
 import { citationNumbers } from "../client/ai";
 import type { SynthesisPlan } from "../server/assistant";
 
@@ -358,7 +359,7 @@ describe("synthesis event stream", () => {
         },
       ],
       cached,
-      config,
+      engine: { kind: "local", config, model: "llama3.1:8b", label: "Ollama on this computer" },
     };
   }
 
@@ -418,20 +419,42 @@ describe("synthesis event stream", () => {
     expect(cachedSynthesis("llama3.1:8b", "What is duty?")).toBeNull();
   });
 
-  test("a busy machine refuses rather than starting a second generation", async () => {
-    clearSynthesisCache();
-    const url = startFake({
-      generate: () =>
-        new Response(new ReadableStream({ start: () => {} }), {
-          headers: { "content-type": "application/x-ndjson" },
-        }),
+  const hanging = () =>
+    new Response(new ReadableStream({ start: () => {} }), {
+      headers: { "content-type": "application/x-ndjson" },
     });
-    const config = baseConfig(url, { UWL_OLLAMA_CONCURRENCY: "1" });
-    const first = synthesisResponse({ ...planFor(url), config });
+  const withConfig = (url: string, env: Record<string, string>) => {
+    const plan = planFor(url);
+    return { ...plan, engine: { ...plan.engine, config: baseConfig(url, env) } as SynthesisPlan["engine"] };
+  };
+
+  test("a second request waits its turn and is told so", async () => {
+    clearSynthesisCache();
+    resetGates();
+    const url = startFake({ generate: hanging });
+    const env = { UWL_OLLAMA_CONCURRENCY: "1", UWL_OLLAMA_QUEUE: "1" };
+    const first = synthesisResponse(withConfig(url, env)).body!.getReader();
+    await first.read();
+    const controller = new AbortController();
+    const second = synthesisResponse(withConfig(url, env), controller.signal).body!.getReader();
+    const meta = JSON.parse(new TextDecoder().decode((await second.read()).value));
+    const queued = JSON.parse(new TextDecoder().decode((await second.read()).value));
+    expect(meta.type).toBe("meta");
+    expect(queued).toMatchObject({ type: "queued", position: 1 });
+    controller.abort();
+    await first.cancel();
+  });
+
+  test("beyond the queue a request is refused rather than piling up", async () => {
+    clearSynthesisCache();
+    resetGates();
+    const url = startFake({ generate: hanging });
+    const env = { UWL_OLLAMA_CONCURRENCY: "1", UWL_OLLAMA_QUEUE: "0" };
+    const first = synthesisResponse(withConfig(url, env));
     // Consume the first stream only enough to hold the slot.
     const reader = first.body!.getReader();
     await reader.read();
-    const events = await readEvents(synthesisResponse({ ...planFor(url), config }));
+    const events = await readEvents(synthesisResponse(withConfig(url, env)));
     expect(events.at(-1)).toMatchObject({ type: "error", code: "ai_busy" });
     await reader.cancel();
   });

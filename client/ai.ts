@@ -33,7 +33,17 @@ export type SynthesisSource = {
 };
 
 export type SynthesisEvent =
-  | { type: "meta"; model: string; sources: SynthesisSource[]; cached: boolean; disclosure: string }
+  | {
+      type: "meta";
+      model: string;
+      provider?: "local" | "cloud";
+      providerLabel?: string;
+      sources: SynthesisSource[];
+      cached: boolean;
+      disclosure: string;
+      fitted?: { quoteChars: number; dropped: number } | null;
+    }
+  | { type: "queued"; position: number; message: string }
   | { type: "delta"; text: string }
   | { type: "done"; model: string; ms: number; chars: number; cached: boolean; evalCount?: number }
   | { type: "error"; code: string; message: string; partial?: boolean };

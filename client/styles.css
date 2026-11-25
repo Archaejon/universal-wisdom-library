@@ -295,7 +295,7 @@ mark { background: var(--warn-soft); color: inherit; padding: 0 0.12em; border-r
 .field { display: grid; gap: 6px; margin-bottom: 14px; }
 .field > span { font-size: 0.76rem; font-weight: 650; letter-spacing: 0.04em; text-transform: uppercase; color: var(--muted); }
 .field small { text-transform: none; letter-spacing: 0; font-weight: 400; color: var(--faint); }
-input:not([type="checkbox"]):not([type="range"]), select, textarea {
+input:not([type="checkbox"]):not([type="range"]):not([type="radio"]), select, textarea {
   width: 100%; background: var(--paper); border: 1px solid var(--rule-strong); border-radius: var(--radius);
   padding: 9px 11px; font-size: 0.92rem; color: var(--ink); transition: border-color 0.15s, box-shadow 0.15s;
 }
@@ -1306,3 +1306,32 @@ select { appearance: none; background-image: linear-gradient(45deg, transparent 
 .lexicon-senses { margin: 4px 0 6px; padding-inline-start: 18px; font-size: 0.88rem; line-height: 1.5; color: var(--ink-soft); }
 .lexicon-senses li { margin: 2px 0; overflow-wrap: anywhere; }
 @media print { .verse-text .w:hover { background: none; } }
+
+/* AI translation: always marked, never mistaken for an edition. */
+.ai-tag {
+  display: inline-block; font-family: var(--font-sans); font-style: normal; font-size: 0.58rem; font-weight: 700;
+  letter-spacing: 0.08em; line-height: 1; padding: 3px 4px; border-radius: 4px; vertical-align: 0.2em;
+  color: var(--blue); border: 1px solid color-mix(in srgb, var(--blue) 45%, var(--rule)); background: var(--blue-soft);
+}
+.verse-text.ai-text { color: var(--ink-soft); font-style: italic; }
+.verse-cell.ai { border-inline-start: 2px dotted color-mix(in srgb, var(--blue) 40%, var(--rule)); padding-inline-start: 10px; }
+.ai-translation-status {
+  margin: 0 0 12px; padding: 10px 14px; border: 1px solid color-mix(in srgb, var(--blue) 30%, var(--rule));
+  border-radius: var(--radius); background: color-mix(in srgb, var(--blue-soft) 50%, transparent); font-size: 0.82rem;
+}
+.ai-translation-status p { margin: 0; }
+.ai-translation-status p + p { margin-top: 6px; }
+
+/* AI settings on the assistant page. */
+.ai-settings-details { margin-top: 12px; border-top: 1px solid var(--rule); padding-top: 10px; }
+.ai-settings-details > summary { cursor: pointer; font-size: 0.82rem; color: var(--muted); }
+.ai-settings { margin-top: 10px; display: grid; gap: 10px; }
+.ai-settings fieldset { border: 0; padding: 0; margin: 0; display: grid; gap: 8px; min-width: 0; }
+.ai-choice { display: flex; gap: 10px; align-items: flex-start; padding: 8px 10px; border: 1px solid var(--rule); border-radius: var(--radius); font-size: 0.82rem; color: var(--ink-soft); cursor: pointer; }
+.ai-choice.on { border-color: var(--accent); background: var(--accent-soft); }
+.ai-choice input { margin-top: 3px; width: auto; flex: none; }
+.ai-cloud { display: grid; gap: 8px; padding: 4px 0 0; }
+.ai-cloud .field { max-width: 520px; }
+.ai-warning { margin: 0; font-size: 0.8rem; color: var(--warn); }
+.ai-loaded h4 { margin: 6px 0 4px; font-size: 0.72rem; letter-spacing: 0.12em; text-transform: uppercase; color: var(--faint); }
+.ai-loaded ul { margin: 0 0 6px; padding-inline-start: 18px; font-size: 0.82rem; }

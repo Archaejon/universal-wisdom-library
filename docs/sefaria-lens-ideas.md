@@ -113,6 +113,11 @@ a top navigation bar and full-width pages.
    Sefaria's lexicons. Other languages' dictionaries are still to come.
 5. **Local-model hardening**, then **on-demand AI translation**, then optional
    cloud providers. *About 4–5 days.*
+   **Done 25 November 2026** (`server/llm.ts`, `server/translate.ts`,
+   `server/ai-settings.ts`): the gate and queue, task ceilings, prompt
+   fitting, JSON output, loaded models and freeing memory; AI translation of
+   chapters with no English, labelled and never stored; and opt-in cloud
+   services with the key kept on this computer.
 
 Each step ships on its own; step 1 changes how every other feature is placed,
 so it goes first.

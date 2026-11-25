@@ -9,6 +9,7 @@ import { VerseCommentaries } from "../commentaries";
 import { SelectionToolbar } from "../selection";
 import { divineNameFor, transliterateText } from "../translit";
 import { HebrewWords, TranslitLine, TranslitSwitch, WordStudy, translitFor, useTranslit } from "../translit/reader";
+import { AiTranslationStatus, useAiTranslation } from "../ai-translation";
 import {
   Badge, CopyButton, EditionSourceLine, ErrorState, Icon, Loading, Modal, SampleBadge, useToast,
 } from "../components";
@@ -623,6 +624,33 @@ function ChapterView({ slug, data, versionParam }: { slug: string; data: any; ve
   const tlInfo = translitFor(tlEdition, tlSample);
   const divineName = divineNameFor(data.work);
   const tlSide = canSplit ? "original" : columns[0]?.side;
+
+  // A chapter with no English edition can be translated by a model, on
+  // request. It shows as its own column, labelled on every row, and is never
+  // an edition.
+  const needsAi = !canSplit && !!single && single.language?.code !== "en";
+  const ai = useAiTranslation(slug, data.chapter.ref, versionParam);
+  const aiColumn: Column | null =
+    needsAi && ai.state.texts.size > 0
+      ? {
+          side: "translation",
+          kind: "AI translation",
+          main: {
+            slug: "ai",
+            language: { name: "English", code: "en" },
+            title: ai.state.meta?.model ?? "a language model",
+            source: { name: ai.state.meta?.providerLabel ?? "" },
+            license: { name: "not an edition; not stored" },
+          },
+          text: (p: any) =>
+            ai.state.texts.has(p.reference)
+              ? { slug: "ai", ai: true, text: ai.state.texts.get(p.reference), language: { code: "en", direction: "ltr", name: "English" } }
+              : ai.state.failed.has(p.reference)
+                ? { slug: "ai", ai: true, failed: ai.state.failed.get(p.reference), text: "" }
+                : null,
+        }
+      : null;
+  const shownColumns = aiColumn ? [aiColumn, ...columns] : columns;
   const studyWord = (word: string) =>
     studyPanel.open({
       key: `word:${word}`,
@@ -660,6 +688,22 @@ function ChapterView({ slug, data, versionParam }: { slug: string; data: any; ve
     const lang = text.language?.code;
     const hebrew = lang === "he" || lang === "arc";
     const withTranslit = tlInfo && translit.on && side === tlSide && lang === tlInfo.lang;
+    if (text.ai && text.failed) {
+      return (
+        <div className={`verse-cell ${side} ai`}>
+          <p className="muted small">Not translated: {text.failed}</p>
+        </div>
+      );
+    }
+    if (text.ai) {
+      return (
+        <div className={`verse-cell ${side} ai`}>
+          <p className="verse-text ai-text" lang="en">
+            <span className="ai-tag" title="AI translation: written by a model on request, not an edition">AI</span> {text.text}
+          </p>
+        </div>
+      );
+    }
     return (
       <div className={`verse-cell ${side}`}>
         <p className={rtl ? "verse-text rtl" : "verse-text"} dir={rtl ? "rtl" : "ltr"} lang={lang}>
@@ -687,6 +731,20 @@ function ChapterView({ slug, data, versionParam }: { slug: string; data: any; ve
           <>
             {canSplit && <LayerSwitches layers={layers} toggle={toggle} originalLabel={originalLabel} />}
             {tlInfo && (canSplit ? showOriginal : true) && <TranslitSwitch info={tlInfo} translit={translit} />}
+            {needsAi && (
+              <button
+                className={ai.state.texts.size ? "button small" : "button small"}
+                disabled={ai.state.status === "running"}
+                title="Ask a language model for an English translation of the passages shown. It is labelled as AI, kept only in this tab, and never stored as an edition."
+                onClick={() => {
+                  if (layout !== "cards") chooseLayout("cards");
+                  void ai.start(visible.map((p: any) => p.reference));
+                }}
+              >
+                <Icon name="chat" size={14} />
+                <span className="tool-label">{ai.state.status === "running" ? "Translating…" : ai.state.texts.size ? "AI translation" : "Translate with AI"}</span>
+              </button>
+            )}
             {canSplit && showTranslation && translations.length > 1 && (
               <label className="reader-field">
                 <span>Translation</span>
@@ -750,10 +808,18 @@ function ChapterView({ slug, data, versionParam }: { slug: string; data: any; ve
           />
         ) : (
           <>
-            <div className={columns.length === 2 ? "verse-rows two" : "verse-rows"}>
+            {needsAi && (ai.state.status !== "idle" || ai.state.texts.size > 0) && (
+              <AiTranslationStatus
+                state={ai.state}
+                visible={visible.map((p: any) => p.reference)}
+                onTranslate={ai.start}
+                onStop={ai.stop}
+              />
+            )}
+            <div className={shownColumns.length === 2 ? "verse-rows two" : "verse-rows"}>
               <div className="verse-row head">
                 <span />
-                {columns.map((c) => <Fragment key={c.side}>{editionHead(c.main, c.kind)}</Fragment>)}
+                {shownColumns.map((c) => <Fragment key={c.kind}>{editionHead(c.main, c.kind)}</Fragment>)}
               </div>
               {visible.map((p: any) => {
                 const key = `${slug}:${p.reference}`;
@@ -762,7 +828,7 @@ function ChapterView({ slug, data, versionParam }: { slug: string; data: any; ve
                     <button className="verse-num" onClick={() => study(p)} title={`${p.label}: editions, commentary and connections`} aria-label={`Study ${p.label}`}>
                       {flowMarker(p)}
                     </button>
-                    {columns.map((c) => <Fragment key={c.side}>{rowText(c.text(p), c.main, c.side)}</Fragment>)}
+                    {shownColumns.map((c) => <Fragment key={c.kind}>{rowText(c.text(p), c.main, c.side)}</Fragment>)}
                   </article>
                 );
               })}

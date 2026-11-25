@@ -19,6 +19,8 @@ export type OllamaConfig = {
   temperature: number;
   keepAlive: string;
   concurrency: number;
+  /** Requests that may wait for the model; more than this are refused. */
+  queue: number;
 };
 
 export type OllamaOptions = { numCtx?: number; numPredict?: number; temperature?: number };
@@ -63,6 +65,7 @@ export function ollamaConfig(env: Record<string, string | undefined> = process.e
     temperature: readFloat(env.UWL_OLLAMA_TEMPERATURE, 0.2, 0, 2),
     keepAlive: env.UWL_OLLAMA_KEEP_ALIVE?.trim() || "5m",
     concurrency: readInt(env.UWL_OLLAMA_CONCURRENCY, 1, 1, 4),
+    queue: readInt(env.UWL_OLLAMA_QUEUE, 2, 0, 10),
   };
 }
 
@@ -292,6 +295,8 @@ export type GenerateRequest = {
   prompt: string;
   signal?: AbortSignal;
   options?: OllamaOptions;
+  /** A JSON schema the answer must follow (Ollama's structured output). */
+  format?: Record<string, unknown>;
 };
 
 /**
@@ -321,6 +326,7 @@ export async function* generate(config: OllamaConfig, req: GenerateRequest): Asy
           prompt: req.prompt,
           stream: true,
           keep_alive: config.keepAlive,
+          ...(req.format ? { format: req.format } : {}),
           options: {
             num_ctx: req.options?.numCtx ?? config.numCtx,
             num_predict: req.options?.numPredict ?? config.numPredict,

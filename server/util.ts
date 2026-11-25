@@ -102,3 +102,15 @@ export function sameOrigin(req: Request): boolean {
     return false;
   }
 }
+
+/**
+ * True when the request came straight from this machine: the connection's own
+ * address is loopback and no proxy says it is forwarding someone else. Used to
+ * let the person sitting at the desktop app change machine-wide settings.
+ */
+export function isLoopbackRequest(req: Request): boolean {
+  const peer = peerAddresses.get(req);
+  if (!peer) return false;
+  const loopback = peer === "127.0.0.1" || peer === "::1" || peer === "::ffff:127.0.0.1";
+  return loopback && !req.headers.get("x-forwarded-for") && !req.headers.get("forwarded");
+}

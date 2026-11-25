@@ -3,6 +3,7 @@ import { Link } from "../router";
 import { api } from "../api";
 import { Badge, CopyButton, ErrorState, Icon, PageIntro } from "../components";
 import { clearAskContext, loadAskContext, type AskContextDraft } from "../selection";
+import { AiSettingsPanel, useAiSettings } from "../ai-settings";
 import {
   checkEngine,
   citationNumbers,
@@ -142,13 +143,16 @@ export function AssistantPage() {
     }
   };
 
+  const { settings: aiSettings, setSettings: setAiSettings } = useAiSettings();
+  const cloud = aiSettings?.provider === "cloud";
+
   const toggleAi = () => {
     if (ai.enabled) {
       setAi({ ...ai, enabled: false });
-      void releaseModel(ai.model);
+      if (!cloud) void releaseModel(ai.model);
     } else {
       setAi({ ...ai, enabled: true });
-      void check(false);
+      if (!cloud) void check(false);
     }
   };
 
@@ -160,7 +164,7 @@ export function AssistantPage() {
         lede="Answers are retrieved from the indexed passages and cited by edition. A local model can optionally write the synthesis from those same passages — on your machine, only when you ask, and off by default."
       >
         <div className="assistant-disclosure">
-          <Badge tone="warn">Retrieval first, no external AI</Badge>
+          <Badge tone="warn">{cloud ? "Retrieval first; cloud AI only when you turn it on" : "Retrieval first, no external AI"}</Badge>
           <p>
             The retrieval engine quotes passages with their edition and labels its own synthesis as interpretation.
             Local generation is optional, never required, and cannot answer beyond the retrieved excerpts.
@@ -169,18 +173,29 @@ export function AssistantPage() {
 
         <div className="assistant-local">
           <div className="assistant-local-head">
-            <Badge tone={ai.enabled ? "accent" : "muted"}>{ai.enabled ? "Local model on" : "Local model off"}</Badge>
-            <p>
-              Optional. A model served by Ollama on this computer can write the synthesis from the retrieved excerpts.
-              Nothing is generated until you ask, no model is downloaded automatically, and ordinary answers never wait for it.
-            </p>
+            <Badge tone={ai.enabled ? "accent" : "muted"}>
+              {cloud ? (ai.enabled ? "Cloud model on" : "Cloud model off") : ai.enabled ? "Local model on" : "Local model off"}
+            </Badge>
+            {cloud ? (
+              <p>
+                Optional. {aiSettings?.model} at {aiSettings?.providerLabel} can write the synthesis from the retrieved excerpts.
+                When it is on, the question and those excerpts are sent to {aiSettings?.providerLabel}. Nothing is sent until you ask.
+              </p>
+            ) : (
+              <p>
+                Optional. A model served by Ollama on this computer can write the synthesis from the retrieved excerpts.
+                Nothing is generated until you ask, no model is downloaded automatically, and ordinary answers never wait for it.
+              </p>
+            )}
           </div>
           <div className="assistant-local-actions">
-            <button className="button small" onClick={toggleAi}>{ai.enabled ? "Turn off" : "Use local model"}</button>
-            <button className="button ghost small" onClick={() => check(true)} disabled={engineBusy}>
-              {engineBusy ? "Checking…" : engine ? "Check again" : "Check model"}
-            </button>
-            {ai.enabled && engine?.available && engine.models.length > 1 && (
+            <button className="button small" onClick={toggleAi}>{ai.enabled ? "Turn off" : cloud ? "Use cloud model" : "Use local model"}</button>
+            {!cloud && (
+              <button className="button ghost small" onClick={() => check(true)} disabled={engineBusy}>
+                {engineBusy ? "Checking…" : engine ? "Check again" : "Check model"}
+              </button>
+            )}
+            {!cloud && ai.enabled && engine?.available && engine.models.length > 1 && (
               <label className="assistant-local-model">
                 <span>Model</span>
                 <select
@@ -197,20 +212,33 @@ export function AssistantPage() {
             )}
           </div>
           {engineError && <p className="assistant-local-note error-note">{engineError}</p>}
-          {engine && !engine.available && (
+          {!cloud && engine && !engine.available && (
             <p className="assistant-local-note">
               {engine.error} The retrieval answer still works; only the generated synthesis is unavailable.
             </p>
           )}
-          {engine?.available && !engine.modelInstalled && (
+          {!cloud && engine?.available && !engine.modelInstalled && (
             <p className="assistant-local-note">
               No model matching the server default is installed. Choose one below, or run <code>ollama pull {engine.model}</code>.
             </p>
           )}
-          {engine?.available && (
+          {!cloud && engine?.available && (
             <p className="assistant-local-note">
               {engine.models.length} model{engine.models.length === 1 ? "" : "s"} installed · {engine.baseUrl} · {engine.settings.numCtx}-token context, {engine.settings.numPredict}-token answer limit · unloads after {engine.settings.keepAlive} idle. Turning this off releases it from memory.
             </p>
+          )}
+          {aiSettings && (
+            <details className="ai-settings-details">
+              <summary>AI settings: which model writes{aiSettings.provider === "cloud" ? ` (${aiSettings.providerLabel})` : " (this computer)"}</summary>
+              <AiSettingsPanel
+                key={`${aiSettings.provider}:${aiSettings.preset}:${aiSettings.hasKey}`}
+                settings={aiSettings}
+                onSaved={(next) => {
+                  setAiSettings(next);
+                  setEngine(null);
+                }}
+              />
+            </details>
           )}
         </div>
       </PageIntro>
@@ -337,6 +365,8 @@ type Generation = {
   model?: string;
   ms?: number;
   cached?: boolean;
+  queued?: string;
+  fitted?: { quoteChars: number; dropped: number } | null;
 };
 
 function AnswerBlock({ entry, ai, onEngineIssue }: { entry: HistoryEntry; ai: AiPrefs; onEngineIssue: () => void }) {
@@ -359,9 +389,11 @@ function AnswerBlock({ entry, ai, onEngineIssue }: { entry: HistoryEntry; ai: Ai
       onEvent: (event) => {
         if (controller.signal.aborted) return;
         if (event.type === "meta") {
-          setGen((g) => ({ ...g, sources: event.sources, disclosure: event.disclosure, model: event.model }));
+          setGen((g) => ({ ...g, sources: event.sources, disclosure: event.disclosure, model: event.model, fitted: event.fitted ?? null }));
+        } else if (event.type === "queued") {
+          setGen((g) => ({ ...g, queued: event.message }));
         } else if (event.type === "delta") {
-          setGen((g) => ({ ...g, text: g.text + event.text }));
+          setGen((g) => ({ ...g, queued: undefined, text: g.text + event.text }));
         } else if (event.type === "done") {
           setGen((g) => ({ ...g, status: "done", ms: event.ms, cached: event.cached, model: event.model }));
         } else if (event.type === "error") {
@@ -569,7 +601,7 @@ function ModelSynthesis({
 
       {streaming && (
         <div className="model-status">
-          {gen.text ? <span className="muted small">{gen.model ?? "Local model"} is writing…</span> : (
+          {gen.queued && !gen.text ? <span className="muted small">{gen.queued}</span> : gen.text ? <span className="muted small">{gen.model ?? "Local model"} is writing…</span> : (
             <span className="muted small">
               {sourceCount} passages retrieved. Writing from them now — the first answer may wait while the model loads into memory.
             </span>
@@ -578,6 +610,11 @@ function ModelSynthesis({
         </div>
       )}
 
+      {gen.fitted && (
+        <p className="muted small">
+          The excerpts were shortened{gen.fitted.dropped ? ` and the last ${gen.fitted.dropped} left out` : ""} to fit the model's context window.
+        </p>
+      )}
       {gen.status === "done" && (
         <p className="model-foot">
           {gen.cached ? "Repeated from this session's cache · " : ""}

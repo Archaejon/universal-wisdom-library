@@ -1,6 +1,6 @@
 import { clearSessionCookie, createSession, destroySession, getUser, hashPassword, publicUser, requireAdmin, requireEditor, requireUser, sessionCookie, verifyPassword } from "./auth";
 import type { User } from "./auth";
-import { fail, isEmail, json, rateLimit, sameOrigin, safeText, clientIp } from "./util";
+import { fail, isEmail, isLoopbackRequest, json, rateLimit, sameOrigin, safeText, clientIp } from "./util";
 import { getBrowse, getHome, getProvenance, getProvenanceEditions, getSiteInfo, getTheme, getThemes, getTraditions, getWork, listWorks, facets, workOptions, getCuratedCollections } from "./library";
 import { getCompare, getReader } from "./reader";
 import { listCommentaries, readCommentary } from "./commentary";
@@ -8,7 +8,10 @@ import { lookupWord } from "./words";
 import { search, searchLive } from "./search";
 import { listAcquisitionTargets } from "./acquisition";
 import { ask, prepareSynthesis, releaseAssistantModel, synthesisResponse, type AskOptions } from "./assistant";
-import { ollamaConfig, ollamaStatus } from "./ollama";
+import { ollamaConfig, ollamaStatus, sanitizeModelName } from "./ollama";
+import { publicSettings, saveAiSettings } from "./ai-settings";
+import { engineOverview, freeMemory } from "./llm";
+import { translateResponse } from "./translate";
 import {
   addCollectionItem,
   createCollection,
@@ -110,6 +113,15 @@ function askOptions(body: Record<string, any>): AskOptions {
       ? { work: slug(c.work)!, reference: safeText(c.reference, 40), selection: safeText(c.selection, 600) }
       : null;
   return { scope, context };
+}
+
+/**
+ * Who may change the machine-wide AI settings: the person at this computer
+ * (the desktop app, reached over loopback), or an administrator.
+ */
+function canEditAiSettings(req: Request): boolean {
+  if (isLoopbackRequest(req)) return true;
+  return getUser(req)?.role === "admin";
 }
 
 async function route(req: Request, url: URL, path: string, method: string): Promise<Response> {
@@ -577,6 +589,42 @@ async function route(req: Request, url: URL, path: string, method: string): Prom
     const plan = await prepareSynthesis(question, body.model, askOptions(body));
     if ("error" in plan) return fail(plan.message, plan.status, plan.code);
     return synthesisResponse(plan, req.signal);
+  }
+
+  if (path === "/api/ai/settings" && method === "GET") {
+    return json({ ...publicSettings(), canEdit: canEditAiSettings(req) });
+  }
+
+  if (path === "/api/ai/settings" && method === "POST") {
+    if (!canEditAiSettings(req)) return fail("Only someone at this computer, or an administrator, can change the AI settings.", 403, "forbidden");
+    const body = await readBody(req);
+    const result = saveAiSettings(body);
+    if (!result.ok) return fail(result.message, 400, "invalid_settings");
+    return json({ ...publicSettings(), canEdit: true });
+  }
+
+  if (path === "/api/ai/engine" && method === "GET") {
+    return json(await engineOverview());
+  }
+
+  if (path === "/api/ai/free" && method === "POST") {
+    return json(await freeMemory());
+  }
+
+  if (path === "/api/translate" && method === "POST") {
+    const user = getUser(req);
+    if (!rateLimit(`translate:${user?.id ?? clientIp(req)}`, 20, 60_000)) {
+      return fail("Too many translation requests. Try again in a minute.", 429, "rate_limited");
+    }
+    const body = await readBody(req);
+    const work = safeText(body.work, 160);
+    const chapter = safeText(body.chapter, 60);
+    const references = Array.isArray(body.references) ? body.references.map((r: unknown) => safeText(r, 60)).filter(Boolean) : [];
+    if (!work || !chapter || !references.length) return fail("Name the work, the chapter and the passages to translate.", 400, "bad_request");
+    return translateResponse(
+      { work, chapter, references, edition: safeText(body.edition, 160) || null, model: sanitizeModelName(body.model) },
+      req.signal,
+    );
   }
 
   if (path === "/api/assistant/release" && method === "POST") {
