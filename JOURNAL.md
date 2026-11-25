@@ -10,6 +10,46 @@ and where things stand (commits, branch, anything not pushed or not verified).
 
 ---
 
+## 2026-11-25 (midday): release v0.3.0
+
+**Done**
+- Version 0.3.0 (`package.json`). It has a "What's new" section at the top
+  of `.github/release-notes.md` covering:
+  - the layout;
+  - verse commentaries;
+  - selection toolbar, Ask and tiered sources;
+  - transliteration and word study.
+  The notes say that commentaries and dictionary entries need a connection,
+  and that an installed library is kept.
+- CI passed on `44e20de`. Tag `v0.3.0` was pushed, and the Release
+  workflow succeeded. The published release
+  (https://github.com/Archaejon/universal-wisdom-library/releases/tag/v0.3.0)
+  has all eight files:
+  - Windows setup;
+  - macOS arm64/x64 dmg;
+  - Linux x64/arm64 tar.gz;
+  - library manifest and two zstd parts (1.9 GB + 1.09 GB).
+- Smoke test of the released Linux x64 build. It ran in the scratchpad with
+  its own UWL_HOME and XDG_DATA_HOME, so the real install and menu entry
+  were untouched, and the dev DB was linked in with a 0.2.1 marker. It:
+  - said it was keeping the 0.2.1 library;
+  - answered `/api/health`, Barnes on John 3:16, word study for ברא, and
+    Ask with a John 1:1 selection;
+  - served the new sidebar, rows, transliteration switch and clickable
+    Hebrew words, with no console errors.
+  It was stopped by its recorded pid and the download removed.
+
+**Noted**
+- The sidebar's "0.9.0" is the catalogue's `corpusVersion`
+  (`data/corpus/meta.json`), not the app version. It may be worth labelling
+  it.
+- The actions still warn about Node 20 (upload/download-artifact@v5).
+- The Windows and macOS installers are still untested on real machines.
+
+**State**: `main` and tag `v0.3.0` pushed; this entry committed and pushed.
+
+---
+
 ## 2026-11-25 (late): word study and transliteration (step 4)
 
 **Done**
